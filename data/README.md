@@ -1,12 +1,12 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Mon Sep 22 20:49:36 UTC 2025
+Last updated: Mon Sep 22 21:13:15 UTC 2025
 
-Workflow run: #20
+Workflow run: #21
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-22T20:49:35.388828
+Extracted at: 2025-09-22T21:13:14.694187
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -22,8 +22,8 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: Italian Serie A - Napoli Vs Pisa (09/23/25)
-Time: 02:45AM
-Date: 09/23/25
+EVENT: Ballon D'Or Award Ceremony - Ballon D'Or Award Ceremony / Gala Balón De Oro
+Time: 03:00AM
+Date: None
 Category: None
 ```
