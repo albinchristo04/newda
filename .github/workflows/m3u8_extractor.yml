@@ -1,0 +1,118 @@
+name: M3U8 URL and Events Extractor
+
+on:
+  schedule:
+    # Run every 15 minutes
+    - cron: '*/15 * * * *'
+  
+  # Allow manual triggering
+  workflow_dispatch:
+  
+  # Run on push to main branch (for testing)
+  push:
+    branches: [ main ]
+
+jobs:
+  extract-m3u8:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+        
+    - name: Run M3U8 extractor
+      run: |
+        python m3u8_extractor.py
+        
+    - name: List generated files
+      run: |
+        ls -la output/
+        
+    - name: Upload extraction results
+      uses: actions/upload-artifact@v3
+      with:
+        name: m3u8-extraction-${{ github.run_number }}
+        path: output/
+        retention-days: 7
+        
+    - name: Commit and push results (optional)
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # Create a data directory if it doesn't exist
+        mkdir -p data/extractions
+        
+        # Copy latest results to data directory
+        cp output/*.json data/extractions/ 2>/dev/null || true
+        cp output/*.txt data/extractions/ 2>/dev/null || true
+        
+        # Create a summary file with latest extraction info
+        echo "# Latest M3U8 Extraction Results" > data/README.md
+        echo "" >> data/README.md
+        echo "Last updated: $(date -u)" >> data/README.md
+        echo "" >> data/README.md
+        
+        if [ -f "output/urls_$(date +%Y%m%d_*)*.txt" ]; then
+          echo "## Latest URLs:" >> data/README.md
+          echo "\`\`\`" >> data/README.md
+          cat output/urls_* | head -20 >> data/README.md 2>/dev/null || true
+          echo "\`\`\`" >> data/README.md
+        fi
+        
+        # Add and commit if there are changes
+        git add data/
+        if ! git diff --staged --quiet; then
+          git commit -m "Update M3U8 extraction results - $(date -u)"
+          git push
+        else
+          echo "No changes to commit"
+        fi
+
+  # Optional: Create a summary job that runs after extraction
+  create-summary:
+    needs: extract-m3u8
+    runs-on: ubuntu-latest
+    if: always()
+    
+    steps:
+    - name: Download extraction artifacts
+      uses: actions/download-artifact@v3
+      with:
+        name: m3u8-extraction-${{ github.run_number }}
+        path: ./results
+        
+    - name: Create summary
+      run: |
+        echo "## M3U8 Extraction Summary" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "**Extraction Time:** $(date -u)" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        
+        if [ -f "results/playlist_*.json" ]; then
+          echo "**Files Generated:**" >> $GITHUB_STEP_SUMMARY
+          ls -la results/ >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          # Count streams and events
+          STREAMS=$(cat results/playlist_*.json | grep -o '"type": "stream"' | wc -l)
+          EVENTS=$(cat results/events_*.json | jq '. | length' 2>/dev/null || echo "0")
+          
+          echo "**Statistics:**" >> $GITHUB_STEP_SUMMARY
+          echo "- Streams found: $STREAMS" >> $GITHUB_STEP_SUMMARY
+          echo "- Events found: $EVENTS" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "⚠️ No extraction files found" >> $GITHUB_STEP_SUMMARY
+        fi
