@@ -39,7 +39,7 @@ jobs:
         ls -la output/
         
     - name: Upload extraction results
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: m3u8-extraction-${{ github.run_number }}
         path: output/
@@ -89,7 +89,7 @@ jobs:
     
     steps:
     - name: Download extraction artifacts
-      uses: actions/download-artifact@v3
+      uses: actions/download-artifact@v4
       with:
         name: m3u8-extraction-${{ github.run_number }}
         path: ./results
