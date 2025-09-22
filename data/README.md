@@ -1,12 +1,12 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Mon Sep 22 20:38:48 UTC 2025
+Last updated: Mon Sep 22 20:49:36 UTC 2025
 
-Workflow run: #19
+Workflow run: #20
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-22T20:38:47.285088
+Extracted at: 2025-09-22T20:49:35.388828
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -22,7 +22,7 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: Ireland Premier Division - Waterford United Vs Shamrock Rovers (09/23/25)
+EVENT: Italian Serie A - Napoli Vs Pisa (09/23/25)
 Time: 02:45AM
 Date: 09/23/25
 Category: None
