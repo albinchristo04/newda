@@ -1,29 +1,29 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Mon Sep 22 19:25:21 UTC 2025
+Last updated: Mon Sep 22 19:36:33 UTC 2025
 
-Workflow run: #15
+Workflow run: #16
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-22T19:25:20.701725
+Extracted at: 2025-09-22T19:36:31.713542
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
 
-EVENT: Usa: Ncaa - Coordinator'S Vs Corner (09/23/25)
-Time: 02:00AM
+EVENT: Ultimate Pool 2025 - Group 16 Pairs Cup (09/23/25)
+Time: 01:00AM
 Date: 09/23/25
 Category: None
-Available Channels (2):
-  1. HDD A
-     URL: https://world-proxifier.xyz/rbtv/p/VEYEH1IfBgYCQihWACI0NUdYS0Q3IjcgNkIzMlIQNDVNVDdWLkIqHiwHKhYaBRweGj0qFxcEERMX/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp
-  2. HDD A
-     URL: https://world-proxifier.xyz/rbtv/p/VEYEH1IfBgYCQihWACI0NUdYS0Q3IjcgNkIzMlIQNDVNVDdWLkIqHiwHKhYaBRweGj0qFxcEERMX/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp
+Available Channels (1):
+  1. SKA
+     URL: https://world-proxifier.xyz/rbtv/p/NF8xTExQMUBSIzQ2T0IVKRMGVCpSWjc2NCNUFhdCNURIITBWRiQ1Vi5CKhYTPBUpLQIqFhoFHBAaAioTEgoVFBo=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp
 
 ================================================================================
 
-EVENT: Ultimate Pool 2025 - Group 16 Pairs Cup (09/23/25)
+EVENT: Inside The Ring - Inside The Ring | Episode 3 (09/23/25)
+Time: 02:00AM
+Date: 09/23/25
+Category: None
 ```
