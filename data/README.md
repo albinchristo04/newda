@@ -1,12 +1,12 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Mon Sep 22 22:49:41 UTC 2025
+Last updated: Mon Sep 22 23:14:01 UTC 2025
 
-Workflow run: #27
+Workflow run: #28
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-22T22:49:40.421602
+Extracted at: 2025-09-22T23:14:00.220647
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -22,8 +22,8 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: Brazil Women'S Paulista Basketball - Catanduva Women Vs Sesi / Araraquara Women (09/23/25)
-Time: 06:00AM
+EVENT: Major League Baseball - Atlanta Braves Vs Washington Nationals (09/23/25)
+Time: 07:15AM
 Date: 09/23/25
 Category: None
 ```
