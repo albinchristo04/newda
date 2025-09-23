@@ -1,13 +1,20 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-23T21:49:38.752109
+Extraction Time: 2025-09-23T22:13:49.889376
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 0
-- Total Channels: 0
+- Unique Events: 3
+- Total Channels: 10
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
+EVENT BREAKDOWN:
+- The Hundred 2025 (Men) - Birmingham Phoenix V Trent Rockets ...
+  Time: 02:30AM, Channels: 2
+- Conmebol Copa Libertadores - Racing Club De Avellaneda Vs Ve...
+  Time: 06:00AM, Channels: 6
+- Conmebol Copa Libertadores - Racing Club De Avellaneda Vs Ve...
+  Time: 06:00AM, Channels: 2
