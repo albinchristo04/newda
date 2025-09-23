@@ -1,24 +1,29 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Tue Sep 23 19:49:28 UTC 2025
+Last updated: Tue Sep 23 20:16:52 UTC 2025
 
-Workflow run: #85
+Workflow run: #86
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-23T19:49:27.608267
+Extracted at: 2025-09-23T20:16:51.885575
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== MEDIA SEGMENTS (First 10) ===
+=== GROUPED EVENTS BY TITLE ===
 
-1. https://world-proxifier.xyz/rbtv/p/AyFOM0gmTVYDUDBKRCdHRE9fVA1EUEwwREIoVgkiS0MyXVQNSCJLMlIlMFYAW0IyS1g3QFJDTTZEXU4_Uj5UKBM8ESgSChMRFAUXKBMHEhAVBg==/index.m3u8
-2. https://world-proxifier.xyz/rbtv/p/AyFOM0gmTVYDUDBKRCdHRE9fVA1EUEwwREIoVgkiS0MyXVQNSCJLMlIlMFYAW0IyS1g3QFJDTTZEXU4_Uj5UKBM8FSgSChMRFAUXKBMHEhAVAA==/index.m3u8
-3. https://world-proxifier.xyz/rbtv/p/AyFOM0gmTVYDUDBKRCdHRE9fVA1EUEwwREIoVgkiS0MyXVQNSCJLMlIlMFYAW0IyS1g3QFJDTTZEXU4_Uj5UKBM8FigSChMRFAUXKBMHEhAVAw==/index.m3u8
-4. https://world-proxifier.xyz/rbtv/p/AyFOM0gmTVYDUDBKRCdHRE9fVA1EUEwwREIoVgkiS0MyXVQNSCJLMlIlMFYAW0IyS1g3QFJDTTZEXU4_Uj5UKBM8ESgSChMRFAUXKBMHEhAVBg==/index.m3u8
-5. https://world-proxifier.xyz/rbtv/p/AyFOM0gmTVYDUDBKRCdHRE9fVA1EUEwwREIoVgkiS0MyXVQNSCJLMlIlMFYAW0IyS1g3QFJDTTZEXU4_Uj5UKBM8FSgSChMRFAUXKBMHEhAVAA==/index.m3u8
-6. https://world-proxifier.xyz/rbtv/p/AyFOM0gmTVYDUDBKRCdHRE9fVA1EUEwwREIoVgkiS0MyXVQNSCJLMlIlMFYAW0IyS1g3QFJDTTZEXU4_Uj5UKBM8FigSChMRFAUXKBMHEhAVAw==/index.m3u8
-7. https://world-proxifier.xyz/rbtv/p/BFQ3SEBdVAdAJkhAN1FGS09CBjAzQihWAxRUADJUMTNIXUxATUIzMlJHQktEXjRIUhNGMk5UMTJSEzRJTUIoViwDKhMsAhwRFQQSEiwDERAUBSs=/index.m3u8
-8. https://world-proxifier.xyz/rbtv/p/BFQ3SEBdVAdAJkhAN1FGS09CBjAzQihWAxRUADJUMTNIXUxATUIzMlJHQktEXjRIUhNGMk5UMTJSEzRJTUIoViwDKhQsAhwRFQQSEiwDERAUBBM=/index.m3u8
-9. https://world-proxifier.xyz/rbtv/p/BFQ3SEBdVAdAJkhAN1FGS09CBjAzQihWAxRUADJUMTNIXUxATUIzMlJHQktEXjRIUhNGMk5UMTJSEzRJTUIoViwDKhMsAhwRFQQSEiwDERAUBSs=/index.m3u8
-10. https://world-proxifier.xyz/rbtv/p/BFQ3SEBdVAdAJkhAN1FGS09CBjAzQihWAxRUADJUMTNIXUxATUIzMlJHQktEXjRIUhNGMk5UMTJSEzRJTUIoViwDKhQsAhwRFQQSEiwDERAUBBM=/index.m3u8
+EVENT: British Basketball League - London Lions Vs Cheshire Phoenix (09/24/25)
+Time: 02:30AM
+Date: 09/24/25
+Category: None
+Available Channels (2):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/AyFOM0gmTVYDUDBKRCdHRE9fVA1EUEwwREIoVgkiS0MyXVQNSCJLMlIlMFYAW0IyS1g3QFJDTTZEXU4_Uj5UKBM8ESgSChMRFAUXKBMHEhAVBg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/AyFOM0gmTVYDUDBKRCdHRE9fVA1EUEwwREIoVgkiS0MyXVQNSCJLMlIlMFYAW0IyS1g3QFJDTTZEXU4_Uj5UKBM8FigSChMRFAUXKBMHEhAVAw==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+
+================================================================================
+
+EVENT: British Basketball League - London Lions Vs Cheshire Phoenix (09/24/25) [STREAM 24[HD]]
 ```
