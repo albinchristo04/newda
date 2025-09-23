@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-23T17:26:57.040999",
+  "timestamp": "2025-09-23T17:38:14.929125",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -27,16 +27,6 @@
     {
       "event_time": "12:30AM",
       "event_date": "09/24/25",
-      "channel_name": "SDK A",
-      "event_title": "German Basketball Cup - Phoenix Hagen Vs Rostock Seawolves (09/24/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/BFQ3SEBdVAdAJkhAN1FGS09CBjAzQihWU1s0QE1YPVYFUExATUIzMlJBNDI3IkBKUkZCRDoiSTFEJlQqUjwVKBc8FB4VBRIQEjwVExQEEhY=/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
-    },
-    {
-      "event_time": "12:30AM",
-      "event_date": "09/24/25",
       "channel_name": "SD",
       "event_title": "German Basketball Cup - Phoenix Hagen Vs Rostock Seawolves (09/24/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/BFQ3SEBdVAdAJkhAN1FGS09CBjAzQihWU1s0QE1YPVYFUExATUIzMlJBNDI3IkBKUkZCRDoiSTFEJlQqUjwVKBA8FB4VBRIQEjwVExQEERM=/index.m3u8",
@@ -47,19 +37,19 @@
     {
       "event_time": "12:30AM",
       "event_date": "09/24/25",
-      "channel_name": "SDK A",
+      "channel_name": "SD",
       "event_title": "German Basketball Cup - Walter Tigers Tubingen Vs Tbb Trier (09/24/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/BFQ3SEBdVAdAJkhAN1FGS09CBjAzQihWWlBJM0QhVFNIWkI1NkJRMEFYS05EXVQxNkJRBwNCUTVIVDdWLkIqFywHKhYaBRMQFwoqFxcEEhMa/index.m3u8",
+      "url": "https://world-proxifier.xyz/rbtv/p/BFQ3SEBdVAdAJkhAN1FGS09CBjAzQihWWlBJM0QhVFNIWkI1NkJRMEFYS05EXVQxNkJRBwNCUTVIVDdWLkIqFywAKhYaBRMQFwoqFxcEEhMW/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
       "group_title": "BASKETBALL"
     },
     {
-      "event_time": "12:30AM",
+      "event_time": "02:30AM",
       "event_date": "09/24/25",
-      "channel_name": "SD",
-      "event_title": "German Basketball Cup - Walter Tigers Tubingen Vs Tbb Trier (09/24/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/BFQ3SEBdVAdAJkhAN1FGS09CBjAzQihWWlBJM0QhVFNIWkI1NkJRMEFYS05EXVQxNkJRBwNCUTVIVDdWLkIqFywAKhYaBRMQFwoqFxcEEhMW/index.m3u8",
+      "channel_name": "TT",
+      "event_title": "British Basketball League - London Lions Vs Cheshire Phoenix (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AyFOM0gmTVYDUDBKRCdHRE9fVA1EUEwwREIoVgkiS0MyXVQNSCJLMlIlMFYAW0IyS1g3QFJDTTZEXU4_Uj5UKBM8FSktAioWGgUTEBUBKhMSChApEQ==/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
       "group_title": "BASKETBALL"
@@ -558,26 +548,6 @@
       "group_title": "FOOTBALL"
     },
     {
-      "event_time": "11:30PM",
-      "event_date": "09/23/25",
-      "channel_name": "HDD A POLSKI",
-      "event_title": "Polish Cup - Stal Rzeszow Vs Korona Kielce (09/23/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/UyJJTDZbVAQ0I1QqUkYxRE9CVz1EJj82OkIzMlIYNDUyXUZWCFhCS0ZUVCpSPBQoFzwXFxUBFikRPBYpEwYTEA==/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "12:30AM",
-      "event_date": "09/24/25",
-      "channel_name": "SDK A",
-      "event_title": "Kontinental Hockey League - Ska Saint Petersburg Vs Avangard Omsk (09/24/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CCJLM0hdQkk3UElWBSJASkQoVA1EUEwwREIoVlYYBFZWUE5JN0JVQDdUNzJBJDdOUiUwVgIlRklKUDdDUhxKMk5CKFYsAhQoFzwUHhUFHBUVPBUTFAQREA==/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
-      "group_title": "HOCKEY"
-    },
-    {
       "event_time": "01:25AM",
       "event_date": "09/24/25",
       "channel_name": "HDD A",
@@ -634,12 +604,6 @@
       "category": null,
       "channels": [
         {
-          "channel_name": "SDK A",
-          "url": "https://world-proxifier.xyz/rbtv/p/BFQ3SEBdVAdAJkhAN1FGS09CBjAzQihWU1s0QE1YPVYFUExATUIzMlJBNDI3IkBKUkZCRDoiSTFEJlQqUjwVKBc8FB4VBRIQEjwVExQEEhY=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        },
-        {
           "channel_name": "SD",
           "url": "https://world-proxifier.xyz/rbtv/p/BFQ3SEBdVAdAJkhAN1FGS09CBjAzQihWU1s0QE1YPVYFUExATUIzMlJBNDI3IkBKUkZCRDoiSTFEJlQqUjwVKBA8FB4VBRIQEjwVExQEERM=/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
@@ -654,14 +618,22 @@
       "category": null,
       "channels": [
         {
-          "channel_name": "SDK A",
-          "url": "https://world-proxifier.xyz/rbtv/p/BFQ3SEBdVAdAJkhAN1FGS09CBjAzQihWWlBJM0QhVFNIWkI1NkJRMEFYS05EXVQxNkJRBwNCUTVIVDdWLkIqFywHKhYaBRMQFwoqFxcEEhMa/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        },
-        {
           "channel_name": "SD",
           "url": "https://world-proxifier.xyz/rbtv/p/BFQ3SEBdVAdAJkhAN1FGS09CBjAzQihWWlBJM0QhVFNIWkI1NkJRMEFYS05EXVQxNkJRBwNCUTVIVDdWLkIqFywAKhYaBRMQFwoqFxcEEhMW/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "British Basketball League - London Lions Vs Cheshire Phoenix (09/24/25)": {
+      "event_title": "British Basketball League - London Lions Vs Cheshire Phoenix (09/24/25)",
+      "event_time": "02:30AM",
+      "event_date": "09/24/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "TT",
+          "url": "https://world-proxifier.xyz/rbtv/p/AyFOM0gmTVYDUDBKRCdHRE9fVA1EUEwwREIoVgkiS0MyXVQNSCJLMlIlMFYAW0IyS1g3QFJDTTZEXU4_Uj5UKBM8FSktAioWGgUTEBUBKhMSChApEQ==/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
           "duration": null
         }
@@ -1235,34 +1207,6 @@
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/ViIyM0tCBEExWEBEUkM3QExYQjVSRjRCRlQ3VglURk40VFQqUkZOPkRfQktEQjMyUhw3S0BdQTZSQ041QCdCMlI-VCgSPBEoEQMQKRoKFigQPRUTET0=/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Polish Cup - Stal Rzeszow Vs Korona Kielce (09/23/25)": {
-      "event_title": "Polish Cup - Stal Rzeszow Vs Korona Kielce (09/23/25)",
-      "event_time": "11:30PM",
-      "event_date": "09/23/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A POLSKI",
-          "url": "https://world-proxifier.xyz/rbtv/p/UyJJTDZbVAQ0I1QqUkYxRE9CVz1EJj82OkIzMlIYNDUyXUZWCFhCS0ZUVCpSPBQoFzwXFxUBFikRPBYpEwYTEA==/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Kontinental Hockey League - Ska Saint Petersburg Vs Avangard Omsk (09/24/25)": {
-      "event_title": "Kontinental Hockey League - Ska Saint Petersburg Vs Avangard Omsk (09/24/25)",
-      "event_time": "12:30AM",
-      "event_date": "09/24/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SDK A",
-          "url": "https://world-proxifier.xyz/rbtv/p/CCJLM0hdQkk3UElWBSJASkQoVA1EUEwwREIoVlYYBFZWUE5JN0JVQDdUNzJBJDdOUiUwVgIlRklKUDdDUhxKMk5CKFYsAhQoFzwUHhUFHBUVPBUTFAQREA==/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
           "duration": null
         }
       ]

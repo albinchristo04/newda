@@ -1,4 +1,4 @@
-Extracted at: 2025-09-23T17:26:57.040999
+Extracted at: 2025-09-23T17:38:14.929125
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -29,11 +29,8 @@ EVENT: German Basketball Cup - Phoenix Hagen Vs Rostock Seawolves (09/24/25)
 Time: 12:30AM
 Date: 09/24/25
 Category: None
-Available Channels (2):
-  1. SDK A
-     URL: https://world-proxifier.xyz/rbtv/p/BFQ3SEBdVAdAJkhAN1FGS09CBjAzQihWU1s0QE1YPVYFUExATUIzMlJBNDI3IkBKUkZCRDoiSTFEJlQqUjwVKBc8FB4VBRIQEjwVExQEEhY=/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
-  2. SD
+Available Channels (1):
+  1. SD
      URL: https://world-proxifier.xyz/rbtv/p/BFQ3SEBdVAdAJkhAN1FGS09CBjAzQihWU1s0QE1YPVYFUExATUIzMlJBNDI3IkBKUkZCRDoiSTFEJlQqUjwVKBA8FB4VBRIQEjwVExQEERM=/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
 
@@ -43,12 +40,20 @@ EVENT: German Basketball Cup - Walter Tigers Tubingen Vs Tbb Trier (09/24/25)
 Time: 12:30AM
 Date: 09/24/25
 Category: None
-Available Channels (2):
-  1. SDK A
-     URL: https://world-proxifier.xyz/rbtv/p/BFQ3SEBdVAdAJkhAN1FGS09CBjAzQihWWlBJM0QhVFNIWkI1NkJRMEFYS05EXVQxNkJRBwNCUTVIVDdWLkIqFywHKhYaBRMQFwoqFxcEEhMa/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
-  2. SD
+Available Channels (1):
+  1. SD
      URL: https://world-proxifier.xyz/rbtv/p/BFQ3SEBdVAdAJkhAN1FGS09CBjAzQihWWlBJM0QhVFNIWkI1NkJRMEFYS05EXVQxNkJRBwNCUTVIVDdWLkIqFywAKhYaBRMQFwoqFxcEEhMW/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+
+================================================================================
+
+EVENT: British Basketball League - London Lions Vs Cheshire Phoenix (09/24/25)
+Time: 02:30AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. TT
+     URL: https://world-proxifier.xyz/rbtv/p/AyFOM0gmTVYDUDBKRCdHRE9fVA1EUEwwREIoVgkiS0MyXVQNSCJLMlIlMFYAW0IyS1g3QFJDTTZEXU4_Uj5UKBM8FSktAioWGgUTEBUBKhMSChApEQ==/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
 
 ================================================================================
@@ -472,28 +477,6 @@ Available Channels (1):
   1. HDD A
      URL: https://world-proxifier.xyz/rbtv/p/ViIyM0tCBEExWEBEUkM3QExYQjVSRjRCRlQ3VglURk40VFQqUkZOPkRfQktEQjMyUhw3S0BdQTZSQ041QCdCMlI-VCgSPBEoEQMQKRoKFigQPRUTET0=/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-
-================================================================================
-
-EVENT: Polish Cup - Stal Rzeszow Vs Korona Kielce (09/23/25)
-Time: 11:30PM
-Date: 09/23/25
-Category: None
-Available Channels (1):
-  1. HDD A POLSKI
-     URL: https://world-proxifier.xyz/rbtv/p/UyJJTDZbVAQ0I1QqUkYxRE9CVz1EJj82OkIzMlIYNDUyXUZWCFhCS0ZUVCpSPBQoFzwXFxUBFikRPBYpEwYTEA==/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-
-================================================================================
-
-EVENT: Kontinental Hockey League - Ska Saint Petersburg Vs Avangard Omsk (09/24/25)
-Time: 12:30AM
-Date: 09/24/25
-Category: None
-Available Channels (1):
-  1. SDK A
-     URL: https://world-proxifier.xyz/rbtv/p/CCJLM0hdQkk3UElWBSJASkQoVA1EUEwwREIoVlYYBFZWUE5JN0JVQDdUNzJBJDdOUiUwVgIlRklKUDdDUhxKMk5CKFYsAhQoFzwUHhUFHBUVPBUTFAQREA==/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp
 
 ================================================================================
 
