@@ -1,0 +1,201 @@
+{
+  "timestamp": "2025-09-23T04:41:45.393086",
+  "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
+  "streams": [],
+  "segments": [],
+  "events": [
+    {
+      "event_time": "11:40AM",
+      "event_date": "09/23/25",
+      "channel_name": "VDO",
+      "event_title": "Korea Open, Doubles - Chang Ko-Chi/Po Li-Wei Vs Lee J / Wang C (09/23/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQgZPQF1MVggiKEJLWCpXMkIPTC4qQkxSJTBWCVRCVgtCKlZaUEtOUhBUKlI8FBcsAyspEjwUHhUKFikTPBEWGgMTEQ==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+      "group_title": "BADMINTON"
+    },
+    {
+      "event_time": "11:50AM",
+      "event_date": "09/23/25",
+      "channel_name": "VDO",
+      "event_title": "Korea Open, Women, Singles - Seong Min Kim Vs Yevheniia Kantemyr (09/23/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlJGQjZNWlQKSF1UDEhcVDE2Ql5ANVtCSUhYRlYIUEszRFw-NVI-VCgSAyoXLT0UKBIKEx4TChEoFwIcFBI9/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+      "group_title": "BADMINTON"
+    },
+    {
+      "event_time": "12:10PM",
+      "event_date": "09/23/25",
+      "channel_name": "VDO",
+      "event_title": "Korea Open, Doubles - Kim J H / Lee S W Vs Noh Jin Seong/Park Seung Min (09/23/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQg5MTEINVgVCKlYJVEJWVkJcVjUmVAsyW1QPSF1UUkQiS04sQ0Y1TkJQQDRdTFYOWEtWLkIqFhM8FSktAioWGgUcHhEKKhMSChURGg==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+      "group_title": "BADMINTON"
+    },
+    {
+      "event_time": "09:40AM",
+      "event_date": "09/23/25",
+      "channel_name": "HDK A",
+      "event_title": "Major League Baseball - San Diego Padres Vs Milwaukee Brewers (09/23/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhMsAhwRFQEUFiwDERAXBRI=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL"
+    },
+    {
+      "event_time": "09:40AM",
+      "event_date": "09/23/25",
+      "event_title": "Major League Baseball - San Diego Padres Vs Milwaukee Brewers (09/23/25) [STREAM 1[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhcsAhwRFQEUFiwDERAXBRE=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL"
+    },
+    {
+      "event_time": "11:30AM",
+      "event_date": "09/23/25",
+      "channel_name": "SD",
+      "event_title": "Fiba U16 Women'S Asian Championship - Korea U16 Women Vs Australia Woman U16 (09/23/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/BxoFBlJEFBNSSjRIRF0iMlISMExAXVQES1BKN0giSzJLWDVWLkIONjFURlZUAhFWWiJKQE1CMzJSEjIyNyFGS0hQVF4yXEZJUkQUE1I-VCgTPBYoEgoTERAAEigTBxITGgY=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL"
+    },
+    {
+      "event_time": "10:00AM",
+      "event_date": "09/23/25",
+      "channel_name": "HDD A",
+      "event_title": "Nhl Preseason - Anaheim Ducks Vs Utah Hockey Club (09/23/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVgJdRk9EWEpWASRASjZCMzJSRDFES0IDNkZeQjxSEEkwQUIoViwCFCgXPBQeFQUXFRI8FRMUBxwX/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+      "group_title": "HOCKEY"
+    },
+    {
+      "event_time": "10:00AM",
+      "event_date": "09/23/25",
+      "event_title": "Nhl Preseason - Anaheim Ducks Vs Utah Hockey Club (09/23/25) [STREAM 44[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVgJdRk9EWEpWASRASjZCMzJSRDFES0IDNkZeQjxSEEkwQUIoViwCFCgTPBQeFQUXFRI8FRMUBxwV/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+      "group_title": "HOCKEY"
+    }
+  ],
+  "grouped_events": {
+    "Korea Open, Doubles - Chang Ko-Chi/Po Li-Wei Vs Lee J / Wang C (09/23/25)": {
+      "event_title": "Korea Open, Doubles - Chang Ko-Chi/Po Li-Wei Vs Lee J / Wang C (09/23/25)",
+      "event_time": "11:40AM",
+      "event_date": "09/23/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQgZPQF1MVggiKEJLWCpXMkIPTC4qQkxSJTBWCVRCVgtCKlZaUEtOUhBUKlI8FBcsAyspEjwUHhUKFikTPBEWGgMTEQ==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Korea Open, Women, Singles - Seong Min Kim Vs Yevheniia Kantemyr (09/23/25)": {
+      "event_title": "Korea Open, Women, Singles - Seong Min Kim Vs Yevheniia Kantemyr (09/23/25)",
+      "event_time": "11:50AM",
+      "event_date": "09/23/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlJGQjZNWlQKSF1UDEhcVDE2Ql5ANVtCSUhYRlYIUEszRFw-NVI-VCgSAyoXLT0UKBIKEx4TChEoFwIcFBI9/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Korea Open, Doubles - Kim J H / Lee S W Vs Noh Jin Seong/Park Seung Min (09/23/25)": {
+      "event_title": "Korea Open, Doubles - Kim J H / Lee S W Vs Noh Jin Seong/Park Seung Min (09/23/25)",
+      "event_time": "12:10PM",
+      "event_date": "09/23/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQg5MTEINVgVCKlYJVEJWVkJcVjUmVAsyW1QPSF1UUkQiS04sQ0Y1TkJQQDRdTFYOWEtWLkIqFhM8FSktAioWGgUcHhEKKhMSChURGg==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Major League Baseball - San Diego Padres Vs Milwaukee Brewers (09/23/25)": {
+      "event_title": "Major League Baseball - San Diego Padres Vs Milwaukee Brewers (09/23/25)",
+      "event_time": "09:40AM",
+      "event_date": "09/23/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDK A",
+          "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhMsAhwRFQEUFiwDERAXBRI=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Major League Baseball - San Diego Padres Vs Milwaukee Brewers (09/23/25) [STREAM 1[HD]]": {
+      "event_title": "Major League Baseball - San Diego Padres Vs Milwaukee Brewers (09/23/25) [STREAM 1[HD]]",
+      "event_time": "09:40AM",
+      "event_date": "09/23/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhcsAhwRFQEUFiwDERAXBRE=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Fiba U16 Women'S Asian Championship - Korea U16 Women Vs Australia Woman U16 (09/23/25)": {
+      "event_title": "Fiba U16 Women'S Asian Championship - Korea U16 Women Vs Australia Woman U16 (09/23/25)",
+      "event_time": "11:30AM",
+      "event_date": "09/23/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/BxoFBlJEFBNSSjRIRF0iMlISMExAXVQES1BKN0giSzJLWDVWLkIONjFURlZUAhFWWiJKQE1CMzJSEjIyNyFGS0hQVF4yXEZJUkQUE1I-VCgTPBYoEgoTERAAEigTBxITGgY=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Nhl Preseason - Anaheim Ducks Vs Utah Hockey Club (09/23/25)": {
+      "event_title": "Nhl Preseason - Anaheim Ducks Vs Utah Hockey Club (09/23/25)",
+      "event_time": "10:00AM",
+      "event_date": "09/23/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVgJdRk9EWEpWASRASjZCMzJSRDFES0IDNkZeQjxSEEkwQUIoViwCFCgXPBQeFQUXFRI8FRMUBxwX/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Nhl Preseason - Anaheim Ducks Vs Utah Hockey Club (09/23/25) [STREAM 44[HD]]": {
+      "event_title": "Nhl Preseason - Anaheim Ducks Vs Utah Hockey Club (09/23/25) [STREAM 44[HD]]",
+      "event_time": "10:00AM",
+      "event_date": "09/23/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVgJdRk9EWEpWASRASjZCMzJSRDFES0IDNkZeQjxSEEkwQUIoViwCFCgTPBQeFQUXFRI8FRMUBxwV/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+          "duration": null
+        }
+      ]
+    }
+  },
+  "metadata": {}
+}

@@ -1,23 +1,29 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Tue Sep 23 04:18:41 UTC 2025
+Last updated: Tue Sep 23 04:41:46 UTC 2025
 
-Workflow run: #36
+Workflow run: #37
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-23T04:18:40.497261
+Extracted at: 2025-09-23T04:41:45.393086
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== MEDIA SEGMENTS (First 10) ===
+=== GROUPED EVENTS BY TITLE ===
 
-1. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQgZPQF1MVggiKEJLWCpXMkIPTC4qQkxSJTBWCVRCVgtCKlZaUEtOUhBUKlI8FBcsAyspEjwUHhUKFikTPBEWGgMTEQ==/index.m3u8
-2. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlJGQjZNWlQKSF1UDEhcVDE2Ql5ANVtCSUhYRlYIUEszRFw-NVI-VCgSAyoXLT0UKBIKEx4TChEoFwIcFBI9/index.m3u8
-3. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhMsAhwRFQEUFiwDERAXBRI=/index.m3u8
-4. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhcsAhwRFQEUFiwDERAXBRE=/index.m3u8
-5. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgchRklGWDBCMkICTEBdMTJSJTBWVicpDTIkTjJSEEY1R1hLRE8mVCpSPBcoFzwUHhUFFxYTPBUTFAcTHg==/index.m3u8
-6. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgchRklGWDBCMkICTEBdMTJSJTBWVicpDTIkTjJSEEY1R1hLRE8mVCpSPBcoEzwUHhUFFxYTPBUTFAccFg==/index.m3u8
-7. https://world-proxifier.xyz/rbtv/p/BxoFBlJEFBNSSjRIRF0iMlISMExAXVQES1BKN0giSzJLWDVWLkIONjFURlZUAhFWWiJKQE1CMzJSEjIyNyFGS0hQVF4yXEZJUkQUE1I-VCgTPBYoEgoTERAAEigTBxITGgY=/index.m3u8
-8. https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVgJdRk9EWEpWASRASjZCMzJSRDFES0IDNkZeQjxSEEkwQUIoViwCFCgXPBQeFQUXFRI8FRMUBxwX/index.m3u8
-9. https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVgJdRk9EWEpWASRASjZCMzJSRDFES0IDNkZeQjxSEEkwQUIoViwCFCgTPBQeFQUXFRI8FRMUBxwV/index.m3u8
+EVENT: Korea Open, Doubles - Chang Ko-Chi/Po Li-Wei Vs Lee J / Wang C (09/23/25)
+Time: 11:40AM
+Date: 09/23/25
+Category: None
+Available Channels (1):
+  1. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQgZPQF1MVggiKEJLWCpXMkIPTC4qQkxSJTBWCVRCVgtCKlZaUEtOUhBUKlI8FBcsAyspEjwUHhUKFikTPBEWGgMTEQ==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp
+
+================================================================================
+
+EVENT: Korea Open, Women, Singles - Seong Min Kim Vs Yevheniia Kantemyr (09/23/25)
+Time: 11:50AM
+Date: 09/23/25
+Category: None
 ```
