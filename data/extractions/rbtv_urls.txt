@@ -1,4 +1,4 @@
-Extracted at: 2025-09-23T14:52:31.341591
+Extracted at: 2025-09-23T15:16:25.647612
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -10,6 +10,17 @@ Category: None
 Available Channels (1):
   1. SD
      URL: https://world-proxifier.xyz/rbtv/p/A1AwSkQnR0RPX1QES1BKN0giSzJSGUJESiRCVi5CBTAxJkYyMyI3VjUmVFcyITFWMlVUBk0nPEAxI1QASFBLMzZCKFYsAyoULAIcERoFFBUsAxEQFAET/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+
+================================================================================
+
+EVENT: Lietuvos Krepsinio Lyga - Lietkabelis Vs Jonava (09/23/25)
+Time: 11:15PM
+Date: 09/23/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/CVhCMzQlNDJSGDdAMyZOSUgiVA04WkZWLkIPTEQnSERBVElMNkIzMlIbNElAJUZWLkIqFywAKhYaBRMUEAoqFxcEEhIR/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
 
 ================================================================================
@@ -33,28 +44,6 @@ Available Channels (1):
   1. None
      URL: https://world-proxifier.xyz/rbtv/p/VwMrVgImTkRSEDI3Uj5UV0BeTjI3UEtWNSZUUjFYVA1AXUhEUj5UKBc8FSgSChMREQArKBMHEhAWAA==/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp
-
-================================================================================
-
-EVENT: Cycling World Cup - Men'S Junior Individual Time Trial (09/23/25)
-Time: 07:50PM
-Date: 09/23/25
-Category: None
-Available Channels (1):
-  1. MOVISTAR
-     URL: https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYOVEsgNkINME1YNDVSGktDSCVOQzRQSVZXWEpAUkc3TEBfVCpSPBQSLAMrKRI8FB4aPRcVFzwRFhoBKxA=/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp
-
-================================================================================
-
-EVENT: Cycling World Cup - Men'S Junior Individual Time Trial (09/23/25) [STREAM 6[HD]]
-Time: 07:50PM
-Date: 09/23/25
-Category: None
-Available Channels (1):
-  1. None
-     URL: https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYOVEsgNkINME1YNDVSGktDSCVOQzRQSVZXWEpAUkc3TEBfVCpSPBQSLAMqFhoKKxURByoXFwQSFBc=/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp
 
 ================================================================================
 
@@ -113,6 +102,125 @@ Available Channels (1):
 
 ================================================================================
 
+EVENT: Coppa Italia - Cagliari Vs Frosinone (09/23/25)
+Time: 11:00PM
+Date: 09/23/25
+Category: None
+Available Channels (4):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/ACI1N0BCDDNAX05EUj5UBEBaSUxAIU5WNSZUAzEiMExNIktAUj5UKBI8ESgRAxMpEj0rKBA9FRIVAA==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. HDD C ITALIANO
+     URL: https://world-proxifier.xyz/rbtv/p/ACI1N0BCDDNAX05EUj5UBEBaSUxAIU5WNSZUAzEiMExNIktAUj5UKBI8ESgRAxMpEj0rKBA9FRIVAQ==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  3. HDD B DEUTSCH
+     URL: https://world-proxifier.xyz/rbtv/p/ACI1N0BCDDNAX05EUj5UBEBaSUxAIU5WNSZUAzEiMExNIktAUj5UKBI8ESgRAxMpEj0rKBA9FRIVBg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  4. SD
+     URL: https://world-proxifier.xyz/rbtv/p/ACI1N0BCDDNAX05EUj5UBEBaSUxAIU5WNSZUAzEiMExNIktAUj5UKBI8FigRAxMpEj0rKBA9FRIUAQ==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Coppa Italia - Cagliari Vs Frosinone (09/23/25) [STREAM 2[HD]]
+Time: 11:00PM
+Date: 09/23/25
+Category: None
+Available Channels (1):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/ACI1N0BCDDNAX05EUj5UBEBaSUxAIU5WNSZUAzEiMExNIktAUj5UKBI8FSgRAxMpEj0rKBA9FRIVAw==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Finnish Veikkausliiga - Ilves Tampere Vs Gnistan Helsinki (09/23/25)
+Time: 11:00PM
+Date: 09/23/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/B1hLSUgmTVZVVE5KTlAyMk9YTk5AQihWCl8zQDZCUURMI0I1REIzMlIUS0w2J0ZJUhVCSzZYS0pIQihWLAIqFCwBFRAUBSsULAArFxYEFg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Finnish Veikkausliiga - Kups Vs Sjk Seinajoen (09/23/25)
+Time: 11:00PM
+Date: 09/23/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/B1hLSUgmTVZVVE5KTlAyMk9YTk5AQihWCCRVMlIlMFZWGw5WVlROSUBZNEBNQihWLAIqFCwBFRAVAxETLAArFxYEEQ==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Georgia Cup - Fc Metalurgi Rustavi Vs Samtredia (09/23/25)
+Time: 11:00PM
+Date: 09/23/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/BFQ0NUpYRlYAJDVWLkIBBFIeQjNAXzI1SlhUVTQmMUQ1WFQxNkJQREwnN0BHWEZWLkIqFiwAKhUTBREVFAcqFC0DEBAU/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Georgia Cup - Lokomotiv Tbilisi Vs Dinamo Batumi (09/23/25)
+Time: 11:00PM
+Date: 09/23/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/BFQ0NUpYRlYAJDVWLkIPNk4iSjY3WDNWV1FOS0gmTlY1JlQFSF1GSDJCBUQ3JEpMUj5UKBI8FigRAxMTEQQQKBA9FRIVPQ==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Georgia Cup - Spaeri Fc Vs Dila Gori (09/23/25)
+Time: 11:00PM
+Date: 09/23/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/BFQ0NUpYRlYAJDVWLkJQN0BUN0xSFwZWNSZUBUhfRlYEIjdMUj5UKBI8FigRAxMTEQQSKBA9FRIUCg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Portuguese U23 League - Uniao Leiria U23 Vs Estoril U23 (09/23/25)
+Time: 11:00PM
+Date: 09/23/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/UyI3MzRaMkA2VFRQEwBUDURQTDBEQihWVF1ORDJCD0BIIU5EUkQVFFIlMFYGJjE2MVhJVlQDFlYuQioWLAAqFRMGFRUSPSoULQMQEBY=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Qatari Stars Cup - Al Shahaniya Vs Al Shamal (09/23/25)
+Time: 11:00PM
+Date: 09/23/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/UFAxRDFYVFI3UDcyUhAyN1I-VAZPQlBPQFtGSUgoRlY1JlQGT0JQT0BcRktSPlQoEjwWKBEDEikWBhMoED0VEhUC/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: U17 Gulf Cup Of Nations - Kuwait U17 Vs Saudi Arabia U17 (09/23/25)
+Time: 11:00PM
+Date: 09/23/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/VAISVgQkSUFSEDI3UiJDVg9QMUwyXTBWLkIOMDpQTjNSRBQQUiUwVlZQMkNIQgQ1QFFORFJEFBBSPlQoEjwWKBEDExUtAxcoED0VEhQF/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
 EVENT: Kontinental Hockey League - Metallurg Magnitogorsk Vs Spartak Moscow (09/23/25)
 Time: 10:00PM
 Date: 09/23/25
@@ -131,6 +239,17 @@ Category: None
 Available Channels (1):
   1. HDD A
      URL: https://world-proxifier.xyz/rbtv/p/AFtGS09US05EIVQGV0NUBEtQSUtEXUxAMUIKNU9URkk2OVQDMVBLQkRCCEBNQlBMTVpJQDZCKFYJJEBENkIOS0RYS1Y1JlQBNFo0VgQhQklIVDdWLkIqFCwHKhYaBRwpFT0qFxcEEhUU/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Premier Padel 2025  -  Cupra Germany P2 - Day 2 (2) (09/23/25)
+Time: 11:00PM
+Date: 09/23/25
+Category: None
+Available Channels (1):
+  1. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/MyFCSEhUN1YzUEFAT0IVKRMGVFYuQlRCNCM3RFJaQjVMUEs8UiMVVi5CQUQ4QhVWJQMsVi5CKhQsAyspEjwUHho9FhcXPBEWGgAWFg==/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
 
 ================================================================================

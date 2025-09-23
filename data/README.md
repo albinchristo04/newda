@@ -1,12 +1,12 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Tue Sep 23 14:52:32 UTC 2025
+Last updated: Tue Sep 23 15:16:26 UTC 2025
 
-Workflow run: #69
+Workflow run: #70
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-23T14:52:31.341591
+Extracted at: 2025-09-23T15:16:25.647612
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -22,8 +22,8 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: T20 Asia Cup - Pakistan Vs Sri Lanka (09/23/25)
-Time: 10:30PM
+EVENT: Lietuvos Krepsinio Lyga - Lietkabelis Vs Jonava (09/23/25)
+Time: 11:15PM
 Date: 09/23/25
 Category: None
 ```
