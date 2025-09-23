@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-23T19:12:24.615926
+Extraction Time: 2025-09-23T19:25:37.681453
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 62
-- Total Channels: 97
+- Unique Events: 66
+- Total Channels: 107
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -70,6 +70,8 @@ EVENT BREAKDOWN:
   Time: 02:45AM, Channels: 1
 - English Football League Cup - Burnley Vs Cardiff City (09/24...
   Time: 02:45AM, Channels: 2
+- English Football League Cup - Burnley Vs Cardiff City (09/24...
+  Time: 02:45AM, Channels: 1
 - English Football League Cup - Fulham Vs Cambridge United (09...
   Time: 02:45AM, Channels: 3
 - English Football League Cup - Fulham Vs Cambridge United (09...
@@ -131,7 +133,13 @@ EVENT BREAKDOWN:
 - English Football League Cup - Liverpool Vs Southampton (09/2...
   Time: 03:00AM, Channels: 1
 - Portuguese Primera Liga - Benfica Vs Rio Ave (09/24/25)
-  Time: 03:15AM, Channels: 2
+  Time: 03:15AM, Channels: 3
+- Portuguese Primera Liga - Benfica Vs Rio Ave (09/24/25) [STR...
+  Time: 03:15AM, Channels: 1
+- Spanish La Liga - Levante Vs Real Madrid (09/24/25)
+  Time: 03:30AM, Channels: 5
+- Spanish La Liga - Sevilla Fc Vs Villarreal Cf (09/24/25)
+  Time: 03:30AM, Channels: 2
 - Challenger Atp Challenger Orleans, France Men Singles - Beno...
   Time: 03:00AM, Channels: 1
 - Premier Padel 2025  -  Cupra Germany P2 - Day 2 (2) (09/23/2...
