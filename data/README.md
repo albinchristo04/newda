@@ -1,24 +1,29 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Tue Sep 23 10:50:43 UTC 2025
+Last updated: Tue Sep 23 11:12:52 UTC 2025
 
-Workflow run: #55
+Workflow run: #56
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-23T10:50:43.206398
+Extracted at: 2025-09-23T11:12:51.327745
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== MEDIA SEGMENTS (First 10) ===
+=== GROUPED EVENTS BY TITLE ===
 
-1. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQg5ETVpUClIVVChSGE5WAUINVjUmVFI0XVReUhtUKFJJQklKQlxWBUIoViwCFSgTPSsWLAIcERoKFRAsBxQeEAIT/index.m3u8
-2. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQg5ATShGVg5YMTI0W0YyS1gqAUghNEpIQgpKQFwyNUBCMzJSSkZJSkIGT0BdTCgJWEZJSkJcQEheQklKQihWLAIVKBM9KxYsAhwRGgoVESwHFB4QAhU=/index.m3u8
-3. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQg5MTEICTC5ZMklKPA5MTEJQRC4hRklKQjMyUhUyRE1aVAVSPFQNSCRUXFI-VCgSAyoXLT0UKBIKEx4aABQoFwIcFBIC/index.m3u8
-4. https://world-proxifier.xyz/rbtv/p/D0MFVi5CBk9IUUZWCSIxM0RCCEQxWEtANkIzMlJGRkw3UEpEUkZCTEEkVA1IIksyUj5UKBE8ESgSChMREQIRKBMHEhATAw==/index.m3u8
-5. https://world-proxifier.xyz/rbtv/p/D0MFVi5CBk9IUUZWCSIxM0RCCEQxWEtANkIzMlJGRkw3UEpEUkZCTEEkVA1IIksyUj5UKBE8ESgSChMREQIRKBMHEhATAw==/index.m3u8
-6. https://world-proxifier.xyz/rbtv/p/D0MFVi5CA0wxIjBPSFxGVgBQNzdSJTBWWCJKTDQhTlYEWEZJNyZUKlI8FygXPBQeFQUXFhQ8FRMUBBUS/index.m3u8
-7. https://world-proxifier.xyz/rbtv/p/D0MFVi5CXkROJEkzUkY8RE9fND42QjMyUhBNME1YQE9IQgc1QFo0STZCKFYsASoTLAIcERUBFBEsAxEQFAIR/index.m3u8
-8. https://world-proxifier.xyz/rbtv/p/U1tOS0gjNUxNVDBWDkMFDVI-VF1AXEc2QF1MRFIXRkhIXz5HNkIFNUBdQVZWUDdDSF1CMlIlMFYAUEk2MlZGSVJGMjcxVEo2NkIES09CUDNAIVQqUjwVKBA8FB4VChUWEjwVExQEFRE=/index.m3u8
-9. https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFZaIkpATTQwVgskS0wyIVQOTVdOMUhXMkRPQlFMTFRUUzFYRktSPlQoEgYqFy09FCgSChwpEQEQKBcCHBUSBg==/index.m3u8
-10. https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFZaIkpATTQwVgskS0wyIVQOTVdOMUhXMkRPQlFMTFRUUzFYRktSPlQoEgYqEywCHB4tARcSLAMREBQDFg==/index.m3u8
+EVENT: Korea Open, Doubles - Kim Gi-Jung/Kim Sa-Rang Vs Huang D / Liu Y (09/23/25)
+Time: 06:20PM
+Date: 09/23/25
+Category: None
+Available Channels (2):
+  1. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQg5MTEICTC5ZMklKPA5MTEJQRC4hRklKQjMyUhUyRE1aVAVSPFQNSCRUXFI-VCgSAyoXLT0UKBIKEx4aABQoFwIcFBIC/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp
+  2. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQg5MTEICTC5ZMklKPA5MTEJQRC4hRklKQjMyUhUyRE1aVAVSPFQNSCRUXFI-VCgSAyoXLT0UKBIKEx4aABQoFwIcFBIC/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp
+
+================================================================================
+
+EVENT: Npb - Chiba Lotte Marines Vs Saitama Seibu Lions (09/23/25)
 ```
