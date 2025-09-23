@@ -1,0 +1,281 @@
+{
+  "timestamp": "2025-09-23T05:15:07.684188",
+  "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
+  "streams": [],
+  "segments": [],
+  "events": [
+    {
+      "event_time": "01:00PM",
+      "event_date": "09/23/25",
+      "channel_name": "VDO",
+      "event_title": "Korea Open, Doubles - Kral J / Kral O Vs Wang Y H / Xie Z (09/23/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQg41QF9UD1I8VAwxUElWDEIzMlJKRklKQl5WBUIqVltYQlZZQihWLAIVKBM9KxYsAhwRGgArFiwHFB4QPRc=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+      "group_title": "BADMINTON"
+    },
+    {
+      "event_time": "09:40AM",
+      "event_date": "09/23/25",
+      "channel_name": "HDK A",
+      "event_title": "Major League Baseball - San Diego Padres Vs Milwaukee Brewers (09/23/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhMsAhwRFQEUFiwDERAXBRI=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL"
+    },
+    {
+      "event_time": "09:40AM",
+      "event_date": "09/23/25",
+      "event_title": "Major League Baseball - San Diego Padres Vs Milwaukee Brewers (09/23/25) [STREAM 1[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhcsAhwRFQEUFiwDERAXBRE=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL"
+    },
+    {
+      "event_time": "01:00PM",
+      "event_date": "09/23/25",
+      "channel_name": "HDK A \u65e5\u672c\u8a9e",
+      "event_title": "Npb - Fukuoka Softbank Hawks Vs Orix Buffaloes (09/23/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/D0MFVi5CATBOJDRKQEJQNkUnBURNXlQBQCpIMlIlMFYMIU4_UhMyQUVQSTZEJlQqUjwXKBc8FB4VBRcWEDwVExQHHBM=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL"
+    },
+    {
+      "event_time": "01:00PM",
+      "event_date": "09/23/25",
+      "channel_name": "HDK A \u65e5\u672c\u8a9e",
+      "event_title": "Npb - Hokkaido Nippon-Ham Fighters Vs Rakuten Gold. Eagles (09/23/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/D0MFVi5CAzZOXkZMRyJUC0gjNTZNPgNETEIBTEpbMUAxJlQxNkJXRE4kMUBNQgI2T1cpVgZQTEtEJlQqUjwXKBc8FB4VBRcWETwVExQHHBE=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL"
+    },
+    {
+      "event_time": "01:00PM",
+      "event_date": "09/23/25",
+      "channel_name": "HDK A \u65e5\u672c\u8a9e",
+      "event_title": "Npb - Yokohama Baystars Vs Hanshin Tigers (09/23/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/D0MFVi5CXjZOIk1ETFBUB0AoUDNAITBWNSZUAUBdME9IXVRTSFpCNTZCKFYsASoTLAIcERUBFBIsAxEQFD0r/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL"
+    },
+    {
+      "event_time": "11:30AM",
+      "event_date": "09/23/25",
+      "channel_name": "SD",
+      "event_title": "Fiba U16 Women'S Asian Championship - Korea U16 Women Vs Australia Woman U16 (09/23/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/BxoFBlJEFBNSSjRIRF0iMlISMExAXVQES1BKN0giSzJLWDVWLkIONjFURlZUAhFWWiJKQE1CMzJSEjIyNyFGS0hQVF4yXEZJUkQUE1I-VCgTPBYoEgoTERAAEigTBxITGgY=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL"
+    },
+    {
+      "event_time": "01:00PM",
+      "event_date": "09/23/25",
+      "channel_name": "HDD A",
+      "event_title": "Japanese J1 League - Albirex Niigata Vs Nagoya Grampus (09/23/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSEklFSCFCP1IfTkxKUDFEUiUwVg9QTDY4UFQAMVBKNzQmVCpSPBQoFzwXFi0GEBIWPBYpEwYUEg==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "01:00PM",
+      "event_date": "09/23/25",
+      "channel_name": "HDD B \u65e5\u672c\u8a9e",
+      "event_title": "Japanese J1 League - Albirex Niigata Vs Nagoya Grampus (09/23/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSEklFSCFCP1IfTkxKUDFEUiUwVg9QTDY4UFQAMVBKNzQmVCpSPBQoFzwXFi0GEBIWPBYpEwYUEA==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "01:00PM",
+      "event_date": "09/23/25",
+      "event_title": "Japanese J1 League - Albirex Niigata Vs Nagoya Grampus (09/23/25) [STREAM 5[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSEklFSCFCP1IfTkxKUDFEUiUwVg9QTDY4UFQAMVBKNzQmVCpSPBQoEzwXFi0GEBIWPBYpEwYUFA==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "01:00PM",
+      "event_date": "09/23/25",
+      "channel_name": "SD",
+      "event_title": "Japanese J1 League - Albirex Niigata Vs Nagoya Grampus (09/23/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSEklFSCFCP1IfTkxKUDFEUiUwVg9QTDY4UFQAMVBKNzQmVCpSPBQoEDwXFi0GEBIWPBYpEwYUKQ==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "01:00PM",
+      "event_date": "09/23/25",
+      "channel_name": "SD",
+      "event_title": "Women Empowerment League - Nojima Stella Kanagawa Sagamihara Vs Ntv Tokyo Verdy Beleza (09/23/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/WiJKQE1CAEgzIjxAMVxCSTdCD0BAWjJAUj5UCzJZTkhAQlAzRF9JRFIYRklAWkY-QEJQREpQSkxLUDdEUiUwVg9HU1ZXIkg8MkJTQDFXPlYDVElAOVBUKlI8FCgQPBcXEAYQHi08FikTBhQW/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    }
+  ],
+  "grouped_events": {
+    "Korea Open, Doubles - Kral J / Kral O Vs Wang Y H / Xie Z (09/23/25)": {
+      "event_title": "Korea Open, Doubles - Kral J / Kral O Vs Wang Y H / Xie Z (09/23/25)",
+      "event_time": "01:00PM",
+      "event_date": "09/23/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQg41QF9UD1I8VAwxUElWDEIzMlJKRklKQl5WBUIqVltYQlZZQihWLAIVKBM9KxYsAhwRGgArFiwHFB4QPRc=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Major League Baseball - San Diego Padres Vs Milwaukee Brewers (09/23/25)": {
+      "event_title": "Major League Baseball - San Diego Padres Vs Milwaukee Brewers (09/23/25)",
+      "event_time": "09:40AM",
+      "event_date": "09/23/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDK A",
+          "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhMsAhwRFQEUFiwDERAXBRI=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Major League Baseball - San Diego Padres Vs Milwaukee Brewers (09/23/25) [STREAM 1[HD]]": {
+      "event_title": "Major League Baseball - San Diego Padres Vs Milwaukee Brewers (09/23/25) [STREAM 1[HD]]",
+      "event_time": "09:40AM",
+      "event_date": "09/23/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhcsAhwRFQEUFiwDERAXBRE=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Npb - Fukuoka Softbank Hawks Vs Orix Buffaloes (09/23/25)": {
+      "event_title": "Npb - Fukuoka Softbank Hawks Vs Orix Buffaloes (09/23/25)",
+      "event_time": "01:00PM",
+      "event_date": "09/23/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDK A \u65e5\u672c\u8a9e",
+          "url": "https://world-proxifier.xyz/rbtv/p/D0MFVi5CATBOJDRKQEJQNkUnBURNXlQBQCpIMlIlMFYMIU4_UhMyQUVQSTZEJlQqUjwXKBc8FB4VBRcWEDwVExQHHBM=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Npb - Hokkaido Nippon-Ham Fighters Vs Rakuten Gold. Eagles (09/23/25)": {
+      "event_title": "Npb - Hokkaido Nippon-Ham Fighters Vs Rakuten Gold. Eagles (09/23/25)",
+      "event_time": "01:00PM",
+      "event_date": "09/23/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDK A \u65e5\u672c\u8a9e",
+          "url": "https://world-proxifier.xyz/rbtv/p/D0MFVi5CAzZOXkZMRyJUC0gjNTZNPgNETEIBTEpbMUAxJlQxNkJXRE4kMUBNQgI2T1cpVgZQTEtEJlQqUjwXKBc8FB4VBRcWETwVExQHHBE=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Npb - Yokohama Baystars Vs Hanshin Tigers (09/23/25)": {
+      "event_title": "Npb - Yokohama Baystars Vs Hanshin Tigers (09/23/25)",
+      "event_time": "01:00PM",
+      "event_date": "09/23/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDK A \u65e5\u672c\u8a9e",
+          "url": "https://world-proxifier.xyz/rbtv/p/D0MFVi5CXjZOIk1ETFBUB0AoUDNAITBWNSZUAUBdME9IXVRTSFpCNTZCKFYsASoTLAIcERUBFBIsAxEQFD0r/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Fiba U16 Women'S Asian Championship - Korea U16 Women Vs Australia Woman U16 (09/23/25)": {
+      "event_title": "Fiba U16 Women'S Asian Championship - Korea U16 Women Vs Australia Woman U16 (09/23/25)",
+      "event_time": "11:30AM",
+      "event_date": "09/23/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/BxoFBlJEFBNSSjRIRF0iMlISMExAXVQES1BKN0giSzJLWDVWLkIONjFURlZUAhFWWiJKQE1CMzJSEjIyNyFGS0hQVF4yXEZJUkQUE1I-VCgTPBYoEgoTERAAEigTBxITGgY=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Japanese J1 League - Albirex Niigata Vs Nagoya Grampus (09/23/25)": {
+      "event_title": "Japanese J1 League - Albirex Niigata Vs Nagoya Grampus (09/23/25)",
+      "event_time": "01:00PM",
+      "event_date": "09/23/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSEklFSCFCP1IfTkxKUDFEUiUwVg9QTDY4UFQAMVBKNzQmVCpSPBQoFzwXFi0GEBIWPBYpEwYUEg==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD B \u65e5\u672c\u8a9e",
+          "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSEklFSCFCP1IfTkxKUDFEUiUwVg9QTDY4UFQAMVBKNzQmVCpSPBQoFzwXFi0GEBIWPBYpEwYUEA==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSEklFSCFCP1IfTkxKUDFEUiUwVg9QTDY4UFQAMVBKNzQmVCpSPBQoEDwXFi0GEBIWPBYpEwYUKQ==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Japanese J1 League - Albirex Niigata Vs Nagoya Grampus (09/23/25) [STREAM 5[HD]]": {
+      "event_title": "Japanese J1 League - Albirex Niigata Vs Nagoya Grampus (09/23/25) [STREAM 5[HD]]",
+      "event_time": "01:00PM",
+      "event_date": "09/23/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSEklFSCFCP1IfTkxKUDFEUiUwVg9QTDY4UFQAMVBKNzQmVCpSPBQoEzwXFi0GEBIWPBYpEwYUFA==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Women Empowerment League - Nojima Stella Kanagawa Sagamihara Vs Ntv Tokyo Verdy Beleza (09/23/25)": {
+      "event_title": "Women Empowerment League - Nojima Stella Kanagawa Sagamihara Vs Ntv Tokyo Verdy Beleza (09/23/25)",
+      "event_time": "01:00PM",
+      "event_date": "09/23/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/WiJKQE1CAEgzIjxAMVxCSTdCD0BAWjJAUj5UCzJZTkhAQlAzRF9JRFIYRklAWkY-QEJQREpQSkxLUDdEUiUwVg9HU1ZXIkg8MkJTQDFXPlYDVElAOVBUKlI8FCgQPBcXEAYQHi08FikTBhQW/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    }
+  },
+  "metadata": {}
+}
