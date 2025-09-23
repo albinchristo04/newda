@@ -1,17 +1,19 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-23T22:49:09.688676
+Extraction Time: 2025-09-23T23:13:24.341829
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 11
-- Total Channels: 14
+- Unique Events: 23
+- Total Channels: 27
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
+- Usa: Ncaa - After Vs Further Review (09/24/25)
+  Time: 07:00AM, Channels: 1
 - Major League Baseball - Baltimore Orioles Vs Tampa Bay Rays ...
   Time: 06:35AM, Channels: 1
 - Major League Baseball - Cincinnati Reds Vs Pittsburgh Pirate...
@@ -26,6 +28,16 @@ EVENT BREAKDOWN:
   Time: 06:45AM, Channels: 1
 - Major League Baseball - Philadelphia Phillies Vs Miami Marli...
   Time: 06:45AM, Channels: 1
+- Major League Baseball - New York Yankees Vs Chicago White So...
+  Time: 07:05AM, Channels: 1
+- Major League Baseball - New York Yankees Vs Chicago White So...
+  Time: 07:05AM, Channels: 1
+- Major League Baseball - Toronto Blue Jays Vs Boston Red Sox ...
+  Time: 07:07AM, Channels: 1
+- Major League Baseball - Toronto Blue Jays Vs Boston Red Sox ...
+  Time: 07:07AM, Channels: 1
+- Major League Baseball - Atlanta Braves Vs Washington Nationa...
+  Time: 07:15AM, Channels: 2
 - The Hundred 2025 (Men) - Birmingham Phoenix V Trent Rockets ...
   Time: 02:30AM, Channels: 1
 - Conmebol Copa Libertadores - Racing Club De Avellaneda Vs Ve...
@@ -34,3 +46,15 @@ EVENT BREAKDOWN:
   Time: 06:00AM, Channels: 1
 - Brazilian Serie B - Sc Paysandu Para Vs Gremio Novorizontino...
   Time: 06:30AM, Channels: 2
+- Nhl Preseason - Detroit Red Wings Vs Chicago Blackhawks (09/...
+  Time: 07:00AM, Channels: 1
+- Nhl Preseason - Montreal Canadiens Vs Philadelphia Flyers (0...
+  Time: 07:00AM, Channels: 1
+- Nhl Preseason - New Jersey Devils Vs New York Islanders (09/...
+  Time: 07:00AM, Channels: 1
+- Nhl Preseason - New York Rangers Vs Boston Bruins (09/24/25)
+  Time: 07:00AM, Channels: 1
+- Nhl Preseason - New York Rangers Vs Boston Bruins (09/24/25)...
+  Time: 07:00AM, Channels: 1
+- Nhl Preseason - Toronto Maple Leafs Vs Ottawa Senators (09/2...
+  Time: 07:00AM, Channels: 1
