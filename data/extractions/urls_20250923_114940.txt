@@ -1,11 +1,3 @@
-# Latest M3U8 Extraction Results
-
-Last updated: Tue Sep 23 11:49:41 UTC 2025
-
-Workflow run: #59
-
-## Latest URLs (Sample):
-```
 Extracted at: 2025-09-23T11:49:40.084815
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
@@ -21,4 +13,3 @@ Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 8. https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYOVEsgNkINME1YNDVSGktDSCVOQzRQSVZXWEpAUkc3TEBfVCpSPBQSLAMqFhoKKxURByoXFwQSFBc=/index.m3u8
 9. https://world-proxifier.xyz/rbtv/p/BFQ0NUpYRlYAJDVWLkIBQlIeQjJLUEhPN1RUU05YRzBPWFQxNkIBBFIaR0AxWEZWEgocHlJHR0xPWDBMUj5UKBI8FigRAxMTEQQXKBA9FRIXAA==/index.m3u8
 10. https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSFEZIQVBUCDZQSERSJTBWWCJINktQSkRSFylWDlA3TE0iMFYuQioWLAcqFRI9EBURAioULQMQEhQ=/index.m3u8
-```
