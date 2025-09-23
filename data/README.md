@@ -1,24 +1,29 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Tue Sep 23 23:37:45 UTC 2025
+Last updated: Tue Sep 23 23:49:01 UTC 2025
 
-Workflow run: #98
+Workflow run: #99
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-23T23:37:44.445793
+Extracted at: 2025-09-23T23:49:00.849408
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== MEDIA SEGMENTS (First 10) ===
+=== GROUPED EVENTS BY TITLE ===
 
-1. https://world-proxifier.xyz/rbtv/p/VEYEH1IfBgYCQihWAlUxQDFCMzJSFzI1N1tCNVJBQjFIVDxWLkIqHiwHKhYaCisVEwcqFxcEExYR/index.m3u8
-2. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAidJRE0nRlYDIUYxRCZUMTZCXEQ2W05JSic0SVIfRjNIIktETyZUKlI8FygXPBQeFQUTHho8FRMUBRQe/index.m3u8
-3. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAidJRE0nRlYDIUYxRCZUMTZCXEQ2W05JSic0SVIfRjNIIktETyZUKlI8FygTPBQeFQUTHho8FRMUBRUX/index.m3u8
-4. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFtOQkBaNFYAJEcyUiUwVg9UPFZYIjdKUh5CMzZCKFYsASoTLAIcERUKKyksAxEQFQAr/index.m3u8
-5. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFtOQkBaNFYAJEcyUiUwVg9UPFZYIjdKUh5CMzZCKFYsASoTLAIcERUKKyksAxEQFQAU/index.m3u8
-6. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFtOQkBaNFYAJEcyUiUwVg9UPFZYIjdKUh5CMzZCKFYsASoXLAIcERUKKyksAxEQFQMR/index.m3u8
-7. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFhLQkhdS0Q3WFRVRFcwVjUmVFdIJzEyQSQ3TktCVUwxUDFANkIoViwBKhMsAhwRFQUcFCwDERAUBRw=/index.m3u8
-8. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFhLQkhdS0Q3WFRVRFcwVjUmVFdIJzEyQSQ3TktCVUwxUDFANkIoViwBKhcsAhwRFQUcFCwDERAUChA=/index.m3u8
-9. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAF9CMURfRklHQgIwQCFBTEBdMFY1JlQFRCc3NkgnVFNIWkI1NkIoViwBKhMsAhwRFQUcFSwDERAUChQ=/index.m3u8
-10. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAF9CMURfRklHQgIwQCFBTEBdMFY1JlQFRCc3NkgnVFNIWkI1NkIoViwBKhcsAhwRFQUcFSwDERAUChY=/index.m3u8
+EVENT: Usa: Ncaa - After Vs Further Review (09/24/25)
+Time: 07:00AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/VEYEH1IfBgYCQihWAlUxQDFCMzJSFzI1N1tCNVJBQjFIVDxWLkIqHiwHKhYaCisVEwcqFxcEExYR/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp
+
+================================================================================
+
+EVENT: Major League Baseball - Cincinnati Reds Vs Pittsburgh Pirates (09/24/25)
+Time: 06:40AM
+Date: 09/24/25
+Category: None
 ```
