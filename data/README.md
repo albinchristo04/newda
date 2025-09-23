@@ -1,29 +1,29 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Mon Sep 22 23:49:31 UTC 2025
+Last updated: Tue Sep 23 01:09:13 UTC 2025
 
-Workflow run: #31
+Workflow run: #32
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-22T23:49:30.342401
+Extracted at: 2025-09-23T01:09:12.663252
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
 
-EVENT: Major League Baseball - Atlanta Braves Vs Washington Nationals (09/23/25)
-Time: 07:15AM
+EVENT: Usa: Nfl - Baltimore Ravens Vs Detroit Lions (09/23/25)
+Time: 08:15AM
 Date: 09/23/25
 Category: None
-Available Channels (1):
-  1. HDK B
-     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAidJRE0nRlYDIUYxRCZUMTZCXEQ2W05JSic0SVIfRjNIIktETyZUKlI8FygXPBQeFQUXFi08FRMUBxIQ/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
+Available Channels (2):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/VEYEH1IfAQ1SPlQHQF8xTEwiN0BSQUYxRF0wVjUmVAVEJzc2SCdUDUgiSzJSPlQoGjwRKBIKExEUBxMoEwcSExU9/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp
+  2. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/VEYEH1IfAQ1SPlQHQF8xTEwiN0BSQUYxRF0wVjUmVAVEJzc2SCdUDUgiSzJSPlQoGjwRKBIKExEUBxMoEwcSExU9/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp
 
 ================================================================================
 
-EVENT: Major League Baseball - Atlanta Braves Vs Washington Nationals (09/23/25) [STREAM 25[HD]]
-Time: 07:15AM
-Date: 09/23/25
-Category: None
+EVENT: Usa: Nfl - Baltimore Ravens Vs Detroit Lions (09/23/25) [STREAM 2[HD]]
 ```
