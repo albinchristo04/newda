@@ -1,13 +1,42 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-23T13:53:31.404919
+Extraction Time: 2025-09-23T14:15:55.866833
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 0
-- Total Channels: 0
+- Unique Events: 14
+- Total Channels: 17
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
+EVENT BREAKDOWN:
+- Basketball Champions League - Bursaspor Vs Port Of Antwerp G...
+  Time: 09:30PM, Channels: 1
+- Cycling World Cup - Men'S Junior Individual Time Trial (09/2...
+  Time: 07:50PM, Channels: 1
+- Cycling World Cup - Men'S Junior Individual Time Trial (09/2...
+  Time: 07:50PM, Channels: 1
+- Polish Cup - Lks Goczalkowice Zdroj B Vs Stal Stalowa Wola (...
+  Time: 08:30PM, Channels: 2
+- Egyptian Premier League - Haras El Hodood Vs Al Ahly Fc (09/...
+  Time: 10:00PM, Channels: 1
+- Portuguese U23 League - Academico Viseu U23 Vs Vizela U23 (0...
+  Time: 10:00PM, Channels: 1
+- Portuguese U23 League - Braga U23 Vs Famalicao U23 (09/23/25...
+  Time: 10:00PM, Channels: 1
+- Portuguese U23 League - Gil Vicente U23 Vs Leixoes U23 (09/2...
+  Time: 10:00PM, Channels: 1
+- Turkish First League - Boluspor Vs Umraniyespor (09/23/25)
+  Time: 10:00PM, Channels: 1
+- Kontinental Hockey League - Metallurg Magnitogorsk Vs Sparta...
+  Time: 10:00PM, Channels: 1
+- Premier Padel 2025  -  Cupra Germany P2 - Day 2 (09/23/25)
+  Time: 04:00PM, Channels: 1
+- Challenger Atp Challenger Orleans, France Men Singles - Luca...
+  Time: 09:00PM, Channels: 1
+- Livoli Divisi Utama - Putra: Indomaret  Vs  Ganeksa Bhumikar...
+  Time: 08:00PM, Channels: 1
+- World Championship - Serbia Vs Iran (09/23/25)
+  Time: 08:00PM, Channels: 3

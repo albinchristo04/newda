@@ -24,12 +24,6 @@
         "url": "https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYOVEsgNkINME1YNDVSGktDSCVOQzRQSVZXWEpAUkc3TEBfVCpSPBQSLAMrKRI8FB4aPRcVFzwRFhoBKxA=/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
         "duration": null
-      },
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYOVEsgNkINME1YNDVSGktDSCVOQzRQSVZXWEpAUkc3TEBfVCpSPBQSLAcqFhoKKxURByoXFwQSFS0=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
-        "duration": null
       }
     ]
   },
@@ -43,20 +37,6 @@
         "channel_name": null,
         "url": "https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYOVEsgNkINME1YNDVSGktDSCVOQzRQSVZXWEpAUkc3TEBfVCpSPBQSLAMqFhoKKxURByoXFwQSFBc=/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Russian Cup - Psk Dinskoy Rayon Vs Ural Yekaterinburg (09/23/25)": {
-    "event_title": "Russian Cup - Psk Dinskoy Rayon Vs Ural Yekaterinburg (09/23/25)",
-    "event_time": "08:00PM",
-    "event_date": "09/23/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/USQwMkhQS1YAJDVWLkJVUghCB0xNJkg2OEJXRDgiS1Y1JlRQMVBJVlhUSEQ3VDdMTVEyNUpCKFYsAioULAEVEREAKxAsACsXFgcX/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
       }
     ]
@@ -81,6 +61,90 @@
       }
     ]
   },
+  "Egyptian Premier League - Haras El Hodood Vs Al Ahly Fc (09/23/25)": {
+    "event_title": "Egyptian Premier League - Haras El Hodood Vs Al Ahly Fc (09/23/25)",
+    "event_time": "10:00PM",
+    "event_date": "09/23/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/Blo-NzdYRklSQzdATFhCNVIZQkRKJEJWLkIDRDFQMFYGX1QBMlc0NkdCMzJSEklWAltJPFIXBlYuQioWLAAqFRMBHBUtBioULQMQExo=/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Portuguese U23 League - Academico Viseu U23 Vs Vizela U23 (09/23/25)": {
+    "event_title": "Portuguese U23 League - Academico Viseu U23 Vs Vizela U23 (09/23/25)",
+    "event_time": "10:00PM",
+    "event_date": "09/23/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/UyI3MzRaMkA2VFRQEwBUDURQTDBEQihWAlZGQ0RcTkIyQlNMNlQyVlQDFlY1JlRRSClCS0BCUhcQQihWLAIqFCwBFRUWARQpLAArFxYHEw==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Portuguese U23 League - Braga U23 Vs Famalicao U23 (09/23/25)": {
+    "event_title": "Portuguese U23 League - Braga U23 Vs Famalicao U23 (09/23/25)",
+    "event_time": "10:00PM",
+    "event_date": "09/23/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/UyI3MzRaMkA2VFRQEwBUDURQTDBEQihWAyFGTkBCUhcQQjMyUhdGSEBfTkJAIlRQEwBUKlI8FCgQPBcXEQYXKRo8FikTBhIp/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Portuguese U23 League - Gil Vicente U23 Vs Leixoes U23 (09/23/25)": {
+    "event_title": "Portuguese U23 League - Gil Vicente U23 Vs Leixoes U23 (09/23/25)",
+    "event_time": "10:00PM",
+    "event_date": "09/23/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/UyI3MzRaMkA2VFRQEwBUDURQTDBEQihWBFhJVlVYQEBNJ0JWVAMWVjUmVA1EWD02RCZUUBMAVCpSPBQoEDwXFxEGFxYaPBYpEwYSFg==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Turkish First League - Boluspor Vs Umraniyespor (09/23/25)": {
+    "event_title": "Turkish First League - Boluspor Vs Umraniyespor (09/23/25)",
+    "event_time": "10:00PM",
+    "event_date": "09/23/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/VyQ3SkgmTVYHWDcyN0IPQEBaMkBSPlQHMl8yMjMiN1Y1JlRQTCFGSUgoQjIzIjdWLkIqFiwAKhUTAxUUEQcqFC0DEBAT/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Kontinental Hockey League - Metallurg Magnitogorsk Vs Spartak Moscow (09/23/25)": {
+    "event_title": "Kontinental Hockey League - Metallurg Magnitogorsk Vs Spartak Moscow (09/23/25)",
+    "event_time": "10:00PM",
+    "event_date": "09/23/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SDK A",
+        "url": "https://world-proxifier.xyz/rbtv/p/CCJLM0hdQkk3UElWBSJASkQoVA1EUEwwREIoVg5UMURPXzI1SkIIREpdTjMyWjQ1Nl5UMTZCUDdAITFETkIINjZWND5SPlQoEgIqEywCHBEVARASLAMREBQBHA==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+        "duration": null
+      }
+    ]
+  },
   "Premier Padel 2025  -  Cupra Germany P2 - Day 2 (09/23/25)": {
     "event_title": "Premier Padel 2025  -  Cupra Germany P2 - Day 2 (09/23/25)",
     "event_time": "04:00PM",
@@ -90,26 +154,6 @@
       {
         "channel_name": "VDO",
         "url": "https://world-proxifier.xyz/rbtv/p/MyFCSEhUN1YzUEFAT0IVKRMGVFYuQlRCNCM3RFJaQjVMUEs8UiMVVi5CQUQ4QhVWLkIqFCwDKykSPBQeGj0WFxY8ERYaARcp/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Atp Chengdu, China Men Singles - Lorenzo Musetti Vs Alejandro Tabilo (09/23/25)": {
-    "event_title": "Atp Chengdu, China Men Singles - Lorenzo Musetti Vs Alejandro Tabilo (09/23/25)",
-    "event_time": "07:00PM",
-    "event_date": "09/23/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "VDO",
-        "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgBbQklKVzItUhBNTE1QVApEXVRSSF1MS0QmVCpSGTQ1RF0_NlIeMjJEJzFMUiUwVgJfQk1AXUE1MkJRREFYSTZSPlQoEDwVKS0CKhYaBRweEAcqExIKFykR/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgBbQklKVzItUhBNTE1QVApEXVRSSF1MS0QmVCpSGTQ1RF0_NlIeMjJEJzFMUiUwVgJfQk1AXUE1MkJRREFYSTZSPlQoEDwRKBIKEx4aABEoEwcSEBAD/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
       }
