@@ -1,18 +1,29 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Tue Sep 23 08:55:44 UTC 2025
+Last updated: Tue Sep 23 09:18:25 UTC 2025
 
-Workflow run: #49
+Workflow run: #50
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-23T08:55:43.980322
+Extracted at: 2025-09-23T09:18:24.409189
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== MEDIA SEGMENTS (First 10) ===
+=== GROUPED EVENTS BY TITLE ===
 
-1. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VAUyJEdLRCZUKlIbQjZNWlQLUhZUKFIZQkBSSFReUiUwVgUmTkBLQlVWVkIqVgUkS05SFihTUj5UKBIDKhctPRQoEgoTHhUKFigXAhwUEgA=/index.m3u8
-2. https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSRk1MTFg_MFJGKFc0XzBAUiUwVlQhRj5AQldAR0IHTEBcNElHJlQqUjwUKBc8FxYtBhAXFzwWKRMGFhc=/index.m3u8
-3. https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSRk1MTFg_MFJGKFc0XzBAUiUwVlQhRj5AQldAR0IHTEBcNElHJlQqUjwUKBM8FxYtBhAXFzwWKRMGFRM=/index.m3u8
-4. https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSRk1MTFg_MFJGKFc0XzBAUiUwVlQhRj5AQldAR0IHTEBcNElHJlQqUjwUKBA8FxYtBhAXFzwWKRMGFRU=/index.m3u8
+EVENT: Korea Open, Women, Doubles - Jeong N E / Lee Y W Vs Hsieh P S / Hung E-T (09/23/25)
+Time: 04:30PM
+Date: 09/23/25
+Category: None
+Available Channels (1):
+  1. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VAUyJEdLRCZUKlIbQjZNWlQLUhZUKFIZQkBSSFReUiUwVgUmTkBLQlVWVkIqVgUkS05SFihTUj5UKBIDKhctPRQoEgoTHhUKFigXAhwUEgA=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp
+
+================================================================================
+
+EVENT: Korea Open, Women, Doubles - L.Lui L/Y.Tsang H Vs Apriyani Rahayu/Siti Fadia Silva Ramadhanti (09/23/25)
+Time: 04:35PM
+Date: 09/23/25
+Category: None
 ```
