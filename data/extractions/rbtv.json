@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-23T23:27:22.164862",
+  "timestamp": "2025-09-23T23:37:44.445793",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [
@@ -23,6 +23,27 @@
       "group_title": "BASEBALL",
       "title": "Major League Baseball - Atlanta Braves Vs Washington Nationals [STREAM 15[HD]]",
       "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAidJRE0nRlYDIUYxRCZUMTZCXEQ2W05JSic0SVIfRjNIIktETyZUKlI8FygTPBQeFQUTHho8FRMUBRUX/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Chicago Cubs Vs New York Mets [HDK A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFtOQkBaNFYAJEcyUiUwVg9UPFZYIjdKUh5CMzZCKFYsASoTLAIcERUKKyksAxEQFQAr/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Chicago Cubs Vs New York Mets [HDK B]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFtOQkBaNFYAJEcyUiUwVg9UPFZYIjdKUh5CMzZCKFYsASoTLAIcERUKKyksAxEQFQAU/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Chicago Cubs Vs New York Mets [STREAM 17[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFtOQkBaNFYAJEcyUiUwVg9UPFZYIjdKUh5CMzZCKFYsASoXLAIcERUKKyksAxEQFQMR/index.m3u8"
     },
     {
       "type": "segment",
@@ -110,6 +131,13 @@
     },
     {
       "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Women'S National Basketball Association - Minnesota Lynx Vs Phoenix Mercury [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/WiJKQE00MFYPUDFMMl1GS1ITRjJOVDFFQF9JVgImMDZGWEYzSCJLVi5CCExNXUIyMidGVgkoSz9SJTBWU1s0QE1YPVYOVDdCNCE-Vi5CKhcsACoWGgUTEBUGKhcXBBMXEA==/index.m3u8"
+    },
+    {
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
       "group_title": "CRICKET",
       "title": "The Hundred 2025 (Men) - Birmingham Phoenix V Trent Rockets At London. [SKA]",
@@ -156,13 +184,6 @@
       "group_title": "FOOTBALL",
       "title": "Conmebol Copa Libertadores - Racing Club De Avellaneda Vs Velez Sarsfield [SD]",
       "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlJBRkJIXUxWAF8yRVJXQlYCJUJLT1BLQEdQVDE2QlNAT1Q_VlZQNzJFWEJLR0IoViwCKhQsARUTEgocESwAKxcUBRQ=/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
-      "group_title": "HOCKEY",
-      "title": "Nhl Preseason - Detroit Red Wings Vs Chicago Blackhawks [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVgFUMTUyWDFWUVRBVlpYS042QjMyUhBNTEZQTDZSE0lERl5NRDpeMFYuQioWEjwRKBIKExEaBBMoEwcSERIF/index.m3u8"
     },
     {
       "type": "segment",
