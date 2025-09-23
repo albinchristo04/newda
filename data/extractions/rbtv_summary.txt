@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-23T16:54:10.435217
+Extraction Time: 2025-09-23T17:26:57.040999
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 33
-- Total Channels: 46
+- Unique Events: 42
+- Total Channels: 60
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -14,6 +14,8 @@ STATISTICS:
 EVENT BREAKDOWN:
 - Usa: Ncaa - Iowa Vs State Football Press Conference (09/24/2...
   Time: 12:50AM, Channels: 1
+- Usa: Ncaa - Colorado Vs Weekly Football Presser (09/24/25)
+  Time: 01:00AM, Channels: 1
 - German Basketball Cup - Phoenix Hagen Vs Rostock Seawolves (...
   Time: 12:30AM, Channels: 2
 - German Basketball Cup - Walter Tigers Tubingen Vs Tbb Trier ...
@@ -34,7 +36,7 @@ EVENT BREAKDOWN:
   Time: 12:00AM, Channels: 1
 - Coppa Italia - Udinese Vs Palermo (09/24/25)
   Time: 12:30AM, Channels: 5
-- Coppa Italia - Udinese Vs Palermo (09/24/25) [STREAM 31[HD]]
+- Coppa Italia - Udinese Vs Palermo (09/24/25) [STREAM 20[HD]]
   Time: 12:30AM, Channels: 1
 - Italian Serie C - Forli Vs Vis Pesaro (09/24/25)
   Time: 12:30AM, Channels: 1
@@ -50,31 +52,47 @@ EVENT BREAKDOWN:
   Time: 12:30AM, Channels: 1
 - Russian Cup - Broke Boys Vs Sokol Saratov (09/24/25)
   Time: 12:45AM, Channels: 1
-- Coppa Italia - Cagliari Vs Frosinone (09/23/25)
-  Time: 11:00PM, Channels: 4
-- Coppa Italia - Cagliari Vs Frosinone (09/23/25) [STREAM 2[HD...
-  Time: 11:00PM, Channels: 1
-- Finnish Veikkausliiga - Ilves Tampere Vs Gnistan Helsinki (0...
-  Time: 11:00PM, Channels: 1
-- Finnish Veikkausliiga - Kups Vs Sjk Seinajoen (09/23/25)
-  Time: 11:00PM, Channels: 1
-- Georgia Cup - Fc Metalurgi Rustavi Vs Samtredia (09/23/25)
-  Time: 11:00PM, Channels: 1
-- Georgia Cup - Lokomotiv Tbilisi Vs Dinamo Batumi (09/23/25)
-  Time: 11:00PM, Channels: 1
-- Georgia Cup - Spaeri Fc Vs Dila Gori (09/23/25)
-  Time: 11:00PM, Channels: 1
-- Portuguese U23 League - Uniao Leiria U23 Vs Estoril U23 (09/...
-  Time: 11:00PM, Channels: 1
-- Qatari Stars Cup - Al Shahaniya Vs Al Shamal (09/23/25)
-  Time: 11:00PM, Channels: 1
-- U17 Gulf Cup Of Nations - Kuwait U17 Vs Saudi Arabia U17 (09...
-  Time: 11:00PM, Channels: 1
+- Argentine Reserve League - Tigre Reserves Vs Defensa Y Justi...
+  Time: 01:00AM, Channels: 1
+- Danish Cup - Sundby Bk Vs Odense Bk (09/24/25)
+  Time: 01:00AM, Channels: 1
+- Egyptian Premier League - Tala'Ea El Gaish Vs El Mokawloon E...
+  Time: 01:00AM, Channels: 1
+- Egyptian Premier League - Zamalek Sc Vs El Gounah (09/24/25)
+  Time: 01:00AM, Channels: 1
+- German Frauen Bundesliga - Carl Zeiss Jena Women Vs Union Be...
+  Time: 01:00AM, Channels: 1
+- Greek Cup - Aris Thessaloniki Vs Marko (09/24/25)
+  Time: 01:00AM, Channels: 1
+- Polish Cup - Ks Polonia Sroda Wlkp Vs Olimpia Grudziadz (09/...
+  Time: 01:00AM, Channels: 1
+- Qatari Stars Cup - Al Rayyan Vs Al-Wakrah Sc (09/24/25)
+  Time: 01:00AM, Channels: 1
+- Spanish La Liga - Athletic Club Vs Girona Fc (09/24/25)
+  Time: 01:00AM, Channels: 6
+- Spanish La Liga - Athletic Club Vs Girona Fc (09/24/25) [STR...
+  Time: 01:00AM, Channels: 1
+- Spanish La Liga - Athletic Club Vs Girona Fc (09/24/25) [STR...
+  Time: 01:00AM, Channels: 1
+- Spanish La Liga - Rcd Espanyol De Barcelona Vs Valencia Cf (...
+  Time: 01:00AM, Channels: 5
+- Spanish La Liga - Rcd Espanyol De Barcelona Vs Valencia Cf (...
+  Time: 01:00AM, Channels: 1
+- Spanish La Liga - Rcd Espanyol De Barcelona Vs Valencia Cf (...
+  Time: 01:00AM, Channels: 1
+- Turkish First League - Corum Belediyespor Vs Serik Belediyes...
+  Time: 01:00AM, Channels: 1
+- Turkish First League - Iğdır Fk Vs Atakas Hatayspor (09/24/2...
+  Time: 01:00AM, Channels: 1
+- U17 Gulf Cup Of Nations - Bahrain U17 Vs Iraq U17 (09/24/25)
+  Time: 01:00AM, Channels: 1
+- South Africa Premier Soccer League - Siwelele Vs Orlando Pir...
+  Time: 01:30AM, Channels: 1
 - Polish Cup - Stal Rzeszow Vs Korona Kielce (09/23/25)
-  Time: 11:30PM, Channels: 2
+  Time: 11:30PM, Channels: 1
 - Kontinental Hockey League - Ska Saint Petersburg Vs Avangard...
   Time: 12:30AM, Channels: 1
+- Challenger Atp Challenger Orleans, France Men Singles - Nico...
+  Time: 01:25AM, Channels: 1
 - Premier Padel 2025  -  Cupra Germany P2 - Day 2 (2) (09/23/2...
   Time: 11:00PM, Channels: 1
-- Challenger Atp Challenger Orleans, France Men Singles - Flor...
-  Time: 11:40PM, Channels: 1
