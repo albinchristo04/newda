@@ -1,4 +1,4 @@
-Extracted at: 2025-09-23T19:25:37.681453
+Extracted at: 2025-09-23T19:36:43.637167
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -72,17 +72,6 @@ Available Channels (1):
   1. HDD A
      URL: https://world-proxifier.xyz/rbtv/p/WhMOA1I-VFNLVFQHQCFCVghdMkJOX0JWVls0PlIqTjNLQgU1SFBLVlYiMEJIUB1WVlRGMjJdVBcpQgA3SCY0Q0RCFBYUQihWLAIXKBc8FB4aPRcUFDwVExQEERU=/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp
-
-================================================================================
-
-EVENT: South Africa Premier Soccer League - Siwelele Vs Orlando Pirates (09/24/25)
-Time: 01:30AM
-Date: 09/24/25
-Category: None
-Available Channels (1):
-  1. HDD A
-     URL: https://world-proxifier.xyz/rbtv/p/ViIyM0tCBEExWEBEUkM3QExYQjVSRjRCRlQ3VglURk40VFQqUkZOPkRfQktEQjMyUhw3S0BdQTZSQ041QCdCMlI-VCgSPBEoEQMQKRoKFigQPRUTET0=/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
 ================================================================================
 
@@ -797,21 +786,52 @@ EVENT: Spanish La Liga - Levante Vs Real Madrid (09/24/25)
 Time: 03:30AM
 Date: 09/24/25
 Category: None
-Available Channels (5):
-  1. HDD C
+Available Channels (8):
+  1. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBUpLQIqFRM9HBMtAioTEgoWExU=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. MOVISTAR
+     URL: https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBUpLQIqFRM9HBMtAioTEgoXFBU=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  3. HDD C
      URL: https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBEoEQMrHhc9FCgQPRUQFwA=/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-  2. HDD D ESPAÑOL
+  4. HDD D ESPAÑOL
      URL: https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBEoEQMrHhc9FCgQPRUQFwE=/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-  3. HDD E FRANÇAIS
+  5. HDD E FRANÇAIS
      URL: https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBEoEQMrHhc9FCgQPRUQFwY=/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-  4. HDD A
-     URL: https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBEoEQMrHhc9FCgQPRUQFwQ=/index.m3u8
+  6. HDD F ITALIANO
+     URL: https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBEoEQMrHhc9FCgQPRUQFAE=/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-  5. SD
+  7. HDD B
+     URL: https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBEoEQMrHhc9FCgQPRUQFAc=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  8. SD
      URL: https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBYoEQMrHhc9FCgQPRUQFwI=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Spanish La Liga - Levante Vs Real Madrid (09/24/25) [STREAM 25[HD]]
+Time: 03:30AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBUoEQMrHhc9FCgQPRUQFAo=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Spanish La Liga - Levante Vs Real Madrid (09/24/25) [STREAM 25_FHD[FULL HD]]
+Time: 03:30AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBUoEQMrHhc9FCgQPRUQFT0=/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
 ================================================================================
@@ -820,12 +840,46 @@ EVENT: Spanish La Liga - Sevilla Fc Vs Villarreal Cf (09/24/25)
 Time: 03:30AM
 Date: 09/24/25
 Category: None
-Available Channels (2):
-  1. HDD B
+Available Channels (6):
+  1. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqFy09FCgRAyseFwAVKBcCHBQXBA==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. DAZN ES
+     URL: https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqFy09FCgRAyseFwAVKBcCHBQWCg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  3. MOVISTAR2
+     URL: https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqFy09FCgRAyseFwAVKBcCHBUTPQ==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  4. DAZN ES
+     URL: https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqFy09FCgRAyseFwAVKBcCHBISBg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  5. HDD B
      URL: https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqEywBFSkaBxYXLAArFxQHEQ==/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-  2. SD
+  6. SD
      URL: https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqFCwBFSkaBxYXLAArFxQHFQ==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Spanish La Liga - Sevilla Fc Vs Villarreal Cf (09/24/25) [STREAM 3[HD]]
+Time: 03:30AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqFywBFSkaBxYXLAArFxQEEg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Spanish La Liga - Sevilla Fc Vs Villarreal Cf (09/24/25) [STREAM 3_FHD[FULL HD]]
+Time: 03:30AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqFywBFSkaBxYXLAArFxQEEw==/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
 ================================================================================
