@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-09-23T08:55:43.980322",
+  "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
+  "streams": [],
+  "segments": [
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+      "group_title": "BADMINTON",
+      "title": "Korea Open, Women, Doubles - Jeong N E / Lee Y W Vs Hsieh P S / Hung E-T [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VAUyJEdLRCZUKlIbQjZNWlQLUhZUKFIZQkBSSFReUiUwVgUmTkBLQlVWVkIqVgUkS05SFihTUj5UKBIDKhctPRQoEgoTHhUKFigXAhwUEgA=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Japanese J1 League - Shimizu S-Pulse Vs Urawa Red Diamonds [HDD A \u65e5\u672c\u8a9e]",
+      "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSRk1MTFg_MFJGKFc0XzBAUiUwVlQhRj5AQldAR0IHTEBcNElHJlQqUjwUKBc8FxYtBhAXFzwWKRMGFhc=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Japanese J1 League - Shimizu S-Pulse Vs Urawa Red Diamonds [STREAM 1[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSRk1MTFg_MFJGKFc0XzBAUiUwVlQhRj5AQldAR0IHTEBcNElHJlQqUjwUKBM8FxYtBhAXFzwWKRMGFRM=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Japanese J1 League - Shimizu S-Pulse Vs Urawa Red Diamonds [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSRk1MTFg_MFJGKFc0XzBAUiUwVlQhRj5AQldAR0IHTEBcNElHJlQqUjwUKBA8FxYtBhAXFzwWKRMGFRU=/index.m3u8"
+    }
+  ],
+  "events": [],
+  "grouped_events": {},
+  "metadata": {}
+}
