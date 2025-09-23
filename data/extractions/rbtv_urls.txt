@@ -1,36 +1,17 @@
-Extracted at: 2025-09-23T17:38:14.929125
+Extracted at: 2025-09-23T17:49:34.031749
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
-
-EVENT: Usa: Ncaa - Iowa Vs State Football Press Conference (09/24/25)
-Time: 12:50AM
-Date: 09/24/25
-Category: None
-Available Channels (1):
-  1. HDD A
-     URL: https://world-proxifier.xyz/rbtv/p/VEYEH1IfBgYCQihWCiI8RFIlMFZWJ0YzREIBNjInR0RPX1RXMVQwMlIQNElFVDdATVZCVi5CKh4sByoWGgorFRMBKhcXBBIQEQ==/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp
-
-================================================================================
-
-EVENT: Usa: Ncaa - Colorado Vs Weekly Football Presser (09/24/25)
-Time: 01:00AM
-Date: 09/24/25
-Category: None
-Available Channels (1):
-  1. HDD A
-     URL: https://world-proxifier.xyz/rbtv/p/VEYEH1IfBgYCQihWACJJNjFQQTZSJTBWWlRCSk8oVAMyIjFFQF9JVlMhQjI2VDdWLkIqHiwHKhYaCisVEwYqFxcEEhAW/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp
-
-================================================================================
 
 EVENT: German Basketball Cup - Phoenix Hagen Vs Rostock Seawolves (09/24/25)
 Time: 12:30AM
 Date: 09/24/25
 Category: None
-Available Channels (1):
-  1. SD
+Available Channels (2):
+  1. SDK A
+     URL: https://world-proxifier.xyz/rbtv/p/BFQ3SEBdVAdAJkhAN1FGS09CBjAzQihWU1s0QE1YPVYFUExATUIzMlJBNDI3IkBKUkZCRDoiSTFEJlQqUjwVKBc8FB4VBRIQEjwVExQEEhY=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+  2. SD
      URL: https://world-proxifier.xyz/rbtv/p/BFQ3SEBdVAdAJkhAN1FGS09CBjAzQihWU1s0QE1YPVYFUExATUIzMlJBNDI3IkBKUkZCRDoiSTFEJlQqUjwVKBA8FB4VBRIQEjwVExQEERM=/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
 
@@ -40,8 +21,11 @@ EVENT: German Basketball Cup - Walter Tigers Tubingen Vs Tbb Trier (09/24/25)
 Time: 12:30AM
 Date: 09/24/25
 Category: None
-Available Channels (1):
-  1. SD
+Available Channels (2):
+  1. SDK A
+     URL: https://world-proxifier.xyz/rbtv/p/BFQ3SEBdVAdAJkhAN1FGS09CBjAzQihWWlBJM0QhVFNIWkI1NkJRMEFYS05EXVQxNkJRBwNCUTVIVDdWLkIqFywHKhYaBRMQFwoqFxcEEhMa/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+  2. SD
      URL: https://world-proxifier.xyz/rbtv/p/BFQ3SEBdVAdAJkhAN1FGS09CBjAzQihWWlBJM0QhVFNIWkI1NkJRMEFYS05EXVQxNkJRBwNCUTVIVDdWLkIqFywAKhYaBRMQFwoqFxcEEhMW/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
 
@@ -54,17 +38,6 @@ Category: None
 Available Channels (1):
   1. TT
      URL: https://world-proxifier.xyz/rbtv/p/AyFOM0gmTVYDUDBKRCdHRE9fVA1EUEwwREIoVgkiS0MyXVQNSCJLMlIlMFYAW0IyS1g3QFJDTTZEXU4_Uj5UKBM8FSktAioWGgUTEBUBKhMSChApEQ==/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
-
-================================================================================
-
-EVENT: Lietuvos Krepsinio Lyga - Lietkabelis Vs Jonava (09/23/25)
-Time: 11:15PM
-Date: 09/23/25
-Category: None
-Available Channels (1):
-  1. SD
-     URL: https://world-proxifier.xyz/rbtv/p/CVhCMzQlNDJSGDdAMyZOSUgiVA04WkZWLkIPTEQnSERBVElMNkIzMlIbNElAJUZWLkIqFywAKhYaBRMUEAoqFxcEEhIR/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
 
 ================================================================================
@@ -477,6 +450,17 @@ Available Channels (1):
   1. HDD A
      URL: https://world-proxifier.xyz/rbtv/p/ViIyM0tCBEExWEBEUkM3QExYQjVSRjRCRlQ3VglURk40VFQqUkZOPkRfQktEQjMyUhw3S0BdQTZSQ041QCdCMlI-VCgSPBEoEQMQKRoKFigQPRUTET0=/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Kontinental Hockey League - Ska Saint Petersburg Vs Avangard Omsk (09/24/25)
+Time: 12:30AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. SDK A
+     URL: https://world-proxifier.xyz/rbtv/p/CCJLM0hdQkk3UElWBSJASkQoVA1EUEwwREIoVlYYBFZWUE5JN0JVQDdUNzJBJDdOUiUwVgIlRklKUDdDUhxKMk5CKFYsAhQoFzwUHhUFHBUVPBUTFAQREA==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp
 
 ================================================================================
 

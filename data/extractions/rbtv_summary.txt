@@ -1,29 +1,23 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-23T17:38:14.929125
+Extraction Time: 2025-09-23T17:49:34.031749
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 41
+- Unique Events: 39
 - Total Channels: 57
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
-- Usa: Ncaa - Iowa Vs State Football Press Conference (09/24/2...
-  Time: 12:50AM, Channels: 1
-- Usa: Ncaa - Colorado Vs Weekly Football Presser (09/24/25)
-  Time: 01:00AM, Channels: 1
 - German Basketball Cup - Phoenix Hagen Vs Rostock Seawolves (...
-  Time: 12:30AM, Channels: 1
+  Time: 12:30AM, Channels: 2
 - German Basketball Cup - Walter Tigers Tubingen Vs Tbb Trier ...
-  Time: 12:30AM, Channels: 1
+  Time: 12:30AM, Channels: 2
 - British Basketball League - London Lions Vs Cheshire Phoenix...
   Time: 02:30AM, Channels: 1
-- Lietuvos Krepsinio Lyga - Lietkabelis Vs Jonava (09/23/25)
-  Time: 11:15PM, Channels: 1
 - Basketball Champions League - Bc Kalev Cramo Vs Onyx Levice ...
   Time: 11:45PM, Channels: 1
 - T20 Asia Cup - Pakistan Vs Sri Lanka (09/23/25) [STREAM 1[HD...
@@ -90,6 +84,8 @@ EVENT BREAKDOWN:
   Time: 01:00AM, Channels: 1
 - South Africa Premier Soccer League - Siwelele Vs Orlando Pir...
   Time: 01:30AM, Channels: 1
+- Kontinental Hockey League - Ska Saint Petersburg Vs Avangard...
+  Time: 12:30AM, Channels: 1
 - Challenger Atp Challenger Orleans, France Men Singles - Nico...
   Time: 01:25AM, Channels: 1
 - Premier Padel 2025  -  Cupra Germany P2 - Day 2 (2) (09/23/2...
