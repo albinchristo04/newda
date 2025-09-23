@@ -1,29 +1,24 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Tue Sep 23 20:49:30 UTC 2025
+Last updated: Tue Sep 23 21:13:27 UTC 2025
 
-Workflow run: #88
+Workflow run: #89
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-23T20:49:29.650372
+Extracted at: 2025-09-23T21:13:26.855758
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== GROUPED EVENTS BY TITLE ===
+=== MEDIA SEGMENTS (First 10) ===
 
-EVENT: The Hundred 2025 (Men) - Birmingham Phoenix V Trent Rockets At London. (09/24/25)
-Time: 02:30AM
-Date: 09/24/25
-Category: None
-Available Channels (1):
-  1. SKA
-     URL: https://world-proxifier.xyz/rbtv/p/N1tCVkskS0MxVEFWEz0VElI1SkBNOlQqUlFONUxYS05LUEpWM1s0QE1YPVY1QjE1RF0xVjEiQEpEJzBWQCdUSzJdQTZNP1QqUjwRKBM9KxYsAhweLQEXFiwHFB4RPRA=/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp
-
-================================================================================
-
-EVENT: English Football League Cup - Burnley Vs Cardiff City (09/24/25)
-Time: 02:45AM
-Date: 09/24/25
-Category: None
+1. https://world-proxifier.xyz/rbtv/p/N1tCVkskS0MxVEFWEz0VElI1SkBNOlQqUlFONUxYS05LUEpWM1s0QE1YPVY1QjE1RF0xVjEiQEpEJzBWQCdUSzJdQTZNP1QqUjwRKBM9KxYsAhweLQEXFiwHFB4RPRA=/index.m3u8
+2. https://world-proxifier.xyz/rbtv/p/UyI3MzRaMkA2VFRXMVhKQDFQVA1IWkZWLkIFQE1VTkJAQjMyUkFONlISM0BSPlQoEjwRKBEDFRQUPSsoED0VEBYE/index.m3u8
+3. https://world-proxifier.xyz/rbtv/p/UyI3MzRaMkA2VFRXMVhKQDFQVA1IWkZWLkIFQE1VTkJAQjMyUkFONlISM0BSPlQoEjwRKBEDFRQUPSsoED0VEBYF/index.m3u8
+4. https://world-proxifier.xyz/rbtv/p/UyI3MzRaMkA2VFRXMVhKQDFQVA1IWkZWLkIFQE1VTkJAQjMyUkFONlISM0BSPlQoEjwRKBEDFRQUPSsoED0VEBYK/index.m3u8
+5. https://world-proxifier.xyz/rbtv/p/UyI3MzRaMkA2VFRXMVhKQDFQVA1IWkZWLkIFQE1VTkJAQjMyUkFONlISM0BSPlQoEjwVKBEDFRQUPSsoED0VEBc9/index.m3u8
+6. https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBUpLQIqFRM9HBMtAioTEgoWExU=/index.m3u8
+7. https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBUpLQIqFRM9HBMtAioTEgoXFBU=/index.m3u8
+8. https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBEoEQMrHhc9FCgQPRUQFwY=/index.m3u8
+9. https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBEoEQMrHhc9FCgQPRUQFAE=/index.m3u8
+10. https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBEoEQMrHhc9FCgQPRUQFAY=/index.m3u8
 ```
