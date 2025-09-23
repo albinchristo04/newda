@@ -1,92 +1,102 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-23T17:49:34.031749
+Extraction Time: 2025-09-23T18:22:48.278509
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 39
-- Total Channels: 57
+- Unique Events: 44
+- Total Channels: 120
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
 - German Basketball Cup - Phoenix Hagen Vs Rostock Seawolves (...
-  Time: 12:30AM, Channels: 2
+  Time: 12:30AM, Channels: 4
 - German Basketball Cup - Walter Tigers Tubingen Vs Tbb Trier ...
-  Time: 12:30AM, Channels: 2
+  Time: 12:30AM, Channels: 4
+- German Basketball Cup - Bg Goettingen Vs Telekom Baskets Bon...
+  Time: 02:00AM, Channels: 4
+- Ligue Nationale De Basket Pro B - Chorale Roanne Vs Rouen (0...
+  Time: 02:00AM, Channels: 2
 - British Basketball League - London Lions Vs Cheshire Phoenix...
-  Time: 02:30AM, Channels: 1
-- Basketball Champions League - Bc Kalev Cramo Vs Onyx Levice ...
-  Time: 11:45PM, Channels: 1
+  Time: 02:30AM, Channels: 2
 - T20 Asia Cup - Pakistan Vs Sri Lanka (09/23/25) [STREAM 1[HD...
-  Time: 10:30PM, Channels: 1
+  Time: 10:30PM, Channels: 2
 - Wbkf - The Bare Knuckle Show With Brian Soscia: Season 2, Ep...
-  Time: 12:05AM, Channels: 1
-- Finnish Veikkausliiga - Inter Turku Vs Hjk Helsinki (09/24/2...
-  Time: 12:00AM, Channels: 1
-- German Frauen Bundesliga - Bayern Munchen Women Vs Sc Freibu...
-  Time: 12:00AM, Channels: 4
-- German Frauen Bundesliga - Bayern Munchen Women Vs Sc Freibu...
-  Time: 12:00AM, Channels: 1
+  Time: 12:05AM, Channels: 2
 - Coppa Italia - Udinese Vs Palermo (09/24/25)
-  Time: 12:30AM, Channels: 5
+  Time: 12:30AM, Channels: 10
 - Coppa Italia - Udinese Vs Palermo (09/24/25) [STREAM 20[HD]]
-  Time: 12:30AM, Channels: 1
+  Time: 12:30AM, Channels: 2
 - Italian Serie C - Forli Vs Vis Pesaro (09/24/25)
-  Time: 12:30AM, Channels: 1
+  Time: 12:30AM, Channels: 2
 - Italian Serie C - Guidonia Vs Rimini (09/24/25)
-  Time: 12:30AM, Channels: 1
+  Time: 12:30AM, Channels: 2
 - Italian Serie C - Juventusu23 Vs Sassari Torres (09/24/25)
-  Time: 12:30AM, Channels: 1
+  Time: 12:30AM, Channels: 2
 - Italian Serie C - Nuovo Campobasso Vs Gubbio (09/24/25)
-  Time: 12:30AM, Channels: 1
+  Time: 12:30AM, Channels: 2
 - Italian Serie C - Ternana Vs Pontedera (09/24/25)
-  Time: 12:30AM, Channels: 1
+  Time: 12:30AM, Channels: 2
 - Italian Serie C - Us Pianese Vs Arezzo (09/24/25)
-  Time: 12:30AM, Channels: 1
+  Time: 12:30AM, Channels: 2
 - Russian Cup - Broke Boys Vs Sokol Saratov (09/24/25)
-  Time: 12:45AM, Channels: 1
+  Time: 12:45AM, Channels: 2
 - Argentine Reserve League - Tigre Reserves Vs Defensa Y Justi...
-  Time: 01:00AM, Channels: 1
+  Time: 01:00AM, Channels: 2
 - Danish Cup - Sundby Bk Vs Odense Bk (09/24/25)
-  Time: 01:00AM, Channels: 1
+  Time: 01:00AM, Channels: 2
 - Egyptian Premier League - Tala'Ea El Gaish Vs El Mokawloon E...
-  Time: 01:00AM, Channels: 1
+  Time: 01:00AM, Channels: 2
 - Egyptian Premier League - Zamalek Sc Vs El Gounah (09/24/25)
-  Time: 01:00AM, Channels: 1
+  Time: 01:00AM, Channels: 2
 - German Frauen Bundesliga - Carl Zeiss Jena Women Vs Union Be...
-  Time: 01:00AM, Channels: 1
+  Time: 01:00AM, Channels: 2
 - Greek Cup - Aris Thessaloniki Vs Marko (09/24/25)
-  Time: 01:00AM, Channels: 1
+  Time: 01:00AM, Channels: 2
 - Polish Cup - Ks Polonia Sroda Wlkp Vs Olimpia Grudziadz (09/...
-  Time: 01:00AM, Channels: 1
+  Time: 01:00AM, Channels: 2
 - Qatari Stars Cup - Al Rayyan Vs Al-Wakrah Sc (09/24/25)
-  Time: 01:00AM, Channels: 1
+  Time: 01:00AM, Channels: 2
 - Spanish La Liga - Athletic Club Vs Girona Fc (09/24/25)
-  Time: 01:00AM, Channels: 6
+  Time: 01:00AM, Channels: 12
 - Spanish La Liga - Athletic Club Vs Girona Fc (09/24/25) [STR...
-  Time: 01:00AM, Channels: 1
+  Time: 01:00AM, Channels: 2
 - Spanish La Liga - Athletic Club Vs Girona Fc (09/24/25) [STR...
-  Time: 01:00AM, Channels: 1
+  Time: 01:00AM, Channels: 2
 - Spanish La Liga - Rcd Espanyol De Barcelona Vs Valencia Cf (...
-  Time: 01:00AM, Channels: 5
+  Time: 01:00AM, Channels: 10
 - Spanish La Liga - Rcd Espanyol De Barcelona Vs Valencia Cf (...
-  Time: 01:00AM, Channels: 1
+  Time: 01:00AM, Channels: 2
 - Spanish La Liga - Rcd Espanyol De Barcelona Vs Valencia Cf (...
-  Time: 01:00AM, Channels: 1
+  Time: 01:00AM, Channels: 2
 - Turkish First League - Corum Belediyespor Vs Serik Belediyes...
-  Time: 01:00AM, Channels: 1
+  Time: 01:00AM, Channels: 2
 - Turkish First League - Iğdır Fk Vs Atakas Hatayspor (09/24/2...
-  Time: 01:00AM, Channels: 1
+  Time: 01:00AM, Channels: 2
 - U17 Gulf Cup Of Nations - Bahrain U17 Vs Iraq U17 (09/24/25)
-  Time: 01:00AM, Channels: 1
+  Time: 01:00AM, Channels: 2
 - South Africa Premier Soccer League - Siwelele Vs Orlando Pir...
-  Time: 01:30AM, Channels: 1
+  Time: 01:30AM, Channels: 2
+- Argentine Reserve League - Rosario Central Reserves Vs River...
+  Time: 02:00AM, Channels: 2
+- Argentine Reserve League - Sarmiento Junin Reserve Vs Gimnas...
+  Time: 02:00AM, Channels: 2
+- Belgian Second Division - Francs Borains Vs Rfc Seraing (09/...
+  Time: 02:00AM, Channels: 2
+- Belgian Second Division - Jong Genk Vs Beerschot Wilrijk (09...
+  Time: 02:00AM, Channels: 2
+- Belgian Second Division - Olympic Charleroi Vs Rsca Futures ...
+  Time: 02:00AM, Channels: 2
+- Intercontinental Cup - Al Ahli Sfc Vs Pyramids Fc (09/24/25)
+  Time: 02:00AM, Channels: 2
+- Netherlands Knvb Cup - Kozakken Boys Vs Barendrecht (09/24/2...
+  Time: 02:00AM, Channels: 2
 - Kontinental Hockey League - Ska Saint Petersburg Vs Avangard...
-  Time: 12:30AM, Channels: 1
+  Time: 12:30AM, Channels: 2
 - Challenger Atp Challenger Orleans, France Men Singles - Nico...
-  Time: 01:25AM, Channels: 1
+  Time: 01:25AM, Channels: 2
 - Premier Padel 2025  -  Cupra Germany P2 - Day 2 (2) (09/23/2...
-  Time: 11:00PM, Channels: 1
+  Time: 11:00PM, Channels: 2
