@@ -1,12 +1,12 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Tue Sep 23 09:18:25 UTC 2025
+Last updated: Tue Sep 23 09:39:26 UTC 2025
 
-Workflow run: #50
+Workflow run: #51
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-23T09:18:24.409189
+Extracted at: 2025-09-23T09:39:25.642854
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -22,8 +22,8 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: Korea Open, Women, Doubles - L.Lui L/Y.Tsang H Vs Apriyani Rahayu/Siti Fadia Silva Ramadhanti (09/23/25)
-Time: 04:35PM
+EVENT: Korea Open, Women, Doubles - Buhrova P / Kantemyr Y Vs Jang Eun Seo/Kim So-Yeong (09/23/25)
+Time: 05:10PM
 Date: 09/23/25
 Category: None
 ```
