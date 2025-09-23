@@ -1,15 +1,792 @@
-Extracted at: 2025-09-23T18:46:59.460054
+Extracted at: 2025-09-23T19:12:24.615926
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== MEDIA SEGMENTS (First 10) ===
+=== GROUPED EVENTS BY TITLE ===
 
-1. https://world-proxifier.xyz/rbtv/p/AyFOM0gmTVYDUDBKRCdHRE9fVA1EUEwwREIoVgkiS0MyXVQNSCJLMlIlMFYAW0IyS1g3QFJDTTZEXU4_Uj5UKBM8ESgSChMRFAUXKBMHEhAVBg==/index.m3u8
-2. https://world-proxifier.xyz/rbtv/p/AyFOM0gmTVYDUDBKRCdHRE9fVA1EUEwwREIoVgkiS0MyXVQNSCJLMlIlMFYAW0IyS1g3QFJDTTZEXU4_Uj5UKBM8FSgSChMRFAUXKBMHEhAVAA==/index.m3u8
-3. https://world-proxifier.xyz/rbtv/p/AyFOM0gmTVYDUDBKRCdHRE9fVA1EUEwwREIoVgkiS0MyXVQNSCJLMlIlMFYAW0IyS1g3QFJDTTZEXU4_Uj5UKBM8FigSChMRFAUXKBMHEhAVAw==/index.m3u8
-4. https://world-proxifier.xyz/rbtv/p/AyFOM0gmTVYDUDBKRCdHRE9fVA1EUEwwREIoVgkiS0MyXVQNSCJLMlIlMFYAW0IyS1g3QFJDTTZEXU4_Uj5UKBM8ESgSChMRFAUXKBMHEhAVBg==/index.m3u8
-5. https://world-proxifier.xyz/rbtv/p/AyFOM0gmTVYDUDBKRCdHRE9fVA1EUEwwREIoVgkiS0MyXVQNSCJLMlIlMFYAW0IyS1g3QFJDTTZEXU4_Uj5UKBM8FSgSChMRFAUXKBMHEhAVAA==/index.m3u8
-6. https://world-proxifier.xyz/rbtv/p/AyFOM0gmTVYDUDBKRCdHRE9fVA1EUEwwREIoVgkiS0MyXVQNSCJLMlIlMFYAW0IyS1g3QFJDTTZEXU4_Uj5UKBM8FigSChMRFAUXKBMHEhAVAw==/index.m3u8
-7. https://world-proxifier.xyz/rbtv/p/BFQ3SEBdVAdAJkhAN1FGS09CBjAzQihWAxRUADJUMTNIXUxATUIzMlJHQktEXjRIUhNGMk5UMTJSEzRJTUIoViwDKhMsAhwRFQQSEiwDERAUBSs=/index.m3u8
-8. https://world-proxifier.xyz/rbtv/p/BFQ3SEBdVAdAJkhAN1FGS09CBjAzQihWAxRUADJUMTNIXUxATUIzMlJHQktEXjRIUhNGMk5UMTJSEzRJTUIoViwDKhQsAhwRFQQSEiwDERAUBBM=/index.m3u8
-9. https://world-proxifier.xyz/rbtv/p/BFQ3SEBdVAdAJkhAN1FGS09CBjAzQihWAxRUADJUMTNIXUxATUIzMlJHQktEXjRIUhNGMk5UMTJSEzRJTUIoViwDKhMsAhwRFQQSEiwDERAUBSs=/index.m3u8
-10. https://world-proxifier.xyz/rbtv/p/BFQ3SEBdVAdAJkhAN1FGS09CBjAzQihWAxRUADJUMTNIXUxATUIzMlJHQktEXjRIUhNGMk5UMTJSEzRJTUIoViwDKhQsAhwRFQQSEiwDERAUBBM=/index.m3u8
+EVENT: German Basketball Cup - Bg Goettingen Vs Telekom Baskets Bonn (09/24/25)
+Time: 02:00AM
+Date: 09/24/25
+Category: None
+Available Channels (2):
+  1. SDK A
+     URL: https://world-proxifier.xyz/rbtv/p/BFQ3SEBdVAdAJkhAN1FGS09CBjAzQihWAxRUADJUMTNIXUxATUIzMlJHQktEXjRIUhNGMk5UMTJSEzRJTUIoViwDKhMsAhwRFQQSEiwDERAUBSs=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/BFQ3SEBdVAdAJkhAN1FGS09CBjAzQihWAxRUADJUMTNIXUxATUIzMlJHQktEXjRIUhNGMk5UMTJSEzRJTUIoViwDKhQsAhwRFQQSEiwDERAUBBM=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+
+================================================================================
+
+EVENT: Ligue Nationale De Basket Pro B - Chorale Roanne Vs Rouen (09/24/25)
+Time: 02:00AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/CVhMMERCCUQ3WDRJQF9CVkdUVAdAJkhAN0JVNTJCBVYuQgZPMiFGS0RCVzZAXUtAUiUwVlEiMkBNQihWLAMqFCwCHBEVBBMULAMREBQEEg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+
+================================================================================
+
+EVENT: British Basketball League - London Lions Vs Cheshire Phoenix (09/24/25)
+Time: 02:30AM
+Date: 09/24/25
+Category: None
+Available Channels (2):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/AyFOM0gmTVYDUDBKRCdHRE9fVA1EUEwwREIoVgkiS0MyXVQNSCJLMlIlMFYAW0IyS1g3QFJDTTZEXU4_Uj5UKBM8ESgSChMRFAUXKBMHEhAVBg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/AyFOM0gmTVYDUDBKRCdHRE9fVA1EUEwwREIoVgkiS0MyXVQNSCJLMlIlMFYAW0IyS1g3QFJDTTZEXU4_Uj5UKBM8FigSChMRFAUXKBMHEhAVAw==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+
+================================================================================
+
+EVENT: British Basketball League - London Lions Vs Cheshire Phoenix (09/24/25) [STREAM 24[HD]]
+Time: 02:30AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/AyFOM0gmTVYDUDBKRCdHRE9fVA1EUEwwREIoVgkiS0MyXVQNSCJLMlIlMFYAW0IyS1g3QFJDTTZEXU4_Uj5UKBM8FSgSChMRFAUXKBMHEhAVAA==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+
+================================================================================
+
+EVENT: The Hundred 2025 (Men) - Birmingham Phoenix V Trent Rockets At London. (09/24/25)
+Time: 02:30AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. SKA
+     URL: https://world-proxifier.xyz/rbtv/p/N1tCVkskS0MxVEFWEz0VElI1SkBNOlQqUlFONUxYS05LUEpWM1s0QE1YPVY1QjE1RF0xVjEiQEpEJzBWQCdUSzJdQTZNP1QqUjwRKBM9KxYsAhweLQEXFiwHFB4RPRA=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp
+
+================================================================================
+
+EVENT: Wbkf - The Bare Knuckle Show With Brian Soscia: Season 2, Episode 117 (09/24/25)
+Time: 12:05AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/WhMOA1I-VFNLVFQHQCFCVghdMkJOX0JWVls0PlIqTjNLQgU1SFBLVlYiMEJIUB1WVlRGMjJdVBcpQgA3SCY0Q0RCFBYUQihWLAIXKBc8FB4aPRcUFDwVExQEERU=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp
+
+================================================================================
+
+EVENT: South Africa Premier Soccer League - Siwelele Vs Orlando Pirates (09/24/25)
+Time: 01:30AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/ViIyM0tCBEExWEBEUkM3QExYQjVSRjRCRlQ3VglURk40VFQqUkZOPkRfQktEQjMyUhw3S0BdQTZSQ041QCdCMlI-VCgSPBEoEQMQKRoKFigQPRUTET0=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Argentine Reserve League - Rosario Central Reserves Vs River Plate R (09/24/25)
+Time: 02:00AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/AiFMQE0nTklEQldANlQ3MURCD0BAWjJAUj5UVTImRjVIIlQERF0xNUBfVFVEJkI1NVQwVjUmVFVIJUI1UkNJRDdUVFVSPlQoEjwWKBEDExQaABcoED0VExEB/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Argentine Reserve League - Sarmiento Junin Reserve Vs Gimnasia Lp Reserves (09/24/25)
+Time: 02:00AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/AiFMQE0nTklEQldANlQ3MURCD0BAWjJAUj5UUkAhSkxEXTE2UhsySUhdVFVEJkI1NVRUMTZCAkxMXUYySFBUDVNCV0A2VDcxRCZUKlI8FCgQPBcXFQEVFBI8FikTBxcT/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Belgian Second Division - Francs Borains Vs Rfc Seraing (09/24/25)
+Time: 02:00AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/A1RJTkhQS1ZWVEA2TVdUBUglTjJIIktWLkIBNUBdQDJSEzQ1QFhLMlIlMFZRFwZWVlQ3REhdTFYuQioWLAAqFRMCFhIaByoULQMRFRI=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Belgian Second Division - Jong Genk Vs Beerschot Wilrijk (09/24/25)
+Time: 02:00AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/A1RJTkhQS1ZWVEA2TVdUBUglTjJIIktWLkINNk1aVABEXUhWNSZUB0RUNzJGWzQzUkpOSzFYT0pSPlQoEjwWKBEDFBQWChMoED0VExED/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Netherlands Knvb Cup - Kozakken Boys Vs Barendrecht (09/24/25)
+Time: 02:00AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. HDD A DUTCH
+     URL: https://world-proxifier.xyz/rbtv/p/D1QxT0QhSURNVzBWCB9TB1IQMjdSPlQMMilGSk5US1YDIj4yUiUwVgNQN0BNVzdARlsxVi5CKhYsByoVEwUXFhMEKhQtAxEVFA==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Belgian Pro League - Anderlecht Vs Kaa Gent (09/24/25)
+Time: 02:30AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/A1RJTkhQS1ZTITRWCVRGTjRUVCpSEktDRCFJQEZbMVY1JlQMAhJUAERdMVYuQioWLAAqFRIKExEaAioULQMREhI=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: French Ligue 2 - Amiens Vs As Saint-Étienne (09/24/25)
+Time: 02:30AM
+Date: 09/24/25
+Category: None
+Available Channels (3):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/ByFCSUZbVA1IWjJAUgNUKlISSkxEXTBWNSZUBlZCUERIXTEqsesxTERdS0BSPlQoEjwRKBEDEBcSBSsoED0VExQ9/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. HDD B FRANÇAIS
+     URL: https://world-proxifier.xyz/rbtv/p/ByFCSUZbVA1IWjJAUgNUKlISSkxEXTBWNSZUBlZCUERIXTEqsesxTERdS0BSPlQoEjwRKBEDEBcSBSsoED0VExQF/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  3. SD
+     URL: https://world-proxifier.xyz/rbtv/p/ByFCSUZbVA1IWjJAUgNUKlISSkxEXTBWNSZUBlZCUERIXTEqsesxTERdS0BSPlQoEjwWKBEDEBcSBSsoED0VExYD/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: French Ligue 2 - Amiens Vs As Saint-Étienne (09/24/25) [STREAM 8[HD]]
+Time: 02:30AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/ByFCSUZbVA1IWjJAUgNUKlISSkxEXTBWNSZUBlZCUERIXTEqsesxTERdS0BSPlQoEjwVKBEDEBcSBSsoED0VExcD/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: French Ligue 2 - Annecy Vs Nancy (09/24/25)
+Time: 02:30AM
+Date: 09/24/25
+Category: None
+Available Channels (2):
+  1. HDD A FRANÇAIS
+     URL: https://world-proxifier.xyz/rbtv/p/ByFCSUZbVA1IWjJAUgNUKlISS0lEVj5WNSZUC0BdQDxSPlQoEjwRKBEDEBcSBRYoED0VExcB/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/ByFCSUZbVA1IWjJAUgNUKlISS0lEVj5WNSZUC0BdQDxSPlQoEjwWKBEDEBcSBRYoED0VExYB/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: French Ligue 2 - Bastia Vs Rodez Aveyron (09/24/25)
+Time: 02:30AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/ByFCSUZbVA1IWjJAUgNUKlITRjI3WEZWNSZUVTJXQj1SEjNAOCE0SVI-VCgSPBYoEQMQFxIHESgQPRUTFgA=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: French Ligue 2 - Guingamp Vs Usl Dunkerque (09/24/25)
+Time: 02:30AM
+Date: 09/24/25
+Category: None
+Available Channels (2):
+  1. HDD A FRANÇAIS
+     URL: https://world-proxifier.xyz/rbtv/p/ByFCSUZbVA1IWjJAUgNUKlIUMkxNWkZIM0IzMlJEUA1SETJJTlQ3NDRUVCpSPBQoFzwXFxYDFBMRPBYpEwcREg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/ByFCSUZbVA1IWjJAUgNUKlIUMkxNWkZIM0IzMlJEUA1SETJJTlQ3NDRUVCpSPBQoEDwXFxYDFBMRPBYpEwcQEA==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: French Ligue 2 - Le Mans Vs Grenoble (09/24/25)
+Time: 02:30AM
+Date: 09/24/25
+Category: None
+Available Channels (2):
+  1. HDD A FRANÇAIS
+     URL: https://world-proxifier.xyz/rbtv/p/ByFCSUZbVA1IWjJAUgNUKlIZQlYOUEsyUiUwVgQhQkkyUUlAUj5UKBI8ESgRAxAXEgcQKBA9FRAQCg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/ByFCSUZbVA1IWjJAUgNUKlIZQlYOUEsyUiUwVgQhQkkyUUlAUj5UKBI8FigRAxAXEgcQKBA9FRMWBw==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: French Ligue 2 - Montpellier Hérault Sc Vs Boulogne (09/24/25)
+Time: 02:30AM
+Date: 09/24/25
+Category: None
+Available Channels (2):
+  1. HDD A FRANÇAIS
+     URL: https://world-proxifier.xyz/rbtv/p/ByFCSUZbVA1IWjJAUgNUKlIeNEk3I0JLT1hCNVIVt98xUDJLN0JQBFIlMFYDIjJLMlpLQFI-VCgSPBEoEQMQFxMFFygQPRUTFwQ=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/ByFCSUZbVA1IWjJAUgNUKlIeNEk3I0JLT1hCNVIVt98xUDJLN0JQBFIlMFYDIjJLMlpLQFI-VCgSPBYoEQMQFxMFFygQPRUTFgY=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: French Ligue 2 - Pau Fc Vs Stade Lavallois Mfc (09/24/25)
+Time: 02:30AM
+Date: 09/24/25
+Category: None
+Available Channels (2):
+  1. HDD A FRANÇAIS
+     URL: https://world-proxifier.xyz/rbtv/p/ByFCSUZbVA1IWjJAUgNUKlJDRjBSFwZWNSZUUjdQQUBSGUYxQF9JNkgmVAoHEFQqUjwUKBc8FxcWAxYWEDwWKRMHERE=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/ByFCSUZbVA1IWjJAUgNUKlJDRjBSFwZWNSZUUjdQQUBSGUYxQF9JNkgmVAoHEFQqUjwUKBA8FxcWAxYWEDwWKRMHEBE=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: French Ligue 2 - Red Star Fc 93 Vs Troyes (09/24/25)
+Time: 02:30AM
+Date: 09/24/25
+Category: None
+Available Channels (2):
+  1. HDD A FRANÇAIS
+     URL: https://world-proxifier.xyz/rbtv/p/ByFCSUZbVA1IWjJAUgNUKlJBQkNSRjFEMUIBBFIKFlY1JlRTMSI-QDZCKFYsAioTLAEVEhMGEhEsACsXFwcc/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/ByFCSUZbVA1IWjJAUgNUKlJBQkNSRjFEMUIBBFIKFlY1JlRTMSI-QDZCKFYsAioULAEVEhMGEhEsACsXFwYc/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: French Ligue 2 - Stade De Reims Vs Clermont (09/24/25)
+Time: 02:30AM
+Date: 09/24/25
+Category: None
+Available Channels (3):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/ByFCSUZbVA1IWjJAUgNUKlJGMURHVFQFBkJXQEhcMFY1JlQET1Q3SDJdMVYuQioWLAcqFRMGFRYXBCoULQMREBo=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. HDD B FRANÇAIS
+     URL: https://world-proxifier.xyz/rbtv/p/ByFCSUZbVA1IWjJAUgNUKlJGMURHVFQFBkJXQEhcMFY1JlQET1Q3SDJdMVYuQioWLAcqFRMGFRYXBCoULQMRES0=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  3. SD
+     URL: https://world-proxifier.xyz/rbtv/p/ByFCSUZbVA1IWjJAUgNUKlJGMURHVFQFBkJXQEhcMFY1JlQET1Q3SDJdMVYuQioWLAAqFRMGFRYXBCoULQMREy0=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: French Ligue 2 - Stade De Reims Vs Clermont (09/24/25) [STREAM 27[HD]]
+Time: 02:30AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/ByFCSUZbVA1IWjJAUgNUKlJGMURHVFQFBkJXQEhcMFY1JlQET1Q3SDJdMVYuQioWLAMqFRMGFRYXBCoULQMRExA=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Italian Women'S Cup - As Roma Women Vs Lazio Women (09/24/25)
+Time: 02:30AM
+Date: 09/24/25
+Category: None
+Available Channels (3):
+  1. DAZN ES
+     URL: https://world-proxifier.xyz/rbtv/p/CidGS0hQS1ZaIkpATTQwVgAkNVYuQgRSUkE0SEBCXDZMVEtWNSZUDUApTjZSSjRIRF1UKlI8FCgTPSsWLAEVERcCEBcsBxQeEAcc/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/CidGS0hQS1ZaIkpATTQwVgAkNVYuQgRSUkE0SEBCXDZMVEtWNSZUDUApTjZSSjRIRF1UKlI8FCgXPBcXFQcUEhM8FikTBxIV/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  3. HDD B ITALIANO
+     URL: https://world-proxifier.xyz/rbtv/p/CidGS0hQS1ZaIkpATTQwVgAkNVYuQgRSUkE0SEBCXDZMVEtWNSZUDUApTjZSSjRIRF1UKlI8FCgXPBcXFQcUEhM8FikTBxIS/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Polish Cup - Gks Katowice Vs Wisla Plock (09/24/25)
+Time: 02:30AM
+Date: 09/24/25
+Category: None
+Available Channels (2):
+  1. HDD A POLSKI
+     URL: https://world-proxifier.xyz/rbtv/p/UyJJTDZbVAQ0I1QqUhQOUlIYRjMyKk5CREIzMlJKTjJPUFRXTyJASlI-VCgSPBEoEQMTFRIKFCgQPRUTFAc=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/UyJJTDZbVAQ0I1QqUhQOUlIYRjMyKk5CREIzMlJKTjJPUFRXTyJASlI-VCgSPBYoEQMTFRIKFCgQPRUTFwI=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: English Football League Cup - Barnsley Vs Brighton Hove Albion (09/24/25)
+Time: 02:45AM
+Date: 09/24/25
+Category: None
+Available Channels (2):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYHIjQzQVBJS1IZQkRKJEJWACQ1Vi5CBUQxXTBLRChUMTZCBTVIWk0zMl1UATIlQlYCX0dMMl1UKlI8FCgXPBcXFT0UFhI8FikTBxwQ/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYHIjQzQVBJS1IZQkRKJEJWACQ1Vi5CBUQxXTBLRChUMTZCBTVIWk0zMl1UATIlQlYCX0dMMl1UKlI8FCgQPBcXFT0UFhI8FikTBxMX/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: English Football League Cup - Barnsley Vs Brighton Hove Albion (09/24/25) [STREAM 17[HD]]
+Time: 02:45AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYHIjQzQVBJS1IZQkRKJEJWACQ1Vi5CBUQxXTBLRChUMTZCBTVIWk0zMl1UATIlQlYCX0dMMl1UKlI8FCgTPBcXFT0UFhI8FikTBCsQ/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: English Football League Cup - Burnley Vs Cardiff City (09/24/25)
+Time: 02:45AM
+Date: 09/24/25
+Category: None
+Available Channels (2):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYHIjQzQVBJS1IZQkRKJEJWACQ1Vi5CBTAxXUlAOEIzMlIQRjVHWENBUhBOMzhCKFYsAioTLAEVERI9FBcsACsXFwoT/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYHIjQzQVBJS1IZQkRKJEJWACQ1Vi5CBTAxXUlAOEIzMlIQRjVHWENBUhBOMzhCKFYsAioULAEVERI9FBcsACsXFwor/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: English Football League Cup - Fulham Vs Cambridge United (09/24/25)
+Time: 02:45AM
+Date: 09/24/25
+Category: None
+Available Channels (3):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYHIjQzQVBJS1IZQkRKJEJWACQ1Vi5CATBPW0ZIUiUwVgBQSkUxWEFOREJSSUgnQkNSPlQoEjwRKBEDEykSAxIoED0VExoK/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. HDD C PORTUGUÊS
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYHIjQzQVBJS1IZQkRKJEJWACQ1Vi5CATBPW0ZIUiUwVgBQSkUxWEFOREJSSUgnQkNSPlQoEjwRKBEDEykSAxIoED0VEC0F/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  3. SD
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYHIjQzQVBJS1IZQkRKJEJWACQ1Vi5CATBPW0ZIUiUwVgBQSkUxWEFOREJSSUgnQkNSPlQoEjwWKBEDEykSAxIoED0VExUK/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: English Football League Cup - Fulham Vs Cambridge United (09/24/25) [STREAM 23[HD]]
+Time: 02:45AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYHIjQzQVBJS1IZQkRKJEJWACQ1Vi5CATBPW0ZIUiUwVgBQSkUxWEFOREJSSUgnQkNSPlQoEjwVKBEDEykSAxIoED0VEBY9/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: English Football League Cup - Lincoln City Vs Chelsea (09/24/25)
+Time: 02:45AM
+Date: 09/24/25
+Category: None
+Available Channels (4):
+  1. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYHIjQzQVBJS1IZQkRKJEJWACQ1Vi5CD0xNVjRLTUIGTDcoVDE2QgZPRF8wQEBCKFYsAioXLT0UKBEDEykSAhwoFwIcFBcH/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. HDD C PORTUGUÊS
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYHIjQzQVBJS1IZQkRKJEJWACQ1Vi5CD0xNVjRLTUIGTDcoVDE2QgZPRF8wQEBCKFYsAioTLAEVES0CFB4sACsXFD0r/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  3. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYHIjQzQVBJS1IZQkRKJEJWACQ1Vi5CD0xNVjRLTUIGTDcoVDE2QgZPRF8wQEBCKFYsAioTLAEVES0CFB4sACsXFD0R/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  4. SD
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYHIjQzQVBJS1IZQkRKJEJWACQ1Vi5CD0xNVjRLTUIGTDcoVDE2QgZPRF8wQEBCKFYsAioULAEVES0CFB4sACsXFwoU/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: English Football League Cup - Lincoln City Vs Chelsea (09/24/25) [STREAM 15[HD]]
+Time: 02:45AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYHIjQzQVBJS1IZQkRKJEJWACQ1Vi5CD0xNVjRLTUIGTDcoVDE2QgZPRF8wQEBCKFYsAioXLAEVES0CFB4sACsXFAYR/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: English Football League Cup - Wigan Athletic Vs Wycombe Wanderers (09/24/25)
+Time: 02:45AM
+Date: 09/24/25
+Category: None
+Available Channels (2):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYHIjQzQVBJS1IZQkRKJEJWACQ1Vi5CXExKUEtWAidNS0QnTkJSJTBWWihANkxRQlZaUEtDRCFCNTZCKFYsAioTLAEVES0CFBEsACsXFD0U/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYHIjQzQVBJS1IZQkRKJEJWACQ1Vi5CXExKUEtWAidNS0QnTkJSJTBWWihANkxRQlZaUEtDRCFCNTZCKFYsAioULAEVES0CFBEsACsXFwoV/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: English Football League Cup - Wigan Athletic Vs Wycombe Wanderers (09/24/25) [STREAM 44[HD]]
+Time: 02:45AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYHIjQzQVBJS1IZQkRKJEJWACQ1Vi5CXExKUEtWAidNS0QnTkJSJTBWWihANkxRQlZaUEtDRCFCNTZCKFYsAioXLAEVES0CFBEsACsXFAIR/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: English Football League Cup - Wolverhampton Wanderers Vs Everton (09/24/25)
+Time: 02:45AM
+Date: 09/24/25
+Category: None
+Available Channels (3):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYHIjQzQVBJS1IZQkRKJEJWACQ1Vi5CXDZPJUI1S1BKNzciS1ZaUEtDRCFCNTZCMzJSFjNAMSc0SVI-VCgSPBEoEQMTKRICFSgQPRUQLQM=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. HDD C PORTUGUÊS
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYHIjQzQVBJS1IZQkRKJEJWACQ1Vi5CXDZPJUI1S1BKNzciS1ZaUEtDRCFCNTZCMzJSFjNAMSc0SVI-VCgSPBEoEQMTKRICFSgQPRUQLQA=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  3. SD
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYHIjQzQVBJS1IZQkRKJEJWACQ1Vi5CXDZPJUI1S1BKNzciS1ZaUEtDRCFCNTZCMzJSFjNAMSc0SVI-VCgSPBYoEQMTKRICFSgQPRUTGgE=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: English Football League Cup - Wolverhampton Wanderers Vs Everton (09/24/25) [STREAM 1[HD]]
+Time: 02:45AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYHIjQzQVBJS1IZQkRKJEJWACQ1Vi5CXDZPJUI1S1BKNzciS1ZaUEtDRCFCNTZCMzJSFjNAMSc0SVI-VCgSPBUoEQMTKRICFSgQPRUQFgI=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: English Football League Cup - Wrexham Vs Reading (09/24/25)
+Time: 02:45AM
+Date: 09/24/25
+Category: None
+Available Channels (2):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYHIjQzQVBJS1IZQkRKJEJWACQ1Vi5CXDVEK01ETEIzMlJBQkRHWEtOUj5UKBI8ESgRAxMpEgIRKBA9FRAtAQ==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYHIjQzQVBJS1IZQkRKJEJWACQ1Vi5CXDVEK01ETEIzMlJBQkRHWEtOUj5UKBI8FigRAxMpEgIRKBA9FRMaBg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: English Football League Cup - Wrexham Vs Reading (09/24/25) [STREAM 6[HD]]
+Time: 02:45AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYHIjQzQVBJS1IZQkRKJEJWACQ1Vi5CXDVEK01ETEIzMlJBQkRHWEtOUj5UKBI8FSgRAxMpEgIRKBA9FRASAg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: English National League - Altrincham Vs Forest Green Rovers (09/24/25)
+Time: 02:45AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYPUDFMMl1GS1IZQkRKJEJWLkIESzchTklGW0ZIUiUwVgciN0A2J1QAMVRCSVJBNDFEITBWLkIqFiwHKhUTAhwTLQQqFC0DEhcU/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: English National League - Brackley Town Vs Truro City (09/24/25)
+Time: 02:45AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYPUDFMMl1GS1IZQkRKJEJWLkIFNUBWSEtEKFRTMipLVjUmVFMxJDc2UhBOMzhCKFYsAioTLAEVFhoGFhQsACsXFAAS/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: English National League - Gateshead Vs Hartlepool United (09/24/25)
+Time: 02:45AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYPUDFMMl1GS1IZQkRKJEJWLkICRDdUME9EUEFWNSZUAUAhMUtEIzQ2T0JSSUgnQkNSPlQoEjwRKBEDFB4WBBwoED0VEBMH/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: English National League - Rochdale Vs Solihull Moors (09/24/25)
+Time: 02:45AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYPUDFMMl1GS1IZQkRKJEJWLkJXNkZbQURPVFQxNkJQNk9YTTBPX1QKMiI3MlI-VCgSPBEoEQMUHhYAFSgQPRUQEAU=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: English National League - Woking Vs Sutton United (09/24/25)
+Time: 02:45AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYPUDFMMl1GS1IZQkRKJEJWLkJcNk5YS05SJTBWViQxMzJdVFBNWDFAR0IoViwCKhMsARUWGgYXFywAKxcUAxw=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: English National League - York City Vs Carlisle United (09/24/25)
+Time: 02:45AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYPUDFMMl1GS1IZQkRKJEJWLkJeNjFeVARIJz5WNSZUBEAhSUw2X0JWVF1OM0RXVCpSPBQoFzwXFxIKEBUaPBYpEwQWKQ==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Italian Serie C - A.S.D. Bra Vs Livorno (09/24/25)
+Time: 02:45AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/CidGS0hQS1ZWVDdMREIGVi5CBCtWPwcrUhM3RFIlMFYJWDM2MV00Vi5CKhYsACoVEwEUKRYBKhQtAxERFw==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Italian Serie C - Ascoli Vs Asd Pineto Calcio (09/24/25)
+Time: 02:45AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/CidGS0hQS1ZWVDdMREIGVi5CBDJGIklMUiUwVgImQVZTWEtANyJUBEBfQEwyQihWLAIqFCwBFRUSPRARLAArFxcFFg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Italian Serie C - Carpi Vs Ravenna (09/24/25)
+Time: 02:45AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/CidGS0hQS1ZWVDdMREIGVi5CBkQxI05WNSZUVUAlQklNUFQqUjwUKBA8FxcRAisVLTwWKRMHHBQ=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Italian Serie C - Perugia Vs Us Sambenedettese (09/24/25)
+Time: 02:45AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/CidGS0hQS1ZWVDdMREIGVi5CVUAxJExMQEIzMlJEUFZWUEpFRF1CQ0QnMUA2VFQqUjwUKBA8FxcRAisUFjwWKRMHExI=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Scottish Championship - Airdrie United Vs Saint Johnstone (09/24/25)
+Time: 02:45AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/VlY0MzdYME9SEE1ETCNONk0mTUwzQihWAlg3QzFYQlZUXU4zRFdUMTZCUERIXTFWCyJNSTYnNElEQihWLAIqFCwBFRcUPRwSLAArFxcFEg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Scottish Championship - Dunfermline Athletic Vs Ayr United (09/24/25)
+Time: 02:45AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/VlY0MzdYME9SEE1ETCNONk0mTUwzQihWASRLQUQhSktIXUJWAidNS0QnTkJSJTBWAig3VlRdTjNEV1QqUjwUKBA8FxcTBBQpETwWKRMHExU=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Scottish Premiership - Dundee United Vs Aberdeen (09/24/25)
+Time: 02:45AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/VlY0MzdYME9SQzdATFhCNTZbTjdSPlQFNF1BQERCUklIJ0JDUiUwVgJRQjVHVEJJUj5UKBI8FigRAxQpFD0SKBA9FRMVBQ==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Scottish Premiership - Falkirk Vs Hibernian (09/24/25)
+Time: 02:45AM
+Date: 09/24/25
+Category: None
+Available Channels (2):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/VlY0MzdYME9SQzdATFhCNTZbTjdSPlQDQF9ITDFeVDE2QgNMQVQ3SUhQS1YuQioWLAcqFRMDEBQRAioULQMRHhc=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/VlY0MzdYME9SQzdATFhCNTZbTjdSPlQDQF9ITDFeVDE2QgNMQVQ3SUhQS1YuQioWLAAqFRMDEBQRAioULQMRERI=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Argentine Reserve League - Huracan Reserves Vs Banfield Reserves (09/24/25)
+Time: 03:00AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/AiFMQE0nTklEQldANlQ3MURCD0BAWjJAUj5UATQhRkJAXVRVRCZCNTVUMFY1JlQHQF1DTERfQVZRVDBAMSVCMlI-VCgSPBYoEQMTFBo9HCgQPRUQEAY=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Bolivian Primera Division - Oriente Petrolero Vs Independiente Petrolero (09/24/25)
+Time: 03:00AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/AyJJTDVYRklSQzdMTFQ3RFIRTjFIJk42TUIoVgwhTkBNJ0JWU1QxNTJfQjUyQjMyUhpLQ0QjQklHWEJJN1RUV0QnNzZPVDc2Uj5UKBI8FigRAxMTFgISKBA9FRAQBw==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Coppa Italia - Ac Milan Vs Lecce (09/24/25)
+Time: 03:00AM
+Date: 09/24/25
+Category: None
+Available Channels (5):
+  1. MOVISTAR2
+     URL: https://world-proxifier.xyz/rbtv/p/ACI1N0BCDDNAX05EUj5UBgBCCExPUEtWNSZUDURWQEBSPlQoEjwVKS0CKhUTBxEREQMqExIKFxYa/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/ACI1N0BCDDNAX05EUj5UBgBCCExPUEtWNSZUDURWQEBSPlQoEjwRKBEDERMVARUoED0VEBEF/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  3. HDD D ITALIANO
+     URL: https://world-proxifier.xyz/rbtv/p/ACI1N0BCDDNAX05EUj5UBgBCCExPUEtWNSZUDURWQEBSPlQoEjwRKBEDERMVARUoED0VEBEK/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  4. HDD C DEUTSCH
+     URL: https://world-proxifier.xyz/rbtv/p/ACI1N0BCDDNAX05EUj5UBgBCCExPUEtWNSZUDURWQEBSPlQoEjwRKBEDERMVARUoED0VEBYG/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  5. SD
+     URL: https://world-proxifier.xyz/rbtv/p/ACI1N0BCDDNAX05EUj5UBgBCCExPUEtWNSZUDURWQEBSPlQoEjwWKBEDERMVARUoED0VEBAA/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Coppa Italia - Ac Milan Vs Lecce (09/24/25) [STREAM 20[HD]]
+Time: 03:00AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/ACI1N0BCDDNAX05EUj5UBgBCCExPUEtWNSZUDURWQEBSPlQoEjwVKBEDERMVARUoED0VEBYA/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: English Football League Cup - Liverpool Vs Southampton (09/24/25)
+Time: 03:00AM
+Date: 09/24/25
+Category: None
+Available Channels (4):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYHIjQzQVBJS1IZQkRKJEJWACQ1Vi5CD0w1VDc3MiJJVjUmVFIyJDFPQFw1MzJdVCpSPBQoFzwXFxU9HBAUPBYpEwQXFQ==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. HDD C DEUTSCH
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYHIjQzQVBJS1IZQkRKJEJWACQ1Vi5CD0w1VDc3MiJJVjUmVFIyJDFPQFw1MzJdVCpSPBQoFzwXFxU9HBAUPBYpEwQXEw==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  3. HDD D PORTUGUÊS
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYHIjQzQVBJS1IZQkRKJEJWACQ1Vi5CD0w1VDc3MiJJVjUmVFIyJDFPQFw1MzJdVCpSPBQoFzwXFxU9HBAUPBYpEwQXEA==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  4. SD
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYHIjQzQVBJS1IZQkRKJEJWACQ1Vi5CD0w1VDc3MiJJVjUmVFIyJDFPQFw1MzJdVCpSPBQoEDwXFxU9HBAUPBYpEwQWFQ==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: English Football League Cup - Liverpool Vs Southampton (09/24/25) [STREAM 2[HD]]
+Time: 03:00AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/Bl1MS0gmTVYHIjQzQVBJS1IZQkRKJEJWACQ1Vi5CD0w1VDc3MiJJVjUmVFIyJDFPQFw1MzJdVCpSPBQoEzwXFxU9HBAUPBYpEwQQFw==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Portuguese Primera Liga - Benfica Vs Rio Ave (09/24/25)
+Time: 03:15AM
+Date: 09/24/25
+Category: None
+Available Channels (2):
+  1. SDF A
+     URL: https://world-proxifier.xyz/rbtv/p/UyI3MzRaMkA2VFRXMVhKQDFQVA1IWkZWLkIFQE1VTkJAQjMyUkFONlISM0BSPlQoEjwRKBEDFRQUPSsoED0VEBYE/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. HDD C PORTUGUÊS
+     URL: https://world-proxifier.xyz/rbtv/p/UyI3MzRaMkA2VFRXMVhKQDFQVA1IWkZWLkIFQE1VTkJAQjMyUkFONlISM0BSPlQoEjwRKBEDFRQUPSsoED0VEBYF/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Challenger Atp Challenger Orleans, France Men Singles - Benoit Paire Vs Edas Butvilas (09/24/25)
+Time: 03:00AM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/AFtGS09US05EIVQGV0NUBEtQSUtEXUxAMUIKNU9URkk2OVQDMVBLQkRCCEBNQlBMTVpJQDZCKFYDVEs2SCdUV0BYN0BSJTBWBldGMlITMjM1WElENkIoViwAKhMsAhwRGj0RKSwDERAUBRI=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Premier Padel 2025  -  Cupra Germany P2 - Day 2 (2) (09/23/25)
+Time: 11:00PM
+Date: 09/23/25
+Category: None
+Available Channels (1):
+  1. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/MyFCSEhUN1YzUEFAT0IVKRMGVFYuQlRCNCM3RFJaQjVMUEs8UiMVVi5CQUQ4QhVWJQMsVi5CKhQsAyspEjwUHho9FhcXPBEWGgYUFA==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
