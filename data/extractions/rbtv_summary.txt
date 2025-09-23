@@ -1,93 +1,67 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-23T20:38:50.640279
+Extraction Time: 2025-09-23T20:49:29.650372
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 47
-- Total Channels: 117
+- Unique Events: 34
+- Total Channels: 59
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
 - The Hundred 2025 (Men) - Birmingham Phoenix V Trent Rockets ...
-  Time: 02:30AM, Channels: 2
-- French Ligue 2 - Guingamp Vs Usl Dunkerque (09/24/25)
   Time: 02:30AM, Channels: 1
-- French Ligue 2 - Red Star Fc 93 Vs Troyes (09/24/25)
-  Time: 02:30AM, Channels: 2
-- Polish Cup - Gks Katowice Vs Wisla Plock (09/24/25)
-  Time: 02:30AM, Channels: 1
-- English Football League Cup - Barnsley Vs Brighton Hove Albi...
-  Time: 02:45AM, Channels: 1
-- English Football League Cup - Barnsley Vs Brighton Hove Albi...
-  Time: 02:45AM, Channels: 1
 - English Football League Cup - Burnley Vs Cardiff City (09/24...
-  Time: 02:45AM, Channels: 2
+  Time: 02:45AM, Channels: 1
 - English Football League Cup - Burnley Vs Cardiff City (09/24...
   Time: 02:45AM, Channels: 1
 - English Football League Cup - Fulham Vs Cambridge United (09...
-  Time: 02:45AM, Channels: 6
+  Time: 02:45AM, Channels: 2
 - English Football League Cup - Fulham Vs Cambridge United (09...
-  Time: 02:45AM, Channels: 2
+  Time: 02:45AM, Channels: 1
 - English Football League Cup - Lincoln City Vs Chelsea (09/24...
-  Time: 02:45AM, Channels: 8
+  Time: 02:45AM, Channels: 3
 - English Football League Cup - Lincoln City Vs Chelsea (09/24...
-  Time: 02:45AM, Channels: 2
+  Time: 02:45AM, Channels: 1
 - English Football League Cup - Wigan Athletic Vs Wycombe Wand...
-  Time: 02:45AM, Channels: 4
+  Time: 02:45AM, Channels: 1
 - English Football League Cup - Wigan Athletic Vs Wycombe Wand...
-  Time: 02:45AM, Channels: 2
-- English Football League Cup - Wolverhampton Wanderers Vs Eve...
-  Time: 02:45AM, Channels: 6
+  Time: 02:45AM, Channels: 1
 - English Football League Cup - Wolverhampton Wanderers Vs Eve...
   Time: 02:45AM, Channels: 2
+- English Football League Cup - Wolverhampton Wanderers Vs Eve...
+  Time: 02:45AM, Channels: 1
 - English Football League Cup - Wrexham Vs Reading (09/24/25)
-  Time: 02:45AM, Channels: 4
+  Time: 02:45AM, Channels: 1
 - English Football League Cup - Wrexham Vs Reading (09/24/25) ...
-  Time: 02:45AM, Channels: 2
+  Time: 02:45AM, Channels: 1
 - English National League - Altrincham Vs Forest Green Rovers ...
-  Time: 02:45AM, Channels: 2
+  Time: 02:45AM, Channels: 1
 - English National League - Brackley Town Vs Truro City (09/24...
-  Time: 02:45AM, Channels: 2
+  Time: 02:45AM, Channels: 1
 - English National League - Gateshead Vs Hartlepool United (09...
-  Time: 02:45AM, Channels: 2
+  Time: 02:45AM, Channels: 1
 - English National League - Rochdale Vs Solihull Moors (09/24/...
   Time: 02:45AM, Channels: 1
 - English National League - Woking Vs Sutton United (09/24/25)
   Time: 02:45AM, Channels: 1
 - English National League - York City Vs Carlisle United (09/2...
   Time: 02:45AM, Channels: 1
-- Italian Serie C - A.S.D. Bra Vs Livorno (09/24/25)
-  Time: 02:45AM, Channels: 2
-- Italian Serie C - Ascoli Vs Asd Pineto Calcio (09/24/25)
-  Time: 02:45AM, Channels: 2
-- Italian Serie C - Carpi Vs Ravenna (09/24/25)
-  Time: 02:45AM, Channels: 2
-- Italian Serie C - Perugia Vs Us Sambenedettese (09/24/25)
-  Time: 02:45AM, Channels: 2
-- Scottish Championship - Airdrie United Vs Saint Johnstone (0...
-  Time: 02:45AM, Channels: 2
-- Scottish Championship - Dunfermline Athletic Vs Ayr United (...
-  Time: 02:45AM, Channels: 2
-- Scottish Premiership - Dundee United Vs Aberdeen (09/24/25)
-  Time: 02:45AM, Channels: 2
-- Scottish Premiership - Falkirk Vs Hibernian (09/24/25)
-  Time: 02:45AM, Channels: 2
 - Argentine Reserve League - Huracan Reserves Vs Banfield Rese...
   Time: 03:00AM, Channels: 1
 - Bolivian Primera Division - Oriente Petrolero Vs Independien...
-  Time: 03:00AM, Channels: 2
+  Time: 03:00AM, Channels: 1
 - Coppa Italia - Ac Milan Vs Lecce (09/24/25)
   Time: 03:00AM, Channels: 5
 - Coppa Italia - Ac Milan Vs Lecce (09/24/25) [STREAM 20[HD]]
   Time: 03:00AM, Channels: 1
 - English Football League Cup - Liverpool Vs Southampton (09/2...
-  Time: 03:00AM, Channels: 8
+  Time: 03:00AM, Channels: 4
 - English Football League Cup - Liverpool Vs Southampton (09/2...
-  Time: 03:00AM, Channels: 2
+  Time: 03:00AM, Channels: 1
 - Portuguese Primera Liga - Benfica Vs Rio Ave (09/24/25)
   Time: 03:15AM, Channels: 3
 - Portuguese Primera Liga - Benfica Vs Rio Ave (09/24/25) [STR...
@@ -105,4 +79,4 @@ EVENT BREAKDOWN:
 - Spanish La Liga - Sevilla Fc Vs Villarreal Cf (09/24/25) [ST...
   Time: 03:30AM, Channels: 1
 - Premier Padel 2025  -  Cupra Germany P2 - Day 2 (2) (09/23/2...
-  Time: 11:00PM, Channels: 2
+  Time: 11:00PM, Channels: 1
