@@ -1,23 +1,31 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-23T15:39:50.122509
+Extraction Time: 2025-09-23T15:49:52.772603
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 22
-- Total Channels: 26
+- Unique Events: 25
+- Total Channels: 29
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
+- Fau Football - Zach Vs Kittley Weekly Presser (09/23/25)
+  Time: 11:45PM, Channels: 1
 - Lietuvos Krepsinio Lyga - Lietkabelis Vs Jonava (09/23/25)
   Time: 11:15PM, Channels: 1
+- Basketball Champions League - Bc Kalev Cramo Vs Onyx Levice ...
+  Time: 11:45PM, Channels: 1
 - T20 Asia Cup - Pakistan Vs Sri Lanka (09/23/25)
   Time: 10:30PM, Channels: 1
 - T20 Asia Cup - Pakistan Vs Sri Lanka (09/23/25) [STREAM 1[HD...
   Time: 10:30PM, Channels: 1
+- Spanish La Liga - Athletic Club Vs Girona Fc (09/24/25)
+  Time: 01:00AM, Channels: 1
+- Spanish La Liga - Rcd Espanyol De Barcelona Vs Valencia Cf (...
+  Time: 01:00AM, Channels: 1
 - Egyptian Premier League - Haras El Hodood Vs Al Ahly Fc (09/...
   Time: 10:00PM, Channels: 1
 - Portuguese U23 League - Academico Viseu U23 Vs Vizela U23 (0...
@@ -52,7 +60,5 @@ EVENT BREAKDOWN:
   Time: 11:30PM, Channels: 2
 - Kontinental Hockey League - Metallurg Magnitogorsk Vs Sparta...
   Time: 10:00PM, Channels: 1
-- Challenger Atp Challenger Orleans, France Men Singles - Luca...
-  Time: 09:00PM, Channels: 1
 - Premier Padel 2025  -  Cupra Germany P2 - Day 2 (2) (09/23/2...
   Time: 11:00PM, Channels: 1

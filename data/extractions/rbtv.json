@@ -1,15 +1,35 @@
 {
-  "timestamp": "2025-09-23T15:39:50.122509",
+  "timestamp": "2025-09-23T15:49:52.772603",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
   "events": [
+    {
+      "event_time": "11:45PM",
+      "event_date": "09/23/25",
+      "channel_name": "HDD A",
+      "event_title": "Fau Football - Zach Vs Kittley Weekly Presser (09/23/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/BxJSVgciNDNBUElLUj5UXUBWTVY1JlQMSCcxS0QoVF5EVEhLOEJVNUQmMEAxQihWLAoqEywCHB4tARUWLAMREBQGEg==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
+      "group_title": "AMERICAN FOOTBALL"
+    },
     {
       "event_time": "11:15PM",
       "event_date": "09/23/25",
       "channel_name": "SD",
       "event_title": "Lietuvos Krepsinio Lyga - Lietkabelis Vs Jonava (09/23/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/CVhCMzQlNDJSGDdAMyZOSUgiVA04WkZWLkIPTEQnSERBVElMNkIzMlIbNElAJUZWLkIqFywAKhYaBRMUEAoqFxcEEhIR/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL"
+    },
+    {
+      "event_time": "11:45PM",
+      "event_date": "09/23/25",
+      "channel_name": "SD",
+      "event_title": "Basketball Champions League - Bc Kalev Cramo Vs Onyx Levice (09/23/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/A1AwSkQnR0RPX1QES1BKN0giSzJSGUJESiRCVi5CBQRSGEZLRCVUBDFQSjZSJTBWDB9eX1IZQjFIVkJWLkIqFywAKhYaBRwREgYqFxcEEhIW/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
       "group_title": "BASKETBALL"
@@ -32,6 +52,26 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
       "group_title": "CRICKET"
+    },
+    {
+      "event_time": "01:00AM",
+      "event_date": "09/24/25",
+      "channel_name": "TT",
+      "event_title": "Spanish La Liga - Athletic Club Vs Girona Fc (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CBDNLX0IzSFZUBE8kR1Y1JlQASCE0SUBCAQRSPlQoEjwVKS0CKhUTPRwTGgIqExIKFx4W/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "01:00AM",
+      "event_date": "09/24/25",
+      "channel_name": "TT",
+      "event_title": "Spanish La Liga - Rcd Espanyol De Barcelona Vs Valencia Cf (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CVwQBQgAyM1BLPDJfVENEQgVEMVZCSzJdRlY1JlRRQF9CSUZYRlYAF1QqUjwUKBM9KxYsARUpGgcVFiwHFB4RChc=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
     },
     {
       "event_time": "10:00PM",
@@ -243,16 +283,6 @@
       "group_title": "HOCKEY"
     },
     {
-      "event_time": "09:00PM",
-      "event_date": "09/23/25",
-      "channel_name": "HDD A",
-      "event_title": "Challenger Atp Challenger Orleans, France Men Singles - Lucas Klein Vs Hugo Grenier (09/23/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AFtGS09US05EIVQGV0NUBEtQSUtEXUxAMUIKNU9URkk2OVQDMVBLQkRCCEBNQlBMTVpJQDZCKFYJJEBENkIOS0RYS1Y1JlQBNFo0VgQhQklIVDdWLkIqFCwHKhYaBRwpFT0qFxcEEhUU/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
       "event_time": "11:00PM",
       "event_date": "09/23/25",
       "channel_name": "VDO",
@@ -264,6 +294,20 @@
     }
   ],
   "grouped_events": {
+    "Fau Football - Zach Vs Kittley Weekly Presser (09/23/25)": {
+      "event_title": "Fau Football - Zach Vs Kittley Weekly Presser (09/23/25)",
+      "event_time": "11:45PM",
+      "event_date": "09/23/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/BxJSVgciNDNBUElLUj5UXUBWTVY1JlQMSCcxS0QoVF5EVEhLOEJVNUQmMEAxQihWLAoqEywCHB4tARUWLAMREBQGEg==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
+          "duration": null
+        }
+      ]
+    },
     "Lietuvos Krepsinio Lyga - Lietkabelis Vs Jonava (09/23/25)": {
       "event_title": "Lietuvos Krepsinio Lyga - Lietkabelis Vs Jonava (09/23/25)",
       "event_time": "11:15PM",
@@ -273,6 +317,20 @@
         {
           "channel_name": "SD",
           "url": "https://world-proxifier.xyz/rbtv/p/CVhCMzQlNDJSGDdAMyZOSUgiVA04WkZWLkIPTEQnSERBVElMNkIzMlIbNElAJUZWLkIqFywAKhYaBRMUEAoqFxcEEhIR/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Basketball Champions League - Bc Kalev Cramo Vs Onyx Levice (09/23/25)": {
+      "event_title": "Basketball Champions League - Bc Kalev Cramo Vs Onyx Levice (09/23/25)",
+      "event_time": "11:45PM",
+      "event_date": "09/23/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/A1AwSkQnR0RPX1QES1BKN0giSzJSGUJESiRCVi5CBQRSGEZLRCVUBDFQSjZSJTBWDB9eX1IZQjFIVkJWLkIqFywAKhYaBRwREgYqFxcEEhIW/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
           "duration": null
         }
@@ -302,6 +360,34 @@
           "channel_name": null,
           "url": "https://world-proxifier.xyz/rbtv/p/VwMrVgImTkRSEDI3Uj5UV0BeTjI3UEtWNSZUUjFYVA1AXUhEUj5UKBc8FSgSChMREQArKBMHEhAWAA==/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Spanish La Liga - Athletic Club Vs Girona Fc (09/24/25)": {
+      "event_title": "Spanish La Liga - Athletic Club Vs Girona Fc (09/24/25)",
+      "event_time": "01:00AM",
+      "event_date": "09/24/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "TT",
+          "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CBDNLX0IzSFZUBE8kR1Y1JlQASCE0SUBCAQRSPlQoEjwVKS0CKhUTPRwTGgIqExIKFx4W/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Spanish La Liga - Rcd Espanyol De Barcelona Vs Valencia Cf (09/24/25)": {
+      "event_title": "Spanish La Liga - Rcd Espanyol De Barcelona Vs Valencia Cf (09/24/25)",
+      "event_time": "01:00AM",
+      "event_date": "09/24/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "TT",
+          "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CVwQBQgAyM1BLPDJfVENEQgVEMVZCSzJdRlY1JlRRQF9CSUZYRlYAF1QqUjwUKBM9KxYsARUpGgcVFiwHFB4RChc=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }
       ]
@@ -564,20 +650,6 @@
           "channel_name": "SDK A",
           "url": "https://world-proxifier.xyz/rbtv/p/CCJLM0hdQkk3UElWBSJASkQoVA1EUEwwREIoVg5UMURPXzI1SkIIREpdTjMyWjQ1Nl5UMTZCUDdAITFETkIINjZWND5SPlQoEgIqEywCHBEVARASLAMREBQBHA==/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Challenger Atp Challenger Orleans, France Men Singles - Lucas Klein Vs Hugo Grenier (09/23/25)": {
-      "event_title": "Challenger Atp Challenger Orleans, France Men Singles - Lucas Klein Vs Hugo Grenier (09/23/25)",
-      "event_time": "09:00PM",
-      "event_date": "09/23/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AFtGS09US05EIVQGV0NUBEtQSUtEXUxAMUIKNU9URkk2OVQDMVBLQkRCCEBNQlBMTVpJQDZCKFYJJEBENkIOS0RYS1Y1JlQBNFo0VgQhQklIVDdWLkIqFCwHKhYaBRwpFT0qFxcEEhUU/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
       ]
