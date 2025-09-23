@@ -1,178 +1,329 @@
 {
-  "timestamp": "2025-09-23T21:13:26.855758",
+  "timestamp": "2025-09-23T21:28:18.037642",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
-  "segments": [
+  "segments": [],
+  "events": [
     {
-      "type": "segment",
+      "event_time": "02:30AM",
+      "event_date": "09/24/25",
+      "channel_name": "SKA",
+      "event_title": "The Hundred 2025 (Men) - Birmingham Phoenix V Trent Rockets At London. (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/N1tCVkskS0MxVEFWEz0VElI1SkBNOlQqUlFONUxYS05LUEpWM1s0QE1YPVY1QjE1RF0xVjEiQEpEJzBWQCdUSzJdQTZNP1QqUjwRKBM9KxYsAhweLQEXFiwHFB4RPRA=/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
-      "group_title": "CRICKET",
-      "title": "The Hundred 2025 (Men) - Birmingham Phoenix V Trent Rockets At London. [SKA]",
-      "url": "https://world-proxifier.xyz/rbtv/p/N1tCVkskS0MxVEFWEz0VElI1SkBNOlQqUlFONUxYS05LUEpWM1s0QE1YPVY1QjE1RF0xVjEiQEpEJzBWQCdUSzJdQTZNP1QqUjwRKBM9KxYsAhweLQEXFiwHFB4RPRA=/index.m3u8"
+      "group_title": "CRICKET"
     },
     {
-      "type": "segment",
+      "event_time": "03:30AM",
+      "event_date": "09/24/25",
+      "channel_name": "VDO",
+      "event_title": "Spanish La Liga - Levante Vs Real Madrid (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBUpLQIqFRM9HBMtAioTEgoWExU=/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Portuguese Primera Liga - Benfica Vs Rio Ave [SDF A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/UyI3MzRaMkA2VFRXMVhKQDFQVA1IWkZWLkIFQE1VTkJAQjMyUkFONlISM0BSPlQoEjwRKBEDFRQUPSsoED0VEBYE/index.m3u8"
+      "group_title": "FOOTBALL"
     },
     {
-      "type": "segment",
+      "event_time": "03:30AM",
+      "event_date": "09/24/25",
+      "channel_name": "MOVISTAR",
+      "event_title": "Spanish La Liga - Levante Vs Real Madrid (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBUpLQIqFRM9HBMtAioTEgoXFBU=/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Portuguese Primera Liga - Benfica Vs Rio Ave [HDD C PORTUGU\u00caS]",
-      "url": "https://world-proxifier.xyz/rbtv/p/UyI3MzRaMkA2VFRXMVhKQDFQVA1IWkZWLkIFQE1VTkJAQjMyUkFONlISM0BSPlQoEjwRKBEDFRQUPSsoED0VEBYF/index.m3u8"
+      "group_title": "FOOTBALL"
     },
     {
-      "type": "segment",
+      "event_time": "03:30AM",
+      "event_date": "09/24/25",
+      "channel_name": "HDD E FRAN\u00c7AIS",
+      "event_title": "Spanish La Liga - Levante Vs Real Madrid (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBEoEQMrHhc9FCgQPRUQFwY=/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Portuguese Primera Liga - Benfica Vs Rio Ave [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/UyI3MzRaMkA2VFRXMVhKQDFQVA1IWkZWLkIFQE1VTkJAQjMyUkFONlISM0BSPlQoEjwRKBEDFRQUPSsoED0VEBYK/index.m3u8"
+      "group_title": "FOOTBALL"
     },
     {
-      "type": "segment",
+      "event_time": "03:30AM",
+      "event_date": "09/24/25",
+      "channel_name": "HDD F ITALIANO",
+      "event_title": "Spanish La Liga - Levante Vs Real Madrid (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBEoEQMrHhc9FCgQPRUQFAE=/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Portuguese Primera Liga - Benfica Vs Rio Ave [STREAM 5[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/UyI3MzRaMkA2VFRXMVhKQDFQVA1IWkZWLkIFQE1VTkJAQjMyUkFONlISM0BSPlQoEjwVKBEDFRQUPSsoED0VEBc9/index.m3u8"
+      "group_title": "FOOTBALL"
     },
     {
-      "type": "segment",
+      "event_time": "03:30AM",
+      "event_date": "09/24/25",
+      "channel_name": "HDD G PORTUGU\u00caS",
+      "event_title": "Spanish La Liga - Levante Vs Real Madrid (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBEoEQMrHhc9FCgQPRUQFAY=/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Spanish La Liga - Levante Vs Real Madrid [VDO]",
-      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBUpLQIqFRM9HBMtAioTEgoWExU=/index.m3u8"
+      "group_title": "FOOTBALL"
     },
     {
-      "type": "segment",
+      "event_time": "03:30AM",
+      "event_date": "09/24/25",
+      "channel_name": "HDD C",
+      "event_title": "Spanish La Liga - Levante Vs Real Madrid (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBEoEQMrHhc9FCgQPRUQFwA=/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Spanish La Liga - Levante Vs Real Madrid [MOVISTAR]",
-      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBUpLQIqFRM9HBMtAioTEgoXFBU=/index.m3u8"
+      "group_title": "FOOTBALL"
     },
     {
-      "type": "segment",
+      "event_time": "03:30AM",
+      "event_date": "09/24/25",
+      "channel_name": "HDD D ESPA\u00d1OL",
+      "event_title": "Spanish La Liga - Levante Vs Real Madrid (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBEoEQMrHhc9FCgQPRUQFwE=/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Spanish La Liga - Levante Vs Real Madrid [HDD E FRAN\u00c7AIS]",
-      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBEoEQMrHhc9FCgQPRUQFwY=/index.m3u8"
+      "group_title": "FOOTBALL"
     },
     {
-      "type": "segment",
+      "event_time": "03:30AM",
+      "event_date": "09/24/25",
+      "channel_name": "VDO",
+      "event_title": "Spanish La Liga - Sevilla Fc Vs Villarreal Cf (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqFy09FCgRAyseFwAVKBcCHBQXBA==/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Spanish La Liga - Levante Vs Real Madrid [HDD F ITALIANO]",
-      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBEoEQMrHhc9FCgQPRUQFAE=/index.m3u8"
+      "group_title": "FOOTBALL"
     },
     {
-      "type": "segment",
+      "event_time": "03:30AM",
+      "event_date": "09/24/25",
+      "channel_name": "DAZN ES",
+      "event_title": "Spanish La Liga - Sevilla Fc Vs Villarreal Cf (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqFy09FCgRAyseFwAVKBcCHBQWCg==/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Spanish La Liga - Levante Vs Real Madrid [HDD G PORTUGU\u00caS]",
-      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBEoEQMrHhc9FCgQPRUQFAY=/index.m3u8"
+      "group_title": "FOOTBALL"
     },
     {
-      "type": "segment",
+      "event_time": "03:30AM",
+      "event_date": "09/24/25",
+      "channel_name": "MOVISTAR2",
+      "event_title": "Spanish La Liga - Sevilla Fc Vs Villarreal Cf (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqFy09FCgRAyseFwAVKBcCHBUTPQ==/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Spanish La Liga - Levante Vs Real Madrid [HDD C]",
-      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBEoEQMrHhc9FCgQPRUQFwA=/index.m3u8"
+      "group_title": "FOOTBALL"
     },
     {
-      "type": "segment",
+      "event_time": "03:30AM",
+      "event_date": "09/24/25",
+      "channel_name": "DAZN ES",
+      "event_title": "Spanish La Liga - Sevilla Fc Vs Villarreal Cf (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqFy09FCgRAyseFwAVKBcCHBISBg==/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Spanish La Liga - Levante Vs Real Madrid [HDD D ESPA\u00d1OL]",
-      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBEoEQMrHhc9FCgQPRUQFwE=/index.m3u8"
+      "group_title": "FOOTBALL"
     },
     {
-      "type": "segment",
+      "event_time": "03:30AM",
+      "event_date": "09/24/25",
+      "channel_name": "HDD B",
+      "event_title": "Spanish La Liga - Sevilla Fc Vs Villarreal Cf (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqEywBFSkaBxYXLAArFxQHEQ==/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Spanish La Liga - Levante Vs Real Madrid [STREAM 25[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBUoEQMrHhc9FCgQPRUQFAo=/index.m3u8"
+      "group_title": "FOOTBALL"
     },
     {
-      "type": "segment",
+      "event_time": "03:30AM",
+      "event_date": "09/24/25",
+      "event_title": "Spanish La Liga - Sevilla Fc Vs Villarreal Cf (09/24/25) [STREAM 3[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqFywBFSkaBxYXLAArFxQEEg==/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Spanish La Liga - Levante Vs Real Madrid [SD]",
-      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBYoEQMrHhc9FCgQPRUQFwI=/index.m3u8"
+      "group_title": "FOOTBALL"
     },
     {
-      "type": "segment",
+      "event_time": "03:30AM",
+      "event_date": "09/24/25",
+      "channel_name": "SD",
+      "event_title": "Spanish La Liga - Sevilla Fc Vs Villarreal Cf (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqFCwBFSkaBxYXLAArFxQHFQ==/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Spanish La Liga - Levante Vs Real Madrid [STREAM 25_FHD[FULL HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBUoEQMrHhc9FCgQPRUQFT0=/index.m3u8"
+      "group_title": "FOOTBALL"
     },
     {
-      "type": "segment",
+      "event_time": "03:30AM",
+      "event_date": "09/24/25",
+      "event_title": "Spanish La Liga - Sevilla Fc Vs Villarreal Cf (09/24/25) [STREAM 3_FHD[FULL HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqFywBFSkaBxYXLAArFxQEEw==/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Spanish La Liga - Sevilla Fc Vs Villarreal Cf [VDO]",
-      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqFy09FCgRAyseFwAVKBcCHBQXBA==/index.m3u8"
+      "group_title": "FOOTBALL"
     },
     {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Spanish La Liga - Sevilla Fc Vs Villarreal Cf [DAZN ES]",
-      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqFy09FCgRAyseFwAVKBcCHBQWCg==/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Spanish La Liga - Sevilla Fc Vs Villarreal Cf [MOVISTAR2]",
-      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqFy09FCgRAyseFwAVKBcCHBUTPQ==/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Spanish La Liga - Sevilla Fc Vs Villarreal Cf [DAZN ES]",
-      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqFy09FCgRAyseFwAVKBcCHBISBg==/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Spanish La Liga - Sevilla Fc Vs Villarreal Cf [HDD B]",
-      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqEywBFSkaBxYXLAArFxQHEQ==/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Spanish La Liga - Sevilla Fc Vs Villarreal Cf [STREAM 3[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqFywBFSkaBxYXLAArFxQEEg==/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Spanish La Liga - Sevilla Fc Vs Villarreal Cf [SD]",
-      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqFCwBFSkaBxYXLAArFxQHFQ==/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Spanish La Liga - Sevilla Fc Vs Villarreal Cf [STREAM 3_FHD[FULL HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqFywBFSkaBxYXLAArFxQEEw==/index.m3u8"
-    },
-    {
-      "type": "segment",
+      "event_time": "11:00PM",
+      "event_date": "09/23/25",
+      "channel_name": "VDO",
+      "event_title": "Premier Padel 2025  -  Cupra Germany P2 - Day 2 (2) (09/23/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/MyFCSEhUN1YzUEFAT0IVKRMGVFYuQlRCNCM3RFJaQjVMUEs8UiMVVi5CQUQ4QhVWJQMsVi5CKhQsAyspEjwUHho9FhcXPBEWGgYUFA==/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Premier Padel 2025  -  Cupra Germany P2 - Day 2 (2) [VDO]",
-      "url": "https://world-proxifier.xyz/rbtv/p/MyFCSEhUN1YzUEFAT0IVKRMGVFYuQlRCNCM3RFJaQjVMUEs8UiMVVi5CQUQ4QhVWJQMsVi5CKhQsAyspEjwUHho9FhcXPBEWGgYUFA==/index.m3u8"
+      "group_title": "TENNIS"
     }
   ],
-  "events": [],
-  "grouped_events": {},
+  "grouped_events": {
+    "The Hundred 2025 (Men) - Birmingham Phoenix V Trent Rockets At London. (09/24/25)": {
+      "event_title": "The Hundred 2025 (Men) - Birmingham Phoenix V Trent Rockets At London. (09/24/25)",
+      "event_time": "02:30AM",
+      "event_date": "09/24/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SKA",
+          "url": "https://world-proxifier.xyz/rbtv/p/N1tCVkskS0MxVEFWEz0VElI1SkBNOlQqUlFONUxYS05LUEpWM1s0QE1YPVY1QjE1RF0xVjEiQEpEJzBWQCdUSzJdQTZNP1QqUjwRKBM9KxYsAhweLQEXFiwHFB4RPRA=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Spanish La Liga - Levante Vs Real Madrid (09/24/25)": {
+      "event_title": "Spanish La Liga - Levante Vs Real Madrid (09/24/25)",
+      "event_time": "03:30AM",
+      "event_date": "09/24/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBUpLQIqFRM9HBMtAioTEgoWExU=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "MOVISTAR",
+          "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBUpLQIqFRM9HBMtAioTEgoXFBU=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD E FRAN\u00c7AIS",
+          "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBEoEQMrHhc9FCgQPRUQFwY=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD F ITALIANO",
+          "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBEoEQMrHhc9FCgQPRUQFAE=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD G PORTUGU\u00caS",
+          "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBEoEQMrHhc9FCgQPRUQFAY=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD C",
+          "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBEoEQMrHhc9FCgQPRUQFwA=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD D ESPA\u00d1OL",
+          "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CD0A1UEszREIzMlJBQkRPQghERyFOQ1I-VCgSPBEoEQMrHhc9FCgQPRUQFwE=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Spanish La Liga - Sevilla Fc Vs Villarreal Cf (09/24/25)": {
+      "event_title": "Spanish La Liga - Sevilla Fc Vs Villarreal Cf (09/24/25)",
+      "event_time": "03:30AM",
+      "event_date": "09/24/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqFy09FCgRAyseFwAVKBcCHBQXBA==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "DAZN ES",
+          "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqFy09FCgRAyseFwAVKBcCHBQWCg==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "MOVISTAR2",
+          "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqFy09FCgRAyseFwAVKBcCHBUTPQ==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "DAZN ES",
+          "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqFy09FCgRAyseFwAVKBcCHBISBg==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD B",
+          "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqEywBFSkaBxYXLAArFxQHEQ==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqFCwBFSkaBxYXLAArFxQHFQ==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Spanish La Liga - Sevilla Fc Vs Villarreal Cf (09/24/25) [STREAM 3[HD]]": {
+      "event_title": "Spanish La Liga - Sevilla Fc Vs Villarreal Cf (09/24/25) [STREAM 3[HD]]",
+      "event_time": "03:30AM",
+      "event_date": "09/24/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqFywBFSkaBxYXLAArFxQEEg==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Spanish La Liga - Sevilla Fc Vs Villarreal Cf (09/24/25) [STREAM 3_FHD[FULL HD]]": {
+      "event_title": "Spanish La Liga - Sevilla Fc Vs Villarreal Cf (09/24/25) [STREAM 3_FHD[FULL HD]]",
+      "event_time": "03:30AM",
+      "event_date": "09/24/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CUEA1WElLQEIBBFIlMFZVWElLQCE3QEBfVAQHQihWLAIqFywBFSkaBxYXLAArFxQEEw==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Premier Padel 2025  -  Cupra Germany P2 - Day 2 (2) (09/23/25)": {
+      "event_title": "Premier Padel 2025  -  Cupra Germany P2 - Day 2 (2) (09/23/25)",
+      "event_time": "11:00PM",
+      "event_date": "09/23/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/MyFCSEhUN1YzUEFAT0IVKRMGVFYuQlRCNCM3RFJaQjVMUEs8UiMVVi5CQUQ4QhVWJQMsVi5CKhQsAyspEjwUHho9FhcXPBEWGgYUFA==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    }
+  },
   "metadata": {}
 }

@@ -1,13 +1,26 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-23T21:13:26.855758
+Extraction Time: 2025-09-23T21:28:18.037642
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 0
-- Total Channels: 0
+- Unique Events: 6
+- Total Channels: 17
 - Individual Streams: 0
-- Media Segments: 24
+- Media Segments: 0
 - Other Events: 0
 
+EVENT BREAKDOWN:
+- The Hundred 2025 (Men) - Birmingham Phoenix V Trent Rockets ...
+  Time: 02:30AM, Channels: 1
+- Spanish La Liga - Levante Vs Real Madrid (09/24/25)
+  Time: 03:30AM, Channels: 7
+- Spanish La Liga - Sevilla Fc Vs Villarreal Cf (09/24/25)
+  Time: 03:30AM, Channels: 6
+- Spanish La Liga - Sevilla Fc Vs Villarreal Cf (09/24/25) [ST...
+  Time: 03:30AM, Channels: 1
+- Spanish La Liga - Sevilla Fc Vs Villarreal Cf (09/24/25) [ST...
+  Time: 03:30AM, Channels: 1
+- Premier Padel 2025  -  Cupra Germany P2 - Day 2 (2) (09/23/2...
+  Time: 11:00PM, Channels: 1
