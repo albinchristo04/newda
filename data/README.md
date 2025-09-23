@@ -1,12 +1,12 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Tue Sep 23 21:28:19 UTC 2025
+Last updated: Tue Sep 23 21:38:02 UTC 2025
 
-Workflow run: #90
+Workflow run: #91
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-23T21:28:18.037642
+Extracted at: 2025-09-23T21:38:00.900668
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -22,7 +22,7 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: Spanish La Liga - Levante Vs Real Madrid (09/24/25)
+EVENT: Spanish La Liga - Sevilla Fc Vs Villarreal Cf (09/24/25)
 Time: 03:30AM
 Date: 09/24/25
 Category: None
