@@ -1,24 +1,29 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Tue Sep 23 11:49:41 UTC 2025
+Last updated: Tue Sep 23 12:31:20 UTC 2025
 
-Workflow run: #59
+Workflow run: #60
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-23T11:49:40.084815
+Extracted at: 2025-09-23T12:31:19.982711
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== MEDIA SEGMENTS (First 10) ===
+=== GROUPED EVENTS BY TITLE ===
 
-1. https://world-proxifier.xyz/rbtv/p/D0MFVi5CA0wxIjBPSFxGVgBQNzdSJTBWWCJKTDQhTlYEWEZJNyZUKlI8FygXPBQeFQUXFhQ8FRMUBBUS/index.m3u8
-2. https://world-proxifier.xyz/rbtv/p/D0MFVi5CA0wxIjBPSFxGVgBQNzdSJTBWWCJKTDQhTlYEWEZJNyZUKlI8FygXPBQeFQUXFhQ8FRMUBBUS/index.m3u8
-3. https://world-proxifier.xyz/rbtv/p/D0MFVi5CXkROJEkzUkY8RE9fND42QjMyUhBNME1YQE9IQgc1QFo0STZCKFYsASoTLAIcERUBFBEsAxEQFAIR/index.m3u8
-4. https://world-proxifier.xyz/rbtv/p/D0MFVi5CXkROJEkzUkY8RE9fND42QjMyUhBNME1YQE9IQgc1QFo0STZCKFYsASoTLAIcERUBFBEsAxEQFAIR/index.m3u8
-5. https://world-proxifier.xyz/rbtv/p/BxoFBlJEFBNSSjRIRF0iMlISMExAXVQES1BKN0giSzJLWDVWLkJQPDFYRlZUAhFWWiJKQE1CVDE2QglAOkJfQEBfRklHQlw2TFBLVlQCEVYuQioXLAAqFhoFExQQByoXFwQSFxo=/index.m3u8
-6. https://world-proxifier.xyz/rbtv/p/U1tOS0gjNUxNVDBWDkMFDVI-VF1AXEc2QF1MRFIXRkhIXz5HNkIFNUBdQVZWUDdDSF1CMlIlMFYAUEk2MlZGSVJGMjcxVEo2NkIES09CUDNAIVQqUjwVKBA8FB4VChUWEjwVExQEFRE=/index.m3u8
-7. https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYOVEsgNkINME1YNDVSGktDSCVOQzRQSVZXWEpAUkc3TEBfVCpSPBQSLAMrKRI8FB4aPRcVFzwRFhoBKxA=/index.m3u8
-8. https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYOVEsgNkINME1YNDVSGktDSCVOQzRQSVZXWEpAUkc3TEBfVCpSPBQSLAMqFhoKKxURByoXFwQSFBc=/index.m3u8
-9. https://world-proxifier.xyz/rbtv/p/BFQ0NUpYRlYAJDVWLkIBQlIeQjJLUEhPN1RUU05YRzBPWFQxNkIBBFIaR0AxWEZWEgocHlJHR0xPWDBMUj5UKBI8FigRAxMTEQQXKBA9FRIXAA==/index.m3u8
-10. https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSFEZIQVBUCDZQSERSJTBWWCJINktQSkRSFylWDlA3TE0iMFYuQioWLAcqFRI9EBURAioULQMQEhQ=/index.m3u8
+EVENT: Fiba U16 Women'S Asian Championship - Syria U16 Women  Vs New Zealand Woman U16 (09/23/25)
+Time: 07:00PM
+Date: 09/23/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/BxoFBlJEFBNSSjRIRF0iMlISMExAXVQES1BKN0giSzJLWDVWLkJQPDFYRlZUAhFWWiJKQE1CVDE2QglAOkJfQEBfRklHQlw2TFBLVlQCEVYuQioXLAAqFhoFExQQByoXFwQSFxo=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+
+================================================================================
+
+EVENT: Cycling World Cup - Men'S Junior Individual Time Trial (09/23/25)
+Time: 07:50PM
+Date: 09/23/25
+Category: None
 ```
