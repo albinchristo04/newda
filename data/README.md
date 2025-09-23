@@ -1,24 +1,29 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Tue Sep 23 06:48:20 UTC 2025
+Last updated: Tue Sep 23 07:15:14 UTC 2025
 
-Workflow run: #43
+Workflow run: #44
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-23T06:48:19.098847
+Extracted at: 2025-09-23T07:15:13.429756
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== MEDIA SEGMENTS (First 10) ===
+=== GROUPED EVENTS BY TITLE ===
 
-1. https://world-proxifier.xyz/rbtv/p/D0MFVi5CATBOJDRKQEJQNkUnBURNXlQBQCpIMlIlMFYMIU4_UhMyQUVQSTZEJlQqUjwXKBc8FB4VBRcWEDwVExQHHBM=/index.m3u8
-2. https://world-proxifier.xyz/rbtv/p/D0MFVi5CATBOJDRKQEJQNkUnBURNXlQBQCpIMlIlMFYMIU4_UhMyQUVQSTZEJlQqUjwXKBc8FB4VBRcWEDwVExQHHBM=/index.m3u8
-3. https://world-proxifier.xyz/rbtv/p/D0MFVi5CATBOJDRKQEJQNkUnBURNXlQBQCpIMlIlMFYMIU4_UhMyQUVQSTZEJlQqUjwXKBc8FB4VBRcWEDwVExQHHBM=/index.m3u8
-4. https://world-proxifier.xyz/rbtv/p/D0MFVi5CAzZOXkZMRyJUC0gjNTZNPgNETEIBTEpbMUAxJlQxNkJXRE4kMUBNQgI2T1cpVgZQTEtEJlQqUjwXKBc8FB4VBRcWETwVExQHHBE=/index.m3u8
-5. https://world-proxifier.xyz/rbtv/p/D0MFVi5CAzZOXkZMRyJUC0gjNTZNPgNETEIBTEpbMUAxJlQxNkJXRE4kMUBNQgI2T1cpVgZQTEtEJlQqUjwXKBc8FB4VBRcWETwVExQHHBE=/index.m3u8
-6. https://world-proxifier.xyz/rbtv/p/D0MFVi5CAzZOXkZMRyJUC0gjNTZNPgNETEIBTEpbMUAxJlQxNkJXRE4kMUBNQgI2T1cpVgZQTEtEJlQqUjwXKBc8FB4VBRcWETwVExQHHBE=/index.m3u8
-7. https://world-proxifier.xyz/rbtv/p/D0MFVi5CXjZOIk1ETFBUB0AoUDNAITBWNSZUAUBdME9IXVRTSFpCNTZCKFYsASoTLAIcERUBFBIsAxEQFD0r/index.m3u8
-8. https://world-proxifier.xyz/rbtv/p/D0MFVi5CXjZOIk1ETFBUB0AoUDNAITBWNSZUAUBdME9IXVRTSFpCNTZCKFYsASoTLAIcERUBFBIsAxEQFD0r/index.m3u8
-9. https://world-proxifier.xyz/rbtv/p/D0MFVi5CXjZOIk1ETFBUB0AoUDNAITBWNSZUAUBdME9IXVRTSFpCNTZCKFYsASoTLAIcERUBFBIsAxEQFD0r/index.m3u8
-10. https://world-proxifier.xyz/rbtv/p/AF8yRVIXN0xEXUEyS1g1Vi5CUE9IWkZWCVBIQFJGMUQxJlQxNkIMRUAhRkpIQlc2QSIxMlI-VCgTPBYoEgoTHhUFESgTBxIQLQA=/index.m3u8
+EVENT: Korea Open, Women, Doubles - Arisa Higashino/Chiharu Shida Vs Fan Ka Yan/Mau Ying Yau (09/23/25)
+Time: 03:00PM
+Date: 09/23/25
+Category: None
+Available Channels (3):
+  1. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VAUyJEdLRCZUKlISN0w2UFQBSFpGMktYSzYsEE1MS1A3MFJGTUxHUFQxNkIBBg9CDkRSSEZJLB5GMFJITklKQl5ENEIoViwCFSgTPSsWLAIcERoFEx4sBxQeEAMU/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp
+  2. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VAUyJEdLRCZUKlISN0w2UFQBSFpGMktYSzYsEE1MS1A3MFJGTUxHUFQxNkIBBg9CDkRSSEZJLB5GMFJITklKQl5ENEIoViwCFSgTPSsWLAIcERoFEx4sBxQeEAMU/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp
+  3. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VAUyJEdLRCZUKlISN0w2UFQBSFpGMktYSzYsEE1MS1A3MFJGTUxHUFQxNkIBBg9CDkRSSEZJLB5GMFJITklKQl5ENEIoViwCFSgTPSsWLAIcERoFEx4sBxQeEAMU/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp
+
 ```
