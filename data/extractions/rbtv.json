@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-23T22:31:48.641286",
+  "timestamp": "2025-09-23T22:49:09.688676",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -9,6 +9,63 @@
       "event_date": "09/24/25",
       "event_title": "Major League Baseball - Baltimore Orioles Vs Tampa Bay Rays (09/24/25) [STREAM 31[HD]]",
       "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWA1BJM0hcNDVEQgo1SCJJQDZCMzJSR0ZIM1BUB0AoVFVAKDBWLkIqFSwDKhYaBRMRGgMqFxcEEhEV/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL"
+    },
+    {
+      "event_time": "06:40AM",
+      "event_date": "09/24/25",
+      "channel_name": "HDK A",
+      "event_title": "Major League Baseball - Cincinnati Reds Vs Pittsburgh Pirates (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFhLQkhdS0Q3WFRVRFcwVjUmVFdIJzEyQSQ3TktCVUwxUDFANkIoViwBKhMsAhwRFQUcFCwDERAUBRw=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL"
+    },
+    {
+      "event_time": "06:40AM",
+      "event_date": "09/24/25",
+      "event_title": "Major League Baseball - Cincinnati Reds Vs Pittsburgh Pirates (09/24/25) [STREAM 6[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFhLQkhdS0Q3WFRVRFcwVjUmVFdIJzEyQSQ3TktCVUwxUDFANkIoViwBKhcsAhwRFQUcFCwDERAUChA=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL"
+    },
+    {
+      "event_time": "06:40AM",
+      "event_date": "09/24/25",
+      "channel_name": "HDK A",
+      "event_title": "Major League Baseball - Cleveland Guardians Vs Detroit Tigers (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAF9CMURfRklHQgIwQCFBTEBdMFY1JlQFRCc3NkgnVFNIWkI1NkIoViwBKhMsAhwRFQUcFSwDERAUChQ=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL"
+    },
+    {
+      "event_time": "06:40AM",
+      "event_date": "09/24/25",
+      "event_title": "Major League Baseball - Cleveland Guardians Vs Detroit Tigers (09/24/25) [STREAM 44[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAF9CMURfRklHQgIwQCFBTEBdMFY1JlQFRCc3NkgnVFNIWkI1NkIoViwBKhcsAhwRFQUcFSwDERAUChY=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL"
+    },
+    {
+      "event_time": "06:45AM",
+      "event_date": "09/24/25",
+      "channel_name": "HDK A",
+      "event_title": "Major League Baseball - Philadelphia Phillies Vs Miami Marlins (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWU1tOS0BXQkszW05EUkNNTE9fTkA2QjMyUh5ORExYVApAIUlMTSZUKlI8FygXPBQeFQUTHhY8FRMUBBwT/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL"
+    },
+    {
+      "event_time": "06:45AM",
+      "event_date": "09/24/25",
+      "event_title": "Major League Baseball - Philadelphia Phillies Vs Miami Marlins (09/24/25) [STREAM 23[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWU1tOS0BXQkszW05EUkNNTE9fTkA2QjMyUh5ORExYVApAIUlMTSZUKlI8FygTPBQeFQUTHhY8FRMUBBwV/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
       "group_title": "BASEBALL"
@@ -93,6 +150,90 @@
         {
           "channel_name": null,
           "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWA1BJM0hcNDVEQgo1SCJJQDZCMzJSR0ZIM1BUB0AoVFVAKDBWLkIqFSwDKhYaBRMRGgMqFxcEEhEV/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Major League Baseball - Cincinnati Reds Vs Pittsburgh Pirates (09/24/25)": {
+      "event_title": "Major League Baseball - Cincinnati Reds Vs Pittsburgh Pirates (09/24/25)",
+      "event_time": "06:40AM",
+      "event_date": "09/24/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDK A",
+          "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFhLQkhdS0Q3WFRVRFcwVjUmVFdIJzEyQSQ3TktCVUwxUDFANkIoViwBKhMsAhwRFQUcFCwDERAUBRw=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Major League Baseball - Cincinnati Reds Vs Pittsburgh Pirates (09/24/25) [STREAM 6[HD]]": {
+      "event_title": "Major League Baseball - Cincinnati Reds Vs Pittsburgh Pirates (09/24/25) [STREAM 6[HD]]",
+      "event_time": "06:40AM",
+      "event_date": "09/24/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFhLQkhdS0Q3WFRVRFcwVjUmVFdIJzEyQSQ3TktCVUwxUDFANkIoViwBKhcsAhwRFQUcFCwDERAUChA=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Major League Baseball - Cleveland Guardians Vs Detroit Tigers (09/24/25)": {
+      "event_title": "Major League Baseball - Cleveland Guardians Vs Detroit Tigers (09/24/25)",
+      "event_time": "06:40AM",
+      "event_date": "09/24/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDK A",
+          "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAF9CMURfRklHQgIwQCFBTEBdMFY1JlQFRCc3NkgnVFNIWkI1NkIoViwBKhMsAhwRFQUcFSwDERAUChQ=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Major League Baseball - Cleveland Guardians Vs Detroit Tigers (09/24/25) [STREAM 44[HD]]": {
+      "event_title": "Major League Baseball - Cleveland Guardians Vs Detroit Tigers (09/24/25) [STREAM 44[HD]]",
+      "event_time": "06:40AM",
+      "event_date": "09/24/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAF9CMURfRklHQgIwQCFBTEBdMFY1JlQFRCc3NkgnVFNIWkI1NkIoViwBKhcsAhwRFQUcFSwDERAUChY=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Major League Baseball - Philadelphia Phillies Vs Miami Marlins (09/24/25)": {
+      "event_title": "Major League Baseball - Philadelphia Phillies Vs Miami Marlins (09/24/25)",
+      "event_time": "06:45AM",
+      "event_date": "09/24/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDK A",
+          "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWU1tOS0BXQkszW05EUkNNTE9fTkA2QjMyUh5ORExYVApAIUlMTSZUKlI8FygXPBQeFQUTHhY8FRMUBBwT/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Major League Baseball - Philadelphia Phillies Vs Miami Marlins (09/24/25) [STREAM 23[HD]]": {
+      "event_title": "Major League Baseball - Philadelphia Phillies Vs Miami Marlins (09/24/25) [STREAM 23[HD]]",
+      "event_time": "06:45AM",
+      "event_date": "09/24/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWU1tOS0BXQkszW05EUkNNTE9fTkA2QjMyUh5ORExYVApAIUlMTSZUKlI8FygTPBQeFQUTHhY8FRMUBBwV/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
           "duration": null
         }

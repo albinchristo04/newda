@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-23T22:31:48.641286
+Extraction Time: 2025-09-23T22:49:09.688676
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 5
-- Total Channels: 8
+- Unique Events: 11
+- Total Channels: 14
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -14,6 +14,18 @@ STATISTICS:
 EVENT BREAKDOWN:
 - Major League Baseball - Baltimore Orioles Vs Tampa Bay Rays ...
   Time: 06:35AM, Channels: 1
+- Major League Baseball - Cincinnati Reds Vs Pittsburgh Pirate...
+  Time: 06:40AM, Channels: 1
+- Major League Baseball - Cincinnati Reds Vs Pittsburgh Pirate...
+  Time: 06:40AM, Channels: 1
+- Major League Baseball - Cleveland Guardians Vs Detroit Tiger...
+  Time: 06:40AM, Channels: 1
+- Major League Baseball - Cleveland Guardians Vs Detroit Tiger...
+  Time: 06:40AM, Channels: 1
+- Major League Baseball - Philadelphia Phillies Vs Miami Marli...
+  Time: 06:45AM, Channels: 1
+- Major League Baseball - Philadelphia Phillies Vs Miami Marli...
+  Time: 06:45AM, Channels: 1
 - The Hundred 2025 (Men) - Birmingham Phoenix V Trent Rockets ...
   Time: 02:30AM, Channels: 1
 - Conmebol Copa Libertadores - Racing Club De Avellaneda Vs Ve...
