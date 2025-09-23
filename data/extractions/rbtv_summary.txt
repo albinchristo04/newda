@@ -1,64 +1,13 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-23T16:19:22.800458
+Extraction Time: 2025-09-23T16:44:54.473560
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 25
-- Total Channels: 32
+- Unique Events: 0
+- Total Channels: 0
 - Individual Streams: 0
-- Media Segments: 0
+- Media Segments: 143
 - Other Events: 0
 
-EVENT BREAKDOWN:
-- Usa: Ncaa - Cincinnati Vs Fb Presser (09/24/25)
-  Time: 12:00AM, Channels: 1
-- Usa: Ncaa - North Vs Texas Football Press Conference (09/24/...
-  Time: 12:00AM, Channels: 1
-- Fau Football - Zach Vs Kittley Weekly Presser (09/23/25)
-  Time: 11:45PM, Channels: 1
-- Lietuvos Krepsinio Lyga - Lietkabelis Vs Jonava (09/23/25)
-  Time: 11:15PM, Channels: 1
-- Basketball Champions League - Bc Kalev Cramo Vs Onyx Levice ...
-  Time: 11:45PM, Channels: 1
-- T20 Asia Cup - Pakistan Vs Sri Lanka (09/23/25)
-  Time: 10:30PM, Channels: 1
-- T20 Asia Cup - Pakistan Vs Sri Lanka (09/23/25) [STREAM 1[HD...
-  Time: 10:30PM, Channels: 1
-- Wbkf - The Bare Knuckle Show With Brian Soscia: Season 2, Ep...
-  Time: 12:05AM, Channels: 1
-- Finnish Veikkausliiga - Inter Turku Vs Hjk Helsinki (09/24/2...
-  Time: 12:00AM, Channels: 1
-- German Frauen Bundesliga - Bayern Munchen Women Vs Sc Freibu...
-  Time: 12:00AM, Channels: 4
-- German Frauen Bundesliga - Bayern Munchen Women Vs Sc Freibu...
-  Time: 12:00AM, Channels: 1
-- Coppa Italia - Cagliari Vs Frosinone (09/23/25)
-  Time: 11:00PM, Channels: 4
-- Coppa Italia - Cagliari Vs Frosinone (09/23/25) [STREAM 2[HD...
-  Time: 11:00PM, Channels: 1
-- Finnish Veikkausliiga - Ilves Tampere Vs Gnistan Helsinki (0...
-  Time: 11:00PM, Channels: 1
-- Finnish Veikkausliiga - Kups Vs Sjk Seinajoen (09/23/25)
-  Time: 11:00PM, Channels: 1
-- Georgia Cup - Fc Metalurgi Rustavi Vs Samtredia (09/23/25)
-  Time: 11:00PM, Channels: 1
-- Georgia Cup - Lokomotiv Tbilisi Vs Dinamo Batumi (09/23/25)
-  Time: 11:00PM, Channels: 1
-- Georgia Cup - Spaeri Fc Vs Dila Gori (09/23/25)
-  Time: 11:00PM, Channels: 1
-- Portuguese U23 League - Uniao Leiria U23 Vs Estoril U23 (09/...
-  Time: 11:00PM, Channels: 1
-- Qatari Stars Cup - Al Shahaniya Vs Al Shamal (09/23/25)
-  Time: 11:00PM, Channels: 1
-- U17 Gulf Cup Of Nations - Kuwait U17 Vs Saudi Arabia U17 (09...
-  Time: 11:00PM, Channels: 1
-- Polish Cup - Stal Rzeszow Vs Korona Kielce (09/23/25)
-  Time: 11:30PM, Channels: 2
-- Kontinental Hockey League - Metallurg Magnitogorsk Vs Sparta...
-  Time: 10:00PM, Channels: 1
-- Premier Padel 2025  -  Cupra Germany P2 - Day 2 (2) (09/23/2...
-  Time: 11:00PM, Channels: 1
-- Challenger Atp Challenger Orleans, France Men Singles - Flor...
-  Time: 11:40PM, Channels: 1
