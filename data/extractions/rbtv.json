@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-23T14:42:03.388986",
+  "timestamp": "2025-09-23T14:52:31.341591",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -51,16 +51,6 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
       "group_title": "CYCLING"
-    },
-    {
-      "event_time": "08:30PM",
-      "event_date": "09/23/25",
-      "channel_name": "HDD A POLSKI",
-      "event_title": "Polish Cup - Lks Goczalkowice Zdroj B Vs Stal Stalowa Wola (09/23/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/UyJJTDZbVAQ0I1QqUhkOUlIUNEI5UElKMipOQkRCX0MxIk9WA0IzMlJGMURPQlAzQF80PkBCXDZPUFQqUjwUKBc8FxcVARQQEzwWKRMGERA=/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
     },
     {
       "event_time": "10:00PM",
@@ -200,20 +190,6 @@
           "channel_name": null,
           "url": "https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYOVEsgNkINME1YNDVSGktDSCVOQzRQSVZXWEpAUkc3TEBfVCpSPBQSLAMqFhoKKxURByoXFwQSFBc=/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Polish Cup - Lks Goczalkowice Zdroj B Vs Stal Stalowa Wola (09/23/25)": {
-      "event_title": "Polish Cup - Lks Goczalkowice Zdroj B Vs Stal Stalowa Wola (09/23/25)",
-      "event_time": "08:30PM",
-      "event_date": "09/23/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A POLSKI",
-          "url": "https://world-proxifier.xyz/rbtv/p/UyJJTDZbVAQ0I1QqUhkOUlIUNEI5UElKMipOQkRCX0MxIk9WA0IzMlJGMURPQlAzQF80PkBCXDZPUFQqUjwUKBc8FxcVARQQEzwWKRMGERA=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }
       ]

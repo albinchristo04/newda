@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-23T14:42:03.388986
+Extraction Time: 2025-09-23T14:52:31.341591
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 13
-- Total Channels: 13
+- Unique Events: 12
+- Total Channels: 12
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -22,8 +22,6 @@ EVENT BREAKDOWN:
   Time: 07:50PM, Channels: 1
 - Cycling World Cup - Men'S Junior Individual Time Trial (09/2...
   Time: 07:50PM, Channels: 1
-- Polish Cup - Lks Goczalkowice Zdroj B Vs Stal Stalowa Wola (...
-  Time: 08:30PM, Channels: 1
 - Egyptian Premier League - Haras El Hodood Vs Al Ahly Fc (09/...
   Time: 10:00PM, Channels: 1
 - Portuguese U23 League - Academico Viseu U23 Vs Vizela U23 (0...
