@@ -1,35 +1,15 @@
 {
-  "timestamp": "2025-09-24T06:23:13.526253",
+  "timestamp": "2025-09-24T06:47:49.994362",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
   "events": [
-    {
-      "event_time": "01:25PM",
-      "event_date": "09/24/25",
-      "channel_name": "VDO",
-      "event_title": "Korea Open, Women, Singles - Pai Yu-Po Vs Tereza Svabikova (09/24/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlJDRkxSSDIqMyJUMTZCUUAxVD9EUkYzREFYSDY1UFQqUjwUFywDKykSPBQeFQocEBM8ERYaARIV/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-      "group_title": "BADMINTON"
-    },
     {
       "event_time": "02:10PM",
       "event_date": "09/24/25",
       "channel_name": "VDO",
       "event_title": "Korea Open, Women, Singles - Kim Ga-Eun Vs Goh Jin Wei (09/24/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlIYTkhSFEYqRCRLVjUmVAAyW1QPSF1UXkRYVCpSPBQXLAMrKRI8FB4VChwQETwRFhoBER4=/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-      "group_title": "BADMINTON"
-    },
-    {
-      "event_time": "02:15PM",
-      "event_date": "09/24/25",
-      "channel_name": "VDO",
-      "event_title": "Korea Open, Mixed Doubles - Shimogami Y / Hobara S Vs Jaglan M / Jaglan L (09/24/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WDlg9QEdCBzY0UUlANkIoVlZbTkgyWkZISEJeVixCAzZBUDdEUkZUMTZCDURKX0ZJUh5UKFIbRk5PUEtWCUIoViwCFSgTPSsWLAIcHi09KxQsBxQeEQUV/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
       "group_title": "BADMINTON"
@@ -45,6 +25,16 @@
       "group_title": "BADMINTON"
     },
     {
+      "event_time": "02:45PM",
+      "event_date": "09/24/25",
+      "channel_name": "VDO",
+      "event_title": "Korea Open, Women, Singles - Polina Buhrova Vs Supanida Katethong (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlJDNEtIXUZWAyRNNTIlRlY1JlRSNCNGSUhXRlYIUDFAN1s0SUpCKFYsAhUoEz0rFiwCHBEaChIpLAcUHhEFFg==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+      "group_title": "BADMINTON"
+    },
+    {
       "event_time": "02:00PM",
       "event_date": "09/24/25",
       "channel_name": "SD",
@@ -53,16 +43,6 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
       "group_title": "BASKETBALL"
-    },
-    {
-      "event_time": "12:25PM",
-      "event_date": "09/24/25",
-      "channel_name": "HDD A",
-      "event_title": "Wta Beijing, China Women Singles - Laura Siegemund Vs Caty Mcnally (09/24/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQNQCQ3RFJGTkBKVEowTVdUMTZCBkQ3KFQKRl1GS08oVCpSPBYoFzwUHhUKHCkTPBUTFAUcFQ==/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
     },
     {
       "event_time": "01:05PM",
@@ -75,31 +55,31 @@
       "group_title": "TENNIS"
     },
     {
-      "event_time": "01:10PM",
+      "event_time": "02:15PM",
       "event_date": "09/24/25",
       "channel_name": "HDD A",
-      "event_title": "Wta Beijing, China Women Singles - Lucia Bronzetti Vs Kamilla Rakhimova (09/24/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQNNFZORFITNzZNKUIzN1hUMTZCDkRMWElLQEJXRE5bTkgyJUZWLkIqFCwHKhYaBRwRGgUqFxcEEx4a/index.m3u8",
+      "event_title": "Atp Tokyo, Japan Men Double - Ruud C / Thompson J Vs Bopanna R / Yuzuki T (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSETQwQV9CVi5CVzA0V1QEUjxUU0siSjc2IktWC0IzMlITNDdAXUtEUkFUKFJIMj00Xk5WV0IoViwAKhMsAhwRGgQcKSwDERAaPRE=/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
     },
     {
-      "event_time": "02:20PM",
+      "event_time": "02:30PM",
       "event_date": "09/24/25",
-      "channel_name": "HDD B",
-      "event_title": "Wta Beijing, China Women Singles - Priscilla Hon Vs Viktorija Golubic (09/24/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlRXMVgwQkhfSURSFTRJUiUwVlVYSDMyIU5NQEICNk8kR0xGQihWLAAqEywCHB4tBhQTLAMREBo9Fw==/index.m3u8",
+      "channel_name": "HDD A",
+      "event_title": "Wta Beijing, China Women Singles - Elsa Jacquemot Vs Antonia Ru\u017ei\u0107 (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQCTyZGVgtQQDQ0VEo2N0IzMlISSzMyXU5EUkEys8xYsPFSPlQoEDwRKBIKHCkWAhIoEwcSHi0K/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
     },
     {
-      "event_time": "02:20PM",
+      "event_time": "02:30PM",
       "event_date": "09/24/25",
-      "channel_name": "HDD B",
+      "channel_name": "HDD A",
       "event_title": "Wta Beijing, China Women Singles - Ruien Zhang Vs Eva Lys (09/24/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlRVNFhCSVJJTURNWlQxNkIAMUBCDzw2QihWLAAqEywCHBEaCisWLAMREBo9Fg==/index.m3u8",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlRVNFhCSVJJTURNWlQxNkIAMUBCDzw2QihWLAAqEywCHBEaCisWLAMREBoCKw==/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
@@ -136,20 +116,6 @@
     }
   ],
   "grouped_events": {
-    "Korea Open, Women, Singles - Pai Yu-Po Vs Tereza Svabikova (09/24/25)": {
-      "event_title": "Korea Open, Women, Singles - Pai Yu-Po Vs Tereza Svabikova (09/24/25)",
-      "event_time": "01:25PM",
-      "event_date": "09/24/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlJDRkxSSDIqMyJUMTZCUUAxVD9EUkYzREFYSDY1UFQqUjwUFywDKykSPBQeFQocEBM8ERYaARIV/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "Korea Open, Women, Singles - Kim Ga-Eun Vs Goh Jin Wei (09/24/25)": {
       "event_title": "Korea Open, Women, Singles - Kim Ga-Eun Vs Goh Jin Wei (09/24/25)",
       "event_time": "02:10PM",
@@ -159,20 +125,6 @@
         {
           "channel_name": "VDO",
           "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlIYTkhSFEYqRCRLVjUmVAAyW1QPSF1UXkRYVCpSPBQXLAMrKRI8FB4VChwQETwRFhoBER4=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Korea Open, Mixed Doubles - Shimogami Y / Hobara S Vs Jaglan M / Jaglan L (09/24/25)": {
-      "event_title": "Korea Open, Mixed Doubles - Shimogami Y / Hobara S Vs Jaglan M / Jaglan L (09/24/25)",
-      "event_time": "02:15PM",
-      "event_date": "09/24/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WDlg9QEdCBzY0UUlANkIoVlZbTkgyWkZISEJeVixCAzZBUDdEUkZUMTZCDURKX0ZJUh5UKFIbRk5PUEtWCUIoViwCFSgTPSsWLAIcHi09KxQsBxQeEQUV/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
           "duration": null
         }
@@ -192,6 +144,20 @@
         }
       ]
     },
+    "Korea Open, Women, Singles - Polina Buhrova Vs Supanida Katethong (09/24/25)": {
+      "event_title": "Korea Open, Women, Singles - Polina Buhrova Vs Supanida Katethong (09/24/25)",
+      "event_time": "02:45PM",
+      "event_date": "09/24/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlJDNEtIXUZWAyRNNTIlRlY1JlRSNCNGSUhXRlYIUDFAN1s0SUpCKFYsAhUoEz0rFiwCHBEaChIpLAcUHhEFFg==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+          "duration": null
+        }
+      ]
+    },
     "Fiba U16 Women'S Asian Championship - Korea U16 Women Vs Philippines U16 Women (09/24/25)": {
       "event_title": "Fiba U16 Women'S Asian Championship - Korea U16 Women Vs Philippines U16 Women (09/24/25)",
       "event_time": "02:00PM",
@@ -202,20 +168,6 @@
           "channel_name": "SD",
           "url": "https://world-proxifier.xyz/rbtv/p/BxoFBlJEFBNSSjRIRF0iMlISMExAXVQES1BKN0giSzJLWDVWLkIONjFURlZUAhFWWiJKQE1CMzJSQ01MT1g1N0hdQjJSRBQTUko0SERdVCpSPBUoEDwUHhUFEh4tPBUTFAorFg==/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Wta Beijing, China Women Singles - Laura Siegemund Vs Caty Mcnally (09/24/25)": {
-      "event_title": "Wta Beijing, China Women Singles - Laura Siegemund Vs Caty Mcnally (09/24/25)",
-      "event_time": "12:25PM",
-      "event_date": "09/24/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQNQCQ3RFJGTkBKVEowTVdUMTZCBkQ3KFQKRl1GS08oVCpSPBYoFzwUHhUKHCkTPBUTFAUcFQ==/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
       ]
@@ -234,29 +186,29 @@
         }
       ]
     },
-    "Wta Beijing, China Women Singles - Lucia Bronzetti Vs Kamilla Rakhimova (09/24/25)": {
-      "event_title": "Wta Beijing, China Women Singles - Lucia Bronzetti Vs Kamilla Rakhimova (09/24/25)",
-      "event_time": "01:10PM",
+    "Atp Tokyo, Japan Men Double - Ruud C / Thompson J Vs Bopanna R / Yuzuki T (09/24/25)": {
+      "event_title": "Atp Tokyo, Japan Men Double - Ruud C / Thompson J Vs Bopanna R / Yuzuki T (09/24/25)",
+      "event_time": "02:15PM",
       "event_date": "09/24/25",
       "category": null,
       "channels": [
         {
           "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQNNFZORFITNzZNKUIzN1hUMTZCDkRMWElLQEJXRE5bTkgyJUZWLkIqFCwHKhYaBRwRGgUqFxcEEx4a/index.m3u8",
+          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSETQwQV9CVi5CVzA0V1QEUjxUU0siSjc2IktWC0IzMlITNDdAXUtEUkFUKFJIMj00Xk5WV0IoViwAKhMsAhwRGgQcKSwDERAaPRE=/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
       ]
     },
-    "Wta Beijing, China Women Singles - Priscilla Hon Vs Viktorija Golubic (09/24/25)": {
-      "event_title": "Wta Beijing, China Women Singles - Priscilla Hon Vs Viktorija Golubic (09/24/25)",
-      "event_time": "02:20PM",
+    "Wta Beijing, China Women Singles - Elsa Jacquemot Vs Antonia Ru\u017ei\u0107 (09/24/25)": {
+      "event_title": "Wta Beijing, China Women Singles - Elsa Jacquemot Vs Antonia Ru\u017ei\u0107 (09/24/25)",
+      "event_time": "02:30PM",
       "event_date": "09/24/25",
       "category": null,
       "channels": [
         {
-          "channel_name": "HDD B",
-          "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlRXMVgwQkhfSURSFTRJUiUwVlVYSDMyIU5NQEICNk8kR0xGQihWLAAqEywCHB4tBhQTLAMREBo9Fw==/index.m3u8",
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQCTyZGVgtQQDQ0VEo2N0IzMlISSzMyXU5EUkEys8xYsPFSPlQoEDwRKBIKHCkWAhIoEwcSHi0K/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
@@ -264,13 +216,13 @@
     },
     "Wta Beijing, China Women Singles - Ruien Zhang Vs Eva Lys (09/24/25)": {
       "event_title": "Wta Beijing, China Women Singles - Ruien Zhang Vs Eva Lys (09/24/25)",
-      "event_time": "02:20PM",
+      "event_time": "02:30PM",
       "event_date": "09/24/25",
       "category": null,
       "channels": [
         {
-          "channel_name": "HDD B",
-          "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlRVNFhCSVJJTURNWlQxNkIAMUBCDzw2QihWLAAqEywCHBEaCisWLAMREBo9Fg==/index.m3u8",
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlRVNFhCSVJJTURNWlQxNkIAMUBCDzw2QihWLAAqEywCHBEaCisWLAMREBoCKw==/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
