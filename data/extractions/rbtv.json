@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-24T05:15:19.537907",
+  "timestamp": "2025-09-24T05:32:42.536046",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [
@@ -28,6 +28,13 @@
       "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS",
+      "title": "Atp Tokyo, Japan Men Double - Ruud C / Thompson J Vs Bopanna R / Yuzuki T [HDD B]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSETQwQV9CVi5CVzA0V1QEUjxUU0siSjc2IktWC0IzMlITNDdAXUtEUkFUKFJIMj00Xk5WV0IoViwAKhMsAhwRGgQcKSwDERAVChI=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
       "title": "Atp Tokyo, Japan Men Singles - Yosuke Watanuki Vs Nuno Borges [VDO]",
       "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VFwyJjJKREJcRDdQSzBOWFQxNkIJME0iVAcyIUxANkIoViwAKhctPRQoEgoTHhUDFSgXAhwVFgI=/index.m3u8"
     },
@@ -49,6 +56,13 @@
       "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS",
+      "title": "Atp Tokyo, Japan Men Singles - Yosuke Watanuki Vs Nuno Borges [STREAM 3[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VFwyJjJKREJcRDdQSzBOWFQxNkIJME0iVAcyIUxANkIoViwAKhcsAhwRGgUVFywDERAVBCs=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
       "title": "Wta Beijing, China Women Singles - Ashlyn Krueger Vs Maria Sakkari [HDD A]",
       "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQGNltJPE1CDjU0VExAMUIzMlIeRjVIUFRSQF5IRDFYVCpSPBYoFzwUHhUKEx4aPBUTFAUcEQ==/index.m3u8"
     },
@@ -58,6 +72,13 @@
       "group_title": "TENNIS",
       "title": "Wta Beijing, China Women Singles - Laura Siegemund Vs Caty Mcnally [HDD A]",
       "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQNQCQ3RFJGTkBKVEowTVdUMTZCBkQ3KFQKRl1GS08oVCpSPBYoFzwUHhUKHCkTPBUTFAUcFQ==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Wta Beijing, China Women Singles - Lucia Bronzetti Vs Kamilla Rakhimova [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQNNFZORFITNzZNKUIzN1hUMTZCDkRMWElLQEJXRE5bTkgyJUZWLkIqFCwHKhYaBRwRGgUqFxcEEx4a/index.m3u8"
     },
     {
       "type": "segment",

@@ -1,12 +1,12 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Wed Sep 24 05:15:20 UTC 2025
+Last updated: Wed Sep 24 05:32:43 UTC 2025
 
-Workflow run: #107
+Workflow run: #108
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-24T05:15:19.537907
+Extracted at: 2025-09-24T05:32:42.536046
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === MEDIA SEGMENTS (First 10) ===
@@ -14,11 +14,11 @@ Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 1. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlJDRkxSSDIqMyJUMTZCUUAxVD9EUkYzREFYSDY1UFQqUjwUFywDKykSPBQeFQocEBM8ERYaARIV/index.m3u8
 2. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlJGRksyXU5WVlBKTDFRTURIQghASydGVjUmVARIIjIqVyJLTlJHMklKQihWLAIVKBM9KxYsAhwRGgoSESwHFB4RBRQ=/index.m3u8
 3. https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSETQwQV9CVi5CCEQ7WEo2UhQ0STlQSUA5PARJRyFCMlIeNEs3VEtMUiUwVg5QQE9AVlRTUjxUV0RUNzJSG1QqUjwWKBc8FB4VChIeFzwVExQFHBY=/index.m3u8
-4. https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VFwyJjJKREJcRDdQSzBOWFQxNkIJME0iVAcyIUxANkIoViwAKhctPRQoEgoTHhUDFSgXAhwVFgI=/index.m3u8
-5. https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VFwyJjJKREJcRDdQSzBOWFQxNkIJME0iVAcyIUxANkIoViwAKhctPRQoEgoTHhUDFSgXAhwSFwA=/index.m3u8
-6. https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VFwyJjJKREJcRDdQSzBOWFQxNkIJME0iVAcyIUxANkIoViwAKhMsAhwRGgUVFywDERAVBRM=/index.m3u8
-7. https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQGNltJPE1CDjU0VExAMUIzMlIeRjVIUFRSQF5IRDFYVCpSPBYoFzwUHhUKEx4aPBUTFAUcEQ==/index.m3u8
-8. https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQNQCQ3RFJGTkBKVEowTVdUMTZCBkQ3KFQKRl1GS08oVCpSPBYoFzwUHhUKHCkTPBUTFAUcFQ==/index.m3u8
-9. https://world-proxifier.xyz/rbtv/p/me70m-f7n8bCiMHaUj5Umu_amePqifj2UiUwVp_36Jrk85_68kIoViwCFigTPSsWLAIcHhIAFhcsBxQeFgUU/index.m3u8
-10. https://world-proxifier.xyz/rbtv/p/me70m-f7n8bCiMHaUj5Um-vvmOvHifj2UiUwVp7G5Z3E4p_68kIoViwCFigTPSsWLAIcHhIAFhQsBxQeFgUr/index.m3u8
+4. https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSETQwQV9CVi5CVzA0V1QEUjxUU0siSjc2IktWC0IzMlITNDdAXUtEUkFUKFJIMj00Xk5WV0IoViwAKhMsAhwRGgQcKSwDERAVChI=/index.m3u8
+5. https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VFwyJjJKREJcRDdQSzBOWFQxNkIJME0iVAcyIUxANkIoViwAKhctPRQoEgoTHhUDFSgXAhwVFgI=/index.m3u8
+6. https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VFwyJjJKREJcRDdQSzBOWFQxNkIJME0iVAcyIUxANkIoViwAKhctPRQoEgoTHhUDFSgXAhwSFwA=/index.m3u8
+7. https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VFwyJjJKREJcRDdQSzBOWFQxNkIJME0iVAcyIUxANkIoViwAKhMsAhwRGgUVFywDERAVBRM=/index.m3u8
+8. https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VFwyJjJKREJcRDdQSzBOWFQxNkIJME0iVAcyIUxANkIoViwAKhcsAhwRGgUVFywDERAVBCs=/index.m3u8
+9. https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQGNltJPE1CDjU0VExAMUIzMlIeRjVIUFRSQF5IRDFYVCpSPBYoFzwUHhUKEx4aPBUTFAUcEQ==/index.m3u8
+10. https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQNQCQ3RFJGTkBKVEowTVdUMTZCBkQ3KFQKRl1GS08oVCpSPBYoFzwUHhUKHCkTPBUTFAUcFQ==/index.m3u8
 ```
