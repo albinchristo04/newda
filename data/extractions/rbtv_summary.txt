@@ -1,21 +1,17 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-24T19:12:52.154870
+Extraction Time: 2025-09-24T19:26:26.079808
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 64
-- Total Channels: 123
+- Unique Events: 62
+- Total Channels: 126
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
-- Euroleague Women - Umana Reyer Venezia Women Vs Crvena Zvezd...
-  Time: 01:30AM, Channels: 1
-- Fiba Europe Cup - Kk Bosna Asa Bh Telecom Vs Kangoeroes Mech...
-  Time: 01:30AM, Channels: 1
 - Fiba Europe Cup - Rasta Vechta Vs Balkan Botevgrad (09/25/25...
   Time: 01:30AM, Channels: 1
 - Euroleague Women - Cercle Jean Mace Bourges Women Vs Kibirks...
@@ -28,8 +24,6 @@ EVENT BREAKDOWN:
   Time: 02:00AM, Channels: 1
 - Serie A2 Basket - Real Sebastiani Rieti Vs Avellino Basket (...
   Time: 03:00AM, Channels: 1
-- Faroe Islands Premier League - Eb Streymur Vs Ki Klaksvik (0...
-  Time: 01:30AM, Channels: 1
 - South Africa Premier Soccer League - Richards Bay Vs Magesi ...
   Time: 01:30AM, Channels: 1
 - South Africa Premier Soccer League - Sekhukhune United Vs Ch...
@@ -44,16 +38,12 @@ EVENT BREAKDOWN:
   Time: 02:00AM, Channels: 1
 - Argentine Reserve League - Union Santa Fe Reserves Vs Ca Ald...
   Time: 02:00AM, Channels: 1
-- Belgian Second Division - Club Nxt Vs Kvsk Lommel (09/25/25)
-  Time: 02:00AM, Channels: 1
-- Belgian Second Division - Ksc Lokeren Vs Kas Eupen (09/25/25...
-  Time: 02:00AM, Channels: 1
 - Belgian Second Division - Rfc De Liege Vs Sk Beveren (09/25/...
   Time: 02:00AM, Channels: 1
 - Belgian Second Division - Rwdm Brussels Vs Kv Kortrijk (09/2...
   Time: 02:00AM, Channels: 1
 - Netherlands Eredivisie - Az Alkmaar Vs Pec Zwolle (09/25/25)
-  Time: 02:00AM, Channels: 3
+  Time: 02:00AM, Channels: 4
 - Switzerland Women'S Division 1 - Basel Women Vs Fc Zurich Fr...
   Time: 02:00AM, Channels: 1
 - Belgian Pro League - Club Brugge Vs Kvc Westerlo (09/25/25)
@@ -121,7 +111,7 @@ EVENT BREAKDOWN:
 - Uefa Europa League - Malmo Ff Vs Ludogorets Razgrad (09/25/2...
   Time: 03:00AM, Channels: 1
 - Uefa Europa League - Ogc Nice Vs As Roma (09/25/25)
-  Time: 03:00AM, Channels: 8
+  Time: 03:00AM, Channels: 7
 - Uefa Europa League - Ogc Nice Vs As Roma (09/25/25) [STREAM ...
   Time: 03:00AM, Channels: 1
 - Uefa Europa League - Ogc Nice Vs As Roma (09/25/25) [STREAM ...
@@ -140,3 +130,9 @@ EVENT BREAKDOWN:
   Time: 03:00AM, Channels: 7
 - Uefa Europa League - Sporting Braga Vs Feyenoord (09/25/25) ...
   Time: 03:00AM, Channels: 1
+- Paraguayan Cup - Sportivo Ameliano Vs General Caballero (09/...
+  Time: 03:30AM, Channels: 1
+- Spanish La Liga - Atletico Madrid Vs Rayo Vallecano (09/25/2...
+  Time: 03:30AM, Channels: 4
+- Spanish La Liga - Real Sociedad Vs Rcd Mallorca (09/25/25)
+  Time: 03:30AM, Channels: 3
