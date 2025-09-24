@@ -1,29 +1,24 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Wed Sep 24 19:49:40 UTC 2025
+Last updated: Wed Sep 24 20:17:22 UTC 2025
 
-Workflow run: #148
+Workflow run: #149
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-24T19:49:39.345144
+Extracted at: 2025-09-24T20:17:21.857433
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== GROUPED EVENTS BY TITLE ===
+=== MEDIA SEGMENTS (First 10) ===
 
-EVENT: Euroleague Women - Cercle Jean Mace Bourges Women Vs Kibirkstis Women (09/25/25)
-Time: 02:00AM
-Date: 09/25/25
-Category: None
-Available Channels (1):
-  1. SD
-     URL: https://world-proxifier.xyz/rbtv/p/BiQ3NglURk40VFReMlxCSVI-VAREIUBLREINQEBdVApAVkJWAyIyNUpUMFZaIkpATUIzMlIYTkVIIUgyN1gwVloiSkBNQihWLAMqFCwCHBEaBhQTLAMREBoKFA==/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
-
-================================================================================
-
-EVENT: Euroleague Women - Zaragoza Women Vs Frisco Sika Brno Women (09/25/25)
-Time: 02:00AM
-Date: 09/25/25
-Category: None
+1. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhMsAhwRGgYSFiwDERAaChM=/index.m3u8
+2. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhcsAhwRGgYSFiwDEREtPSs=/index.m3u8
+3. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhMsAhwRGgYSFiwDERAaChM=/index.m3u8
+4. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhcsAhwRGgYSFiwDEREtPSs=/index.m3u8
+5. https://world-proxifier.xyz/rbtv/p/VlQ3TERCBBdSE0YyTlQxVi5CV0BAX1RSRFFGMjdYRklIQldMRCdOVjUmVEQ1VElLSF00VkFQMEpEJ1QqUjwVKBA8FB4VBBMXFTwVExQKHBM=/index.m3u8
+6. https://world-proxifier.xyz/rbtv/p/VlQ3TERCBBdSE0YyTlQxVi5CV0BAX1RSRFFGMjdYRklIQldMRCdOVjUmVEQ1VElLSF00VkFQMEpEJ1QqUjwVKBA8FB4VBBMXFTwVExQKHBM=/index.m3u8
+7. https://world-proxifier.xyz/rbtv/p/A1RJTkhQS1ZTITRWCVRGTjRUVCpSEEkwQUIFNTRaTEBSJTBWCEUGVlpUMDNEIUk2Uj5UKBI8FigRAhwRFQUXKBA9FR4UBw==/index.m3u8
+8. https://world-proxifier.xyz/rbtv/p/A1RJTkhQS1ZTITRWCVRGTjRUVCpSEEkwQUIFNTRaTEBSJTBWCEUGVlpUMDNEIUk2Uj5UKBI8FigRAhwRFQUXKBA9FR4UBw==/index.m3u8
+9. https://world-proxifier.xyz/rbtv/p/AyJJTDVYRklSQzdMTFQ3RFIRTjFIJk42TUIoVg9QQEwyXUZLUkM0MzImTlY1JlQANFBJRUQhMTZSRU5LT1A3NTJUSVYBVDU2MSdOMTJCUERNQg02NqHdVi5CKhYsACoVEwURExoFKhQtACsULQ==/index.m3u8
+10. https://world-proxifier.xyz/rbtv/p/AyJJTDVYRklSQzdMTFQ3RFIRTjFIJk42TUIoVg9QQEwyXUZLUkM0MzImTlY1JlQANFBJRUQhMTZSRU5LT1A3NTJUSVYBVDU2MSdOMTJCUERNQg02NqHdVi5CKhYsACoVEwURExoFKhQtACsULQ==/index.m3u8
 ```
