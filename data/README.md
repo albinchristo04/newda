@@ -1,29 +1,24 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Wed Sep 24 13:44:07 UTC 2025
+Last updated: Wed Sep 24 13:53:34 UTC 2025
 
-Workflow run: #129
+Workflow run: #130
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-24T13:44:07.111788
+Extracted at: 2025-09-24T13:53:33.280444
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== GROUPED EVENTS BY TITLE ===
+=== MEDIA SEGMENTS (First 10) ===
 
-EVENT: Philippines Mpbl - Bataan Risers Vs Valenzuela Xur Homes Realty Inc. (09/24/25)
-Time: 08:00PM
-Date: 09/24/25
-Category: None
-Available Channels (1):
-  1. SD
-     URL: https://world-proxifier.xyz/rbtv/p/U1tOS0gjNUxNVDBWDkMFDVI-VAdAJ0ZETUJXTDZUNzJSJTBWVVBJQE0pMkBPUFRfVEFUATJcQjJSQUJETyc-VgpdQCtSPlQoEzwWKBIKHCkQBxMoEwcSHhY9/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
-
-================================================================================
-
-EVENT: Cycling World Cup - Mixed Relays Time Trial (09/24/25) [STREAM 1[HD]]
-Time: 06:20PM
-Date: 09/24/25
-Category: None
+1. https://world-proxifier.xyz/rbtv/p/U1tOS0gjNUxNVDBWDkMFDVI-VAdAJ0ZETUJXTDZUNzJSJTBWVVBJQE0pMkBPUFRfVEFUATJcQjJSQUJETyc-VgpdQCtSPlQoEzwWKBIKHCkQBxMoEwcSHhY9/index.m3u8
+2. https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYOWD1AR0JXQE9QPjJSR05IREJRNUhQSVYuQioWFjwVKBIKHBYQABwoEwcSHhEB/index.m3u8
+3. https://world-proxifier.xyz/rbtv/p/JV8sVk5USUQ4UEhETUJDMDcmRktSI05ET1BURDZYRlYTPRUTUj5UMEBUVDE2QkdETUIoViwCKhctPRQoEQMTExIFFigXAhwXFQM=/index.m3u8
+4. https://world-proxifier.xyz/rbtv/p/AiZCRE1CBks0UVQES1BKN0giSzJLWDVWVls0N0RUVAQ0I1QqUhMCVlNQMU80XFRQTVgxQEdCMzJSEzI1SCFGSFJES0w3VEFWLkIqFiwDKykSPBcXFwIrHhQ8ERYaAxES/index.m3u8
+5. https://world-proxifier.xyz/rbtv/p/AiZCRE1CBks0UVQES1BKN0giSzJLWDVWVls0N0RUVAQ0I1QqUhMCVlNQMU80XFRQTVgxQEdCMzJSEzI1SCFGSFJES0w3VEFWLkIqFiwDKykSPBcXFwIrHhQ8ERYaARcX/index.m3u8
+6. https://world-proxifier.xyz/rbtv/p/AiZCRE1CBks0UVQES1BKN0giSzJLWDVWVls0N0RUVAQ0I1QqUhMCVlNQMU80XFRQTVgxQEdCMzJSEzI1SCFGSFJES0w3VEFWLkIqFiwAKhUTBxQpGgQqFC0DExcR/index.m3u8
+7. https://world-proxifier.xyz/rbtv/p/AiZCRE1CBks0UVQES1BKN0giSzJLWDVWVls0N0RUVAQ0I1QqUhA0SUpCBElSFUZWDyJOVgcQVDE2Qgc8TVBKTEZCA0AxUVQERFEyVi5CKhYsAyspEjwXFxc9FhAUPBEWGgMREw==/index.m3u8
+8. https://world-proxifier.xyz/rbtv/p/AiZCRE1CBks0UVQES1BKN0giSzJLWDVWVls0N0RUVAQ0I1QqUhA0SUpCBElSFUZWDyJOVgcQVDE2Qgc8TVBKTEZCA0AxUVQERFEyVi5CKhYsACoVEwcrFBQEKhQtAxMUEw==/index.m3u8
+9. https://world-proxifier.xyz/rbtv/p/AiZCRE1CBks0UVQES1BKN0giSzJLWDVWVls0N0RUVAQ0I1QqUkZCS0BdTDYxQgEEUiUwVldQSjdIXUIyUkE0MUQhMFYHEFQqUjwUKBM9KxYsARUTEj0cEywHFB4TBxM=/index.m3u8
+10. https://world-proxifier.xyz/rbtv/p/AiZCRE1CBks0UVQES1BKN0giSzJLWDVWVls0N0RUVAQ0I1QqUkZCS0BdTDYxQgEEUiUwVldQSjdIXUIyUkE0MUQhMFYHEFQqUjwUKBA8FxcXAiseFzwWKRMFFhQ=/index.m3u8
 ```
