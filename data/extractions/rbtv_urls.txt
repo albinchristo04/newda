@@ -1,4 +1,4 @@
-Extracted at: 2025-09-24T23:37:58.741886
+Extracted at: 2025-09-24T23:49:30.113602
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -327,8 +327,22 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: United States Major League Soccer - New York City Fc Vs Inter Miami Cf (09/25/25)
+EVENT: Uruguay Cup - Tacuarembo Vs Ca Penarol (09/25/25)
 Time: 07:30AM
+Date: 09/25/25
+Category: None
+Available Channels (2):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/VCEyTjRQPlYAJDVWLkJRREYkRjVEXEc2UiUwVgASVFdEXUY1Ml9UKlI8FCgXPBcXFQEREBo8FikQAhcX/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/VCEyTjRQPlYAJDVWLkJRREYkRjVEXEc2UiUwVgASVFdEXUY1Ml9UKlI8FCgQPBcXFQEREBo8FikQAhcp/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: United States Major League Soccer - New York City Fc Vs Inter Miami Cf (09/25/25)
+Time: 07:40AM
 Date: 09/25/25
 Category: None
 Available Channels (3):
@@ -345,26 +359,12 @@ Available Channels (3):
 ================================================================================
 
 EVENT: United States Major League Soccer - New York City Fc Vs Inter Miami Cf (09/25/25) [STREAM 39[HD]]
-Time: 07:30AM
+Time: 07:40AM
 Date: 09/25/25
 Category: None
 Available Channels (1):
   1. None
      URL: https://world-proxifier.xyz/rbtv/p/VF1OM0RXVFI3UDFANkIIREkiN1YJVEZONFRUUjJWQEAxQihWD1Q8VlgiN0pSEE4zOEIBBFIlMFYKXTFAMUIITEBcTlYAF1QqUjwUKBM8FxYtBhUeGjwWKRACFxM=/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-
-================================================================================
-
-EVENT: Uruguay Cup - Tacuarembo Vs Ca Penarol (09/25/25)
-Time: 07:30AM
-Date: 09/25/25
-Category: None
-Available Channels (2):
-  1. HDD A
-     URL: https://world-proxifier.xyz/rbtv/p/VCEyTjRQPlYAJDVWLkJRREYkRjVEXEc2UiUwVgASVFdEXUY1Ml9UKlI8FCgXPBcXFQEREBo8FikQAhcX/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-  2. SD
-     URL: https://world-proxifier.xyz/rbtv/p/VCEyTjRQPlYAJDVWLkJRREYkRjVEXEc2UiUwVgASVFdEXUY1Ml9UKlI8FCgQPBcXFQEREBo8FikQAhcp/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
 ================================================================================
