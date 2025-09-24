@@ -1,29 +1,24 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Wed Sep 24 20:49:36 UTC 2025
+Last updated: Wed Sep 24 21:13:41 UTC 2025
 
-Workflow run: #151
+Workflow run: #152
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-24T20:49:36.375376
+Extracted at: 2025-09-24T21:13:41.132194
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== GROUPED EVENTS BY TITLE ===
+=== MEDIA SEGMENTS (First 10) ===
 
-EVENT: Major League Baseball - San Diego Padres Vs Milwaukee Brewers (09/25/25)
-Time: 04:10AM
-Date: 09/25/25
-Category: None
-Available Channels (2):
-  1. HDK A
-     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhMsAhwRGgYSFiwDERAaChM=/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
-  2. HDK A
-     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhMsAhwRGgYSFiwDERAaChM=/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
-
-================================================================================
-
-EVENT: Major League Baseball - San Diego Padres Vs Milwaukee Brewers (09/25/25) [STREAM 23[HD]]
+1. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhMsAhwRGgYSFiwDERAaChM=/index.m3u8
+2. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhcsAhwRGgYSFiwDEREtPSs=/index.m3u8
+3. https://world-proxifier.xyz/rbtv/p/BlYyREciN0xAXVQEQFw1QDJdRjMyQlBAMVhCVgNCKFYCJ0lAN1hANlJFTkkyJ05JNyJUMTZCBjBMUUY8QEIBBFI-VCgSPBYoEQMREhEDEigQPRYWLQY=/index.m3u8
+4. https://world-proxifier.xyz/rbtv/p/U1A3REokRjxAXVQENCNUKlJGNTYxJ04xMkIESERfTkRNIlQxNkICQE1UN0RPQgZEQVBJS0QhNFYuQioWLAAqFRMFEBYtPSoULQArERc=/index.m3u8
+5. https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CBDNPVDFMRiJUCkBXN0xHQjMyUkFGPDJCU0RPX0JCQF00Vi5CKhYsAyspEjwXFy0KERYXPBEWGgYQEw==/index.m3u8
+6. https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CBDNPVDFMRiJUCkBXN0xHQjMyUkFGPDJCU0RPX0JCQF00Vi5CKhYsAyspEjwXFy0KERYXPBEWGgYQEA==/index.m3u8
+7. https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CBDNPVDFMRiJUCkBXN0xHQjMyUkFGPDJCU0RPX0JCQF00Vi5CKhYsAyoVEz0cExIHKhQtABQpFw==/index.m3u8
+8. https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CBDNPVDFMRiJUCkBXN0xHQjMyUkFGPDJCU0RPX0JCQF00Vi5CKhYsACoVEz0cExIHKhQtACsRFA==/index.m3u8
+9. https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CV0BAX1RSMlZOQEdQQVY1JlRVABFUCkBfSTYxVkZWLkIqFiwDKykSPBcXLQoRKRE8ERYaABMS/index.m3u8
+10. https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CV0BAX1RSMlZOQEdQQVY1JlRVABFUCkBfSTYxVkZWLkIqFiwDKykSPBcXLQoRKRE8ERYaARYQ/index.m3u8
 ```
