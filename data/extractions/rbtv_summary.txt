@@ -1,33 +1,23 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-24T02:38:20.706711
+Extraction Time: 2025-09-24T03:21:30.394237
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 37
-- Total Channels: 45
+- Unique Events: 31
+- Total Channels: 36
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
-- Korea Open, Singles - Jeon Hyeok Jin Vs Kenta Nishimoto (09/...
-  Time: 09:10AM, Channels: 1
-- Korea Open, Singles - Yu Jen Chi Vs Lee Chia-Hao (09/24/25)
-  Time: 09:35AM, Channels: 1
-- Korea Open, Singles - Angus Ng Ka Long Vs Jonatan Christie (...
-  Time: 10:30AM, Channels: 1
 - Korea Open, Mixed Doubles - Cheng Xing/Zhang Chi Vs Smith P ...
-  Time: 10:40AM, Channels: 1
-- Major League Baseball - Philadelphia Phillies Vs Miami Marli...
-  Time: 06:45AM, Channels: 1
-- Major League Baseball - Philadelphia Phillies Vs Miami Marli...
-  Time: 06:45AM, Channels: 1
-- Major League Baseball - Chicago Cubs Vs New York Mets (09/24...
-  Time: 07:40AM, Channels: 1
-- Major League Baseball - Chicago Cubs Vs New York Mets (09/24...
-  Time: 07:40AM, Channels: 1
+  Time: 10:45AM, Channels: 1
+- Korea Open, Mixed Doubles - Hiroki Midorikawa/Natsu Saito Vs...
+  Time: 11:15AM, Channels: 1
+- Korea Open, Mixed Doubles - Syahnawi A / Marwah N V Vs Chen ...
+  Time: 11:20AM, Channels: 1
 - Major League Baseball - Texas Rangers Vs Minnesota Twins (09...
   Time: 08:05AM, Channels: 1
 - Major League Baseball - Texas Rangers Vs Minnesota Twins (09...
@@ -56,24 +46,14 @@ EVENT BREAKDOWN:
   Time: 09:30AM, Channels: 2
 - Women'S National Basketball Association - Las Vegas Aces Vs ...
   Time: 09:30AM, Channels: 1
-- Lightweight - Men - Dana White'S Contender Series, Week 7 (0...
-  Time: 08:00AM, Channels: 1
-- Wwe - Wwe Nxt (09/24/25)
-  Time: 08:00AM, Channels: 1
-- Conmebol Copa Sudamericana - Fluminense Rj Vs Club Atlético ...
-  Time: 08:30AM, Channels: 4
-- Conmebol Copa Sudamericana - Fluminense Rj Vs Club Atlético ...
-  Time: 08:30AM, Channels: 1
-- Mexico Liga Mx - Chivas Guadalajara Vs Necaxa (09/24/25)
-  Time: 09:00AM, Channels: 2
-- Mexico Liga Mx - Chivas Guadalajara Vs Necaxa (09/24/25) [ST...
-  Time: 09:00AM, Channels: 1
-- Mexico Liga Mx - Puebla Vs Pachuca (09/24/25)
-  Time: 09:00AM, Channels: 2
 - Concacaf Central American Cup - Alajuelense Vs Cd Motagua (0...
   Time: 10:00AM, Channels: 1
-- Nhl Preseason - Winnipeg Jets Vs Edmonton Oilers (09/24/25)
-  Time: 08:00AM, Channels: 1
+- Mexico Liga Mx - Fc Juarez Vs Pumas U.N.A.M. (09/24/25)
+  Time: 11:00AM, Channels: 2
+- Mexico Liga Mx - Fc Juarez Vs Pumas U.N.A.M. (09/24/25) [STR...
+  Time: 11:00AM, Channels: 1
+- Mexico Liga Mx - Club Leon Vs Mazatlan Fc (09/24/25)
+  Time: 11:05AM, Channels: 1
 - Nhl Preseason - Calgary Flames Vs Seattle Kraken (09/24/25)
   Time: 09:00AM, Channels: 1
 - Nhl Preseason - Vegas Golden Knights Vs Los Angeles Kings (0...
@@ -86,3 +66,11 @@ EVENT BREAKDOWN:
   Time: 10:00AM, Channels: 3
 - Atp Tokyo, Japan Men Singles - Jaume Munar Vs Matteo Berrett...
   Time: 10:00AM, Channels: 1
+- Wta Beijing, China Women Singles - Anastasija Sevastova Vs K...
+  Time: 11:00AM, Channels: 1
+- Wta Beijing, China Women Singles - Caroline Dolehide Vs Sora...
+  Time: 11:00AM, Channels: 1
+- Wta Beijing, China Women Singles - Mccartney Kessler Vs Han ...
+  Time: 11:00AM, Channels: 1
+- Atp Tokyo, Japan Men Singles - Yosuke Watanuki Vs Nuno Borge...
+  Time: 11:30AM, Channels: 2
