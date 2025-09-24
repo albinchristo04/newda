@@ -1,21 +1,17 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-24T18:54:30.753129
+Extraction Time: 2025-09-24T19:12:52.154870
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 67
-- Total Channels: 97
+- Unique Events: 64
+- Total Channels: 123
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
-- Basketball Champions League - Ucam Murcia Cb Vs Elan Chalon-...
-  Time: 01:00AM, Channels: 1
-- Fiba Europe Cup - Kb Bashkimi Vs Anwil Wloclawek (09/25/25)
-  Time: 01:00AM, Channels: 1
 - Euroleague Women - Umana Reyer Venezia Women Vs Crvena Zvezd...
   Time: 01:30AM, Channels: 1
 - Fiba Europe Cup - Kk Bosna Asa Bh Telecom Vs Kangoeroes Mech...
@@ -30,55 +26,11 @@ EVENT BREAKDOWN:
   Time: 02:00AM, Channels: 1
 - German Basketball Cup - Hamburg Vs Brose Bamberg (09/25/25)
   Time: 02:00AM, Channels: 1
-- Coppa Italia - Hellas Verona Vs Venezia (09/25/25)
-  Time: 12:30AM, Channels: 2
-- Coppa Italia - Hellas Verona Vs Venezia (09/25/25) [STREAM 1...
-  Time: 12:30AM, Channels: 1
-- Pko Bank Polski Ekstraklasa - Rakow Czestochowa Vs Lech Pozn...
-  Time: 12:45AM, Channels: 2
-- Uefa Europa League - Midtjylland Vs Sturm Graz (09/25/25)
-  Time: 12:45AM, Channels: 2
-- Uefa Europa League - Paok Saloniki Vs Maccabi Tel Aviv (09/2...
-  Time: 12:45AM, Channels: 4
-- Uefa Europa League - Paok Saloniki Vs Maccabi Tel Aviv (09/2...
-  Time: 12:45AM, Channels: 1
-- Uefa Europa League - Paok Saloniki Vs Maccabi Tel Aviv (09/2...
-  Time: 12:45AM, Channels: 1
-- German Frauen Bundesliga - Hoffenheim Women Vs Nurnberg Wome...
-  Time: 01:00AM, Channels: 1
-- German Frauen Bundesliga - Sgs Essen W Vs Koln Women (09/25/...
-  Time: 01:00AM, Channels: 1
-- German Frauen Bundesliga - Vfl Wolfsburg Women Vs Werder Bre...
-  Time: 01:00AM, Channels: 1
-- German Frauen Bundesliga - Vfl Wolfsburg Women Vs Werder Bre...
-  Time: 01:00AM, Channels: 1
-- Qatari Stars Cup - Lusail City Fc Vs Al-Ahli Doha (09/25/25)
-  Time: 01:00AM, Channels: 1
-- Serbian Mozzart Bet Prva Liga - Macva Sabac Vs Dinamo Jug (0...
-  Time: 01:00AM, Channels: 1
-- Spanish La Liga - Getafe Vs Deportivo Alavés (09/25/25)
-  Time: 01:00AM, Channels: 6
-- Spanish La Liga - Getafe Vs Deportivo Alavés (09/25/25) [STR...
-  Time: 01:00AM, Channels: 1
-- Sweden Superettan - Landskrona Bois Vs Kalmar (09/25/25)
-  Time: 01:00AM, Channels: 1
-- Sweden Superettan - Orebro Vs Varbergs Bois Fc (09/25/25)
-  Time: 01:00AM, Channels: 1
-- Switzerland Women'S Division 1 - Fc Luzern Women Vs Grasshop...
-  Time: 01:00AM, Channels: 1
-- Switzerland Women'S Division 1 - Servette Women Vs Aarau (W)...
-  Time: 01:00AM, Channels: 1
-- Turkish First League - Bodrum Fk Vs Belediye Vanspor (09/25/...
-  Time: 01:00AM, Channels: 1
-- Turkish First League - Erokspor Vs Istanbulspor (09/25/25)
-  Time: 01:00AM, Channels: 1
-- Turkish Super League - Kayserispor Vs Besiktas Jk (09/25/25)...
-  Time: 01:00AM, Channels: 2
-- Turkish Super League - Kayserispor Vs Besiktas Jk (09/25/25)
-  Time: 01:00AM, Channels: 3
-- U17 Gulf Cup Of Nations - Qatar U17 Vs Oman U17 (09/25/25)
-  Time: 01:00AM, Channels: 1
+- Serie A2 Basket - Real Sebastiani Rieti Vs Avellino Basket (...
+  Time: 03:00AM, Channels: 1
 - Faroe Islands Premier League - Eb Streymur Vs Ki Klaksvik (0...
+  Time: 01:30AM, Channels: 1
+- South Africa Premier Soccer League - Richards Bay Vs Magesi ...
   Time: 01:30AM, Channels: 1
 - South Africa Premier Soccer League - Sekhukhune United Vs Ch...
   Time: 01:30AM, Channels: 1
@@ -100,14 +52,12 @@ EVENT BREAKDOWN:
   Time: 02:00AM, Channels: 1
 - Belgian Second Division - Rwdm Brussels Vs Kv Kortrijk (09/2...
   Time: 02:00AM, Channels: 1
-- English Continental Cup - Liverpool Women Vs Sunderland Wome...
-  Time: 02:00AM, Channels: 1
 - Netherlands Eredivisie - Az Alkmaar Vs Pec Zwolle (09/25/25)
-  Time: 02:00AM, Channels: 4
+  Time: 02:00AM, Channels: 3
 - Switzerland Women'S Division 1 - Basel Women Vs Fc Zurich Fr...
   Time: 02:00AM, Channels: 1
 - Belgian Pro League - Club Brugge Vs Kvc Westerlo (09/25/25)
-  Time: 02:30AM, Channels: 2
+  Time: 02:30AM, Channels: 1
 - Italian Serie C - Trapani Vs Catania Fc (09/25/25)
   Time: 02:30AM, Channels: 1
 - Portuguese Liga 3 - Paredes Vs Vitoria Guimaraes B (09/25/25...
@@ -142,7 +92,51 @@ EVENT BREAKDOWN:
   Time: 02:45AM, Channels: 1
 - Italian Serie C - Az Picerno Asd Vs Benevento (09/25/25)
   Time: 02:45AM, Channels: 1
-- Kontinental Hockey League - Dynamo Moscow Vs Kunlun Red Star...
-  Time: 12:30AM, Channels: 1
-- Challenger Atp Challenger Orleans, France Men Singles - Mart...
-  Time: 01:00AM, Channels: 1
+- Bolivian Primera Division - Nacional Potosi Vs Gualberto Vil...
+  Time: 03:00AM, Channels: 1
+- Coppa Italia - Como Vs Sassuolo (09/25/25)
+  Time: 03:00AM, Channels: 4
+- Coppa Italia - Como Vs Sassuolo (09/25/25) [STREAM 43[HD]]
+  Time: 03:00AM, Channels: 1
+- English Football League Cup - Port Vale Vs Arsenal (09/25/25...
+  Time: 03:00AM, Channels: 6
+- English Football League Cup - Port Vale Vs Arsenal (09/25/25...
+  Time: 03:00AM, Channels: 1
+- Pko Bank Polski Ekstraklasa - Legia Warszawa Vs Jagiellonia ...
+  Time: 03:00AM, Channels: 3
+- Polish Cup - Lks Nieciecza Vs Widzew Lodz (09/25/25)
+  Time: 03:00AM, Channels: 2
+- Portuguese Liga 3 - Ud Santarem Vs Fc Caldas (09/25/25)
+  Time: 03:00AM, Channels: 1
+- Uefa Europa League - Crvena Zvezda Vs Celtic Fc (09/25/25)
+  Time: 03:00AM, Channels: 5
+- Uefa Europa League - Crvena Zvezda Vs Celtic Fc (09/25/25) [...
+  Time: 03:00AM, Channels: 1
+- Uefa Europa League - Dinamo Zagreb Vs Fenerbahce (09/25/25)
+  Time: 03:00AM, Channels: 4
+- Uefa Europa League - Dinamo Zagreb Vs Fenerbahce (09/25/25) ...
+  Time: 03:00AM, Channels: 1
+- Uefa Europa League - Malmo Ff Vs Ludogorets Razgrad (09/25/2...
+  Time: 03:00AM, Channels: 4
+- Uefa Europa League - Malmo Ff Vs Ludogorets Razgrad (09/25/2...
+  Time: 03:00AM, Channels: 1
+- Uefa Europa League - Ogc Nice Vs As Roma (09/25/25)
+  Time: 03:00AM, Channels: 8
+- Uefa Europa League - Ogc Nice Vs As Roma (09/25/25) [STREAM ...
+  Time: 03:00AM, Channels: 1
+- Uefa Europa League - Ogc Nice Vs As Roma (09/25/25) [STREAM ...
+  Time: 03:00AM, Channels: 1
+- Uefa Europa League - Real Betis Vs Nottingham Forest (09/25/...
+  Time: 03:00AM, Channels: 7
+- Uefa Europa League - Real Betis Vs Nottingham Forest (09/25/...
+  Time: 03:00AM, Channels: 1
+- Uefa Europa League - Real Betis Vs Nottingham Forest (09/25/...
+  Time: 03:00AM, Channels: 1
+- Uefa Europa League - Sc Freiburg Vs Fc Basel 1893 (09/25/25)
+  Time: 03:00AM, Channels: 6
+- Uefa Europa League - Sc Freiburg Vs Fc Basel 1893 (09/25/25)...
+  Time: 03:00AM, Channels: 1
+- Uefa Europa League - Sporting Braga Vs Feyenoord (09/25/25)
+  Time: 03:00AM, Channels: 7
+- Uefa Europa League - Sporting Braga Vs Feyenoord (09/25/25) ...
+  Time: 03:00AM, Channels: 1
