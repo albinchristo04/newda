@@ -1,12 +1,12 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Wed Sep 24 10:16:14 UTC 2025
+Last updated: Wed Sep 24 10:41:57 UTC 2025
 
-Workflow run: #120
+Workflow run: #121
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-24T10:16:13.613196
+Extracted at: 2025-09-24T10:41:57.204124
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -22,7 +22,7 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: Korea Open, Women, Singles - Chiu Pin-Chian Vs Lo Sin Yan Happy (09/24/25)
+EVENT: Korea Open, Singles - Ayush Shetty Vs Li Yang Su (09/24/25)
 Time: 06:40PM
 Date: 09/24/25
 Category: None

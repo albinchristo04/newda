@@ -13,6 +13,20 @@
       }
     ]
   },
+  "Korea Open, Singles - Ayush Shetty Vs Li Yang Su (09/24/25)": {
+    "event_title": "Korea Open, Singles - Ayush Shetty Vs Li Yang Su (09/24/25)",
+    "event_time": "06:40PM",
+    "event_date": "09/24/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "VDO",
+        "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WVlhLTk9UMFYuQgQ8NCZNVlZbQjM3KFQxNkIPTFJIRklKQlAwUj5UKBIDKhctPRQoEgoTHhoHEigXAhwVFQc=/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+        "duration": null
+      }
+    ]
+  },
   "Korea Open, Women, Singles - Chiu Pin-Chian Vs Lo Sin Yan Happy (09/24/25)": {
     "event_title": "Korea Open, Women, Singles - Chiu Pin-Chian Vs Lo Sin Yan Happy (09/24/25)",
     "event_time": "06:40PM",
@@ -51,20 +65,6 @@
         "channel_name": "HDK A \u65e5\u672c\u8a9e",
         "url": "https://world-proxifier.xyz/rbtv/p/D0MFVi5CV0ROJDFATUICNk9XKVYGUExLRCZUMTZCATBOJDRKQEJQNkUnBURNXlQBQCpIMlI-VCgRPBEoEgoTERoCFCgTBxIeEAA=/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Fiba U16 Women'S Asian Championship - Japan U16 Women Vs New Zealand Woman U16 (09/24/25)": {
-    "event_title": "Fiba U16 Women'S Asian Championship - Japan U16 Women Vs New Zealand Woman U16 (09/24/25)",
-    "event_time": "04:30PM",
-    "event_date": "09/24/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/BxoFBlJEFBNSSjRIRF0iMlISMExAXVQES1BKN0giSzJLWDVWLkINRDNQS1ZUAhFWWiJKQE1CMzJSH0I-UklCRE9QS0NSSjRIQF1UUBIHVCpSPBUoEDwUHhUFEhEUPBUTFAoVEA==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
         "duration": null
       }
     ]
@@ -153,6 +153,20 @@
       }
     ]
   },
+  "Polish Cup - Legia Warszawa B Vs Gornik Zabrze (09/24/25)": {
+    "event_title": "Polish Cup - Legia Warszawa B Vs Gornik Zabrze (09/24/25)",
+    "event_time": "06:30PM",
+    "event_date": "09/24/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/UyJJTDZbVAQ0I1QqUhlCTkhQVF5AITA9QCpGVgNCMzJSFDQ1TVhIVllQRzU5VFQqUjwUKBA8FxcVARYSFDwWKRMFFBE=/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
   "Wta Beijing, China Women Singles - Katie Boulter Vs Hailey Baptiste (09/24/25)": {
     "event_title": "Wta Beijing, China Women Singles - Katie Boulter Vs Hailey Baptiste (09/24/25)",
     "event_time": "03:45PM",
@@ -195,20 +209,6 @@
       }
     ]
   },
-  "Wta Beijing, China Women Singles - Polina Kudermetova Vs Maddison Inglis (09/24/25)": {
-    "event_title": "Wta Beijing, China Women Singles - Polina Kudermetova Vs Maddison Inglis (09/24/25)",
-    "event_time": "04:15PM",
-    "event_date": "09/24/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlRXMl9OSUBCDjBHVDdIRCc0MUBCMzJSHkZDR1gwNk1CDElKX04yUj5UKBA8ESgSChwpFgMUKBMHEh4QAg==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-        "duration": null
-      }
-    ]
-  },
   "Atp Tokyo, Japan Men Singles - Marton Fucsovics Vs Frances Tiafoe (09/24/25)": {
     "event_title": "Atp Tokyo, Japan Men Singles - Marton Fucsovics Vs Frances Tiafoe (09/24/25)",
     "event_time": "04:45PM",
@@ -223,27 +223,13 @@
       },
       {
         "channel_name": "MOVISTAR2",
-        "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VApAITE2TUIBMEYmNDFIVjBWNSZUAzFQS0JEJlRTSFBDNkRCKFYsACoXLT0UKBIKHCkRChEoFwIcEhcC/index.m3u8",
+        "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VApAITE2TUIBMEYmNDFIVjBWNSZUAzFQS0JEJlRTSFBDNkRCKFYsACoXLT0UKBIKHCkRChEoFwIcEhoK/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
       },
       {
         "channel_name": "HDD A",
         "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VApAITE2TUIBMEYmNDFIVjBWNSZUAzFQS0JEJlRTSFBDNkRCKFYsACoTLAIcHi0BHBMsAxEQGgAX/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Wta Beijing, China Women Singles - Barbora Krejcikova Vs Anna Blinkova (09/24/25)": {
-    "event_title": "Wta Beijing, China Women Singles - Barbora Krejcikova Vs Anna Blinkova (09/24/25)",
-    "event_time": "05:00PM",
-    "event_date": "09/24/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQHQCFHNjFQVAwxVE9CSF40MUBCMzJSEktJQEIFS0hdSDY1UFQqUjwWKBc8FB4VChwWFzwVExQKFhA=/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
       }
@@ -258,6 +244,34 @@
       {
         "channel_name": "SKA",
         "url": "https://world-proxifier.xyz/rbtv/p/MyFCSEhUN1YzUEFAT0IVKRMGVFYuQkxAMVxGSThCNRdSV0Y8UgBUSEAnQE9SA1QqUjwWKBM9KxYsAhweEgAVECwHFB4WBxc=/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Wta Beijing, China Women Singles - Anastasia Zakharova Vs Zhang Shuai (09/24/25)": {
+    "event_title": "Wta Beijing, China Women Singles - Anastasia Zakharova Vs Zhang Shuai (09/24/25)",
+    "event_time": "06:25PM",
+    "event_date": "09/24/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQGTVAwM0AmTkRSSUZKS1A3NjVQVDE2Ql9PQF1MVlZbMkRIQihWLAAqEywCHB4tBhQeLAMREBoBEA==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Wta Beijing, China Women Singles - Tatjana Maria Vs Marie Bouzkova (09/24/25)": {
+    "event_title": "Wta Beijing, China Women Singles - Tatjana Maria Vs Marie Bouzkova (09/24/25)",
+    "event_time": "06:45PM",
+    "event_date": "09/24/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDD B",
+        "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlRTQCdPRE1QVApAIU5EUiUwVg5QN0xEQgU2NClINjVQVCpSPBYoFzwUHhUKHCkQPBUTFAoWEQ==/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
       }
