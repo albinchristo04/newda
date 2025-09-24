@@ -1,24 +1,29 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Wed Sep 24 08:46:00 UTC 2025
+Last updated: Wed Sep 24 09:17:07 UTC 2025
 
-Workflow run: #116
+Workflow run: #117
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-24T08:45:59.937863
+Extracted at: 2025-09-24T09:17:05.963489
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== MEDIA SEGMENTS (First 10) ===
+=== GROUPED EVENTS BY TITLE ===
 
-1. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WVlhLTk9UMFYuQg9AREIGT0QkSCo4WDJWNSZUDTRCAjBAXUw9NEIoViwCFSgTPSsWLAIcERoKERcsBxQeEQQS/index.m3u8
-2. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WVlhLTk9UMFYuQg9AREIGT0QkSCo4WDJWNSZUDTRCAjBAXUw9NEIoViwCFSgTPSsWLAIcERoKERcsBxQeEQQS/index.m3u8
-3. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlJIQjZSG05EUh5OSVIlMFZTIjdJM1hAT0BCBk8yVE5KRFQ8Nk1aVCpSPBQXLAMrKRI8FB4VChwQFjwRFhoBEhE=/index.m3u8
-4. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlJIQjZSG05EUh5OSVIlMFZTIjdJM1hAT0BCBk8yVE5KRFQ8Nk1aVCpSPBQXLAMrKRI8FB4VChwQFjwRFhoBEhE=/index.m3u8
-5. https://world-proxifier.xyz/rbtv/p/BxoFBlJEFBNSSjRIRF0iMlISMExAXVQES1BKN0giSzJLWDVWLkINRDNQS1ZUAhFWWiJKQE1CMzJSH0I-UklCRE9QS0NSSjRIQF1UUBIHVCpSPBUoEDwUHhUFEhEUPBUTFAoVEA==/index.m3u8
-6. https://world-proxifier.xyz/rbtv/p/BxoFBlJEFBNSSjRIRF0iMlISMExAXVQES1BKN0giSzJLWDVWLkINRDNQS1ZUAhFWWiJKQE1CMzJSH0I-UklCRE9QS0NSSjRIQF1UUBIHVCpSPBUoEDwUHhUFEhEUPBUTFAoVEA==/index.m3u8
-7. https://world-proxifier.xyz/rbtv/p/CCI3QEBdVFBNWDNAMSZOMzhCBUQ2XkIzQVBJS1IZQkRKJEJWLkIONjFURlZUXU4xRCEwTDcoVDE2Qgg8Ml1MTUhCUklIJUI1NlgxPFI-VCgTPBYoEgocFhMFECgTBxIeEgI=/index.m3u8
-8. https://world-proxifier.xyz/rbtv/p/CCI3QEBdVFBNWDNAMSZOMzhCBUQ2XkIzQVBJS1IZQkRKJEJWLkIONjFURlZUXU4xRCEwTDcoVDE2Qgg8Ml1MTUhCUklIJUI1NlgxPFI-VCgTPBYoEgocFhMFECgTBxIeEgI=/index.m3u8
-9. https://world-proxifier.xyz/rbtv/p/U1tOS0gjNUxNVDBWDkMFDVI-VAc0X0ZCQF1UDDQoRjJSJTBWU1BKN0BdTERSGUZJN1Q3STZCKFYsAyoULAIcEhQCFhIsAxEQGgMW/index.m3u8
-10. https://world-proxifier.xyz/rbtv/p/U1tOS0gjNUxNVDBWDkMFDVI-VAc0X0ZCQF1UDDQoRjJSJTBWU1BKN0BdTERSGUZJN1Q3STZCKFYsAyoULAIcEhQCFhIsAxEQGgMW/index.m3u8
+EVENT: Korea Open, Women, Singles - Yeo Jia Min Vs Pornpicha Choeikeewong (09/24/25)
+Time: 04:45PM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlJIQjZSG05EUh5OSVIlMFZTIjdJM1hAT0BCBk8yVE5KRFQ8Nk1aVCpSPBQXLAMrKRI8FB4VChwQFjwRFhoBEhE=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp
+
+================================================================================
+
+EVENT: Korea Open, Women, Singles - Pornpawee Chochuwong Vs Han Qian Xi (09/24/25)
+Time: 05:10PM
+Date: 09/24/25
+Category: None
 ```

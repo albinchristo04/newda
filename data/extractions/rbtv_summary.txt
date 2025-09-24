@@ -1,13 +1,50 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-24T08:45:59.937863
+Extraction Time: 2025-09-24T09:17:05.963489
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 0
-- Total Channels: 0
+- Unique Events: 18
+- Total Channels: 20
 - Individual Streams: 0
-- Media Segments: 54
+- Media Segments: 0
 - Other Events: 0
 
+EVENT BREAKDOWN:
+- Korea Open, Women, Singles - Yeo Jia Min Vs Pornpicha Choeik...
+  Time: 04:45PM, Channels: 1
+- Korea Open, Women, Singles - Pornpawee Chochuwong Vs Han Qia...
+  Time: 05:10PM, Channels: 1
+- Npb - Chiba Lotte Marines Vs Saitama Seibu Lions (09/24/25)
+  Time: 05:00PM, Channels: 1
+- Npb - Rakuten Gold. Eagles Vs Fukuoka Softbank Hawks (09/24/...
+  Time: 05:00PM, Channels: 1
+- Philippines Mpbl - Bulacan Kuyas Vs Pampanga Lanterns (09/24...
+  Time: 04:00PM, Channels: 1
+- Fiba U16 Women'S Asian Championship - Japan U16 Women Vs New...
+  Time: 04:30PM, Channels: 1
+- (L) Kelayakan Futsal Piala Asia 2026 - Uae Vs Ban (09/24/25)
+  Time: 04:00PM, Channels: 1
+- Czech U19 League - Slavia Praha U19 Vs Viktoria Plzen U19 (0...
+  Time: 05:00PM, Channels: 1
+- Russian Cup - Ska Khabarovsk Vs Rodina Moscow (09/24/25)
+  Time: 05:00PM, Channels: 1
+- Wta Beijing, China Women Singles - Priscilla Hon Vs Viktorij...
+  Time: 02:45PM, Channels: 1
+- Wta Beijing, China Women Singles - Katie Boulter Vs Hailey B...
+  Time: 03:45PM, Channels: 1
+- Premier Padel 2025  -  Cupra Germany P2 - Day 3 (09/24/25)
+  Time: 04:00PM, Channels: 1
+- Premier Padel 2025  - Germany P2 Day 3 Match 1 (09/24/25)
+  Time: 04:00PM, Channels: 1
+- Wta Beijing, China Women Singles - Polina Kudermetova Vs Mad...
+  Time: 04:15PM, Channels: 1
+- Atp Tokyo, Japan Men Singles - Marton Fucsovics Vs Frances T...
+  Time: 04:45PM, Channels: 3
+- Wta Beijing, China Women Singles - Barbora Krejcikova Vs Ann...
+  Time: 05:00PM, Channels: 1
+- Livoli Divisi Utama - Putra: Ganevo Yogya Vs  Pasundan (09/2...
+  Time: 02:00PM, Channels: 1
+- Livoli Divisi Utama - Putra: Ganeksa Bhumikarta Vs  Tni Au E...
+  Time: 05:00PM, Channels: 1
