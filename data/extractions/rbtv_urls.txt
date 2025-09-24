@@ -1,15 +1,80 @@
-Extracted at: 2025-09-24T21:27:56.155130
+Extracted at: 2025-09-24T21:38:20.385675
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== MEDIA SEGMENTS (First 10) ===
+=== GROUPED EVENTS BY TITLE ===
 
-1. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhMsAhwRGgYSFiwDERAaChM=/index.m3u8
-2. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhcsAhwRGgYSFiwDEREtPSs=/index.m3u8
-3. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhMsAhwRGgYSFiwDERAaChM=/index.m3u8
-4. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhcsAhwRGgYSFiwDEREtPSs=/index.m3u8
-5. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhMsAhwRGgYSFiwDERAaChM=/index.m3u8
-6. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhcsAhwRGgYSFiwDEREtPSs=/index.m3u8
-7. https://world-proxifier.xyz/rbtv/p/BlYyREciN0xAXVQEQFw1QDJdRjMyQlBAMVhCVgNCKFYCJ0lAN1hANlJFTkkyJ05JNyJUMTZCBjBMUUY8QEIBBFI-VCgSPBYoEQMREhEDEigQPRYWLQY=/index.m3u8
-8. https://world-proxifier.xyz/rbtv/p/BlYyREciN0xAXVQEQFw1QDJdRjMyQlBAMVhCVgNCKFYCJ0lAN1hANlJFTkkyJ05JNyJUMTZCBjBMUUY8QEIBBFI-VCgSPBYoEQMREhEDEigQPRYWLQY=/index.m3u8
-9. https://world-proxifier.xyz/rbtv/p/BlYyREciN0xAXVQEQFw1QDJdRjMyQlBAMVhCVgNCKFYCJ0lAN1hANlJFTkkyJ05JNyJUMTZCBjBMUUY8QEIBBFI-VCgSPBYoEQMREhEDEigQPRYWLQY=/index.m3u8
-10. https://world-proxifier.xyz/rbtv/p/U1A3REokRjxAXVQENCNUKlJGNTYxJ04xMkIESERfTkRNIlQxNkICQE1UN0RPQgZEQVBJS0QhNFYuQioWLAAqFRMFEBYtPSoULQArERc=/index.m3u8
+EVENT: Major League Baseball - San Diego Padres Vs Milwaukee Brewers (09/25/25)
+Time: 04:10AM
+Date: 09/25/25
+Category: None
+Available Channels (1):
+  1. HDK A
+     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhMsAhwRGgYSFiwDERAaChM=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
+
+================================================================================
+
+EVENT: Major League Baseball - San Diego Padres Vs Milwaukee Brewers (09/25/25) [STREAM 23[HD]]
+Time: 04:10AM
+Date: 09/25/25
+Category: None
+Available Channels (1):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhcsAhwRGgYSFiwDEREtPSs=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
+
+================================================================================
+
+EVENT: Spanish La Liga - Atletico Madrid Vs Rayo Vallecano (09/25/25)
+Time: 03:30AM
+Date: 09/25/25
+Category: None
+Available Channels (2):
+  1. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CBDNPVDFMRiJUCkBXN0xHQjMyUkFGPDJCU0RPX0JCQF00Vi5CKhYsAyspEjwXFy0KERYXPBEWGgYQEw==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. MOVISTAR2
+     URL: https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CBDNPVDFMRiJUCkBXN0xHQjMyUkFGPDJCU0RPX0JCQF00Vi5CKhYsAyspEjwXFy0KERYXPBEWGgYQEA==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Spanish La Liga - Real Sociedad Vs Rcd Mallorca (09/25/25)
+Time: 03:30AM
+Date: 09/25/25
+Category: None
+Available Channels (3):
+  1. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CV0BAX1RSMlZOQEdQQVY1JlRVABFUCkBfSTYxVkZWLkIqFiwDKykSPBcXLQoRKRE8ERYaABMS/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. MOVISTAR2
+     URL: https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CV0BAX1RSMlZOQEdQQVY1JlRVABFUCkBfSTYxVkZWLkIqFiwDKykSPBcXLQoRKRE8ERYaARYQ/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  3. DAZN ES
+     URL: https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CV0BAX1RSMlZOQEdQQVY1JlRVABFUCkBfSTYxVkZWLkIqFiwDKykSPBcXLQoRKRE8ERYaBBQV/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Spanish La Liga - Real Sociedad Vs Rcd Mallorca (09/25/25) [STREAM 42[HD]]
+Time: 03:30AM
+Date: 09/25/25
+Category: None
+Available Channels (1):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CV0BAX1RSMlZOQEdQQVY1JlRVABFUCkBfSTYxVkZWLkIqFiwDKhUTPRwTLQEqFC0AFCkT/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Ecuadorian Campeonato Serie B - Atletico Vinotinto Vs Cumbaya Fc (09/25/25)
+Time: 04:30AM
+Date: 09/25/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/BlYyREciN0xAXVQEQFw1QDJdRjMyQlBAMVhCVgNCKFYCJ0lAN1hANlJFTkkyJ05JNyJUMTZCBjBMUUY8QEIBBFI-VCgSPBYoEQMREhEDEigQPRYWLQY=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
