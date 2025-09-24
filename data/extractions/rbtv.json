@@ -1,15 +1,34 @@
 {
-  "timestamp": "2025-09-24T16:20:06.589108",
+  "timestamp": "2025-09-24T16:46:10.691587",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
   "events": [
+    {
+      "event_time": "11:30PM",
+      "event_date": "09/24/25",
+      "channel_name": "HDD A",
+      "event_title": "Usa: Ncaa - Scott Vs Frost Press Conference (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/VEYEH1IfBgYCQihWVlY0MzdCMzJSFzc2NidUVzFUMDJSEDRJRVQ3QE1WQlYuQioeLAcqFhoKFBMXACoXFwQcERM=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
+      "group_title": "AMERICAN FOOTBALL"
+    },
     {
       "event_time": "12:15AM",
       "event_date": "09/25/25",
       "channel_name": "HDK A",
       "event_title": "Major League Baseball - Atlanta Braves Vs Washington Nationals (09/25/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAidJRE0nRlYDIUYxRCZUMTZCXEQ2W05JSic0SVIfRjNIIktETyZUKlI8FygXPBQeFQoQExM8FRMUChIS/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL"
+    },
+    {
+      "event_time": "12:15AM",
+      "event_date": "09/25/25",
+      "event_title": "Major League Baseball - Atlanta Braves Vs Washington Nationals (09/25/25) [STREAM 23[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAidJRE0nRlYDIUYxRCZUMTZCXEQ2W05JSic0SVIfRjNIIktETyZUKlI8FygTPBQeFQoQExM8FRMUChIe/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
       "group_title": "BASEBALL"
@@ -194,21 +213,338 @@
       "group_title": "FOOTBALL"
     },
     {
-      "event_time": "10:30PM",
-      "event_date": "09/24/25",
-      "channel_name": "SD",
-      "event_title": "Czech Third League - Benatky Nad Jizerou Vs Banik Most-Sous (09/24/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AClCQktCUU9IIUFWCVRGTjRUVCpSE0JJQCdIPFIfRkNSG049RCE0MFIlMFYDUEtMTkIINjYnKFIyJDBWLkIqFiwAKhUTAisSFwIqFC0DExIS/index.m3u8",
+      "event_time": "12:30AM",
+      "event_date": "09/25/25",
+      "channel_name": "HDD A",
+      "event_title": "Coppa Italia - Hellas Verona Vs Venezia (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/ACI1N0BCDDNAX05EUj5UAURfSUQ2QlNAMSJLRFIlMFZVVEtAOVhGVi5CKhYsByoVEwUrFi0DKhQtAxMRFA==/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
     },
     {
-      "event_time": "10:30PM",
-      "event_date": "09/24/25",
+      "event_time": "12:30AM",
+      "event_date": "09/25/25",
+      "channel_name": "HDD B ITALIANO",
+      "event_title": "Coppa Italia - Hellas Verona Vs Venezia (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/ACI1N0BCDDNAX05EUj5UAURfSUQ2QlNAMSJLRFIlMFZVVEtAOVhGVi5CKhYsByoVEwUrFi0DKhQtAxMRFQ==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:30AM",
+      "event_date": "09/25/25",
+      "event_title": "Coppa Italia - Hellas Verona Vs Venezia (09/25/25) [STREAM 18[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ACI1N0BCDDNAX05EUj5UAURfSUQ2QlNAMSJLRFIlMFZVVEtAOVhGVi5CKhYsAyoVEwUrFi0DKhQtAxMRGg==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:30AM",
+      "event_date": "09/25/25",
       "channel_name": "SD",
-      "event_title": "Czech Third League - Sk Zapy Vs Jiskra Usti Nad Orlici (09/24/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AClCQktCUU9IIUFWCVRGTjRUVCpSRg5WWVA1PFIlMFYLWDBKMVBUUDYnTlZNUEFWDCFJTEZYVCpSPBQoEDwXFxI9EBUQPBYpEwUQFw==/index.m3u8",
+      "event_title": "Coppa Italia - Hellas Verona Vs Venezia (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/ACI1N0BCDDNAX05EUj5UAURfSUQ2QlNAMSJLRFIlMFZVVEtAOVhGVi5CKhYsACoVEwUrFi0DKhQtAxMQFA==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:30AM",
+      "event_date": "09/25/25",
+      "channel_name": "SD",
+      "event_title": "Italian Serie C - As Sorrento Calcio Vs Casarano (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CidGS0hQS1ZWVDdMREIGVi5CBFJSRjQ1MVRLMzJCBkRPVk42UiUwVgBQMEQxUEs2Uj5UKBI8FigRAxcpEgoXKBA9FREVAA==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:30AM",
+      "event_date": "09/25/25",
+      "channel_name": "SD",
+      "event_title": "Italian Serie C - Cavese Vs Latina Calcio 1932 (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CidGS0hQS1ZWVDdMREIGVi5CBkQ1VDBAUiUwVglQMUxNUFQEQF9ATDJCFB4QA1QqUjwUKBA8FxcRPRUpEjwWKRMFEhE=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:30AM",
+      "event_date": "09/25/25",
+      "channel_name": "SD",
+      "event_title": "Italian Serie C - Cosenza Calcio 1914 Vs Giugliano (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CidGS0hQS1ZWVDdMREIGVi5CBjY2VEs9QEIGRE9WTjZSAhwWEUIzMlIUTjBKX05ETSJUKlI8FCgQPBcXET0VFRA8FikTBRMp/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:30AM",
+      "event_date": "09/25/25",
+      "channel_name": "SD",
+      "event_title": "Italian Serie C - Foggia Vs Us Casertana 1908 (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CidGS0hQS1ZWVDdMREIGVi5CATZKWk5EUiUwVlRGVARAJkI1N1BLRFICHCkVQihWLAIqFCwBFRUtAhwRLAArFxUFFA==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:30AM",
+      "event_date": "09/25/25",
+      "channel_name": "SD",
+      "event_title": "Italian Serie C - Salernitana Vs Audace Cerignola (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CidGS0hQS1ZWVDdMREIGVi5CUERPVDdJSCdGSUBCMzJSEjJDQFZCVgBUN0xKXTRLQEIoViwCKhQsARUVLQMVEywAKxcVBRU=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:30AM",
+      "event_date": "09/25/25",
+      "channel_name": "SD",
+      "event_title": "Italian Serie C - Us Siracusa Vs Potenza (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CidGS0hQS1ZWVDdMREIGVi5CUlJSRk41QFYyMkBCMzJSQzQzRF0_RFI-VCgSPBYoEQMXKRMAFSgQPRURFAo=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:30AM",
+      "event_date": "09/25/25",
+      "channel_name": "HDD A DEUTSCH",
+      "event_title": "Italian Women'S Cup - Juventus Women Vs Inter Milan Women (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CidGS0hQS1ZaIkpATTQwVgAkNVYuQg0wNVRLMzQmVF4yXEJJUiUwVgpdMUAxQghMT1BLVloiSkBNQihWLAIqEywBFREXBBYSLAArFxUKFA==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:30AM",
+      "event_date": "09/25/25",
+      "channel_name": "HDD B ITALIANO",
+      "event_title": "Italian Women'S Cup - Juventus Women Vs Inter Milan Women (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CidGS0hQS1ZaIkpATTQwVgAkNVYuQg0wNVRLMzQmVF4yXEJJUiUwVgpdMUAxQghMT1BLVloiSkBNQihWLAIqEywBFREXBBYSLAArFxUKFQ==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:30AM",
+      "event_date": "09/25/25",
+      "channel_name": "SD",
+      "event_title": "Russian Cup - Tekstilshchik Ivanovo Vs Fakel Voronezh (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/USQwMkhQS1YAJDVWLkJRQE4mMUxPJk1CS1hIVgolRkkyJTRWNSZUA0BeQktSRTQ1Ml1CPUtCKFYsAioULAEVEREDHB4sACsXFQUQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:45AM",
+      "event_date": "09/25/25",
+      "channel_name": "HDD B POLSKI",
+      "event_title": "Pko Bank Polski Ekstraklasa - Rakow Czestochowa Vs Lech Poznan (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/UxgKVgNQS0pSQzRLNl5OVgYYUFNREg4NAkYEVi5CV0ROIjxWAClCMjciQE8yKkZWNSZUDURWTVZTIj9JQF1UKlI8FCgXPBcWGgYVFRM8FikTCisU/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:45AM",
+      "event_date": "09/25/25",
+      "channel_name": "HDD A",
+      "event_title": "Pko Bank Polski Ekstraklasa - Rakow Czestochowa Vs Lech Poznan (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/UxgKVgNQS0pSQzRLNl5OVgYYUFNREg4NAkYEVi5CV0ROIjxWAClCMjciQE8yKkZWNSZUDURWTVZTIj9JQF1UKlI8FCgXPBcWGgYVFRM8FikTCisQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:45AM",
+      "event_date": "09/25/25",
+      "channel_name": "SD",
+      "event_title": "Pko Bank Polski Ekstraklasa - Rakow Czestochowa Vs Lech Poznan (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/UxgKVgNQS0pSQzRLNl5OVgYYUFNREg4NAkYEVi5CV0ROIjxWAClCMjciQE8yKkZWNSZUDURWTVZTIj9JQF1UKlI8FCgQPBcWGgYVFRM8FikTBRwS/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:45AM",
+      "event_date": "09/25/25",
+      "channel_name": "VDO",
+      "event_title": "Uefa Europa League - Midtjylland Vs Sturm Graz (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSHk5DN1k-S09QS0NSJTBWVicyNUxCAjVAKVQqUjwUKBM9KxYsARUREwoQEiwHFB4QAxA=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:45AM",
+      "event_date": "09/25/25",
+      "channel_name": "MOVISTAR2",
+      "event_title": "Uefa Europa League - Midtjylland Vs Sturm Graz (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSHk5DN1k-S09QS0NSJTBWVicyNUxCAjVAKVQqUjwUKBM9KxYsARUREwoQEiwHFB4WARA=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:45AM",
+      "event_date": "09/25/25",
+      "channel_name": "HDD A",
+      "event_title": "Uefa Europa League - Midtjylland Vs Sturm Graz (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSHk5DN1k-S09QS0NSJTBWVicyNUxCAjVAKVQqUjwUKBc8FxcVAxwSFjwWKRMFHBM=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:45AM",
+      "event_date": "09/25/25",
+      "channel_name": "HDD D ITALIANO",
+      "event_title": "Uefa Europa League - Midtjylland Vs Sturm Graz (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSHk5DN1k-S09QS0NSJTBWVicyNUxCAjVAKVQqUjwUKBc8FxcVAxwSFjwWKRMFHBA=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:45AM",
+      "event_date": "09/25/25",
+      "channel_name": "HDD E",
+      "event_title": "Uefa Europa League - Midtjylland Vs Sturm Graz (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSHk5DN1k-S09QS0NSJTBWVicyNUxCAjVAKVQqUjwUKBc8FxcVAxwSFjwWKRMFHBE=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:45AM",
+      "event_date": "09/25/25",
+      "channel_name": "HDD B",
+      "event_title": "Uefa Europa League - Midtjylland Vs Sturm Graz (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSHk5DN1k-S09QS0NSJTBWVicyNUxCAjVAKVQqUjwUKBc8FxcVAxwSFjwWKRMKKxU=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:45AM",
+      "event_date": "09/25/25",
+      "channel_name": "HDD C ESPA\u00d1OL",
+      "event_title": "Uefa Europa League - Midtjylland Vs Sturm Graz (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSHk5DN1k-S09QS0NSJTBWVicyNUxCAjVAKVQqUjwUKBc8FxcVAxwSFjwWKRMKKxI=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:45AM",
+      "event_date": "09/25/25",
+      "channel_name": "SD",
+      "event_title": "Uefa Europa League - Midtjylland Vs Sturm Graz (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSHk5DN1k-S09QS0NSJTBWVicyNUxCAjVAKVQqUjwUKBA8FxcVAxwSFjwWKRMFHBQ=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:45AM",
+      "event_date": "09/25/25",
+      "channel_name": "VDO",
+      "event_title": "Uefa Europa League - Paok Saloniki Vs Maccabi Tel Aviv (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSQwQICEJQRE8iS0xOWFQxNkIIREZWRkVIQlFAT0IEMUglVCpSPBQoEz0rFiwBFRARBRIeLAcUHhAEFg==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:45AM",
+      "event_date": "09/25/25",
+      "channel_name": "MOVISTAR2",
+      "event_title": "Uefa Europa League - Paok Saloniki Vs Maccabi Tel Aviv (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSQwQICEJQRE8iS0xOWFQxNkIIREZWRkVIQlFAT0IEMUglVCpSPBQoEz0rFiwBFRARBRIeLAcUHhYBFg==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:45AM",
+      "event_date": "09/25/25",
+      "channel_name": "HDD C ESPA\u00d1OL",
+      "event_title": "Uefa Europa League - Paok Saloniki Vs Maccabi Tel Aviv (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSQwQICEJQRE8iS0xOWFQxNkIIREZWRkVIQlFAT0IEMUglVCpSPBQoFzwXFxQBExAaPBYpEworKQ==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:45AM",
+      "event_date": "09/25/25",
+      "channel_name": "HDD D ITALIANO",
+      "event_title": "Uefa Europa League - Paok Saloniki Vs Maccabi Tel Aviv (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSQwQICEJQRE8iS0xOWFQxNkIIREZWRkVIQlFAT0IEMUglVCpSPBQoFzwXFxQBExAaPBYpEworFg==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:45AM",
+      "event_date": "09/25/25",
+      "channel_name": "HDD E \u0395\u039b\u039b\u0397\u039d\u0399\u039a\u0386",
+      "event_title": "Uefa Europa League - Paok Saloniki Vs Maccabi Tel Aviv (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSQwQICEJQRE8iS0xOWFQxNkIIREZWRkVIQlFAT0IEMUglVCpSPBQoFzwXFxQBExAaPBYpEworFw==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:45AM",
+      "event_date": "09/25/25",
+      "channel_name": "HDD B",
+      "event_title": "Uefa Europa League - Paok Saloniki Vs Maccabi Tel Aviv (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSQwQICEJQRE8iS0xOWFQxNkIIREZWRkVIQlFAT0IEMUglVCpSPBQoFzwXFxQBExAaPBYpEworEw==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:45AM",
+      "event_date": "09/25/25",
+      "channel_name": "HDD A",
+      "event_title": "Uefa Europa League - Paok Saloniki Vs Maccabi Tel Aviv (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSQwQICEJQRE8iS0xOWFQxNkIIREZWRkVIQlFAT0IEMUglVCpSPBQoFzwXFxQBExAaPBYpEwUcHg==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:45AM",
+      "event_date": "09/25/25",
+      "event_title": "Uefa Europa League - Paok Saloniki Vs Maccabi Tel Aviv (09/25/25) [STREAM 3[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSQwQICEJQRE8iS0xOWFQxNkIIREZWRkVIQlFAT0IEMUglVCpSPBQoEzwXFxQBExAaPBYpEworEQ==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:45AM",
+      "event_date": "09/25/25",
+      "channel_name": "SD",
+      "event_title": "Uefa Europa League - Paok Saloniki Vs Maccabi Tel Aviv (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSQwQICEJQRE8iS0xOWFQxNkIIREZWRkVIQlFAT0IEMUglVCpSPBQoEDwXFxQBExAaPBYpEwUcFQ==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:45AM",
+      "event_date": "09/25/25",
+      "event_title": "Uefa Europa League - Paok Saloniki Vs Maccabi Tel Aviv (09/25/25) [STREAM 3_FHD[FULL HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSQwQICEJQRE8iS0xOWFQxNkIIREZWRkVIQlFAT0IEMUglVCpSPBQoEzwXFxQBExAaPBYpEworHg==/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
@@ -315,9 +651,9 @@
     {
       "event_time": "11:00PM",
       "event_date": "09/24/25",
-      "channel_name": "LALIGA",
-      "event_title": "Spanish Primera Divisi\u00f3n Rfef - Sabadell Vs Fc Cartagena (09/24/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVZTIU5IRCFGVgFYM0w2WLfFTUJXAwYXVCpSRkZFQFdCS09CMzJSFwZWAFA3M0BaQklAQihWLAIqFy09FCgRAxUeLQUcKBcCHBUtCg==/index.m3u8",
+      "channel_name": "SD",
+      "event_title": "U17 Gulf Cup Of Nations - Yemen U17 Vs United Arab Emirates U17 (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/VAISVgQkSUFSEDI3UiJDVg9QMUwyXTBWLkJeQExUS1ZUAhJWNSZUUE1YMUBHQgQ1QFFUAkxYN0Q3VDBWVAISVi5CKhYsACoVEwUXFREEKhQtAxMSGg==/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
@@ -326,8 +662,8 @@
       "event_time": "11:00PM",
       "event_date": "09/24/25",
       "channel_name": "SD",
-      "event_title": "U17 Gulf Cup Of Nations - Yemen U17 Vs United Arab Emirates U17 (09/24/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/VAISVgQkSUFSEDI3UiJDVg9QMUwyXTBWLkJeQExUS1ZUAhJWNSZUUE1YMUBHQgQ1QFFUAkxYN0Q3VDBWVAISVi5CKhYsACoVEwUXFREEKhQtAxMSGg==/index.m3u8",
+      "event_title": "Ukrainian Cup - Rukh Vynnyky Vs Polissya Zhytomyr (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/VF43REhdTkRNQgYwM0IoVlEkSE9SRT5JTShIPFIlMFZTIklMNiY-RFJJTTw3Iko8MUIoViwCKhQsARUQLQIRFSwAKxcVBhE=/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
@@ -348,16 +684,6 @@
       "channel_name": "SD",
       "event_title": "Russian Cup - Znamya Truda Vs Chaika Peschanokopskoe (09/24/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/USQwMkhQS1YAJDVWLkJfSUBcPkRSRzcwR1BUMTZCBk9AWEhEUkNCMkZbRkkyXjQ3Nl40QFI-VCgSPBYoEQMTFREGFSgQPRURFwc=/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "11:30PM",
-      "event_date": "09/24/25",
-      "channel_name": "HDD A",
-      "event_title": "South Africa Premier Soccer League - Kaizer Chiefs Vs Marumo Gallants Fc (09/24/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/ViIyM0tCBEExWEBEUkM3QExYQjVSRjRCRlQ3VglURk40VFQqUhhGTDlUN1YAW05ARSZUMTZCCEQxJEo2UhRGS09QSzM2QgEEUj5UKBI8ESgRAxAWLQASKBA9FREXAQ==/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
@@ -388,6 +714,26 @@
       "channel_name": "SDK A",
       "event_title": "Kontinental Hockey League - Neftekhimik Nizhnekamsk Vs Avtomobilist Yekaterinburg (09/25/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/CCJLM0hdQkk3UElWBSJASkQoVA1EUEwwREIoVg9UQzNEXk1MTFhIVg9YP09NVEhETCZIVjUmVAY1JzRIMlFOS0gmMVZYVEhEN1Q3TE1RMjVKQihWLAIUKBc8FB4VChEWEzwVExQKEhQ=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+      "group_title": "HOCKEY"
+    },
+    {
+      "event_time": "12:10AM",
+      "event_date": "09/25/25",
+      "channel_name": "SDK A",
+      "event_title": "Kontinental Hockey League - Dinamo Minsk Vs Torpedo Nizhny Novgorod (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCJLM0hdQkk3UElWBSJASkQoVA1EUEwwREIoVgFYS0RMIlQKSF0wSlIlMFZXIjc3RFc0Vg9YP09NKFQLMiVMNjEiQVYuQioWEjwRKBIKEx4XABAoEwcSHhQE/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+      "group_title": "HOCKEY"
+    },
+    {
+      "event_time": "12:30AM",
+      "event_date": "09/25/25",
+      "channel_name": "SDK B",
+      "event_title": "Kontinental Hockey League - Dynamo Moscow Vs Kunlun Red Star Beijing (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCJLM0hdQkk3UElWBSJASkQoVA1EUEwwREIoVgEoS0RMIlQKMiZANjpCMzJSGDJJTyRLVlFUQVZWJ0Y1UhNCTElYS05SPlQoEgIqEywCHBEaBxYTLAMREBoFKw==/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
       "group_title": "HOCKEY"
@@ -444,6 +790,20 @@
     }
   ],
   "grouped_events": {
+    "Usa: Ncaa - Scott Vs Frost Press Conference (09/24/25)": {
+      "event_title": "Usa: Ncaa - Scott Vs Frost Press Conference (09/24/25)",
+      "event_time": "11:30PM",
+      "event_date": "09/24/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/VEYEH1IfBgYCQihWVlY0MzdCMzJSFzc2NidUVzFUMDJSEDRJRVQ3QE1WQlYuQioeLAcqFhoKFBMXACoXFwQcERM=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
+          "duration": null
+        }
+      ]
+    },
     "Major League Baseball - Atlanta Braves Vs Washington Nationals (09/25/25)": {
       "event_title": "Major League Baseball - Atlanta Braves Vs Washington Nationals (09/25/25)",
       "event_time": "12:15AM",
@@ -453,6 +813,20 @@
         {
           "channel_name": "HDK A",
           "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAidJRE0nRlYDIUYxRCZUMTZCXEQ2W05JSic0SVIfRjNIIktETyZUKlI8FygXPBQeFQoQExM8FRMUChIS/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Major League Baseball - Atlanta Braves Vs Washington Nationals (09/25/25) [STREAM 23[HD]]": {
+      "event_title": "Major League Baseball - Atlanta Braves Vs Washington Nationals (09/25/25) [STREAM 23[HD]]",
+      "event_time": "12:15AM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAidJRE0nRlYDIUYxRCZUMTZCXEQ2W05JSic0SVIfRjNIIktETyZUKlI8FygTPBQeFQoQExM8FRMUChIe/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
           "duration": null
         }
@@ -702,29 +1076,325 @@
         }
       ]
     },
-    "Czech Third League - Benatky Nad Jizerou Vs Banik Most-Sous (09/24/25)": {
-      "event_title": "Czech Third League - Benatky Nad Jizerou Vs Banik Most-Sous (09/24/25)",
-      "event_time": "10:30PM",
-      "event_date": "09/24/25",
+    "Coppa Italia - Hellas Verona Vs Venezia (09/25/25)": {
+      "event_title": "Coppa Italia - Hellas Verona Vs Venezia (09/25/25)",
+      "event_time": "12:30AM",
+      "event_date": "09/25/25",
       "category": null,
       "channels": [
         {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/ACI1N0BCDDNAX05EUj5UAURfSUQ2QlNAMSJLRFIlMFZVVEtAOVhGVi5CKhYsByoVEwUrFi0DKhQtAxMRFA==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD B ITALIANO",
+          "url": "https://world-proxifier.xyz/rbtv/p/ACI1N0BCDDNAX05EUj5UAURfSUQ2QlNAMSJLRFIlMFZVVEtAOVhGVi5CKhYsByoVEwUrFi0DKhQtAxMRFQ==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
           "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AClCQktCUU9IIUFWCVRGTjRUVCpSE0JJQCdIPFIfRkNSG049RCE0MFIlMFYDUEtMTkIINjYnKFIyJDBWLkIqFiwAKhUTAisSFwIqFC0DExIS/index.m3u8",
+          "url": "https://world-proxifier.xyz/rbtv/p/ACI1N0BCDDNAX05EUj5UAURfSUQ2QlNAMSJLRFIlMFZVVEtAOVhGVi5CKhYsACoVEwUrFi0DKhQtAxMQFA==/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }
       ]
     },
-    "Czech Third League - Sk Zapy Vs Jiskra Usti Nad Orlici (09/24/25)": {
-      "event_title": "Czech Third League - Sk Zapy Vs Jiskra Usti Nad Orlici (09/24/25)",
-      "event_time": "10:30PM",
-      "event_date": "09/24/25",
+    "Coppa Italia - Hellas Verona Vs Venezia (09/25/25) [STREAM 18[HD]]": {
+      "event_title": "Coppa Italia - Hellas Verona Vs Venezia (09/25/25) [STREAM 18[HD]]",
+      "event_time": "12:30AM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/ACI1N0BCDDNAX05EUj5UAURfSUQ2QlNAMSJLRFIlMFZVVEtAOVhGVi5CKhYsAyoVEwUrFi0DKhQtAxMRGg==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Italian Serie C - As Sorrento Calcio Vs Casarano (09/25/25)": {
+      "event_title": "Italian Serie C - As Sorrento Calcio Vs Casarano (09/25/25)",
+      "event_time": "12:30AM",
+      "event_date": "09/25/25",
       "category": null,
       "channels": [
         {
           "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AClCQktCUU9IIUFWCVRGTjRUVCpSRg5WWVA1PFIlMFYLWDBKMVBUUDYnTlZNUEFWDCFJTEZYVCpSPBQoEDwXFxI9EBUQPBYpEwUQFw==/index.m3u8",
+          "url": "https://world-proxifier.xyz/rbtv/p/CidGS0hQS1ZWVDdMREIGVi5CBFJSRjQ1MVRLMzJCBkRPVk42UiUwVgBQMEQxUEs2Uj5UKBI8FigRAxcpEgoXKBA9FREVAA==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Italian Serie C - Cavese Vs Latina Calcio 1932 (09/25/25)": {
+      "event_title": "Italian Serie C - Cavese Vs Latina Calcio 1932 (09/25/25)",
+      "event_time": "12:30AM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CidGS0hQS1ZWVDdMREIGVi5CBkQ1VDBAUiUwVglQMUxNUFQEQF9ATDJCFB4QA1QqUjwUKBA8FxcRPRUpEjwWKRMFEhE=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Italian Serie C - Cosenza Calcio 1914 Vs Giugliano (09/25/25)": {
+      "event_title": "Italian Serie C - Cosenza Calcio 1914 Vs Giugliano (09/25/25)",
+      "event_time": "12:30AM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CidGS0hQS1ZWVDdMREIGVi5CBjY2VEs9QEIGRE9WTjZSAhwWEUIzMlIUTjBKX05ETSJUKlI8FCgQPBcXET0VFRA8FikTBRMp/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Italian Serie C - Foggia Vs Us Casertana 1908 (09/25/25)": {
+      "event_title": "Italian Serie C - Foggia Vs Us Casertana 1908 (09/25/25)",
+      "event_time": "12:30AM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CidGS0hQS1ZWVDdMREIGVi5CATZKWk5EUiUwVlRGVARAJkI1N1BLRFICHCkVQihWLAIqFCwBFRUtAhwRLAArFxUFFA==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Italian Serie C - Salernitana Vs Audace Cerignola (09/25/25)": {
+      "event_title": "Italian Serie C - Salernitana Vs Audace Cerignola (09/25/25)",
+      "event_time": "12:30AM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CidGS0hQS1ZWVDdMREIGVi5CUERPVDdJSCdGSUBCMzJSEjJDQFZCVgBUN0xKXTRLQEIoViwCKhQsARUVLQMVEywAKxcVBRU=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Italian Serie C - Us Siracusa Vs Potenza (09/25/25)": {
+      "event_title": "Italian Serie C - Us Siracusa Vs Potenza (09/25/25)",
+      "event_time": "12:30AM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CidGS0hQS1ZWVDdMREIGVi5CUlJSRk41QFYyMkBCMzJSQzQzRF0_RFI-VCgSPBYoEQMXKRMAFSgQPRURFAo=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Italian Women'S Cup - Juventus Women Vs Inter Milan Women (09/25/25)": {
+      "event_title": "Italian Women'S Cup - Juventus Women Vs Inter Milan Women (09/25/25)",
+      "event_time": "12:30AM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A DEUTSCH",
+          "url": "https://world-proxifier.xyz/rbtv/p/CidGS0hQS1ZaIkpATTQwVgAkNVYuQg0wNVRLMzQmVF4yXEJJUiUwVgpdMUAxQghMT1BLVloiSkBNQihWLAIqEywBFREXBBYSLAArFxUKFA==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD B ITALIANO",
+          "url": "https://world-proxifier.xyz/rbtv/p/CidGS0hQS1ZaIkpATTQwVgAkNVYuQg0wNVRLMzQmVF4yXEJJUiUwVgpdMUAxQghMT1BLVloiSkBNQihWLAIqEywBFREXBBYSLAArFxUKFQ==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Russian Cup - Tekstilshchik Ivanovo Vs Fakel Voronezh (09/25/25)": {
+      "event_title": "Russian Cup - Tekstilshchik Ivanovo Vs Fakel Voronezh (09/25/25)",
+      "event_time": "12:30AM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/USQwMkhQS1YAJDVWLkJRQE4mMUxPJk1CS1hIVgolRkkyJTRWNSZUA0BeQktSRTQ1Ml1CPUtCKFYsAioULAEVEREDHB4sACsXFQUQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Pko Bank Polski Ekstraklasa - Rakow Czestochowa Vs Lech Poznan (09/25/25)": {
+      "event_title": "Pko Bank Polski Ekstraklasa - Rakow Czestochowa Vs Lech Poznan (09/25/25)",
+      "event_time": "12:45AM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD B POLSKI",
+          "url": "https://world-proxifier.xyz/rbtv/p/UxgKVgNQS0pSQzRLNl5OVgYYUFNREg4NAkYEVi5CV0ROIjxWAClCMjciQE8yKkZWNSZUDURWTVZTIj9JQF1UKlI8FCgXPBcWGgYVFRM8FikTCisU/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/UxgKVgNQS0pSQzRLNl5OVgYYUFNREg4NAkYEVi5CV0ROIjxWAClCMjciQE8yKkZWNSZUDURWTVZTIj9JQF1UKlI8FCgXPBcWGgYVFRM8FikTCisQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/UxgKVgNQS0pSQzRLNl5OVgYYUFNREg4NAkYEVi5CV0ROIjxWAClCMjciQE8yKkZWNSZUDURWTVZTIj9JQF1UKlI8FCgQPBcWGgYVFRM8FikTBRwS/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Uefa Europa League - Midtjylland Vs Sturm Graz (09/25/25)": {
+      "event_title": "Uefa Europa League - Midtjylland Vs Sturm Graz (09/25/25)",
+      "event_time": "12:45AM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSHk5DN1k-S09QS0NSJTBWVicyNUxCAjVAKVQqUjwUKBM9KxYsARUREwoQEiwHFB4QAxA=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "MOVISTAR2",
+          "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSHk5DN1k-S09QS0NSJTBWVicyNUxCAjVAKVQqUjwUKBM9KxYsARUREwoQEiwHFB4WARA=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSHk5DN1k-S09QS0NSJTBWVicyNUxCAjVAKVQqUjwUKBc8FxcVAxwSFjwWKRMFHBM=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD D ITALIANO",
+          "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSHk5DN1k-S09QS0NSJTBWVicyNUxCAjVAKVQqUjwUKBc8FxcVAxwSFjwWKRMFHBA=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD E",
+          "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSHk5DN1k-S09QS0NSJTBWVicyNUxCAjVAKVQqUjwUKBc8FxcVAxwSFjwWKRMFHBE=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD B",
+          "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSHk5DN1k-S09QS0NSJTBWVicyNUxCAjVAKVQqUjwUKBc8FxcVAxwSFjwWKRMKKxU=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD C ESPA\u00d1OL",
+          "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSHk5DN1k-S09QS0NSJTBWVicyNUxCAjVAKVQqUjwUKBc8FxcVAxwSFjwWKRMKKxI=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSHk5DN1k-S09QS0NSJTBWVicyNUxCAjVAKVQqUjwUKBA8FxcVAxwSFjwWKRMFHBQ=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Uefa Europa League - Paok Saloniki Vs Maccabi Tel Aviv (09/25/25)": {
+      "event_title": "Uefa Europa League - Paok Saloniki Vs Maccabi Tel Aviv (09/25/25)",
+      "event_time": "12:45AM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSQwQICEJQRE8iS0xOWFQxNkIIREZWRkVIQlFAT0IEMUglVCpSPBQoEz0rFiwBFRARBRIeLAcUHhAEFg==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "MOVISTAR2",
+          "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSQwQICEJQRE8iS0xOWFQxNkIIREZWRkVIQlFAT0IEMUglVCpSPBQoEz0rFiwBFRARBRIeLAcUHhYBFg==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD C ESPA\u00d1OL",
+          "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSQwQICEJQRE8iS0xOWFQxNkIIREZWRkVIQlFAT0IEMUglVCpSPBQoFzwXFxQBExAaPBYpEworKQ==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD D ITALIANO",
+          "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSQwQICEJQRE8iS0xOWFQxNkIIREZWRkVIQlFAT0IEMUglVCpSPBQoFzwXFxQBExAaPBYpEworFg==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD E \u0395\u039b\u039b\u0397\u039d\u0399\u039a\u0386",
+          "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSQwQICEJQRE8iS0xOWFQxNkIIREZWRkVIQlFAT0IEMUglVCpSPBQoFzwXFxQBExAaPBYpEworFw==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD B",
+          "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSQwQICEJQRE8iS0xOWFQxNkIIREZWRkVIQlFAT0IEMUglVCpSPBQoFzwXFxQBExAaPBYpEworEw==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSQwQICEJQRE8iS0xOWFQxNkIIREZWRkVIQlFAT0IEMUglVCpSPBQoFzwXFxQBExAaPBYpEwUcHg==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSQwQICEJQRE8iS0xOWFQxNkIIREZWRkVIQlFAT0IEMUglVCpSPBQoEDwXFxQBExAaPBYpEwUcFQ==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Uefa Europa League - Paok Saloniki Vs Maccabi Tel Aviv (09/25/25) [STREAM 3[HD]]": {
+      "event_title": "Uefa Europa League - Paok Saloniki Vs Maccabi Tel Aviv (09/25/25) [STREAM 3[HD]]",
+      "event_time": "12:45AM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSQwQICEJQRE8iS0xOWFQxNkIIREZWRkVIQlFAT0IEMUglVCpSPBQoEzwXFxQBExAaPBYpEworEQ==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Uefa Europa League - Paok Saloniki Vs Maccabi Tel Aviv (09/25/25) [STREAM 3_FHD[FULL HD]]": {
+      "event_title": "Uefa Europa League - Paok Saloniki Vs Maccabi Tel Aviv (09/25/25) [STREAM 3_FHD[FULL HD]]",
+      "event_time": "12:45AM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSQwQICEJQRE8iS0xOWFQxNkIIREZWRkVIQlFAT0IEMUglVCpSPBQoEzwXFxQBExAaPBYpEworHg==/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }
@@ -846,20 +1516,6 @@
         }
       ]
     },
-    "Spanish Primera Divisi\u00f3n Rfef - Sabadell Vs Fc Cartagena (09/24/25)": {
-      "event_title": "Spanish Primera Divisi\u00f3n Rfef - Sabadell Vs Fc Cartagena (09/24/25)",
-      "event_time": "11:00PM",
-      "event_date": "09/24/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "LALIGA",
-          "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVZTIU5IRCFGVgFYM0w2WLfFTUJXAwYXVCpSRkZFQFdCS09CMzJSFwZWAFA3M0BaQklAQihWLAIqFy09FCgRAxUeLQUcKBcCHBUtCg==/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "U17 Gulf Cup Of Nations - Yemen U17 Vs United Arab Emirates U17 (09/24/25)": {
       "event_title": "U17 Gulf Cup Of Nations - Yemen U17 Vs United Arab Emirates U17 (09/24/25)",
       "event_time": "11:00PM",
@@ -869,6 +1525,20 @@
         {
           "channel_name": "SD",
           "url": "https://world-proxifier.xyz/rbtv/p/VAISVgQkSUFSEDI3UiJDVg9QMUwyXTBWLkJeQExUS1ZUAhJWNSZUUE1YMUBHQgQ1QFFUAkxYN0Q3VDBWVAISVi5CKhYsACoVEwUXFREEKhQtAxMSGg==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Ukrainian Cup - Rukh Vynnyky Vs Polissya Zhytomyr (09/24/25)": {
+      "event_title": "Ukrainian Cup - Rukh Vynnyky Vs Polissya Zhytomyr (09/24/25)",
+      "event_time": "11:00PM",
+      "event_date": "09/24/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/VF43REhdTkRNQgYwM0IoVlEkSE9SRT5JTShIPFIlMFZTIklMNiY-RFJJTTw3Iko8MUIoViwCKhQsARUQLQIRFSwAKxcVBhE=/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }
@@ -897,20 +1567,6 @@
         {
           "channel_name": "SD",
           "url": "https://world-proxifier.xyz/rbtv/p/USQwMkhQS1YAJDVWLkJfSUBcPkRSRzcwR1BUMTZCBk9AWEhEUkNCMkZbRkkyXjQ3Nl40QFI-VCgSPBYoEQMTFREGFSgQPRURFwc=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "South Africa Premier Soccer League - Kaizer Chiefs Vs Marumo Gallants Fc (09/24/25)": {
-      "event_title": "South Africa Premier Soccer League - Kaizer Chiefs Vs Marumo Gallants Fc (09/24/25)",
-      "event_time": "11:30PM",
-      "event_date": "09/24/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/ViIyM0tCBEExWEBEUkM3QExYQjVSRjRCRlQ3VglURk40VFQqUhhGTDlUN1YAW05ARSZUMTZCCEQxJEo2UhRGS09QSzM2QgEEUj5UKBI8ESgRAxAWLQASKBA9FREXAQ==/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }
@@ -953,6 +1609,34 @@
         {
           "channel_name": "SDK A",
           "url": "https://world-proxifier.xyz/rbtv/p/CCJLM0hdQkk3UElWBSJASkQoVA1EUEwwREIoVg9UQzNEXk1MTFhIVg9YP09NVEhETCZIVjUmVAY1JzRIMlFOS0gmMVZYVEhEN1Q3TE1RMjVKQihWLAIUKBc8FB4VChEWEzwVExQKEhQ=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Kontinental Hockey League - Dinamo Minsk Vs Torpedo Nizhny Novgorod (09/25/25)": {
+      "event_title": "Kontinental Hockey League - Dinamo Minsk Vs Torpedo Nizhny Novgorod (09/25/25)",
+      "event_time": "12:10AM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SDK A",
+          "url": "https://world-proxifier.xyz/rbtv/p/CCJLM0hdQkk3UElWBSJASkQoVA1EUEwwREIoVgFYS0RMIlQKSF0wSlIlMFZXIjc3RFc0Vg9YP09NKFQLMiVMNjEiQVYuQioWEjwRKBIKEx4XABAoEwcSHhQE/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Kontinental Hockey League - Dynamo Moscow Vs Kunlun Red Star Beijing (09/25/25)": {
+      "event_title": "Kontinental Hockey League - Dynamo Moscow Vs Kunlun Red Star Beijing (09/25/25)",
+      "event_time": "12:30AM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SDK B",
+          "url": "https://world-proxifier.xyz/rbtv/p/CCJLM0hdQkk3UElWBSJASkQoVA1EUEwwREIoVgEoS0RMIlQKMiZANjpCMzJSGDJJTyRLVlFUQVZWJ0Y1UhNCTElYS05SPlQoEgIqEywCHBEaBxYTLAMREBoFKw==/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
           "duration": null
         }

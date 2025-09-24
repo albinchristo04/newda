@@ -1,17 +1,21 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-24T16:20:06.589108
+Extraction Time: 2025-09-24T16:46:10.691587
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 40
-- Total Channels: 44
+- Unique Events: 56
+- Total Channels: 79
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
+- Usa: Ncaa - Scott Vs Frost Press Conference (09/24/25)
+  Time: 11:30PM, Channels: 1
+- Major League Baseball - Atlanta Braves Vs Washington Nationa...
+  Time: 12:15AM, Channels: 1
 - Major League Baseball - Atlanta Braves Vs Washington Nationa...
   Time: 12:15AM, Channels: 1
 - Euroleague Women - Miskolc Women Vs Azs Umcs Lublin Women (0...
@@ -48,10 +52,36 @@ EVENT BREAKDOWN:
   Time: 12:00AM, Channels: 1
 - United Arab Emirates Adnoc Pro-League - Al-Jazira(Uae) Vs Al...
   Time: 12:15AM, Channels: 1
-- Czech Third League - Benatky Nad Jizerou Vs Banik Most-Sous ...
-  Time: 10:30PM, Channels: 1
-- Czech Third League - Sk Zapy Vs Jiskra Usti Nad Orlici (09/2...
-  Time: 10:30PM, Channels: 1
+- Coppa Italia - Hellas Verona Vs Venezia (09/25/25)
+  Time: 12:30AM, Channels: 3
+- Coppa Italia - Hellas Verona Vs Venezia (09/25/25) [STREAM 1...
+  Time: 12:30AM, Channels: 1
+- Italian Serie C - As Sorrento Calcio Vs Casarano (09/25/25)
+  Time: 12:30AM, Channels: 1
+- Italian Serie C - Cavese Vs Latina Calcio 1932 (09/25/25)
+  Time: 12:30AM, Channels: 1
+- Italian Serie C - Cosenza Calcio 1914 Vs Giugliano (09/25/25...
+  Time: 12:30AM, Channels: 1
+- Italian Serie C - Foggia Vs Us Casertana 1908 (09/25/25)
+  Time: 12:30AM, Channels: 1
+- Italian Serie C - Salernitana Vs Audace Cerignola (09/25/25)
+  Time: 12:30AM, Channels: 1
+- Italian Serie C - Us Siracusa Vs Potenza (09/25/25)
+  Time: 12:30AM, Channels: 1
+- Italian Women'S Cup - Juventus Women Vs Inter Milan Women (0...
+  Time: 12:30AM, Channels: 2
+- Russian Cup - Tekstilshchik Ivanovo Vs Fakel Voronezh (09/25...
+  Time: 12:30AM, Channels: 1
+- Pko Bank Polski Ekstraklasa - Rakow Czestochowa Vs Lech Pozn...
+  Time: 12:45AM, Channels: 3
+- Uefa Europa League - Midtjylland Vs Sturm Graz (09/25/25)
+  Time: 12:45AM, Channels: 8
+- Uefa Europa League - Paok Saloniki Vs Maccabi Tel Aviv (09/2...
+  Time: 12:45AM, Channels: 8
+- Uefa Europa League - Paok Saloniki Vs Maccabi Tel Aviv (09/2...
+  Time: 12:45AM, Channels: 1
+- Uefa Europa League - Paok Saloniki Vs Maccabi Tel Aviv (09/2...
+  Time: 12:45AM, Channels: 1
 - Armenian Premier League - Fc Noah Vs Fk Van Charentsavan (09...
   Time: 11:00PM, Channels: 1
 - Coppa Italia - Parma Vs Spezia (09/24/25)
@@ -66,15 +96,13 @@ EVENT BREAKDOWN:
   Time: 11:00PM, Channels: 1
 - Russian Cup - Fk Fankom Vs Fc Ufa (09/24/25)
   Time: 11:00PM, Channels: 1
-- Spanish Primera División Rfef - Sabadell Vs Fc Cartagena (09...
-  Time: 11:00PM, Channels: 1
 - U17 Gulf Cup Of Nations - Yemen U17 Vs United Arab Emirates ...
+  Time: 11:00PM, Channels: 1
+- Ukrainian Cup - Rukh Vynnyky Vs Polissya Zhytomyr (09/24/25)
   Time: 11:00PM, Channels: 1
 - Polish Cup - Gornik Leczna Vs Cracovia Krakow (09/24/25)
   Time: 11:30PM, Channels: 1
 - Russian Cup - Znamya Truda Vs Chaika Peschanokopskoe (09/24/...
-  Time: 11:30PM, Channels: 1
-- South Africa Premier Soccer League - Kaizer Chiefs Vs Marumo...
   Time: 11:30PM, Channels: 1
 - Danish Cup - Lyngby Vs Fc Copenhagen (09/24/25)
   Time: 11:45PM, Channels: 1
@@ -82,6 +110,10 @@ EVENT BREAKDOWN:
   Time: 12:00AM, Channels: 1
 - Kontinental Hockey League - Neftekhimik Nizhnekamsk Vs Avtom...
   Time: 12:00AM, Channels: 1
+- Kontinental Hockey League - Dinamo Minsk Vs Torpedo Nizhny N...
+  Time: 12:10AM, Channels: 1
+- Kontinental Hockey League - Dynamo Moscow Vs Kunlun Red Star...
+  Time: 12:30AM, Channels: 1
 - Kontinental Hockey League - Lada Togliatti Vs Hc Sochi (09/2...
   Time: 11:00PM, Channels: 1
 - Premier Padel 2025  - Germany P2 Day 3 Match 3 (09/24/25)
