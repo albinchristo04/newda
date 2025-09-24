@@ -1,76 +1,78 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-24T23:27:49.057650
+Extraction Time: 2025-09-24T23:37:58.741886
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 31
-- Total Channels: 82
+- Unique Events: 32
+- Total Channels: 44
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
 - Major League Baseball - Baltimore Orioles Vs Tampa Bay Rays ...
-  Time: 06:35AM, Channels: 2
+  Time: 06:35AM, Channels: 1
 - Major League Baseball - Baltimore Orioles Vs Tampa Bay Rays ...
-  Time: 06:35AM, Channels: 2
+  Time: 06:35AM, Channels: 1
 - Major League Baseball - Cincinnati Reds Vs Pittsburgh Pirate...
-  Time: 06:40AM, Channels: 2
+  Time: 06:40AM, Channels: 1
 - Major League Baseball - Cincinnati Reds Vs Pittsburgh Pirate...
-  Time: 06:40AM, Channels: 2
+  Time: 06:40AM, Channels: 1
 - Major League Baseball - Cleveland Guardians Vs Detroit Tiger...
-  Time: 06:40AM, Channels: 2
+  Time: 06:40AM, Channels: 1
 - Major League Baseball - Cleveland Guardians Vs Detroit Tiger...
-  Time: 06:40AM, Channels: 2
+  Time: 06:40AM, Channels: 1
 - Major League Baseball - Philadelphia Phillies Vs Miami Marli...
-  Time: 06:45AM, Channels: 2
+  Time: 06:45AM, Channels: 1
 - Major League Baseball - Philadelphia Phillies Vs Miami Marli...
-  Time: 06:45AM, Channels: 2
+  Time: 06:45AM, Channels: 1
 - Major League Baseball - New York Yankees Vs Chicago White So...
-  Time: 07:05AM, Channels: 2
+  Time: 07:05AM, Channels: 1
 - Major League Baseball - New York Yankees Vs Chicago White So...
-  Time: 07:05AM, Channels: 2
+  Time: 07:05AM, Channels: 1
 - Major League Baseball - Toronto Blue Jays Vs Boston Red Sox ...
-  Time: 07:07AM, Channels: 2
+  Time: 07:07AM, Channels: 1
 - Major League Baseball - Toronto Blue Jays Vs Boston Red Sox ...
-  Time: 07:07AM, Channels: 2
+  Time: 07:07AM, Channels: 1
 - Argentine Reserve League - Ca Talleres De Córdoba Reserves V...
-  Time: 06:00AM, Channels: 2
+  Time: 06:00AM, Channels: 1
 - Brazilian Serie B - Athletic Club Vs Athletico Paranaense (0...
-  Time: 06:00AM, Channels: 4
+  Time: 06:00AM, Channels: 2
 - Brazilian Serie B - Crb Al Vs Botafogo Sp (09/25/25)
-  Time: 06:00AM, Channels: 4
+  Time: 06:00AM, Channels: 2
 - Brazilian Serie B - Vila Nova Vs Cuiaba (09/25/25)
-  Time: 06:00AM, Channels: 2
+  Time: 06:00AM, Channels: 1
 - Conmebol Copa Sudamericana - Atletico Mineiro Vs Bolivar (09...
-  Time: 06:00AM, Channels: 8
+  Time: 06:00AM, Channels: 4
 - Conmebol Copa Sudamericana - Atletico Mineiro Vs Bolivar (09...
-  Time: 06:00AM, Channels: 2
+  Time: 06:00AM, Channels: 1
 - Paraguayan Cup - Olimpia Asuncion Vs Atlético Tembetary (09/...
-  Time: 06:00AM, Channels: 2
+  Time: 06:00AM, Channels: 1
 - Bolivian Primera Division - Jorge Wilstermann Vs Blooming (0...
-  Time: 06:30AM, Channels: 2
+  Time: 06:30AM, Channels: 1
 - Brazilian Serie A - Clube De Regatas Vasco Da Gama Vs Bahia ...
-  Time: 06:30AM, Channels: 4
+  Time: 06:30AM, Channels: 2
 - Brazilian Serie A - Gremio (Rs) Vs Botafogo Rj (09/25/25)
-  Time: 06:30AM, Channels: 4
+  Time: 06:30AM, Channels: 2
 - Brazilian Serie B - Operario Ferroviario Pr Vs Amazonas Fc (...
-  Time: 07:00AM, Channels: 4
+  Time: 07:00AM, Channels: 2
 - Colombian Copa Betplay Dimayor - Dep.Independiente Medellin ...
-  Time: 07:00AM, Channels: 2
-- United States Women'S Premier League - Carolina Ascent (W) V...
-  Time: 07:00AM, Channels: 4
+  Time: 07:00AM, Channels: 1
 - United States Women'S Premier League - Carolina Ascent (W) V...
   Time: 07:00AM, Channels: 2
+- United States Women'S Premier League - Carolina Ascent (W) V...
+  Time: 07:00AM, Channels: 1
 - Mls Next Pro - Atlanta United Fc Ii Vs Chattanooga (09/25/25...
-  Time: 07:30AM, Channels: 2
+  Time: 07:30AM, Channels: 1
 - United States Major League Soccer - New York City Fc Vs Inte...
-  Time: 07:30AM, Channels: 2
+  Time: 07:30AM, Channels: 3
+- United States Major League Soccer - New York City Fc Vs Inte...
+  Time: 07:30AM, Channels: 1
 - Uruguay Cup - Tacuarembo Vs Ca Penarol (09/25/25)
-  Time: 07:30AM, Channels: 4
+  Time: 07:30AM, Channels: 2
 - Nhl Preseason - Carolina Hurricanes Vs Florida Panthers (09/...
-  Time: 06:00AM, Channels: 2
+  Time: 06:00AM, Channels: 1
 - Nhl Preseason - Carolina Hurricanes Vs Florida Panthers (09/...
-  Time: 06:00AM, Channels: 2
+  Time: 06:00AM, Channels: 1
