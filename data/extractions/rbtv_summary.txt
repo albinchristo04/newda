@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-24T18:21:16.936656
+Extraction Time: 2025-09-24T18:44:52.805118
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 71
-- Total Channels: 101
+- Unique Events: 73
+- Total Channels: 115
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -40,32 +40,16 @@ EVENT BREAKDOWN:
   Time: 12:30AM, Channels: 3
 - Coppa Italia - Hellas Verona Vs Venezia (09/25/25) [STREAM 1...
   Time: 12:30AM, Channels: 1
-- Italian Serie C - As Sorrento Calcio Vs Casarano (09/25/25)
-  Time: 12:30AM, Channels: 1
-- Italian Serie C - Cavese Vs Latina Calcio 1932 (09/25/25)
-  Time: 12:30AM, Channels: 1
-- Italian Serie C - Cosenza Calcio 1914 Vs Giugliano (09/25/25...
-  Time: 12:30AM, Channels: 1
-- Italian Serie C - Foggia Vs Us Casertana 1908 (09/25/25)
-  Time: 12:30AM, Channels: 1
-- Italian Serie C - Salernitana Vs Audace Cerignola (09/25/25)
-  Time: 12:30AM, Channels: 1
-- Italian Serie C - Us Siracusa Vs Potenza (09/25/25)
-  Time: 12:30AM, Channels: 1
-- Italian Women'S Cup - Juventus Women Vs Inter Milan Women (0...
-  Time: 12:30AM, Channels: 2
-- Russian Cup - Tekstilshchik Ivanovo Vs Fakel Voronezh (09/25...
-  Time: 12:30AM, Channels: 1
 - Pko Bank Polski Ekstraklasa - Rakow Czestochowa Vs Lech Pozn...
   Time: 12:45AM, Channels: 3
 - Uefa Europa League - Midtjylland Vs Sturm Graz (09/25/25)
-  Time: 12:45AM, Channels: 7
+  Time: 12:45AM, Channels: 6
 - Uefa Europa League - Midtjylland Vs Sturm Graz (09/25/25) [S...
   Time: 12:45AM, Channels: 1
 - Uefa Europa League - Midtjylland Vs Sturm Graz (09/25/25) [S...
   Time: 12:45AM, Channels: 1
 - Uefa Europa League - Paok Saloniki Vs Maccabi Tel Aviv (09/2...
-  Time: 12:45AM, Channels: 7
+  Time: 12:45AM, Channels: 6
 - Uefa Europa League - Paok Saloniki Vs Maccabi Tel Aviv (09/2...
   Time: 12:45AM, Channels: 1
 - Uefa Europa League - Paok Saloniki Vs Maccabi Tel Aviv (09/2...
@@ -104,10 +88,10 @@ EVENT BREAKDOWN:
   Time: 01:00AM, Channels: 1
 - Turkish First League - Erokspor Vs Istanbulspor (09/25/25)
   Time: 01:00AM, Channels: 1
-- Turkish Super League - Kayserispor Vs Besiktas Jk (09/25/25)...
-  Time: 01:00AM, Channels: 2
 - Turkish Super League - Kayserispor Vs Besiktas Jk (09/25/25)
   Time: 01:00AM, Channels: 3
+- Turkish Super League - Kayserispor Vs Besiktas Jk (09/25/25)...
+  Time: 01:00AM, Channels: 2
 - U17 Gulf Cup Of Nations - Qatar U17 Vs Oman U17 (09/25/25)
   Time: 01:00AM, Channels: 1
 - Faroe Islands Premier League - Eb Streymur Vs Ki Klaksvik (0...
@@ -144,12 +128,32 @@ EVENT BREAKDOWN:
   Time: 02:00AM, Channels: 4
 - Switzerland Women'S Division 1 - Basel Women Vs Fc Zurich Fr...
   Time: 02:00AM, Channels: 1
-- Kontinental Hockey League - Lokomotiv Yaroslavl Vs Severstal...
-  Time: 12:00AM, Channels: 1
-- Kontinental Hockey League - Neftekhimik Nizhnekamsk Vs Avtom...
-  Time: 12:00AM, Channels: 1
-- Kontinental Hockey League - Dinamo Minsk Vs Torpedo Nizhny N...
-  Time: 12:10AM, Channels: 1
+- Belgian Pro League - Club Brugge Vs Kvc Westerlo (09/25/25)
+  Time: 02:30AM, Channels: 2
+- Italian Serie C - Trapani Vs Catania Fc (09/25/25)
+  Time: 02:30AM, Channels: 1
+- Portuguese Liga 3 - Paredes Vs Vitoria Guimaraes B (09/25/25...
+  Time: 02:30AM, Channels: 1
+- English Football League Cup - Huddersfield Town Vs Mancheste...
+  Time: 02:45AM, Channels: 6
+- English Football League Cup - Huddersfield Town Vs Mancheste...
+  Time: 02:45AM, Channels: 1
+- English Football League Cup - Newcastle United Vs Bradford C...
+  Time: 02:45AM, Channels: 6
+- English Football League Cup - Newcastle United Vs Bradford C...
+  Time: 02:45AM, Channels: 1
+- English Football League Cup - Tottenham Hotspur Vs Doncaster...
+  Time: 02:45AM, Channels: 5
+- English Football League Cup - Tottenham Hotspur Vs Doncaster...
+  Time: 02:45AM, Channels: 1
+- English National League - Eastleigh Vs Southend United (09/2...
+  Time: 02:45AM, Channels: 1
+- Italian Serie C - Ac Monopoli Vs Altamura (09/25/25)
+  Time: 02:45AM, Channels: 1
+- Italian Serie C - Atalanta U23 Vs Crotone (09/25/25)
+  Time: 02:45AM, Channels: 1
+- Italian Serie C - Az Picerno Asd Vs Benevento (09/25/25)
+  Time: 02:45AM, Channels: 1
 - Kontinental Hockey League - Dynamo Moscow Vs Kunlun Red Star...
   Time: 12:30AM, Channels: 1
 - Challenger Atp Challenger Orleans, France Men Singles - Mart...
