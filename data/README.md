@@ -1,12 +1,29 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Wed Sep 24 17:49:47 UTC 2025
+Last updated: Wed Sep 24 18:21:17 UTC 2025
 
-Workflow run: #141
+Workflow run: #142
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-24T17:49:46.845357
+Extracted at: 2025-09-24T18:21:16.936656
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
+=== GROUPED EVENTS BY TITLE ===
+
+EVENT: Major League Baseball - Atlanta Braves Vs Washington Nationals (09/25/25)
+Time: 12:15AM
+Date: 09/25/25
+Category: None
+Available Channels (1):
+  1. HDK A
+     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAidJRE0nRlYDIUYxRCZUMTZCXEQ2W05JSic0SVIfRjNIIktETyZUKlI8FygXPBQeFQoQExM8FRMUChIS/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
+
+================================================================================
+
+EVENT: Major League Baseball - Atlanta Braves Vs Washington Nationals (09/25/25) [STREAM 23[HD]]
+Time: 12:15AM
+Date: 09/25/25
+Category: None
 ```
