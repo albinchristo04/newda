@@ -1,29 +1,24 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Wed Sep 24 04:18:16 UTC 2025
+Last updated: Wed Sep 24 04:41:27 UTC 2025
 
-Workflow run: #104
+Workflow run: #105
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-24T04:18:15.561108
+Extracted at: 2025-09-24T04:41:26.754122
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== GROUPED EVENTS BY TITLE ===
+=== MEDIA SEGMENTS (First 10) ===
 
-EVENT: Korea Open, Mixed Doubles - Ye H W / Chan N G Vs Wang C / Kim Y J (09/24/25)
-Time: 11:30AM
-Date: 09/24/25
-Category: None
-Available Channels (1):
-  1. VDO
-     URL: https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WDlg9QEdCBzY0UUlANkIoVlhUVAFSSlQoUhBNRE1CCVYEQjMyUkpGSUpCBlYsQg5MTEJeVgtCKFYsAhUoEz0rFiwCHB4tPSsRLAcUHhEHFg==/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp
-
-================================================================================
-
-EVENT: Korea Open, Singles - Jia Heng Jason Teh Vs Koki Watanabe (09/24/25)
-Time: 11:40AM
-Date: 09/24/25
-Category: None
+1. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WDlg9QEdCBzY0UUlANkIoVgdUS05SSEZJOVtCKAUkRklKQgc2TVo1TE1aVDE2QlFARCFGNUAnMEROJElWU1BIVixCUUREIUYzN1BLREZbRkxSRlQqUjwUFywDKykSPBQeGj0rKRM8ERYaARER/index.m3u8
+2. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VAUyJEdLRCZUKlIQTUBNQlZMTVpUBEtUSygLWEZWWFhUA0BdVDE2QgMyNEJeVgBCKlZWJEtOUkgoAVI-VCgSAyoXLT0UKBIKHCktPRIoFwIcFRcE/index.m3u8
+3. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VAUyJEdLRCZUKlIQTUBNQlZMTVpUBEtUSygLWEZWWFhUA0BdVDE2QgMyNEJeVgBCKlZWJEtOUkgoAVI-VCgSAyoXLT0UKBIKHCktPRIoFwIcFRcE/index.m3u8
+4. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWDFBIS0BdQVYCJ01LRCdOQjZCMzJSFTQwNic0SVISMDMxIjBWLkIqFSwHKhYaBRMeLQQqFxcEExAQ/index.m3u8
+5. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWDFBIS0BdQVYCJ01LRCdOQjZCMzJSFTQwNic0SVISMDMxIjBWLkIqFSwDKhYaBRMeLQQqFxcEExAS/index.m3u8
+6. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgchRklGWDBCMkICTEBdMTJSJTBWVicpDTIkTjJSEEY1R1hLRE8mVCpSPBcoFzwUHhUFHCkXPBUTFAUREg==/index.m3u8
+7. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgchRklGWDBCMkICTEBdMTJSJTBWVicpDTIkTjJSEEY1R1hLRE8mVCpSPBcoEzwUHhUFHCkXPBUTFAUREA==/index.m3u8
+8. https://world-proxifier.xyz/rbtv/p/DlQ9TEYiVA1IWkZWDktUKlIQSTBBQg9AMl1UMTZCCEQ5UDFLQF1UAwBCKFYsAioULAEUHhEDEREsACsXFT0S/index.m3u8
+9. https://world-proxifier.xyz/rbtv/p/DlQ9TEYiVA1IWkZWDktUKlIQSTBBQg9AMl1UMTZCCEQ5UDFLQF1UAwBCKFYsAioULAEUHhEDEREsACsXFT0S/index.m3u8
+10. https://world-proxifier.xyz/rbtv/p/DlQ9TEYiVA1IWkZWDktUKlIXBlYLJEY1RClUMTZCVTBMUDBWVD8JKwI_CCtSPlQoEjwRKBECHBUTBxEoED0VES0G/index.m3u8
 ```
