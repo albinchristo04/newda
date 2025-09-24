@@ -1,20 +1,36 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-24T21:48:48.061550
+Extraction Time: 2025-09-24T22:14:13.597143
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 3
-- Total Channels: 6
+- Unique Events: 11
+- Total Channels: 17
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
 - Major League Baseball - San Diego Padres Vs Milwaukee Brewer...
-  Time: 04:10AM, Channels: 2
+  Time: 04:10AM, Channels: 1
 - Major League Baseball - San Diego Padres Vs Milwaukee Brewer...
-  Time: 04:10AM, Channels: 2
-- Ecuadorian Campeonato Serie B - Atletico Vinotinto Vs Cumbay...
-  Time: 04:30AM, Channels: 2
+  Time: 04:10AM, Channels: 1
+- Argentine Reserve League - Ca Talleres De Córdoba Reserves V...
+  Time: 06:00AM, Channels: 1
+- Brazilian Serie B - Athletic Club Vs Athletico Paranaense (0...
+  Time: 06:00AM, Channels: 2
+- Brazilian Serie B - Crb Al Vs Botafogo Sp (09/25/25)
+  Time: 06:00AM, Channels: 2
+- Brazilian Serie B - Vila Nova Vs Cuiaba (09/25/25)
+  Time: 06:00AM, Channels: 2
+- Conmebol Copa Sudamericana - Atletico Mineiro Vs Bolivar (09...
+  Time: 06:00AM, Channels: 4
+- Conmebol Copa Sudamericana - Atletico Mineiro Vs Bolivar (09...
+  Time: 06:00AM, Channels: 1
+- Paraguayan Cup - Olimpia Asuncion Vs Atlético Tembetary (09/...
+  Time: 06:00AM, Channels: 1
+- Nhl Preseason - Carolina Hurricanes Vs Florida Panthers (09/...
+  Time: 06:00AM, Channels: 1
+- Nhl Preseason - Carolina Hurricanes Vs Florida Panthers (09/...
+  Time: 06:00AM, Channels: 1
