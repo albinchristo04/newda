@@ -1,15 +1,8 @@
 {
-  "timestamp": "2025-09-24T13:53:33.280444",
+  "timestamp": "2025-09-24T14:13:26.952027",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL",
-      "title": "Philippines Mpbl - Bataan Risers Vs Valenzuela Xur Homes Realty Inc. [SD]",
-      "url": "https://world-proxifier.xyz/rbtv/p/U1tOS0gjNUxNVDBWDkMFDVI-VAdAJ0ZETUJXTDZUNzJSJTBWVVBJQE0pMkBPUFRfVEFUATJcQjJSQUJETyc-VgpdQCtSPlQoEzwWKBIKHCkQBxMoEwcSHhY9/index.m3u8"
-    },
     {
       "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
@@ -23,27 +16,6 @@
       "group_title": "FOOTBALL",
       "title": "(L) Kelayakan Futsal Piala Asia 2026 - Uae Vs Ban [SKA]",
       "url": "https://world-proxifier.xyz/rbtv/p/JV8sVk5USUQ4UEhETUJDMDcmRktSI05ET1BURDZYRlYTPRUTUj5UMEBUVDE2QkdETUIoViwCKhctPRQoEQMTExIFFigXAhwXFQM=/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Asean Club Championship Shopee Cup - Bg Pathum United Vs Buriram United [SKA]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AiZCRE1CBks0UVQES1BKN0giSzJLWDVWVls0N0RUVAQ0I1QqUhMCVlNQMU80XFRQTVgxQEdCMzJSEzI1SCFGSFJES0w3VEFWLkIqFiwDKykSPBcXFwIrHhQ8ERYaAxES/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Asean Club Championship Shopee Cup - Bg Pathum United Vs Buriram United [VUS]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AiZCRE1CBks0UVQES1BKN0giSzJLWDVWVls0N0RUVAQ0I1QqUhMCVlNQMU80XFRQTVgxQEdCMzJSEzI1SCFGSFJES0w3VEFWLkIqFiwDKykSPBcXFwIrHhQ8ERYaARcX/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Asean Club Championship Shopee Cup - Bg Pathum United Vs Buriram United [SD]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AiZCRE1CBks0UVQES1BKN0giSzJLWDVWVls0N0RUVAQ0I1QqUhMCVlNQMU80XFRQTVgxQEdCMzJSEzI1SCFGSFJES0w3VEFWLkIqFiwAKhUTBxQpGgQqFC0DExcR/index.m3u8"
     },
     {
       "type": "segment",
@@ -77,6 +49,27 @@
       "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL",
+      "title": "Azerbaijan First Division - Sabail Fc Vs Shahdagh Qusar [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AilCNUFQTk1AXVQDSCEwM1IRTjFIJk42TUIoVlZQR0RIX1QDAEIzMlJGTURLV0ZOS0JWMDZQN1YuQioWLAAqFRMFFxYXBioULQMTFRo=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Croatian Cup - Nk Uljanik Vs Nk Osijek [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ACE0RDdYRklSEDI3Uj5UCwhCUktJUEtMTkIzMlIfDlYMJk5NRF5UKlI8FCgQPBcXFAAcFRM8FikTBRcV/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Czech Third League - Slovacko Ii Vs Mfk Karvina B [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AClCQktCUU9IIUFWCVRGTjRUVCpSRkk2NVBASjJCDA5SJTBWDhcOVghQNzFIXUZWA0IoViwCKhQsARUWEwAUESwAKxcVARQ=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
       "title": "Danish Cup - Hillerod Fodbold Vs Aarhus Agf [SD]",
       "url": "https://world-proxifier.xyz/rbtv/p/AVBLTDZbVAQ0I1QqUhVOS09UNzZHQgE2R1E0S0dCMzJSEkY1SyQwVgIUAVYuQioWLAAqFRMEHBMtPSoULQMTFBE=/index.m3u8"
     },
@@ -84,29 +77,29 @@
       "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL",
-      "title": "Greek Cup - Kallithea Vs Ofi Crete [HDD A \u0395\u039b\u039b\u0397\u039d\u0399\u039a\u0386]",
-      "url": "https://world-proxifier.xyz/rbtv/p/BCFCQE5CBjAzQihWCFBJS0gnTUBAQjMyUhwBDlIQN0A3VFQqUjwUKBc8FxcVAxwpGjwWKRMFFRE=/index.m3u8"
+      "title": "Egyptian Premier League - Enppi Vs Ismaily Sc [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/Blo-NzdYRklSQzdATFhCNVIZQkRKJEJWLkIASTMjTlY1JlQONlxGTE8oVFIAQihWLAIqFCwBFRUaABweLAArFxUBFQ==/index.m3u8"
     },
     {
       "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL",
-      "title": "Greek Cup - Kallithea Vs Ofi Crete [SD]",
-      "url": "https://world-proxifier.xyz/rbtv/p/BCFCQE5CBjAzQihWCFBJS0gnTUBAQjMyUhwBDlIQN0A3VFQqUjwUKBA8FxcVAxwpGjwWKRMFFRM=/index.m3u8"
+      "title": "Greek Cup - Asteras Aktor Vs Olympiakos Piraeus [HDD A \u0395\u039b\u039b\u0397\u039d\u0399\u039a\u0386]",
+      "url": "https://world-proxifier.xyz/rbtv/p/BCFCQE5CBjAzQihWAiYxQDFQMFYCXjE2MUIzMlIcSTxMI05ETiIwVlNYN0REJDBWLkIqFiwHKhUTBRUeFAYqFC0DExIt/index.m3u8"
     },
     {
       "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL",
-      "title": "Greek Cup - Volos Nps Vs Atromitos Athens [HDD A \u0395\u039b\u039b\u0397\u039d\u0399\u039a\u0386]",
-      "url": "https://world-proxifier.xyz/rbtv/p/BCFCQE5CBjAzQihWVSJJNjZCCVdWQjMyUhIxNTJcTjMyJlQGN1tCSTZCKFYsAioTLAEVES0CExMsACsXFQMc/index.m3u8"
+      "title": "Greek Cup - Asteras Aktor Vs Olympiakos Piraeus [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/BCFCQE5CBjAzQihWAiYxQDFQMFYCXjE2MUIzMlIcSTxMI05ETiIwVlNYN0REJDBWLkIqFiwAKhUTBRUeFAYqFC0DExUQ/index.m3u8"
     },
     {
       "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL",
-      "title": "Greek Cup - Volos Nps Vs Atromitos Athens [SD]",
-      "url": "https://world-proxifier.xyz/rbtv/p/BCFCQE5CBjAzQihWVSJJNjZCCVdWQjMyUhIxNTJcTjMyJlQGN1tCSTZCKFYsAioULAEVES0CExMsACsXFQMQ/index.m3u8"
+      "title": "Kazakhstan Premier League - Tobol Kostanai Vs Ordabasy [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CFA_RE5bMDNAXVRXMVRKTEQhVA1EUEwwREIoVlciRzZPQg42NidGSUBYVDE2Qgo1R1BHRDYoVCpSPBQoEDwXFhEAFRUXPBYpEwUXKQ==/index.m3u8"
     },
     {
       "type": "segment",
@@ -126,8 +119,8 @@
       "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL",
-      "title": "Russian Cup - Fk Kuban Kholding Vs Volga Ulyanovsk [SD]",
-      "url": "https://world-proxifier.xyz/rbtv/p/USQwMkhQS1YAJDVWLkIBDFIYMkVAXVQMSyJJQ0hdTFY1JlRRMl9MRFJESTxAXTQxNl5UKlI8FCgQPBcXFQEWEhU8FikTBRUQ/index.m3u8"
+      "title": "Portuguese Liga 3 - S. Joao Ver Vs Maerkou [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/UyI3MzRaMkA2VFQNSFpGVhBCKFZWP1QPMlA0VlVUN1Y1JlRIQFQ3SjIkVCpSPBQoEDwXFxEFHBMSPBYpEwUXEw==/index.m3u8"
     },
     {
       "type": "segment",
@@ -140,8 +133,22 @@
       "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL",
+      "title": "Russian Cup - Volgar-Gazprom Astrachan Vs Neftekhimik Nizhnekamsk [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/USQwMkhQS1YAJDVWLkJTNk9aRjUuFEY9MyE0SFISMDMxUEBPQF1UMTZCCUBFJ0JKS1hKTE5CCUw5W0tATlBKMk5CKFYsAioULAEVEREBFxMsACsXFQET/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
       "title": "South Africa Premier Soccer League - Lamontville Golden Arrows Vs Mamelodi Sundowns [HDD A]",
       "url": "https://world-proxifier.xyz/rbtv/p/ViIyM0tCBEExWEBEUkM3QExYQjVSRjRCRlQ3VglURk40VFQqUhlGSDJdMTFIX0lAUhQ0S0dUS1YCITc2OiZUMTZCCERMVEk2R1hUUjRdQTY6XTBWLkIqFiwHKhUTBiseFQUqFC0DExQX/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Turkish First League - Erzurum Bb Vs Keciorengucu [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/VyQ3SkgmTVYHWDcyN0IPQEBaMkBSPlQCMSkyNTRcVAcDQjMyUhhCQkgiN0BNWjJCNEIoViwCKhQsARUXEwAWECwAKxcVARA=/index.m3u8"
     },
     {
       "type": "segment",
@@ -191,20 +198,6 @@
       "group_title": "VOLLEYBALL",
       "title": "Beach Pro Tour - Elite16 | Rio De Janeiro Vs Classification | Court 2 [LALIGA]",
       "url": "https://world-proxifier.xyz/rbtv/p/A1RGQktCVTUyQlE2NCFUKlIWSUw3VBQTUi9UVUgiVENEQg1ETVRONTJCMzJSEElENiZOQUhWRjNIIktWP0IGNjQhMVYTQihWLAIWKBM9KxYsAhweEgAWECwHFB4WBRw=/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
-      "group_title": "VOLLEYBALL",
-      "title": "Livoli Divisi Utama - Putra: Ganeksa Bhumikarta Vs  Tni Au Electric [VDO]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CVgzNk9YVAVIJU4ySEJSM0BcRlYuQlUwNyFGH1IURklEXjBEUhNNMExYSEQxJ0ZWNSZUVlcfDFYCRFQCT1RAMzFYQFYuQioWEDwVKS0CKhYaChQUEAYqExIKESkR/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
-      "group_title": "VOLLEYBALL",
-      "title": "Livoli Divisi Utama - Putra: Indomaret  Vs  Samator [VDO]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CVgzNk9YVAVIJU4ySEJSM0BcRlYuQlUwNyFGH1IaS0MyXEY1RCdUVjUmVFZWUEpENyI3Vi5CKhYQPBUpLQIqFhoKFBQQByoTEgoQERE=/index.m3u8"
     }
   ],
   "events": [],
