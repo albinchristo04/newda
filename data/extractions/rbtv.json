@@ -1,19 +1,9 @@
 {
-  "timestamp": "2025-09-24T05:48:58.622801",
+  "timestamp": "2025-09-24T06:23:13.526253",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
   "events": [
-    {
-      "event_time": "01:10PM",
-      "event_date": "09/24/25",
-      "channel_name": "VDO",
-      "event_title": "Korea Open, Women, Singles - Saloni Samirbhai Mehta Vs Ciou-Tong Tung (09/24/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlJGRksyXU5WVlBKTDFRTURIQghASydGVjUmVARIIjIqVyJLTlJHMklKQihWLAIVKBM9KxYsAhwRGgoSESwHFB4RBRQ=/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-      "group_title": "BADMINTON"
-    },
     {
       "event_time": "01:25PM",
       "event_date": "09/24/25",
@@ -25,53 +15,44 @@
       "group_title": "BADMINTON"
     },
     {
-      "event_time": "11:55AM",
+      "event_time": "02:10PM",
       "event_date": "09/24/25",
       "channel_name": "VDO",
-      "event_title": "Atp Tokyo, Japan Men Singles - Yosuke Watanuki Vs Nuno Borges (09/24/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VFwyJjJKREJcRDdQSzBOWFQxNkIJME0iVAcyIUxANkIoViwAKhctPRQoEgoTHhUDFSgXAhwVFgI=/index.m3u8",
+      "event_title": "Korea Open, Women, Singles - Kim Ga-Eun Vs Goh Jin Wei (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlIYTkhSFEYqRCRLVjUmVAAyW1QPSF1UXkRYVCpSPBQXLAMrKRI8FB4VChwQETwRFhoBER4=/index.m3u8",
       "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+      "group_title": "BADMINTON"
     },
     {
-      "event_time": "11:55AM",
+      "event_time": "02:15PM",
       "event_date": "09/24/25",
-      "channel_name": "MOVISTAR2",
-      "event_title": "Atp Tokyo, Japan Men Singles - Yosuke Watanuki Vs Nuno Borges (09/24/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VFwyJjJKREJcRDdQSzBOWFQxNkIJME0iVAcyIUxANkIoViwAKhctPRQoEgoTHhUDFSgXAhwSFwA=/index.m3u8",
+      "channel_name": "VDO",
+      "event_title": "Korea Open, Mixed Doubles - Shimogami Y / Hobara S Vs Jaglan M / Jaglan L (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WDlg9QEdCBzY0UUlANkIoVlZbTkgyWkZISEJeVixCAzZBUDdEUkZUMTZCDURKX0ZJUh5UKFIbRk5PUEtWCUIoViwCFSgTPSsWLAIcHi09KxQsBxQeEQUV/index.m3u8",
       "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+      "group_title": "BADMINTON"
     },
     {
-      "event_time": "11:55AM",
+      "event_time": "02:30PM",
       "event_date": "09/24/25",
-      "channel_name": "HDD A",
-      "event_title": "Atp Tokyo, Japan Men Singles - Yosuke Watanuki Vs Nuno Borges (09/24/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VFwyJjJKREJcRDdQSzBOWFQxNkIJME0iVAcyIUxANkIoViwAKhMsAhwRGgUVFywDERAVBRM=/index.m3u8",
+      "channel_name": "VDO",
+      "event_title": "Korea Open, Women, Singles - Anupama Upadhyaya Vs Putri Kusuma Wardani (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlISSzAzUEpEUkQ1REdbPkQ4UFQxNkJVMDchTlYIJDAwTFBUXkAhQURNWFQqUjwUFywDKykSPBQeFQocEBI8ERYaARIS/index.m3u8",
       "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+      "group_title": "BADMINTON"
     },
     {
-      "event_time": "11:55AM",
+      "event_time": "02:00PM",
       "event_date": "09/24/25",
-      "event_title": "Atp Tokyo, Japan Men Singles - Yosuke Watanuki Vs Nuno Borges (09/24/25) [STREAM 3[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VFwyJjJKREJcRDdQSzBOWFQxNkIJME0iVAcyIUxANkIoViwAKhcsAhwRGgUVFywDERAVBCs=/index.m3u8",
+      "channel_name": "SD",
+      "event_title": "Fiba U16 Women'S Asian Championship - Korea U16 Women Vs Philippines U16 Women (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/BxoFBlJEFBNSSjRIRF0iMlISMExAXVQES1BKN0giSzJLWDVWLkIONjFURlZUAhFWWiJKQE1CMzJSQ01MT1g1N0hdQjJSRBQTUko0SERdVCpSPBUoEDwUHhUFEh4tPBUTFAorFg==/index.m3u8",
       "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "12:15PM",
-      "event_date": "09/24/25",
-      "channel_name": "HDD A",
-      "event_title": "Atp Tokyo, Japan Men Double - Maximo Gonzalez/Andres Molteni Vs Machac T / Peers J (09/24/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSETQwQV9CVi5CCEQ7WEo2UhQ0STlQSUA5PARJRyFCMlIeNEs3VEtMUiUwVg5QQE9AVlRTUjxUV0RUNzJSG1QqUjwWKBc8FB4VChIeFzwVExQFHBY=/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL"
     },
     {
       "event_time": "12:25PM",
@@ -104,11 +85,21 @@
       "group_title": "TENNIS"
     },
     {
-      "event_time": "01:50PM",
+      "event_time": "02:20PM",
       "event_date": "09/24/25",
       "channel_name": "HDD B",
-      "event_title": "Atp Tokyo, Japan Men Double - Ruud C / Thompson J Vs Bopanna R / Yuzuki T (09/24/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSETQwQV9CVi5CVzA0V1QEUjxUU0siSjc2IktWC0IzMlITNDdAXUtEUkFUKFJIMj00Xk5WV0IoViwAKhMsAhwRGgQcKSwDERAVChI=/index.m3u8",
+      "event_title": "Wta Beijing, China Women Singles - Priscilla Hon Vs Viktorija Golubic (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlRXMVgwQkhfSURSFTRJUiUwVlVYSDMyIU5NQEICNk8kR0xGQihWLAAqEywCHB4tBhQTLAMREBo9Fw==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "02:20PM",
+      "event_date": "09/24/25",
+      "channel_name": "HDD B",
+      "event_title": "Wta Beijing, China Women Singles - Ruien Zhang Vs Eva Lys (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlRVNFhCSVJJTURNWlQxNkIAMUBCDzw2QihWLAAqEywCHBEaCisWLAMREBo9Fg==/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
@@ -132,23 +123,19 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
       "group_title": "VOLLEYBALL"
+    },
+    {
+      "event_time": "02:00PM",
+      "event_date": "09/24/25",
+      "channel_name": "VDO",
+      "event_title": "Livoli Divisi Utama - Putra: Ganevo Yogya Vs  Pasundan (09/24/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CVgzNk9YVAVIJU4ySEJSM0BcRlYuQlUwNyFGH1IURklEJTRWWCJMPEBCMzJSQlVENiRLQ0BdVCpSPBQULAMrKRI8FB4aAhYUETwRFhoGExc=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
+      "group_title": "VOLLEYBALL"
     }
   ],
   "grouped_events": {
-    "Korea Open, Women, Singles - Saloni Samirbhai Mehta Vs Ciou-Tong Tung (09/24/25)": {
-      "event_title": "Korea Open, Women, Singles - Saloni Samirbhai Mehta Vs Ciou-Tong Tung (09/24/25)",
-      "event_time": "01:10PM",
-      "event_date": "09/24/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlJGRksyXU5WVlBKTDFRTURIQghASydGVjUmVARIIjIqVyJLTlJHMklKQihWLAIVKBM9KxYsAhwRGgoSESwHFB4RBRQ=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "Korea Open, Women, Singles - Pai Yu-Po Vs Tereza Svabikova (09/24/25)": {
       "event_title": "Korea Open, Women, Singles - Pai Yu-Po Vs Tereza Svabikova (09/24/25)",
       "event_time": "01:25PM",
@@ -163,56 +150,58 @@
         }
       ]
     },
-    "Atp Tokyo, Japan Men Singles - Yosuke Watanuki Vs Nuno Borges (09/24/25)": {
-      "event_title": "Atp Tokyo, Japan Men Singles - Yosuke Watanuki Vs Nuno Borges (09/24/25)",
-      "event_time": "11:55AM",
+    "Korea Open, Women, Singles - Kim Ga-Eun Vs Goh Jin Wei (09/24/25)": {
+      "event_title": "Korea Open, Women, Singles - Kim Ga-Eun Vs Goh Jin Wei (09/24/25)",
+      "event_time": "02:10PM",
       "event_date": "09/24/25",
       "category": null,
       "channels": [
         {
           "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VFwyJjJKREJcRDdQSzBOWFQxNkIJME0iVAcyIUxANkIoViwAKhctPRQoEgoTHhUDFSgXAhwVFgI=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "MOVISTAR2",
-          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VFwyJjJKREJcRDdQSzBOWFQxNkIJME0iVAcyIUxANkIoViwAKhctPRQoEgoTHhUDFSgXAhwSFwA=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VFwyJjJKREJcRDdQSzBOWFQxNkIJME0iVAcyIUxANkIoViwAKhMsAhwRGgUVFywDERAVBRM=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlIYTkhSFEYqRCRLVjUmVAAyW1QPSF1UXkRYVCpSPBQXLAMrKRI8FB4VChwQETwRFhoBER4=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
           "duration": null
         }
       ]
     },
-    "Atp Tokyo, Japan Men Singles - Yosuke Watanuki Vs Nuno Borges (09/24/25) [STREAM 3[HD]]": {
-      "event_title": "Atp Tokyo, Japan Men Singles - Yosuke Watanuki Vs Nuno Borges (09/24/25) [STREAM 3[HD]]",
-      "event_time": "11:55AM",
+    "Korea Open, Mixed Doubles - Shimogami Y / Hobara S Vs Jaglan M / Jaglan L (09/24/25)": {
+      "event_title": "Korea Open, Mixed Doubles - Shimogami Y / Hobara S Vs Jaglan M / Jaglan L (09/24/25)",
+      "event_time": "02:15PM",
       "event_date": "09/24/25",
       "category": null,
       "channels": [
         {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VFwyJjJKREJcRDdQSzBOWFQxNkIJME0iVAcyIUxANkIoViwAKhcsAhwRGgUVFywDERAVBCs=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WDlg9QEdCBzY0UUlANkIoVlZbTkgyWkZISEJeVixCAzZBUDdEUkZUMTZCDURKX0ZJUh5UKFIbRk5PUEtWCUIoViwCFSgTPSsWLAIcHi09KxQsBxQeEQUV/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
           "duration": null
         }
       ]
     },
-    "Atp Tokyo, Japan Men Double - Maximo Gonzalez/Andres Molteni Vs Machac T / Peers J (09/24/25)": {
-      "event_title": "Atp Tokyo, Japan Men Double - Maximo Gonzalez/Andres Molteni Vs Machac T / Peers J (09/24/25)",
-      "event_time": "12:15PM",
+    "Korea Open, Women, Singles - Anupama Upadhyaya Vs Putri Kusuma Wardani (09/24/25)": {
+      "event_title": "Korea Open, Women, Singles - Anupama Upadhyaya Vs Putri Kusuma Wardani (09/24/25)",
+      "event_time": "02:30PM",
       "event_date": "09/24/25",
       "category": null,
       "channels": [
         {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSETQwQV9CVi5CCEQ7WEo2UhQ0STlQSUA5PARJRyFCMlIeNEs3VEtMUiUwVg5QQE9AVlRTUjxUV0RUNzJSG1QqUjwWKBc8FB4VChIeFzwVExQFHBY=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlISSzAzUEpEUkQ1REdbPkQ4UFQxNkJVMDchTlYIJDAwTFBUXkAhQURNWFQqUjwUFywDKykSPBQeFQocEBI8ERYaARIS/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Fiba U16 Women'S Asian Championship - Korea U16 Women Vs Philippines U16 Women (09/24/25)": {
+      "event_title": "Fiba U16 Women'S Asian Championship - Korea U16 Women Vs Philippines U16 Women (09/24/25)",
+      "event_time": "02:00PM",
+      "event_date": "09/24/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/BxoFBlJEFBNSSjRIRF0iMlISMExAXVQES1BKN0giSzJLWDVWLkIONjFURlZUAhFWWiJKQE1CMzJSQ01MT1g1N0hdQjJSRBQTUko0SERdVCpSPBUoEDwUHhUFEh4tPBUTFAorFg==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
           "duration": null
         }
       ]
@@ -259,15 +248,29 @@
         }
       ]
     },
-    "Atp Tokyo, Japan Men Double - Ruud C / Thompson J Vs Bopanna R / Yuzuki T (09/24/25)": {
-      "event_title": "Atp Tokyo, Japan Men Double - Ruud C / Thompson J Vs Bopanna R / Yuzuki T (09/24/25)",
-      "event_time": "01:50PM",
+    "Wta Beijing, China Women Singles - Priscilla Hon Vs Viktorija Golubic (09/24/25)": {
+      "event_title": "Wta Beijing, China Women Singles - Priscilla Hon Vs Viktorija Golubic (09/24/25)",
+      "event_time": "02:20PM",
       "event_date": "09/24/25",
       "category": null,
       "channels": [
         {
           "channel_name": "HDD B",
-          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSETQwQV9CVi5CVzA0V1QEUjxUU0siSjc2IktWC0IzMlITNDdAXUtEUkFUKFJIMj00Xk5WV0IoViwAKhMsAhwRGgQcKSwDERAVChI=/index.m3u8",
+          "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlRXMVgwQkhfSURSFTRJUiUwVlVYSDMyIU5NQEICNk8kR0xGQihWLAAqEywCHB4tBhQTLAMREBo9Fw==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Beijing, China Women Singles - Ruien Zhang Vs Eva Lys (09/24/25)": {
+      "event_title": "Wta Beijing, China Women Singles - Ruien Zhang Vs Eva Lys (09/24/25)",
+      "event_time": "02:20PM",
+      "event_date": "09/24/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD B",
+          "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlRVNFhCSVJJTURNWlQxNkIAMUBCDzw2QihWLAAqEywCHBEaCisWLAMREBo9Fg==/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
@@ -296,6 +299,20 @@
         {
           "channel_name": "NVR",
           "url": "https://world-proxifier.xyz/rbtv/p/me70m-f7n8bCiMHaUj5Um-vvmOvHifj2UiUwVp7G5Z3E4p_68kIoViwCFigTPSsWLAIcHhIAFhQsBxQeFgUr/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Livoli Divisi Utama - Putra: Ganevo Yogya Vs  Pasundan (09/24/25)": {
+      "event_title": "Livoli Divisi Utama - Putra: Ganevo Yogya Vs  Pasundan (09/24/25)",
+      "event_time": "02:00PM",
+      "event_date": "09/24/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/CVgzNk9YVAVIJU4ySEJSM0BcRlYuQlUwNyFGH1IURklEJTRWWCJMPEBCMzJSQlVENiRLQ0BdVCpSPBQULAMrKRI8FB4aAhYUETwRFhoGExc=/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
           "duration": null
         }
