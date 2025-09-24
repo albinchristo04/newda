@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-24T13:16:11.034341
+Extraction Time: 2025-09-24T13:44:07.111788
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 27
-- Total Channels: 36
+- Unique Events: 22
+- Total Channels: 29
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -18,16 +18,6 @@ EVENT BREAKDOWN:
   Time: 06:20PM, Channels: 1
 - (L) Kelayakan Futsal Piala Asia 2026 - Uae Vs Ban (09/24/25)
   Time: 04:00PM, Channels: 1
-- Azerbaijan First Division - Mingachevir Vs Difai Agsu Fk (09...
-  Time: 07:30PM, Channels: 1
-- Azerbaijan First Division - Sefa Vs Cəbrayıl Fk (09/24/25)
-  Time: 07:30PM, Channels: 1
-- Chinese Football Assorciation U-21 League - Changchun Yatai ...
-  Time: 07:30PM, Channels: 1
-- Russian Cup - Veles Vs Rotor Volgograd (09/24/25)
-  Time: 07:30PM, Channels: 1
-- Turkish First League - Bandirmaspor Vs Manisa Futbol Kulübü ...
-  Time: 07:30PM, Channels: 1
 - Asean Club Championship Shopee Cup - Bg Pathum United Vs Bur...
   Time: 08:00PM, Channels: 3
 - Greek Cup - Kallithea Vs Ofi Crete (09/24/25)
@@ -52,6 +42,8 @@ EVENT BREAKDOWN:
   Time: 09:00PM, Channels: 1
 - Polish Cup - Pogon Grodzisk Mazowiecki Vs Lechia Gdansk (09/...
   Time: 09:15PM, Channels: 2
+- United Arab Emirates Adnoc Pro-League - Khor Fakkan Ssc Vs I...
+  Time: 09:25PM, Channels: 1
 - Premier Padel 2025  - Germany P2 Day 3 Match 3 (09/24/25)
   Time: 07:00PM, Channels: 1
 - Wta Beijing, China Women Singles - Anna Bondar Vs Bianca And...
@@ -64,5 +56,3 @@ EVENT BREAKDOWN:
   Time: 06:55PM, Channels: 1
 - Livoli Divisi Utama - Putra: Indomaret  Vs  Samator (09/24/2...
   Time: 08:00PM, Channels: 1
-- World Championship - Poland Vs Turkey (09/24/25)
-  Time: 08:00PM, Channels: 3
