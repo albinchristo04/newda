@@ -1,13 +1,40 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-24T04:41:26.754122
+Extraction Time: 2025-09-24T04:50:54.393753
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 0
-- Total Channels: 0
+- Unique Events: 13
+- Total Channels: 16
 - Individual Streams: 0
-- Media Segments: 28
+- Media Segments: 0
 - Other Events: 0
 
+EVENT BREAKDOWN:
+- Korea Open, Mixed Doubles - Feng Yanzhe/Huang Dongping Vs Te...
+  Time: 12:30PM, Channels: 1
+- Korea Open, Women, Doubles - Chen Qing Chen/Jia Yi Fan Vs Hs...
+  Time: 12:30PM, Channels: 1
+- Major League Baseball - San Francisco Giants Vs St.Louis Car...
+  Time: 09:45AM, Channels: 1
+- Major League Baseball - San Francisco Giants Vs St.Louis Car...
+  Time: 09:45AM, Channels: 1
+- Mexico Liga Mx - Fc Juarez Vs Pumas U.N.A.M. (09/24/25)
+  Time: 11:00AM, Channels: 2
+- Mexico Liga Mx - Fc Juarez Vs Pumas U.N.A.M. (09/24/25) [STR...
+  Time: 11:00AM, Channels: 1
+- Mexico Liga Mx - Club Leon Vs Mazatlan Fc (09/24/25)
+  Time: 11:05AM, Channels: 1
+- Wta Beijing, China Women Singles - Anastasija Sevastova Vs K...
+  Time: 11:00AM, Channels: 1
+- Wta Beijing, China Women Singles - Mccartney Kessler Vs Han ...
+  Time: 11:00AM, Channels: 1
+- Atp Tokyo, Japan Men Singles - Yosuke Watanuki Vs Nuno Borge...
+  Time: 11:55AM, Channels: 3
+- Atp Tokyo, Japan Men Singles - Yosuke Watanuki Vs Nuno Borge...
+  Time: 11:55AM, Channels: 1
+- Atp Tokyo, Japan Men Double - Maximo Gonzalez/Andres Molteni...
+  Time: 12:15PM, Channels: 1
+- Wta Beijing, China Women Singles - Laura Siegemund Vs Caty M...
+  Time: 12:25PM, Channels: 1

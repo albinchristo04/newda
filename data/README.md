@@ -1,24 +1,29 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Wed Sep 24 04:41:27 UTC 2025
+Last updated: Wed Sep 24 04:50:54 UTC 2025
 
-Workflow run: #105
+Workflow run: #106
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-24T04:41:26.754122
+Extracted at: 2025-09-24T04:50:54.393753
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== MEDIA SEGMENTS (First 10) ===
+=== GROUPED EVENTS BY TITLE ===
 
-1. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WDlg9QEdCBzY0UUlANkIoVgdUS05SSEZJOVtCKAUkRklKQgc2TVo1TE1aVDE2QlFARCFGNUAnMEROJElWU1BIVixCUUREIUYzN1BLREZbRkxSRlQqUjwUFywDKykSPBQeGj0rKRM8ERYaARER/index.m3u8
-2. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VAUyJEdLRCZUKlIQTUBNQlZMTVpUBEtUSygLWEZWWFhUA0BdVDE2QgMyNEJeVgBCKlZWJEtOUkgoAVI-VCgSAyoXLT0UKBIKHCktPRIoFwIcFRcE/index.m3u8
-3. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VAUyJEdLRCZUKlIQTUBNQlZMTVpUBEtUSygLWEZWWFhUA0BdVDE2QgMyNEJeVgBCKlZWJEtOUkgoAVI-VCgSAyoXLT0UKBIKHCktPRIoFwIcFRcE/index.m3u8
-4. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWDFBIS0BdQVYCJ01LRCdOQjZCMzJSFTQwNic0SVISMDMxIjBWLkIqFSwHKhYaBRMeLQQqFxcEExAQ/index.m3u8
-5. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWDFBIS0BdQVYCJ01LRCdOQjZCMzJSFTQwNic0SVISMDMxIjBWLkIqFSwDKhYaBRMeLQQqFxcEExAS/index.m3u8
-6. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgchRklGWDBCMkICTEBdMTJSJTBWVicpDTIkTjJSEEY1R1hLRE8mVCpSPBcoFzwUHhUFHCkXPBUTFAUREg==/index.m3u8
-7. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgchRklGWDBCMkICTEBdMTJSJTBWVicpDTIkTjJSEEY1R1hLRE8mVCpSPBcoEzwUHhUFHCkXPBUTFAUREA==/index.m3u8
-8. https://world-proxifier.xyz/rbtv/p/DlQ9TEYiVA1IWkZWDktUKlIQSTBBQg9AMl1UMTZCCEQ5UDFLQF1UAwBCKFYsAioULAEUHhEDEREsACsXFT0S/index.m3u8
-9. https://world-proxifier.xyz/rbtv/p/DlQ9TEYiVA1IWkZWDktUKlIQSTBBQg9AMl1UMTZCCEQ5UDFLQF1UAwBCKFYsAioULAEUHhEDEREsACsXFT0S/index.m3u8
-10. https://world-proxifier.xyz/rbtv/p/DlQ9TEYiVA1IWkZWDktUKlIXBlYLJEY1RClUMTZCVTBMUDBWVD8JKwI_CCtSPlQoEjwRKBECHBUTBxEoED0VES0G/index.m3u8
+EVENT: Korea Open, Mixed Doubles - Feng Yanzhe/Huang Dongping Vs Teeraratsakul Pak / Taerattanachai S (09/24/25)
+Time: 12:30PM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WDlg9QEdCBzY0UUlANkIoVgdUS05SSEZJOVtCKAUkRklKQgc2TVo1TE1aVDE2QlFARCFGNUAnMEROJElWU1BIVixCUUREIUYzN1BLREZbRkxSRlQqUjwUFywDKykSPBQeGj0rKRM8ERYaARER/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp
+
+================================================================================
+
+EVENT: Korea Open, Women, Doubles - Chen Qing Chen/Jia Yi Fan Vs Hsu Y C / Sung Y-H (09/24/25)
+Time: 12:30PM
+Date: 09/24/25
+Category: None
 ```
