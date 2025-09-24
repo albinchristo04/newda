@@ -1,29 +1,29 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Wed Sep 24 23:14:01 UTC 2025
+Last updated: Wed Sep 24 23:27:50 UTC 2025
 
-Workflow run: #159
+Workflow run: #160
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-24T23:14:01.076357
+Extracted at: 2025-09-24T23:27:49.057650
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
 
-EVENT: Major League Baseball - San Diego Padres Vs Milwaukee Brewers (09/25/25)
-Time: 04:10AM
+EVENT: Major League Baseball - Baltimore Orioles Vs Tampa Bay Rays (09/25/25)
+Time: 06:35AM
 Date: 09/25/25
 Category: None
-Available Channels (1):
+Available Channels (2):
   1. HDK A
-     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhMsAhwRGgYSFiwDERAaChM=/index.m3u8
+     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWA1BJM0hcNDVEQgo1SCJJQDZCMzJSR0ZIM1BUB0AoVFVAKDBWLkIqFSwHKhYaBRwSFAMqFxcFKykW/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
+  2. HDK A
+     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWA1BJM0hcNDVEQgo1SCJJQDZCMzJSR0ZIM1BUB0AoVFVAKDBWLkIqFSwHKhYaBRwSFAMqFxcFKykW/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
 
 ================================================================================
 
-EVENT: Major League Baseball - San Diego Padres Vs Milwaukee Brewers (09/25/25) [STREAM 23[HD]]
-Time: 04:10AM
-Date: 09/25/25
-Category: None
+EVENT: Major League Baseball - Baltimore Orioles Vs Tampa Bay Rays (09/25/25) [STREAM 15[HD]]
 ```
