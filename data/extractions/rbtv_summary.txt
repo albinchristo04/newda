@@ -1,19 +1,23 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-23T23:49:00.849408
+Extraction Time: 2025-09-24T01:10:32.037368
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 27
-- Total Channels: 31
+- Unique Events: 39
+- Total Channels: 48
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
-- Usa: Ncaa - After Vs Further Review (09/24/25)
-  Time: 07:00AM, Channels: 1
+- Usa: Ncaa - Sitake Vs Show (09/24/25)
+  Time: 08:30AM, Channels: 1
+- Korea Open, Mixed Doubles - Kral O / Svabikova T Vs Gao J X ...
+  Time: 09:00AM, Channels: 1
+- Korea Open, Singles - Yushi Tanaka Vs Anthony Sinisuka Ginti...
+  Time: 09:00AM, Channels: 1
 - Major League Baseball - Cincinnati Reds Vs Pittsburgh Pirate...
   Time: 06:40AM, Channels: 1
 - Major League Baseball - Cincinnati Reds Vs Pittsburgh Pirate...
@@ -42,20 +46,34 @@ EVENT BREAKDOWN:
   Time: 07:40AM, Channels: 1
 - Major League Baseball - Chicago Cubs Vs New York Mets (09/24...
   Time: 07:40AM, Channels: 1
+- Major League Baseball - Texas Rangers Vs Minnesota Twins (09...
+  Time: 08:05AM, Channels: 1
+- Major League Baseball - Texas Rangers Vs Minnesota Twins (09...
+  Time: 08:05AM, Channels: 1
 - Women'S National Basketball Association - Minnesota Lynx Vs ...
   Time: 07:30AM, Channels: 2
 - Women'S National Basketball Association - Minnesota Lynx Vs ...
   Time: 07:30AM, Channels: 1
-- The Hundred 2025 (Men) - Birmingham Phoenix V Trent Rockets ...
-  Time: 02:30AM, Channels: 1
-- Conmebol Copa Libertadores - Racing Club De Avellaneda Vs Ve...
-  Time: 06:00AM, Channels: 3
-- Conmebol Copa Libertadores - Racing Club De Avellaneda Vs Ve...
-  Time: 06:00AM, Channels: 1
-- Brazilian Serie B - Sc Paysandu Para Vs Gremio Novorizontino...
-  Time: 06:30AM, Channels: 2
-- Nhl Preseason - Detroit Red Wings Vs Chicago Blackhawks (09/...
-  Time: 07:00AM, Channels: 1
+- Lightweight - Men - Dana White'S Contender Series, Week 7 (0...
+  Time: 08:00AM, Channels: 2
+- Lightweight - Men - Dana White'S Contender Series, Week 7 (0...
+  Time: 08:00AM, Channels: 1
+- Wwe - Wwe Nxt (09/24/25)
+  Time: 08:00AM, Channels: 1
+- Cfu Club Championship - Central Fc Vs Mount Pleasant Fa (09/...
+  Time: 08:00AM, Channels: 1
+- Cfu Club Championship - Juventus Des Cayes Vs Cibao Fc (09/2...
+  Time: 08:00AM, Channels: 2
+- Conmebol Copa Sudamericana - Fluminense Rj Vs Club Atlético ...
+  Time: 08:30AM, Channels: 4
+- Conmebol Copa Sudamericana - Fluminense Rj Vs Club Atlético ...
+  Time: 08:30AM, Channels: 1
+- Brazilian Serie B - Ferroviaria Sp Vs Goiás Ec (09/24/25)
+  Time: 08:35AM, Channels: 2
+- Mexico Liga Mx - Chivas Guadalajara Vs Necaxa (09/24/25)
+  Time: 09:00AM, Channels: 2
+- Mexico Liga Mx - Puebla Vs Pachuca (09/24/25)
+  Time: 09:00AM, Channels: 2
 - Nhl Preseason - Montreal Canadiens Vs Philadelphia Flyers (0...
   Time: 07:00AM, Channels: 1
 - Nhl Preseason - New Jersey Devils Vs New York Islanders (09/...
@@ -66,3 +84,9 @@ EVENT BREAKDOWN:
   Time: 07:00AM, Channels: 1
 - Nhl Preseason - Toronto Maple Leafs Vs Ottawa Senators (09/2...
   Time: 07:00AM, Channels: 1
+- Nhl Preseason - Dallas Stars Vs Minnesota Wild (09/24/25)
+  Time: 08:00AM, Channels: 1
+- Nhl Preseason - Winnipeg Jets Vs Edmonton Oilers (09/24/25)
+  Time: 08:00AM, Channels: 1
+- Nhl Preseason - Calgary Flames Vs Seattle Kraken (09/24/25)
+  Time: 09:00AM, Channels: 1
