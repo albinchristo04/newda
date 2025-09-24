@@ -1,13 +1,48 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-24T07:37:29.074526
+Extraction Time: 2025-09-24T07:49:27.023177
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 0
-- Total Channels: 0
+- Unique Events: 17
+- Total Channels: 21
 - Individual Streams: 0
-- Media Segments: 46
+- Media Segments: 0
 - Other Events: 0
 
+EVENT BREAKDOWN:
+- Korea Open, Singles - Loh Kean Yew Vs Kiran George (09/24/25...
+  Time: 02:50PM, Channels: 1
+- Korea Open, Singles - Lee Cheuk-Yiu Vs Lu Guangzu (09/24/25)
+  Time: 03:15PM, Channels: 1
+- Korea Open, Women, Singles - Yi-Ting Hung Vs Gao Fangjie (09...
+  Time: 03:30PM, Channels: 1
+- Fiba U16 Women'S Asian Championship - Korea U16 Women Vs Phi...
+  Time: 02:00PM, Channels: 1
+- Korean University Basketball League - Korea University Vs My...
+  Time: 03:00PM, Channels: 1
+- China Youth Football League (Men'S U17 Group) - Changsha Cha...
+  Time: 03:00PM, Channels: 1
+- China Youth Football League (Men'S U17 Group) - Hefei Luyang...
+  Time: 03:00PM, Channels: 1
+- Chinese Football Assorciation U-21 League - Kunming City Sta...
+  Time: 03:00PM, Channels: 1
+- Chinese Football Assorciation U-21 League - Qingdao West Coa...
+  Time: 03:00PM, Channels: 1
+- Chinese Football Assorciation U-21 League - Yunnan Yukun U21...
+  Time: 03:00PM, Channels: 1
+- Wta Beijing, China Women Singles - Ashlyn Krueger Vs Maria S...
+  Time: 01:05PM, Channels: 1
+- Wta Beijing, China Women Singles - Elsa Jacquemot Vs Antonia...
+  Time: 02:30PM, Channels: 1
+- Wta Beijing, China Women Singles - Priscilla Hon Vs Viktorij...
+  Time: 02:45PM, Channels: 1
+- Atp Tokyo, Japan Men Singles - Daniel Altmaier Vs Denis Shap...
+  Time: 03:00PM, Channels: 3
+- Wta Beijing, China Women Singles - Barbora Krejcikova Vs Ann...
+  Time: 03:50PM, Channels: 1
+- Livoli Divisi Utama - Putra: Ganevo Yogya Vs  Pasundan (09/2...
+  Time: 02:00PM, Channels: 1
+- World Championship - Italy Vs Belgium (09/24/25)
+  Time: 03:30PM, Channels: 3
