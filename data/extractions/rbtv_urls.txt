@@ -1,15 +1,16 @@
-Extracted at: 2025-09-24T14:13:26.952027
+Extracted at: 2025-09-24T14:33:24.932578
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== MEDIA SEGMENTS (First 10) ===
+=== GROUPED EVENTS BY TITLE ===
 
-1. https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYOWD1AR0JXQE9QPjJSR05IREJRNUhQSVYuQioWFjwVKBIKHBYQABwoEwcSHhEB/index.m3u8
-2. https://world-proxifier.xyz/rbtv/p/JV8sVk5USUQ4UEhETUJDMDcmRktSI05ET1BURDZYRlYTPRUTUj5UMEBUVDE2QkdETUIoViwCKhctPRQoEQMTExIFFigXAhwXFQM=/index.m3u8
-3. https://world-proxifier.xyz/rbtv/p/AiZCRE1CBks0UVQES1BKN0giSzJLWDVWVls0N0RUVAQ0I1QqUhA0SUpCBElSFUZWDyJOVgcQVDE2Qgc8TVBKTEZCA0AxUVQERFEyVi5CKhYsAyspEjwXFxc9FhAUPBEWGgMREw==/index.m3u8
-4. https://world-proxifier.xyz/rbtv/p/AiZCRE1CBks0UVQES1BKN0giSzJLWDVWVls0N0RUVAQ0I1QqUhA0SUpCBElSFUZWDyJOVgcQVDE2Qgc8TVBKTEZCA0AxUVQERFEyVi5CKhYsACoVEwcrFBQEKhQtAxMUEw==/index.m3u8
-5. https://world-proxifier.xyz/rbtv/p/AiZCRE1CBks0UVQES1BKN0giSzJLWDVWVls0N0RUVAQ0I1QqUkZCS0BdTDYxQgEEUiUwVldQSjdIXUIyUkE0MUQhMFYHEFQqUjwUKBM9KxYsARUTEj0cEywHFB4TBxM=/index.m3u8
-6. https://world-proxifier.xyz/rbtv/p/AiZCRE1CBks0UVQES1BKN0giSzJLWDVWVls0N0RUVAQ0I1QqUkZCS0BdTDYxQgEEUiUwVldQSjdIXUIyUkE0MUQhMFYHEFQqUjwUKBA8FxcXAiseFzwWKRMFFhQ=/index.m3u8
-7. https://world-proxifier.xyz/rbtv/p/AilCNUFQTk1AXVQDSCEwM1IRTjFIJk42TUIoVlZQR0RIX1QDAEIzMlJGTURLV0ZOS0JWMDZQN1YuQioWLAAqFRMFFxYXBioULQMTFRo=/index.m3u8
-8. https://world-proxifier.xyz/rbtv/p/ACE0RDdYRklSEDI3Uj5UCwhCUktJUEtMTkIzMlIfDlYMJk5NRF5UKlI8FCgQPBcXFAAcFRM8FikTBRcV/index.m3u8
-9. https://world-proxifier.xyz/rbtv/p/AClCQktCUU9IIUFWCVRGTjRUVCpSRkk2NVBASjJCDA5SJTBWDhcOVghQNzFIXUZWA0IoViwCKhQsARUWEwAUESwAKxcVARQ=/index.m3u8
-10. https://world-proxifier.xyz/rbtv/p/AVBLTDZbVAQ0I1QqUhVOS09UNzZHQgE2R1E0S0dCMzJSEkY1SyQwVgIUAVYuQioWLAAqFRMEHBMtPSoULQMTFBE=/index.m3u8
+EVENT: Cycling World Cup - {'4': [82, 84], '9': 1684371561, '12': 1937334636, '13': 7809639168595748205} (09/24/25) [STREAM 1[HD]]
+Time: 06:20PM
+Date: 09/24/25
+Category: None
+Available Channels (1):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFY-NBcgG0JYERM5VBERTC9WJAoiH1ICERERABIWFgcULVI0FBckC1QWGgASFBABERQXOVQgEgAiH1IEEykaBxYeEgcTEhoGEhUVAysSPEIoViwCECgTPBQeGgIWFBo8FRMUChcV/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp
+
+================================================================================
+

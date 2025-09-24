@@ -1,13 +1,16 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-24T14:13:26.952027
+Extraction Time: 2025-09-24T14:33:24.932578
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 0
-- Total Channels: 0
+- Unique Events: 1
+- Total Channels: 1
 - Individual Streams: 0
-- Media Segments: 28
+- Media Segments: 0
 - Other Events: 0
 
+EVENT BREAKDOWN:
+- Cycling World Cup - {'4': [82, 84], '9': 1684371561, '12': 1...
+  Time: 06:20PM, Channels: 1
