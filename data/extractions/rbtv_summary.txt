@@ -1,13 +1,13 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-24T08:20:55.780941
+Extraction Time: 2025-09-24T08:45:59.937863
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
 - Unique Events: 0
 - Total Channels: 0
 - Individual Streams: 0
-- Media Segments: 25
+- Media Segments: 54
 - Other Events: 0
 

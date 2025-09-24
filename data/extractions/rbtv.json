@@ -1,8 +1,15 @@
 {
-  "timestamp": "2025-09-24T08:20:55.780941",
+  "timestamp": "2025-09-24T08:45:59.937863",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+      "group_title": "BADMINTON",
+      "title": "Korea Open, Singles - Lee Cheuk-Yiu Vs Lu Guangzu [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WVlhLTk9UMFYuQg9AREIGT0QkSCo4WDJWNSZUDTRCAjBAXUw9NEIoViwCFSgTPSsWLAIcERoKERcsBxQeEQQS/index.m3u8"
+    },
     {
       "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
@@ -19,10 +26,45 @@
     },
     {
       "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+      "group_title": "BADMINTON",
+      "title": "Korea Open, Women, Singles - Yeo Jia Min Vs Pornpicha Choeikeewong [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlJIQjZSG05EUh5OSVIlMFZTIjdJM1hAT0BCBk8yVE5KRFQ8Nk1aVCpSPBQXLAMrKRI8FB4VChwQFjwRFhoBEhE=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Fiba U16 Women'S Asian Championship - Japan U16 Women Vs New Zealand Woman U16 [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/BxoFBlJEFBNSSjRIRF0iMlISMExAXVQES1BKN0giSzJLWDVWLkINRDNQS1ZUAhFWWiJKQE1CMzJSH0I-UklCRE9QS0NSSjRIQF1UUBIHVCpSPBUoEDwUHhUFEhEUPBUTFAoVEA==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Fiba U16 Women'S Asian Championship - Japan U16 Women Vs New Zealand Woman U16 [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/BxoFBlJEFBNSSjRIRF0iMlISMExAXVQES1BKN0giSzJLWDVWLkINRDNQS1ZUAhFWWiJKQE1CMzJSH0I-UklCRE9QS0NSSjRIQF1UUBIHVCpSPBUoEDwUHhUFEhEUPBUTFAoVEA==/index.m3u8"
+    },
+    {
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
       "group_title": "BASKETBALL",
       "title": "Korean University Basketball League - Korea University Vs Myongji University [SD]",
       "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBdVFBNWDNAMSZOMzhCBUQ2XkIzQVBJS1IZQkRKJEJWLkIONjFURlZUXU4xRCEwTDcoVDE2Qgg8Ml1MTUhCUklIJUI1NlgxPFI-VCgTPBYoEgocFhMFECgTBxIeEgI=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Korean University Basketball League - Korea University Vs Myongji University [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBdVFBNWDNAMSZOMzhCBUQ2XkIzQVBJS1IZQkRKJEJWLkIONjFURlZUXU4xRCEwTDcoVDE2Qgg8Ml1MTUhCUklIJUI1NlgxPFI-VCgTPBYoEgocFhMFECgTBxIeEgI=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Philippines Mpbl - Bulacan Kuyas Vs Pampanga Lanterns [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/U1tOS0gjNUxNVDBWDkMFDVI-VAc0X0ZCQF1UDDQoRjJSJTBWU1BKN0BdTERSGUZJN1Q3STZCKFYsAyoULAIcEhQCFhIsAxEQGgMW/index.m3u8"
     },
     {
       "type": "segment",
@@ -42,8 +84,29 @@
       "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL",
+      "title": "(L) Kelayakan Futsal Piala Asia 2026 - Uae Vs Ban [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/JV8sVk5USUQ4UEhETUJDMDcmRktSI05ET1BURDZYRlYTPRUTUj5UMEBUVDE2QkdETUIoViwCKhctPRQoEQMTExIFFigXAhwXFQM=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
       "title": "China Youth Football League (Men'S U17 Group) - Changsha Changjun Binjiang Middle School U17 Vs Chongqing No. 1 Middle School U17 [SD]",
       "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUBCXjY0J01WByI0M0FQSUtSGUJESiRCViUeQkkkJlRQEgRUADEiMjcqQihWAFtGSUomTURSEE1ETVpPME1CBUxNWU5ETVpUCkhXQUtEQlBCSyI0S1JEFBBSJTBWAFs0SUogTklKQgk2L0IUVg5YQUNPVFRSRls0Nk9CUhYUQihWLAIqFCwBFREWAhwULAArFxUCFQ==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "China Youth Football League (Men'S U17 Group) - Changsha Changjun Binjiang Middle School U17 Vs Chongqing No. 1 Middle School U17 [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUBCXjY0J01WByI0M0FQSUtSGUJESiRCViUeQkkkJlRQEgRUADEiMjcqQihWAFtGSUomTURSEE1ETVpPME1CBUxNWU5ETVpUCkhXQUtEQlBCSyI0S1JEFBBSJTBWAFs0SUogTklKQgk2L0IUVg5YQUNPVFRSRls0Nk9CUhYUQihWLAIqFCwBFREWAhwULAArFxUCFQ==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "China Youth Football League (Men'S U17 Group) - Hefei Luyang Senior High School U17 Vs Meizhou Hakka U17 [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUBCXjY0J01WByI0M0FQSUtSGUJESiRCViUeQkkkJlRQEgRUADEiMjcqQihWBVRDQEhCDzA4UEtOUkZCSUgiN1YFWExPUkZATzIiSVZUAhJWNSZUCkRYP08yJFQBQF5IRFJEFBBSPlQoEjwWKBEDExISChcoED0VERI9/index.m3u8"
     },
     {
       "type": "segment",
@@ -63,6 +126,20 @@
       "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL",
+      "title": "Chinese Football Assorciation U-21 League - Kunming City Star U21 Vs Guangxi Pingguo Haliao U21 [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1ISMDIyIUBMQCdONk1CUioTAlQNRFBMMERCKFYIJEtISF1MVgBYMTxSRjFEMUJSFxJCMzJSFDJETVo9TFJDTklKWjI2UhVGS0hQNFZUAxRWLkIqFiwAKhUTBRQSFQEqFC0DExYS/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Chinese Football Assorciation U-21 League - Qingdao West Coast U21 Vs Meizhou Hakka U21 [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1ISMDIyIUBMQCdONk1CUioTAlQNRFBMMERCKFZQWEtOR1A0VlpUMDNSEDRENidUUBMCVDE2QghASClNNjRCA0ROXkZWVAMUVi5CKhYsACoVEwUUEhUAKhQtAxMpFQ==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
       "title": "Chinese Football Assorciation U-21 League - Qingdao West Coast U21 Vs Meizhou Hakka U21 [SD]",
       "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1ISMDIyIUBMQCdONk1CUioTAlQNRFBMMERCKFZQWEtOR1A0VlpUMDNSEDRENidUUBMCVDE2QghASClNNjRCA0ROXkZWVAMUVi5CKhYsACoVEwUUEhUAKhQtAxMpFQ==/index.m3u8"
     },
@@ -72,6 +149,34 @@
       "group_title": "FOOTBALL",
       "title": "Chinese Football Assorciation U-21 League - Yunnan Yukun U21 Vs Shanghai Shenhua U21 [SD]",
       "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1ISMDIyIUBMQCdONk1CUioTAlQNRFBMMERCKFZYJEtJQF1UXDReMklSRBUWUiUwVlZbRklKW0ZMUkZNQE1bMkRSRBUWUj5UKBI8FigRAxMWFgoUKBA9FREtCg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Chinese Football Assorciation U-21 League - Yunnan Yukun U21 Vs Shanghai Shenhua U21 [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1ISMDIyIUBMQCdONk1CUioTAlQNRFBMMERCKFZYJEtJQF1UXDReMklSRBUWUiUwVlZbRklKW0ZMUkZNQE1bMkRSRBUWUj5UKBI8FigRAxMWFgoUKBA9FREtCg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Atp Tokyo, Japan Men Singles - Daniel Altmaier Vs Denis Shapovalov [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VAVAXU5AT0IESzdcRkxEIVQxNkIHQE1YMFZWW0Y3MiVGSzIlVCpSPBYoEz0rFiwCHBEaBRUTLAcUHhYEEg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Atp Tokyo, Japan Men Singles - Daniel Altmaier Vs Denis Shapovalov [MOVISTAR2]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VAVAXU5AT0IESzdcRkxEIVQxNkIHQE1YMFZWW0Y3MiVGSzIlVCpSPBYoEz0rFiwCHBEaBRUTLAcUHhYHKw==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Atp Tokyo, Japan Men Singles - Daniel Altmaier Vs Denis Shapovalov [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VAVAXU5AT0IESzdcRkxEIVQxNkIHQE1YMFZWW0Y3MiVGSzIlVCpSPBYoFzwUHhUKExcXPBUTFAoUEg==/index.m3u8"
     },
     {
       "type": "segment",
@@ -112,8 +217,50 @@
       "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS",
+      "title": "Atp Tokyo, Japan Men Singles - Marton Fucsovics Vs Frances Tiafoe [HDD B]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VApAITE2TUIBMEYmNDFIVjBWNSZUAzFQS0JEJlRTSFBDNkRCKFYsACoTLAIcHi0BHBMsAxEQGgMT/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Atp Tokyo, Japan Men Singles - Marton Fucsovics Vs Frances Tiafoe [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VApAITE2TUIBMEYmNDFIVjBWNSZUAzFQS0JEJlRTSFBDNkRCKFYsACoXLT0UKBIKHCkRChEoFwIcEhQF/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Atp Tokyo, Japan Men Singles - Marton Fucsovics Vs Frances Tiafoe [MOVISTAR2]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VApAITE2TUIBMEYmNDFIVjBWNSZUAzFQS0JEJlRTSFBDNkRCKFYsACoXLT0UKBIKHCkRChEoFwIcEhcC/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Atp Tokyo, Japan Men Singles - Marton Fucsovics Vs Frances Tiafoe [HDD B]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VApAITE2TUIBMEYmNDFIVjBWNSZUAzFQS0JEJlRTSFBDNkRCKFYsACoTLAIcHi0BHBMsAxEQGgMT/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
       "title": "Premier Padel 2025  -  Cupra Germany P2 - Day 3 [VUS]",
       "url": "https://world-proxifier.xyz/rbtv/p/MyFCSEhUN1YzUEFAT0IVKRMGVFYuQlRCNCM3RFJaQjVMUEs8UiMVVi5CQUQ4QhZWLkIqFCwDKykSPBQeGgIWFxc8ERYaBhET/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Premier Padel 2025  -  Cupra Germany P2 - Day 3 [VUS]",
+      "url": "https://world-proxifier.xyz/rbtv/p/MyFCSEhUN1YzUEFAT0IVKRMGVFYuQlRCNCM3RFJaQjVMUEs8UiMVVi5CQUQ4QhZWLkIqFCwDKykSPBQeGgIWFxc8ERYaBhET/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Premier Padel 2025  - Germany P2 Day 3 Match 1 [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/MyFCSEhUN1YzUEFAT0IVKRMGVFYuQkxAMVxGSThCNRdSV0Y8UgBUSEAnQE9SAlQqUjwWKBM9KxYsAhweLQAVECwHFB4QABY=/index.m3u8"
     },
     {
       "type": "segment",
@@ -133,6 +280,13 @@
       "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS",
+      "title": "Wta Beijing, China Women Singles - Ashlyn Krueger Vs Maria Sakkari [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQGNltJPE1CDjU0VExAMUIzMlIeRjVIUFRSQF5IRDFYVCpSPBYoFzwUHhUKEx4aPBUTFAUcEQ==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
       "title": "Wta Beijing, China Women Singles - Katie Boulter Vs Hailey Baptiste [HDD A]",
       "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQMQCdOQFITNDBPJ0I1UiUwVgVQTktEKFQHQCMxTDYnQlYuQioULAcqFhoFHB4SASoXFwQcFxY=/index.m3u8"
     },
@@ -140,8 +294,29 @@
       "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS",
-      "title": "Wta Beijing, China Women Singles - Katie Volynets Vs Peyton Stearns [HDD B]",
-      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQMQCdOQFJFNEs4XUIzNkIzMlJDQjw3IktWVidCRDFdMFYuQioULAcqFhoKKxISBSoXFwQcFxc=/index.m3u8"
+      "title": "Wta Beijing, China Women Singles - Katie Boulter Vs Hailey Baptiste [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQMQCdOQFITNDBPJ0I1UiUwVgVQTktEKFQHQCMxTDYnQlYuQioULAcqFhoFHB4SASoXFwQcFxY=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Wta Beijing, China Women Singles - Polina Kudermetova Vs Maddison Inglis [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlRXMl9OSUBCDjBHVDdIRCc0MUBCMzJSHkZDR1gwNk1CDElKX04yUj5UKBA8ESgSChwpFgMUKBMHEh4QAg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Wta Beijing, China Women Singles - Polina Kudermetova Vs Maddison Inglis [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlRXMl9OSUBCDjBHVDdIRCc0MUBCMzJSHkZDR1gwNk1CDElKX04yUj5UKBA8ESgSChwpFgMUKBMHEh4QAg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Wta Beijing, China Women Singles - Priscilla Hon Vs Viktorija Golubic [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlRXMVgwQkhfSURSFTRJUiUwVlVYSDMyIU5NQEICNk8kR0xGQihWLAAqEywCHB4tBhQTLAMREBoCFQ==/index.m3u8"
     },
     {
       "type": "segment",
@@ -156,6 +331,34 @@
       "group_title": "VOLLEYBALL",
       "title": "Livoli Divisi Utama - Putra: Ganevo Yogya Vs  Pasundan [VDO]",
       "url": "https://world-proxifier.xyz/rbtv/p/CVgzNk9YVAVIJU4ySEJSM0BcRlYuQlUwNyFGH1IURklEJTRWWCJMPEBCMzJSQlVENiRLQ0BdVCpSPBQULAMrKRI8FB4aAhYUETwRFhoGExc=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
+      "group_title": "VOLLEYBALL",
+      "title": "Livoli Divisi Utama - Putra: Ganevo Yogya Vs  Pasundan [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CVgzNk9YVAVIJU4ySEJSM0BcRlYuQlUwNyFGH1IURklEJTRWWCJMPEBCMzJSQlVENiRLQ0BdVCpSPBQULAMrKRI8FB4aAhYUETwRFhoGExc=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
+      "group_title": "VOLLEYBALL",
+      "title": "World Championship - Italy Vs Belgium [LALIGA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/WiI3S0dCBk9AXDVMMl0wT0gjVCpSGjFETyhUMTZCBUBPWk4wTEIoViwCFigTPSsWLAIcERoGKxQsBxQeFgUQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
+      "group_title": "VOLLEYBALL",
+      "title": "World Championship - Italy Vs Belgium [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/WiI3S0dCBk9AXDVMMl0wT0gjVCpSGjFETyhUMTZCBUBPWk4wTEIoViwCFigXPBQeFQoQKRA8FRMUChUp/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
+      "group_title": "VOLLEYBALL",
+      "title": "World Championship - Italy Vs Belgium [HDD B ITALIANO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/WiI3S0dCBk9AXDVMMl0wT0gjVCpSGjFETyhUMTZCBUBPWk4wTEIoViwCFigXPBQeFQoQKRA8FRMUChUW/index.m3u8"
     },
     {
       "type": "segment",
