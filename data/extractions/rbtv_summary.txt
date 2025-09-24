@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-24T11:13:05.531069
+Extraction Time: 2025-09-24T11:26:46.747356
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 23
-- Total Channels: 26
+- Unique Events: 28
+- Total Channels: 31
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -34,6 +34,16 @@ EVENT BREAKDOWN:
   Time: 06:00PM, Channels: 1
 - Polish Cup - Legia Warszawa B Vs Gornik Zabrze (09/24/25)
   Time: 06:30PM, Channels: 1
+- Azerbaijan First Division - Mingachevir Vs Difai Agsu Fk (09...
+  Time: 07:30PM, Channels: 1
+- Azerbaijan First Division - Sefa Vs Cəbrayıl Fk (09/24/25)
+  Time: 07:30PM, Channels: 1
+- Chinese Football Assorciation U-21 League - Changchun Yatai ...
+  Time: 07:30PM, Channels: 1
+- Russian Cup - Veles Vs Rotor Volgograd (09/24/25)
+  Time: 07:30PM, Channels: 1
+- Turkish First League - Bandirmaspor Vs Manisa Futbol Kulübü ...
+  Time: 07:30PM, Channels: 1
 - Premier Padel 2025  -  Cupra Germany P2 - Day 3 (09/24/25)
   Time: 04:00PM, Channels: 1
 - Premier Padel 2025  - Germany P2 Day 3 Match 1 (09/24/25)
