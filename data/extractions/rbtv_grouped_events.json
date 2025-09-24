@@ -27,6 +27,40 @@
       }
     ]
   },
+  "Major League Baseball - Baltimore Orioles Vs Tampa Bay Rays (09/25/25)": {
+    "event_title": "Major League Baseball - Baltimore Orioles Vs Tampa Bay Rays (09/25/25)",
+    "event_time": "06:35AM",
+    "event_date": "09/25/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDK A",
+        "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWA1BJM0hcNDVEQgo1SCJJQDZCMzJSR0ZIM1BUB0AoVFVAKDBWLkIqFSwHKhYaBRwSFAMqFxcFKykW/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "HDK B",
+        "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWA1BJM0hcNDVEQgo1SCJJQDZCMzJSR0ZIM1BUB0AoVFVAKDBWLkIqFSwHKhYaBRwSFAMqFxcFKykX/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Major League Baseball - Baltimore Orioles Vs Tampa Bay Rays (09/25/25) [STREAM 15[HD]]": {
+    "event_title": "Major League Baseball - Baltimore Orioles Vs Tampa Bay Rays (09/25/25) [STREAM 15[HD]]",
+    "event_time": "06:35AM",
+    "event_date": "09/25/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": null,
+        "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWA1BJM0hcNDVEQgo1SCJJQDZCMzJSR0ZIM1BUB0AoVFVAKDBWLkIqFSwDKhYaBRwSFAMqFxcFKykQ/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+        "duration": null
+      }
+    ]
+  },
   "Argentine Reserve League - Ca Talleres De C\u00f3rdoba Reserves Vs Ferro Carril Oeste Reserves (09/25/25)": {
     "event_title": "Argentine Reserve League - Ca Talleres De C\u00f3rdoba Reserves Vs Ferro Carril Oeste Reserves (09/25/25)",
     "event_time": "06:00AM",
@@ -156,6 +190,54 @@
       {
         "channel_name": "SD",
         "url": "https://world-proxifier.xyz/rbtv/p/U1A3REokRjxAXVQENCNUKlIcSUxMI05EUhIwME1WTjZNQjMyUhIxS7HLMUxGIlRTRFxHQDdQNzxSPlQoEjwWKBEDExItABQoED0WFi0E/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Bolivian Primera Division - Jorge Wilstermann Vs Blooming (09/25/25)": {
+    "event_title": "Bolivian Primera Division - Jorge Wilstermann Vs Blooming (09/25/25)",
+    "event_time": "06:30AM",
+    "event_date": "09/25/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/AyJJTDVYRklSQzdMTFQ3RFIRTjFIJk42TUIoVgsiN05EQlxMTyYxQDFcRklNQjMyUhNJNjJcTklKQihWLAIqFCwBFREXBBYeLAArFBIDEA==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Brazilian Serie A - Clube De Regatas Vasco Da Gama Vs Bahia (09/25/25)": {
+    "event_title": "Brazilian Serie A - Clube De Regatas Vasco Da Gama Vs Bahia (09/25/25)",
+    "event_time": "06:30AM",
+    "event_date": "09/25/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/AyFGPUhfTkRNQlBAMVhCVgJCKFYAXzJFREJBQFJBQk5AJ0YyUkVGMkYiVENAQgJETFBUMTZCBURLWEZWLkIqFiwHKhUSARQQFAcqFC0AFBQt/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/AyFGPUhfTkRNQlBAMVhCVgJCKFYAXzJFREJBQFJBQk5AJ0YyUkVGMkYiVENAQgJETFBUMTZCBURLWEZWLkIqFiwAKhUSARQQFAcqFC0AFBcR/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Brazilian Serie A - Gremio (Rs) Vs Botafogo Rj (09/25/25)": {
+    "event_title": "Brazilian Serie A - Gremio (Rs) Vs Botafogo Rj (09/25/25)",
+    "event_time": "06:30AM",
+    "event_date": "09/25/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/AyFGPUhfTkRNQlBAMVhCVgJCKFYEIUJISCJUIVFGLFY1JlQHMidGQTJaNFZRG1QqUjwUKBc8FxYRAhIREzwWKRACFRE=/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
       }
