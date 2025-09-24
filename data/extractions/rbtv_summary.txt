@@ -1,19 +1,17 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-24T16:46:10.691587
+Extraction Time: 2025-09-24T17:13:51.400078
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 56
-- Total Channels: 79
+- Unique Events: 71
+- Total Channels: 99
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
-- Usa: Ncaa - Scott Vs Frost Press Conference (09/24/25)
-  Time: 11:30PM, Channels: 1
 - Major League Baseball - Atlanta Braves Vs Washington Nationa...
   Time: 12:15AM, Channels: 1
 - Major League Baseball - Atlanta Braves Vs Washington Nationa...
@@ -26,6 +24,12 @@ EVENT BREAKDOWN:
   Time: 12:00AM, Channels: 1
 - Romania Basketball Cup - Csa Steaua Turabo Vs Csu Asesoft Pl...
   Time: 12:00AM, Channels: 1
+- Basketball Champions League - Ucam Murcia Cb Vs Elan Chalon-...
+  Time: 01:00AM, Channels: 1
+- Euroleague Women - Galatasaray Women Vs Lmk Sbc Sf Gheorghe ...
+  Time: 01:00AM, Channels: 1
+- Fiba Europe Cup - Kb Bashkimi Vs Anwil Wloclawek (09/25/25)
+  Time: 01:00AM, Channels: 1
 - Fiba Europe Cup - Absheron Bk Vs Anorthosis Famagusta (09/24...
   Time: 11:00PM, Channels: 1
 - Fiba Europe Cup - Corona Brasov Vs Bc Dnipro (09/24/25)
@@ -75,30 +79,58 @@ EVENT BREAKDOWN:
 - Pko Bank Polski Ekstraklasa - Rakow Czestochowa Vs Lech Pozn...
   Time: 12:45AM, Channels: 3
 - Uefa Europa League - Midtjylland Vs Sturm Graz (09/25/25)
-  Time: 12:45AM, Channels: 8
+  Time: 12:45AM, Channels: 7
+- Uefa Europa League - Midtjylland Vs Sturm Graz (09/25/25) [S...
+  Time: 12:45AM, Channels: 1
+- Uefa Europa League - Midtjylland Vs Sturm Graz (09/25/25) [S...
+  Time: 12:45AM, Channels: 1
 - Uefa Europa League - Paok Saloniki Vs Maccabi Tel Aviv (09/2...
-  Time: 12:45AM, Channels: 8
+  Time: 12:45AM, Channels: 7
 - Uefa Europa League - Paok Saloniki Vs Maccabi Tel Aviv (09/2...
   Time: 12:45AM, Channels: 1
 - Uefa Europa League - Paok Saloniki Vs Maccabi Tel Aviv (09/2...
   Time: 12:45AM, Channels: 1
-- Armenian Premier League - Fc Noah Vs Fk Van Charentsavan (09...
-  Time: 11:00PM, Channels: 1
-- Coppa Italia - Parma Vs Spezia (09/24/25)
-  Time: 11:00PM, Channels: 4
+- Finnish Ykkosliiga - Klubi 04 Helsinki Vs Sjk Seinäjoki (09/...
+  Time: 01:00AM, Channels: 1
+- German Frauen Bundesliga - Hoffenheim Women Vs Nurnberg Wome...
+  Time: 01:00AM, Channels: 1
+- German Frauen Bundesliga - Sgs Essen W Vs Koln Women (09/25/...
+  Time: 01:00AM, Channels: 1
+- German Frauen Bundesliga - Vfl Wolfsburg Women Vs Werder Bre...
+  Time: 01:00AM, Channels: 2
+- German Frauen Bundesliga - Vfl Wolfsburg Women Vs Werder Bre...
+  Time: 01:00AM, Channels: 1
+- Qatari Stars Cup - Lusail City Fc Vs Al-Ahli Doha (09/25/25)
+  Time: 01:00AM, Channels: 1
+- Serbian Mozzart Bet Prva Liga - Macva Sabac Vs Dinamo Jug (0...
+  Time: 01:00AM, Channels: 1
+- Spanish La Liga - Getafe Vs Deportivo Alavés (09/25/25)
+  Time: 01:00AM, Channels: 7
+- Spanish La Liga - Getafe Vs Deportivo Alavés (09/25/25) [STR...
+  Time: 01:00AM, Channels: 1
+- Sweden Superettan - Ik Brage Vs Gif Sundsvall (09/25/25)
+  Time: 01:00AM, Channels: 1
+- Sweden Superettan - Ik Oddevold Vs Falkenberg (09/25/25)
+  Time: 01:00AM, Channels: 1
+- Sweden Superettan - Landskrona Bois Vs Kalmar (09/25/25)
+  Time: 01:00AM, Channels: 1
+- Sweden Superettan - Orebro Vs Varbergs Bois Fc (09/25/25)
+  Time: 01:00AM, Channels: 1
+- Switzerland Women'S Division 1 - Fc Luzern Women Vs Grasshop...
+  Time: 01:00AM, Channels: 1
+- Switzerland Women'S Division 1 - Servette Women Vs Aarau (W)...
+  Time: 01:00AM, Channels: 1
+- Turkish First League - Bodrum Fk Vs Belediye Vanspor (09/25/...
+  Time: 01:00AM, Channels: 1
+- Turkish First League - Erokspor Vs Istanbulspor (09/25/25)
+  Time: 01:00AM, Channels: 1
+- Turkish Super League - Kayserispor Vs Besiktas Jk (09/25/25)
+  Time: 01:00AM, Channels: 3
+- Turkish Super League - Kayserispor Vs Besiktas Jk (09/25/25)...
+  Time: 01:00AM, Channels: 2
+- U17 Gulf Cup Of Nations - Qatar U17 Vs Oman U17 (09/25/25)
+  Time: 01:00AM, Channels: 1
 - Coppa Italia - Parma Vs Spezia (09/24/25) [STREAM 5[HD]]
-  Time: 11:00PM, Channels: 1
-- Croatian Cup - Koprivnica Vs Hajduk Split (09/24/25)
-  Time: 11:00PM, Channels: 1
-- Estonian Premium Liiga - Harju Jk Laagri Vs Nomme Jk Kalju (...
-  Time: 11:00PM, Channels: 1
-- Qatari Stars Cup - Umm Salal Vs Al Khor Sc (09/24/25)
-  Time: 11:00PM, Channels: 1
-- Russian Cup - Fk Fankom Vs Fc Ufa (09/24/25)
-  Time: 11:00PM, Channels: 1
-- U17 Gulf Cup Of Nations - Yemen U17 Vs United Arab Emirates ...
-  Time: 11:00PM, Channels: 1
-- Ukrainian Cup - Rukh Vynnyky Vs Polissya Zhytomyr (09/24/25)
   Time: 11:00PM, Channels: 1
 - Polish Cup - Gornik Leczna Vs Cracovia Krakow (09/24/25)
   Time: 11:30PM, Channels: 1
@@ -116,11 +148,9 @@ EVENT BREAKDOWN:
   Time: 12:30AM, Channels: 1
 - Kontinental Hockey League - Lada Togliatti Vs Hc Sochi (09/2...
   Time: 11:00PM, Channels: 1
+- Challenger Atp Challenger Orleans, France Men Singles - Mart...
+  Time: 01:00AM, Channels: 1
 - Premier Padel 2025  - Germany P2 Day 3 Match 3 (09/24/25)
   Time: 07:00PM, Channels: 1
 - Premier Padel 2025  - Germany P2 Day 3 Match 4 (09/24/25)
   Time: 11:00PM, Channels: 1
-- Beach Pro Tour - Elite16 | Rio De Janeiro Vs Classification ...
-  Time: 06:55PM, Channels: 1
-- Beach Pro Tour - Elite16 | Rio De Janeiro Vs Classification ...
-  Time: 06:55PM, Channels: 1
