@@ -1,8 +1,36 @@
 {
-  "timestamp": "2025-09-24T21:13:41.132194",
+  "timestamp": "2025-09-24T21:27:56.155130",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - San Diego Padres Vs Milwaukee Brewers [HDK A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhMsAhwRGgYSFiwDERAaChM=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - San Diego Padres Vs Milwaukee Brewers [STREAM 23[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhcsAhwRGgYSFiwDEREtPSs=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - San Diego Padres Vs Milwaukee Brewers [HDK A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhMsAhwRGgYSFiwDERAaChM=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - San Diego Padres Vs Milwaukee Brewers [STREAM 23[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlBLVgFYQk4yQlVERyFCMlIlMFYOWEk-QCRIQERCBTVEKkI1NkIoViwBKhcsAhwRGgYSFiwDEREtPSs=/index.m3u8"
+    },
     {
       "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
@@ -28,8 +56,92 @@
       "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL",
+      "title": "Ecuadorian Campeonato Serie B - Atletico Vinotinto Vs Cumbaya Fc [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/BlYyREciN0xAXVQEQFw1QDJdRjMyQlBAMVhCVgNCKFYCJ0lAN1hANlJFTkkyJ05JNyJUMTZCBjBMUUY8QEIBBFI-VCgSPBYoEQMREhEDEigQPRYWLQY=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Ecuadorian Campeonato Serie B - Atletico Vinotinto Vs Cumbaya Fc [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/BlYyREciN0xAXVQEQFw1QDJdRjMyQlBAMVhCVgNCKFYCJ0lAN1hANlJFTkkyJ05JNyJUMTZCBjBMUUY8QEIBBFI-VCgSPBYoEQMREhEDEigQPRYWLQY=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
       "title": "Paraguayan Cup - Sportivo Ameliano Vs General Caballero [SD]",
       "url": "https://world-proxifier.xyz/rbtv/p/U1A3REokRjxAXVQENCNUKlJGNTYxJ04xMkIESERfTkRNIlQxNkICQE1UN0RPQgZEQVBJS0QhNFYuQioWLAAqFRMFEBYtPSoULQArERc=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Paraguayan Cup - Sportivo Ameliano Vs General Caballero [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/U1A3REokRjxAXVQENCNUKlJGNTYxJ04xMkIESERfTkRNIlQxNkICQE1UN0RPQgZEQVBJS0QhNFYuQioWLAAqFRMFEBYtPSoULQArERc=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Paraguayan Cup - Sportivo Ameliano Vs General Caballero [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/U1A3REokRjxAXVQENCNUKlJGNTYxJ04xMkIESERfTkRNIlQxNkICQE1UN0RPQgZEQVBJS0QhNFYuQioWLAAqFRMFEBYtPSoULQArERc=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Spanish La Liga - Atletico Madrid Vs Rayo Vallecano [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CBDNPVDFMRiJUCkBXN0xHQjMyUkFGPDJCU0RPX0JCQF00Vi5CKhYsAyspEjwXFy0KERYXPBEWGgYQEw==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Spanish La Liga - Atletico Madrid Vs Rayo Vallecano [MOVISTAR2]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CBDNPVDFMRiJUCkBXN0xHQjMyUkFGPDJCU0RPX0JCQF00Vi5CKhYsAyspEjwXFy0KERYXPBEWGgYQEA==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Spanish La Liga - Atletico Madrid Vs Rayo Vallecano [STREAM 48[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CBDNPVDFMRiJUCkBXN0xHQjMyUkFGPDJCU0RPX0JCQF00Vi5CKhYsAyoVEz0cExIHKhQtABQpFw==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Spanish La Liga - Atletico Madrid Vs Rayo Vallecano [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CBDNPVDFMRiJUCkBXN0xHQjMyUkFGPDJCU0RPX0JCQF00Vi5CKhYsACoVEz0cExIHKhQtACsRFA==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Spanish La Liga - Atletico Madrid Vs Rayo Vallecano [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CBDNPVDFMRiJUCkBXN0xHQjMyUkFGPDJCU0RPX0JCQF00Vi5CKhYsAyspEjwXFy0KERYXPBEWGgYQEw==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Spanish La Liga - Atletico Madrid Vs Rayo Vallecano [MOVISTAR2]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CBDNPVDFMRiJUCkBXN0xHQjMyUkFGPDJCU0RPX0JCQF00Vi5CKhYsAyspEjwXFy0KERYXPBEWGgYQEA==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Spanish La Liga - Atletico Madrid Vs Rayo Vallecano [STREAM 48[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CBDNPVDFMRiJUCkBXN0xHQjMyUkFGPDJCU0RPX0JCQF00Vi5CKhYsAyoVEz0cExIHKhQtABQpFw==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Spanish La Liga - Atletico Madrid Vs Rayo Vallecano [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CBDNPVDFMRiJUCkBXN0xHQjMyUkFGPDJCU0RPX0JCQF00Vi5CKhYsACoVEz0cExIHKhQtACsRFA==/index.m3u8"
     },
     {
       "type": "segment",
@@ -105,22 +217,85 @@
       "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL",
-      "title": "Uefa Europa League - Crvena Zvezda Vs Celtic Fc [STREAM 33[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSEDcxRF1GVlklQj1HUFQxNkIGQE8nTkJSFwZWLkIqFiwDKhUTBxwREAcqFC0AKxUS/index.m3u8"
+      "title": "Spanish La Liga - Real Sociedad Vs Rcd Mallorca [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CV0BAX1RSMlZOQEdQQVY1JlRVABFUCkBfSTYxVkZWLkIqFiwDKykSPBcXLQoRKRE8ERYaABMS/index.m3u8"
     },
     {
       "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL",
-      "title": "Uefa Europa League - Malmo Ff Vs Ludogorets Razgrad [STREAM 8[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSHkZLTCJUAwdCMzJSGTJDMlo0NUQnMFZRUD9OMVBBVi5CKhYsAyoVEwQrFhQFKhQtACsVEw==/index.m3u8"
+      "title": "Spanish La Liga - Real Sociedad Vs Rcd Mallorca [MOVISTAR2]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CV0BAX1RSMlZOQEdQQVY1JlRVABFUCkBfSTYxVkZWLkIqFiwDKykSPBcXLQoRKRE8ERYaARYQ/index.m3u8"
     },
     {
       "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL",
-      "title": "Uefa Europa League - Sc Freiburg Vs Fc Basel 1893 [STREAM 32[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSRgZWByFCTEEkN05SJTBWBxBUB0AmQktSAhMeEEIoViwCKhcsARUQGgEcECwAKxQtASs=/index.m3u8"
+      "title": "Spanish La Liga - Real Sociedad Vs Rcd Mallorca [DAZN ES]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CV0BAX1RSMlZOQEdQQVY1JlRVABFUCkBfSTYxVkZWLkIqFiwDKykSPBcXLQoRKRE8ERYaBBQV/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Spanish La Liga - Real Sociedad Vs Rcd Mallorca [HDD B]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CV0BAX1RSMlZOQEdQQVY1JlRVABFUCkBfSTYxVkZWLkIqFiwHKhUTPRwTLQEqFC0AFCkQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Spanish La Liga - Real Sociedad Vs Rcd Mallorca [STREAM 42[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CV0BAX1RSMlZOQEdQQVY1JlRVABFUCkBfSTYxVkZWLkIqFiwDKhUTPRwTLQEqFC0AFCkT/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Spanish La Liga - Real Sociedad Vs Rcd Mallorca [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CV0BAX1RSMlZOQEdQQVY1JlRVABFUCkBfSTYxVkZWLkIqFiwAKhUTPRwTLQEqFC0AKxEV/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Spanish La Liga - Real Sociedad Vs Rcd Mallorca [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CV0BAX1RSMlZOQEdQQVY1JlRVABFUCkBfSTYxVkZWLkIqFiwDKykSPBcXLQoRKRE8ERYaABMS/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Spanish La Liga - Real Sociedad Vs Rcd Mallorca [MOVISTAR2]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CV0BAX1RSMlZOQEdQQVY1JlRVABFUCkBfSTYxVkZWLkIqFiwDKykSPBcXLQoRKRE8ERYaARYQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Spanish La Liga - Real Sociedad Vs Rcd Mallorca [DAZN ES]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CV0BAX1RSMlZOQEdQQVY1JlRVABFUCkBfSTYxVkZWLkIqFiwDKykSPBcXLQoRKRE8ERYaBBQV/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Spanish La Liga - Real Sociedad Vs Rcd Mallorca [HDD B]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CV0BAX1RSMlZOQEdQQVY1JlRVABFUCkBfSTYxVkZWLkIqFiwHKhUTPRwTLQEqFC0AFCkQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Spanish La Liga - Real Sociedad Vs Rcd Mallorca [STREAM 42[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CV0BAX1RSMlZOQEdQQVY1JlRVABFUCkBfSTYxVkZWLkIqFiwDKhUTPRwTLQEqFC0AFCkT/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Spanish La Liga - Real Sociedad Vs Rcd Mallorca [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CV0BAX1RSMlZOQEdQQVY1JlRVABFUCkBfSTYxVkZWLkIqFiwAKhUTPRwTLQEqFC0AKxEV/index.m3u8"
     }
   ],
   "events": [],
