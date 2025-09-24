@@ -1,46 +1,54 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-24T22:30:40.927481
+Extraction Time: 2025-09-24T22:49:26.638355
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 16
-- Total Channels: 24
+- Unique Events: 20
+- Total Channels: 56
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
 - Major League Baseball - San Diego Padres Vs Milwaukee Brewer...
-  Time: 04:10AM, Channels: 1
+  Time: 04:10AM, Channels: 2
 - Major League Baseball - San Diego Padres Vs Milwaukee Brewer...
-  Time: 04:10AM, Channels: 1
+  Time: 04:10AM, Channels: 2
 - Major League Baseball - Baltimore Orioles Vs Tampa Bay Rays ...
   Time: 06:35AM, Channels: 2
 - Major League Baseball - Baltimore Orioles Vs Tampa Bay Rays ...
-  Time: 06:35AM, Channels: 1
-- Argentine Reserve League - Ca Talleres De Córdoba Reserves V...
-  Time: 06:00AM, Channels: 1
+  Time: 06:35AM, Channels: 2
+- Major League Baseball - Cincinnati Reds Vs Pittsburgh Pirate...
+  Time: 06:40AM, Channels: 2
+- Major League Baseball - Cincinnati Reds Vs Pittsburgh Pirate...
+  Time: 06:40AM, Channels: 2
+- Major League Baseball - Cleveland Guardians Vs Detroit Tiger...
+  Time: 06:40AM, Channels: 2
+- Major League Baseball - Philadelphia Phillies Vs Miami Marli...
+  Time: 06:45AM, Channels: 2
+- Major League Baseball - Philadelphia Phillies Vs Miami Marli...
+  Time: 06:45AM, Channels: 2
 - Brazilian Serie B - Athletic Club Vs Athletico Paranaense (0...
-  Time: 06:00AM, Channels: 2
+  Time: 06:00AM, Channels: 4
 - Brazilian Serie B - Crb Al Vs Botafogo Sp (09/25/25)
-  Time: 06:00AM, Channels: 2
+  Time: 06:00AM, Channels: 4
 - Brazilian Serie B - Vila Nova Vs Cuiaba (09/25/25)
-  Time: 06:00AM, Channels: 2
-- Conmebol Copa Sudamericana - Atletico Mineiro Vs Bolivar (09...
   Time: 06:00AM, Channels: 4
 - Conmebol Copa Sudamericana - Atletico Mineiro Vs Bolivar (09...
-  Time: 06:00AM, Channels: 1
+  Time: 06:00AM, Channels: 8
+- Conmebol Copa Sudamericana - Atletico Mineiro Vs Bolivar (09...
+  Time: 06:00AM, Channels: 2
 - Paraguayan Cup - Olimpia Asuncion Vs Atlético Tembetary (09/...
-  Time: 06:00AM, Channels: 1
+  Time: 06:00AM, Channels: 2
 - Bolivian Primera Division - Jorge Wilstermann Vs Blooming (0...
-  Time: 06:30AM, Channels: 1
-- Brazilian Serie A - Clube De Regatas Vasco Da Gama Vs Bahia ...
   Time: 06:30AM, Channels: 2
+- Brazilian Serie A - Clube De Regatas Vasco Da Gama Vs Bahia ...
+  Time: 06:30AM, Channels: 4
 - Brazilian Serie A - Gremio (Rs) Vs Botafogo Rj (09/25/25)
-  Time: 06:30AM, Channels: 1
+  Time: 06:30AM, Channels: 4
 - Nhl Preseason - Carolina Hurricanes Vs Florida Panthers (09/...
-  Time: 06:00AM, Channels: 1
+  Time: 06:00AM, Channels: 2
 - Nhl Preseason - Carolina Hurricanes Vs Florida Panthers (09/...
-  Time: 06:00AM, Channels: 1
+  Time: 06:00AM, Channels: 2
