@@ -1,84 +1,94 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-24T15:50:03.502619
+Extraction Time: 2025-09-24T16:20:06.589108
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 35
-- Total Channels: 117
+- Unique Events: 40
+- Total Channels: 44
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
+- Major League Baseball - Atlanta Braves Vs Washington Nationa...
+  Time: 12:15AM, Channels: 1
+- Euroleague Women - Miskolc Women Vs Azs Umcs Lublin Women (0...
+  Time: 12:00AM, Channels: 1
+- Fiba Europe Cup - Basketbol Brno Vs Kk Parnu (09/25/25)
+  Time: 12:00AM, Channels: 1
+- Fiba Europe Cup - Cibona Zagreb Vs Hbk Prievidza (09/25/25)
+  Time: 12:00AM, Channels: 1
+- Romania Basketball Cup - Csa Steaua Turabo Vs Csu Asesoft Pl...
+  Time: 12:00AM, Channels: 1
 - Fiba Europe Cup - Absheron Bk Vs Anorthosis Famagusta (09/24...
-  Time: 11:00PM, Channels: 3
+  Time: 11:00PM, Channels: 1
 - Fiba Europe Cup - Corona Brasov Vs Bc Dnipro (09/24/25)
-  Time: 11:00PM, Channels: 3
+  Time: 11:00PM, Channels: 1
 - Lietuvos Krepsinio Lyga - Lietuvos Rytas Vs Gargzdu Sc (09/2...
-  Time: 11:30PM, Channels: 3
+  Time: 11:30PM, Channels: 1
 - Lietuvos Krepsinio Lyga - Zalgiris Vs Siauliai (09/24/25)
-  Time: 11:50PM, Channels: 3
+  Time: 11:50PM, Channels: 1
 - T20 Asia Cup - India Vs Bangladesh (09/24/25) [STREAM 2[HD]]
-  Time: 10:30PM, Channels: 3
-- Azerbaijan First Division - Sabail Fc Vs Shahdagh Qusar (09/...
-  Time: 10:00PM, Channels: 3
-- Croatian Cup - Nk Uljanik Vs Nk Osijek (09/24/25)
-  Time: 10:00PM, Channels: 3
-- Czech Third League - Slovacko Ii Vs Mfk Karvina B (09/24/25)
-  Time: 10:00PM, Channels: 3
-- Egyptian Premier League - Enppi Vs Ismaily Sc (09/24/25)
-  Time: 10:00PM, Channels: 3
-- Greek Cup - Asteras Aktor Vs Olympiakos Piraeus (09/24/25)
-  Time: 10:00PM, Channels: 6
-- Kazakhstan Premier League - Tobol Kostanai Vs Ordabasy (09/2...
-  Time: 10:00PM, Channels: 3
-- Portuguese Liga 3 - S. Joao Ver Vs Maerkou (09/24/25)
-  Time: 10:00PM, Channels: 3
-- Russian Cup - Volgar-Gazprom Astrachan Vs Neftekhimik Nizhne...
-  Time: 10:00PM, Channels: 3
-- Turkish First League - Erzurum Bb Vs Keciorengucu (09/24/25)
-  Time: 10:00PM, Channels: 3
+  Time: 10:30PM, Channels: 1
+- Belarusian Premier League - Fc Gomel Vs Neman Grodno (09/25/...
+  Time: 12:00AM, Channels: 1
+- Czech Cup - Fk Viagem Usti Nad Labem Vs Tescoma Zlin (09/25/...
+  Time: 12:00AM, Channels: 1
+- Greek Cup - Aek Athens Vs Panaitolikos Agrinio (09/25/25)
+  Time: 12:00AM, Channels: 2
+- Greek Cup - Ael Larisa Vs Levadiakos (09/25/25)
+  Time: 12:00AM, Channels: 1
+- Portuguese Liga 3 - Sporting Braga Ii Vs Sanjoanense (09/25/...
+  Time: 12:00AM, Channels: 1
+- Russian Cup - Kristall Mez Borisoglebsk Vs Torpedo Moscow (0...
+  Time: 12:00AM, Channels: 1
+- Serbian Mozzart Bet Superliga - Novi Pazar Vs Radnicki 1923 ...
+  Time: 12:00AM, Channels: 1
+- United Arab Emirates Adnoc Pro-League - Al-Jazira(Uae) Vs Al...
+  Time: 12:15AM, Channels: 1
 - Czech Third League - Benatky Nad Jizerou Vs Banik Most-Sous ...
-  Time: 10:30PM, Channels: 3
+  Time: 10:30PM, Channels: 1
 - Czech Third League - Sk Zapy Vs Jiskra Usti Nad Orlici (09/2...
-  Time: 10:30PM, Channels: 3
+  Time: 10:30PM, Channels: 1
 - Armenian Premier League - Fc Noah Vs Fk Van Charentsavan (09...
-  Time: 11:00PM, Channels: 3
+  Time: 11:00PM, Channels: 1
 - Coppa Italia - Parma Vs Spezia (09/24/25)
-  Time: 11:00PM, Channels: 12
+  Time: 11:00PM, Channels: 4
 - Coppa Italia - Parma Vs Spezia (09/24/25) [STREAM 5[HD]]
-  Time: 11:00PM, Channels: 3
+  Time: 11:00PM, Channels: 1
 - Croatian Cup - Koprivnica Vs Hajduk Split (09/24/25)
-  Time: 11:00PM, Channels: 3
+  Time: 11:00PM, Channels: 1
 - Estonian Premium Liiga - Harju Jk Laagri Vs Nomme Jk Kalju (...
-  Time: 11:00PM, Channels: 3
+  Time: 11:00PM, Channels: 1
 - Qatari Stars Cup - Umm Salal Vs Al Khor Sc (09/24/25)
-  Time: 11:00PM, Channels: 3
+  Time: 11:00PM, Channels: 1
 - Russian Cup - Fk Fankom Vs Fc Ufa (09/24/25)
-  Time: 11:00PM, Channels: 3
+  Time: 11:00PM, Channels: 1
 - Spanish Primera División Rfef - Sabadell Vs Fc Cartagena (09...
-  Time: 11:00PM, Channels: 3
+  Time: 11:00PM, Channels: 1
 - U17 Gulf Cup Of Nations - Yemen U17 Vs United Arab Emirates ...
-  Time: 11:00PM, Channels: 3
-- Ukrainian Cup - Rukh Vynnyky Vs Polissya Zhytomyr (09/24/25)
-  Time: 11:00PM, Channels: 3
+  Time: 11:00PM, Channels: 1
 - Polish Cup - Gornik Leczna Vs Cracovia Krakow (09/24/25)
-  Time: 11:30PM, Channels: 3
+  Time: 11:30PM, Channels: 1
 - Russian Cup - Znamya Truda Vs Chaika Peschanokopskoe (09/24/...
-  Time: 11:30PM, Channels: 3
+  Time: 11:30PM, Channels: 1
 - South Africa Premier Soccer League - Kaizer Chiefs Vs Marumo...
-  Time: 11:30PM, Channels: 3
+  Time: 11:30PM, Channels: 1
 - Danish Cup - Lyngby Vs Fc Copenhagen (09/24/25)
-  Time: 11:45PM, Channels: 3
+  Time: 11:45PM, Channels: 1
+- Kontinental Hockey League - Lokomotiv Yaroslavl Vs Severstal...
+  Time: 12:00AM, Channels: 1
+- Kontinental Hockey League - Neftekhimik Nizhnekamsk Vs Avtom...
+  Time: 12:00AM, Channels: 1
 - Kontinental Hockey League - Lada Togliatti Vs Hc Sochi (09/2...
-  Time: 11:00PM, Channels: 3
+  Time: 11:00PM, Channels: 1
 - Premier Padel 2025  - Germany P2 Day 3 Match 3 (09/24/25)
-  Time: 07:00PM, Channels: 3
+  Time: 07:00PM, Channels: 1
 - Premier Padel 2025  - Germany P2 Day 3 Match 4 (09/24/25)
-  Time: 11:00PM, Channels: 3
+  Time: 11:00PM, Channels: 1
 - Beach Pro Tour - Elite16 | Rio De Janeiro Vs Classification ...
-  Time: 06:55PM, Channels: 3
+  Time: 06:55PM, Channels: 1
 - Beach Pro Tour - Elite16 | Rio De Janeiro Vs Classification ...
-  Time: 06:55PM, Channels: 3
+  Time: 06:55PM, Channels: 1
