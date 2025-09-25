@@ -1,24 +1,16 @@
 {
-  "Korea Open, Women, Singles - An Se-Young Vs Chiu Pin-Chian (09/25/25)": {
-    "event_title": "Korea Open, Women, Singles - An Se-Young Vs Chiu Pin-Chian (09/25/25)",
-    "event_time": "02:25PM",
-    "event_date": "09/25/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "VDO",
-        "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlISS1ZWVCg8MiRLTlIlMFYAW04wUkNOSS4QTUxAXVQqUjwUFywDKykSPBQeGgIXExY8ERYaBxAX/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-        "duration": null
-      }
-    ]
-  },
   "Korea Open, Women, Doubles - Hu L F / Jheng Y C Vs Kim Hye-Jeong/Kong Hee Yong (09/25/25)": {
     "event_title": "Korea Open, Women, Doubles - Hu L F / Jheng Y C Vs Kim Hye-Jeong/Kong Hee Yong (09/25/25)",
     "event_time": "02:30PM",
     "event_date": "09/25/25",
     "category": null,
     "channels": [
+      {
+        "channel_name": "VDO",
+        "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VAUyJEdLRCZUKlIVMlYJQgFWLEINT0RdTFZYQgZWNSZUDEhcVAE4VChNRCJLTiwYNElKQgNAREJeNk1aVCpSPBQXLAMrKRI8FB4aAhUeFTwRFhoHERM=/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+        "duration": null
+      },
       {
         "channel_name": "VDO",
         "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VAUyJEdLRCZUKlIVMlYJQgFWLEINT0RdTFZYQgZWNSZUDEhcVAE4VChNRCJLTiwYNElKQgNAREJeNk1aVCpSPBQXLAMrKRI8FB4aAhUeFTwRFhoHERM=/index.m3u8",
@@ -38,6 +30,32 @@
         "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VAUyJEdLRCZUKlIQTURNWlQES1hLTlIVMkwsSEZJSkIGT0hdTFZXJEtWNSZUUjRdTFZWWzI2UkgySSxIMlYAW05ATUIDMEhCKFYsAhUoEz0rFiwCHB4SAxwULAcUHhcEHA==/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
         "duration": null
+      },
+      {
+        "channel_name": "VDO",
+        "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VAUyJEdLRCZUKlIQTURNWlQES1hLTlIVMkwsSEZJSkIGT0hdTFZXJEtWNSZUUjRdTFZWWzI2UkgySSxIMlYAW05ATUIDMEhCKFYsAhUoEz0rFiwCHB4SAxwULAcUHhcEHA==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Wanderer Promotions - Wanderer Promotions 6 (09/25/25)": {
+    "event_title": "Wanderer Promotions - Wanderer Promotions 6 (09/25/25)",
+    "event_time": "02:00PM",
+    "event_date": "09/25/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/WlBLQ0QhQjVSQzc2TCIxTDJdMFYuQlxETVdCNUQhVFcxIko2N1g0STZCEVYuQioWETwRKBIKHBcRAhcoEwcTFhM9/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/WlBLQ0QhQjVSQzc2TCIxTDJdMFYuQlxETVdCNUQhVFcxIko2N1g0STZCEVYuQioWETwRKBIKHBcRAhcoEwcTFhM9/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
+        "duration": null
       }
     ]
   },
@@ -52,53 +70,99 @@
         "url": "https://world-proxifier.xyz/rbtv/p/WlBLQ0QhQjVSQzc2TCIxTDJdMFYuQlxETVdCNUQhVFcxIko2N1g0STZCEVYuQioWETwVKBIKHBcRAhcoEwcTKRoE/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
         "duration": null
+      },
+      {
+        "channel_name": null,
+        "url": "https://world-proxifier.xyz/rbtv/p/WlBLQ0QhQjVSQzc2TCIxTDJdMFYuQlxETVdCNUQhVFcxIko2N1g0STZCEVYuQioWETwVKBIKHBcRAhcoEwcTKRoE/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
+        "duration": null
       }
     ]
   },
-  "Atp Tokyo, Japan Men Singles - Damir Dzumhur Vs Aleksandar Vukic (09/25/25)": {
-    "event_title": "Atp Tokyo, Japan Men Singles - Damir Dzumhur Vs Aleksandar Vukic (09/25/25)",
-    "event_time": "12:45PM",
+  "Chinese Football Assorciation U-21 League - Beijing Guoan U21 Vs Jiangxi Lushan U21 (09/25/25)": {
+    "event_title": "Chinese Football Assorciation U-21 League - Beijing Guoan U21 Vs Jiangxi Lushan U21 (09/25/25)",
+    "event_time": "03:00PM",
+    "event_date": "09/25/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1ISMDIyIUBMQCdONk1CUioTAlQNRFBMMERCKFYDVE5NSF1MVgQkNERNQlIXEkIzMlIbTkRNWj1MUhkyMktQS1ZUAxRWLkIqFiwAKhUTBBwSGgMqFC0AFB4t/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Chinese Football Assorciation U-21 League - Tianjin Jinmen Tiger U21 Vs Henan Fc U21 (09/25/25)": {
+    "event_title": "Chinese Football Assorciation U-21 League - Tianjin Jinmen Tiger U21 Vs Henan Fc U21 (09/25/25)",
+    "event_time": "03:00PM",
+    "event_date": "09/25/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1ISMDIyIUBMQCdONk1CUioTAlQNRFBMMERCKFZXWEZJSVhLVgtYS0hEXVRTSFpCNVJEFRZSJTBWBVRLRE1CAQRSRBUWUj5UKBI8FigRAxIeFgoUKBA9FhYVCg==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Chinese Football Assorciation U-21 League - Zhejiang Professional Fc U21 Vs Shenzhen Peng City U21 (09/25/25)": {
+    "event_title": "Chinese Football Assorciation U-21 League - Zhejiang Professional Fc U21 Vs Shenzhen Peng City U21 (09/25/25)",
+    "event_time": "03:00PM",
+    "event_date": "09/25/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1ISMDIyIUBMQCdONk1CUioTAlQNRFBMMERCKFZZW0JNSFBLTlJDNzZFVDAySCJLRE9CAQRSRBUWUiUwVlZbQkk5W0JJUkNCSUpCBkw3KFRQEwJUKlI8FCgQPBcXFAoQERQ8FikQAhwW/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1ISMDIyIUBMQCdONk1CUioTAlQNRFBMMERCKFZZW0JNSFBLTlJDNzZFVDAySCJLRE9CAQRSRBUWUiUwVlZbQkk5W0JJUkNCSUpCBkw3KFRQEwJUKlI8FCgQPBcXFAoQERQ8FikQAhwW/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "New Zealand: Bunnings Npc - Hawke'S Bay Vs Auckland (09/25/25)": {
+    "event_title": "New Zealand: Bunnings Npc - Hawke'S Bay Vs Auckland (09/25/25)",
+    "event_time": "03:10PM",
     "event_date": "09/25/25",
     "category": null,
     "channels": [
       {
         "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VAVAXE41UhE_MExbMjVSJTBWAl9CSjZQS0NAIVRRNF5OQlI-VCgQPBEoEgocKRYDFygTBxMpFQc=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Atp Beijing, China Men Singles - Benjamin Bonzi Vs Fabian Marozsan (09/25/25)": {
-    "event_title": "Atp Beijing, China Men Singles - Benjamin Bonzi Vs Fabian Marozsan (09/25/25)",
-    "event_time": "01:00PM",
-    "event_date": "09/25/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "MOVISTAR2",
-        "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSE0JJSVBKTE1CBTZNKU5WNSZUA0BRTkRNQghEMSI_MkBdVCpSPBYoEz0rFiwCHB4tARMSLAcUHhQBEQ==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "url": "https://world-proxifier.xyz/rbtv/p/DxZcVlkWBA0CHwcfUhMySU1YS042QglXAEIoVgVQPEpENDBWA1A-VjUmVAY0VkhLQF1BVi5CKhEsByoWGgorKRI9KhcXBRQWFA==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp",
         "duration": null
       },
       {
         "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSE0JJSVBKTE1CBTZNKU5WNSZUA0BRTkRNQghEMSI_MkBdVCpSPBYoFzwUHho9FxEWPBUTFT0TEA==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "url": "https://world-proxifier.xyz/rbtv/p/DxZcVlkWBA0CHwcfUhMySU1YS042QglXAEIoVgVQPEpENDBWA1A-VjUmVAY0VkhLQF1BVi5CKhEsByoWGgorKRI9KhcXBRQWFA==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp",
         "duration": null
       }
     ]
   },
-  "Atp Tokyo, Japan Men Double - Harrison C / King E Vs Fernando Romboli/Jan Zielinski (09/25/25)": {
-    "event_title": "Atp Tokyo, Japan Men Double - Harrison C / King E Vs Fernando Romboli/Jan Zielinski (09/25/25)",
-    "event_time": "01:20PM",
+  "New Zealand: Bunnings Npc - Hawke'S Bay Vs Auckland (09/25/25) [STREAM 2[HD]]": {
+    "event_title": "New Zealand: Bunnings Npc - Hawke'S Bay Vs Auckland (09/25/25) [STREAM 2[HD]]",
+    "event_time": "03:10PM",
     "event_date": "09/25/25",
     "category": null,
     "channels": [
       {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSETQwQV9CVi5CA0QxIU4yMl1UBFI8VAxIXUxWBkIzMlIXQjVNUEtDMkJXNkxRNEtIPA1ETUJfTERfTkk2Xk5WLkIqFCwHKhYaChQVFgQqFxcFKx4R/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "channel_name": null,
+        "url": "https://world-proxifier.xyz/rbtv/p/DxZcVlkWBA0CHwcfUhMySU1YS042QglXAEIoVgVQPEpENDBWA1A-VjUmVAY0VkhLQF1BVi5CKhEsAyoWGgorKRI9KhcXBRQWEQ==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": null,
+        "url": "https://world-proxifier.xyz/rbtv/p/DxZcVlkWBA0CHwcfUhMySU1YS042QglXAEIoVgVQPEpENDBWA1A-VjUmVAY0VkhLQF1BVi5CKhEsAyoWGgorKRI9KhcXBRQWEQ==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp",
         "duration": null
       }
     ]
@@ -128,6 +192,12 @@
         "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQMQCdCNUhdRlZWWEtMQF40MUBCMzJSEktENidGMkhQVFcyJ0Y3MiVGVi5CKhQsByoWGgUcHi0EKhcXBRQpFg==/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
+      },
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQMQCdCNUhdRlZWWEtMQF40MUBCMzJSEktENidGMkhQVFcyJ0Y3MiVGVi5CKhQsByoWGgUcHi0EKhcXBRQpFg==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
       }
     ]
   },
@@ -137,6 +207,12 @@
     "event_date": "09/25/25",
     "category": null,
     "channels": [
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VA8yIUFETUJRTzJcNTIyXVQxNkIFNUBdQTZNQglETlAwT0hcRlYuQioULAcqFhoFHBETCioXFwUrHho=/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      },
       {
         "channel_name": "HDD A",
         "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VA8yIUFETUJRTzJcNTIyXVQxNkIFNUBdQTZNQglETlAwT0hcRlYuQioULAcqFhoFHBETCioXFwUrHho=/index.m3u8",
@@ -156,6 +232,12 @@
         "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVQFMiRHS0RCKFYOUDdCRF80Vg5USTYsEklAO1BLQ0QhVF01VDdANUIzMlITMlZYQipWDyI3NUhUVARSPlQoEDwRKBIKHCkRAhMoEwcTFi0C/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
+      },
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVQFMiRHS0RCKFYOUDdCRF80Vg5USTYsEklAO1BLQ0QhVF01VDdANUIzMlITMlZYQipWDyI3NUhUVARSPlQoEDwRKBIKHCkRAhMoEwcTFi0C/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
       }
     ]
   },
@@ -165,6 +247,12 @@
     "event_date": "09/25/25",
     "category": null,
     "channels": [
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQKMigySkBCUkJLWE9MTFBUMTZCX080Qg9MTUIoViwAKhMsAhweLQYUKSwDERESPRI=/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      },
       {
         "channel_name": "HDD A",
         "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQKMigySkBCUkJLWE9MTFBUMTZCX080Qg9MTUIoViwAKhMsAhweLQYUKSwDERESPRI=/index.m3u8",
@@ -184,6 +272,12 @@
         "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQKQFpBRE9US0RSFzdARltUMTZCAEtPUFRSRFhBQE9CKFYsACoTLAIcHi0GFBQsAxEREj0T/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
+      },
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQKQFpBRE9US0RSFzdARltUMTZCAEtPUFRSRFhBQE9CKFYsACoTLAIcHi0GFBQsAxEREj0T/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
       }
     ]
   },
@@ -198,18 +292,102 @@
         "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSR0I1RF1AQFISMUhAXUJWNSZUXUtQS05SSU1MOVtCSVI-VCgQPBUpLQIqFhoKFBUSByoTEgoSFRQ=/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
+      },
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSR0I1RF1AQFISMUhAXUJWNSZUXUtQS05SSU1MOVtCSVI-VCgQPBEoEgocFhECESgTBxMWEgY=/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "MOVISTAR2",
+        "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSR0I1RF1AQFISMUhAXUJWNSZUXUtQS05SSU1MOVtCSVI-VCgQPBUpLQIqFhoKFBUSByoTEgoSFRQ=/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSR0I1RF1AQFISMUhAXUJWNSZUXUtQS05SSU1MOVtCSVI-VCgQPBEoEgocFhECESgTBxMWEgY=/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
       }
     ]
   },
   "Atp Tokyo, Japan Men Singles - Alex Michelsen Vs Ethan Quinn (09/25/25)": {
     "event_title": "Atp Tokyo, Japan Men Singles - Alex Michelsen Vs Ethan Quinn (09/25/25)",
-    "event_time": "02:50PM",
+    "event_time": "02:55PM",
+    "event_date": "09/25/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VAZPVD1WDlhAT0RfMEBNQjMyUhYxT0BdVFQ0WEtJUj5UKBA8ESgSChwpFgMWKBMHExYTAg==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VAZPVD1WDlhAT0RfMEBNQjMyUhYxT0BdVFQ0WEtJUj5UKBA8ESgSChwpFgMWKBMHExYTAg==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Atp Tokyo, Japan Men Singles - Casper Ruud Vs Shintaro Mochizuki (09/25/25)": {
+    "event_title": "Atp Tokyo, Japan Men Singles - Casper Ruud Vs Shintaro Mochizuki (09/25/25)",
+    "event_time": "03:00PM",
+    "event_date": "09/25/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "MOVISTAR2",
+        "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VARAJjVAMUJXMDRXVDE2QlBPSF0xRDEiVAoyVk1MOSRITFI-VCgQPBUpLQIqFhoFHBETBSoTEgoRFBI=/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "HDD B",
+        "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VARAJjVAMUJXMDRXVDE2QlBPSF0xRDEiVAoyVk1MOSRITFI-VCgQPBEoEgoTHhUDEygTBxMWEwM=/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Wta Beijing, China Women Singles - Victoria Jimenez Kasintseva Vs Joint Maya (09/25/25)": {
+    "event_title": "Wta Beijing, China Women Singles - Victoria Jimenez Kasintseva Vs Joint Maya (09/25/25)",
+    "event_time": "03:10PM",
     "event_date": "09/25/25",
     "category": null,
     "channels": [
       {
         "channel_name": "HDD B",
-        "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VAZPVD1WDlhAT0RfMEBNQjMyUhYxT0BdVFQ0WEtJUj5UKBA8ESgSChwpFgMWKBMHEykaBw==/index.m3u8",
+        "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlRRSFYxNjFYRlYLWEpATVQ_VghQMExNJzBANVBUMTZCDTZIXTFWDlA-RFI-VCgQPBEoEgocKRYCFCgTBxMWEgA=/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "HDD B",
+        "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlRRSFYxNjFYRlYLWEpATVQ_VghQMExNJzBANVBUMTZCDTZIXTFWDlA-RFI-VCgQPBEoEgocKRYCFCgTBxMWEgA=/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Wta Beijing, China Women Singles - Donna Vekic Vs Cristina Bucsa (09/25/25)": {
+    "event_title": "Wta Beijing, China Women Singles - Donna Vekic Vs Cristina Bucsa (09/25/25)",
+    "event_time": "03:20PM",
+    "event_date": "09/25/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDD B",
+        "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQFMl1LRFJFQkpIVlQxNkIGNUgmMUxNUFQHNFYwRFI-VCgQPBEoEgocKRYCFSgTBxMWEgI=/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "HDD B",
+        "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQFMl1LRFJFQkpIVlQxNkIGNUgmMUxNUFQHNFYwRFI-VCgQPBEoEgocKRYCFSgTBxMWEgI=/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
       }
@@ -221,6 +399,12 @@
     "event_date": "09/25/25",
     "category": null,
     "channels": [
+      {
+        "channel_name": "VDO",
+        "url": "https://world-proxifier.xyz/rbtv/p/CVgzNk9YVAVIJU4ySEJSM0BcRlYuQlUwNyFGH1IURklEXjBEUhNNMExYSEQxJ0ZWNSZUVgRQS0A1IlRcMlo-RFI-VCgSACoXLT0UKBIKHBcQAhAoFwIcExUE/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
+        "duration": null
+      },
       {
         "channel_name": "VDO",
         "url": "https://world-proxifier.xyz/rbtv/p/CVgzNk9YVAVIJU4ySEJSM0BcRlYuQlUwNyFGH1IURklEXjBEUhNNMExYSEQxJ0ZWNSZUVgRQS0A1IlRcMlo-RFI-VCgSACoXLT0UKBIKHBcQAhAoFwIcExUE/index.m3u8",
