@@ -1,23 +1,25 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-25T03:24:23.123601
+Extraction Time: 2025-09-25T03:47:52.664520
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 32
-- Total Channels: 39
+- Unique Events: 34
+- Total Channels: 42
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
-- Korea Open, Mixed Doubles - Cheng Xing/Zhang Chi Vs Wang C /...
-  Time: 10:50AM, Channels: 1
 - Korea Open, Mixed Doubles - Tien Ci Wong/Lim Chiew Sien Vs L...
   Time: 10:50AM, Channels: 1
 - Korea Open, Singles - Loh Kean Yew Vs Wang Tzu-Wei (09/25/25...
   Time: 10:50AM, Channels: 1
+- Korea Open, Singles - Chou Tien-Chen Vs Chico Aura Dwi Wardo...
+  Time: 11:30AM, Channels: 1
+- Korea Open, Mixed Doubles - Watanabe Y / Taguchi M Vs Jiang ...
+  Time: 11:50AM, Channels: 1
 - Major League Baseball - Los Angeles Angels Vs Kansas City Ro...
   Time: 09:38AM, Channels: 1
 - Major League Baseball - Arizona Diamondbacks Vs Los Angeles ...
@@ -52,10 +54,6 @@ EVENT BREAKDOWN:
   Time: 11:00AM, Channels: 1
 - Mexico Liga Mx - Santos Laguna Vs Club Tijuana (09/25/25)
   Time: 11:00AM, Channels: 1
-- Nhl Preseason - Edmonton Oilers Vs Seattle Kraken (09/25/25)
-  Time: 09:00AM, Channels: 1
-- Nhl Preseason - Edmonton Oilers Vs Seattle Kraken (09/25/25)...
-  Time: 09:00AM, Channels: 1
 - Nhl Preseason - Anaheim Ducks Vs Los Angeles Kings (09/25/25...
   Time: 10:00AM, Channels: 1
 - Nhl Preseason - Anaheim Ducks Vs Los Angeles Kings (09/25/25...
@@ -76,3 +74,9 @@ EVENT BREAKDOWN:
   Time: 11:00AM, Channels: 1
 - Wta Beijing, China Women Singles - Zeynep Sonmez Vs Sijia We...
   Time: 11:00AM, Channels: 1
+- Atp Tokyo, Japan Men Singles - Damir Dzumhur Vs Aleksandar V...
+  Time: 11:50AM, Channels: 1
+- Atp Tokyo, Japan Men Singles - Gabriel Diallo Vs Taylor Frit...
+  Time: 11:50AM, Channels: 2
+- Atp Tokyo, Japan Men Singles - Tomas Machac Vs Sho Shimabuku...
+  Time: 11:50AM, Channels: 1
