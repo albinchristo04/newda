@@ -1,9 +1,482 @@
 {
-  "timestamp": "2025-09-25T04:18:35.697909",
+  "timestamp": "2025-09-25T04:41:51.296203",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
-  "events": [],
-  "grouped_events": {},
+  "events": [
+    {
+      "event_time": "12:05PM",
+      "event_date": "09/25/25",
+      "channel_name": "VDO",
+      "event_title": "Korea Open, Mixed Doubles - Mathias Christiansen/Alexandra Boje Vs Hidayatullah J / Pasaribu F A N (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WDlg9QEdCBzY0UUlANkIoVg5QMU9IUDBWAFs3TDYnTkRNJkJJLBJJQDtQS0MxUFQHMllCVjUmVAFIV0Y8QCcyS09QTVYLQipWU1AwRDFYRzBSF1QGUh9UKlI8FBcsAyspEjwUHhoCFh4XPBEWGgcQKQ==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+      "group_title": "BADMINTON"
+    },
+    {
+      "event_time": "12:15PM",
+      "event_date": "09/25/25",
+      "channel_name": "VDO",
+      "event_title": "Korea Open, Women, Singles - Tomoka Miyazaki Vs Natsuki Nidaira (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlJHNEgyXkZWDlg-RDlQSExSJTBWD1AxMjReTlYPWEFESCFGVi5CKhYTPBUpLQIqFhoKFBItBioTEgoRExE=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+      "group_title": "BADMINTON"
+    },
+    {
+      "event_time": "12:35PM",
+      "event_date": "09/25/25",
+      "channel_name": "VDO",
+      "event_title": "Korea Open, Women, Doubles - Rin Iwanaga/Kie Nakanishi Vs Arisa Higashino/Chiharu Shida (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VAUyJEdLRCZUKlJBTklSGjxETVBMRCwYTkBSH0ZKQF1OMktYVDE2QgQ1SCZGVgVYTEQ2W05JMjwGT0hbRjU0QlBPSFdGVi5CKhYTPBUpLQIqFhoKFBcaAyoTEgoREBQ=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+      "group_title": "BADMINTON"
+    },
+    {
+      "event_time": "09:40AM",
+      "event_date": "09/25/25",
+      "channel_name": "HDK A",
+      "event_title": "Major League Baseball - Arizona Diamondbacks Vs Los Angeles Dodgers (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAiFOPTJdRlYBWEZIMl1BRUBWSDJSJTBWCSIwVgJdTEBPVDBWASJBTkQhMFYuQioVLAcqFhoFHBIVAyoXFwUrFBY=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL"
+    },
+    {
+      "event_time": "08:00AM",
+      "event_date": "09/25/25",
+      "channel_name": "HDD A",
+      "event_title": "Santino Bros Wrestling - Aew Dynamite (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/VlBLM0hdNFYDITQyUko3QDYnSUxNWlQqUhIAXlIRPklAXE4zREIoViwCFygXPBQeGgIWFBI8FRMVPRUU/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
+      "group_title": "FIGHTING"
+    },
+    {
+      "event_time": "10:40AM",
+      "event_date": "09/25/25",
+      "channel_name": "HDD A",
+      "event_title": "United States Major League Soccer - Vancouver Whitecaps Vs Portland Timbers (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/VF1OM0RXVFI3UDFANkIIREkiN1YJVEZONFRUUjJWQEAxQihWVVBLQjIkM0AxQlxPSCdCQkAjMFY1JlRXMiExS0BdQVZXWEpFRCEwVi5CKhYsByoVEj0RFxMDKhQtABQREQ==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "10:40AM",
+      "event_date": "09/25/25",
+      "channel_name": "HDD B ESPA\u00d1OL",
+      "event_title": "United States Major League Soccer - Vancouver Whitecaps Vs Portland Timbers (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/VF1OM0RXVFI3UDFANkIIREkiN1YJVEZONFRUUjJWQEAxQihWVVBLQjIkM0AxQlxPSCdCQkAjMFY1JlRXMiExS0BdQVZXWEpFRCEwVi5CKhYsByoVEj0RFxMDKhQtABQRFg==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "10:40AM",
+      "event_date": "09/25/25",
+      "event_title": "United States Major League Soccer - Vancouver Whitecaps Vs Portland Timbers (09/25/25) [STREAM 35[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/VF1OM0RXVFI3UDFANkIIREkiN1YJVEZONFRUUjJWQEAxQihWVVBLQjIkM0AxQlxPSCdCQkAjMFY1JlRXMiExS0BdQVZXWEpFRCEwVi5CKhYsAyoVEj0RFxMDKhQtABQRFw==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "11:00AM",
+      "event_date": "09/25/25",
+      "channel_name": "SD",
+      "event_title": "Mexico Liga Mx - Atletico San Luis Vs Club America (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlQ9TEYiVA1IWkZWDktUKlISMUtEJ05CMkJQRE1CDzBIJlQxNkIGSzRRVAZMVDdMRlBUKlI8FCgQPBcWGgEVExo8FikQAhMR/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "11:00AM",
+      "event_date": "09/25/25",
+      "channel_name": "SD",
+      "event_title": "Mexico Liga Mx - Santos Laguna Vs Club Tijuana (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlQ9TEYiVA1IWkZWDktUKlJGRkk3IjBWCVBMME1QVDE2QgZLNFFUU0hZMkRNUFQqUjwUKBA8FxYaARUTEzwWKRACExA=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "10:00AM",
+      "event_date": "09/25/25",
+      "channel_name": "HDD A",
+      "event_title": "Atp Tokyo, Japan Men Singles - Marcos Giron Vs Sebastian Korda (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VApAIUA2NkICTDEiS1Y1JlRSRFFGMjdYRklSGDQ1R1BUKlI8FigXPBQeFQoTFC08FRMVPRAT/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "11:00AM",
+      "event_date": "09/25/25",
+      "channel_name": "VDO",
+      "event_title": "Atp Beijing, China Men Singles - Alexandre Muller Vs Karen Khachanov (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEklAO1BLQzFUVAo0X0lAMUIzMlIYRjVEXVQMS1BAT0BdNDFSPlQoEDwVKS0CKhYaCisVFQEqExIKERQT/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "11:00AM",
+      "event_date": "09/25/25",
+      "channel_name": "MOVISTAR2",
+      "event_title": "Atp Beijing, China Men Singles - Alexandre Muller Vs Karen Khachanov (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEklAO1BLQzFUVAo0X0lAMUIzMlIYRjVEXVQMS1BAT0BdNDFSPlQoEDwVKS0CKhYaCisVFQEqExIKERca/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "11:00AM",
+      "event_date": "09/25/25",
+      "channel_name": "HDD A",
+      "event_title": "Atp Beijing, China Men Singles - Alexandre Muller Vs Karen Khachanov (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEklAO1BLQzFUVAo0X0lAMUIzMlIYRjVEXVQMS1BAT0BdNDFSPlQoEDwRKBIKHCkRBRcoEwcTKRcH/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "11:00AM",
+      "event_date": "09/25/25",
+      "channel_name": "HDD A",
+      "event_title": "Wta Beijing, China Women Singles - Ajla Tomljanovic Vs Yulia Starodubtseva (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQGSV9GVlciSktJUEs2NVhAVjUmVFw0X05EUkYxRDEiQTBBJzBANVBUKlI8FigXPBQeFQocFhI8FRMVPRIW/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "11:00AM",
+      "event_date": "09/25/25",
+      "channel_name": "HDD A",
+      "event_title": "Wta Beijing, China Women Singles - Ann Li Vs Maria Camila Osorio Serrano (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQGTV1UDUhCMzJSHkY1SFBUBEBcTktAQgoyMiFONlJGQjUxUEs2Uj5UKBA8ESgSChMeGgIWKBMHEykXAw==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "11:00AM",
+      "event_date": "09/25/25",
+      "channel_name": "HDD A",
+      "event_title": "Wta Beijing, China Women Singles - Guo Hanyu Vs Wang Xiyu (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQANCJUAUBdPjBSJTBWWlBLTlJLTjw0QihWLAAqEywCHBEaCisTLAMRES0HEA==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "12:00PM",
+      "event_date": "09/25/25",
+      "channel_name": "HDD A",
+      "event_title": "Atp Tokyo, Japan Men Singles - Tomas Machac Vs Sho Shimabukuro (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VFMyXEYyUh5GQktQQFY1JlRSSyJUUktYSkRBJEgwMSJUKlI8FigXPBQeGj0QFxM8FRMVPRIR/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "12:20PM",
+      "event_date": "09/25/25",
+      "channel_name": "MOVISTAR2",
+      "event_title": "Atp Tokyo, Japan Men Singles - Gabriel Diallo Vs Taylor Fritz (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VABAUTdMRF9UBUhQSUsyQjMyUkdGPE8iN1YHIU4zOUIoViwAKhctPRQoEgoTHhUDFCgXAhwTED0=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "12:20PM",
+      "event_date": "09/25/25",
+      "channel_name": "HDD A",
+      "event_title": "Atp Tokyo, Japan Men Singles - Gabriel Diallo Vs Taylor Fritz (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VABAUTdMRF9UBUhQSUsyQjMyUkdGPE8iN1YHIU4zOUIoViwAKhMsAhwRGgUVFiwDEREtBSs=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "12:20PM",
+      "event_date": "09/25/25",
+      "channel_name": "HDD A",
+      "event_title": "Wta Beijing, China Women Singles - Rebecca Sramkova Vs Elena-Gabriela Ruse (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlRVRFFCQkZQVFIxUEpKMiVGVjUmVAJPVEtELhRGRTFYQktAQlcwNlRUKlI8FigXPBQeFQocFhM8FRMVPRMW/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    }
+  ],
+  "grouped_events": {
+    "Korea Open, Mixed Doubles - Mathias Christiansen/Alexandra Boje Vs Hidayatullah J / Pasaribu F A N (09/25/25)": {
+      "event_title": "Korea Open, Mixed Doubles - Mathias Christiansen/Alexandra Boje Vs Hidayatullah J / Pasaribu F A N (09/25/25)",
+      "event_time": "12:05PM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WDlg9QEdCBzY0UUlANkIoVg5QMU9IUDBWAFs3TDYnTkRNJkJJLBJJQDtQS0MxUFQHMllCVjUmVAFIV0Y8QCcyS09QTVYLQipWU1AwRDFYRzBSF1QGUh9UKlI8FBcsAyspEjwUHhoCFh4XPBEWGgcQKQ==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Korea Open, Women, Singles - Tomoka Miyazaki Vs Natsuki Nidaira (09/25/25)": {
+      "event_title": "Korea Open, Women, Singles - Tomoka Miyazaki Vs Natsuki Nidaira (09/25/25)",
+      "event_time": "12:15PM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlJHNEgyXkZWDlg-RDlQSExSJTBWD1AxMjReTlYPWEFESCFGVi5CKhYTPBUpLQIqFhoKFBItBioTEgoRExE=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Korea Open, Women, Doubles - Rin Iwanaga/Kie Nakanishi Vs Arisa Higashino/Chiharu Shida (09/25/25)": {
+      "event_title": "Korea Open, Women, Doubles - Rin Iwanaga/Kie Nakanishi Vs Arisa Higashino/Chiharu Shida (09/25/25)",
+      "event_time": "12:35PM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VAUyJEdLRCZUKlJBTklSGjxETVBMRCwYTkBSH0ZKQF1OMktYVDE2QgQ1SCZGVgVYTEQ2W05JMjwGT0hbRjU0QlBPSFdGVi5CKhYTPBUpLQIqFhoKFBcaAyoTEgoREBQ=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Major League Baseball - Arizona Diamondbacks Vs Los Angeles Dodgers (09/25/25)": {
+      "event_title": "Major League Baseball - Arizona Diamondbacks Vs Los Angeles Dodgers (09/25/25)",
+      "event_time": "09:40AM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDK A",
+          "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAiFOPTJdRlYBWEZIMl1BRUBWSDJSJTBWCSIwVgJdTEBPVDBWASJBTkQhMFYuQioVLAcqFhoFHBIVAyoXFwUrFBY=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Santino Bros Wrestling - Aew Dynamite (09/25/25)": {
+      "event_title": "Santino Bros Wrestling - Aew Dynamite (09/25/25)",
+      "event_time": "08:00AM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/VlBLM0hdNFYDITQyUko3QDYnSUxNWlQqUhIAXlIRPklAXE4zREIoViwCFygXPBQeGgIWFBI8FRMVPRUU/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "United States Major League Soccer - Vancouver Whitecaps Vs Portland Timbers (09/25/25)": {
+      "event_title": "United States Major League Soccer - Vancouver Whitecaps Vs Portland Timbers (09/25/25)",
+      "event_time": "10:40AM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/VF1OM0RXVFI3UDFANkIIREkiN1YJVEZONFRUUjJWQEAxQihWVVBLQjIkM0AxQlxPSCdCQkAjMFY1JlRXMiExS0BdQVZXWEpFRCEwVi5CKhYsByoVEj0RFxMDKhQtABQREQ==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD B ESPA\u00d1OL",
+          "url": "https://world-proxifier.xyz/rbtv/p/VF1OM0RXVFI3UDFANkIIREkiN1YJVEZONFRUUjJWQEAxQihWVVBLQjIkM0AxQlxPSCdCQkAjMFY1JlRXMiExS0BdQVZXWEpFRCEwVi5CKhYsByoVEj0RFxMDKhQtABQRFg==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "United States Major League Soccer - Vancouver Whitecaps Vs Portland Timbers (09/25/25) [STREAM 35[HD]]": {
+      "event_title": "United States Major League Soccer - Vancouver Whitecaps Vs Portland Timbers (09/25/25) [STREAM 35[HD]]",
+      "event_time": "10:40AM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/VF1OM0RXVFI3UDFANkIIREkiN1YJVEZONFRUUjJWQEAxQihWVVBLQjIkM0AxQlxPSCdCQkAjMFY1JlRXMiExS0BdQVZXWEpFRCEwVi5CKhYsAyoVEj0RFxMDKhQtABQRFw==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Mexico Liga Mx - Atletico San Luis Vs Club America (09/25/25)": {
+      "event_title": "Mexico Liga Mx - Atletico San Luis Vs Club America (09/25/25)",
+      "event_time": "11:00AM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/DlQ9TEYiVA1IWkZWDktUKlISMUtEJ05CMkJQRE1CDzBIJlQxNkIGSzRRVAZMVDdMRlBUKlI8FCgQPBcWGgEVExo8FikQAhMR/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Mexico Liga Mx - Santos Laguna Vs Club Tijuana (09/25/25)": {
+      "event_title": "Mexico Liga Mx - Santos Laguna Vs Club Tijuana (09/25/25)",
+      "event_time": "11:00AM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/DlQ9TEYiVA1IWkZWDktUKlJGRkk3IjBWCVBMME1QVDE2QgZLNFFUU0hZMkRNUFQqUjwUKBA8FxYaARUTEzwWKRACExA=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Atp Tokyo, Japan Men Singles - Marcos Giron Vs Sebastian Korda (09/25/25)": {
+      "event_title": "Atp Tokyo, Japan Men Singles - Marcos Giron Vs Sebastian Korda (09/25/25)",
+      "event_time": "10:00AM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VApAIUA2NkICTDEiS1Y1JlRSRFFGMjdYRklSGDQ1R1BUKlI8FigXPBQeFQoTFC08FRMVPRAT/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Atp Beijing, China Men Singles - Alexandre Muller Vs Karen Khachanov (09/25/25)": {
+      "event_title": "Atp Beijing, China Men Singles - Alexandre Muller Vs Karen Khachanov (09/25/25)",
+      "event_time": "11:00AM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEklAO1BLQzFUVAo0X0lAMUIzMlIYRjVEXVQMS1BAT0BdNDFSPlQoEDwVKS0CKhYaCisVFQEqExIKERQT/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "MOVISTAR2",
+          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEklAO1BLQzFUVAo0X0lAMUIzMlIYRjVEXVQMS1BAT0BdNDFSPlQoEDwVKS0CKhYaCisVFQEqExIKERca/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEklAO1BLQzFUVAo0X0lAMUIzMlIYRjVEXVQMS1BAT0BdNDFSPlQoEDwRKBIKHCkRBRcoEwcTKRcH/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Beijing, China Women Singles - Ajla Tomljanovic Vs Yulia Starodubtseva (09/25/25)": {
+      "event_title": "Wta Beijing, China Women Singles - Ajla Tomljanovic Vs Yulia Starodubtseva (09/25/25)",
+      "event_time": "11:00AM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQGSV9GVlciSktJUEs2NVhAVjUmVFw0X05EUkYxRDEiQTBBJzBANVBUKlI8FigXPBQeFQocFhI8FRMVPRIW/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Beijing, China Women Singles - Ann Li Vs Maria Camila Osorio Serrano (09/25/25)": {
+      "event_title": "Wta Beijing, China Women Singles - Ann Li Vs Maria Camila Osorio Serrano (09/25/25)",
+      "event_time": "11:00AM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQGTV1UDUhCMzJSHkY1SFBUBEBcTktAQgoyMiFONlJGQjUxUEs2Uj5UKBA8ESgSChMeGgIWKBMHEykXAw==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Beijing, China Women Singles - Guo Hanyu Vs Wang Xiyu (09/25/25)": {
+      "event_title": "Wta Beijing, China Women Singles - Guo Hanyu Vs Wang Xiyu (09/25/25)",
+      "event_time": "11:00AM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQANCJUAUBdPjBSJTBWWlBLTlJLTjw0QihWLAAqEywCHBEaCisTLAMRES0HEA==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Atp Tokyo, Japan Men Singles - Tomas Machac Vs Sho Shimabukuro (09/25/25)": {
+      "event_title": "Atp Tokyo, Japan Men Singles - Tomas Machac Vs Sho Shimabukuro (09/25/25)",
+      "event_time": "12:00PM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VFMyXEYyUh5GQktQQFY1JlRSSyJUUktYSkRBJEgwMSJUKlI8FigXPBQeGj0QFxM8FRMVPRIR/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Atp Tokyo, Japan Men Singles - Gabriel Diallo Vs Taylor Fritz (09/25/25)": {
+      "event_title": "Atp Tokyo, Japan Men Singles - Gabriel Diallo Vs Taylor Fritz (09/25/25)",
+      "event_time": "12:20PM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "MOVISTAR2",
+          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VABAUTdMRF9UBUhQSUsyQjMyUkdGPE8iN1YHIU4zOUIoViwAKhctPRQoEgoTHhUDFCgXAhwTED0=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VABAUTdMRF9UBUhQSUsyQjMyUkdGPE8iN1YHIU4zOUIoViwAKhMsAhwRGgUVFiwDEREtBSs=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Beijing, China Women Singles - Rebecca Sramkova Vs Elena-Gabriela Ruse (09/25/25)": {
+      "event_title": "Wta Beijing, China Women Singles - Rebecca Sramkova Vs Elena-Gabriela Ruse (09/25/25)",
+      "event_time": "12:20PM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlRVRFFCQkZQVFIxUEpKMiVGVjUmVAJPVEtELhRGRTFYQktAQlcwNlRUKlI8FigXPBQeFQocFhM8FRMVPRMW/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    }
+  },
   "metadata": {}
 }

@@ -1,13 +1,48 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-25T04:18:35.697909
+Extraction Time: 2025-09-25T04:41:51.296203
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 0
-- Total Channels: 0
+- Unique Events: 17
+- Total Channels: 21
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
+EVENT BREAKDOWN:
+- Korea Open, Mixed Doubles - Mathias Christiansen/Alexandra B...
+  Time: 12:05PM, Channels: 1
+- Korea Open, Women, Singles - Tomoka Miyazaki Vs Natsuki Nida...
+  Time: 12:15PM, Channels: 1
+- Korea Open, Women, Doubles - Rin Iwanaga/Kie Nakanishi Vs Ar...
+  Time: 12:35PM, Channels: 1
+- Major League Baseball - Arizona Diamondbacks Vs Los Angeles ...
+  Time: 09:40AM, Channels: 1
+- Santino Bros Wrestling - Aew Dynamite (09/25/25)
+  Time: 08:00AM, Channels: 1
+- United States Major League Soccer - Vancouver Whitecaps Vs P...
+  Time: 10:40AM, Channels: 2
+- United States Major League Soccer - Vancouver Whitecaps Vs P...
+  Time: 10:40AM, Channels: 1
+- Mexico Liga Mx - Atletico San Luis Vs Club America (09/25/25...
+  Time: 11:00AM, Channels: 1
+- Mexico Liga Mx - Santos Laguna Vs Club Tijuana (09/25/25)
+  Time: 11:00AM, Channels: 1
+- Atp Tokyo, Japan Men Singles - Marcos Giron Vs Sebastian Kor...
+  Time: 10:00AM, Channels: 1
+- Atp Beijing, China Men Singles - Alexandre Muller Vs Karen K...
+  Time: 11:00AM, Channels: 3
+- Wta Beijing, China Women Singles - Ajla Tomljanovic Vs Yulia...
+  Time: 11:00AM, Channels: 1
+- Wta Beijing, China Women Singles - Ann Li Vs Maria Camila Os...
+  Time: 11:00AM, Channels: 1
+- Wta Beijing, China Women Singles - Guo Hanyu Vs Wang Xiyu (0...
+  Time: 11:00AM, Channels: 1
+- Atp Tokyo, Japan Men Singles - Tomas Machac Vs Sho Shimabuku...
+  Time: 12:00PM, Channels: 1
+- Atp Tokyo, Japan Men Singles - Gabriel Diallo Vs Taylor Frit...
+  Time: 12:20PM, Channels: 2
+- Wta Beijing, China Women Singles - Rebecca Sramkova Vs Elena...
+  Time: 12:20PM, Channels: 1
