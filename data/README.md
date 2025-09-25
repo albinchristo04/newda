@@ -1,24 +1,29 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Thu Sep 25 23:38:06 UTC 2025
+Last updated: Thu Sep 25 23:48:56 UTC 2025
 
-Workflow run: #223
+Workflow run: #224
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-25T23:38:06.247296
+Extracted at: 2025-09-25T23:48:55.372303
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== MEDIA SEGMENTS (First 10) ===
+=== GROUPED EVENTS BY TITLE ===
 
-1. https://world-proxifier.xyz/rbtv/p/VEYEH1IfBgYCQihWAiFKPFJKQjI3QlU2SF0xVjUmVAJAJjFWAFA3Nk9YS0RSPlQoGjwRKBIKHBYXBxAoEwcTFxYC/index.m3u8
-2. https://world-proxifier.xyz/rbtv/p/VEYEH1IfAQ1SPlRTSyQ3MkdQPlY1JlQLSFpNM1IXNDY3UUZLT0IoViwKKhMsAhweEgcRFSwDERETACs=/index.m3u8
-3. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFtOQkBaNFYAJEcyUiUwVg9UPFZYIjdKUh5CMzZCKFYsASoTLAIcHi09HBQsAxEREwYR/index.m3u8
-4. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFtOQkBaNFYAJEcyUiUwVg9UPFZYIjdKUh5CMzZCKFYsASoTLAIcHi09HBQsAxEREwYS/index.m3u8
-5. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFtOQkBaNFYAJEcyUiUwVg9UPFZYIjdKUh5CMzZCKFYsASoXLAIcHi09HBQsAxEREwYQ/index.m3u8
-6. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAF9CMURfRklHQgIwQCFBTEBdMFY1JlQFRCc3NkgnVFNIWkI1NkIoViwBKhMsAhweLT0cKSwDERETABA=/index.m3u8
-7. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAF9CMURfRklHQgIwQCFBTEBdMFY1JlQFRCc3NkgnVFNIWkI1NkIoViwBKhcsAhweLT0cKSwDERETABc=/index.m3u8
-8. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWD1Q8VlgiN0pSSEZJTlRCMlIlMFYAW05CQFo0VlpbTjNEQlA2O0IoViwBKhMsAhweLT0cFiwDERETARY=/index.m3u8
-9. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWD1Q8VlgiN0pSSEZJTlRCMlIlMFYAW05CQFo0VlpbTjNEQlA2O0IoViwBKhcsAhweLT0cFiwDERETASs=/index.m3u8
-10. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWU1tOS0BXQkszW05EUkNNTE9fTkA2QjMyUh5ORExYVApAIUlMTSZUKlI8FygXPBQeGj0rERo8FRMVAxYW/index.m3u8
+EVENT: Usa: Nfl - Thursday Vs Night Football (09/26/25)
+Time: 06:00AM
+Date: 09/26/25
+Category: None
+Available Channels (1):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/VEYEH1IfAQ1SPlRTSyQ3MkdQPlY1JlQLSFpNM1IXNDY3UUZLT0IoViwKKhMsAhweEgcRFSwDERETACs=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp
+
+================================================================================
+
+EVENT: Usa: Ncaa - Army West Point Vs East Carolina (09/26/25)
+Time: 07:30AM
+Date: 09/26/25
+Category: None
 ```

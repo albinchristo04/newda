@@ -1,15 +1,303 @@
-Extracted at: 2025-09-25T23:38:06.247296
+Extracted at: 2025-09-25T23:48:55.372303
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== MEDIA SEGMENTS (First 10) ===
+=== GROUPED EVENTS BY TITLE ===
 
-1. https://world-proxifier.xyz/rbtv/p/VEYEH1IfBgYCQihWAiFKPFJKQjI3QlU2SF0xVjUmVAJAJjFWAFA3Nk9YS0RSPlQoGjwRKBIKHBYXBxAoEwcTFxYC/index.m3u8
-2. https://world-proxifier.xyz/rbtv/p/VEYEH1IfAQ1SPlRTSyQ3MkdQPlY1JlQLSFpNM1IXNDY3UUZLT0IoViwKKhMsAhweEgcRFSwDERETACs=/index.m3u8
-3. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFtOQkBaNFYAJEcyUiUwVg9UPFZYIjdKUh5CMzZCKFYsASoTLAIcHi09HBQsAxEREwYR/index.m3u8
-4. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFtOQkBaNFYAJEcyUiUwVg9UPFZYIjdKUh5CMzZCKFYsASoTLAIcHi09HBQsAxEREwYS/index.m3u8
-5. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFtOQkBaNFYAJEcyUiUwVg9UPFZYIjdKUh5CMzZCKFYsASoXLAIcHi09HBQsAxEREwYQ/index.m3u8
-6. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAF9CMURfRklHQgIwQCFBTEBdMFY1JlQFRCc3NkgnVFNIWkI1NkIoViwBKhMsAhweLT0cKSwDERETABA=/index.m3u8
-7. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAF9CMURfRklHQgIwQCFBTEBdMFY1JlQFRCc3NkgnVFNIWkI1NkIoViwBKhcsAhweLT0cKSwDERETABc=/index.m3u8
-8. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWD1Q8VlgiN0pSSEZJTlRCMlIlMFYAW05CQFo0VlpbTjNEQlA2O0IoViwBKhMsAhweLT0cFiwDERETARY=/index.m3u8
-9. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWD1Q8VlgiN0pSSEZJTlRCMlIlMFYAW05CQFo0VlpbTjNEQlA2O0IoViwBKhcsAhweLT0cFiwDERETASs=/index.m3u8
-10. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWU1tOS0BXQkszW05EUkNNTE9fTkA2QjMyUh5ORExYVApAIUlMTSZUKlI8FygXPBQeGj0rERo8FRMVAxYW/index.m3u8
+EVENT: Usa: Nfl - Thursday Vs Night Football (09/26/25)
+Time: 06:00AM
+Date: 09/26/25
+Category: None
+Available Channels (1):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/VEYEH1IfAQ1SPlRTSyQ3MkdQPlY1JlQLSFpNM1IXNDY3UUZLT0IoViwKKhMsAhweEgcRFSwDERETACs=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp
+
+================================================================================
+
+EVENT: Usa: Ncaa - Army West Point Vs East Carolina (09/26/25)
+Time: 07:30AM
+Date: 09/26/25
+Category: None
+Available Channels (1):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/VEYEH1IfBgYCQihWAiFKPFJKQjI3QlU2SF0xVjUmVAJAJjFWAFA3Nk9YS0RSPlQoGjwRKBIKHBYXBxAoEwcTFxYC/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp
+
+================================================================================
+
+EVENT: Major League Baseball - Philadelphia Phillies Vs Miami Marlins (09/26/25)
+Time: 06:05AM
+Date: 09/26/25
+Category: None
+Available Channels (1):
+  1. HDK A
+     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWU1tOS0BXQkszW05EUkNNTE9fTkA2QjMyUh5ORExYVApAIUlMTSZUKlI8FygXPBQeGj0rERo8FRMVAxYW/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
+
+================================================================================
+
+EVENT: Major League Baseball - Philadelphia Phillies Vs Miami Marlins (09/26/25) [STREAM 42[HD]]
+Time: 06:05AM
+Date: 09/26/25
+Category: None
+Available Channels (1):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWU1tOS0BXQkszW05EUkNNTE9fTkA2QjMyUh5ORExYVApAIUlMTSZUKlI8FygTPBQeGj0rERo8FRMVAxUe/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
+
+================================================================================
+
+EVENT: Major League Baseball - Cleveland Guardians Vs Detroit Tigers (09/26/25)
+Time: 06:40AM
+Date: 09/26/25
+Category: None
+Available Channels (1):
+  1. HDK A
+     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAF9CMURfRklHQgIwQCFBTEBdMFY1JlQFRCc3NkgnVFNIWkI1NkIoViwBKhMsAhweLT0cKSwDERETABA=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
+
+================================================================================
+
+EVENT: Major League Baseball - Cleveland Guardians Vs Detroit Tigers (09/26/25) [STREAM 15[HD]]
+Time: 06:40AM
+Date: 09/26/25
+Category: None
+Available Channels (1):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAF9CMURfRklHQgIwQCFBTEBdMFY1JlQFRCc3NkgnVFNIWkI1NkIoViwBKhcsAhweLT0cKSwDERETABc=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
+
+================================================================================
+
+EVENT: Major League Baseball - New York Yankees Vs Chicago White Sox (09/26/25)
+Time: 07:05AM
+Date: 09/26/25
+Category: None
+Available Channels (1):
+  1. HDK A
+     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWD1Q8VlgiN0pSSEZJTlRCMlIlMFYAW05CQFo0VlpbTjNEQlA2O0IoViwBKhMsAhweLT0cFiwDERETARY=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
+
+================================================================================
+
+EVENT: Major League Baseball - New York Yankees Vs Chicago White Sox (09/26/25) [STREAM 44[HD]]
+Time: 07:05AM
+Date: 09/26/25
+Category: None
+Available Channels (1):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWD1Q8VlgiN0pSSEZJTlRCMlIlMFYAW05CQFo0VlpbTjNEQlA2O0IoViwBKhcsAhweLT0cFiwDERETASs=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
+
+================================================================================
+
+EVENT: Major League Baseball - Toronto Blue Jays Vs Boston Red Sox (09/26/25)
+Time: 07:07AM
+Date: 09/26/25
+Category: None
+Available Channels (1):
+  1. HDK A
+     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVyI3Nk0nNFYDXzJAUhtGPDZCMzJSEzQyNyJLVlFUQVZWIj1WLkIqFSwHKhYaCispGgMqFxcFFRUV/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
+
+================================================================================
+
+EVENT: Major League Baseball - Toronto Blue Jays Vs Boston Red Sox (09/26/25) [STREAM 18[HD]]
+Time: 07:07AM
+Date: 09/26/25
+Category: None
+Available Channels (1):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVyI3Nk0nNFYDXzJAUhtGPDZCMzJSEzQyNyJLVlFUQVZWIj1WLkIqFSwDKhYaCispGgMqFxcFFRUS/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
+
+================================================================================
+
+EVENT: Major League Baseball - Chicago Cubs Vs New York Mets (09/26/25)
+Time: 07:40AM
+Date: 09/26/25
+Category: None
+Available Channels (1):
+  1. HDK A
+     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFtOQkBaNFYAJEcyUiUwVg9UPFZYIjdKUh5CMzZCKFYsASoTLAIcHi09HBQsAxEREwYR/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
+
+================================================================================
+
+EVENT: Major League Baseball - Chicago Cubs Vs New York Mets (09/26/25) [STREAM 48[HD]]
+Time: 07:40AM
+Date: 09/26/25
+Category: None
+Available Channels (1):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFtOQkBaNFYAJEcyUiUwVg9UPFZYIjdKUh5CMzZCKFYsASoXLAIcHi09HBQsAxEREwYQ/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
+
+================================================================================
+
+EVENT: Chile Liga Nacional Basketball - Chile Boston College Vs Universidad Catolica (09/26/25)
+Time: 06:30AM
+Date: 09/26/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/AFtOS0RCD0xKUFQLQFZONk1QSVYDUDBKRCdHRE9fVCpSEE1MT1RUBzImMTZNQgY2T19CTkRCMzJSREtMNVQ3MkhXRkNSEEYzMl9OQkBCKFYsAyoULAIcHhMAHBEsAxEREwAW/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+
+================================================================================
+
+EVENT: Chile Liga Nacional Basketball - Cd Puerto Varas Vs Las Animas (09/26/25)
+Time: 07:00AM
+Date: 09/26/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/AFtOS0RCD0xKUFQLQFZONk1QSVYDUDBKRCdHRE9fVCpSEAdWUyRCNTciVFFAIUYyUiUwVglQMFYCXU5IQCZUKlI8FSgQPBQeGgMXKRE8FRMVAxYQ/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+
+================================================================================
+
+EVENT: Chile Liga Nacional Basketball - Colo Colo Vs Colegio Los Leones (09/26/25)
+Time: 07:00AM
+Date: 09/26/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/AFtOS0RCD0xKUFQLQFZONk1QSVYDUDBKRCdHRE9fVCpSEDRLMkIGNk8iVDE2QgY2T1RMTDJCDzY2Qg9AMl1CMlI-VCgTPBYoEgocFxE9FSgTBxMXEAU=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+
+================================================================================
+
+EVENT: Argentinian Liga Nacional De Bosquetbol - Platense Vs Ferro Carril Oeste (09/26/25)
+Time: 07:30AM
+Date: 09/26/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/AiFMQE0nTklIUEtWCVhMRFIfRkJIIktET0JBQFITNDIwJEIzQSJJVi5CVUtAJ0JJNlRUMTZCAUAxITRWAFA3NUhfVAhEJjFAUj5UKBM8FigSChwXEAQrKBMHExcWAQ==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+
+================================================================================
+
+EVENT: Chile Liga Nacional Basketball - Valdivia Vs Universidad Concepcion (09/26/25)
+Time: 07:30AM
+Date: 09/26/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/AFtOS0RCD0xKUFQLQFZONk1QSVYDUDBKRCdHRE9fVCpSRUZLR1gzTEBCMzJSREtMNVQ3MkhXRkNSEDRJRlQ1QkgiS1YuQioXLAAqFhoKFRUtBSoXFwUVEhA=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+
+================================================================================
+
+EVENT: Brazilian Serie B - Coritiba Pr Vs Criciuma (09/26/25)
+Time: 06:00AM
+Date: 09/26/25
+Category: None
+Available Channels (2):
+  1. SDK A
+     URL: https://world-proxifier.xyz/rbtv/p/AyFGPUhfTkRNQlBAMVhCVgNCKFYAIjdMN1hHRFJDV1Y1JlQEMVhATDRcRlYuQioWLAcqFRIGFBIaACoULQAWES0=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/AyFGPUhfTkRNQlBAMVhCVgNCKFYAIjdMN1hHRFJDV1Y1JlQEMVhATDRcRlYuQioWLAAqFRIGFBIaACoULQAWEBU=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Conmebol Copa Libertadores - Sao Paulo Vs Liga Dep Universitaria Quito (09/26/25)
+Time: 06:00AM
+Date: 09/26/25
+Category: None
+Available Channels (4):
+  1. LALIGA
+     URL: https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlJGRjZSQ0YwTyJUMTZCD0xKUFQFRCNUUE1YM0AxJk4zQCFORFJAMkw3IlQqUjwUKBM9KxYsARUTEz0rFCwHFB4WAxQ=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlJGRjZSQ0YwTyJUMTZCD0xKUFQFRCNUUE1YM0AxJk4zQCFORFJAMkw3IlQqUjwUKBc8FxcXAyspEDwWKRAAEhI=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  3. HDD B ESPAÑOL
+     URL: https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlJGRjZSQ0YwTyJUMTZCD0xKUFQFRCNUUE1YM0AxJk4zQCFORFJAMkw3IlQqUjwUKBc8FxcXAyspEDwWKRAAEhM=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  4. SD
+     URL: https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlJGRjZSQ0YwTyJUMTZCD0xKUFQFRCNUUE1YM0AxJk4zQCFORFJAMkw3IlQqUjwUKBA8FxcXAyspEDwWKRAAEhA=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Conmebol Copa Libertadores - Sao Paulo Vs Liga Dep Universitaria Quito (09/26/25) [STREAM 1[HD]]
+Time: 06:00AM
+Date: 09/26/25
+Category: None
+Available Channels (1):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlJGRjZSQ0YwTyJUMTZCD0xKUFQFRCNUUE1YM0AxJk4zQCFORFJAMkw3IlQqUjwUKBM8FxcXAyspEDwWKRAAEh4=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Mls Next Pro - Cincinnati Ii Vs Columbus Crew B (09/26/25)
+Time: 07:30AM
+Date: 09/26/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/DhlQVg9UPTNSQzc2Uj5UBEhdQExNXUYzSEIMDlIlMFYAIkkwTFEyMlIQN0A6QgVWLkIqFiwAKhUTBRcSFgQqFC0AFhET/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Nhl Preseason - Montreal Canadiens Vs Toronto Maple Leafs (09/26/25)
+Time: 07:00AM
+Date: 09/26/25
+Category: None
+Available Channels (1):
+  1. HDD B
+     URL: https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVg4iSzMxVEZLUhBGSUBXTkBNJlQxNkJRNjEiSzMyQghEM19CVglURkE2QihWLAIUKBc8FB4aPRQSEzwVExUDFxA=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp
+
+================================================================================
+
+EVENT: Nhl Preseason - New York Rangers Vs New York Islanders (09/26/25)
+Time: 07:00AM
+Date: 09/26/25
+Category: None
+Available Channels (1):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVg9UPFZYIjdKUkFGSUpUNzJSJTBWD1Q8VlgiN0pSGjBLQF1BQDEmVCpSPBQWLAcqFhoKKxYWBioXFwUVFBo=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp
+
+================================================================================
+
+EVENT: Nhl Preseason - New York Rangers Vs New York Islanders (09/26/25) [STREAM 41[HD]]
+Time: 07:00AM
+Date: 09/26/25
+Category: None
+Available Channels (1):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVg9UPFZYIjdKUkFGSUpUNzJSJTBWD1Q8VlgiN0pSGjBLQF1BQDEmVCpSPBQWLAMqFhoKKxYWBioXFwUVFRM=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp
+
+================================================================================
+
+EVENT: Nhl Preseason - Washington Capitals Vs Philadelphia Flyers (09/26/25)
+Time: 07:00AM
+Date: 09/26/25
+Category: None
+Available Channels (1):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVlpQME9IXUwzMl1UBEAjTjNAXzBWNSZUV0tYSURHVEk3S1hGVgdfPkAxJlQqUjwUFiwHKhYaCisWFgEqFxcFFRUW/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp
+
+================================================================================
+
+EVENT: Nascar Cup Series - Nhra Sportsman Series Reading (09/26/25)
+Time: 06:00AM
+Date: 09/26/25
+Category: None
+Available Channels (1):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/D1AwQkAhVAQ0I1RSRCFOQDZCKFYPFVcGUkY1NjEnMEhAXVRSRCFOQDZCV0BAV05JSkIoViwEKhMsAhweEwYWFCwDERETAxM=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp
+
+================================================================================
+
