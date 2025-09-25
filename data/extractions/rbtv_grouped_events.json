@@ -55,16 +55,56 @@
       }
     ]
   },
-  "Iraq Stars League - Al Shorta Vs Newroz Sc (09/26/25)": {
-    "event_title": "Iraq Stars League - Al Shorta Vs Newroz Sc (09/26/25)",
-    "event_time": "01:30AM",
+  "Major League Baseball - Oakland Athletics Vs Houston Astros (09/26/25)": {
+    "event_title": "Major League Baseball - Oakland Athletics Vs Houston Astros (09/26/25)",
+    "event_time": "03:35AM",
     "event_date": "09/26/25",
     "category": null,
     "channels": [
       {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/CiFGNFJGMUQxJlQNRFBMMERCKFYCX1RSSyI3M0BCMzJSH0I-MSI_VlYQVCpSPBQoEDwXFxUBEBMQPBYpEAMTFw==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "channel_name": "HDK A",
+        "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWDFBIS0BdQVYCJ01LRCdOQjZCMzJSFTQwNic0SVISMDMxIjBWLkIqFSwHKhYaCispFQQqFxcFFRcT/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "HDK B",
+        "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWDFBIS0BdQVYCJ01LRCdOQjZCMzJSFTQwNic0SVISMDMxIjBWLkIqFSwHKhYaCispFQQqFxcFFRcQ/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Major League Baseball - Oakland Athletics Vs Houston Astros (09/26/25) [STREAM 44[HD]]": {
+    "event_title": "Major League Baseball - Oakland Athletics Vs Houston Astros (09/26/25) [STREAM 44[HD]]",
+    "event_time": "03:35AM",
+    "event_date": "09/26/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": null,
+        "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWDFBIS0BdQVYCJ01LRCdOQjZCMzJSFTQwNic0SVISMDMxIjBWLkIqFSwDKhYaCispFQQqFxcFFRcS/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Major League Baseball - Arizona Diamondbacks Vs Los Angeles Dodgers (09/26/25)": {
+    "event_title": "Major League Baseball - Arizona Diamondbacks Vs Los Angeles Dodgers (09/26/25)",
+    "event_time": "03:40AM",
+    "event_date": "09/26/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDK A",
+        "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAiFOPTJdRlYBWEZIMl1BRUBWSDJSJTBWCSIwVgJdTEBPVDBWASJBTkQhMFYuQioVLAcqFhoKKykVBSoXFwUVFxE=/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "HDK B",
+        "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAiFOPTJdRlYBWEZIMl1BRUBWSDJSJTBWCSIwVgJdTEBPVDBWASJBTkQhMFYuQioVLAcqFhoKKykVBSoXFwUVFxY=/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
         "duration": null
       }
     ]
@@ -88,20 +128,8 @@
         "duration": null
       },
       {
-        "channel_name": "HDD B",
-        "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CBgZSHDBENiRLRFIlMFYGX0BPREIoViwCKhMsARUpGgcUEiwAKxQTBRY=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
-      {
         "channel_name": "HDD C ESPA\u00d1OL",
         "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CBgZSHDBENiRLRFIlMFYGX0BPREIoViwCKhMsARUpGgcUEiwAKxQTBRw=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CBgZSHDBENiRLRFIlMFYGX0BPREIoViwCKhQsARUpGgcUEiwAKxQTBRQ=/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
       }
@@ -729,6 +757,30 @@
     "event_date": "09/26/25",
     "category": null,
     "channels": [
+      {
+        "channel_name": "VDO",
+        "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CV0BAX1QINVhCQzJCMzJSFwZWA1A3QkRfNElAQihWLAIqFy09FCgRAyseFwIrKBcCHBISBQ==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "MOVISTAR2",
+        "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CV0BAX1QINVhCQzJCMzJSFwZWA1A3QkRfNElAQihWLAIqFy09FCgRAyseFwIrKBcCHBITBw==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "DAZN ES",
+        "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CV0BAX1QINVhCQzJCMzJSFwZWA1A3QkRfNElAQihWLAIqFy09FCgRAyseFwIrKBcCHBASAg==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "DAZN ES",
+        "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CV0BAX1QINVhCQzJCMzJSFwZWA1A3QkRfNElAQihWLAIqFy09FCgRAyseFwIrKBcCHBETAw==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      },
       {
         "channel_name": "HDD A",
         "url": "https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CV0BAX1QINVhCQzJCMzJSFwZWA1A3QkRfNElAQihWLAIqEywBFSkaBxQpLAArFBAGEQ==/index.m3u8",
