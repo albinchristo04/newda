@@ -1,33 +1,25 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-25T21:13:50.984114
+Extraction Time: 2025-09-25T21:26:24.428348
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 13
-- Total Channels: 24
+- Unique Events: 11
+- Total Channels: 20
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
-- Major League Baseball - Texas Rangers Vs Minnesota Twins (09...
-  Time: 02:35AM, Channels: 1
-- Major League Baseball - Texas Rangers Vs Minnesota Twins (09...
-  Time: 02:35AM, Channels: 1
 - Major League Baseball - Oakland Athletics Vs Houston Astros ...
   Time: 03:35AM, Channels: 1
 - Major League Baseball - Oakland Athletics Vs Houston Astros ...
   Time: 03:35AM, Channels: 1
 - Major League Baseball - Arizona Diamondbacks Vs Los Angeles ...
   Time: 03:40AM, Channels: 1
-- Uefa Europa League - Rangers Vs Racing Genk (09/26/25)
-  Time: 03:00AM, Channels: 2
-- Uefa Europa League - Rangers Vs Racing Genk (09/26/25) [STRE...
-  Time: 03:00AM, Channels: 1
 - Spanish La Liga - Real Oviedo Vs Fc Barcelona (09/26/25)
-  Time: 03:30AM, Channels: 10
+  Time: 03:30AM, Channels: 9
 - Spanish La Liga - Real Oviedo Vs Fc Barcelona (09/26/25) [ST...
   Time: 03:30AM, Channels: 1
 - Peruvian Liga 1 - Ayacucho Futbol Club Vs Juan Pablo Ii (09/...
@@ -36,5 +28,9 @@ EVENT BREAKDOWN:
   Time: 04:30AM, Channels: 1
 - Ecuadorian Campeonato Serie B - Club Leones Del Norte Vs 9 D...
   Time: 04:30AM, Channels: 1
+- Bolivian Primera Division - Academiadb Vs Universitario De V...
+  Time: 05:30AM, Channels: 1
+- Paraguayan Cup - River Plate (Par) Vs Resistencia Sc (09/26/...
+  Time: 05:30AM, Channels: 1
 - Horse Racing - America'S Day At The Races (09/26/25) [STREAM...
   Time: 01:00AM, Channels: 1

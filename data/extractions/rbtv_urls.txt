@@ -1,29 +1,7 @@
-Extracted at: 2025-09-25T21:13:50.984114
+Extracted at: 2025-09-25T21:26:24.428348
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
-
-EVENT: Major League Baseball - Texas Rangers Vs Minnesota Twins (09/26/25)
-Time: 02:35AM
-Date: 09/26/25
-Category: None
-Available Channels (1):
-  1. HDK A
-     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWV1Q9RDZCV0RNWkI1NkIzMlIeTklNVDA2N1BUUzpYSzJSPlQoETwRKBIKHCktBREoEwcTFxID/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
-
-================================================================================
-
-EVENT: Major League Baseball - Texas Rangers Vs Minnesota Twins (09/26/25) [STREAM 18[HD]]
-Time: 02:35AM
-Date: 09/26/25
-Category: None
-Available Channels (1):
-  1. None
-     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWV1Q9RDZCV0RNWkI1NkIzMlIeTklNVDA2N1BUUzpYSzJSPlQoETwVKBIKHCktBREoEwcTFxIC/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
-
-================================================================================
 
 EVENT: Major League Baseball - Oakland Athletics Vs Houston Astros (09/26/25)
 Time: 03:35AM
@@ -58,36 +36,11 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: Uefa Europa League - Rangers Vs Racing Genk (09/26/25)
-Time: 03:00AM
-Date: 09/26/25
-Category: None
-Available Channels (2):
-  1. HDD A
-     URL: https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSQUZJSlQ3MlIlMFZRUEBMTVpUAERdSFYuQioWLAcqFRMHHBEQBioULQAWFC0=/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-  2. HDD C PORTUGUÊS
-     URL: https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSQUZJSlQ3MlIlMFZRUEBMTVpUAERdSFYuQioWLAcqFRMHHBEQBioULQAWFRE=/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-
-================================================================================
-
-EVENT: Uefa Europa League - Rangers Vs Racing Genk (09/26/25) [STREAM 2[HD]]
-Time: 03:00AM
-Date: 09/26/25
-Category: None
-Available Channels (1):
-  1. None
-     URL: https://world-proxifier.xyz/rbtv/p/VBYBBlIWMjUyI0ZWCVRGTjRUVCpSQUZJSlQ3MlIlMFZRUEBMTVpUAERdSFYuQioWLAMqFRMHHBEQBioULQAWFhY=/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-
-================================================================================
-
 EVENT: Spanish La Liga - Real Oviedo Vs Fc Barcelona (09/26/25)
 Time: 03:30AM
 Date: 09/26/25
 Category: None
-Available Channels (10):
+Available Channels (9):
   1. VDO
      URL: https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CV0BAX1QINVhCQzJCMzJSFwZWA1A3QkRfNElAQihWLAIqFy09FCgRAyseFwIrKBcCHBISBQ==/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
@@ -114,9 +67,6 @@ Available Channels (10):
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
   9. HDD E ITALIANO
      URL: https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CV0BAX1QINVhCQzJCMzJSFwZWA1A3QkRfNElAQihWLAIqEywBFSkaBxQpLAArFBAHKw==/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-  10. SD
-     URL: https://world-proxifier.xyz/rbtv/p/ViNGSUgmTVYJUFQNSFpGVi5CV0BAX1QINVhCQzJCMzJSFwZWA1A3QkRfNElAQihWLAIqFCwBFSkaBxQpLAArFBAGEA==/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
 ================================================================================
@@ -164,6 +114,28 @@ Category: None
 Available Channels (1):
   1. SD
      URL: https://world-proxifier.xyz/rbtv/p/BlYyREciN0xAXVQEQFw1QDJdRjMyQlBAMVhCVgNCKFYAXzJFUhlCNk1UMFZHVElWDyI3M0RCMzJSClRDREIKQjckRzVEQihWLAIqFCwBFRMWASsULAArFBAEFQ==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Bolivian Primera Division - Academiadb Vs Universitario De Vinto (09/26/25)
+Time: 05:30AM
+Date: 09/26/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/AyJJTDVYRklSQzdMTFQ3RFIRTjFIJk42TUIoVgJWRkNEXE5EARNUMTZCUklIJUI1NlgxRDFYNFYBVFRRSF0xNlI-VCgSPBYoEQMTEBIFECgQPRYUFAA=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Paraguayan Cup - River Plate (Par) Vs Resistencia Sc (09/26/25)
+Time: 05:30AM
+Date: 09/26/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/U1A3REokRjxAXVQENCNUKlJBTjFEIVRXT1AxQFI1VQZROlQxNkJXQDZYMDNEXUBMQEJQBFI-VCgSPBYoEQMTEi0KFCgQPRYUFAE=/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
 ================================================================================
