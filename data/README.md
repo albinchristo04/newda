@@ -1,24 +1,29 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Thu Sep 25 18:47:21 UTC 2025
+Last updated: Thu Sep 25 19:13:02 UTC 2025
 
-Workflow run: #206
+Workflow run: #207
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-25T18:47:21.043783
+Extracted at: 2025-09-25T19:13:01.689555
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== MEDIA SEGMENTS (First 10) ===
+=== GROUPED EVENTS BY TITLE ===
 
-1. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWA1BJM0hcNDVEQgo1SCJJQDZCMzJSR0ZIM1BUB0AoVFVAKDBWLkIqFSwHKhYaCispFAQqFxcFFSkR/index.m3u8
-2. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWA1BJM0hcNDVEQgo1SCJJQDZCMzJSR0ZIM1BUB0AoVFVAKDBWLkIqFSwDKhYaCispFAQqFxcFFSkT/index.m3u8
-3. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWA1BJM0hcNDVEQgo1SCJJQDZCMzJSR0ZIM1BUB0AoVFVAKDBWLkIqFSwHKhYaCispFAQqFxcFFSkR/index.m3u8
-4. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWA1BJM0hcNDVEQgo1SCJJQDZCMzJSR0ZIM1BUB0AoVFVAKDBWLkIqFSwDKhYaCispFAQqFxcFFSkT/index.m3u8
-5. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWV1Q9RDZCV0RNWkI1NkIzMlIeTklNVDA2N1BUUzpYSzJSPlQoETwRKBIKHCktBREoEwcTFxID/index.m3u8
-6. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWV1Q9RDZCV0RNWkI1NkIzMlIeTklNVDA2N1BUUzpYSzJSPlQoETwVKBIKHCktBREoEwcTFxIC/index.m3u8
-7. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWV1Q9RDZCV0RNWkI1NkIzMlIeTklNVDA2N1BUUzpYSzJSPlQoETwRKBIKHCktBREoEwcTFxID/index.m3u8
-8. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWV1Q9RDZCV0RNWkI1NkIzMlIeTklNVDA2N1BUUzpYSzJSPlQoETwVKBIKHCktBREoEwcTFxIC/index.m3u8
-9. https://world-proxifier.xyz/rbtv/p/A1AwSkQnR0RPX1QES1BKN0giSzJSGUJESiRCVi5CCgtYS1QNRCVOQkRCMzJSE0ZKTlRLVgNURjU2QihWLAMqFCwCHB4SARcULAMRERM9FA==/index.m3u8
-10. https://world-proxifier.xyz/rbtv/p/A1AwSkQnR0RPX1QES1BKN0giSzJSGUJESiRCVi5CCgtYS1QNRCVOQkRCMzJSE0ZKTlRLVgNURjU2QihWLAMqFCwCHB4SARcULAMRERM9FA==/index.m3u8
+EVENT: Major League Baseball - Baltimore Orioles Vs Tampa Bay Rays (09/26/25)
+Time: 01:05AM
+Date: 09/26/25
+Category: None
+Available Channels (2):
+  1. HDK A
+     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWA1BJM0hcNDVEQgo1SCJJQDZCMzJSR0ZIM1BUB0AoVFVAKDBWLkIqFSwHKhYaCispFAQqFxcFFSkR/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
+  2. HDK A
+     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWA1BJM0hcNDVEQgo1SCJJQDZCMzJSR0ZIM1BUB0AoVFVAKDBWLkIqFSwHKhYaCispFAQqFxcFFSkR/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
+
+================================================================================
+
+EVENT: Major League Baseball - Baltimore Orioles Vs Tampa Bay Rays (09/26/25) [STREAM 15[HD]]
 ```

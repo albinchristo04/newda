@@ -1,13 +1,92 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-25T18:47:21.043783
+Extraction Time: 2025-09-25T19:13:01.689555
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 0
-- Total Channels: 0
+- Unique Events: 39
+- Total Channels: 168
 - Individual Streams: 0
-- Media Segments: 126
+- Media Segments: 0
 - Other Events: 0
 
+EVENT BREAKDOWN:
+- Major League Baseball - Baltimore Orioles Vs Tampa Bay Rays ...
+  Time: 01:05AM, Channels: 2
+- Major League Baseball - Baltimore Orioles Vs Tampa Bay Rays ...
+  Time: 01:05AM, Channels: 2
+- Major League Baseball - Texas Rangers Vs Minnesota Twins (09...
+  Time: 02:35AM, Channels: 2
+- Major League Baseball - Texas Rangers Vs Minnesota Twins (09...
+  Time: 02:35AM, Channels: 2
+- Iraq Stars League - Al Shorta Vs Newroz Sc (09/26/25)
+  Time: 01:30AM, Channels: 2
+- Jordan Premier League - Al-Baq'S Vs Al Hussein Irbid (09/26/...
+  Time: 01:30AM, Channels: 2
+- Spanish La Liga - Ca Osasuna Vs Elche (09/26/25)
+  Time: 01:30AM, Channels: 10
+- Spanish La Liga - Ca Osasuna Vs Elche (09/26/25) [STREAM 43[...
+  Time: 01:30AM, Channels: 2
+- Belgian Second Division - Gent B Vs Lierse Kempenzonen (09/2...
+  Time: 02:00AM, Channels: 2
+- Saudi Professional League - Al Hilal Vs Al Okhdood (09/26/25...
+  Time: 02:00AM, Channels: 12
+- Paraguayan Cup - Club Sportivo 2 De Mayo Vs Deportivo Minga ...
+  Time: 02:30AM, Channels: 2
+- Polish Cup - Arka Gdynia Vs Motor Lublin (09/26/25)
+  Time: 02:30AM, Channels: 4
+- Italian Serie C - Ac Dolomiti Bellunesi Vs Vicenza (09/26/25...
+  Time: 02:45AM, Channels: 2
+- Italian Serie C - Inter Milan U23 Vs Triestina (09/26/25)
+  Time: 02:45AM, Channels: 2
+- Italian Serie C - Pro Vercelli Vs Lecco (09/26/25)
+  Time: 02:45AM, Channels: 2
+- Italian Serie C - Union Brescia  Vs Novara (09/26/25)
+  Time: 02:45AM, Channels: 2
+- Bolivian Primera Division - San Antonio Bulo Bulo Vs The Str...
+  Time: 03:00AM, Channels: 2
+- Coppa Italia - Torino Vs Pisa (09/26/25)
+  Time: 03:00AM, Channels: 6
+- Coppa Italia - Torino Vs Pisa (09/26/25) [STREAM 1[HD]]
+  Time: 03:00AM, Channels: 2
+- Uefa Europa League - Aston Villa Vs Bologna (09/26/25)
+  Time: 03:00AM, Channels: 16
+- Uefa Europa League - Aston Villa Vs Bologna (09/26/25) [STRE...
+  Time: 03:00AM, Channels: 2
+- Uefa Europa League - Fc Utrecht Vs Lyon (09/26/25)
+  Time: 03:00AM, Channels: 12
+- Uefa Europa League - Fc Utrecht Vs Lyon (09/26/25) [STREAM 6...
+  Time: 03:00AM, Channels: 2
+- Uefa Europa League - Ferencvarosi Tc Vs Fc Viktoria Plzen (0...
+  Time: 03:00AM, Channels: 8
+- Uefa Europa League - Ferencvarosi Tc Vs Fc Viktoria Plzen (0...
+  Time: 03:00AM, Channels: 2
+- Uefa Europa League - Rangers Vs Racing Genk (09/26/25)
+  Time: 03:00AM, Channels: 8
+- Uefa Europa League - Rangers Vs Racing Genk (09/26/25) [STRE...
+  Time: 03:00AM, Channels: 2
+- Uefa Europa League - Red Bull Salzburg Vs Fc Porto (09/26/25...
+  Time: 03:00AM, Channels: 12
+- Uefa Europa League - Red Bull Salzburg Vs Fc Porto (09/26/25...
+  Time: 03:00AM, Channels: 2
+- Uefa Europa League - Vfb Stuttgart Vs Rc Celta (09/26/25)
+  Time: 03:00AM, Channels: 16
+- Uefa Europa League - Vfb Stuttgart Vs Rc Celta (09/26/25) [S...
+  Time: 03:00AM, Channels: 2
+- Uefa Europa League - Young Boys Vs Panathinaikos (09/26/25)
+  Time: 03:00AM, Channels: 8
+- Uefa Europa League - Young Boys Vs Panathinaikos (09/26/25) ...
+  Time: 03:00AM, Channels: 2
+- Liga Asobal - Cd Bidasoa Vs Ademar Leon (09/26/25)
+  Time: 02:30AM, Channels: 2
+- Ehf Champions League - Magdeburg Vs Wisla Plock (09/26/25)
+  Time: 02:45AM, Channels: 2
+- Horse Racing - America'S Day At The Races (09/26/25) [STREAM...
+  Time: 01:00AM, Channels: 2
+- S-Cer - Villa De Llanes Rally | Presentation (09/26/25)
+  Time: 03:05AM, Channels: 2
+- England: Premiership Rugby - Sale Sharks Vs Gloucester (09/2...
+  Time: 02:45AM, Channels: 2
+- France: Pro D2 - Agen Vs Beziers (09/26/25)
+  Time: 03:00AM, Channels: 2
