@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-25T05:39:09.577173
+Extraction Time: 2025-09-25T05:49:40.880001
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 16
-- Total Channels: 20
+- Unique Events: 14
+- Total Channels: 18
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -26,8 +26,6 @@ EVENT BREAKDOWN:
   Time: 12:00PM, Channels: 1
 - Atp Tokyo, Japan Men Singles - Gabriel Diallo Vs Taylor Frit...
   Time: 12:20PM, Channels: 2
-- Wta Beijing, China Women Singles - Rebecca Sramkova Vs Elena...
-  Time: 12:20PM, Channels: 1
 - Atp Tokyo, Japan Men Singles - Damir Dzumhur Vs Aleksandar V...
   Time: 12:45PM, Channels: 1
 - Atp Beijing, China Men Singles - Benjamin Bonzi Vs Fabian Ma...
@@ -36,11 +34,9 @@ EVENT BREAKDOWN:
   Time: 01:20PM, Channels: 1
 - Wta Beijing, China Women Singles - Aliaksandra Sasnovich Vs ...
   Time: 01:25PM, Channels: 1
-- Atp Tokyo, Japan Men Singles - Jordan Thompson Vs Brandon Na...
-  Time: 01:40PM, Channels: 1
 - Wta Beijing, China Women Singles - Magdalena Frech Vs Ella S...
-  Time: 01:40PM, Channels: 1
+  Time: 01:50PM, Channels: 1
 - Wta Beijing, China Women Singles - Moyuka Uchijima Vs Zhu Li...
-  Time: 01:40PM, Channels: 1
+  Time: 01:50PM, Channels: 1
 - Livoli Divisi Utama - Putra: Ganeksa Bhumikarta Vs  Ganevo Y...
   Time: 01:30PM, Channels: 1

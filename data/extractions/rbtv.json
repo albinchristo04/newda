@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-25T05:39:09.577173",
+  "timestamp": "2025-09-25T05:49:40.880001",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -105,16 +105,6 @@
       "group_title": "TENNIS"
     },
     {
-      "event_time": "12:20PM",
-      "event_date": "09/25/25",
-      "channel_name": "HDD A",
-      "event_title": "Wta Beijing, China Women Singles - Rebecca Sramkova Vs Elena-Gabriela Ruse (09/25/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlRVRFFCQkZQVFIxUEpKMiVGVjUmVAJPVEtELhRGRTFYQktAQlcwNlRUKlI8FigXPBQeFQocFhM8FRMVPRMW/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
       "event_time": "12:45PM",
       "event_date": "09/25/25",
       "channel_name": "HDD A",
@@ -165,17 +155,7 @@
       "group_title": "TENNIS"
     },
     {
-      "event_time": "01:40PM",
-      "event_date": "09/25/25",
-      "channel_name": "HDD B",
-      "event_title": "Atp Tokyo, Japan Men Singles - Jordan Thompson Vs Brandon Nakashima (09/25/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VA8yIUFETUJRTzJcNTIyXVQxNkIFNUBdQTZNQglETlAwT0hcRlYuQioULAcqFhoFHBETCioXFwUrERo=/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "01:40PM",
+      "event_time": "01:50PM",
       "event_date": "09/25/25",
       "channel_name": "HDD B",
       "event_title": "Wta Beijing, China Women Singles - Magdalena Frech Vs Ella Seidel (09/25/25)",
@@ -185,7 +165,7 @@
       "group_title": "TENNIS"
     },
     {
-      "event_time": "01:40PM",
+      "event_time": "01:50PM",
       "event_date": "09/25/25",
       "channel_name": "HDD B",
       "event_title": "Wta Beijing, China Women Singles - Moyuka Uchijima Vs Zhu Lin (09/25/25)",
@@ -322,20 +302,6 @@
         }
       ]
     },
-    "Wta Beijing, China Women Singles - Rebecca Sramkova Vs Elena-Gabriela Ruse (09/25/25)": {
-      "event_title": "Wta Beijing, China Women Singles - Rebecca Sramkova Vs Elena-Gabriela Ruse (09/25/25)",
-      "event_time": "12:20PM",
-      "event_date": "09/25/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlRVRFFCQkZQVFIxUEpKMiVGVjUmVAJPVEtELhRGRTFYQktAQlcwNlRUKlI8FigXPBQeFQocFhM8FRMVPRMW/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "Atp Tokyo, Japan Men Singles - Damir Dzumhur Vs Aleksandar Vukic (09/25/25)": {
       "event_title": "Atp Tokyo, Japan Men Singles - Damir Dzumhur Vs Aleksandar Vukic (09/25/25)",
       "event_time": "12:45PM",
@@ -398,23 +364,9 @@
         }
       ]
     },
-    "Atp Tokyo, Japan Men Singles - Jordan Thompson Vs Brandon Nakashima (09/25/25)": {
-      "event_title": "Atp Tokyo, Japan Men Singles - Jordan Thompson Vs Brandon Nakashima (09/25/25)",
-      "event_time": "01:40PM",
-      "event_date": "09/25/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD B",
-          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VA8yIUFETUJRTzJcNTIyXVQxNkIFNUBdQTZNQglETlAwT0hcRlYuQioULAcqFhoFHBETCioXFwUrERo=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "Wta Beijing, China Women Singles - Magdalena Frech Vs Ella Seidel (09/25/25)": {
       "event_title": "Wta Beijing, China Women Singles - Magdalena Frech Vs Ella Seidel (09/25/25)",
-      "event_time": "01:40PM",
+      "event_time": "01:50PM",
       "event_date": "09/25/25",
       "category": null,
       "channels": [
@@ -428,7 +380,7 @@
     },
     "Wta Beijing, China Women Singles - Moyuka Uchijima Vs Zhu Lin (09/25/25)": {
       "event_title": "Wta Beijing, China Women Singles - Moyuka Uchijima Vs Zhu Lin (09/25/25)",
-      "event_time": "01:40PM",
+      "event_time": "01:50PM",
       "event_date": "09/25/25",
       "category": null,
       "channels": [
