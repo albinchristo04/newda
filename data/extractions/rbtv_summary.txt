@@ -1,88 +1,13 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-25T20:17:26.063660
+Extraction Time: 2025-09-25T20:38:14.871673
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 37
-- Total Channels: 84
+- Unique Events: 0
+- Total Channels: 0
 - Individual Streams: 0
-- Media Segments: 0
+- Media Segments: 166
 - Other Events: 0
 
-EVENT BREAKDOWN:
-- Usa: Ncaa - Hawk Vs Talk With Lance Leipold (09/26/25)
-  Time: 04:00AM, Channels: 1
-- Major League Baseball - Texas Rangers Vs Minnesota Twins (09...
-  Time: 02:35AM, Channels: 1
-- Major League Baseball - Texas Rangers Vs Minnesota Twins (09...
-  Time: 02:35AM, Channels: 1
-- Major League Baseball - Oakland Athletics Vs Houston Astros ...
-  Time: 03:35AM, Channels: 1
-- Major League Baseball - Oakland Athletics Vs Houston Astros ...
-  Time: 03:35AM, Channels: 1
-- Major League Baseball - Arizona Diamondbacks Vs Los Angeles ...
-  Time: 03:40AM, Channels: 1
-- Paraguayan Cup - Club Sportivo 2 De Mayo Vs Deportivo Minga ...
-  Time: 02:30AM, Channels: 1
-- Polish Cup - Arka Gdynia Vs Motor Lublin (09/26/25)
-  Time: 02:30AM, Channels: 1
-- Italian Serie C - Ac Dolomiti Bellunesi Vs Vicenza (09/26/25...
-  Time: 02:45AM, Channels: 1
-- Italian Serie C - Inter Milan U23 Vs Triestina (09/26/25)
-  Time: 02:45AM, Channels: 1
-- Italian Serie C - Pro Vercelli Vs Lecco (09/26/25)
-  Time: 02:45AM, Channels: 1
-- Italian Serie C - Union Brescia  Vs Novara (09/26/25)
-  Time: 02:45AM, Channels: 1
-- Bolivian Primera Division - San Antonio Bulo Bulo Vs The Str...
-  Time: 03:00AM, Channels: 1
-- Coppa Italia - Torino Vs Pisa (09/26/25)
-  Time: 03:00AM, Channels: 3
-- Coppa Italia - Torino Vs Pisa (09/26/25) [STREAM 1[HD]]
-  Time: 03:00AM, Channels: 1
-- Uefa Europa League - Aston Villa Vs Bologna (09/26/25)
-  Time: 03:00AM, Channels: 8
-- Uefa Europa League - Aston Villa Vs Bologna (09/26/25) [STRE...
-  Time: 03:00AM, Channels: 1
-- Uefa Europa League - Fc Utrecht Vs Lyon (09/26/25)
-  Time: 03:00AM, Channels: 7
-- Uefa Europa League - Fc Utrecht Vs Lyon (09/26/25) [STREAM 6...
-  Time: 03:00AM, Channels: 1
-- Uefa Europa League - Ferencvarosi Tc Vs Fc Viktoria Plzen (0...
-  Time: 03:00AM, Channels: 4
-- Uefa Europa League - Ferencvarosi Tc Vs Fc Viktoria Plzen (0...
-  Time: 03:00AM, Channels: 1
-- Uefa Europa League - Rangers Vs Racing Genk (09/26/25)
-  Time: 03:00AM, Channels: 4
-- Uefa Europa League - Rangers Vs Racing Genk (09/26/25) [STRE...
-  Time: 03:00AM, Channels: 1
-- Uefa Europa League - Red Bull Salzburg Vs Fc Porto (09/26/25...
-  Time: 03:00AM, Channels: 6
-- Uefa Europa League - Red Bull Salzburg Vs Fc Porto (09/26/25...
-  Time: 03:00AM, Channels: 1
-- Uefa Europa League - Vfb Stuttgart Vs Rc Celta (09/26/25)
-  Time: 03:00AM, Channels: 8
-- Uefa Europa League - Vfb Stuttgart Vs Rc Celta (09/26/25) [S...
-  Time: 03:00AM, Channels: 1
-- Uefa Europa League - Young Boys Vs Panathinaikos (09/26/25)
-  Time: 03:00AM, Channels: 5
-- Uefa Europa League - Young Boys Vs Panathinaikos (09/26/25) ...
-  Time: 03:00AM, Channels: 1
-- Spanish La Liga - Real Oviedo Vs Fc Barcelona (09/26/25)
-  Time: 03:30AM, Channels: 10
-- Spanish La Liga - Real Oviedo Vs Fc Barcelona (09/26/25) [ST...
-  Time: 03:30AM, Channels: 1
-- Peruvian Liga 1 - Ayacucho Futbol Club Vs Juan Pablo Ii (09/...
-  Time: 04:00AM, Channels: 2
-- Ehf Champions League - Magdeburg Vs Wisla Plock (09/26/25)
-  Time: 02:45AM, Channels: 1
-- Horse Racing - America'S Day At The Races (09/26/25) [STREAM...
-  Time: 01:00AM, Channels: 1
-- S-Cer - Villa De Llanes Rally | Presentation (09/26/25)
-  Time: 03:05AM, Channels: 1
-- England: Premiership Rugby - Sale Sharks Vs Gloucester (09/2...
-  Time: 02:45AM, Channels: 1
-- France: Pro D2 - Agen Vs Beziers (09/26/25)
-  Time: 03:00AM, Channels: 1
