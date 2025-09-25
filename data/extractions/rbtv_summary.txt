@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-25T09:39:12.177753
+Extraction Time: 2025-09-25T09:49:35.442450
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 24
-- Total Channels: 60
+- Unique Events: 22
+- Total Channels: 54
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -40,12 +40,8 @@ EVENT BREAKDOWN:
   Time: 05:30PM, Channels: 6
 - Kontinental Hockey League - Amur Khabarovsk Vs Cska Moscow (...
   Time: 05:15PM, Channels: 2
-- Wta Beijing, China Women Singles - Donna Vekic Vs Cristina B...
-  Time: 04:00PM, Channels: 2
-- Wta Beijing, China Women Singles - Victoria Jimenez Kasintse...
-  Time: 04:05PM, Channels: 2
 - Atp Beijing, China Men Singles - Alejandro Davidovich Fokina...
-  Time: 04:25PM, Channels: 4
+  Time: 04:25PM, Channels: 2
 - Wta Beijing, China Women Singles - Lois Boisson Vs Dalma Gal...
   Time: 04:25PM, Channels: 2
 - Atp Tokyo, Japan Men Singles - Zizou Bergs Vs Alejandro Tabi...
