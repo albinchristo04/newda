@@ -1,44 +1,44 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-25T22:12:47.889884
+Extraction Time: 2025-09-25T22:30:15.994668
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
 - Unique Events: 15
-- Total Channels: 19
+- Total Channels: 57
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
 - Usa: Nfl - Thursday Vs Night Football (09/26/25)
-  Time: 06:00AM, Channels: 1
+  Time: 06:00AM, Channels: 3
 - Major League Baseball - Oakland Athletics Vs Houston Astros ...
-  Time: 03:35AM, Channels: 1
+  Time: 03:35AM, Channels: 3
 - Major League Baseball - Oakland Athletics Vs Houston Astros ...
-  Time: 03:35AM, Channels: 1
-- Major League Baseball - Arizona Diamondbacks Vs Los Angeles ...
-  Time: 03:40AM, Channels: 1
+  Time: 03:35AM, Channels: 3
 - Major League Baseball - Philadelphia Phillies Vs Miami Marli...
-  Time: 06:05AM, Channels: 1
+  Time: 06:05AM, Channels: 3
 - Major League Baseball - Philadelphia Phillies Vs Miami Marli...
-  Time: 06:05AM, Channels: 1
+  Time: 06:05AM, Channels: 3
+- Chile Liga Nacional Basketball - Chile Boston College Vs Uni...
+  Time: 06:30AM, Channels: 3
 - Ecuadorian Campeonato Serie B - Cd Vargas Torres Vs Chacarit...
-  Time: 04:30AM, Channels: 1
+  Time: 04:30AM, Channels: 3
 - Ecuadorian Campeonato Serie B - Club Leones Del Norte Vs 9 D...
-  Time: 04:30AM, Channels: 1
+  Time: 04:30AM, Channels: 3
 - Bolivian Primera Division - Academiadb Vs Universitario De V...
-  Time: 05:30AM, Channels: 1
+  Time: 05:30AM, Channels: 3
 - Paraguayan Cup - River Plate (Par) Vs Resistencia Sc (09/26/...
-  Time: 05:30AM, Channels: 1
+  Time: 05:30AM, Channels: 3
 - Brazilian Serie B - Coritiba Pr Vs Criciuma (09/26/25)
-  Time: 06:00AM, Channels: 2
+  Time: 06:00AM, Channels: 6
 - Conmebol Copa Libertadores - Sao Paulo Vs Liga Dep Universit...
-  Time: 06:00AM, Channels: 4
+  Time: 06:00AM, Channels: 12
 - Conmebol Copa Libertadores - Sao Paulo Vs Liga Dep Universit...
-  Time: 06:00AM, Channels: 1
+  Time: 06:00AM, Channels: 3
 - Horse Racing - America'S Day At The Races (09/26/25) [STREAM...
-  Time: 01:00AM, Channels: 1
+  Time: 01:00AM, Channels: 3
 - Nascar Cup Series - Nhra Sportsman Series Reading (09/26/25)
-  Time: 06:00AM, Channels: 1
+  Time: 06:00AM, Channels: 3

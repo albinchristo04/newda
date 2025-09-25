@@ -1,4 +1,4 @@
-Extracted at: 2025-09-25T22:12:47.889884
+Extracted at: 2025-09-25T22:30:15.994668
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -7,8 +7,14 @@ EVENT: Usa: Nfl - Thursday Vs Night Football (09/26/25)
 Time: 06:00AM
 Date: 09/26/25
 Category: None
-Available Channels (1):
+Available Channels (3):
   1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/VEYEH1IfAQ1SPlRTSyQ3MkdQPlY1JlQLSFpNM1IXNDY3UUZLT0IoViwKKhMsAhweEgcRFSwDERETACs=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp
+  2. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/VEYEH1IfAQ1SPlRTSyQ3MkdQPlY1JlQLSFpNM1IXNDY3UUZLT0IoViwKKhMsAhweEgcRFSwDERETACs=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp
+  3. HDD A
      URL: https://world-proxifier.xyz/rbtv/p/VEYEH1IfAQ1SPlRTSyQ3MkdQPlY1JlQLSFpNM1IXNDY3UUZLT0IoViwKKhMsAhweEgcRFSwDERETACs=/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp
 
@@ -18,8 +24,14 @@ EVENT: Major League Baseball - Oakland Athletics Vs Houston Astros (09/26/25)
 Time: 03:35AM
 Date: 09/26/25
 Category: None
-Available Channels (1):
+Available Channels (3):
   1. HDK A
+     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWDFBIS0BdQVYCJ01LRCdOQjZCMzJSFTQwNic0SVISMDMxIjBWLkIqFSwHKhYaCispFQQqFxcFFRcT/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
+  2. HDK A
+     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWDFBIS0BdQVYCJ01LRCdOQjZCMzJSFTQwNic0SVISMDMxIjBWLkIqFSwHKhYaCispFQQqFxcFFRcT/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
+  3. HDK A
      URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWDFBIS0BdQVYCJ01LRCdOQjZCMzJSFTQwNic0SVISMDMxIjBWLkIqFSwHKhYaCispFQQqFxcFFRcT/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
 
@@ -29,20 +41,15 @@ EVENT: Major League Baseball - Oakland Athletics Vs Houston Astros (09/26/25) [S
 Time: 03:35AM
 Date: 09/26/25
 Category: None
-Available Channels (1):
+Available Channels (3):
   1. None
      URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWDFBIS0BdQVYCJ01LRCdOQjZCMzJSFTQwNic0SVISMDMxIjBWLkIqFSwDKhYaCispFQQqFxcFFRcS/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
-
-================================================================================
-
-EVENT: Major League Baseball - Arizona Diamondbacks Vs Los Angeles Dodgers (09/26/25)
-Time: 03:40AM
-Date: 09/26/25
-Category: None
-Available Channels (1):
-  1. HDK A
-     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAiFOPTJdRlYBWEZIMl1BRUBWSDJSJTBWCSIwVgJdTEBPVDBWASJBTkQhMFYuQioVLAcqFhoKKykVBSoXFwUVFxE=/index.m3u8
+  2. None
+     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWDFBIS0BdQVYCJ01LRCdOQjZCMzJSFTQwNic0SVISMDMxIjBWLkIqFSwDKhYaCispFQQqFxcFFRcS/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
+  3. None
+     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWDFBIS0BdQVYCJ01LRCdOQjZCMzJSFTQwNic0SVISMDMxIjBWLkIqFSwDKhYaCispFQQqFxcFFRcS/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
 
 ================================================================================
@@ -51,8 +58,14 @@ EVENT: Major League Baseball - Philadelphia Phillies Vs Miami Marlins (09/26/25)
 Time: 06:05AM
 Date: 09/26/25
 Category: None
-Available Channels (1):
+Available Channels (3):
   1. HDK A
+     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWU1tOS0BXQkszW05EUkNNTE9fTkA2QjMyUh5ORExYVApAIUlMTSZUKlI8FygXPBQeGj0rERo8FRMVAxYW/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
+  2. HDK A
+     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWU1tOS0BXQkszW05EUkNNTE9fTkA2QjMyUh5ORExYVApAIUlMTSZUKlI8FygXPBQeGj0rERo8FRMVAxYW/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
+  3. HDK A
      URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWU1tOS0BXQkszW05EUkNNTE9fTkA2QjMyUh5ORExYVApAIUlMTSZUKlI8FygXPBQeGj0rERo8FRMVAxYW/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
 
@@ -62,10 +75,33 @@ EVENT: Major League Baseball - Philadelphia Phillies Vs Miami Marlins (09/26/25)
 Time: 06:05AM
 Date: 09/26/25
 Category: None
-Available Channels (1):
+Available Channels (3):
   1. None
      URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWU1tOS0BXQkszW05EUkNNTE9fTkA2QjMyUh5ORExYVApAIUlMTSZUKlI8FygTPBQeGj0rERo8FRMVAxUe/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
+  2. None
+     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWU1tOS0BXQkszW05EUkNNTE9fTkA2QjMyUh5ORExYVApAIUlMTSZUKlI8FygTPBQeGj0rERo8FRMVAxUe/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
+  3. None
+     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWU1tOS0BXQkszW05EUkNNTE9fTkA2QjMyUh5ORExYVApAIUlMTSZUKlI8FygTPBQeGj0rERo8FRMVAxUe/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
+
+================================================================================
+
+EVENT: Chile Liga Nacional Basketball - Chile Boston College Vs Universidad Catolica (09/26/25)
+Time: 06:30AM
+Date: 09/26/25
+Category: None
+Available Channels (3):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/AFtOS0RCD0xKUFQLQFZONk1QSVYDUDBKRCdHRE9fVCpSEE1MT1RUBzImMTZNQgY2T19CTkRCMzJSREtMNVQ3MkhXRkNSEEYzMl9OQkBCKFYsAyoULAIcHhMAHBEsAxEREwAW/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/AFtOS0RCD0xKUFQLQFZONk1QSVYDUDBKRCdHRE9fVCpSEE1MT1RUBzImMTZNQgY2T19CTkRCMzJSREtMNVQ3MkhXRkNSEEYzMl9OQkBCKFYsAyoULAIcHhMAHBEsAxEREwAW/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+  3. SD
+     URL: https://world-proxifier.xyz/rbtv/p/AFtOS0RCD0xKUFQLQFZONk1QSVYDUDBKRCdHRE9fVCpSEE1MT1RUBzImMTZNQgY2T19CTkRCMzJSREtMNVQ3MkhXRkNSEEYzMl9OQkBCKFYsAyoULAIcHhMAHBEsAxEREwAW/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
 
 ================================================================================
 
@@ -73,8 +109,14 @@ EVENT: Ecuadorian Campeonato Serie B - Cd Vargas Torres Vs Chacaritas Sc (09/26/
 Time: 04:30AM
 Date: 09/26/25
 Category: None
-Available Channels (1):
+Available Channels (3):
   1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/BlYyREciN0xAXVQEQFw1QDJdRjMyQlBAMVhCVgNCKFYAEVRRQCFMRDZCUTYxIUIyUiUwVgBbRkJAIU4zQCZUUgBCKFYsAioULAEVExYBFhYsACsUEAQU/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/BlYyREciN0xAXVQEQFw1QDJdRjMyQlBAMVhCVgNCKFYAEVRRQCFMRDZCUTYxIUIyUiUwVgBbRkJAIU4zQCZUUgBCKFYsAioULAEVExYBFhYsACsUEAQU/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  3. SD
      URL: https://world-proxifier.xyz/rbtv/p/BlYyREciN0xAXVQEQFw1QDJdRjMyQlBAMVhCVgNCKFYAEVRRQCFMRDZCUTYxIUIyUiUwVgBbRkJAIU4zQCZUUgBCKFYsAioULAEVExYBFhYsACsUEAQU/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
@@ -84,8 +126,14 @@ EVENT: Ecuadorian Campeonato Serie B - Club Leones Del Norte Vs 9 De Octubre (09
 Time: 04:30AM
 Date: 09/26/25
 Category: None
-Available Channels (1):
+Available Channels (3):
   1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/BlYyREciN0xAXVQEQFw1QDJdRjMyQlBAMVhCVgNCKFYAXzJFUhlCNk1UMFZHVElWDyI3M0RCMzJSClRDREIKQjckRzVEQihWLAIqFCwBFRMWASsULAArFBAEFQ==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/BlYyREciN0xAXVQEQFw1QDJdRjMyQlBAMVhCVgNCKFYAXzJFUhlCNk1UMFZHVElWDyI3M0RCMzJSClRDREIKQjckRzVEQihWLAIqFCwBFRMWASsULAArFBAEFQ==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  3. SD
      URL: https://world-proxifier.xyz/rbtv/p/BlYyREciN0xAXVQEQFw1QDJdRjMyQlBAMVhCVgNCKFYAXzJFUhlCNk1UMFZHVElWDyI3M0RCMzJSClRDREIKQjckRzVEQihWLAIqFCwBFRMWASsULAArFBAEFQ==/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
@@ -95,8 +143,14 @@ EVENT: Bolivian Primera Division - Academiadb Vs Universitario De Vinto (09/26/2
 Time: 05:30AM
 Date: 09/26/25
 Category: None
-Available Channels (1):
+Available Channels (3):
   1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/AyJJTDVYRklSQzdMTFQ3RFIRTjFIJk42TUIoVgJWRkNEXE5EARNUMTZCUklIJUI1NlgxRDFYNFYBVFRRSF0xNlI-VCgSPBYoEQMTEBIFECgQPRYUFAA=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/AyJJTDVYRklSQzdMTFQ3RFIRTjFIJk42TUIoVgJWRkNEXE5EARNUMTZCUklIJUI1NlgxRDFYNFYBVFRRSF0xNlI-VCgSPBYoEQMTEBIFECgQPRYUFAA=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  3. SD
      URL: https://world-proxifier.xyz/rbtv/p/AyJJTDVYRklSQzdMTFQ3RFIRTjFIJk42TUIoVgJWRkNEXE5EARNUMTZCUklIJUI1NlgxRDFYNFYBVFRRSF0xNlI-VCgSPBYoEQMTEBIFECgQPRYUFAA=/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
@@ -106,8 +160,14 @@ EVENT: Paraguayan Cup - River Plate (Par) Vs Resistencia Sc (09/26/25)
 Time: 05:30AM
 Date: 09/26/25
 Category: None
-Available Channels (1):
+Available Channels (3):
   1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/U1A3REokRjxAXVQENCNUKlJBTjFEIVRXT1AxQFI1VQZROlQxNkJXQDZYMDNEXUBMQEJQBFI-VCgSPBYoEQMTEi0KFCgQPRYUFAE=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/U1A3REokRjxAXVQENCNUKlJBTjFEIVRXT1AxQFI1VQZROlQxNkJXQDZYMDNEXUBMQEJQBFI-VCgSPBYoEQMTEi0KFCgQPRYUFAE=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  3. SD
      URL: https://world-proxifier.xyz/rbtv/p/U1A3REokRjxAXVQENCNUKlJBTjFEIVRXT1AxQFI1VQZROlQxNkJXQDZYMDNEXUBMQEJQBFI-VCgSPBYoEQMTEi0KFCgQPRYUFAE=/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
@@ -117,11 +177,23 @@ EVENT: Brazilian Serie B - Coritiba Pr Vs Criciuma (09/26/25)
 Time: 06:00AM
 Date: 09/26/25
 Category: None
-Available Channels (2):
+Available Channels (6):
   1. SDK A
      URL: https://world-proxifier.xyz/rbtv/p/AyFGPUhfTkRNQlBAMVhCVgNCKFYAIjdMN1hHRFJDV1Y1JlQEMVhATDRcRlYuQioWLAcqFRIGFBIaACoULQAWES0=/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
   2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/AyFGPUhfTkRNQlBAMVhCVgNCKFYAIjdMN1hHRFJDV1Y1JlQEMVhATDRcRlYuQioWLAAqFRIGFBIaACoULQAWEBU=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  3. SDK A
+     URL: https://world-proxifier.xyz/rbtv/p/AyFGPUhfTkRNQlBAMVhCVgNCKFYAIjdMN1hHRFJDV1Y1JlQEMVhATDRcRlYuQioWLAcqFRIGFBIaACoULQAWES0=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  4. SD
+     URL: https://world-proxifier.xyz/rbtv/p/AyFGPUhfTkRNQlBAMVhCVgNCKFYAIjdMN1hHRFJDV1Y1JlQEMVhATDRcRlYuQioWLAAqFRIGFBIaACoULQAWEBU=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  5. SDK A
+     URL: https://world-proxifier.xyz/rbtv/p/AyFGPUhfTkRNQlBAMVhCVgNCKFYAIjdMN1hHRFJDV1Y1JlQEMVhATDRcRlYuQioWLAcqFRIGFBIaACoULQAWES0=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  6. SD
      URL: https://world-proxifier.xyz/rbtv/p/AyFGPUhfTkRNQlBAMVhCVgNCKFYAIjdMN1hHRFJDV1Y1JlQEMVhATDRcRlYuQioWLAAqFRIGFBIaACoULQAWEBU=/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
@@ -131,7 +203,7 @@ EVENT: Conmebol Copa Libertadores - Sao Paulo Vs Liga Dep Universitaria Quito (0
 Time: 06:00AM
 Date: 09/26/25
 Category: None
-Available Channels (4):
+Available Channels (12):
   1. LALIGA
      URL: https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlJGRjZSQ0YwTyJUMTZCD0xKUFQFRCNUUE1YM0AxJk4zQCFORFJAMkw3IlQqUjwUKBM9KxYsARUTEz0rFCwHFB4WAxQ=/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
@@ -144,6 +216,30 @@ Available Channels (4):
   4. SD
      URL: https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlJGRjZSQ0YwTyJUMTZCD0xKUFQFRCNUUE1YM0AxJk4zQCFORFJAMkw3IlQqUjwUKBA8FxcXAyspEDwWKRAAEhA=/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  5. LALIGA
+     URL: https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlJGRjZSQ0YwTyJUMTZCD0xKUFQFRCNUUE1YM0AxJk4zQCFORFJAMkw3IlQqUjwUKBM9KxYsARUTEz0rFCwHFB4WAxQ=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  6. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlJGRjZSQ0YwTyJUMTZCD0xKUFQFRCNUUE1YM0AxJk4zQCFORFJAMkw3IlQqUjwUKBc8FxcXAyspEDwWKRAAEhI=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  7. HDD B ESPAÑOL
+     URL: https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlJGRjZSQ0YwTyJUMTZCD0xKUFQFRCNUUE1YM0AxJk4zQCFORFJAMkw3IlQqUjwUKBc8FxcXAyspEDwWKRAAEhM=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  8. SD
+     URL: https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlJGRjZSQ0YwTyJUMTZCD0xKUFQFRCNUUE1YM0AxJk4zQCFORFJAMkw3IlQqUjwUKBA8FxcXAyspEDwWKRAAEhA=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  9. LALIGA
+     URL: https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlJGRjZSQ0YwTyJUMTZCD0xKUFQFRCNUUE1YM0AxJk4zQCFORFJAMkw3IlQqUjwUKBM9KxYsARUTEz0rFCwHFB4WAxQ=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  10. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlJGRjZSQ0YwTyJUMTZCD0xKUFQFRCNUUE1YM0AxJk4zQCFORFJAMkw3IlQqUjwUKBc8FxcXAyspEDwWKRAAEhI=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  11. HDD B ESPAÑOL
+     URL: https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlJGRjZSQ0YwTyJUMTZCD0xKUFQFRCNUUE1YM0AxJk4zQCFORFJAMkw3IlQqUjwUKBc8FxcXAyspEDwWKRAAEhM=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  12. SD
+     URL: https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlJGRjZSQ0YwTyJUMTZCD0xKUFQFRCNUUE1YM0AxJk4zQCFORFJAMkw3IlQqUjwUKBA8FxcXAyspEDwWKRAAEhA=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
 ================================================================================
 
@@ -151,8 +247,14 @@ EVENT: Conmebol Copa Libertadores - Sao Paulo Vs Liga Dep Universitaria Quito (0
 Time: 06:00AM
 Date: 09/26/25
 Category: None
-Available Channels (1):
+Available Channels (3):
   1. None
+     URL: https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlJGRjZSQ0YwTyJUMTZCD0xKUFQFRCNUUE1YM0AxJk4zQCFORFJAMkw3IlQqUjwUKBM8FxcXAyspEDwWKRAAEh4=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. None
+     URL: https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlJGRjZSQ0YwTyJUMTZCD0xKUFQFRCNUUE1YM0AxJk4zQCFORFJAMkw3IlQqUjwUKBM8FxcXAyspEDwWKRAAEh4=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  3. None
      URL: https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlJGRjZSQ0YwTyJUMTZCD0xKUFQFRCNUUE1YM0AxJk4zQCFORFJAMkw3IlQqUjwUKBM8FxcXAyspEDwWKRAAEh4=/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
@@ -162,8 +264,14 @@ EVENT: Horse Racing - America'S Day At The Races (09/26/25) [STREAM 41[HD]]
 Time: 01:00AM
 Date: 09/26/25
 Category: None
-Available Channels (1):
+Available Channels (3):
   1. None
+     URL: https://world-proxifier.xyz/rbtv/p/BSI3MkRCV0RGWEtOUj5UBkxUN0xGUCIyUhFGPFISMVY3W0JWUVBAQDZCKFYsBCoXLAIcHhMAHBYsAxEREz0W/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp
+  2. None
+     URL: https://world-proxifier.xyz/rbtv/p/BSI3MkRCV0RGWEtOUj5UBkxUN0xGUCIyUhFGPFISMVY3W0JWUVBAQDZCKFYsBCoXLAIcHhMAHBYsAxEREz0W/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp
+  3. None
      URL: https://world-proxifier.xyz/rbtv/p/BSI3MkRCV0RGWEtOUj5UBkxUN0xGUCIyUhFGPFISMVY3W0JWUVBAQDZCKFYsBCoXLAIcHhMAHBYsAxEREz0W/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp
 
@@ -173,8 +281,14 @@ EVENT: Nascar Cup Series - Nhra Sportsman Series Reading (09/26/25)
 Time: 06:00AM
 Date: 09/26/25
 Category: None
-Available Channels (1):
+Available Channels (3):
   1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/D1AwQkAhVAQ0I1RSRCFOQDZCKFYPFVcGUkY1NjEnMEhAXVRSRCFOQDZCV0BAV05JSkIoViwEKhMsAhweEwYWFCwDERETAxM=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp
+  2. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/D1AwQkAhVAQ0I1RSRCFOQDZCKFYPFVcGUkY1NjEnMEhAXVRSRCFOQDZCV0BAV05JSkIoViwEKhMsAhweEwYWFCwDERETAxM=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp
+  3. HDD A
      URL: https://world-proxifier.xyz/rbtv/p/D1AwQkAhVAQ0I1RSRCFOQDZCKFYPFVcGUkY1NjEnMEhAXVRSRCFOQDZCV0BAV05JSkIoViwEKhMsAhweEwYWFCwDERETAxM=/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp
 
