@@ -1,58 +1,48 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-25T12:32:54.945302
+Extraction Time: 2025-09-25T13:17:39.273763
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 22
-- Total Channels: 31
+- Unique Events: 17
+- Total Channels: 46
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
-- Korea Open, Doubles - Chiu H C / Wang C Vs Lee Jhe-Huei/Yang...
-  Time: 07:50PM, Channels: 1
-- Korea Open, Women, Singles - Kim Ga-Eun Vs Gao Fangjie (09/2...
-  Time: 08:20PM, Channels: 1
-- Korea Open, Doubles - Alfian F / Fikri M S Vs Kenya Mitsuhas...
-  Time: 08:30PM, Channels: 1
-- Npb - Rakuten Gold. Eagles Vs Fukuoka Softbank Hawks (09/25/...
-  Time: 05:00PM, Channels: 1
+- Korea Open, Women, Singles - Pai Yu-Po Vs Putri Kusuma Warda...
+  Time: 08:40PM, Channels: 2
+- Korea Open, Doubles - Jin Yong/Na Sung-Seung Vs Kim Gi-Jung/...
+  Time: 09:10PM, Channels: 2
 - Philippines Mpbl - Batangas City Tanduay Rum Masters Vs Mind...
-  Time: 08:00PM, Channels: 1
-- Cycling World Cup - U23 Women'S Road Race (09/25/25)
-  Time: 06:55PM, Channels: 3
-- Cycling World Cup - U23 Women'S Road Race (09/25/25) [STREAM...
-  Time: 06:55PM, Channels: 1
-- Kazakhstan Division 1 - Akademiya Ontustik Vs Fc Shakhtyor K...
-  Time: 07:00PM, Channels: 1
-- Kazakhstan Division 1 - Yassy Turkistan Vs Ekibastuzets (09/...
-  Time: 07:00PM, Channels: 1
-- Russian Cup - Irkutsk Vs Fk Chelyabinsk (09/25/25)
-  Time: 07:00PM, Channels: 1
-- Azerbaijan First Division - Baku Sportinq Fk Vs Simal Fk (09...
-  Time: 07:30PM, Channels: 1
-- Azerbaijan First Division - Fk Moik Baku Vs Zaqatala Fk (09/...
-  Time: 07:30PM, Channels: 1
-- Singapore Premier League - Tanjong Pagar Utd Vs Young Lions ...
-  Time: 07:30PM, Channels: 1
-- Indonesian Liga 1 - Psbs Biak Numfor Vs Madura United (09/25...
   Time: 08:00PM, Channels: 2
+- Cycling World Cup - U23 Women'S Road Race (09/25/25)
+  Time: 06:55PM, Channels: 4
+- Cycling World Cup - U23 Women'S Road Race (09/25/25) [STREAM...
+  Time: 06:55PM, Channels: 2
+- Azerbaijan First Division - Baku Sportinq Fk Vs Simal Fk (09...
+  Time: 07:30PM, Channels: 2
+- Azerbaijan First Division - Fk Moik Baku Vs Zaqatala Fk (09/...
+  Time: 07:30PM, Channels: 2
+- Singapore Premier League - Tanjong Pagar Utd Vs Young Lions ...
+  Time: 07:30PM, Channels: 2
+- Indonesian Liga 1 - Psbs Biak Numfor Vs Madura United (09/25...
+  Time: 08:00PM, Channels: 4
 - Polish Cup - Avia Swidnik Vs Ruch Chorzow (09/25/25)
-  Time: 08:00PM, Channels: 1
+  Time: 08:00PM, Channels: 2
 - Asean Club Championship Shopee Cup - Thep Xanh Nam Dinh Fc V...
-  Time: 08:30PM, Channels: 2
+  Time: 08:30PM, Channels: 4
 - Polish Cup - Odra Bytom Odrzanski Vs Wisla Krakow (09/25/25)
-  Time: 08:30PM, Channels: 2
-- Atp Beijing, China Men Singles - Jannik Sinner Vs Marin Cili...
-  Time: 07:00PM, Channels: 3
+  Time: 08:30PM, Channels: 4
+- Wta Beijing, China Women Singles - Yuan Yue Vs Yulia Putints...
+  Time: 08:40PM, Channels: 2
 - Livoli Divisi Utama - Putra: Indomaret  Vs  Tni Au Electric ...
-  Time: 07:30PM, Channels: 1
+  Time: 07:30PM, Channels: 2
 - Beach Pro Tour - Elite16 | Rio De Janeiro Vs Group Stage 1 |...
-  Time: 07:55PM, Channels: 1
+  Time: 07:55PM, Channels: 2
 - Beach Pro Tour - Elite16 | Rio De Janeiro Vs Group Stage 1 |...
-  Time: 07:55PM, Channels: 1
+  Time: 07:55PM, Channels: 2
 - World Championship - Usa Vs Bulgaria (09/25/25)
-  Time: 08:00PM, Channels: 3
+  Time: 08:00PM, Channels: 6
