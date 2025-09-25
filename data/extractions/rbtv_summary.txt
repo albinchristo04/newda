@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-25T17:49:28.929574
+Extraction Time: 2025-09-25T18:22:50.324836
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 49
-- Total Channels: 146
+- Unique Events: 42
+- Total Channels: 140
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -24,21 +24,9 @@ EVENT BREAKDOWN:
   Time: 10:30PM, Channels: 2
 - T20 Asia Cup - Pakistan Vs Bangladesh (09/25/25) [STREAM 44[...
   Time: 10:30PM, Channels: 2
-- Bahrain Premier League - Al Hidd Vs Al-Riffa (09/26/25)
-  Time: 12:00AM, Channels: 2
-- Bahrain Premier League - Sitra Vs Najma Manama (09/26/25)
-  Time: 12:00AM, Channels: 2
-- Israel Women'S First National - Maccabi Hadera Women Vs Hapo...
-  Time: 12:00AM, Channels: 2
-- Latvian Higher League - Rigas Futbola Skola Vs Riga Fc (09/2...
-  Time: 12:00AM, Channels: 2
-- United Arab Emirates Adnoc Pro-League - Al-Wasl Sc Vs Al-Sha...
-  Time: 12:15AM, Channels: 2
 - Coppa Italia - Genoa Vs Empoli (09/26/25)
   Time: 12:30AM, Channels: 6
 - Coppa Italia - Genoa Vs Empoli (09/26/25) [STREAM 1[HD]]
-  Time: 12:30AM, Channels: 2
-- Italian Serie C - Arzignano Valchiampo Vs Asd Alcione (09/26...
   Time: 12:30AM, Channels: 2
 - Italian Serie C - Cittadella Vs Lumezzane (09/26/25)
   Time: 12:30AM, Channels: 2
@@ -96,17 +84,15 @@ EVENT BREAKDOWN:
   Time: 01:30AM, Channels: 10
 - Spanish La Liga - Ca Osasuna Vs Elche (09/26/25) [STREAM 43[...
   Time: 01:30AM, Channels: 2
-- Polish Cup - Radomiak Radom Vs Zaglebie Lubin (09/25/25)
-  Time: 11:30PM, Channels: 2
+- Belgian Second Division - Gent B Vs Lierse Kempenzonen (09/2...
+  Time: 02:00AM, Channels: 2
+- Saudi Professional League - Al Hilal Vs Al Okhdood (09/26/25...
+  Time: 02:00AM, Channels: 12
 - Ehf Champions League - Ppd Zagreb Vs Barcelona (09/26/25)
-  Time: 12:45AM, Channels: 6
+  Time: 12:45AM, Channels: 4
 - Ehf Champions League - Ppd Zagreb Vs Barcelona (09/26/25) [S...
   Time: 12:45AM, Channels: 2
 - Ehf Champions League - Vive Tauron Kielce Vs Fuchse Berlin (...
   Time: 12:45AM, Channels: 2
 - Horse Racing - America'S Day At The Races (09/26/25) [STREAM...
   Time: 01:00AM, Channels: 2
-- Beach Pro Tour - Elite16 | Rio De Janeiro Vs Group Stage 1 |...
-  Time: 07:55PM, Channels: 2
-- Beach Pro Tour - Elite16 | Rio De Janeiro Vs Group Stage 1 |...
-  Time: 07:55PM, Channels: 2
