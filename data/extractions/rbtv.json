@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-25T11:38:38.341344",
+  "timestamp": "2025-09-25T11:49:46.321546",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -40,6 +40,16 @@
       "channel_name": "VDO",
       "event_title": "Korea Open, Doubles - Chen C K / Lin B-W Vs Cho S H / Jin S I (09/25/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQgZPRF1UBFIYVChSGU5JUhMoXlIlMFYAWzRWVkIDVixCDUxNQlBWCkIoViwCFSgTPSsWLAIcHhIGKxUsBxQeFwQU/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+      "group_title": "BADMINTON"
+    },
+    {
+      "event_time": "07:50PM",
+      "event_date": "09/25/25",
+      "channel_name": "VDO",
+      "event_title": "Korea Open, Doubles - Chiu H C / Wang C Vs Lee Jhe-Huei/Yang Po-Hsuan (09/25/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQgZPSCRUAVIQVChSSkZJSkIGVjUmVA1EVFQPS1QoTzRUTihYUEtOUkM0KksmMkRNQihWLAIVKBM9KxYsAhweEgMcFiwHFB4XBRc=/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
       "group_title": "BADMINTON"
@@ -194,16 +204,6 @@
       "group_title": "TENNIS"
     },
     {
-      "event_time": "04:40PM",
-      "event_date": "09/25/25",
-      "channel_name": "HDD A",
-      "event_title": "Atp Tokyo, Japan Men Singles - Zizou Bergs Vs Alejandro Tabilo (09/25/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VF1IKTQwUhNCNUomVDE2QgRLRFlGSUchNFZXUEdMTyJUKlI8FigXPBQeFQoTFBI8FRMVAhcQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
       "event_time": "07:00PM",
       "event_date": "09/25/25",
       "channel_name": "VDO",
@@ -336,6 +336,20 @@
         {
           "channel_name": "VDO",
           "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQgZPRF1UBFIYVChSGU5JUhMoXlIlMFYAWzRWVkIDVixCDUxNQlBWCkIoViwCFSgTPSsWLAIcHhIGKxUsBxQeFwQU/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Korea Open, Doubles - Chiu H C / Wang C Vs Lee Jhe-Huei/Yang Po-Hsuan (09/25/25)": {
+      "event_title": "Korea Open, Doubles - Chiu H C / Wang C Vs Lee Jhe-Huei/Yang Po-Hsuan (09/25/25)",
+      "event_time": "07:50PM",
+      "event_date": "09/25/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQgZPSCRUAVIQVChSSkZJSkIGVjUmVA1EVFQPS1QoTzRUTihYUEtOUkM0KksmMkRNQihWLAIVKBM9KxYsAhweEgMcFiwHFB4XBRc=/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
           "duration": null
         }
@@ -530,20 +544,6 @@
         {
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQNMlgwVgMiTjI2IktWNSZUBUBfSkRSFEZLRVhUKlI8FigXPBQeGj0QFhY8FRMVAhcU/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Atp Tokyo, Japan Men Singles - Zizou Bergs Vs Alejandro Tabilo (09/25/25)": {
-      "event_title": "Atp Tokyo, Japan Men Singles - Zizou Bergs Vs Alejandro Tabilo (09/25/25)",
-      "event_time": "04:40PM",
-      "event_date": "09/25/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VF1IKTQwUhNCNUomVDE2QgRLRFlGSUchNFZXUEdMTyJUKlI8FigXPBQeFQoTFBI8FRMVAhcQ/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }

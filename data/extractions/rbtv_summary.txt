@@ -1,7 +1,7 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-25T11:38:38.341344
+Extraction Time: 2025-09-25T11:49:46.321546
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
@@ -20,6 +20,8 @@ EVENT BREAKDOWN:
   Time: 07:30PM, Channels: 1
 - Korea Open, Doubles - Chen C K / Lin B-W Vs Cho S H / Jin S ...
   Time: 07:40PM, Channels: 1
+- Korea Open, Doubles - Chiu H C / Wang C Vs Lee Jhe-Huei/Yang...
+  Time: 07:50PM, Channels: 1
 - Npb - Orix Buffaloes Vs Chiba Lotte Marines (09/25/25)
   Time: 05:00PM, Channels: 1
 - Npb - Rakuten Gold. Eagles Vs Fukuoka Softbank Hawks (09/25/...
@@ -46,8 +48,6 @@ EVENT BREAKDOWN:
   Time: 07:30PM, Channels: 1
 - Wta Beijing, China Women Singles - Lois Boisson Vs Dalma Gal...
   Time: 04:25PM, Channels: 1
-- Atp Tokyo, Japan Men Singles - Zizou Bergs Vs Alejandro Tabi...
-  Time: 04:40PM, Channels: 1
 - Atp Beijing, China Men Singles - Jannik Sinner Vs Marin Cili...
   Time: 07:00PM, Channels: 3
 - Livoli Divisi Utama - Putra: Ganeksa Bhumikarta Vs  Ganevo Y...
