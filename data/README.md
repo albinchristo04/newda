@@ -1,29 +1,29 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Thu Sep 25 19:49:31 UTC 2025
+Last updated: Thu Sep 25 20:17:27 UTC 2025
 
-Workflow run: #210
+Workflow run: #211
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-25T19:49:30.476507
+Extracted at: 2025-09-25T20:17:26.063660
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
 
-EVENT: Major League Baseball - Baltimore Orioles Vs Tampa Bay Rays (09/26/25)
-Time: 01:05AM
+EVENT: Usa: Ncaa - Hawk Vs Talk With Lance Leipold (09/26/25)
+Time: 04:00AM
 Date: 09/26/25
 Category: None
-Available Channels (2):
-  1. HDK A
-     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWA1BJM0hcNDVEQgo1SCJJQDZCMzJSR0ZIM1BUB0AoVFVAKDBWLkIqFSwHKhYaCispFAQqFxcFFSkR/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
-  2. HDK A
-     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWA1BJM0hcNDVEQgo1SCJJQDZCMzJSR0ZIM1BUB0AoVFVAKDBWLkIqFSwHKhYaCispFAQqFxcFFSkR/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
+Available Channels (1):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/VEYEH1IfBgYCQihWBVA8SlIlMFZXUElKUipOM0tCD0RNVkJWCVRONzJfQVYuQioeLAcqFhoKFRQaAyoXFwUVFxQ=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp
 
 ================================================================================
 
-EVENT: Major League Baseball - Baltimore Orioles Vs Tampa Bay Rays (09/26/25) [STREAM 15[HD]]
+EVENT: Major League Baseball - Texas Rangers Vs Minnesota Twins (09/26/25)
+Time: 02:35AM
+Date: 09/26/25
+Category: None
 ```
