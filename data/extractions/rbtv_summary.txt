@@ -1,48 +1,42 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-25T13:17:39.273763
+Extraction Time: 2025-09-25T13:44:24.110590
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 17
-- Total Channels: 46
+- Unique Events: 14
+- Total Channels: 20
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
-- Korea Open, Women, Singles - Pai Yu-Po Vs Putri Kusuma Warda...
-  Time: 08:40PM, Channels: 2
 - Korea Open, Doubles - Jin Yong/Na Sung-Seung Vs Kim Gi-Jung/...
-  Time: 09:10PM, Channels: 2
-- Philippines Mpbl - Batangas City Tanduay Rum Masters Vs Mind...
-  Time: 08:00PM, Channels: 2
+  Time: 09:10PM, Channels: 1
 - Cycling World Cup - U23 Women'S Road Race (09/25/25)
-  Time: 06:55PM, Channels: 4
-- Cycling World Cup - U23 Women'S Road Race (09/25/25) [STREAM...
   Time: 06:55PM, Channels: 2
-- Azerbaijan First Division - Baku Sportinq Fk Vs Simal Fk (09...
-  Time: 07:30PM, Channels: 2
-- Azerbaijan First Division - Fk Moik Baku Vs Zaqatala Fk (09/...
-  Time: 07:30PM, Channels: 2
-- Singapore Premier League - Tanjong Pagar Utd Vs Young Lions ...
-  Time: 07:30PM, Channels: 2
+- Cycling World Cup - U23 Women'S Road Race (09/25/25) [STREAM...
+  Time: 06:55PM, Channels: 1
 - Indonesian Liga 1 - Psbs Biak Numfor Vs Madura United (09/25...
-  Time: 08:00PM, Channels: 4
-- Polish Cup - Avia Swidnik Vs Ruch Chorzow (09/25/25)
   Time: 08:00PM, Channels: 2
+- Polish Cup - Avia Swidnik Vs Ruch Chorzow (09/25/25)
+  Time: 08:00PM, Channels: 1
 - Asean Club Championship Shopee Cup - Thep Xanh Nam Dinh Fc V...
-  Time: 08:30PM, Channels: 4
+  Time: 08:30PM, Channels: 2
 - Polish Cup - Odra Bytom Odrzanski Vs Wisla Krakow (09/25/25)
-  Time: 08:30PM, Channels: 4
+  Time: 08:30PM, Channels: 2
+- United Arab Emirates Adnoc Pro-League - Shabab Al Ahli Vs Al...
+  Time: 09:25PM, Channels: 1
+- Serbian Mozzart Bet Prva Liga - Fk Graficar Beograd Vs Fk Lo...
+  Time: 09:30PM, Channels: 1
 - Wta Beijing, China Women Singles - Yuan Yue Vs Yulia Putints...
-  Time: 08:40PM, Channels: 2
+  Time: 08:40PM, Channels: 1
 - Livoli Divisi Utama - Putra: Indomaret  Vs  Tni Au Electric ...
-  Time: 07:30PM, Channels: 2
+  Time: 07:30PM, Channels: 1
 - Beach Pro Tour - Elite16 | Rio De Janeiro Vs Group Stage 1 |...
-  Time: 07:55PM, Channels: 2
+  Time: 07:55PM, Channels: 1
 - Beach Pro Tour - Elite16 | Rio De Janeiro Vs Group Stage 1 |...
-  Time: 07:55PM, Channels: 2
+  Time: 07:55PM, Channels: 1
 - World Championship - Usa Vs Bulgaria (09/25/25)
-  Time: 08:00PM, Channels: 6
+  Time: 08:00PM, Channels: 3
