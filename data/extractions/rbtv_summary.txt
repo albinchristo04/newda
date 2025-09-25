@@ -1,13 +1,108 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-25T16:45:29.091828
+Extraction Time: 2025-09-25T17:13:21.424053
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 0
-- Total Channels: 0
+- Unique Events: 47
+- Total Channels: 138
 - Individual Streams: 0
-- Media Segments: 111
+- Media Segments: 0
 - Other Events: 0
 
+EVENT BREAKDOWN:
+- Major League Baseball - Cincinnati Reds Vs Pittsburgh Pirate...
+  Time: 12:40AM, Channels: 2
+- Major League Baseball - Baltimore Orioles Vs Tampa Bay Rays ...
+  Time: 01:05AM, Channels: 2
+- Major League Baseball - Baltimore Orioles Vs Tampa Bay Rays ...
+  Time: 01:05AM, Channels: 2
+- Basketball Champions League - Onyx Levice Vs Bakken Bears (0...
+  Time: 01:00AM, Channels: 2
+- T20 Asia Cup - Pakistan Vs Bangladesh (09/25/25)
+  Time: 10:30PM, Channels: 2
+- T20 Asia Cup - Pakistan Vs Bangladesh (09/25/25) [STREAM 44[...
+  Time: 10:30PM, Channels: 2
+- Bahrain Premier League - Al Hidd Vs Al-Riffa (09/26/25)
+  Time: 12:00AM, Channels: 2
+- Bahrain Premier League - Sitra Vs Najma Manama (09/26/25)
+  Time: 12:00AM, Channels: 2
+- Estonian Esiliiga - Tartu Jk Maag Tammeka B Vs Flora Tallinn...
+  Time: 12:00AM, Channels: 2
+- Israel Women'S First National - Maccabi Hadera Women Vs Hapo...
+  Time: 12:00AM, Channels: 2
+- Latvian Higher League - Rigas Futbola Skola Vs Riga Fc (09/2...
+  Time: 12:00AM, Channels: 2
+- United Arab Emirates Adnoc Pro-League - Al-Wasl Sc Vs Al-Sha...
+  Time: 12:15AM, Channels: 2
+- Coppa Italia - Genoa Vs Empoli (09/26/25)
+  Time: 12:30AM, Channels: 6
+- Coppa Italia - Genoa Vs Empoli (09/26/25) [STREAM 1[HD]]
+  Time: 12:30AM, Channels: 2
+- Italian Serie C - Arzignano Valchiampo Vs Asd Alcione (09/26...
+  Time: 12:30AM, Channels: 2
+- Italian Serie C - Cittadella Vs Lumezzane (09/26/25)
+  Time: 12:30AM, Channels: 2
+- Italian Serie C - Giana Vs Usd Virtus Verona (09/26/25)
+  Time: 12:30AM, Channels: 2
+- Italian Serie C - Pro Patria Vs Albinoleffe (09/26/25)
+  Time: 12:30AM, Channels: 2
+- Italian Serie C - Renate Ac Vs A.C. Ospitaletto (09/26/25)
+  Time: 12:30AM, Channels: 2
+- Italian Serie C - Trento Vs Us Pergolettese (09/26/25)
+  Time: 12:30AM, Channels: 2
+- Russian Cup - Kamaz Naberezhnye Chelny Vs Spartak Kostroma (...
+  Time: 12:30AM, Channels: 2
+- Uefa Europa League - Go Ahead Eagles Vs Fotbal Club Fcsb (09...
+  Time: 12:45AM, Channels: 14
+- Uefa Europa League - Go Ahead Eagles Vs Fotbal Club Fcsb (09...
+  Time: 12:45AM, Channels: 2
+- Uefa Europa League - Go Ahead Eagles Vs Fotbal Club Fcsb (09...
+  Time: 12:45AM, Channels: 2
+- Uefa Europa League - Losc Lille Vs Brann (09/26/25)
+  Time: 12:45AM, Channels: 14
+- Uefa Europa League - Losc Lille Vs Brann (09/26/25) [STREAM ...
+  Time: 12:45AM, Channels: 2
+- Uefa Europa League - Losc Lille Vs Brann (09/26/25) [STREAM ...
+  Time: 12:45AM, Channels: 2
+- German Frauen Bundesliga - Bayer Leverkusen Women Vs Eintrac...
+  Time: 01:00AM, Channels: 6
+- German Frauen Bundesliga - Bayer Leverkusen Women Vs Eintrac...
+  Time: 01:00AM, Channels: 2
+- German Frauen Bundesliga - Rb Leipzig Women Vs Hamburger Sv ...
+  Time: 01:00AM, Channels: 6
+- German Frauen Bundesliga - Rb Leipzig Women Vs Hamburger Sv ...
+  Time: 01:00AM, Channels: 2
+- Qatar Stars League - Al-Sadd Vs Al Duhail (09/26/25)
+  Time: 01:00AM, Channels: 2
+- Russian Cup - Volna Kovernino Vs Arsenal Tula (09/26/25)
+  Time: 01:00AM, Channels: 2
+- Sweden Superettan - Ostersunds Fk Vs Utsiktens Bk (09/26/25)
+  Time: 01:00AM, Channels: 2
+- Sweden Superettan - Sandvikens If Vs Helsingborg (09/26/25)
+  Time: 01:00AM, Channels: 2
+- Sweden Superettan - Trelleborgs Ff Vs Orgryte (09/26/25)
+  Time: 01:00AM, Channels: 2
+- Sweden Superettan - Umea Fc Vs Vasteras Sk Fk (09/26/25)
+  Time: 01:00AM, Channels: 2
+- Turkish First League - Amedspor Vs Sariyer (09/26/25)
+  Time: 01:00AM, Channels: 2
+- Turkish First League - Pendikspor Vs Sakaryaspor (09/26/25)
+  Time: 01:00AM, Channels: 2
+- Belarusian Premier League - Fc Torpedo Zhodino Vs Naftan Nov...
+  Time: 11:15PM, Channels: 2
+- Polish Cup - Radomiak Radom Vs Zaglebie Lubin (09/25/25)
+  Time: 11:30PM, Channels: 4
+- Ehf Champions League - Ppd Zagreb Vs Barcelona (09/26/25)
+  Time: 12:45AM, Channels: 8
+- Ehf Champions League - Ppd Zagreb Vs Barcelona (09/26/25) [S...
+  Time: 12:45AM, Channels: 2
+- Ehf Champions League - Vive Tauron Kielce Vs Fuchse Berlin (...
+  Time: 12:45AM, Channels: 2
+- Horse Racing - America'S Day At The Races (09/26/25) [STREAM...
+  Time: 01:00AM, Channels: 2
+- Beach Pro Tour - Elite16 | Rio De Janeiro Vs Group Stage 1 |...
+  Time: 07:55PM, Channels: 2
+- Beach Pro Tour - Elite16 | Rio De Janeiro Vs Group Stage 1 |...
+  Time: 07:55PM, Channels: 2
