@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-25T10:51:10.151531
+Extraction Time: 2025-09-25T11:13:55.780150
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 22
-- Total Channels: 27
+- Unique Events: 27
+- Total Channels: 35
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -14,14 +14,14 @@ STATISTICS:
 EVENT BREAKDOWN:
 - Australia: Afl Women - Geelong Cats W Vs Hawthorn Hawks W (0...
   Time: 05:15PM, Channels: 1
-- Korea Open, Singles - Koki Watanabe Vs Weng Hongyang (09/25/...
-  Time: 05:15PM, Channels: 1
 - Korea Open, Singles - Kodai Naraoka Vs Li Yang Su (09/25/25)
   Time: 06:30PM, Channels: 1
 - Korea Open, Women, Singles - Park Ga Eun Vs Supanida Katetho...
   Time: 06:40PM, Channels: 1
 - Korea Open, Women, Singles - Yeo Jia Min Vs Su Yu Chen (09/2...
   Time: 06:50PM, Channels: 1
+- Korea Open, Women, Singles - Pornpawee Chochuwong Vs Kim Joo...
+  Time: 07:00PM, Channels: 1
 - Npb - Orix Buffaloes Vs Chiba Lotte Marines (09/25/25)
   Time: 05:00PM, Channels: 1
 - Npb - Rakuten Gold. Eagles Vs Fukuoka Softbank Hawks (09/25/...
@@ -32,14 +32,22 @@ EVENT BREAKDOWN:
   Time: 05:30PM, Channels: 2
 - Philippines Mpbl - Abra Weavers Vs Davao Occ. Tigers (09/25/...
   Time: 06:00PM, Channels: 1
+- Cycling World Cup - U23 Women'S Road Race (09/25/25)
+  Time: 06:55PM, Channels: 3
+- Cycling World Cup - U23 Women'S Road Race (09/25/25) [STREAM...
+  Time: 06:55PM, Channels: 1
 - Wanderer Promotions - Wanderer Promotions 6 (09/25/25)
-  Time: 02:00PM, Channels: 1
-- Wanderer Promotions - Wanderer Promotions 6 (09/25/25) [STRE...
   Time: 02:00PM, Channels: 1
 - Asean Club Championship Shopee Cup - Johor Darul Ta'Zim Fc V...
   Time: 05:30PM, Channels: 3
 - Kazakhstan Division 1 - Sd Family Vs Irtysh Pavlodar (09/25/...
   Time: 06:00PM, Channels: 1
+- Kazakhstan Division 1 - Akademiya Ontustik Vs Fc Shakhtyor K...
+  Time: 07:00PM, Channels: 1
+- Kazakhstan Division 1 - Yassy Turkistan Vs Ekibastuzets (09/...
+  Time: 07:00PM, Channels: 1
+- Russian Cup - Irkutsk Vs Fk Chelyabinsk (09/25/25)
+  Time: 07:00PM, Channels: 1
 - Kontinental Hockey League - Amur Khabarovsk Vs Cska Moscow (...
   Time: 05:15PM, Channels: 1
 - Wta Beijing, China Women Singles - Lois Boisson Vs Dalma Gal...
@@ -47,9 +55,11 @@ EVENT BREAKDOWN:
 - Atp Tokyo, Japan Men Singles - Zizou Bergs Vs Alejandro Tabi...
   Time: 04:40PM, Channels: 1
 - Atp Tokyo, Japan Men Singles - Carlos Alcaraz Garfia Vs Seba...
-  Time: 05:05PM, Channels: 2
+  Time: 05:05PM, Channels: 1
 - Atp Tokyo, Japan Men Singles - Hamad Medjedovic Vs Holger Ru...
   Time: 05:15PM, Channels: 1
+- Atp Beijing, China Men Singles - Jannik Sinner Vs Marin Cili...
+  Time: 07:00PM, Channels: 3
 - Livoli Divisi Utama - Putra: Ganeksa Bhumikarta Vs  Ganevo Y...
   Time: 01:30PM, Channels: 1
 - Livoli Divisi Utama - Putra: Samator  Vs  Pasundan (09/25/25...

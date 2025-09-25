@@ -1,12 +1,12 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Thu Sep 25 10:51:11 UTC 2025
+Last updated: Thu Sep 25 11:13:56 UTC 2025
 
-Workflow run: #185
+Workflow run: #186
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-25T10:51:10.151531
+Extracted at: 2025-09-25T11:13:55.780150
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -22,8 +22,8 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: Korea Open, Singles - Koki Watanabe Vs Weng Hongyang (09/25/25)
-Time: 05:15PM
+EVENT: Korea Open, Singles - Kodai Naraoka Vs Li Yang Su (09/25/25)
+Time: 06:30PM
 Date: 09/25/25
 Category: None
 ```
