@@ -1,18 +1,4 @@
 {
-  "Korea Open, Singles - Kodai Naraoka Vs Li Yang Su (09/25/25)": {
-    "event_title": "Korea Open, Singles - Kodai Naraoka Vs Li Yang Su (09/25/25)",
-    "event_time": "06:30PM",
-    "event_date": "09/25/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "VDO",
-        "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WVlhLTk9UMFYuQg42R1BOVg9QN0QyXkZWNSZUDUhCXkRNWlRSNEIoViwCFSgTPSsWLAIcHhIBEhYsBxQeFwUV/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-        "duration": null
-      }
-    ]
-  },
   "Korea Open, Women, Singles - Yeo Jia Min Vs Su Yu Chen (09/25/25)": {
     "event_title": "Korea Open, Women, Singles - Yeo Jia Min Vs Su Yu Chen (09/25/25)",
     "event_time": "06:50PM",
@@ -36,6 +22,34 @@
       {
         "channel_name": "VDO",
         "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlJDNDVNI0Y-RFRUBEsiQE80KjRJSkIzMlIYTkhSGzQ2UhYySVI-VCgSAyoXLT0UKBIKHBYRBysoFwIcExUA/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Korea Open, Women, Singles - Ciou-Tong Tung Vs Akane Yamaguchi (09/25/25)": {
+    "event_title": "Korea Open, Women, Singles - Ciou-Tong Tung Vs Akane Yamaguchi (09/25/25)",
+    "event_time": "07:30PM",
+    "event_date": "09/25/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "VDO",
+        "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlIQTjY0PlE2TVpUUzRdTFY1JlQGTlBLQFJIRkhAWjJCS1hUKlI8FBcsAyspEjwUHhoCFxcXPBEWGgcQEA==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Korea Open, Doubles - Chen C K / Lin B-W Vs Cho S H / Jin S I (09/25/25)": {
+    "event_title": "Korea Open, Doubles - Chen C K / Lin B-W Vs Cho S H / Jin S I (09/25/25)",
+    "event_time": "07:40PM",
+    "event_date": "09/25/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "VDO",
+        "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQgZPRF1UBFIYVChSGU5JUhMoXlIlMFYAWzRWVkIDVixCDUxNQlBWCkIoViwCFSgTPSsWLAIcHhIGKxUsBxQeFwQU/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
         "duration": null
       }
@@ -83,40 +97,6 @@
       }
     ]
   },
-  "National Basketball League - Melbourne United Vs South East Melbourne Phoenix (09/25/25)": {
-    "event_title": "National Basketball League - Melbourne United Vs South East Melbourne Phoenix (09/25/25)",
-    "event_time": "05:30PM",
-    "event_date": "09/25/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/D1AxTDJdRktSE0YyTlQxRUBfSVYJVEZONFRUKlIeQktBIjI1TVRUUE1YMUBHQjMyUkY0MDdbVAJAJjFWDlRJRTIkN0lEQlVPMlRLTDtCKFYsAyoTLAIcERoGFBAsAxEREgcW/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/D1AxTDJdRktSE0YyTlQxRUBfSVYJVEZONFRUKlIeQktBIjI1TVRUUE1YMUBHQjMyUkY0MDdbVAJAJjFWDlRJRTIkN0lEQlVPMlRLTDtCKFYsAyoULAIcERoGFBAsAxEREgcV/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Philippines Mpbl - Abra Weavers Vs Davao Occ. Tigers (09/25/25)": {
-    "event_title": "Philippines Mpbl - Abra Weavers Vs Davao Occ. Tigers (09/25/25)",
-    "event_time": "06:00PM",
-    "event_date": "09/25/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/U1tOS0gjNUxNVDBWDkMFDVI-VAZBIUZWWlRGMUQhMFY1JlQFQCVGNlIcQEIvQlFMSlQ3MlI-VCgTPBYoEgocFhMHFygTBxMWFwE=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-        "duration": null
-      }
-    ]
-  },
   "Cycling World Cup - U23 Women'S Road Race (09/25/25)": {
     "event_title": "Cycling World Cup - U23 Women'S Road Race (09/25/25)",
     "event_time": "06:55PM",
@@ -153,46 +133,6 @@
         "channel_name": null,
         "url": "https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFZUAxZWWiJKQE00MFZRIkZDUkFGQkRCKFYsAhAoEzwUHhoDFxcQPBUTFQISKQ==/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Wanderer Promotions - Wanderer Promotions 6 (09/25/25)": {
-    "event_title": "Wanderer Promotions - Wanderer Promotions 6 (09/25/25)",
-    "event_time": "02:00PM",
-    "event_date": "09/25/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/WlBLQ0QhQjVSQzc2TCIxTDJdMFYuQlxETVdCNUQhVFcxIko2N1g0STZCEVYuQioWETwRKBIKHBcRAhcoEwcTFhM9/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Asean Club Championship Shopee Cup - Johor Darul Ta'Zim Fc Vs Bangkok United Fc (09/25/25)": {
-    "event_title": "Asean Club Championship Shopee Cup - Johor Darul Ta'Zim Fc Vs Bangkok United Fc (09/25/25)",
-    "event_time": "05:30PM",
-    "event_date": "09/25/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "VUS",
-        "url": "https://world-proxifier.xyz/rbtv/p/AiZCRE1CBks0UVQES1BKN0giSzJLWDVWVls0N0RUVAQ0I1QqUhs0TzIhVAVAITJLUkdGIDlYSlYHEFQxNkIFRE1aSDZOQlJJSCdCQ1IXBlYuQioWLAMrKRI8FxcXAiseFjwRFhoHFBA=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "SKA",
-        "url": "https://world-proxifier.xyz/rbtv/p/AiZCRE1CBks0UVQES1BKN0giSzJLWDVWVls0N0RUVAQ0I1QqUhs0TzIhVAVAITJLUkdGIDlYSlYHEFQxNkIFRE1aSDZOQlJJSCdCQ1IXBlYuQioWLAMrKRI8FxcXAiseFjwRFhoHFRc=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/AiZCRE1CBks0UVQES1BKN0giSzJLWDVWVls0N0RUVAQ0I1QqUhs0TzIhVAVAITJLUkdGIDlYSlYHEFQxNkIFRE1aSDZOQlJJSCdCQ1IXBlYuQioWLAAqFRMHFCkaBioULQAUHhQ=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
       }
     ]
@@ -267,6 +207,20 @@
       }
     ]
   },
+  "Azerbaijan First Division - Fk Moik Baku Vs Zaqatala Fk (09/25/25)": {
+    "event_title": "Azerbaijan First Division - Fk Moik Baku Vs Zaqatala Fk (09/25/25)",
+    "event_time": "07:30PM",
+    "event_date": "09/25/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/AilCNUFQTk1AXVQDSCEwM1IRTjFIJk42TUIoVgcYVAoMGg5WA1BIMFIlMFZZUDZEN1BJRFIXDlYuQioWLAAqFRMFFxUaACoULQAVKRA=/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
   "Singapore Premier League - Tanjong Pagar Utd Vs Young Lions (09/25/25)": {
     "event_title": "Singapore Premier League - Tanjong Pagar Utd Vs Young Lions (09/25/25)",
     "event_time": "07:30PM",
@@ -277,20 +231,6 @@
         "channel_name": "SD",
         "url": "https://world-proxifier.xyz/rbtv/p/VlhLTkAjNDVEQlU1RFxOQDFCD0BAWjJAUj5UU0BdTzZNWlRXQFpGNVJEMUNSJTBWWCIySUpCD0wyXTBWLkIqFiwAKhUTBhMQFQQqFC0AFSkR/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Kontinental Hockey League - Amur Khabarovsk Vs Cska Moscow (09/25/25)": {
-    "event_title": "Kontinental Hockey League - Amur Khabarovsk Vs Cska Moscow (09/25/25)",
-    "event_time": "05:15PM",
-    "event_date": "09/25/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "SDK A",
-        "url": "https://world-proxifier.xyz/rbtv/p/CCJLM0hdQkk3UElWBSJASkQoVA1EUEwwREIoVgJcMjVSGE1EQVA3NjUmSFY1JlQEVhgEVg4iMEIyKlQqUjwUFiwHKhYaBRwTFz0qFxcFFBIa/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
         "duration": null
       }
     ]
@@ -392,6 +332,20 @@
       {
         "channel_name": "NVR",
         "url": "https://world-proxifier.xyz/rbtv/p/CBxTCFIQMjdSSjRIRF1UKlIUUFYAUEkzRCtUXjJcQklSJTBWCl1AT0QiS1YFVDJJSl4ySlJDTklOQlA3SFdCNTZCXDZMVEtWLkIqFhA8FSktAioWGgUcExQGKhMSChEeFw==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Livoli Divisi Utama - Putra: Indomaret  Vs  Tni Au Electric (09/25/25)": {
+    "event_title": "Livoli Divisi Utama - Putra: Indomaret  Vs  Tni Au Electric (09/25/25)",
+    "event_time": "07:30PM",
+    "event_date": "09/25/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "VDO",
+        "url": "https://world-proxifier.xyz/rbtv/p/CVgzNk9YVAVIJU4ySEJSM0BcRlYuQlUwNyFGH1IaS0MyXEY1RCdUVjUmVFZXHwxWAkRUAk9UQDMxWEBWLkIqFhA8FSktAioWGgoVFBIEKhMSChERGg==/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
         "duration": null
       }
