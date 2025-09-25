@@ -1,24 +1,29 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Thu Sep 25 14:52:53 UTC 2025
+Last updated: Thu Sep 25 15:16:56 UTC 2025
 
-Workflow run: #196
+Workflow run: #197
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-25T14:52:52.748430
+Extracted at: 2025-09-25T15:16:55.448702
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== MEDIA SEGMENTS (First 10) ===
+=== GROUPED EVENTS BY TITLE ===
 
-1. https://world-proxifier.xyz/rbtv/p/VwMrVgImTkRSEDI3Uj5UV0BeTjI3UEtWNSZUB0BdTEtAV0IyS0IoViwHKhctPRQoEgoTHhc9ESgXAhwQFwM=/index.m3u8
-2. https://world-proxifier.xyz/rbtv/p/VwMrVgImTkRSEDI3Uj5UV0BeTjI3UEtWNSZUB0BdTEtAV0IyS0IoViwHKhcsAhwRGgcrEywDERESCis=/index.m3u8
-3. https://world-proxifier.xyz/rbtv/p/VwMrVgImTkRSEDI3Uj5UV0BeTjI3UEtWNSZUB0BdTEtAV0IyS0IoViwHKhctPRQoEgoTHhc9ESgXAhwQFwM=/index.m3u8
-4. https://world-proxifier.xyz/rbtv/p/VwMrVgImTkRSEDI3Uj5UV0BeTjI3UEtWNSZUB0BdTEtAV0IyS0IoViwHKhcsAhwRGgcrEywDERESCis=/index.m3u8
-5. https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFZUAxZWWiJKQE00MFZRIkZDUkFGQkRCKFYsAhAoEz0rFiwCHB4TARUULAcUHhQHEw==/index.m3u8
-6. https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFZUAxZWWiJKQE00MFZRIkZDUkFGQkRCKFYsAhAoEzwUHhoDFxcQPBUTFQISKQ==/index.m3u8
-7. https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFZUAxZWWiJKQE00MFZRIkZDUkFGQkRCKFYsAhAoEz0rFiwCHB4TARUULAcUHhQEKw==/index.m3u8
-8. https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFZUAxZWWiJKQE00MFZRIkZDUkFGQkRCKFYsAhAoEz0rFiwCHB4TARUULAcUHhQHEw==/index.m3u8
-9. https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFZUAxZWWiJKQE00MFZRIkZDUkFGQkRCKFYsAhAoEzwUHhoDFxcQPBUTFQISKQ==/index.m3u8
-10. https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFZUAxZWWiJKQE00MFZRIkZDUkFGQkRCKFYsAhAoEz0rFiwCHB4TARUULAcUHhQEKw==/index.m3u8
+EVENT: T20 Asia Cup - Pakistan Vs Bangladesh (09/25/25)
+Time: 10:30PM
+Date: 09/25/25
+Category: None
+Available Channels (1):
+  1. SKA
+     URL: https://world-proxifier.xyz/rbtv/p/VwMrVgImTkRSEDI3Uj5UV0BeTjI3UEtWNSZUB0BdTEtAV0IyS0IoViwHKhctPRQoEgoTHhc9ESgXAhwQFwM=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp
+
+================================================================================
+
+EVENT: T20 Asia Cup - Pakistan Vs Bangladesh (09/25/25) [STREAM 44[HD]]
+Time: 10:30PM
+Date: 09/25/25
+Category: None
 ```

@@ -1,13 +1,56 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-25T14:52:52.748430
+Extraction Time: 2025-09-25T15:16:55.448702
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 0
-- Total Channels: 0
+- Unique Events: 21
+- Total Channels: 22
 - Individual Streams: 0
-- Media Segments: 28
+- Media Segments: 0
 - Other Events: 0
 
+EVENT BREAKDOWN:
+- T20 Asia Cup - Pakistan Vs Bangladesh (09/25/25)
+  Time: 10:30PM, Channels: 1
+- T20 Asia Cup - Pakistan Vs Bangladesh (09/25/25) [STREAM 44[...
+  Time: 10:30PM, Channels: 1
+- Cycling World Cup - U23 Women'S Road Race (09/25/25)
+  Time: 06:55PM, Channels: 2
+- Cycling World Cup - U23 Women'S Road Race (09/25/25) [STREAM...
+  Time: 06:55PM, Channels: 1
+- United Arab Emirates Adnoc Pro-League - Shabab Al Ahli Vs Al...
+  Time: 09:25PM, Channels: 1
+- Serbian Mozzart Bet Prva Liga - Fk Graficar Beograd Vs Fk Lo...
+  Time: 09:30PM, Channels: 1
+- Russian Cup - Fc Amkal Moscow Vs Yenisey Krasnoyarsk (09/25/...
+  Time: 10:00PM, Channels: 1
+- Turkish First League - Sivasspor Vs Adana Demirspor (09/25/2...
+  Time: 10:00PM, Channels: 1
+- Bulgarian First League - Botev Plovdiv Vs Cska 1948 Sofia (0...
+  Time: 10:30PM, Channels: 1
+- Armenian Premier League - Ararat-Armenia Fc Vs Alashkert (09...
+  Time: 11:00PM, Channels: 1
+- Iraq Stars League - Al-Naft Sc Vs Al Talaba (09/25/25)
+  Time: 11:00PM, Channels: 1
+- Iraq Stars League - Diala Vs Zakho Sc (09/25/25)
+  Time: 11:00PM, Channels: 1
+- Jordan Premier League - Shabab Al Ordon Vs Al-Ahly (09/25/25...
+  Time: 11:00PM, Channels: 1
+- Qatar Stars League - Al Rayyan Vs Al-Gharafa (09/25/25)
+  Time: 11:00PM, Channels: 1
+- Saudi Professional League - Al Khaleej Club Vs Al Taawoun (0...
+  Time: 11:10PM, Channels: 1
+- Belarusian Premier League - Fc Torpedo Zhodino Vs Naftan Nov...
+  Time: 11:15PM, Channels: 1
+- Uzbekistan Super League - Nasaf Qarshi Vs Xorazm Urganch (09...
+  Time: 11:15PM, Channels: 1
+- Kontinental Hockey League - Traktor Chelyabinsk Vs Avangard ...
+  Time: 10:00PM, Channels: 1
+- Kontinental Hockey League - Barys Astana Vs Ak Bars Kazan (0...
+  Time: 10:30PM, Channels: 1
+- Beach Pro Tour - Elite16 | Rio De Janeiro Vs Group Stage 1 |...
+  Time: 07:55PM, Channels: 1
+- Beach Pro Tour - Elite16 | Rio De Janeiro Vs Group Stage 1 |...
+  Time: 07:55PM, Channels: 1
