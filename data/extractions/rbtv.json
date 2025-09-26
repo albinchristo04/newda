@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-26T04:18:11.667957",
+  "timestamp": "2025-09-26T04:41:43.982024",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [
@@ -16,41 +16,6 @@
       "group_title": "AUSIE RULES",
       "title": "Australia: Afl Women - Melbourne Demons W Vs Gold Coast Suns W [HDD A]",
       "url": "https://world-proxifier.xyz/rbtv/p/AkRQU1ESDw4CC1QGBxlUXjJcQklSPlQKRF9HNjQhS0BSEUJIMl0wVlpCMzJSFDRLR0IGNkAmMVZWJEsyUkpUKlI8FCksByoWGgorEhoAKhcXBRYWEw==/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-      "group_title": "BASEBALL",
-      "title": "Major League Baseball - Los Angeles Angels Vs Kansas City Royals [HDK A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWCSIwVgJdTEBPVDBWAl1MQE8mVDE2Qg5ETSZGMlIQTjM4Qlc2OFBJMlI-VCgRPBEoEgocKS0KFygTBxMXFQA=/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-      "group_title": "BASEBALL",
-      "title": "Major League Baseball - Seattle Mariners Vs Colorado Rockies [HDK A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlRGMzdfQlYOUDdMTVQ3MlIlMFYAIkk2MVBBNlJBNEJOWEIyUj5UKBE8ESgSChwpLQoQKBMHExcVBg==/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-      "group_title": "BASEBALL",
-      "title": "Major League Baseball - Seattle Mariners Vs Colorado Rockies [STREAM 15[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlRGMzdfQlYOUDdMTVQ3MlIlMFYAIkk2MVBBNlJBNEJOWEIyUj5UKBE8FSgSChwpLQoQKBMHExcVAw==/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-      "group_title": "BASEBALL",
-      "title": "Major League Baseball - Seattle Mariners Vs Colorado Rockies [HDK A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlRGMzdfQlYOUDdMTVQ3MlIlMFYAIkk2MVBBNlJBNEJOWEIyUj5UKBE8ESgSChwpLQoQKBMHExcVBg==/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-      "group_title": "BASEBALL",
-      "title": "Major League Baseball - Seattle Mariners Vs Colorado Rockies [STREAM 15[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlRGMzdfQlYOUDdMTVQ3MlIlMFYAIkk2MVBBNlJBNEJOWEIyUj5UKBE8FSgSChwpLQoQKBMHExcVAw==/index.m3u8"
     },
     {
       "type": "segment",
@@ -152,10 +117,73 @@
     },
     {
       "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 2 [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFIDVCpSPBIoEz0rFiwCHB4tBhMTLAcUHhQGFQ==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 2 [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFIDVCpSPBIoFzwUHho9EBEXPBUTFQAVKQ==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 2 [HDD C ESPA\u00d1OL]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFIDVCpSPBIoFzwUHho9EBEXPBUTFQAVFw==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 2 [HDD D DEUTSCH]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFIDVCpSPBIoFzwUHho9EBEXPBUTFQAVFA==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 2 [HDD E FRAN\u00c7AIS]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFIDVCpSPBIoFzwUHho9EBEXPBUTFQAVFQ==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 2 [HDD F ITALIANO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFIDVCpSPBIoFzwUHho9EBEXPBUTFQAVEg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 2 [HDD G PORTUGU\u00caS]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFIDVCpSPBIoFzwUHho9EBEXPBUTFQAVEw==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 2 [HDD H DUTCH]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFIDVCpSPBIoFzwUHho9EBEXPBUTFQAVEA==/index.m3u8"
+    },
+    {
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS",
       "title": "Atp Beijing, China Men Singles - Andrey Rublev Vs Flavio Cobolli [VDO]",
       "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEktDMVQ-VlEkR0tEJVQxNkIBS0AlTjZSEDRFMl9JTFI-VCgQPBUpLQIqFhoKKxUVAioTEgoSHhU=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Atp Beijing, China Men Singles - Andrey Rublev Vs Flavio Cobolli [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEktDMVQ-VlEkR0tEJVQxNkIBS0AlTjZSEDRFMl9JTFI-VCgQPBEoEgocKREFFCgTBxMUEAM=/index.m3u8"
     },
     {
       "type": "segment",
@@ -170,6 +198,13 @@
       "group_title": "TENNIS",
       "title": "Atp Beijing, China Men Singles - Andrey Rublev Vs Flavio Cobolli [VDO]",
       "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEktDMVQ-VlEkR0tEJVQxNkIBS0AlTjZSEDRFMl9JTFI-VCgQPBUpLQIqFhoKKxUVAioTEgoSHhU=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Atp Beijing, China Men Singles - Andrey Rublev Vs Flavio Cobolli [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEktDMVQ-VlEkR0tEJVQxNkIBS0AlTjZSEDRFMl9JTFI-VCgQPBEoEgocKREFFCgTBxMUEAM=/index.m3u8"
     },
     {
       "type": "segment",
@@ -196,6 +231,34 @@
       "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS",
+      "title": "Atp Beijing, China Men Singles - Miomir Kecmanovic Vs Jakub Mensik [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSHk42TFg3VghUQEhAXTQxSFZUMTZCDUROJEdWDlRLMkheVCpSPBYoFzwUHho9FxETPBUTFQAWFg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Atp Beijing, China Men Singles - Miomir Kecmanovic Vs Jakub Mensik [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSHk42TFg3VghUQEhAXTQxSFZUMTZCDUROJEdWDlRLMkheVCpSPBYoFzwUHho9FxETPBUTFQAWFg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Atp Tokyo, Japan Men Double - Gonzalez S / Pel D Vs Cabral F / Miedler L [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSETQwQV9CVi5CAjZNKUZLRClUUlI8VFdEX1QFUiUwVgBQRzVAX1QDUjxUCkhUQUtEIVQNUj5UKBA8ESgSChMeFAUcKBMHExQQAQ==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Atp Tokyo, Japan Men Double - Gonzalez S / Pel D Vs Cabral F / Miedler L [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSETQwQV9CVi5CAjZNKUZLRClUUlI8VFdEX1QFUiUwVgBQRzVAX1QDUjxUCkhUQUtEIVQNUj5UKBA8ESgSChMeFAUcKBMHExQQAQ==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
       "title": "Atp Tokyo, Japan Men Singles - Sho Shimabukuro Vs Sebastian Korda [VDO]",
       "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VFJLIlRSS1hKREEkSDAxIlQxNkJQQEFQMDNIUEtWCCI3Q0BCKFYsACoXLT0UKBIKHCktARQoFwIcEBUE/index.m3u8"
     },
@@ -224,15 +287,15 @@
       "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS",
-      "title": "Atp Tokyo, Japan Men Singles - Sho Shimabukuro Vs Sebastian Korda [VDO]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VFJLIlRSS1hKREEkSDAxIlQxNkJQQEFQMDNIUEtWCCI3Q0BCKFYsACoXLT0UKBIKHCktARQoFwIcEBUE/index.m3u8"
+      "title": "Wta Beijing, China Women Singles - Eva Lys Vs Iva Jovic [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQCNVBUDTgmVDE2QgwxQEINNjVYQFYuQioULAcqFhoKFBUSAyoXFwUWFBo=/index.m3u8"
     },
     {
       "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS",
-      "title": "Atp Tokyo, Japan Men Singles - Sho Shimabukuro Vs Sebastian Korda [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VFJLIlRSS1hKREEkSDAxIlQxNkJQQEFQMDNIUEtWCCI3Q0BCKFYsACoTLAIcHi09FxYsAxEREAIT/index.m3u8"
+      "title": "Wta Beijing, China Women Singles - Eva Lys Vs Iva Jovic [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQCNVBUDTgmVDE2QgwxQEINNjVYQFYuQioULAcqFhoKFBUSAyoXFwUWFBo=/index.m3u8"
     },
     {
       "type": "segment",
@@ -245,8 +308,36 @@
       "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS",
+      "title": "Wta Beijing, China Women Singles - Kamilla Rakhimova Vs Coco Gauff [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQMQFxOS09QVFVAXk1MTCIzRFIlMFYAIkA2UhRGMEVVVCpSPBYoFzwUHhUFFhIQPBUTFQAWFA==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
       "title": "Wta Beijing, China Women Singles - Kamilla Rakhimova Vs Coco Gauff [VDO]",
       "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQMQFxOS09QVFVAXk1MTCIzRFIlMFYAIkA2UhRGMEVVVCpSPBYoEz0rFiwCHBEVABAULAcUHhUEFA==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Wta Beijing, China Women Singles - Kamilla Rakhimova Vs Coco Gauff [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQMQFxOS09QVFVAXk1MTCIzRFIlMFYAIkA2UhRGMEVVVCpSPBYoFzwUHhUFFhIQPBUTFQAWFA==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Wta Beijing, China Women Singles - Marie Bouzkova Vs Magda Linette [HDD B]",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQKQCFOQFITNDA5XjQxQEIzMlIeRk5HUFQNSF1CMzdUVCpSPBYoFzwUHhoCFxEXPBUTFQAWEQ==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Wta Beijing, China Women Singles - Marie Bouzkova Vs Magda Linette [HDD B]",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQKQCFOQFITNDA5XjQxQEIzMlIeRk5HUFQNSF1CMzdUVCpSPBYoFzwUHhoCFxEXPBUTFQAWEQ==/index.m3u8"
     }
   ],
   "events": [],
