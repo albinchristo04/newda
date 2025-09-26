@@ -1,13 +1,64 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-26T08:44:59.644964
+Extraction Time: 2025-09-26T08:55:48.768537
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 0
-- Total Channels: 0
+- Unique Events: 25
+- Total Channels: 102
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
+EVENT BREAKDOWN:
+- Australia: Afl Women - Carlton Blues W Vs Fremantle Dockers ...
+  Time: 03:05PM, Channels: 3
+- Npb - Hanshin Tigers Vs Chunichi Dragons (09/26/25)
+  Time: 05:00PM, Channels: 3
+- Npb - Rakuten Gold. Eagles Vs Fukuoka Softbank Hawks (09/26/...
+  Time: 05:00PM, Channels: 3
+- Npb - Saitama Seibu Lions Vs Hokkaido Nippon-Ham Fighters (0...
+  Time: 05:00PM, Channels: 3
+- Npb - Yakult Swallows Vs Hiroshima Carp (09/26/25)
+  Time: 05:00PM, Channels: 6
+- New Zealand Basketball League Womens - Mainland Pouakai Wome...
+  Time: 03:30PM, Channels: 6
+- Fiba U16 Women'S Asian Championship - Chinese Taipei U16 Wom...
+  Time: 04:30PM, Channels: 3
+- T20 World Cup, Africa Qualifier, Regional Final - Namibia Vs...
+  Time: 03:30PM, Channels: 3
+- T20 World Cup, Africa Qualifier, Regional Final - Nigeria Vs...
+  Time: 03:30PM, Channels: 3
+- Cycling World Cup - Junior Men'S Road Race | Uci World Champ...
+  Time: 01:50PM, Channels: 6
+- Cycling World Cup - Junior Men'S Road Race | Uci World Champ...
+  Time: 01:50PM, Channels: 3
+- Indonesian Liga 1 - Semen Padang Vs Bali United (09/26/25)
+  Time: 04:30PM, Channels: 3
+- China Youth Football League (Men'S U17 Group) - Shanghai She...
+  Time: 05:00PM, Channels: 3
+- Vietnam National First Class League - Dong Tam Long An Vs Do...
+  Time: 05:00PM, Channels: 3
+- Wsbk - Wsbk: Aragon (Spain) - Practice 1 (09/26/25)
+  Time: 04:35PM, Channels: 9
+- New Zealand: Bunnings Npc - Southland Vs Tasman (09/26/25)
+  Time: 03:10PM, Channels: 3
+- New Zealand: Bunnings Npc - Southland Vs Tasman (09/26/25) [...
+  Time: 03:10PM, Channels: 3
+- Atp Tokyo, Japan Men Singles - Nuno Borges Vs Taylor Fritz (...
+  Time: 03:00PM, Channels: 9
+- Atp Tokyo, Japan Men Double - Maximo Gonzalez/Andres Molteni...
+  Time: 03:20PM, Channels: 3
+- Wta Beijing, China Women Singles - Antonia Ružić Vs Paula Ba...
+  Time: 03:30PM, Channels: 3
+- Pádel Premier Padel 2025 - Cuarto De Final Femenino 1 (09/26...
+  Time: 04:00PM, Channels: 3
+- Wta Beijing, China Women Doubles - Guo H / Panova A Vs Rakhi...
+  Time: 04:05PM, Channels: 3
+- Atp Beijing, China Men Singles - Corentin Moutet Vs Tallon G...
+  Time: 04:20PM, Channels: 3
+- Atp Tokyo, Japan Men Singles - Casper Ruud Vs Matteo Berrett...
+  Time: 05:00PM, Channels: 9
+- Livoli Divisi Utama - Putra: Samator  Vs  Ganeksa Bhumikarta...
+  Time: 02:30PM, Channels: 3
