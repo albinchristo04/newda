@@ -1,29 +1,15 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Fri Sep 26 10:41:07 UTC 2025
+Last updated: Fri Sep 26 10:49:56 UTC 2025
 
-Workflow run: #247
+Workflow run: #248
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-26T10:41:06.618275
+Extracted at: 2025-09-26T10:49:55.107969
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== GROUPED EVENTS BY TITLE ===
+=== MEDIA SEGMENTS (First 10) ===
 
-EVENT: Australia: Afl Women - Western Bulldogs W Vs Collingwood Magpies W (09/26/25)
-Time: 05:15PM
-Date: 09/26/25
-Category: None
-Available Channels (2):
-  1. HDD A
-     URL: https://world-proxifier.xyz/rbtv/p/AkRQU1ESDw4CC1QGBxlUXjJcQklSPlReRCYxQDFdVAc0X0lDMlowVlpCMzJSEDRLT1hLTjoiNENSHkZOM1hCMlJKVCpSPBQpLAcqFhoKKxIaBCoXFwUXFxc=/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_asr_active.webp
-  2. HDD A
-     URL: https://world-proxifier.xyz/rbtv/p/AkRQU1ESDw4CC1QGBxlUXjJcQklSPlReRCYxQDFdVAc0X0lDMlowVlpCMzJSEDRLT1hLTjoiNENSHkZOM1hCMlJKVCpSPBQpLAcqFhoKKxIaBCoXFwUXFxc=/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_asr_active.webp
-
-================================================================================
-
-EVENT: Npb - Rakuten Gold. Eagles Vs Fukuoka Softbank Hawks (09/26/25)
+1. https://world-proxifier.xyz/rbtv/p/CVgzNk9YVAVIJU4ySEJSM0BcRlYuQlUwNyFGH1JGRkhAJzQ1UkIzMlJCAkRNVEgyQEIFTzRcTkpAITFEUj5UKBIAKhctPRQoEgocFxACEygXAhweGj0=/index.m3u8
 ```
