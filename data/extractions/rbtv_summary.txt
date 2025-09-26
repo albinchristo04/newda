@@ -1,70 +1,56 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-26T13:51:53.597228
+Extraction Time: 2025-09-26T14:14:09.111092
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 28
-- Total Channels: 81
+- Unique Events: 21
+- Total Channels: 30
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
+- Greece Basketball Cup - Aek Athens Vs Prometheus (09/26/25)
+  Time: 10:00PM, Channels: 1
 - T20 World Cup, Africa Qualifier, Regional Final - Tanzania V...
-  Time: 07:50PM, Channels: 2
+  Time: 07:50PM, Channels: 1
 - T20 World Cup, Africa Qualifier, Regional Final - Uganda Vs ...
-  Time: 07:50PM, Channels: 2
+  Time: 07:50PM, Channels: 1
 - Cycling World Cup - U23 Men'S Road Race | Uci World Champion...
-  Time: 05:50PM, Channels: 4
+  Time: 05:50PM, Channels: 2
 - Hexagone - One Friday Fights 126 (09/26/25)
-  Time: 08:30PM, Channels: 2
+  Time: 08:30PM, Channels: 1
 - One Championship - One Friday Fights 126 (09/26/25)
-  Time: 08:30PM, Channels: 2
-- Chinese Football Super League - Shanghai Port Fc Vs Wuhan Th...
-  Time: 08:00PM, Channels: 2
-- Chinese Football Super League - Zhejiang Professional Fc Vs ...
-  Time: 08:00PM, Channels: 2
-- Indonesian Liga 1 - Dewa United Fc Vs Persebaya Surabaya (09...
-  Time: 08:00PM, Channels: 4
-- Thai League 1 - Sukhothai Vs Chiangrai United (09/26/25)
-  Time: 08:00PM, Channels: 2
+  Time: 08:30PM, Channels: 1
 - Malaysian Super League - Dpmm Fc Vs Kelantan The Real Warrio...
-  Time: 08:15PM, Channels: 4
-- Vietnam National Champion League - Hanoi Fc Vs Clb Thanh Hoa...
-  Time: 08:15PM, Channels: 1
+  Time: 08:15PM, Channels: 2
 - Kazakhstan Division 1 - Fk Taraz Vs Kairat Almaty Ii (09/26/...
-  Time: 09:00PM, Channels: 2
+  Time: 09:00PM, Channels: 1
 - Latvian Higher League - Metta/Lu Riga Vs Grobina (09/26/25)
-  Time: 09:00PM, Channels: 2
+  Time: 09:00PM, Channels: 1
 - United Arab Emirates Adnoc Pro-League - Al-Dhafra Vs Al Bata...
-  Time: 09:25PM, Channels: 2
+  Time: 09:25PM, Channels: 1
 - United Arab Emirates Adnoc Pro-League - Baniyas Club Vs Ajma...
-  Time: 09:25PM, Channels: 2
+  Time: 09:25PM, Channels: 1
 - Bahrain Premier League - Al-Muharraq Vs Malkiya (09/26/25)
-  Time: 09:45PM, Channels: 2
+  Time: 09:45PM, Channels: 1
 - Croatian First Football League - Nk Dubrava Vs Nk Sesvete (0...
-  Time: 09:45PM, Channels: 2
-- Worldsbk - Wsbk: Worldssp Superpole (09/26/25)
-  Time: 07:55PM, Channels: 6
+  Time: 09:45PM, Channels: 1
+- Uzbekistan Super League - Fk Andijon Vs Fc Okmk Olmaliq (09/...
+  Time: 10:00PM, Channels: 1
 - Wsbk - Wsbk: Aragon (Spain) - Practice 2 (09/26/25)
-  Time: 09:00PM, Channels: 6
+  Time: 09:00PM, Channels: 3
 - Tcr Europe - Race 1 | Barcelona (09/26/25)
-  Time: 09:15PM, Channels: 6
+  Time: 09:15PM, Channels: 3
 - Worldsbk - Wsbk: Worldssp300 Superpole (09/26/25)
   Time: 10:00PM, Channels: 2
-- Atp Beijing, China Men Singles - Giovanni Mpetshi Perricard ...
-  Time: 07:15PM, Channels: 6
 - Pádel Premier Padel 2025 - Ortega/Icardo - Fernández/Gonzále...
-  Time: 07:25PM, Channels: 2
-- Wta Beijing, China Women Singles - Belinda Bencic Vs Katie V...
-  Time: 08:05PM, Channels: 2
+  Time: 07:25PM, Channels: 1
 - Atp Beijing, China Men Singles - Lorenzo Sonego Vs Alexander...
-  Time: 08:45PM, Channels: 6
-- Atp Beijing, China Men Singles - Lorenzo Sonego Vs Alexander...
-  Time: 08:45PM, Channels: 2
+  Time: 08:45PM, Channels: 3
 - Cuartos De Final Femenino-Padel - Triay/Brea Vs  Guinart/Vir...
-  Time: 09:25PM, Channels: 2
+  Time: 09:25PM, Channels: 1
 - Livoli Divisi Utama - Putra: Indomaret  Vs  Pasundan (09/26/...
-  Time: 09:00PM, Channels: 2
+  Time: 09:00PM, Channels: 1
