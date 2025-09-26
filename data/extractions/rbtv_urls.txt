@@ -1,15 +1,475 @@
-Extracted at: 2025-09-26T07:36:49.515684
+Extracted at: 2025-09-26T07:49:29.749254
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== MEDIA SEGMENTS (First 10) ===
+=== GROUPED EVENTS BY TITLE ===
 
-1. https://world-proxifier.xyz/rbtv/p/AkRQU1ESDw4CC1QGBxlUXjJcQklSPlQEQCFJMzJdVAdPJEIyUkpUMTZCATVEXEZJN19CVgEiQEpEITBWWkIoViwCKygXPBQeGj0QHhc8FRMVABMS/index.m3u8
-2. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQlFETiQ3NlIVNEpIPF4wSiJUDDJRRjxAJk1MUiUwVglUQlYLQipWWlBLTlIQVCpSPBQXLAMrKRI8FB4aAxcTLTwRFhoKFxU=/index.m3u8
-3. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WVlhLTk9UMFYuQgFEMVtGSVISST5IQjMyUkpCSUpCAzZNWj5ETVpUKlI8FBcsAyspEjwUHhoDEBYQPBEWGgoXKQ==/index.m3u8
-4. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlIYTkhSFEYqRCRLVjUmVFc0JzdMUhgyMjRcRlZaUDdDQF1OVi5CKhYTPBUpLQIqFhoKFRIRCioTEgocFRM=/index.m3u8
-5. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlJGMjdAXU5DQEIORDdUMU8yXUxWNSZUBk5QS0BSSEZIQFoyQktYVCpSPBQXLAMrKRI8FB4aAxAXETwRFhoKFxQ=/index.m3u8
-6. https://world-proxifier.xyz/rbtv/p/CCI3QEBdVFBNWDNAMSZOMzhCBUQ2XkIzQVBJS1IZQkRKJEJWLkJQRE1aSjw0XUxWVF1OMUQhMEw3KFQxNkIHNk1aTDBOQlJJSCVCNTZYMTxSPlQoEzwWKBIKHBcWPRcoEwcTFBUD/index.m3u8
-7. https://world-proxifier.xyz/rbtv/p/CCI3QEBdVFBNWDNAMSZOMzhCBUQ2XkIzQVBJS1IZQkRKJEJWLkJeNk0mQkxSREtMNVQ3MkgnPlY1JlQESyRLTlISS05SREtMNVQ3MkgnPlYuQioXLAAqFhoKFRItBioXFwUWERI=/index.m3u8
-8. https://world-proxifier.xyz/rbtv/p/D1Q8VllURktAXUFWA1AwSkQnR0RPX1QNRFBMMERCXDZMVEsyUj5UCkBYS0tAXUFWUyIyRE5QTlZaIkpATUIzMlJGNDA3W0I1TUIDNkhbNFZaIkpATUIoViwDKhMsAhweLT0VECwDERERPRY=/index.m3u8
-9. https://world-proxifier.xyz/rbtv/p/D1Q8VllURktAXUFWA1AwSkQnR0RPX1QNRFBMMERCXDZMVEsyUj5UCkBYS0tAXUFWUyIyRE5QTlZaIkpATUIzMlJGNDA3W0I1TUIDNkhbNFZaIkpATUIoViwDKhQsAhweLT0VECwDEREQChc=/index.m3u8
-10. https://world-proxifier.xyz/rbtv/p/VwMrVloiN0tHQgYwMzlUBkUhTkJAQlYwQF9OQUhUNy1SQUJOSCJLRE9CAUxNUElWLkIJRExYR0xAQjMyUhhCSThQVCpSPBEoEzwUHho9FCkaPBUTFQAcEg==/index.m3u8
+EVENT: Australia: Afl Women - Carlton Blues W Vs Fremantle Dockers W (09/26/25)
+Time: 03:05PM
+Date: 09/26/25
+Category: None
+Available Channels (2):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/AkRQU1ESDw4CC1QGBxlUXjJcQklSPlQEQCFJMzJdVAdPJEIyUkpUMTZCATVEXEZJN19CVgEiQEpEITBWWkIoViwCKygXPBQeGj0QHhc8FRMVABMS/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_asr_active.webp
+  2. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/AkRQU1ESDw4CC1QGBxlUXjJcQklSPlQEQCFJMzJdVAdPJEIyUkpUMTZCATVEXEZJN19CVgEiQEpEITBWWkIoViwCKygXPBQeGj0QHhc8FRMVABMS/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_asr_active.webp
+
+================================================================================
+
+EVENT: Korea Open, Doubles - Takuro Hoki/Yugo Kobayashi Vs Lee J / Wang C (09/26/25)
+Time: 03:25PM
+Date: 09/26/25
+Category: None
+Available Channels (3):
+  1. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQlFETiQ3NlIVNEpIPF4wSiJUDDJRRjxAJk1MUiUwVglUQlYLQipWWlBLTlIQVCpSPBQXLAMrKRI8FB4aAxcTLTwRFhoKFxU=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp
+  2. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQlFETiQ3NlIVNEpIPF4wSiJUDDJRRjxAJk1MUiUwVglUQlYLQipWWlBLTlIQVCpSPBQXLAMrKRI8FB4aAxcTLTwRFhoKFxU=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp
+  3. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQlFETiQ3NlIVNEpIPF4wSiJUDDJRRjxAJk1MUiUwVglUQlYLQipWWlBLTlIQVCpSPBQXLAMrKRI8FB4aAxcTLTwRFhoKFxU=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp
+
+================================================================================
+
+EVENT: Korea Open, Women, Singles - Kim Ga-Eun Vs Putri Kusuma Wardani (09/26/25)
+Time: 03:50PM
+Date: 09/26/25
+Category: None
+Available Channels (2):
+  1. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlIYTkhSFEYqRCRLVjUmVFc0JzdMUhgyMjRcRlZaUDdDQF1OVi5CKhYTPBUpLQIqFhoKFRIRCioTEgocFRM=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp
+  2. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlIYTkhSFEYqRCRLVjUmVFc0JzdMUhgyMjRcRlZaUDdDQF1OVi5CKhYTPBUpLQIqFhoKFRIRCioTEgocFRM=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp
+
+================================================================================
+
+EVENT: Korean University Basketball League - Sangmyung University Vs Dongguk University (09/26/25)
+Time: 03:00PM
+Date: 09/26/25
+Category: None
+Available Channels (3):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/CCI3QEBdVFBNWDNAMSZOMzhCBUQ2XkIzQVBJS1IZQkRKJEJWLkJQRE1aSjw0XUxWVF1OMUQhMEw3KFQxNkIHNk1aTDBOQlJJSCVCNTZYMTxSPlQoEzwWKBIKHBcWPRcoEwcTFBUD/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/CCI3QEBdVFBNWDNAMSZOMzhCBUQ2XkIzQVBJS1IZQkRKJEJWLkJQRE1aSjw0XUxWVF1OMUQhMEw3KFQxNkIHNk1aTDBOQlJJSCVCNTZYMTxSPlQoEzwWKBIKHBcWPRcoEwcTFBUD/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+  3. SD
+     URL: https://world-proxifier.xyz/rbtv/p/CCI3QEBdVFBNWDNAMSZOMzhCBUQ2XkIzQVBJS1IZQkRKJEJWLkJQRE1aSjw0XUxWVF1OMUQhMEw3KFQxNkIHNk1aTDBOQlJJSCVCNTZYMTxSPlQoEzwWKBIKHBcWPRcoEwcTFBUD/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+
+================================================================================
+
+EVENT: Korean University Basketball League - Yonsei University Vs Chung Ang University (09/26/25)
+Time: 03:00PM
+Date: 09/26/25
+Category: None
+Available Channels (2):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/CCI3QEBdVFBNWDNAMSZOMzhCBUQ2XkIzQVBJS1IZQkRKJEJWLkJeNk0mQkxSREtMNVQ3MkgnPlY1JlQESyRLTlISS05SREtMNVQ3MkgnPlYuQioXLAAqFhoKFRItBioXFwUWERI=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/CCI3QEBdVFBNWDNAMSZOMzhCBUQ2XkIzQVBJS1IZQkRKJEJWLkJeNk0mQkxSREtMNVQ3MkgnPlY1JlQESyRLTlISS05SREtMNVQ3MkgnPlYuQioXLAAqFhoKFRItBioXFwUWERI=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+
+================================================================================
+
+EVENT: New Zealand Basketball League Womens - Mainland Pouakai Women Vs Southern Hoiho Women (09/26/25)
+Time: 03:30PM
+Date: 09/26/25
+Category: None
+Available Channels (6):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/D1Q8VllURktAXUFWA1AwSkQnR0RPX1QNRFBMMERCXDZMVEsyUj5UCkBYS0tAXUFWUyIyRE5QTlZaIkpATUIzMlJGNDA3W0I1TUIDNkhbNFZaIkpATUIoViwDKhMsAhweLT0VECwDERERPRY=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/D1Q8VllURktAXUFWA1AwSkQnR0RPX1QNRFBMMERCXDZMVEsyUj5UCkBYS0tAXUFWUyIyRE5QTlZaIkpATUIzMlJGNDA3W0I1TUIDNkhbNFZaIkpATUIoViwDKhQsAhweLT0VECwDEREQChc=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+  3. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/D1Q8VllURktAXUFWA1AwSkQnR0RPX1QNRFBMMERCXDZMVEsyUj5UCkBYS0tAXUFWUyIyRE5QTlZaIkpATUIzMlJGNDA3W0I1TUIDNkhbNFZaIkpATUIoViwDKhMsAhweLT0VECwDERERPRY=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+  4. SD
+     URL: https://world-proxifier.xyz/rbtv/p/D1Q8VllURktAXUFWA1AwSkQnR0RPX1QNRFBMMERCXDZMVEsyUj5UCkBYS0tAXUFWUyIyRE5QTlZaIkpATUIzMlJGNDA3W0I1TUIDNkhbNFZaIkpATUIoViwDKhQsAhweLT0VECwDEREQChc=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+  5. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/D1Q8VllURktAXUFWA1AwSkQnR0RPX1QNRFBMMERCXDZMVEsyUj5UCkBYS0tAXUFWUyIyRE5QTlZaIkpATUIzMlJGNDA3W0I1TUIDNkhbNFZaIkpATUIoViwDKhMsAhweLT0VECwDERERPRY=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+  6. SD
+     URL: https://world-proxifier.xyz/rbtv/p/D1Q8VllURktAXUFWA1AwSkQnR0RPX1QNRFBMMERCXDZMVEsyUj5UCkBYS0tAXUFWUyIyRE5QTlZaIkpATUIzMlJGNDA3W0I1TUIDNkhbNFZaIkpATUIoViwDKhQsAhweLT0VECwDEREQChc=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+
+================================================================================
+
+EVENT: T20 World Cup, Africa Qualifier, Regional Final - Namibia Vs Kenya (09/26/25) [STREAM 34[HD]]
+Time: 03:30PM
+Date: 09/26/25
+Category: None
+Available Channels (2):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/VwMrVloiN0tHQgYwMzlUBkUhTkJAQlYwQF9OQUhUNy1SQUJOSCJLRE9CAUxNUElWLkIJRExYR0xAQjMyUhhCSThQVCpSPBEoEzwUHho9FCkaPBUTFQAcEg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp
+  2. None
+     URL: https://world-proxifier.xyz/rbtv/p/VwMrVloiN0tHQgYwMzlUBkUhTkJAQlYwQF9OQUhUNy1SQUJOSCJLRE9CAUxNUElWLkIJRExYR0xAQjMyUhhCSThQVCpSPBEoEzwUHho9FCkaPBUTFQAcEg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp
+
+================================================================================
+
+EVENT: T20 World Cup, Africa Qualifier, Regional Final - Nigeria Vs Malawi (09/26/25) [STREAM 35[HD]]
+Time: 03:30PM
+Date: 09/26/25
+Category: None
+Available Channels (2):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/VwMrVloiN0tHQgYwMzlUBkUhTkJAQlYwQF9OQUhUNy1SQUJOSCJLRE9CAUxNUElWLkIJTEpUN0xAQjMyUh5GS0AqTlYuQioTLAMqFhoKKxYSPSoXFwUWHhc=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp
+  2. None
+     URL: https://world-proxifier.xyz/rbtv/p/VwMrVloiN0tHQgYwMzlUBkUhTkJAQlYwQF9OQUhUNy1SQUJOSCJLRE9CAUxNUElWLkIJTEpUN0xAQjMyUh5GS0AqTlYuQioTLAMqFhoKKxYSPSoXFwUWHhc=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp
+
+================================================================================
+
+EVENT: Cycling World Cup - Junior Men'S Road Race | Uci World Championships (09/26/25)
+Time: 01:50PM
+Date: 09/26/25
+Category: None
+Available Channels (6):
+  1. MOVISTAR2
+     URL: https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYLJEtMMiFUCkRdIjJSQTRER0JXREZUVDtSRAYOUko0NU9XVARLUEo3SCJLMktYNTJSPlQoEgYqFy09FCgSChwXGgErKBcCHB4WPQ==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp
+  2. SKA
+     URL: https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYLJEtMMiFUCkRdIjJSQTRER0JXREZUVDtSRAYOUko0NU9XVARLUEo3SCJLMktYNTJSPlQoEgYqFy09FCgSChwXGgErKBcCHB4WAg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp
+  3. MOVISTAR2
+     URL: https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYLJEtMMiFUCkRdIjJSQTRER0JXREZUVDtSRAYOUko0NU9XVARLUEo3SCJLMktYNTJSPlQoEgYqFy09FCgSChwXGgErKBcCHB4WPQ==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp
+  4. SKA
+     URL: https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYLJEtMMiFUCkRdIjJSQTRER0JXREZUVDtSRAYOUko0NU9XVARLUEo3SCJLMktYNTJSPlQoEgYqFy09FCgSChwXGgErKBcCHB4WAg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp
+  5. MOVISTAR2
+     URL: https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYLJEtMMiFUCkRdIjJSQTRER0JXREZUVDtSRAYOUko0NU9XVARLUEo3SCJLMktYNTJSPlQoEgYqFy09FCgSChwXGgErKBcCHB4WPQ==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp
+  6. SKA
+     URL: https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYLJEtMMiFUCkRdIjJSQTRER0JXREZUVDtSRAYOUko0NU9XVARLUEo3SCJLMktYNTJSPlQoEgYqFy09FCgSChwXGgErKBcCHB4WAg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp
+
+================================================================================
+
+EVENT: Cycling World Cup - Junior Men'S Road Race | Uci World Championships (09/26/25) [STREAM 32[HD]]
+Time: 01:50PM
+Date: 09/26/25
+Category: None
+Available Channels (3):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYLJEtMMiFUCkRdIjJSQTRER0JXREZUVDtSRAYOUko0NU9XVARLUEo3SCJLMktYNTJSPlQoEgYqFywCHB4TChcpLAMRERAHFQ==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp
+  2. None
+     URL: https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYLJEtMMiFUCkRdIjJSQTRER0JXREZUVDtSRAYOUko0NU9XVARLUEo3SCJLMktYNTJSPlQoEgYqFywCHB4TChcpLAMRERAHFQ==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp
+  3. None
+     URL: https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYLJEtMMiFUCkRdIjJSQTRER0JXREZUVDtSRAYOUko0NU9XVARLUEo3SCJLMktYNTJSPlQoEgYqFywCHB4TChcpLAMRERAHFQ==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp
+
+================================================================================
+
+EVENT: Chinese Football Assorciation U-21 League - Meizhou Hakka U21 Vs Guangxi Pingguo Haliao U21 (09/26/25)
+Time: 03:00PM
+Date: 09/26/25
+Category: None
+Available Channels (2):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1ISMDIyIUBMQCdONk1CUioTAlQNRFBMMERCKFYOVE49SyIyVgVQSEpAQlIXEkIzMlIUMkRNWj1MUkNOSUpaMjZSFUZLSFA0VlQDFFYuQioWLAAqFRMFFBIaACoULQAXKRQ=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1ISMDIyIUBMQCdONk1CUioTAlQNRFBMMERCKFYOVE49SyIyVgVQSEpAQlIXEkIzMlIUMkRNWj1MUkNOSUpaMjZSFUZLSFA0VlQDFFYuQioWLAAqFRMFFBIaACoULQAXKRQ=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Chinese Football Assorciation U-21 League - Shanghai Shenhua U21 Vs Kunming City Star U21 (09/26/25)
+Time: 03:00PM
+Date: 09/26/25
+Category: None
+Available Channels (2):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1ISMDIyIUBMQCdONk1CUioTAlQNRFBMMERCKFZWW0ZJSltGTFJGTUBNWzJEUkQVFlIlMFYIJEtISF1MVgBYMTxSRjFEMUJSFxJCKFYsAioULAEVERIGHBcsACsUET0R/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1ISMDIyIUBMQCdONk1CUioTAlQNRFBMMERCKFZWW0ZJSltGTFJGTUBNWzJEUkQVFlIlMFYIJEtISF1MVgBYMTxSRjFEMUJSFxJCKFYsAioULAEVERIGHBcsACsUET0R/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: New Zealand: Bunnings Npc - Southland Vs Tasman (09/26/25)
+Time: 03:10PM
+Date: 09/26/25
+Category: None
+Available Channels (2):
+  1. HDD B
+     URL: https://world-proxifier.xyz/rbtv/p/DxZcVlkWBA0CHwcfUhMySU1YS042QglXAEIoVlYiMjNLX0ZJR0IzMlJHRjJMUEtWLkIqESwHKhYaCisSGgMqFxcFFh4t/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp
+  2. HDD B
+     URL: https://world-proxifier.xyz/rbtv/p/DxZcVlkWBA0CHwcfUhMySU1YS042QglXAEIoVlYiMjNLX0ZJR0IzMlJHRjJMUEtWLkIqESwHKhYaCisSGgMqFxcFFh4t/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp
+
+================================================================================
+
+EVENT: New Zealand: Bunnings Npc - Southland Vs Tasman (09/26/25) [STREAM 33[HD]]
+Time: 03:10PM
+Date: 09/26/25
+Category: None
+Available Channels (2):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/DxZcVlkWBA0CHwcfUhMySU1YS042QglXAEIoVlYiMjNLX0ZJR0IzMlJHRjJMUEtWLkIqESwDKhYaCisSGgMqFxcFFhER/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp
+  2. None
+     URL: https://world-proxifier.xyz/rbtv/p/DxZcVlkWBA0CHwcfUhMySU1YS042QglXAEIoVlYiMjNLX0ZJR0IzMlJHRjJMUEtWLkIqESwDKhYaCisSGgMqFxcFFhER/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp
+
+================================================================================
+
+EVENT: Atp Beijing, China Men Singles - Shang Juncheng Vs Arthur Cazaux (09/26/25)
+Time: 01:10PM
+Date: 09/26/25
+Category: None
+Available Channels (2):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSRk1ETVpUDzRdQE9EXUxWNSZUBjEnTTAxQgZEOVAyP1I-VCgQPBEoEgocFhECFygTBxMUFwI=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  2. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSRk1ETVpUDzRdQE9EXUxWNSZUBjEnTTAxQgZEOVAyP1I-VCgQPBEoEgocFhECFygTBxMUFwI=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Wta Beijing, China Women Singles - Elena Rybakina Vs Caty Mcnally (09/26/25)
+Time: 01:15PM
+Date: 09/26/25
+Category: None
+Available Channels (3):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQCT1RLRFJBPkVAXk5JQEIzMlIQRjM4QghCTVBJSzhCKFYsACoTLAIcERUAEiksAxEREAYc/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  2. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQCT1RLRFJBPkVAXk5JQEIzMlIQRjM4QghCTVBJSzhCKFYsACoTLAIcERUAEiksAxEREAYc/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  3. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQCT1RLRFJBPkVAXk5JQEIzMlIQRjM4QghCTVBJSzhCKFYsACoTLAIcERUAEiksAxEREAYc/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Atp Beijing, China Men Singles - Learner Tien Vs Francisco Cerundolo (09/26/25)
+Time: 01:50PM
+Date: 09/26/25
+Category: None
+Available Channels (3):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSGUJEMV1CNVJHTkBNQjMyUhc3RE1WTjJGIlQERCEySUciSTZSPlQoEDwRKBIKHCkRBSsoEwcTFBQA/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  2. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSGUJEMV1CNVJHTkBNQjMyUhc3RE1WTjJGIlQERCEySUciSTZSPlQoEDwRKBIKHCkRBSsoEwcTFBQA/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  3. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSGUJEMV1CNVJHTkBNQjMyUhc3RE1WTjJGIlQERCEySUciSTZSPlQoEDwRKBIKHCkRBSsoEwcTFBQA/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Wta Beijing, China Women Doubles - Hunter S / Krawczyk D Vs Kato M / Stollar F (09/26/25)
+Time: 02:10PM
+Date: 09/26/25
+Category: None
+Available Channels (2):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUhE0MEFfQjJSPlQBNF0xQDFCUFYsQg41QCpAPTheVAVSJTBWCFAxNlIeVChSRjE2T19GNVIXVCpSPBYoFzwUHhoCECkSPBUTFQASHg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  2. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUhE0MEFfQjJSPlQBNF0xQDFCUFYsQg41QCpAPTheVAVSJTBWCFAxNlIeVChSRjE2T19GNVIXVCpSPBYoFzwUHhoCECkSPBUTFQASHg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Atp Beijing, China Men Singles - Daniil Medvedev Vs Cameron Norrie (09/26/25)
+Time: 02:50PM
+Date: 09/26/25
+Category: None
+Available Channels (6):
+  1. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEUZJSFhJVg5UQTFEV0IxUiUwVgBQSkAxIktWDyI3NUhUVCpSPBYoEz0rFiwCHB4tARITLAcUHhQKEQ==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  2. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEUZJSFhJVg5UQTFEV0IxUiUwVgBQSkAxIktWDyI3NUhUVCpSPBYoFzwUHho9FxAXPBUTFQATHg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  3. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEUZJSFhJVg5UQTFEV0IxUiUwVgBQSkAxIktWDyI3NUhUVCpSPBYoEz0rFiwCHB4tARITLAcUHhQKEQ==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  4. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEUZJSFhJVg5UQTFEV0IxUiUwVgBQSkAxIktWDyI3NUhUVCpSPBYoFzwUHho9FxAXPBUTFQATHg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  5. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEUZJSFhJVg5UQTFEV0IxUiUwVgBQSkAxIktWDyI3NUhUVCpSPBYoEz0rFiwCHB4tARITLAcUHhQKEQ==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  6. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEUZJSFhJVg5UQTFEV0IxUiUwVgBQSkAxIktWDyI3NUhUVCpSPBYoFzwUHho9FxAXPBUTFQATHg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Atp Beijing, China Men Singles - Daniil Medvedev Vs Cameron Norrie (09/26/25) [STREAM 17[HD]]
+Time: 02:50PM
+Date: 09/26/25
+Category: None
+Available Channels (3):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEUZJSFhJVg5UQTFEV0IxUiUwVgBQSkAxIktWDyI3NUhUVCpSPBYoEzwUHho9FxAXPBUTFQArHg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  2. None
+     URL: https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEUZJSFhJVg5UQTFEV0IxUiUwVgBQSkAxIktWDyI3NUhUVCpSPBYoEzwUHho9FxAXPBUTFQArHg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  3. None
+     URL: https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEUZJSFhJVg5UQTFEV0IxUiUwVgBQSkAxIktWDyI3NUhUVCpSPBYoEzwUHho9FxAXPBUTFQArHg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Atp Tokyo, Japan Men Singles - Nuno Borges Vs Taylor Fritz (09/26/25)
+Time: 03:00PM
+Date: 09/26/25
+Category: None
+Available Channels (6):
+  1. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VAs0XTRWAyI3TkQmVDE2QlFEOF80NVIXN0w3KVQqUjwWKBM9KxYsAhweLT0XFywHFB4UBRM=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  2. MOVISTAR
+     URL: https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VAs0XTRWAyI3TkQmVDE2QlFEOF80NVIXN0w3KVQqUjwWKBM9KxYsAhweLT0XFywHFB4VPSs=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  3. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VAs0XTRWAyI3TkQmVDE2QlFEOF80NVIXN0w3KVQqUjwWKBc8FB4aPSsVEzwVExUAExE=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  4. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VAs0XTRWAyI3TkQmVDE2QlFEOF80NVIXN0w3KVQqUjwWKBM9KxYsAhweLT0XFywHFB4UBRM=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  5. MOVISTAR
+     URL: https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VAs0XTRWAyI3TkQmVDE2QlFEOF80NVIXN0w3KVQqUjwWKBM9KxYsAhweLT0XFywHFB4VPSs=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  6. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VAs0XTRWAyI3TkQmVDE2QlFEOF80NVIXN0w3KVQqUjwWKBc8FB4aPSsVEzwVExUAExE=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Wta Beijing, China Women Singles - Veronika Kudermetova Vs Anna Bondar (09/26/25)
+Time: 03:00PM
+Date: 09/26/25
+Category: None
+Available Channels (3):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlRRRCE0SUheRlYIJEFAMVxCMzIlRlY1JlQGTV1GVgMiS0NAIVQqUjwWKBc8FB4aAhAXEDwVExUAHBQ=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  2. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlRRRCE0SUheRlYIJEFAMVxCMzIlRlY1JlQGTV1GVgMiS0NAIVQqUjwWKBc8FB4aAhAXEDwVExUAHBQ=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  3. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlRRRCE0SUheRlYIJEFAMVxCMzIlRlY1JlQGTV1GVgMiS0NAIVQqUjwWKBc8FB4aAhAXEDwVExUAHBQ=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Atp Tokyo, Japan Men Double - Maximo Gonzalez/Andres Molteni Vs Bopanna R / Yuzuki T (09/26/25)
+Time: 03:20PM
+Date: 09/26/25
+Category: None
+Available Channels (2):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSETQwQV9CVi5CCEQ7WEo2UhQ0STlQSUA5PARJRyFCMlIeNEs3VEtMUiUwVgMiNURNXUZWUUIqVlgkPzBOWFRTUj5UKBA8ESgSChwpLQYrKBMHExQaCg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  2. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSETQwQV9CVi5CCEQ7WEo2UhQ0STlQSUA5PARJRyFCMlIeNEs3VEtMUiUwVgMiNURNXUZWUUIqVlgkPzBOWFRTUj5UKBA8ESgSChwpLQYrKBMHExQaCg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Wta Beijing, China Women Singles - Antonia Ružić Vs Paula Badosa (09/26/25)
+Time: 03:30PM
+Date: 09/26/25
+Category: None
+Available Channels (3):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQGTSc0SUhQVFU0p8pMtuVUMTZCVUQ0X0ZWA1BBNjZQVCpSPBYoFzwUHhoCFxYSPBUTFQErEg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  2. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQGTSc0SUhQVFU0p8pMtuVUMTZCVUQ0X0ZWA1BBNjZQVCpSPBYoFzwUHhoCFxYSPBUTFQErEg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  3. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQGTSc0SUhQVFU0p8pMtuVUMTZCVUQ0X0ZWA1BBNjZQVCpSPBYoFzwUHhoCFxYSPBUTFQErEg==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Atp Beijing, China Men Singles - Adrian Mannarino Vs Alexander Bublik (09/26/25)
+Time: 03:40PM
+Date: 09/26/25
+Category: None
+Available Channels (2):
+  1. HDD B
+     URL: https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEkE1SFBLVg5QS0lAIU5JMkIzMlISSUA7UEtDRCFUBzRRSUxOQihWLAAqEywCHB4SARQULAMRERAFKw==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  2. HDD B
+     URL: https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEkE1SFBLVg5QS0lAIU5JMkIzMlISSUA7UEtDRCFUBzRRSUxOQihWLAAqEywCHB4SARQULAMRERAFKw==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Atp Beijing, China Men Singles - Corentin Moutet Vs Tallon Griekspoor (09/26/25)
+Time: 03:50PM
+Date: 09/26/25
+Category: None
+Available Channels (3):
+  1. HDD B
+     URL: https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEDQ1RF0xTE1CCDY0J0IzUiUwVldQSUsyXVQAMVhCSjYjNDYxQihWLAAqEywCHB4tARISLAMRERE9FQ==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  2. HDD B
+     URL: https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEDQ1RF0xTE1CCDY0J0IzUiUwVldQSUsyXVQAMVhCSjYjNDYxQihWLAAqEywCHB4tARISLAMRERE9FQ==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  3. HDD B
+     URL: https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEDQ1RF0xTE1CCDY0J0IzUiUwVldQSUsyXVQAMVhCSjYjNDYxQihWLAAqEywCHB4tARISLAMRERE9FQ==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Wta Beijing, China Women Singles - Jasmine Paolini Vs Anastasija Sevastova (09/26/25)
+Time: 03:50PM
+Date: 09/26/25
+Category: None
+Available Channels (3):
+  1. HDD B
+     URL: https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQPQCZKTE1UVFdAIklMTVhUMTZCBElAJjFENlhPRFJGQjFAJjE2NVBUKlI8FigXPBQeFQUWExM8FRMVABMU/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  2. HDD B
+     URL: https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQPQCZKTE1UVFdAIklMTVhUMTZCBElAJjFENlhPRFJGQjFAJjE2NVBUKlI8FigXPBQeFQUWExM8FRMVABMU/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  3. HDD B
+     URL: https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQPQCZKTE1UVFdAIklMTVhUMTZCBElAJjFENlhPRFJGQjFAJjE2NVBUKlI8FigXPBQeFQUWExM8FRMVABMU/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Livoli Divisi Utama - Putra: Samator  Vs  Ganeksa Bhumikarta (09/26/25)
+Time: 02:30PM
+Date: 09/26/25
+Category: None
+Available Channels (2):
+  1. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/CVgzNk9YVAVIJU4ySEJSM0BcRlYuQlUwNyFGH1JGRkhAJzQ1UkIzMlJCAkRNVEgyQEIFTzRcTkpAITFEUj5UKBIAKhctPRQoEgocFxACEygXAhwTGj0=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp
+  2. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/CVgzNk9YVAVIJU4ySEJSM0BcRlYuQlUwNyFGH1JGRkhAJzQ1UkIzMlJCAkRNVEgyQEIFTzRcTkpAITFEUj5UKBIAKhctPRQoEgocFxACEygXAhwTGj0=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp
+
+================================================================================
+

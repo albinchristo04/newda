@@ -1,24 +1,29 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Fri Sep 26 07:36:50 UTC 2025
+Last updated: Fri Sep 26 07:49:30 UTC 2025
 
-Workflow run: #238
+Workflow run: #239
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-26T07:36:49.515684
+Extracted at: 2025-09-26T07:49:29.749254
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== MEDIA SEGMENTS (First 10) ===
+=== GROUPED EVENTS BY TITLE ===
 
-1. https://world-proxifier.xyz/rbtv/p/AkRQU1ESDw4CC1QGBxlUXjJcQklSPlQEQCFJMzJdVAdPJEIyUkpUMTZCATVEXEZJN19CVgEiQEpEITBWWkIoViwCKygXPBQeGj0QHhc8FRMVABMS/index.m3u8
-2. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQlFETiQ3NlIVNEpIPF4wSiJUDDJRRjxAJk1MUiUwVglUQlYLQipWWlBLTlIQVCpSPBQXLAMrKRI8FB4aAxcTLTwRFhoKFxU=/index.m3u8
-3. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WVlhLTk9UMFYuQgFEMVtGSVISST5IQjMyUkpCSUpCAzZNWj5ETVpUKlI8FBcsAyspEjwUHhoDEBYQPBEWGgoXKQ==/index.m3u8
-4. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlIYTkhSFEYqRCRLVjUmVFc0JzdMUhgyMjRcRlZaUDdDQF1OVi5CKhYTPBUpLQIqFhoKFRIRCioTEgocFRM=/index.m3u8
-5. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlJGMjdAXU5DQEIORDdUMU8yXUxWNSZUBk5QS0BSSEZIQFoyQktYVCpSPBQXLAMrKRI8FB4aAxAXETwRFhoKFxQ=/index.m3u8
-6. https://world-proxifier.xyz/rbtv/p/CCI3QEBdVFBNWDNAMSZOMzhCBUQ2XkIzQVBJS1IZQkRKJEJWLkJQRE1aSjw0XUxWVF1OMUQhMEw3KFQxNkIHNk1aTDBOQlJJSCVCNTZYMTxSPlQoEzwWKBIKHBcWPRcoEwcTFBUD/index.m3u8
-7. https://world-proxifier.xyz/rbtv/p/CCI3QEBdVFBNWDNAMSZOMzhCBUQ2XkIzQVBJS1IZQkRKJEJWLkJeNk0mQkxSREtMNVQ3MkgnPlY1JlQESyRLTlISS05SREtMNVQ3MkgnPlYuQioXLAAqFhoKFRItBioXFwUWERI=/index.m3u8
-8. https://world-proxifier.xyz/rbtv/p/D1Q8VllURktAXUFWA1AwSkQnR0RPX1QNRFBMMERCXDZMVEsyUj5UCkBYS0tAXUFWUyIyRE5QTlZaIkpATUIzMlJGNDA3W0I1TUIDNkhbNFZaIkpATUIoViwDKhMsAhweLT0VECwDERERPRY=/index.m3u8
-9. https://world-proxifier.xyz/rbtv/p/D1Q8VllURktAXUFWA1AwSkQnR0RPX1QNRFBMMERCXDZMVEsyUj5UCkBYS0tAXUFWUyIyRE5QTlZaIkpATUIzMlJGNDA3W0I1TUIDNkhbNFZaIkpATUIoViwDKhQsAhweLT0VECwDEREQChc=/index.m3u8
-10. https://world-proxifier.xyz/rbtv/p/VwMrVloiN0tHQgYwMzlUBkUhTkJAQlYwQF9OQUhUNy1SQUJOSCJLRE9CAUxNUElWLkIJRExYR0xAQjMyUhhCSThQVCpSPBEoEzwUHho9FCkaPBUTFQAcEg==/index.m3u8
+EVENT: Australia: Afl Women - Carlton Blues W Vs Fremantle Dockers W (09/26/25)
+Time: 03:05PM
+Date: 09/26/25
+Category: None
+Available Channels (2):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/AkRQU1ESDw4CC1QGBxlUXjJcQklSPlQEQCFJMzJdVAdPJEIyUkpUMTZCATVEXEZJN19CVgEiQEpEITBWWkIoViwCKygXPBQeGj0QHhc8FRMVABMS/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_asr_active.webp
+  2. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/AkRQU1ESDw4CC1QGBxlUXjJcQklSPlQEQCFJMzJdVAdPJEIyUkpUMTZCATVEXEZJN19CVgEiQEpEITBWWkIoViwCKygXPBQeGj0QHhc8FRMVABMS/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_asr_active.webp
+
+================================================================================
+
+EVENT: Korea Open, Doubles - Takuro Hoki/Yugo Kobayashi Vs Lee J / Wang C (09/26/25)
 ```
