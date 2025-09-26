@@ -1,54 +1,88 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-26T14:49:43.684063
+Extraction Time: 2025-09-26T15:16:24.539659
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 20
-- Total Channels: 23
+- Unique Events: 37
+- Total Channels: 78
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
 - Greece Basketball Cup - Aek Athens Vs Prometheus (09/26/25)
-  Time: 10:00PM, Channels: 1
-- T20 World Cup, Africa Qualifier, Regional Final - Tanzania V...
-  Time: 07:50PM, Channels: 1
-- T20 World Cup, Africa Qualifier, Regional Final - Uganda Vs ...
-  Time: 07:50PM, Channels: 1
-- T20 Asia Cup - India Vs Sri Lanka (09/26/25)
-  Time: 10:30PM, Channels: 1
-- T20 Asia Cup - India Vs Sri Lanka (09/26/25) [STREAM 48[HD]]
-  Time: 10:30PM, Channels: 1
-- Cycling World Cup - U23 Men'S Road Race | Uci World Champion...
-  Time: 05:50PM, Channels: 2
-- Hexagone - One Friday Fights 126 (09/26/25)
-  Time: 08:30PM, Channels: 1
-- One Championship - One Friday Fights 126 (09/26/25)
-  Time: 08:30PM, Channels: 1
-- Latvian Higher League - Metta/Lu Riga Vs Grobina (09/26/25)
-  Time: 09:00PM, Channels: 1
-- United Arab Emirates Adnoc Pro-League - Al-Dhafra Vs Al Bata...
-  Time: 09:25PM, Channels: 1
-- United Arab Emirates Adnoc Pro-League - Baniyas Club Vs Ajma...
-  Time: 09:25PM, Channels: 1
-- Bahrain Premier League - Al-Muharraq Vs Malkiya (09/26/25)
-  Time: 09:45PM, Channels: 1
-- Croatian First Football League - Nk Dubrava Vs Nk Sesvete (0...
-  Time: 09:45PM, Channels: 1
-- Uzbekistan Super League - Fk Andijon Vs Fc Okmk Olmaliq (09/...
-  Time: 10:00PM, Channels: 1
-- Italian Campionato Primavera 1 - Bologna U20 Vs Atalanta U19...
-  Time: 10:30PM, Channels: 1
-- Tcr Europe - Race 1 | Barcelona (09/26/25)
-  Time: 09:15PM, Channels: 2
-- Worldsbk - Wsbk: Worldssp300 Superpole (09/26/25)
   Time: 10:00PM, Channels: 2
+- Liga Nova Kbm - Ilirija Vs Podcetrtek (09/26/25)
+  Time: 11:00PM, Channels: 2
+- T20 World Cup, Africa Qualifier, Regional Final - Tanzania V...
+  Time: 07:50PM, Channels: 2
+- T20 World Cup, Africa Qualifier, Regional Final - Uganda Vs ...
+  Time: 07:50PM, Channels: 2
+- T20 Asia Cup - India Vs Sri Lanka (09/26/25)
+  Time: 10:30PM, Channels: 2
+- T20 Asia Cup - India Vs Sri Lanka (09/26/25) [STREAM 48[HD]]
+  Time: 10:30PM, Channels: 2
+- Cycling World Cup - U23 Men'S Road Race | Uci World Champion...
+  Time: 05:50PM, Channels: 4
+- Hexagone - One Friday Fights 126 (09/26/25)
+  Time: 08:30PM, Channels: 2
+- One Championship - One Friday Fights 126 (09/26/25)
+  Time: 08:30PM, Channels: 2
+- Hexagone - Pfl Europe 3: Amin Ayoub - Donovan Desmae (09/26/...
+  Time: 11:00PM, Channels: 2
+- Professional Fighters League - Pfl Mena 3 | Weigh In (09/26/...
+  Time: 11:00PM, Channels: 2
+- United Arab Emirates Adnoc Pro-League - Al-Dhafra Vs Al Bata...
+  Time: 09:25PM, Channels: 2
+- United Arab Emirates Adnoc Pro-League - Baniyas Club Vs Ajma...
+  Time: 09:25PM, Channels: 2
+- Bahrain Premier League - Al-Muharraq Vs Malkiya (09/26/25)
+  Time: 09:45PM, Channels: 2
+- Croatian First Football League - Nk Dubrava Vs Nk Sesvete (0...
+  Time: 09:45PM, Channels: 2
+- Uzbekistan Super League - Fk Andijon Vs Fc Okmk Olmaliq (09/...
+  Time: 10:00PM, Channels: 2
+- Italian Campionato Primavera 1 - Bologna U20 Vs Atalanta U19...
+  Time: 10:30PM, Channels: 2
+- Armenian Premier League - Shirak Vs Urartu (09/26/25)
+  Time: 11:00PM, Channels: 2
+- Azerbaijan Premier League - Qarabag Vs Fk Gilan Gabala (09/2...
+  Time: 11:00PM, Channels: 2
+- Finnish Veikkausliiga - Vaasa Vps Vs Fc Haka (09/26/25)
+  Time: 11:00PM, Channels: 2
+- Iraq Stars League - Al Qasim Sc Vs Amanat Baghdad (09/26/25)
+  Time: 11:00PM, Channels: 2
+- Iraq Stars League - Naft Missan Vs Al Gharraf (09/26/25)
+  Time: 11:00PM, Channels: 2
+- Lithuanian I Lyga - Be1 Nfa Vs Bfa Vilnius (09/26/25)
+  Time: 11:00PM, Channels: 2
+- Qatar Stars League - Al-Wakrah Sc Vs Umm Salal (09/26/25)
+  Time: 11:00PM, Channels: 2
+- Romanian Super Liga - Hermannstadt Vs Arges (09/26/25)
+  Time: 11:00PM, Channels: 2
+- Russian Premier League - Krylya Sovetov Vs Dynamo Moscow (09...
+  Time: 11:00PM, Channels: 2
+- Slovak 2.Liga - Fk Pohronie Vs Inter Bratislava (09/26/25)
+  Time: 11:00PM, Channels: 2
+- U17 Gulf Cup Of Nations - Bahrain U17 Vs Kuwait U17 (09/26/2...
+  Time: 11:00PM, Channels: 2
+- U17 Gulf Cup Of Nations - Iraq U17 Vs Saudi Arabia U17 (09/2...
+  Time: 11:00PM, Channels: 2
+- Ukrainian Premier League - Kudrivka Vs Fk Epitsentr Dunayivt...
+  Time: 11:00PM, Channels: 2
+- Kontinental Hockey League - Lada Togliatti Vs Kunlun Red Sta...
+  Time: 11:00PM, Channels: 2
+- Worldsbk - Wsbk: Worldssp300 Superpole (09/26/25)
+  Time: 10:00PM, Channels: 4
+- S-Cer - Tc2 Gamonéu | Villa De Llanes Rally (09/26/25)
+  Time: 10:55PM, Channels: 2
 - Pádel Premier Padel 2025 - Ortega/Icardo - Fernández/Gonzále...
-  Time: 07:25PM, Channels: 1
+  Time: 07:25PM, Channels: 2
 - Cuartos De Final Femenino-Padel - Triay/Brea Vs  Guinart/Vir...
-  Time: 09:25PM, Channels: 1
+  Time: 09:25PM, Channels: 2
+- Pádel Premier Padel 2025 - Ustero/Araujo - Salazar/Calvo (09...
+  Time: 11:00PM, Channels: 2
 - Livoli Divisi Utama - Putra: Indomaret  Vs  Pasundan (09/26/...
-  Time: 09:00PM, Channels: 1
+  Time: 09:00PM, Channels: 2
