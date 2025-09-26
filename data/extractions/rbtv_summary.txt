@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-26T17:41:54.637703
+Extraction Time: 2025-09-26T17:51:06.071692
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 56
-- Total Channels: 66
+- Unique Events: 54
+- Total Channels: 64
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -35,10 +35,6 @@ EVENT BREAKDOWN:
 - Austrian 2.Liga - Fac Wien Vs Sk Rapid Ii (09/27/25)
   Time: 12:00AM, Channels: 1
 - Austrian 2.Liga - Fc Liefering Vs Sv Stripfing (09/27/25)
-  Time: 12:00AM, Channels: 1
-- Austrian 2.Liga - Sk Austria Klagenfurt Vs Fc Hogo Hertha We...
-  Time: 12:00AM, Channels: 1
-- Austrian 2.Liga - Skn St.Polten Vs Sk Sturm Graz Ii (09/27/2...
   Time: 12:00AM, Channels: 1
 - Chance Národní Liga - Sk Prostejov Vs Fk Graffin Vlasim (09/...
   Time: 12:00AM, Channels: 1
