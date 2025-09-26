@@ -1,29 +1,24 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Fri Sep 26 03:45:45 UTC 2025
+Last updated: Fri Sep 26 04:18:12 UTC 2025
 
-Workflow run: #228
+Workflow run: #229
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-26T03:45:44.742820
+Extracted at: 2025-09-26T04:18:11.667957
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== GROUPED EVENTS BY TITLE ===
+=== MEDIA SEGMENTS (First 10) ===
 
-EVENT: Usa: Ncaa - Army West Point Vs East Carolina (09/26/25)
-Time: 07:30AM
-Date: 09/26/25
-Category: None
-Available Channels (1):
-  1. HDD A
-     URL: https://world-proxifier.xyz/rbtv/p/VEYEH1IfBgYCQihWAiFKPFJKQjI3QlU2SF0xVjUmVAJAJjFWAFA3Nk9YS0RSPlQoGjwRKBIKHBYXBxAoEwcTFxYC/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp
-
-================================================================================
-
-EVENT: Australia: Afl Women - Melbourne Demons W Vs Gold Coast Suns W (09/26/25)
-Time: 11:05AM
-Date: 09/26/25
-Category: None
+1. https://world-proxifier.xyz/rbtv/p/AkRQU1ESDw4CC1QGBxlUXjJcQklSPlQKRF9HNjQhS0BSEUJIMl0wVlpCMzJSFDRLR0IGNkAmMVZWJEsyUkpUKlI8FCksByoWGgorEhoAKhcXBRYWEw==/index.m3u8
+2. https://world-proxifier.xyz/rbtv/p/AkRQU1ESDw4CC1QGBxlUXjJcQklSPlQKRF9HNjQhS0BSEUJIMl0wVlpCMzJSFDRLR0IGNkAmMVZWJEsyUkpUKlI8FCksByoWGgorEhoAKhcXBRYWEw==/index.m3u8
+3. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWCSIwVgJdTEBPVDBWAl1MQE8mVDE2Qg5ETSZGMlIQTjM4Qlc2OFBJMlI-VCgRPBEoEgocKS0KFygTBxMXFQA=/index.m3u8
+4. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlRGMzdfQlYOUDdMTVQ3MlIlMFYAIkk2MVBBNlJBNEJOWEIyUj5UKBE8ESgSChwpLQoQKBMHExcVBg==/index.m3u8
+5. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlRGMzdfQlYOUDdMTVQ3MlIlMFYAIkk2MVBBNlJBNEJOWEIyUj5UKBE8FSgSChwpLQoQKBMHExcVAw==/index.m3u8
+6. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlRGMzdfQlYOUDdMTVQ3MlIlMFYAIkk2MVBBNlJBNEJOWEIyUj5UKBE8ESgSChwpLQoQKBMHExcVBg==/index.m3u8
+7. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVlRGMzdfQlYOUDdMTVQ3MlIlMFYAIkk2MVBBNlJBNEJOWEIyUj5UKBE8FSgSChwpLQoQKBMHExcVAw==/index.m3u8
+8. https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxZWCVRGTjRUVCpSRUZJMVAyNURCA0RGW05JMltCVgcQVDE2Qg5ESiIwT0hcRlZUXU4zRFdUKlI8FCgQPBcWEgIWHhA8FikQASsU/index.m3u8
+9. https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxZWCVRGTjRUVCpSRUZJMVAyNURCA0RGW05JMltCVgcQVDE2Qg5ESiIwT0hcRlZUXU4zRFdUKlI8FCgQPBcWEgIWHhA8FikQASsU/index.m3u8
+10. https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVlVUTEQ2QgI2T1dCSVIYS0xKWzEyUiUwVlQnRk9SFTRCTlQ-VgBfMkVSPlQoEgIqEywCHB4tAhEWLAMRERMKEA==/index.m3u8
 ```
