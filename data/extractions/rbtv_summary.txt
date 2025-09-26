@@ -1,13 +1,38 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-26T04:41:43.982024
+Extraction Time: 2025-09-26T04:51:05.832409
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 0
-- Total Channels: 0
+- Unique Events: 12
+- Total Channels: 22
 - Individual Streams: 0
-- Media Segments: 48
+- Media Segments: 0
 - Other Events: 0
 
+EVENT BREAKDOWN:
+- Australia: Afl Women - Melbourne Demons W Vs Gold Coast Suns...
+  Time: 11:05AM, Channels: 1
+- Japanese J3 League - Vanraure Hachinohe Fc Vs Kagoshima Unit...
+  Time: 12:00PM, Channels: 1
+- Moto3 - Moto3: Motegi (Japan) - Practice 2 (09/26/25)
+  Time: 12:15PM, Channels: 8
+- Atp Beijing, China Men Singles - Andrey Rublev Vs Flavio Cob...
+  Time: 11:00AM, Channels: 2
+- Atp Beijing, China Men Singles - Andrey Rublev Vs Flavio Cob...
+  Time: 11:00AM, Channels: 1
+- Atp Beijing, China Men Singles - David Goffin Vs Arthur Rind...
+  Time: 11:00AM, Channels: 1
+- Atp Beijing, China Men Singles - Miomir Kecmanovic Vs Jakub ...
+  Time: 11:00AM, Channels: 1
+- Wta Beijing, China Women Singles - Kamilla Rakhimova Vs Coco...
+  Time: 11:00AM, Channels: 2
+- Atp Tokyo, Japan Men Singles - Sho Shimabukuro Vs Sebastian ...
+  Time: 11:45AM, Channels: 2
+- Atp Tokyo, Japan Men Double - Gonzalez S / Pel D Vs Cabral F...
+  Time: 11:50AM, Channels: 1
+- Wta Beijing, China Women Singles - Eva Lys Vs Iva Jovic (09/...
+  Time: 12:35PM, Channels: 1
+- Wta Beijing, China Women Singles - Marie Bouzkova Vs Magda L...
+  Time: 12:35PM, Channels: 1
