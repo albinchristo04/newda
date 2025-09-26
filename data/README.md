@@ -1,29 +1,24 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Fri Sep 26 16:54:12 UTC 2025
+Last updated: Fri Sep 26 17:13:36 UTC 2025
 
-Workflow run: #265
+Workflow run: #266
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-26T16:54:11.523397
+Extracted at: 2025-09-26T17:13:35.853930
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== GROUPED EVENTS BY TITLE ===
+=== MEDIA SEGMENTS (First 10) ===
 
-EVENT: Usa: Ncaa - Chris Vs Klieman Show (09/27/25)
-Time: 12:00AM
-Date: 09/27/25
-Category: None
-Available Channels (2):
-  1. HDD A
-     URL: https://world-proxifier.xyz/rbtv/p/VEYEH1IfBgYCQihWAFs3TDZCMzJSGElMRFxGSVJGTTY6QihWLAoqEywCHB4TChQSLAMREREKFQ==/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp
-  2. HDD A
-     URL: https://world-proxifier.xyz/rbtv/p/VEYEH1IfBgYCQihWAFs3TDZCMzJSGElMRFxGSVJGTTY6QihWLAoqEywCHB4TChQSLAMREREKFQ==/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp
-
-================================================================================
-
-EVENT: Liga Nova Kbm - Ilirija Vs Podcetrtek (09/26/25)
+1. https://world-proxifier.xyz/rbtv/p/A1AwSkQnRzZPQlAwM1Q3VglYTExSPlQGTVBBNk8kVAJFVDBWViM0NTcmVARPJEdWNSZUAjZUS0tEIVQCMSJIMjMiN1YuQioXLAAqFhoKKxIaCioXFwUQKRY=/index.m3u8
+2. https://world-proxifier.xyz/rbtv/p/A1AwSkQnRzZPQlAwM1Q3VglYTExSPlQGTVBBNk8kVAJFVDBWViM0NTcmVARPJEdWNSZUAjZUS0tEIVQCMSJIMjMiN1YuQioXLAAqFhoKKxIaCioXFwUQKRY=/index.m3u8
+3. https://world-proxifier.xyz/rbtv/p/CVhMRFIfNDFAQg4HDkIoVgpfTjVIWUZWNSZUVzJXQEA3ITFATkIoViwDKhQsAhweLT0WECwDERERBRQ=/index.m3u8
+4. https://world-proxifier.xyz/rbtv/p/CVhMRFIfNDFAQg4HDkIoVgpfTjVIWUZWNSZUVzJXQEA3ITFATkIoViwDKhQsAhweLT0WECwDERERBRQ=/index.m3u8
+5. https://world-proxifier.xyz/rbtv/p/ViVCSTZeRlYDUDBKRCdJTEpQS1YuQgUEUhkyS0RQVDE2QlI3MyZGS0BCBUQ2XkIzUj5UKBM8FigSChwpFz0WKBMHExItPQ==/index.m3u8
+6. https://world-proxifier.xyz/rbtv/p/ViVCSTZeRlYDUDBKRCdJTEpQS1YuQgUEUhkyS0RQVDE2QlI3MyZGS0BCBUQ2XkIzUj5UKBM8FigSChwpFz0WKBMHExItPQ==/index.m3u8
+7. https://world-proxifier.xyz/rbtv/p/ViVCSTZeRlYDUDBKRCdJTEpQS1YuQgU2MVAwVgNQMEpEJ1QxNkIONjNYS05SRjFEMSZUKlI8FSgQPBQeGj0RKRM8FRMVBisW/index.m3u8
+8. https://world-proxifier.xyz/rbtv/p/ViVCSTZeRlYDUDBKRCdJTEpQS1YuQgU2MVAwVgNQMEpEJ1QxNkIONjNYS05SRjFEMSZUKlI8FSgQPBQeGj0RKRM8FRMVBisW/index.m3u8
+9. https://world-proxifier.xyz/rbtv/p/VwMrVgImTkRSEDI3Uj5UDk1XTkRSJTBWViFOVglQS0pAQihWLAcqFy09FCgSChwpEgIXKBcCHB4QAw==/index.m3u8
+10. https://world-proxifier.xyz/rbtv/p/VwMrVgImTkRSEDI3Uj5UDk1XTkRSJTBWViFOVglQS0pAQihWLAcqFywCHB4tAhQVLAMREREFKw==/index.m3u8
 ```
