@@ -1,20 +1,20 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-26T23:37:10.878263
+Extraction Time: 2025-09-26T23:49:25.800902
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
 - Unique Events: 3
-- Total Channels: 11
+- Total Channels: 26
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
 - {'4': 68, '8': 7308895194058155890, '13': 353995073190280639...
-  Time: 06:00AM, Channels: 2
+  Time: 06:00AM, Channels: 4
 - {'4': 68, '8': 7308895194058155890, '13': 353995073190280639...
-  Time: 06:00AM, Channels: 2
+  Time: 06:00AM, Channels: 4
 - {'9': 862942319} - Moto3: Motegi (Japan) - Practice 3 (09/27...
-  Time: 07:40AM, Channels: 7
+  Time: 07:40AM, Channels: 18

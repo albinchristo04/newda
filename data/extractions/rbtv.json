@@ -1,9 +1,29 @@
 {
-  "timestamp": "2025-09-26T23:37:10.878263",
+  "timestamp": "2025-09-26T23:49:25.800902",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
   "events": [
+    {
+      "event_time": "06:00AM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD A",
+      "event_title": "{'4': 68, '8': 7308895194058155890, '13': 3539950731902806390} - Banfield Vs Club Atl\u00e9tico Uni\u00f3n (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/PjQXIBtCEREpQiIRJAtUEBA9ExEaBhQeET0QERIGEBEaPS9WJAIWIBtCFhIQChwSLQQWFho9FREtBxYeLSxUKlITRklFWEJLR0IzMlIQSTBBQgQzT6HdM0hWNFZUXU61wV1UKlI8FCgXPBcWLQQQHhI8FikQBxYW/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:00AM",
+      "event_date": "09/27/25",
+      "channel_name": "SD",
+      "event_title": "{'4': 68, '8': 7308895194058155890, '13': 3539950731902806390} - Banfield Vs Club Atl\u00e9tico Uni\u00f3n (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/PjQXIBtCEREpQiIRJAtUEBA9ExEaBhQeET0QERIGEBEaPS9WJAIWIBtCFhIQChwSLQQWFho9FREtBxYeLSxUKlITRklFWEJLR0IzMlIQSTBBQgQzT6HdM0hWNFZUXU61wV1UKlI8FCgQPBcWLQQQHhI8FikQBxUX/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
     {
       "event_time": "06:00AM",
       "event_date": "09/27/25",
@@ -45,11 +65,41 @@
       "group_title": "FOOTBALL"
     },
     {
-      "event_time": "07:40AM",
+      "event_time": "06:00AM",
       "event_date": "09/27/25",
       "channel_name": "HDD A",
+      "event_title": "{'4': 68, '8': 7308895194058155890, '13': 3539950731902806390} - Ca Platense Vs San Martin San Juan (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/PjQXIBtCEREpQiIRJAtUEBA9ExEaBhQeET0QERIGEBEaPS9WJAIWIBtCFhIQChwSLQQWFho9FREtBxYeLSxUKlIQBFZTX0YzRF0wQFIlMFZWUEtWDlA3M0hdVFJAXVQPNFBLVi5CKhYsByoVEj0SEho9KhQtABEXFQ==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:00AM",
+      "event_date": "09/27/25",
+      "channel_name": "SD",
+      "event_title": "{'4': 68, '8': 7308895194058155890, '13': 3539950731902806390} - Ca Platense Vs San Martin San Juan (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/PjQXIBtCEREpQiIRJAtUEBA9ExEaBhQeET0QERIGEBEaPS9WJAIWIBtCFhIQChwSLQQWFho9FREtBxYeLSxUKlIQBFZTX0YzRF0wQFIlMFZWUEtWDlA3M0hdVFJAXVQPNFBLVi5CKhYsACoVEj0SEho9KhQtABEXFg==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "07:40AM",
+      "event_date": "09/27/25",
+      "channel_name": "VDO",
       "event_title": "{'9': 862942319} - Moto3: Motegi (Japan) - Practice 3 (09/27/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/PjQcIBtCExMTChcXEAIcOFI-VAoMRwoUG0IINjdUTExSNQ1EM1BLLlI-VFcxUEAzSFZCVhBCKFYsBCoTLAIcHhIGEBEsAxERFwIr/index.m3u8",
+      "url": "https://world-proxifier.xyz/rbtv/p/PjQcIBtCExMTChcXEAIcOFI-VAoMRwoUG0IINjdUTExSNQ1EM1BLLlI-VFcxUEAzSFZCVhBCKFYsBCoXLT0UKBIKHBYWBhMoFwIcHi0D/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT"
+    },
+    {
+      "event_time": "07:40AM",
+      "event_date": "09/27/25",
+      "channel_name": "MOVISTAR2",
+      "event_title": "{'9': 862942319} - Moto3: Motegi (Japan) - Practice 3 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/PjQcIBtCExMTChcXEAIcOFI-VAoMRwoUG0IINjdUTExSNQ1EM1BLLlI-VFcxUEAzSFZCVhBCKFYsBCoXLT0UKBIKHBYWBhMoFwIcHhM9/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
       "group_title": "MOTORSPORT"
@@ -113,6 +163,106 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
       "group_title": "MOTORSPORT"
+    },
+    {
+      "event_time": "07:40AM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD B",
+      "event_title": "{'9': 862942319} - Moto3: Motegi (Japan) - Practice 3 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/PjQcIBtCExMTChcXEAIcOFI-VAoMRwoUG0IINjdUTExSNQ1EM1BLLlI-VFcxUEAzSFZCVhBCKFYsBCoTLAIcHhIGEBEsAxERFwIU/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT"
+    },
+    {
+      "event_time": "07:40AM",
+      "event_date": "09/27/25",
+      "channel_name": "VDO",
+      "event_title": "{'9': 862942319} - Moto3: Motegi (Japan) - Practice 3 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/PjQcIBtCExMTChcXEAIcOFI-VAoMRwoUG0IINjdUTExSNQ1EM1BLLlI-VFcxUEAzSFZCVhBCKFYsBCoXLT0UKBIKHBYWBhMoFwIcHi0D/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT"
+    },
+    {
+      "event_time": "07:40AM",
+      "event_date": "09/27/25",
+      "channel_name": "MOVISTAR2",
+      "event_title": "{'9': 862942319} - Moto3: Motegi (Japan) - Practice 3 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/PjQcIBtCExMTChcXEAIcOFI-VAoMRwoUG0IINjdUTExSNQ1EM1BLLlI-VFcxUEAzSFZCVhBCKFYsBCoXLT0UKBIKHBYWBhMoFwIcHhM9/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT"
+    },
+    {
+      "event_time": "07:40AM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD C ESPA\u00d1OL",
+      "event_title": "{'9': 862942319} - Moto3: Motegi (Japan) - Practice 3 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/PjQcIBtCExMTChcXEAIcOFI-VAoMRwoUG0IINjdUTExSNQ1EM1BLLlI-VFcxUEAzSFZCVhBCKFYsBCoTLAIcHhIGEBEsAxERFwIV/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT"
+    },
+    {
+      "event_time": "07:40AM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD D DEUTSCH",
+      "event_title": "{'9': 862942319} - Moto3: Motegi (Japan) - Practice 3 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/PjQcIBtCExMTChcXEAIcOFI-VAoMRwoUG0IINjdUTExSNQ1EM1BLLlI-VFcxUEAzSFZCVhBCKFYsBCoTLAIcHhIGEBEsAxERFwIW/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT"
+    },
+    {
+      "event_time": "07:40AM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD E FRAN\u00c7AIS",
+      "event_title": "{'9': 862942319} - Moto3: Motegi (Japan) - Practice 3 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/PjQcIBtCExMTChcXEAIcOFI-VAoMRwoUG0IINjdUTExSNQ1EM1BLLlI-VFcxUEAzSFZCVhBCKFYsBCoTLAIcHhIGEBEsAxERFwIX/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT"
+    },
+    {
+      "event_time": "07:40AM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD F ITALIANO",
+      "event_title": "{'9': 862942319} - Moto3: Motegi (Japan) - Practice 3 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/PjQcIBtCExMTChcXEAIcOFI-VAoMRwoUG0IINjdUTExSNQ1EM1BLLlI-VFcxUEAzSFZCVhBCKFYsBCoTLAIcHhIGEBEsAxERFwIQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT"
+    },
+    {
+      "event_time": "07:40AM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD G PORTUGU\u00caS",
+      "event_title": "{'9': 862942319} - Moto3: Motegi (Japan) - Practice 3 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/PjQcIBtCExMTChcXEAIcOFI-VAoMRwoUG0IINjdUTExSNQ1EM1BLLlI-VFcxUEAzSFZCVhBCKFYsBCoTLAIcHhIGEBEsAxERFwIR/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT"
+    },
+    {
+      "event_time": "07:40AM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD H DUTCH",
+      "event_title": "{'9': 862942319} - Moto3: Motegi (Japan) - Practice 3 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/PjQcIBtCExMTChcXEAIcOFI-VAoMRwoUG0IINjdUTExSNQ1EM1BLLlI-VFcxUEAzSFZCVhBCKFYsBCoTLAIcHhIGEBEsAxERFwIS/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT"
+    },
+    {
+      "event_time": "07:40AM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD B",
+      "event_title": "{'9': 862942319} - Moto3: Motegi (Japan) - Practice 3 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/PjQcIBtCExMTChcXEAIcOFI-VAoMRwoUG0IINjdUTExSNQ1EM1BLLlI-VFcxUEAzSFZCVhBCKFYsBCoTLAIcHhIGEBEsAxERFwIU/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT"
     }
   ],
   "grouped_events": {
@@ -122,6 +272,18 @@
       "event_date": "09/27/25",
       "category": null,
       "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/PjQXIBtCEREpQiIRJAtUEBA9ExEaBhQeET0QERIGEBEaPS9WJAIWIBtCFhIQChwSLQQWFho9FREtBxYeLSxUKlITRklFWEJLR0IzMlIQSTBBQgQzT6HdM0hWNFZUXU61wV1UKlI8FCgXPBcWLQQQHhI8FikQBxYW/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/PjQXIBtCEREpQiIRJAtUEBA9ExEaBhQeET0QERIGEBEaPS9WJAIWIBtCFhIQChwSLQQWFho9FREtBxYeLSxUKlITRklFWEJLR0IzMlIQSTBBQgQzT6HdM0hWNFZUXU61wV1UKlI8FCgQPBcWLQQQHhI8FikQBxUX/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
         {
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/PjQXIBtCEREpQiIRJAtUEBA9ExEaBhQeET0QERIGEBEaPS9WJAIWIBtCFhIQChwSLQQWFho9FREtBxYeLSxUKlITRklFWEJLR0IzMlIQSTBBQgQzT6HdM0hWNFZUXU61wV1UKlI8FCgXPBcWLQQQHhI8FikQBxYW/index.m3u8",
@@ -153,6 +315,18 @@
           "url": "https://world-proxifier.xyz/rbtv/p/PjQXIBtCEREpQiIRJAtUEBA9ExEaBhQeET0QERIGEBEaPS9WJAIWIBtCFhIQChwSLQQWFho9FREtBxYeLSxUKlIQBFZTX0YzRF0wQFIlMFZWUEtWDlA3M0hdVFJAXVQPNFBLVi5CKhYsACoVEj0SEho9KhQtABEXFg==/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/PjQXIBtCEREpQiIRJAtUEBA9ExEaBhQeET0QERIGEBEaPS9WJAIWIBtCFhIQChwSLQQWFho9FREtBxYeLSxUKlIQBFZTX0YzRF0wQFIlMFZWUEtWDlA3M0hdVFJAXVQPNFBLVi5CKhYsByoVEj0SEho9KhQtABEXFQ==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/PjQXIBtCEREpQiIRJAtUEBA9ExEaBhQeET0QERIGEBEaPS9WJAIWIBtCFhIQChwSLQQWFho9FREtBxYeLSxUKlIQBFZTX0YzRF0wQFIlMFZWUEtWDlA3M0hdVFJAXVQPNFBLVi5CKhYsACoVEj0SEho9KhQtABEXFg==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
         }
       ]
     },
@@ -163,8 +337,14 @@
       "category": null,
       "channels": [
         {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/PjQcIBtCExMTChcXEAIcOFI-VAoMRwoUG0IINjdUTExSNQ1EM1BLLlI-VFcxUEAzSFZCVhBCKFYsBCoTLAIcHhIGEBEsAxERFwIr/index.m3u8",
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/PjQcIBtCExMTChcXEAIcOFI-VAoMRwoUG0IINjdUTExSNQ1EM1BLLlI-VFcxUEAzSFZCVhBCKFYsBCoXLT0UKBIKHBYWBhMoFwIcHi0D/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "MOVISTAR2",
+          "url": "https://world-proxifier.xyz/rbtv/p/PjQcIBtCExMTChcXEAIcOFI-VAoMRwoUG0IINjdUTExSNQ1EM1BLLlI-VFcxUEAzSFZCVhBCKFYsBCoXLT0UKBIKHBYWBhMoFwIcHhM9/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
           "duration": null
         },
@@ -201,6 +381,66 @@
         {
           "channel_name": "HDD H DUTCH",
           "url": "https://world-proxifier.xyz/rbtv/p/PjQcIBtCExMTChcXEAIcOFI-VAoMRwoUG0IINjdUTExSNQ1EM1BLLlI-VFcxUEAzSFZCVhBCKFYsBCoTLAIcHhIGEBEsAxERFwIS/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD B",
+          "url": "https://world-proxifier.xyz/rbtv/p/PjQcIBtCExMTChcXEAIcOFI-VAoMRwoUG0IINjdUTExSNQ1EM1BLLlI-VFcxUEAzSFZCVhBCKFYsBCoTLAIcHhIGEBEsAxERFwIU/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/PjQcIBtCExMTChcXEAIcOFI-VAoMRwoUG0IINjdUTExSNQ1EM1BLLlI-VFcxUEAzSFZCVhBCKFYsBCoXLT0UKBIKHBYWBhMoFwIcHi0D/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "MOVISTAR2",
+          "url": "https://world-proxifier.xyz/rbtv/p/PjQcIBtCExMTChcXEAIcOFI-VAoMRwoUG0IINjdUTExSNQ1EM1BLLlI-VFcxUEAzSFZCVhBCKFYsBCoXLT0UKBIKHBYWBhMoFwIcHhM9/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD C ESPA\u00d1OL",
+          "url": "https://world-proxifier.xyz/rbtv/p/PjQcIBtCExMTChcXEAIcOFI-VAoMRwoUG0IINjdUTExSNQ1EM1BLLlI-VFcxUEAzSFZCVhBCKFYsBCoTLAIcHhIGEBEsAxERFwIV/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD D DEUTSCH",
+          "url": "https://world-proxifier.xyz/rbtv/p/PjQcIBtCExMTChcXEAIcOFI-VAoMRwoUG0IINjdUTExSNQ1EM1BLLlI-VFcxUEAzSFZCVhBCKFYsBCoTLAIcHhIGEBEsAxERFwIW/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD E FRAN\u00c7AIS",
+          "url": "https://world-proxifier.xyz/rbtv/p/PjQcIBtCExMTChcXEAIcOFI-VAoMRwoUG0IINjdUTExSNQ1EM1BLLlI-VFcxUEAzSFZCVhBCKFYsBCoTLAIcHhIGEBEsAxERFwIX/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD F ITALIANO",
+          "url": "https://world-proxifier.xyz/rbtv/p/PjQcIBtCExMTChcXEAIcOFI-VAoMRwoUG0IINjdUTExSNQ1EM1BLLlI-VFcxUEAzSFZCVhBCKFYsBCoTLAIcHhIGEBEsAxERFwIQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD G PORTUGU\u00caS",
+          "url": "https://world-proxifier.xyz/rbtv/p/PjQcIBtCExMTChcXEAIcOFI-VAoMRwoUG0IINjdUTExSNQ1EM1BLLlI-VFcxUEAzSFZCVhBCKFYsBCoTLAIcHhIGEBEsAxERFwIR/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD H DUTCH",
+          "url": "https://world-proxifier.xyz/rbtv/p/PjQcIBtCExMTChcXEAIcOFI-VAoMRwoUG0IINjdUTExSNQ1EM1BLLlI-VFcxUEAzSFZCVhBCKFYsBCoTLAIcHhIGEBEsAxERFwIS/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD B",
+          "url": "https://world-proxifier.xyz/rbtv/p/PjQcIBtCExMTChcXEAIcOFI-VAoMRwoUG0IINjdUTExSNQ1EM1BLLlI-VFcxUEAzSFZCVhBCKFYsBCoTLAIcHhIGEBEsAxERFwIU/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
           "duration": null
         }
