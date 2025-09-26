@@ -1,13 +1,28 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-26T21:26:59.057272
+Extraction Time: 2025-09-26T21:37:00.462547
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 0
-- Total Channels: 0
+- Unique Events: 7
+- Total Channels: 9
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
+EVENT BREAKDOWN:
+- Hexagone - Hexagone - Toulouse, France (09/27/25)
+  Time: 02:30AM, Channels: 1
+- Hexagone - Hexagone - Toulouse, France (09/27/25) [STREAM 17...
+  Time: 02:30AM, Channels: 1
+- Brazilian Campeonato Paulista Youth - Sao Paulo Youth Vs Ost...
+  Time: 04:00AM, Channels: 1
+- Colombian Torneo Betplay Dimayor - Patriotas Fc Vs Real Sant...
+  Time: 04:30AM, Channels: 2
+- Ecuadorian Campeonato Serie B - Cd Independiente Juniors Vs ...
+  Time: 04:30AM, Channels: 1
+- Peruvian Liga 1 - Atletico Grau Vs Sport Huancayo (09/27/25)
+  Time: 04:30AM, Channels: 2
+- Colombian Torneo Betplay Dimayor - Deportes Quindio Vs Bogot...
+  Time: 05:00AM, Channels: 1

@@ -1,12 +1,29 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Fri Sep 26 21:27:00 UTC 2025
+Last updated: Fri Sep 26 21:37:01 UTC 2025
 
-Workflow run: #281
+Workflow run: #282
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-26T21:26:59.057272
+Extracted at: 2025-09-26T21:37:00.462547
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
+=== GROUPED EVENTS BY TITLE ===
+
+EVENT: Hexagone - Hexagone - Toulouse, France (09/27/25)
+Time: 02:30AM
+Date: 09/27/25
+Category: None
+Available Channels (1):
+  1. HDD B
+     URL: https://world-proxifier.xyz/rbtv/p/BVQ9REoiS0BSPlQBRCtGTjJdQlYuQlE2NF80MDZUL1YHIUZJRlRUKlI8FBUsByoWGgoVHhMCKhcXBRATLQ==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp
+
+================================================================================
+
+EVENT: Hexagone - Hexagone - Toulouse, France (09/27/25) [STREAM 17[HD]]
+Time: 02:30AM
+Date: 09/27/25
+Category: None
 ```
