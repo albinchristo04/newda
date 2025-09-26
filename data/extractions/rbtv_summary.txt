@@ -1,13 +1,40 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-26T03:22:40.787341
+Extraction Time: 2025-09-26T03:45:44.742820
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 0
-- Total Channels: 0
+- Unique Events: 13
+- Total Channels: 13
 - Individual Streams: 0
-- Media Segments: 54
+- Media Segments: 0
 - Other Events: 0
 
+EVENT BREAKDOWN:
+- Usa: Ncaa - Army West Point Vs East Carolina (09/26/25)
+  Time: 07:30AM, Channels: 1
+- Australia: Afl Women - Melbourne Demons W Vs Gold Coast Suns...
+  Time: 11:05AM, Channels: 1
+- Korea Open, Mixed Doubles - Goh Soon Huat/Shevon Lai Jemie V...
+  Time: 11:00AM, Channels: 1
+- Major League Baseball - Los Angeles Angels Vs Kansas City Ro...
+  Time: 09:38AM, Channels: 1
+- Major League Baseball - Seattle Mariners Vs Colorado Rockies...
+  Time: 09:40AM, Channels: 1
+- Major League Baseball - Seattle Mariners Vs Colorado Rockies...
+  Time: 09:40AM, Channels: 1
+- Concacaf Central American Cup - Cartagines Deportiva Sa Vs C...
+  Time: 10:00AM, Channels: 1
+- Nhl Preseason - Vegas Golden Knights Vs Utah Hockey Club (09...
+  Time: 10:00AM, Channels: 1
+- Nhl Preseason - Vegas Golden Knights Vs Utah Hockey Club (09...
+  Time: 10:00AM, Channels: 1
+- Atp Beijing, China Men Singles - Andrey Rublev Vs Flavio Cob...
+  Time: 11:00AM, Channels: 1
+- Atp Beijing, China Men Singles - Andrey Rublev Vs Flavio Cob...
+  Time: 11:00AM, Channels: 1
+- Atp Beijing, China Men Singles - David Goffin Vs Arthur Rind...
+  Time: 11:00AM, Channels: 1
+- Wta Beijing, China Women Singles - Kamilla Rakhimova Vs Coco...
+  Time: 11:00AM, Channels: 1
