@@ -1,1071 +1,304 @@
 {
-  "timestamp": "2025-09-26T12:32:00.891707",
+  "timestamp": "2025-09-26T13:15:37.017358",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
-  "segments": [],
-  "events": [
+  "segments": [
     {
-      "event_time": "05:00PM",
-      "event_date": "09/26/25",
-      "channel_name": "HDK A \u65e5\u672c\u8a9e",
-      "event_title": "Npb - Rakuten Gold. Eagles Vs Fukuoka Softbank Hawks (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/D0MFVi5CV0ROJDFATUICNk9XKVYGUExLRCZUMTZCATBOJDRKQEJQNkUnBURNXlQBQCpIMlI-VCgRPBEoEgoWFxAGEygTBxMVEgQ=/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-      "group_title": "BASEBALL"
-    },
-    {
-      "event_time": "05:00PM",
-      "event_date": "09/26/25",
-      "channel_name": "HDK A \u65e5\u672c\u8a9e",
-      "event_title": "Npb - Yokohama Baystars Vs Yomiuri Giants (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/D0MFVi5CXjZOIk1ETFBUB0AoUDNAITBWNSZUXDJcTjAxWFQASFBLMzZCKFYsASoTLAIcExEFHBMsAxEREQMQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-      "group_title": "BASEBALL"
-    },
-    {
-      "event_time": "07:00PM",
-      "event_date": "09/26/25",
-      "channel_name": "SD",
-      "event_title": "Fiba U16 Women'S Asian Championship - China U16 Women Vs Philippines U16 Women (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/BxoFBlJEFBNSSjRIRF0iMlISMExAXVQES1BKN0giSzJLWDVWLkIGT0hdRlZUAhFWWiJKQE1CMzJSQ01MT1g1N0hdQjJSRBQTUko0SERdVCpSPBUoEDwUHhoDFxUTPBUTFQEQFw==/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
+      "group_title": "BASKETBALL",
+      "title": "Israel Basketball Cup - Maccabi Tel Aviv Vs Hapoel Jerusalem [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CiY3RERfVAdAJkhAN1FGS09CBjAzQihWDlBAQkBRTlZXVElWAiVOMVIlMFYFUDU2RF9UD0QhMjJAX0JIUj5UKBM8FigSChwXFgYWKBMHExUXAQ==/index.m3u8"
     },
     {
-      "event_time": "07:00PM",
-      "event_date": "09/26/25",
-      "channel_name": "SD",
-      "event_title": "Israel Basketball League Cup - Galil Elyon Vs Maccabi Raanana (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CiY3RERfVAdAJkhAN1FGS09CD0BAWjJAUhAyN1I-VABAX05LUhZJPDJdVDE2QghERlZGRUhCV0RAXUZJQEIoViwDKhQsAhweLT0VHiwDERERBhY=/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
-    },
-    {
-      "event_time": "07:45PM",
-      "event_date": "09/26/25",
-      "channel_name": "SD",
-      "event_title": "Israel Basketball Cup - Maccabi Tel Aviv Vs Hapoel Jerusalem (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CiY3RERfVAdAJkhAN1FGS09CBjAzQihWDlBAQkBRTlZXVElWAiVOMVIlMFYFUDU2RF9UD0QhMjJAX0JIUj5UKBM8FigSChwXFgYWKBMHExUXAQ==/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
-    },
-    {
-      "event_time": "07:50PM",
-      "event_date": "09/26/25",
-      "event_title": "T20 World Cup, Africa Qualifier, Regional Final - Tanzania Vs Botswana (09/26/25) [STREAM 35[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/VwMrVloiN0tHQgYwMzlUBkUhTkJAQlYwQF9OQUhUNy1SQUJOSCJLRE9CAUxNUElWLkJRRE0pRklIUFQxNkIFNjcmPERNUFQqUjwRKBM8FB4aPRQWEDwVExUBERI=/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
-      "group_title": "CRICKET"
+      "group_title": "CRICKET",
+      "title": "T20 World Cup, Africa Qualifier, Regional Final - Tanzania Vs Botswana [STREAM 35[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/VwMrVloiN0tHQgYwMzlUBkUhTkJAQlYwQF9OQUhUNy1SQUJOSCJLRE9CAUxNUElWLkJRRE0pRklIUFQxNkIFNjcmPERNUFQqUjwRKBM8FB4aPRQWEDwVExUBERI=/index.m3u8"
     },
     {
-      "event_time": "07:50PM",
-      "event_date": "09/26/25",
-      "event_title": "T20 World Cup, Africa Qualifier, Regional Final - Uganda Vs Zimbabwe (09/26/25) [STREAM 34[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/VwMrVloiN0tHQgYwMzlUBkUhTkJAQlYwQF9OQUhUNy1SQUJOSCJLRE9CAUxNUElWLkJSTkBdQURSJTBWWVhKRUBRPEBSPlQoFzwVKBIKHCkSAhUoEwcTFRcF/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
-      "group_title": "CRICKET"
+      "group_title": "CRICKET",
+      "title": "T20 World Cup, Africa Qualifier, Regional Final - Uganda Vs Zimbabwe [STREAM 34[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/VwMrVloiN0tHQgYwMzlUBkUhTkJAQlYwQF9OQUhUNy1SQUJOSCJLRE9CAUxNUElWLkJSTkBdQURSJTBWWVhKRUBRPEBSPlQoFzwVKBIKHCkSAhUoEwcTFRcF/index.m3u8"
     },
     {
-      "event_time": "05:50PM",
-      "event_date": "09/26/25",
-      "channel_name": "SKA",
-      "event_title": "Cycling World Cup - U23 Men'S Road Race | Uci World Championships (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFZUAxZWDlRLIDZCVzZAV1RVQFZCVj9CUgQKQlw2MV9BVgBbRkgzWDRJNltONzZCKFYsAhAoEz0rFiwCHB4TChcWLAcUHhoGEA==/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
-      "group_title": "CYCLING"
+      "group_title": "CYCLING",
+      "title": "Cycling World Cup - U23 Men'S Road Race | Uci World Championships [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFZUAxZWDlRLIDZCVzZAV1RVQFZCVj9CUgQKQlw2MV9BVgBbRkgzWDRJNltONzZCKFYsAhAoEz0rFiwCHB4TChcWLAcUHhoGEA==/index.m3u8"
     },
     {
-      "event_time": "05:50PM",
-      "event_date": "09/26/25",
-      "channel_name": "MOVISTAR2",
-      "event_title": "Cycling World Cup - U23 Men'S Road Race | Uci World Championships (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFZUAxZWDlRLIDZCVzZAV1RVQFZCVj9CUgQKQlw2MV9BVgBbRkgzWDRJNltONzZCKFYsAhAoEz0rFiwCHB4TChcWLAcUHhoFFQ==/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
-      "group_title": "CYCLING"
+      "group_title": "CYCLING",
+      "title": "Cycling World Cup - U23 Men'S Road Race | Uci World Championships [MOVISTAR2]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFZUAxZWDlRLIDZCVzZAV1RVQFZCVj9CUgQKQlw2MV9BVgBbRkgzWDRJNltONzZCKFYsAhAoEz0rFiwCHB4TChcWLAcUHhoFFQ==/index.m3u8"
     },
     {
-      "event_time": "05:50PM",
-      "event_date": "09/26/25",
-      "event_title": "Cycling World Cup - U23 Men'S Road Race | Uci World Championships (09/26/25) [STREAM 32[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFZUAxZWDlRLIDZCVzZAV1RVQFZCVj9CUgQKQlw2MV9BVgBbRkgzWDRJNltONzZCKFYsAhAoEzwUHhoDHBUSPBUTFQEXFg==/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
-      "group_title": "CYCLING"
+      "group_title": "CYCLING",
+      "title": "Cycling World Cup - U23 Men'S Road Race | Uci World Championships [STREAM 32[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFZUAxZWDlRLIDZCVzZAV1RVQFZCVj9CUgQKQlw2MV9BVgBbRkgzWDRJNltONzZCKFYsAhAoEzwUHhoDHBUSPBUTFQEXFg==/index.m3u8"
     },
     {
-      "event_time": "08:30PM",
-      "event_date": "09/26/25",
-      "channel_name": "HDD A",
-      "event_title": "Hexagone - One Friday Fights 126 (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/BVQ9REoiS0BSPlQIDxZUAzFYQUQ4QgFMSlsxMlICFRNSPlQoEgEqEywCHB4TChUVLAMREREEFA==/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
-      "group_title": "FIGHTING"
+      "group_title": "FIGHTING",
+      "title": "Hexagone - One Friday Fights 126 [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/BVQ9REoiS0BSPlQIDxZUAzFYQUQ4QgFMSlsxMlICFRNSPlQoEgEqEywCHB4TChUVLAMREREEFA==/index.m3u8"
     },
     {
-      "event_time": "08:30PM",
-      "event_date": "09/26/25",
-      "channel_name": "VDO",
-      "event_title": "One Championship - One Friday Fights 126 (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DB8AVgBbRkgzWDRJNltON1I-VAgPFlQDMVhBRDhCAUxKWzEyUgIVE1I-VCgSASoXLT0UKBIKHBcWASsoFwIcES0D/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
-      "group_title": "FIGHTING"
+      "group_title": "FIGHTING",
+      "title": "One Championship - One Friday Fights 126 [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DB8AVgBbRkgzWDRJNltON1I-VAgPFlQDMVhBRDhCAUxKWzEyUgIVE1I-VCgSASoXLT0UKBIKHBcWASsoFwIcES0D/index.m3u8"
     },
     {
-      "event_time": "07:00PM",
-      "event_date": "09/26/25",
-      "channel_name": "SD",
-      "event_title": "Chinese Football League 2 - Guangxi Hengchen Football Club Vs Haimen Codion (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1IZQkRKJEJWE0IoVgQkRklKK05WBVRLTkZbQklSFzQ2N1FGS09CBks0UVQxNkIDREhcQklSEDRDSCJLVi5CKhYsACoVEwcVKRUHKhQtABcWGg==/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Azerbaijan Premier League - Mil-Mugan Fk Vs Zira Fk [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AilCNUFQTk1AXVRXMVRKTEQhVA1EUEwwREIoVg5YSSoOJExETUIBDFIlMFZZWDdEUhcOVi5CKhYsACoVEwUrFhcKKhQtABcXFg==/index.m3u8"
     },
     {
-      "event_time": "07:00PM",
-      "event_date": "09/26/25",
-      "channel_name": "SD",
-      "event_title": "Kazakhstan Division 1 - Fc Jetisay Vs Akas Almaty (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CFA_RE5bMDNAXVQFSCVOMkgiS1YSQihWBxBUD0QnTjJAKFQxNkIEDAJGVAZPXEYzOEIoViwCKhQsARQTGgIVKSwAKxQRAhI=/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Chinese Football Assorciation U-21 League - Qingdao West Coast U21 Vs Changchun Yatai U21 [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1ISMDIyIUBMQCdONk1CUioTAlQNRFBMMERCKFZQWEtOR1A0VlpUMDNSEDRENidUUBMCVDE2QgZPQF1MQkskS1ZYUDFESEJSFxJCKFYsAioULAEVERIGExEsACsUEQMX/index.m3u8"
     },
     {
-      "event_time": "07:00PM",
-      "event_date": "09/26/25",
-      "channel_name": "SD",
-      "event_title": "Kazakhstan Division 1 - Fk Kaspyi Aktau Vs Fk Aktobe Ii (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CFA_RE5bMDNAXVQFSCVOMkgiS1YSQihWBxhUDEAmNTxIQgRKN1AyVjUmVAMIQgRKNyJHQFIaDFYuQioWLAAqFRIHHBYQAioULQAXFhU=/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Chinese Football League 1 - Foshan Nanshi Vs Guangxi Pingguo Fc [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1IZQkRKJEJWEkIoVgciME9AXVQLQF0wT0hCMzJSFDJETVo9TFJDTklKWjI2UhcGVi5CKhYsACoVEgEQFxoEKhQtABcXEw==/index.m3u8"
     },
     {
-      "event_time": "07:00PM",
-      "event_date": "09/26/25",
-      "channel_name": "SD",
-      "event_title": "Vietnam National First Class League - Xuan Thien Phu Tho Vs Thanh Ni\u00ean Tp. H\u1ed3 Ch\u00ed Minh (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/VVhCM01QSlYPUDFMMl1GS1IXTjU2J1QET1AwMlIZQkRKJEJWLkJdMEBdVFNLWEJJUkNNMFJHTTZSJTBWV1tGSUtCCUyxyEtWV0MpVgWDz-VSEE2130IITE1bVCpSPBQoEDwXFxUBEhAWPBYpEAEVKQ==/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Chinese Football League 1 - Nantong Zhiyun Fc Vs Shaanxi Union [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1IZQkRKJEJWEkIoVg9QSzMyXUxWWVtOPDRdVAMAQjMyUkZNREBdPUxSREtMMl1UKlI8FCgQPBcWEQYVHhA8FikQARUU/index.m3u8"
     },
     {
-      "event_time": "07:30PM",
-      "event_date": "09/26/25",
-      "channel_name": "SD",
-      "event_title": "Azerbaijan Premier League - Mil-Mugan Fk Vs Zira Fk (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AilCNUFQTk1AXVRXMVRKTEQhVA1EUEwwREIoVg5YSSoOJExETUIBDFIlMFZZWDdEUhcOVi5CKhYsACoVEwUrFhcKKhQtABcXFg==/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Chinese Football League 1 - Qingdao Red Lions Vs Shijiazhuang Gongfu [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1IZQkRKJEJWEkIoVlBYS05HUDRWUVRBVglYNEk2QjMyUkZNTElYRj1LJEZJSkICNk1aQzBSPlQoEjwWKBECFxITChMoED0WFRMC/index.m3u8"
     },
     {
-      "event_time": "07:30PM",
-      "event_date": "09/26/25",
-      "channel_name": "SD",
-      "event_title": "Chinese Football Assorciation U-21 League - Qingdao West Coast U21 Vs Changchun Yatai U21 (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1ISMDIyIUBMQCdONk1CUioTAlQNRFBMMERCKFZQWEtOR1A0VlpUMDNSEDRENidUUBMCVDE2QgZPQF1MQkskS1ZYUDFESEJSFxJCKFYsAioULAEVERIGExEsACsUEQMX/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Chinese Football Super League - Beijing Guoan Fc Vs Dalian Yingbo Fc [MOVISTAR]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1JGMjdEIVQNRFBMMERCKFYDVE5NSF1MVgQkNERNQgEEUiUwVgFQSUxAXVRcSF1MRTJCAQRSPlQoEjwVKS0CKhUSAxYUFQQqExIKHB4T/index.m3u8"
     },
     {
-      "event_time": "07:30PM",
-      "event_date": "09/26/25",
-      "channel_name": "SD",
-      "event_title": "Chinese Football League 1 - Foshan Nanshi Vs Guangxi Pingguo Fc (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1IZQkRKJEJWEkIoVgciME9AXVQLQF0wT0hCMzJSFDJETVo9TFJDTklKWjI2UhcGVi5CKhYsACoVEgEQFxoEKhQtABcXEw==/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Chinese Football Super League - Beijing Guoan Fc Vs Dalian Yingbo Fc [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1JGMjdEIVQNRFBMMERCKFYDVE5NSF1MVgQkNERNQgEEUiUwVgFQSUxAXVRcSF1MRTJCAQRSPlQoEjwWKBECFRQQBRIoED0WFRMH/index.m3u8"
     },
     {
-      "event_time": "07:30PM",
-      "event_date": "09/26/25",
-      "channel_name": "SD",
-      "event_title": "Chinese Football League 1 - Nantong Zhiyun Fc Vs Shaanxi Union (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1IZQkRKJEJWEkIoVg9QSzMyXUxWWVtOPDRdVAMAQjMyUkZNREBdPUxSREtMMl1UKlI8FCgQPBcWEQYVHhA8FikQARUU/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Chinese Football Super League - Shanghai Port Fc Vs Wuhan Three Towns Fc [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1JGMjdEIVQNRFBMMERCKFZWW0ZJSltGTFJDNDU3QgEEUiUwVlokTURNQlFPMVRCVlciPEk2QgEEUj5UKBI8FigRAhUUEAUcKBA9FhUTBQ==/index.m3u8"
     },
     {
-      "event_time": "07:30PM",
-      "event_date": "09/26/25",
-      "channel_name": "SD",
-      "event_title": "Chinese Football League 1 - Qingdao Red Lions Vs Shijiazhuang Gongfu (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1IZQkRKJEJWEkIoVlBYS05HUDRWUVRBVglYNEk2QjMyUkZNTElYRj1LJEZJSkICNk1aQzBSPlQoEjwWKBECFxITChMoED0WFRMC/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Chinese Football Super League - Zhejiang Professional Fc Vs Chengdu Rongcheng Fc [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1JGMjdEIVQNRFBMMERCKFZZW0JNSFBLTlJDNzZFVDAySCJLRE9CAQRSJTBWAFtCSUpXMlZRIktORltCSUpCAQRSPlQoEjwWKBECFRQQBRYoED0WFRMK/index.m3u8"
     },
     {
-      "event_time": "07:35PM",
-      "event_date": "09/26/25",
-      "channel_name": "MOVISTAR",
-      "event_title": "Chinese Football Super League - Beijing Guoan Fc Vs Dalian Yingbo Fc (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1JGMjdEIVQNRFBMMERCKFYDVE5NSF1MVgQkNERNQgEEUiUwVgFQSUxAXVRcSF1MRTJCAQRSPlQoEjwVKS0CKhUSAxYUFQQqExIKHB4T/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Indonesian Liga 1 - Dewa United Fc Vs Persebaya Surabaya [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/Cl1BNk1UMExAXVQNSFpGVhJCKFYBVDxEUkRLTDdUQVYHEFQxNkJVQDEmQkVAKEZWViQ3REFQPkRSPlQoEjwVKS0CKhUTAxwSLQMqExIKESkT/index.m3u8"
     },
     {
-      "event_time": "07:35PM",
-      "event_date": "09/26/25",
-      "channel_name": "SD",
-      "event_title": "Chinese Football Super League - Beijing Guoan Fc Vs Dalian Yingbo Fc (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1JGMjdEIVQNRFBMMERCKFYDVE5NSF1MVgQkNERNQgEEUiUwVgFQSUxAXVRcSF1MRTJCAQRSPlQoEjwWKBECFRQQBRIoED0WFRMH/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Indonesian Liga 1 - Dewa United Fc Vs Persebaya Surabaya [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/Cl1BNk1UMExAXVQNSFpGVhJCKFYBVDxEUkRLTDdUQVYHEFQxNkJVQDEmQkVAKEZWViQ3REFQPkRSPlQoEjwWKBEDFR4WPRUoED0WFRA9/index.m3u8"
     },
     {
-      "event_time": "08:00PM",
-      "event_date": "09/26/25",
-      "channel_name": "SD",
-      "event_title": "Chinese Football Super League - Shanghai Port Fc Vs Wuhan Three Towns Fc (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1JGMjdEIVQNRFBMMERCKFZWW0ZJSltGTFJDNDU3QgEEUiUwVlokTURNQlFPMVRCVlciPEk2QgEEUj5UKBI8FigRAhUUEAUcKBA9FhUTBQ==/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Kazakhstan Division 1 - Fk Taraz Vs Kairat Almaty Ii [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CFA_RE5bMDNAXVQFSCVOMkgiS1YSQihWBxhUU0AhRj1SJTBWCFBONUAnVAZPXEYzOEIMDlI-VCgSPBYoEQIRHhIDFSgQPRYVEAE=/index.m3u8"
     },
     {
-      "event_time": "08:00PM",
-      "event_date": "09/26/25",
-      "channel_name": "SD",
-      "event_title": "Chinese Football Super League - Zhejiang Professional Fc Vs Chengdu Rongcheng Fc (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1JGMjdEIVQNRFBMMERCKFZZW0JNSFBLTlJDNzZFVDAySCJLRE9CAQRSJTBWAFtCSUpXMlZRIktORltCSUpCAQRSPlQoEjwWKBECFRQQBRYoED0WFRMK/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Latvian Higher League - Metta/Lu Riga Vs Grobina [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CVAxMUhQS1YFWExPRCFUDURQTDBEQihWDlQxM0A8D1BSQU5OQEIzMlIUNzZBWEtEUj5UKBI8FigRAhYRFgEUKBA9FhUQAA==/index.m3u8"
     },
     {
-      "event_time": "08:00PM",
-      "event_date": "09/26/25",
-      "channel_name": "VDO",
-      "event_title": "Indonesian Liga 1 - Dewa United Fc Vs Persebaya Surabaya (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/Cl1BNk1UMExAXVQNSFpGVhJCKFYBVDxEUkRLTDdUQVYHEFQxNkJVQDEmQkVAKEZWViQ3REFQPkRSPlQoEjwVKS0CKhUTAxwSLQMqExIKESkT/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Malaysian Super League - Dpmm Fc Vs Kelantan The Real Warriors [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBJRDgmTkRNQlAwM1Q3VglURk40VFQqUhFVCg5CAQRSJTBWCFRJRE0nRklSR01AUkFCRE9CXEQxIU42MSZUKlI8FCgTPSsWLAEVFxICFxcsBxQeFz0U/index.m3u8"
     },
     {
-      "event_time": "08:00PM",
-      "event_date": "09/26/25",
-      "channel_name": "SD",
-      "event_title": "Indonesian Liga 1 - Dewa United Fc Vs Persebaya Surabaya (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/Cl1BNk1UMExAXVQNSFpGVhJCKFYBVDxEUkRLTDdUQVYHEFQxNkJVQDEmQkVAKEZWViQ3REFQPkRSPlQoEjwWKBEDFR4WPRUoED0WFRA9/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Malaysian Super League - Dpmm Fc Vs Kelantan The Real Warriors [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBJRDgmTkRNQlAwM1Q3VglURk40VFQqUhFVCg5CAQRSJTBWCFRJRE0nRklSR01AUkFCRE9CXEQxIU42MSZUKlI8FCgQPBcXEwIUFRM8FikQARYX/index.m3u8"
     },
     {
-      "event_time": "08:00PM",
-      "event_date": "09/26/25",
-      "channel_name": "SD",
-      "event_title": "Thai League 1 - Sukhothai Vs Chiangrai United (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/V1tGTFIZQkRKJEJWEkIoVlYkSE8yJ01ESEIzMlIQTUxAXUw1QFhUUE1YMUBHQihWLAIqFCwBFRMXAhESLAArFBEDEg==/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Motsepe Foundation Championship - Casric Stars Vs Lerumo Lions [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxMkQjQlYHIjJJR1AxTDJdVARLUEo3SCJLMktYNVYuQgZENiFOQlJGMUQxJlQxNkIPQDEkSjZSGU42TSZUKlI8FCgXPBcXFwcVHi08FikQARYS/index.m3u8"
     },
     {
-      "event_time": "08:15PM",
-      "event_date": "09/26/25",
-      "channel_name": "SKA",
-      "event_title": "Malaysian Super League - Dpmm Fc Vs Kelantan The Real Warriors (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DlBJRDgmTkRNQlAwM1Q3VglURk40VFQqUhFVCg5CAQRSJTBWCFRJRE0nRklSR01AUkFCRE9CXEQxIU42MSZUKlI8FCgTPSsWLAEVFxICFxcsBxQeFz0U/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Thai League 1 - Sukhothai Vs Chiangrai United [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/V1tGTFIZQkRKJEJWEkIoVlYkSE8yJ01ESEIzMlIQTUxAXUw1QFhUUE1YMUBHQihWLAIqFCwBFRMXAhESLAArFBEDEg==/index.m3u8"
     },
     {
-      "event_time": "08:15PM",
-      "event_date": "09/26/25",
-      "channel_name": "SD",
-      "event_title": "Malaysian Super League - Dpmm Fc Vs Kelantan The Real Warriors (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DlBJRDgmTkRNQlAwM1Q3VglURk40VFQqUhFVCg5CAQRSJTBWCFRJRE0nRklSR01AUkFCRE9CXEQxIU42MSZUKlI8FCgQPBcXEwIUFRM8FikQARYX/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Vietnam National Champion League - Hanoi Fc Vs Clb Thanh Hoa [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/VVhCM01QSlYPUDFMMl1GS1IQTURMI042TUIPQEBaMkBSPlQBQF00TFIXBlY1JlQECRNUU0tQS09SFTREUj5UKBI8FigRAxAXFj0rKBA9FhUQAg==/index.m3u8"
     },
     {
-      "event_time": "08:15PM",
-      "event_date": "09/26/25",
-      "channel_name": "SD",
-      "event_title": "Vietnam National Champion League - Hanoi Fc Vs Clb Thanh Hoa (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/VVhCM01QSlYPUDFMMl1GS1IQTURMI042TUIPQEBaMkBSPlQBQF00TFIXBlY1JlQECRNUU0tQS09SFTREUj5UKBI8FigRAxAXFj0rKBA9FhUQAg==/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "07:55PM",
-      "event_date": "09/26/25",
-      "channel_name": "VDO",
-      "event_title": "Worldsbk - Wsbk: Worldssp Superpole (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/WiI3S0dGBQxSPlReVhMOH1JKNDVPV1BSU0JQMDNUNzcyX0JWLkIqECwDKykSPBQeGgMcKRo8ERYaChUU/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT"
+      "group_title": "MOTORSPORT",
+      "title": "Worldsbk - Wsbk: Worldssp Superpole [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/WiI3S0dGBQxSPlReVhMOH1JKNDVPV1BSU0JQMDNUNzcyX0JWLkIqECwDKykSPBQeGgMcKRo8ERYaChUU/index.m3u8"
     },
     {
-      "event_time": "07:55PM",
-      "event_date": "09/26/25",
-      "channel_name": "DAZN ES",
-      "event_title": "Worldsbk - Wsbk: Worldssp Superpole (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/WiI3S0dGBQxSPlReVhMOH1JKNDVPV1BSU0JQMDNUNzcyX0JWLkIqECwDKykSPBQeGgMcKRo8ERYaChUS/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT"
+      "group_title": "MOTORSPORT",
+      "title": "Worldsbk - Wsbk: Worldssp Superpole [DAZN ES]",
+      "url": "https://world-proxifier.xyz/rbtv/p/WiI3S0dGBQxSPlReVhMOH1JKNDVPV1BSU0JQMDNUNzcyX0JWLkIqECwDKykSPBQeGgMcKRo8ERYaChUS/index.m3u8"
     },
     {
-      "event_time": "07:55PM",
-      "event_date": "09/26/25",
-      "channel_name": "HDD A",
-      "event_title": "Worldsbk - Wsbk: Worldssp Superpole (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/WiI3S0dGBQxSPlReVhMOH1JKNDVPV1BSU0JQMDNUNzcyX0JWLkIqECwHKhYaChUeLQoqFxcFFxMX/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT"
+      "group_title": "MOTORSPORT",
+      "title": "Worldsbk - Wsbk: Worldssp Superpole [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/WiI3S0dGBQxSPlReVhMOH1JKNDVPV1BSU0JQMDNUNzcyX0JWLkIqECwHKhYaChUeLQoqFxcFFxMX/index.m3u8"
     },
     {
-      "event_time": "06:50PM",
-      "event_date": "09/26/25",
-      "channel_name": "HDD A",
-      "event_title": "Atp Beijing, China Men Double - S.Bolelli/A.Vavassori Vs Bonzi B / Griekspoor T (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVQFMiRHS0RCKFZWPwU2T1RJS0g8BCtVUDNENiY0NUhCMzJSEzRJOVhUB1I8VAAxWEJKNiM0NjFCUVYuQioULAcqFhoKKxUSBioXFwUXEhY=/index.m3u8",
-      "duration": null,
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Wsbk - Wsbk: Aragon (Spain) - Practice 2 [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkYFDFI-VF5WEw4fUhI3REoiS1YlRjVESF0sVi5CVTVAVjFMRlRUF1I-VCgUPBUpLQIqFhoKKxIVBSoTEgocFxo=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Wsbk - Wsbk: Aragon (Spain) - Practice 2 [MOVISTAR2]",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkYFDFI-VF5WEw4fUhI3REoiS1YlRjVESF0sVi5CVTVAVjFMRlRUF1I-VCgUPBUpLQIqFhoKKxIVBSoTEgocFC0=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Wsbk - Wsbk: Aragon (Spain) - Practice 2 [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkYFDFI-VF5WEw4fUhI3REoiS1YlRjVESF0sVi5CVTVAVjFMRlRUF1I-VCgUPBEoEgocKRYFEygTBxMVFAM=/index.m3u8"
+    },
+    {
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Beijing, China Men Singles - Giovanni Mpetshi Perricard Vs Lorenzo Musetti [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSFE42NVBLSUhCCDdEJzBPSEJVQDEhTkJAIUFWNSZUDTIhQkk5IlQKNCZCMzdYVCpSPBYoEz0rFiwCHB4tARIQLAcUHho9Kw==/index.m3u8"
     },
     {
-      "event_time": "07:00PM",
-      "event_date": "09/26/25",
-      "channel_name": "VDO",
-      "event_title": "Wta Beijing, China Women Singles - Wang Xinyu Vs Zhang Shuai (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlReQF1MVltYSzw0QjMyUklNRE1aVFJLJEZMUj5UKBA8FSktAioWGgoUEhMDKhMSChIeEA==/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Beijing, China Men Singles - Giovanni Mpetshi Perricard Vs Lorenzo Musetti [MOVISTAR]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSFE42NVBLSUhCCDdEJzBPSEJVQDEhTkJAIUFWNSZUDTIhQkk5IlQKNCZCMzdYVCpSPBYoEz0rFiwCHB4tARIQLAcUHhUKEg==/index.m3u8"
     },
     {
-      "event_time": "07:00PM",
-      "event_date": "09/26/25",
-      "channel_name": "HDD A",
-      "event_title": "Wta Beijing, China Women Singles - Wang Xinyu Vs Zhang Shuai (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlReQF1MVltYSzw0QjMyUklNRE1aVFJLJEZMUj5UKBA8ESgSChwWFgMVKBMHExUWBQ==/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Beijing, China Men Singles - Giovanni Mpetshi Perricard Vs Lorenzo Musetti [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSFE42NVBLSUhCCDdEJzBPSEJVQDEhTkJAIUFWNSZUDTIhQkk5IlQKNCZCMzdYVCpSPBYoFzwUHho9FxAUPBUTFQERFw==/index.m3u8"
     },
     {
-      "event_time": "07:10PM",
-      "event_date": "09/26/25",
-      "channel_name": "HDD A",
-      "event_title": "Wta Beijing, China Women Singles - Karolina Muchova Vs Sorana Cirstea (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQMQCE0S0hdRlYOJEBPMiVGVjUmVFIyIUZJQEIGTDEmMUBAQihWLAAqEywCHBEVABETLAMREREHFg==/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Beijing, China Men Singles - Lorenzo Sonego Vs Alexander Zverev [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSGTQ1RF0_NlJGNElEWjRWNSZUBk9UPURNV0I1UkkzQDFUM1YuQioULAMrKRI8FB4aPRcQFTwRFhoKKxY=/index.m3u8"
     },
     {
-      "event_time": "07:15PM",
-      "event_date": "09/26/25",
-      "channel_name": "VDO",
-      "event_title": "Atp Beijing, China Men Singles - Giovanni Mpetshi Perricard Vs Lorenzo Musetti (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSFE42NVBLSUhCCDdEJzBPSEJVQDEhTkJAIUFWNSZUDTIhQkk5IlQKNCZCMzdYVCpSPBYoEz0rFiwCHB4tARIQLAcUHho9Kw==/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Beijing, China Men Singles - Lorenzo Sonego Vs Alexander Zverev [MOVISTAR2]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSGTQ1RF0_NlJGNElEWjRWNSZUBk9UPURNV0I1UkkzQDFUM1YuQioULAMrKRI8FB4aPRcQFTwRFhoFHB4=/index.m3u8"
     },
     {
-      "event_time": "07:15PM",
-      "event_date": "09/26/25",
-      "channel_name": "MOVISTAR",
-      "event_title": "Atp Beijing, China Men Singles - Giovanni Mpetshi Perricard Vs Lorenzo Musetti (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSFE42NVBLSUhCCDdEJzBPSEJVQDEhTkJAIUFWNSZUDTIhQkk5IlQKNCZCMzdYVCpSPBYoEz0rFiwCHB4tARIQLAcUHhUKEg==/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Beijing, China Men Singles - Lorenzo Sonego Vs Alexander Zverev [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSGTQ1RF0_NlJGNElEWjRWNSZUBk9UPURNV0I1UkkzQDFUM1YuQioULAcqFhoKKxUUBSoXFwUXEBE=/index.m3u8"
     },
     {
-      "event_time": "07:15PM",
-      "event_date": "09/26/25",
-      "channel_name": "HDD A",
-      "event_title": "Atp Beijing, China Men Singles - Giovanni Mpetshi Perricard Vs Lorenzo Musetti (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSFE42NVBLSUhCCDdEJzBPSEJVQDEhTkJAIUFWNSZUDTIhQkk5IlQKNCZCMzdYVCpSPBYoFzwUHho9FxAUPBUTFQERFw==/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Beijing, China Men Singles - Lorenzo Sonego Vs Alexander Zverev [STREAM 17[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSGTQ1RF0_NlJGNElEWjRWNSZUBk9UPURNV0I1UkkzQDFUM1YuQioULAMqFhoKKxUUBSoXFwUWFi0=/index.m3u8"
     },
     {
-      "event_time": "07:25PM",
-      "event_date": "09/26/25",
-      "channel_name": "MOVISTAR",
-      "event_title": "P\u00e1del Premier Padel 2025 - Ortega/Icardo - Fern\u00e1ndez/Gonz\u00e1lez (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/U6HVQ0RfVFcxVEpMRCFUV0BXQktSAysXFkIoVgwhMUBKUCoORlA3QzJCKFYHVDdJscNLQ0QpKgAyXT-1019CPVI-VCgQPBUpLQIqFhoKFR4tAyoTEgoTHi0=/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "P\u00e1del Premier Padel 2025 - Ortega/Icardo - Fern\u00e1ndez/Gonz\u00e1lez [MOVISTAR]",
+      "url": "https://world-proxifier.xyz/rbtv/p/U6HVQ0RfVFcxVEpMRCFUV0BXQktSAysXFkIoVgwhMUBKUCoORlA3QzJCKFYHVDdJscNLQ0QpKgAyXT-1019CPVI-VCgQPBUpLQIqFhoKFR4tAyoTEgoTHi0=/index.m3u8"
     },
     {
-      "event_time": "08:05PM",
-      "event_date": "09/26/25",
-      "channel_name": "HDD A",
-      "event_title": "Wta Beijing, China Women Singles - Belinda Bencic Vs Katie Volynets (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQHRF9OSUdQVAdEXUBMRkIzMlIYRjNIVFRRMl8-SUQnMFYuQioULAcqFhoKFBUXCioXFwUXEC0=/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Wta Beijing, China Women Singles - Belinda Bencic Vs Katie Volynets [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQHRF9OSUdQVAdEXUBMRkIzMlIYRjNIVFRRMl8-SUQnMFYuQioULAcqFhoKFBUXCioXFwUXEC0=/index.m3u8"
     },
     {
-      "event_time": "08:30PM",
-      "event_date": "09/26/25",
-      "channel_name": "VDO",
-      "event_title": "Atp Beijing, China Men Singles - Lorenzo Sonego Vs Alexander Zverev (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSGTQ1RF0_NlJGNElEWjRWNSZUBk9UPURNV0I1UkkzQDFUM1YuQioULAMrKRI8FB4aPRcQFTwRFhoKKxY=/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "08:30PM",
-      "event_date": "09/26/25",
-      "channel_name": "MOVISTAR2",
-      "event_title": "Atp Beijing, China Men Singles - Lorenzo Sonego Vs Alexander Zverev (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSGTQ1RF0_NlJGNElEWjRWNSZUBk9UPURNV0I1UkkzQDFUM1YuQioULAMrKRI8FB4aPRcQFTwRFhoFHB4=/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "08:30PM",
-      "event_date": "09/26/25",
-      "channel_name": "HDD B",
-      "event_title": "Atp Beijing, China Men Singles - Lorenzo Sonego Vs Alexander Zverev (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSGTQ1RF0_NlJGNElEWjRWNSZUBk9UPURNV0I1UkkzQDFUM1YuQioULAcqFhoKKxUUBSoXFwUXEho=/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "08:30PM",
-      "event_date": "09/26/25",
-      "event_title": "Atp Beijing, China Men Singles - Lorenzo Sonego Vs Alexander Zverev (09/26/25) [STREAM 17[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSGTQ1RF0_NlJGNElEWjRWNSZUBk9UPURNV0I1UkkzQDFUM1YuQioULAMqFhoKKxUUBSoXFwUWFi0=/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "02:30PM",
-      "event_date": "09/26/25",
-      "channel_name": "VDO",
-      "event_title": "Livoli Divisi Utama - Putra: Samator  Vs  Ganeksa Bhumikarta (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CVgzNk9YVAVIJU4ySEJSM0BcRlYuQlUwNyFGH1JGRkhAJzQ1UkIzMlJCAkRNVEgyQEIFTzRcTkpAITFEUj5UKBIAKhctPRQoEgocFxACEygXAhweGj0=/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
-      "group_title": "VOLLEYBALL"
+      "group_title": "VOLLEYBALL",
+      "title": "Livoli Divisi Utama - Putra: Indomaret  Vs  Pasundan [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CVgzNk9YVAVIJU4ySEJSM0BcRlYuQlUwNyFGH1IaS0MyXEY1RCdUVjUmVFZTUDAwTVdGSVI-VCgSACoXLT0UKBIKHBcQAysoFwIcExoD/index.m3u8"
     }
   ],
-  "grouped_events": {
-    "Npb - Rakuten Gold. Eagles Vs Fukuoka Softbank Hawks (09/26/25)": {
-      "event_title": "Npb - Rakuten Gold. Eagles Vs Fukuoka Softbank Hawks (09/26/25)",
-      "event_time": "05:00PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDK A \u65e5\u672c\u8a9e",
-          "url": "https://world-proxifier.xyz/rbtv/p/D0MFVi5CV0ROJDFATUICNk9XKVYGUExLRCZUMTZCATBOJDRKQEJQNkUnBURNXlQBQCpIMlI-VCgRPBEoEgoWFxAGEygTBxMVEgQ=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Npb - Yokohama Baystars Vs Yomiuri Giants (09/26/25)": {
-      "event_title": "Npb - Yokohama Baystars Vs Yomiuri Giants (09/26/25)",
-      "event_time": "05:00PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDK A \u65e5\u672c\u8a9e",
-          "url": "https://world-proxifier.xyz/rbtv/p/D0MFVi5CXjZOIk1ETFBUB0AoUDNAITBWNSZUXDJcTjAxWFQASFBLMzZCKFYsASoTLAIcExEFHBMsAxEREQMQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Fiba U16 Women'S Asian Championship - China U16 Women Vs Philippines U16 Women (09/26/25)": {
-      "event_title": "Fiba U16 Women'S Asian Championship - China U16 Women Vs Philippines U16 Women (09/26/25)",
-      "event_time": "07:00PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/BxoFBlJEFBNSSjRIRF0iMlISMExAXVQES1BKN0giSzJLWDVWLkIGT0hdRlZUAhFWWiJKQE1CMzJSQ01MT1g1N0hdQjJSRBQTUko0SERdVCpSPBUoEDwUHhoDFxUTPBUTFQEQFw==/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Israel Basketball League Cup - Galil Elyon Vs Maccabi Raanana (09/26/25)": {
-      "event_title": "Israel Basketball League Cup - Galil Elyon Vs Maccabi Raanana (09/26/25)",
-      "event_time": "07:00PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CiY3RERfVAdAJkhAN1FGS09CD0BAWjJAUhAyN1I-VABAX05LUhZJPDJdVDE2QghERlZGRUhCV0RAXUZJQEIoViwDKhQsAhweLT0VHiwDERERBhY=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Israel Basketball Cup - Maccabi Tel Aviv Vs Hapoel Jerusalem (09/26/25)": {
-      "event_title": "Israel Basketball Cup - Maccabi Tel Aviv Vs Hapoel Jerusalem (09/26/25)",
-      "event_time": "07:45PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CiY3RERfVAdAJkhAN1FGS09CBjAzQihWDlBAQkBRTlZXVElWAiVOMVIlMFYFUDU2RF9UD0QhMjJAX0JIUj5UKBM8FigSChwXFgYWKBMHExUXAQ==/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "T20 World Cup, Africa Qualifier, Regional Final - Tanzania Vs Botswana (09/26/25) [STREAM 35[HD]]": {
-      "event_title": "T20 World Cup, Africa Qualifier, Regional Final - Tanzania Vs Botswana (09/26/25) [STREAM 35[HD]]",
-      "event_time": "07:50PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/VwMrVloiN0tHQgYwMzlUBkUhTkJAQlYwQF9OQUhUNy1SQUJOSCJLRE9CAUxNUElWLkJRRE0pRklIUFQxNkIFNjcmPERNUFQqUjwRKBM8FB4aPRQWEDwVExUBERI=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "T20 World Cup, Africa Qualifier, Regional Final - Uganda Vs Zimbabwe (09/26/25) [STREAM 34[HD]]": {
-      "event_title": "T20 World Cup, Africa Qualifier, Regional Final - Uganda Vs Zimbabwe (09/26/25) [STREAM 34[HD]]",
-      "event_time": "07:50PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/VwMrVloiN0tHQgYwMzlUBkUhTkJAQlYwQF9OQUhUNy1SQUJOSCJLRE9CAUxNUElWLkJSTkBdQURSJTBWWVhKRUBRPEBSPlQoFzwVKBIKHCkSAhUoEwcTFRcF/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Cycling World Cup - U23 Men'S Road Race | Uci World Championships (09/26/25)": {
-      "event_title": "Cycling World Cup - U23 Men'S Road Race | Uci World Championships (09/26/25)",
-      "event_time": "05:50PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SKA",
-          "url": "https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFZUAxZWDlRLIDZCVzZAV1RVQFZCVj9CUgQKQlw2MV9BVgBbRkgzWDRJNltONzZCKFYsAhAoEz0rFiwCHB4TChcWLAcUHhoGEA==/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "MOVISTAR2",
-          "url": "https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFZUAxZWDlRLIDZCVzZAV1RVQFZCVj9CUgQKQlw2MV9BVgBbRkgzWDRJNltONzZCKFYsAhAoEz0rFiwCHB4TChcWLAcUHhoFFQ==/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Cycling World Cup - U23 Men'S Road Race | Uci World Championships (09/26/25) [STREAM 32[HD]]": {
-      "event_title": "Cycling World Cup - U23 Men'S Road Race | Uci World Championships (09/26/25) [STREAM 32[HD]]",
-      "event_time": "05:50PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFZUAxZWDlRLIDZCVzZAV1RVQFZCVj9CUgQKQlw2MV9BVgBbRkgzWDRJNltONzZCKFYsAhAoEzwUHhoDHBUSPBUTFQEXFg==/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Hexagone - One Friday Fights 126 (09/26/25)": {
-      "event_title": "Hexagone - One Friday Fights 126 (09/26/25)",
-      "event_time": "08:30PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/BVQ9REoiS0BSPlQIDxZUAzFYQUQ4QgFMSlsxMlICFRNSPlQoEgEqEywCHB4TChUVLAMREREEFA==/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "One Championship - One Friday Fights 126 (09/26/25)": {
-      "event_title": "One Championship - One Friday Fights 126 (09/26/25)",
-      "event_time": "08:30PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/DB8AVgBbRkgzWDRJNltON1I-VAgPFlQDMVhBRDhCAUxKWzEyUgIVE1I-VCgSASoXLT0UKBIKHBcWASsoFwIcES0D/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Chinese Football League 2 - Guangxi Hengchen Football Club Vs Haimen Codion (09/26/25)": {
-      "event_title": "Chinese Football League 2 - Guangxi Hengchen Football Club Vs Haimen Codion (09/26/25)",
-      "event_time": "07:00PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1IZQkRKJEJWE0IoVgQkRklKK05WBVRLTkZbQklSFzQ2N1FGS09CBks0UVQxNkIDREhcQklSEDRDSCJLVi5CKhYsACoVEwcVKRUHKhQtABcWGg==/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Kazakhstan Division 1 - Fc Jetisay Vs Akas Almaty (09/26/25)": {
-      "event_title": "Kazakhstan Division 1 - Fc Jetisay Vs Akas Almaty (09/26/25)",
-      "event_time": "07:00PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CFA_RE5bMDNAXVQFSCVOMkgiS1YSQihWBxBUD0QnTjJAKFQxNkIEDAJGVAZPXEYzOEIoViwCKhQsARQTGgIVKSwAKxQRAhI=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Kazakhstan Division 1 - Fk Kaspyi Aktau Vs Fk Aktobe Ii (09/26/25)": {
-      "event_title": "Kazakhstan Division 1 - Fk Kaspyi Aktau Vs Fk Aktobe Ii (09/26/25)",
-      "event_time": "07:00PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CFA_RE5bMDNAXVQFSCVOMkgiS1YSQihWBxhUDEAmNTxIQgRKN1AyVjUmVAMIQgRKNyJHQFIaDFYuQioWLAAqFRIHHBYQAioULQAXFhU=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Vietnam National First Class League - Xuan Thien Phu Tho Vs Thanh Ni\u00ean Tp. H\u1ed3 Ch\u00ed Minh (09/26/25)": {
-      "event_title": "Vietnam National First Class League - Xuan Thien Phu Tho Vs Thanh Ni\u00ean Tp. H\u1ed3 Ch\u00ed Minh (09/26/25)",
-      "event_time": "07:00PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/VVhCM01QSlYPUDFMMl1GS1IXTjU2J1QET1AwMlIZQkRKJEJWLkJdMEBdVFNLWEJJUkNNMFJHTTZSJTBWV1tGSUtCCUyxyEtWV0MpVgWDz-VSEE2130IITE1bVCpSPBQoEDwXFxUBEhAWPBYpEAEVKQ==/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Azerbaijan Premier League - Mil-Mugan Fk Vs Zira Fk (09/26/25)": {
-      "event_title": "Azerbaijan Premier League - Mil-Mugan Fk Vs Zira Fk (09/26/25)",
-      "event_time": "07:30PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AilCNUFQTk1AXVRXMVRKTEQhVA1EUEwwREIoVg5YSSoOJExETUIBDFIlMFZZWDdEUhcOVi5CKhYsACoVEwUrFhcKKhQtABcXFg==/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Chinese Football Assorciation U-21 League - Qingdao West Coast U21 Vs Changchun Yatai U21 (09/26/25)": {
-      "event_title": "Chinese Football Assorciation U-21 League - Qingdao West Coast U21 Vs Changchun Yatai U21 (09/26/25)",
-      "event_time": "07:30PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1ISMDIyIUBMQCdONk1CUioTAlQNRFBMMERCKFZQWEtOR1A0VlpUMDNSEDRENidUUBMCVDE2QgZPQF1MQkskS1ZYUDFESEJSFxJCKFYsAioULAEVERIGExEsACsUEQMX/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Chinese Football League 1 - Foshan Nanshi Vs Guangxi Pingguo Fc (09/26/25)": {
-      "event_title": "Chinese Football League 1 - Foshan Nanshi Vs Guangxi Pingguo Fc (09/26/25)",
-      "event_time": "07:30PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1IZQkRKJEJWEkIoVgciME9AXVQLQF0wT0hCMzJSFDJETVo9TFJDTklKWjI2UhcGVi5CKhYsACoVEgEQFxoEKhQtABcXEw==/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Chinese Football League 1 - Nantong Zhiyun Fc Vs Shaanxi Union (09/26/25)": {
-      "event_title": "Chinese Football League 1 - Nantong Zhiyun Fc Vs Shaanxi Union (09/26/25)",
-      "event_time": "07:30PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1IZQkRKJEJWEkIoVg9QSzMyXUxWWVtOPDRdVAMAQjMyUkZNREBdPUxSREtMMl1UKlI8FCgQPBcWEQYVHhA8FikQARUU/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Chinese Football League 1 - Qingdao Red Lions Vs Shijiazhuang Gongfu (09/26/25)": {
-      "event_title": "Chinese Football League 1 - Qingdao Red Lions Vs Shijiazhuang Gongfu (09/26/25)",
-      "event_time": "07:30PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1IZQkRKJEJWEkIoVlBYS05HUDRWUVRBVglYNEk2QjMyUkZNTElYRj1LJEZJSkICNk1aQzBSPlQoEjwWKBECFxITChMoED0WFRMC/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Chinese Football Super League - Beijing Guoan Fc Vs Dalian Yingbo Fc (09/26/25)": {
-      "event_title": "Chinese Football Super League - Beijing Guoan Fc Vs Dalian Yingbo Fc (09/26/25)",
-      "event_time": "07:35PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "MOVISTAR",
-          "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1JGMjdEIVQNRFBMMERCKFYDVE5NSF1MVgQkNERNQgEEUiUwVgFQSUxAXVRcSF1MRTJCAQRSPlQoEjwVKS0CKhUSAxYUFQQqExIKHB4T/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1JGMjdEIVQNRFBMMERCKFYDVE5NSF1MVgQkNERNQgEEUiUwVgFQSUxAXVRcSF1MRTJCAQRSPlQoEjwWKBECFRQQBRIoED0WFRMH/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Chinese Football Super League - Shanghai Port Fc Vs Wuhan Three Towns Fc (09/26/25)": {
-      "event_title": "Chinese Football Super League - Shanghai Port Fc Vs Wuhan Three Towns Fc (09/26/25)",
-      "event_time": "08:00PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1JGMjdEIVQNRFBMMERCKFZWW0ZJSltGTFJDNDU3QgEEUiUwVlokTURNQlFPMVRCVlciPEk2QgEEUj5UKBI8FigRAhUUEAUcKBA9FhUTBQ==/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Chinese Football Super League - Zhejiang Professional Fc Vs Chengdu Rongcheng Fc (09/26/25)": {
-      "event_title": "Chinese Football Super League - Zhejiang Professional Fc Vs Chengdu Rongcheng Fc (09/26/25)",
-      "event_time": "08:00PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1JGMjdEIVQNRFBMMERCKFZZW0JNSFBLTlJDNzZFVDAySCJLRE9CAQRSJTBWAFtCSUpXMlZRIktORltCSUpCAQRSPlQoEjwWKBECFRQQBRYoED0WFRMK/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Indonesian Liga 1 - Dewa United Fc Vs Persebaya Surabaya (09/26/25)": {
-      "event_title": "Indonesian Liga 1 - Dewa United Fc Vs Persebaya Surabaya (09/26/25)",
-      "event_time": "08:00PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/Cl1BNk1UMExAXVQNSFpGVhJCKFYBVDxEUkRLTDdUQVYHEFQxNkJVQDEmQkVAKEZWViQ3REFQPkRSPlQoEjwVKS0CKhUTAxwSLQMqExIKESkT/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/Cl1BNk1UMExAXVQNSFpGVhJCKFYBVDxEUkRLTDdUQVYHEFQxNkJVQDEmQkVAKEZWViQ3REFQPkRSPlQoEjwWKBEDFR4WPRUoED0WFRA9/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Thai League 1 - Sukhothai Vs Chiangrai United (09/26/25)": {
-      "event_title": "Thai League 1 - Sukhothai Vs Chiangrai United (09/26/25)",
-      "event_time": "08:00PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/V1tGTFIZQkRKJEJWEkIoVlYkSE8yJ01ESEIzMlIQTUxAXUw1QFhUUE1YMUBHQihWLAIqFCwBFRMXAhESLAArFBEDEg==/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Malaysian Super League - Dpmm Fc Vs Kelantan The Real Warriors (09/26/25)": {
-      "event_title": "Malaysian Super League - Dpmm Fc Vs Kelantan The Real Warriors (09/26/25)",
-      "event_time": "08:15PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SKA",
-          "url": "https://world-proxifier.xyz/rbtv/p/DlBJRDgmTkRNQlAwM1Q3VglURk40VFQqUhFVCg5CAQRSJTBWCFRJRE0nRklSR01AUkFCRE9CXEQxIU42MSZUKlI8FCgTPSsWLAEVFxICFxcsBxQeFz0U/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/DlBJRDgmTkRNQlAwM1Q3VglURk40VFQqUhFVCg5CAQRSJTBWCFRJRE0nRklSR01AUkFCRE9CXEQxIU42MSZUKlI8FCgQPBcXEwIUFRM8FikQARYX/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Vietnam National Champion League - Hanoi Fc Vs Clb Thanh Hoa (09/26/25)": {
-      "event_title": "Vietnam National Champion League - Hanoi Fc Vs Clb Thanh Hoa (09/26/25)",
-      "event_time": "08:15PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/VVhCM01QSlYPUDFMMl1GS1IQTURMI042TUIPQEBaMkBSPlQBQF00TFIXBlY1JlQECRNUU0tQS09SFTREUj5UKBI8FigRAxAXFj0rKBA9FhUQAg==/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Worldsbk - Wsbk: Worldssp Superpole (09/26/25)": {
-      "event_title": "Worldsbk - Wsbk: Worldssp Superpole (09/26/25)",
-      "event_time": "07:55PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/WiI3S0dGBQxSPlReVhMOH1JKNDVPV1BSU0JQMDNUNzcyX0JWLkIqECwDKykSPBQeGgMcKRo8ERYaChUU/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "DAZN ES",
-          "url": "https://world-proxifier.xyz/rbtv/p/WiI3S0dGBQxSPlReVhMOH1JKNDVPV1BSU0JQMDNUNzcyX0JWLkIqECwDKykSPBQeGgMcKRo8ERYaChUS/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/WiI3S0dGBQxSPlReVhMOH1JKNDVPV1BSU0JQMDNUNzcyX0JWLkIqECwHKhYaChUeLQoqFxcFFxMX/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Atp Beijing, China Men Double - S.Bolelli/A.Vavassori Vs Bonzi B / Griekspoor T (09/26/25)": {
-      "event_title": "Atp Beijing, China Men Double - S.Bolelli/A.Vavassori Vs Bonzi B / Griekspoor T (09/26/25)",
-      "event_time": "06:50PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVQFMiRHS0RCKFZWPwU2T1RJS0g8BCtVUDNENiY0NUhCMzJSEzRJOVhUB1I8VAAxWEJKNiM0NjFCUVYuQioULAcqFhoKKxUSBioXFwUXEhY=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Wta Beijing, China Women Singles - Wang Xinyu Vs Zhang Shuai (09/26/25)": {
-      "event_title": "Wta Beijing, China Women Singles - Wang Xinyu Vs Zhang Shuai (09/26/25)",
-      "event_time": "07:00PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlReQF1MVltYSzw0QjMyUklNRE1aVFJLJEZMUj5UKBA8FSktAioWGgoUEhMDKhMSChIeEA==/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlReQF1MVltYSzw0QjMyUklNRE1aVFJLJEZMUj5UKBA8ESgSChwWFgMVKBMHExUWBQ==/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Wta Beijing, China Women Singles - Karolina Muchova Vs Sorana Cirstea (09/26/25)": {
-      "event_title": "Wta Beijing, China Women Singles - Karolina Muchova Vs Sorana Cirstea (09/26/25)",
-      "event_time": "07:10PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQMQCE0S0hdRlYOJEBPMiVGVjUmVFIyIUZJQEIGTDEmMUBAQihWLAAqEywCHBEVABETLAMREREHFg==/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Atp Beijing, China Men Singles - Giovanni Mpetshi Perricard Vs Lorenzo Musetti (09/26/25)": {
-      "event_title": "Atp Beijing, China Men Singles - Giovanni Mpetshi Perricard Vs Lorenzo Musetti (09/26/25)",
-      "event_time": "07:15PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSFE42NVBLSUhCCDdEJzBPSEJVQDEhTkJAIUFWNSZUDTIhQkk5IlQKNCZCMzdYVCpSPBYoEz0rFiwCHB4tARIQLAcUHho9Kw==/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "MOVISTAR",
-          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSFE42NVBLSUhCCDdEJzBPSEJVQDEhTkJAIUFWNSZUDTIhQkk5IlQKNCZCMzdYVCpSPBYoEz0rFiwCHB4tARIQLAcUHhUKEg==/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSFE42NVBLSUhCCDdEJzBPSEJVQDEhTkJAIUFWNSZUDTIhQkk5IlQKNCZCMzdYVCpSPBYoFzwUHho9FxAUPBUTFQERFw==/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "P\u00e1del Premier Padel 2025 - Ortega/Icardo - Fern\u00e1ndez/Gonz\u00e1lez (09/26/25)": {
-      "event_title": "P\u00e1del Premier Padel 2025 - Ortega/Icardo - Fern\u00e1ndez/Gonz\u00e1lez (09/26/25)",
-      "event_time": "07:25PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "MOVISTAR",
-          "url": "https://world-proxifier.xyz/rbtv/p/U6HVQ0RfVFcxVEpMRCFUV0BXQktSAysXFkIoVgwhMUBKUCoORlA3QzJCKFYHVDdJscNLQ0QpKgAyXT-1019CPVI-VCgQPBUpLQIqFhoKFR4tAyoTEgoTHi0=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Wta Beijing, China Women Singles - Belinda Bencic Vs Katie Volynets (09/26/25)": {
-      "event_title": "Wta Beijing, China Women Singles - Belinda Bencic Vs Katie Volynets (09/26/25)",
-      "event_time": "08:05PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQHRF9OSUdQVAdEXUBMRkIzMlIYRjNIVFRRMl8-SUQnMFYuQioULAcqFhoKFBUXCioXFwUXEC0=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Atp Beijing, China Men Singles - Lorenzo Sonego Vs Alexander Zverev (09/26/25)": {
-      "event_title": "Atp Beijing, China Men Singles - Lorenzo Sonego Vs Alexander Zverev (09/26/25)",
-      "event_time": "08:30PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSGTQ1RF0_NlJGNElEWjRWNSZUBk9UPURNV0I1UkkzQDFUM1YuQioULAMrKRI8FB4aPRcQFTwRFhoKKxY=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "MOVISTAR2",
-          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSGTQ1RF0_NlJGNElEWjRWNSZUBk9UPURNV0I1UkkzQDFUM1YuQioULAMrKRI8FB4aPRcQFTwRFhoFHB4=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "HDD B",
-          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSGTQ1RF0_NlJGNElEWjRWNSZUBk9UPURNV0I1UkkzQDFUM1YuQioULAcqFhoKKxUUBSoXFwUXEho=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Atp Beijing, China Men Singles - Lorenzo Sonego Vs Alexander Zverev (09/26/25) [STREAM 17[HD]]": {
-      "event_title": "Atp Beijing, China Men Singles - Lorenzo Sonego Vs Alexander Zverev (09/26/25) [STREAM 17[HD]]",
-      "event_time": "08:30PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSGTQ1RF0_NlJGNElEWjRWNSZUBk9UPURNV0I1UkkzQDFUM1YuQioULAMqFhoKKxUUBSoXFwUWFi0=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Livoli Divisi Utama - Putra: Samator  Vs  Ganeksa Bhumikarta (09/26/25)": {
-      "event_title": "Livoli Divisi Utama - Putra: Samator  Vs  Ganeksa Bhumikarta (09/26/25)",
-      "event_time": "02:30PM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/CVgzNk9YVAVIJU4ySEJSM0BcRlYuQlUwNyFGH1JGRkhAJzQ1UkIzMlJCAkRNVEgyQEIFTzRcTkpAITFEUj5UKBIAKhctPRQoEgocFxACEygXAhweGj0=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
-          "duration": null
-        }
-      ]
-    }
-  },
+  "events": [],
+  "grouped_events": {},
   "metadata": {}
 }
