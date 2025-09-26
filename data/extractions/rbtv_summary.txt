@@ -1,13 +1,142 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-26T17:13:35.853930
+Extraction Time: 2025-09-26T17:29:53.299210
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 0
-- Total Channels: 0
+- Unique Events: 64
+- Total Channels: 222
 - Individual Streams: 0
-- Media Segments: 128
+- Media Segments: 0
 - Other Events: 0
 
+EVENT BREAKDOWN:
+- Basketbol Super Ligi - Anadolu Efes Sports Club Vs Esenler E...
+  Time: 12:00AM, Channels: 3
+- Svenska Basketligan - Bc Lulea Vs Uppsala Basket (09/27/25)
+  Time: 01:00AM, Channels: 3
+- Svenska Basketligan - Boras Basket Vs Koping Stars (09/27/25...
+  Time: 01:00AM, Channels: 3
+- Greece Basketball Cup - Olympiacos Piraeus Vs As Karditsas (...
+  Time: 01:30AM, Channels: 3
+- T20 World Cup, Africa Qualifier, Regional Final - Uganda Vs ...
+  Time: 07:50PM, Channels: 3
+- T20 Asia Cup - India Vs Sri Lanka (09/26/25)
+  Time: 10:30PM, Channels: 3
+- T20 Asia Cup - India Vs Sri Lanka (09/26/25) [STREAM 48[HD]]
+  Time: 10:30PM, Channels: 3
+- Bkfc 81 - Bkfc 81: Weigh-In (09/27/25)
+  Time: 12:00AM, Channels: 3
+- Hexagone - One Friday Fights 126 (09/26/25)
+  Time: 08:30PM, Channels: 3
+- One Championship - One Friday Fights 126 (09/26/25)
+  Time: 08:30PM, Channels: 3
+- Hexagone - Pfl Europe 3: Amin Ayoub - Donovan Desmae (09/26/...
+  Time: 11:00PM, Channels: 3
+- Austrian 2.Liga - Admira Wacker Vs Sc Austria Lustenau (09/2...
+  Time: 12:00AM, Channels: 3
+- Austrian 2.Liga - Fac Wien Vs Sk Rapid Ii (09/27/25)
+  Time: 12:00AM, Channels: 3
+- Austrian 2.Liga - Fc Liefering Vs Sv Stripfing (09/27/25)
+  Time: 12:00AM, Channels: 3
+- Austrian 2.Liga - Sk Austria Klagenfurt Vs Fc Hogo Hertha We...
+  Time: 12:00AM, Channels: 3
+- Austrian 2.Liga - Skn St.Polten Vs Sk Sturm Graz Ii (09/27/2...
+  Time: 12:00AM, Channels: 3
+- Chance Národní Liga - Sk Prostejov Vs Fk Graffin Vlasim (09/...
+  Time: 12:00AM, Channels: 3
+- Chance Národní Liga - Vysocina Jihlava Vs Banik Ostrava B (0...
+  Time: 12:00AM, Channels: 3
+- Estonian Premium Liiga - Tartu Jk Maag Tammeka Vs Fc Kuressa...
+  Time: 12:00AM, Channels: 3
+- Peruvian Liga 1 - Alianza Universidad De Huánuco Vs Sport Bo...
+  Time: 12:00AM, Channels: 6
+- Poland Liga 2 - Warta Poznan Vs Stal Stalowa Wola (09/27/25)
+  Time: 12:00AM, Channels: 3
+- United Arab Emirates Adnoc Pro-League - Al-Nasr Dubai Vs Dab...
+  Time: 12:15AM, Channels: 3
+- German Bundesliga 2 - Schalke 04 Vs Spvgg Greuther Fürth (09...
+  Time: 12:30AM, Channels: 12
+- German Bundesliga 2 - Schalke 04 Vs Spvgg Greuther Fürth (09...
+  Time: 12:30AM, Channels: 3
+- German Bundesliga 2 - Sv Darmstadt 98 Vs Dynamo Dresden (09/...
+  Time: 12:30AM, Channels: 9
+- German Bundesliga 2 - Sv Darmstadt 98 Vs Dynamo Dresden (09/...
+  Time: 12:30AM, Channels: 3
+- Italian Campionato Primavera 1 - Inter Milan U20 Vs Juventus...
+  Time: 12:30AM, Channels: 3
+- Jordan Premier League - Al-Ramtha Sc Vs Al-Jazeera (09/27/25...
+  Time: 12:30AM, Channels: 3
+- Bulgarian First League - Lokomotiv Plovdiv Vs Levski Sofia (...
+  Time: 01:00AM, Channels: 3
+- Czech Chance Liga - Slavia Praha Vs Dukla Prague (09/27/25)
+  Time: 01:00AM, Channels: 6
+- German 3.Liga - Energie Cottbus Vs Vfb Stuttgart Ii (09/27/2...
+  Time: 01:00AM, Channels: 9
+- German Regionalliga - Werder Bremen Youth Vs Kickers Emden (...
+  Time: 01:00AM, Channels: 3
+- Liga Portugal 2 - Vizela Vs Leixoes (09/27/25)
+  Time: 01:00AM, Channels: 3
+- Liga Portugal 2 - Vizela Vs Leixoes (09/27/25) [STREAM 33[HD...
+  Time: 01:00AM, Channels: 3
+- Qatar Stars League - Al Shahaniya Vs Al-Ahli Doha (09/27/25)
+  Time: 01:00AM, Channels: 3
+- Turkish Super League - Alanyaspor Vs Galatasaray (09/27/25)
+  Time: 01:00AM, Channels: 6
+- Russian Women'S Premier League - Cska Moscow Women Vs Cherta...
+  Time: 01:15AM, Channels: 3
+- Spanish Primera División Rfef - Cf Talavera De La Reina Vs C...
+  Time: 01:15AM, Channels: 3
+- French Championnat National - Chateauroux Vs Caen (09/27/25)
+  Time: 01:30AM, Channels: 3
+- French Championnat National - Dijon Vs Concarneau (09/27/25)
+  Time: 01:30AM, Channels: 3
+- French Championnat National - Fc Rouen Vs Bresse Péronnas 01...
+  Time: 01:30AM, Channels: 3
+- French Championnat National - Fleury Merogis U.S. Vs Aubagne...
+  Time: 01:30AM, Channels: 3
+- French Championnat National - Le Puy Foot 43 Auvergne Vs Par...
+  Time: 01:30AM, Channels: 3
+- French Championnat National - Us Orléans Vs Stade Briochin (...
+  Time: 01:30AM, Channels: 3
+- French Championnat National - Valenciennes Vs Villefranche (...
+  Time: 01:30AM, Channels: 3
+- French Championnat National - Versailles 78 Vs Quevilly Roue...
+  Time: 01:30AM, Channels: 3
+- German Regionalliga - Sv Drochtersen/Assel Vs Bremer Sv (09/...
+  Time: 01:30AM, Channels: 3
+- German Regionalliga - Tus Blau-Weiss Lohne Vs Vfb Lubeck (09...
+  Time: 01:30AM, Channels: 3
+- Iraq Stars League - Mosul Fc Vs Al-Najaf (09/27/25)
+  Time: 01:30AM, Channels: 3
+- Switzerland Challenge League - Fc Rapperswil-Jona Vs Neuchat...
+  Time: 01:30AM, Channels: 3
+- Saudi Professional League - Al Hazem Vs Al Ahli Sfc (09/26/2...
+  Time: 11:35PM, Channels: 3
+- Liga Asobal - Granollers Vs Bm Nava (09/27/25)
+  Time: 01:00AM, Channels: 3
+- Kontinental Hockey League - Lokomotiv Yaroslavl Vs Avtomobil...
+  Time: 12:00AM, Channels: 3
+- Kontinental Hockey League - Dinamo Minsk Vs Severstal Cherep...
+  Time: 12:10AM, Channels: 3
+- Kontinental Hockey League - Lada Togliatti Vs Kunlun Red Sta...
+  Time: 11:00PM, Channels: 3
+- Worldsbk - Wsbk: Worldssp300 Superpole (09/26/25)
+  Time: 10:00PM, Channels: 3
+- France: Pro D2 - Aurillac Vs Vannes (09/27/25)
+  Time: 01:00AM, Channels: 3
+- World: United Rugby Championship - Stormers Vs Leinster (09/...
+  Time: 01:00AM, Channels: 3
+- Cuartos De Final-Padel - Di Nenno/Augsburguer Vs  Galán/Chin...
+  Time: 01:00AM, Channels: 3
+- Cuartos De Final-Padel - Nieto/Yanguas Vs  Bergamini/Navarro...
+  Time: 01:00AM, Channels: 3
+- Pádel Premier Padel 2025 - Ortega/Icardo - Fernández/Gonzále...
+  Time: 07:25PM, Channels: 3
+- Cuartos De Final Femenino-Padel - Triay/Brea Vs  Guinart/Vir...
+  Time: 09:25PM, Channels: 3
+- Pádel Premier Padel 2025 - Ustero/Araujo - Salazar/Calvo (09...
+  Time: 11:00PM, Channels: 3
+- World Championship - Imoco Volley Vs Agil Volley (09/26/25)
+  Time: 11:30PM, Channels: 3
