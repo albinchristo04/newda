@@ -1,9 +1,432 @@
 {
-  "timestamp": "2025-09-26T22:13:47.544964",
+  "timestamp": "2025-09-26T22:30:44.097068",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
-  "events": [],
-  "grouped_events": {},
+  "events": [
+    {
+      "event_time": "02:30AM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD B",
+      "event_title": "Hexagone - Hexagone - Toulouse, France (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/BVQ9REoiS0BSPlQBRCtGTjJdQlYuQlE2NF80MDZUL1YHIUZJRlRUKlI8FBUsByoWGgoVHhMCKhcXBRATLQ==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
+      "group_title": "FIGHTING"
+    },
+    {
+      "event_time": "02:30AM",
+      "event_date": "09/27/25",
+      "event_title": "Hexagone - Hexagone - Toulouse, France (09/27/25) [STREAM 17[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/BVQ9REoiS0BSPlQBRCtGTjJdQlYuQlE2NF80MDZUL1YHIUZJRlRUKlI8FBUsAyoWGgoVHhMCKhcXBRAUFw==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
+      "group_title": "FIGHTING"
+    },
+    {
+      "event_time": "06:00AM",
+      "event_date": "09/27/25",
+      "channel_name": "DAZN ES",
+      "event_title": "Most Valuable Promotions - Cudos Vs Clavel: Weigh-In (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIwM1JFRks0UEdLREJVNTJcNDNIIksyUj5UBDRXNDJSJTBWAF9GMURfHVZaVE5OSz4MSVI-VCgSASoXLT0UKBIKHBcaAhMoFwIcHhEE/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
+      "group_title": "FIGHTING"
+    },
+    {
+      "event_time": "06:00AM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD A",
+      "event_title": "Most Valuable Promotions - Cudos Vs Clavel: Weigh-In (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIwM1JFRks0UEdLREJVNTJcNDNIIksyUj5UBDRXNDJSJTBWAF9GMURfHVZaVE5OSz4MSVI-VCgSASoTLAIcHhMKFBEsAxERFgcQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
+      "group_title": "FIGHTING"
+    },
+    {
+      "event_time": "06:00AM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD A",
+      "event_title": "Santino Bros Wrestling - Wxw: Extreme Wrestling Party 2025 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/VlBLM0hdNFYDITQyUko3QDYnSUxNWlQqUipdPhtCAD83IUJIREJcNUQmMUtIXUxWU1A3MzhCFSkTBlQqUjwUFSwHKhYaChUeEwoqFxcFEBMX/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
+      "group_title": "FIGHTING"
+    },
+    {
+      "event_time": "04:30AM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD A",
+      "event_title": "Colombian Torneo Betplay Dimayor - Patriotas Fc Vs Real Santander (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/ACJJNkxRTkRNQlE2MV1CNlITQjNTX0Y8UhFOSEAoNDVSPlRXQCc3TDInRjJSFwZWNSZUVURQSVZWUEszQF1BQDFCKFYsAioTLAEVERYDFxAsACsUFwMr/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "04:30AM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD A",
+      "event_title": "Peruvian Liga 1 - Atletico Grau Vs Sport Huancayo (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/U1Q3MDVYRklSGU5OQEIUVi5CBDNPVDFMRiJUADFQMlY1JlRSMyI3M1IVMkRNVkY8MkIoViwCKhMsARURFgMXHiwAKxQXAhM=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "05:00AM",
+      "event_date": "09/27/25",
+      "channel_name": "SD",
+      "event_title": "Colombian Torneo Betplay Dimayor - Deportes Quindio Vs Bogota Fc (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/ACJJNkxRTkRNQlE2MV1CNlITQjNTX0Y8UhFOSEAoNDVSPlQFRCM0NTdUMFZQJE5JR1g0VjUmVAcyWjQzQEIBBFI-VCgSPBYoEQMTEhMCEygQPRYTEwI=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:00AM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD A",
+      "event_title": "Argentine Division 1 - Banfield Vs Club Atl\u00e9tico Uni\u00f3n (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AiFMQE0nTklEQgdMNVgwTDJdVBZSPlQHQF1DTERfQVY1JlQETyRHVgInSbXbJ05CMkJSSUihx0lSPlQoEjwRKBECKxAWChQoED0WExAC/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:00AM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD A",
+      "event_title": "Argentine Division 1 - Ca Platense Vs San Martin San Juan (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AiFMQE0nTklEQgdMNVgwTDJdVBZSPlQEAkJVS0AnQkk2VFQxNkJQRE1CCEQxJ05JUkZGSVIbMkRNQihWLAIqEywBFCkUBhwpLAArFBcDEw==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:00AM",
+      "event_date": "09/27/25",
+      "channel_name": "SD",
+      "event_title": "Argentine Division 1 - Ca Platense Vs San Martin San Juan (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AiFMQE0nTklEQgdMNVgwTDJdVBZSPlQEAkJVS0AnQkk2VFQxNkJQRE1CCEQxJ05JUkZGSVIbMkRNQihWLAIqFCwBFCkUBhwpLAArFBcDEA==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:00AM",
+      "event_date": "09/27/25",
+      "channel_name": "SD",
+      "event_title": "Chi Liga De Primera - Colo Colo Vs Municipal Iquique (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABUMVglYTERSV0JWUyFOSEQhRlYuQgY2TyJUBDJfNFY1JlQKNF1OQkgjRktSGjYwSCAyQFI-VCgSPBYoEQIVFxUDKygQPRYTEwE=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:00AM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD A",
+      "event_title": "Paraguayan Primera Division - Club Sportivo Trinidense Vs Club Guaran\u00ed (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/U1A3REokRjxAXVRXMVhKQDFQVAVIJU4ySCJLVi5CBks0UVRSMyI3M0glNFZXIU5JSFdCSTZUVDE2QgZLNFFUADRQN0RNodlWLkIqFiwHKhUTASspEQMqFC0AERca/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:00AM",
+      "event_date": "09/27/25",
+      "channel_name": "SD",
+      "event_title": "Paraguayan Primera Division - Club Sportivo Trinidense Vs Club Guaran\u00ed (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/U1A3REokRjxAXVRXMVhKQDFQVAVIJU4ySCJLVi5CBks0UVRSMyI3M0glNFZXIU5JSFdCSTZUVDE2QgZLNFFUADRQN0RNodlWLkIqFiwAKhUTASspEQMqFC0AERcQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:00AM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD A",
+      "event_title": "United States Women'S Premier League - Lexington W Vs Dallas Trinity W (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/VF1OM0RXVFI3UDFANkJcNkxUSyA2QlU1RFxOQDFCD0BAWjJAUj5UDUQrTklKJzRJUkpUMTZCB0RPX0YyUkc3TE1YMTxSSlQqUjwUKBc8FxcaAhMUETwWKRAHFik=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:00AM",
+      "event_date": "09/27/25",
+      "event_title": "United States Women'S Premier League - Lexington W Vs Dallas Trinity W (09/27/25) [STREAM 35[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/VF1OM0RXVFI3UDFANkJcNkxUSyA2QlU1RFxOQDFCD0BAWjJAUj5UDUQrTklKJzRJUkpUMTZCB0RPX0YyUkc3TE1YMTxSSlQqUjwUKBM8FxcaAhMUETwWKRAHFRM=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:30AM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD A",
+      "event_title": "Usl League One - Knoxville Troops Vs Charlotte Independence (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/VEYPVglURk40VFQITVRUKlIYSzY7JU5LT1RUMzEiNDc2QjMyUhBNRDFfNDM3VFQOTVdCN0RdQUBNVkJWLkIqFiwHKhUSARMpEwUqFC0AERQR/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:30AM",
+      "event_date": "09/27/25",
+      "event_title": "Usl League One - Knoxville Troops Vs Charlotte Independence (09/27/25) [STREAM 25[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/VEYPVglURk40VFQITVRUKlIYSzY7JU5LT1RUMzEiNDc2QjMyUhBNRDFfNDM3VFQOTVdCN0RdQUBNVkJWLkIqFiwDKhUSARMpEwUqFC0AERQQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:30AM",
+      "event_date": "09/27/25",
+      "channel_name": "SD",
+      "event_title": "Usl League One - Knoxville Troops Vs Charlotte Independence (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/VEYPVglURk40VFQITVRUKlIYSzY7JU5LT1RUMzEiNDc2QjMyUhBNRDFfNDM3VFQOTVdCN0RdQUBNVkJWLkIqFiwAKhUSARMpEwUqFC0AERQT/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    }
+  ],
+  "grouped_events": {
+    "Hexagone - Hexagone - Toulouse, France (09/27/25)": {
+      "event_title": "Hexagone - Hexagone - Toulouse, France (09/27/25)",
+      "event_time": "02:30AM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD B",
+          "url": "https://world-proxifier.xyz/rbtv/p/BVQ9REoiS0BSPlQBRCtGTjJdQlYuQlE2NF80MDZUL1YHIUZJRlRUKlI8FBUsByoWGgoVHhMCKhcXBRATLQ==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Hexagone - Hexagone - Toulouse, France (09/27/25) [STREAM 17[HD]]": {
+      "event_title": "Hexagone - Hexagone - Toulouse, France (09/27/25) [STREAM 17[HD]]",
+      "event_time": "02:30AM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/BVQ9REoiS0BSPlQBRCtGTjJdQlYuQlE2NF80MDZUL1YHIUZJRlRUKlI8FBUsAyoWGgoVHhMCKhcXBRAUFw==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Most Valuable Promotions - Cudos Vs Clavel: Weigh-In (09/27/25)": {
+      "event_title": "Most Valuable Promotions - Cudos Vs Clavel: Weigh-In (09/27/25)",
+      "event_time": "06:00AM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "DAZN ES",
+          "url": "https://world-proxifier.xyz/rbtv/p/DiIwM1JFRks0UEdLREJVNTJcNDNIIksyUj5UBDRXNDJSJTBWAF9GMURfHVZaVE5OSz4MSVI-VCgSASoXLT0UKBIKHBcaAhMoFwIcHhEE/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/DiIwM1JFRks0UEdLREJVNTJcNDNIIksyUj5UBDRXNDJSJTBWAF9GMURfHVZaVE5OSz4MSVI-VCgSASoTLAIcHhMKFBEsAxERFgcQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Santino Bros Wrestling - Wxw: Extreme Wrestling Party 2025 (09/27/25)": {
+      "event_title": "Santino Bros Wrestling - Wxw: Extreme Wrestling Party 2025 (09/27/25)",
+      "event_time": "06:00AM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/VlBLM0hdNFYDITQyUko3QDYnSUxNWlQqUipdPhtCAD83IUJIREJcNUQmMUtIXUxWU1A3MzhCFSkTBlQqUjwUFSwHKhYaChUeEwoqFxcFEBMX/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Colombian Torneo Betplay Dimayor - Patriotas Fc Vs Real Santander (09/27/25)": {
+      "event_title": "Colombian Torneo Betplay Dimayor - Patriotas Fc Vs Real Santander (09/27/25)",
+      "event_time": "04:30AM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/ACJJNkxRTkRNQlE2MV1CNlITQjNTX0Y8UhFOSEAoNDVSPlRXQCc3TDInRjJSFwZWNSZUVURQSVZWUEszQF1BQDFCKFYsAioTLAEVERYDFxAsACsUFwMr/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Peruvian Liga 1 - Atletico Grau Vs Sport Huancayo (09/27/25)": {
+      "event_title": "Peruvian Liga 1 - Atletico Grau Vs Sport Huancayo (09/27/25)",
+      "event_time": "04:30AM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/U1Q3MDVYRklSGU5OQEIUVi5CBDNPVDFMRiJUADFQMlY1JlRSMyI3M1IVMkRNVkY8MkIoViwCKhMsARURFgMXHiwAKxQXAhM=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Colombian Torneo Betplay Dimayor - Deportes Quindio Vs Bogota Fc (09/27/25)": {
+      "event_title": "Colombian Torneo Betplay Dimayor - Deportes Quindio Vs Bogota Fc (09/27/25)",
+      "event_time": "05:00AM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/ACJJNkxRTkRNQlE2MV1CNlITQjNTX0Y8UhFOSEAoNDVSPlQFRCM0NTdUMFZQJE5JR1g0VjUmVAcyWjQzQEIBBFI-VCgSPBYoEQMTEhMCEygQPRYTEwI=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Argentine Division 1 - Banfield Vs Club Atl\u00e9tico Uni\u00f3n (09/27/25)": {
+      "event_title": "Argentine Division 1 - Banfield Vs Club Atl\u00e9tico Uni\u00f3n (09/27/25)",
+      "event_time": "06:00AM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AiFMQE0nTklEQgdMNVgwTDJdVBZSPlQHQF1DTERfQVY1JlQETyRHVgInSbXbJ05CMkJSSUihx0lSPlQoEjwRKBECKxAWChQoED0WExAC/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Argentine Division 1 - Ca Platense Vs San Martin San Juan (09/27/25)": {
+      "event_title": "Argentine Division 1 - Ca Platense Vs San Martin San Juan (09/27/25)",
+      "event_time": "06:00AM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AiFMQE0nTklEQgdMNVgwTDJdVBZSPlQEAkJVS0AnQkk2VFQxNkJQRE1CCEQxJ05JUkZGSVIbMkRNQihWLAIqEywBFCkUBhwpLAArFBcDEw==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/AiFMQE0nTklEQgdMNVgwTDJdVBZSPlQEAkJVS0AnQkk2VFQxNkJQRE1CCEQxJ05JUkZGSVIbMkRNQihWLAIqFCwBFCkUBhwpLAArFBcDEA==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Chi Liga De Primera - Colo Colo Vs Municipal Iquique (09/27/25)": {
+      "event_title": "Chi Liga De Primera - Colo Colo Vs Municipal Iquique (09/27/25)",
+      "event_time": "06:00AM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/ABUMVglYTERSV0JWUyFOSEQhRlYuQgY2TyJUBDJfNFY1JlQKNF1OQkgjRktSGjYwSCAyQFI-VCgSPBYoEQIVFxUDKygQPRYTEwE=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Paraguayan Primera Division - Club Sportivo Trinidense Vs Club Guaran\u00ed (09/27/25)": {
+      "event_title": "Paraguayan Primera Division - Club Sportivo Trinidense Vs Club Guaran\u00ed (09/27/25)",
+      "event_time": "06:00AM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/U1A3REokRjxAXVRXMVhKQDFQVAVIJU4ySCJLVi5CBks0UVRSMyI3M0glNFZXIU5JSFdCSTZUVDE2QgZLNFFUADRQN0RNodlWLkIqFiwHKhUTASspEQMqFC0AERca/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/U1A3REokRjxAXVRXMVhKQDFQVAVIJU4ySCJLVi5CBks0UVRSMyI3M0glNFZXIU5JSFdCSTZUVDE2QgZLNFFUADRQN0RNodlWLkIqFiwAKhUTASspEQMqFC0AERcQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "United States Women'S Premier League - Lexington W Vs Dallas Trinity W (09/27/25)": {
+      "event_title": "United States Women'S Premier League - Lexington W Vs Dallas Trinity W (09/27/25)",
+      "event_time": "06:00AM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/VF1OM0RXVFI3UDFANkJcNkxUSyA2QlU1RFxOQDFCD0BAWjJAUj5UDUQrTklKJzRJUkpUMTZCB0RPX0YyUkc3TE1YMTxSSlQqUjwUKBc8FxcaAhMUETwWKRAHFik=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "United States Women'S Premier League - Lexington W Vs Dallas Trinity W (09/27/25) [STREAM 35[HD]]": {
+      "event_title": "United States Women'S Premier League - Lexington W Vs Dallas Trinity W (09/27/25) [STREAM 35[HD]]",
+      "event_time": "06:00AM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/VF1OM0RXVFI3UDFANkJcNkxUSyA2QlU1RFxOQDFCD0BAWjJAUj5UDUQrTklKJzRJUkpUMTZCB0RPX0YyUkc3TE1YMTxSSlQqUjwUKBM8FxcaAhMUETwWKRAHFRM=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Usl League One - Knoxville Troops Vs Charlotte Independence (09/27/25)": {
+      "event_title": "Usl League One - Knoxville Troops Vs Charlotte Independence (09/27/25)",
+      "event_time": "06:30AM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/VEYPVglURk40VFQITVRUKlIYSzY7JU5LT1RUMzEiNDc2QjMyUhBNRDFfNDM3VFQOTVdCN0RdQUBNVkJWLkIqFiwHKhUSARMpEwUqFC0AERQR/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/VEYPVglURk40VFQITVRUKlIYSzY7JU5LT1RUMzEiNDc2QjMyUhBNRDFfNDM3VFQOTVdCN0RdQUBNVkJWLkIqFiwAKhUSARMpEwUqFC0AERQT/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Usl League One - Knoxville Troops Vs Charlotte Independence (09/27/25) [STREAM 25[HD]]": {
+      "event_title": "Usl League One - Knoxville Troops Vs Charlotte Independence (09/27/25) [STREAM 25[HD]]",
+      "event_time": "06:30AM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/VEYPVglURk40VFQITVRUKlIYSzY7JU5LT1RUMzEiNDc2QjMyUhBNRDFfNDM3VFQOTVdCN0RdQUBNVkJWLkIqFiwDKhUSARMpEwUqFC0AERQQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    }
+  },
   "metadata": {}
 }

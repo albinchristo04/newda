@@ -1,13 +1,44 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-26T22:13:47.544964
+Extraction Time: 2025-09-26T22:30:44.097068
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 0
-- Total Channels: 0
+- Unique Events: 15
+- Total Channels: 19
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
+EVENT BREAKDOWN:
+- Hexagone - Hexagone - Toulouse, France (09/27/25)
+  Time: 02:30AM, Channels: 1
+- Hexagone - Hexagone - Toulouse, France (09/27/25) [STREAM 17...
+  Time: 02:30AM, Channels: 1
+- Most Valuable Promotions - Cudos Vs Clavel: Weigh-In (09/27/...
+  Time: 06:00AM, Channels: 2
+- Santino Bros Wrestling - Wxw: Extreme Wrestling Party 2025 (...
+  Time: 06:00AM, Channels: 1
+- Colombian Torneo Betplay Dimayor - Patriotas Fc Vs Real Sant...
+  Time: 04:30AM, Channels: 1
+- Peruvian Liga 1 - Atletico Grau Vs Sport Huancayo (09/27/25)
+  Time: 04:30AM, Channels: 1
+- Colombian Torneo Betplay Dimayor - Deportes Quindio Vs Bogot...
+  Time: 05:00AM, Channels: 1
+- Argentine Division 1 - Banfield Vs Club Atlético Unión (09/2...
+  Time: 06:00AM, Channels: 1
+- Argentine Division 1 - Ca Platense Vs San Martin San Juan (0...
+  Time: 06:00AM, Channels: 2
+- Chi Liga De Primera - Colo Colo Vs Municipal Iquique (09/27/...
+  Time: 06:00AM, Channels: 1
+- Paraguayan Primera Division - Club Sportivo Trinidense Vs Cl...
+  Time: 06:00AM, Channels: 2
+- United States Women'S Premier League - Lexington W Vs Dallas...
+  Time: 06:00AM, Channels: 1
+- United States Women'S Premier League - Lexington W Vs Dallas...
+  Time: 06:00AM, Channels: 1
+- Usl League One - Knoxville Troops Vs Charlotte Independence ...
+  Time: 06:30AM, Channels: 2
+- Usl League One - Knoxville Troops Vs Charlotte Independence ...
+  Time: 06:30AM, Channels: 1
