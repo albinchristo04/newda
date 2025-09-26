@@ -1,42 +1,42 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-26T05:15:02.013785
+Extraction Time: 2025-09-26T05:33:30.466801
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
 - Unique Events: 14
-- Total Channels: 93
+- Total Channels: 58
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
-- Australia: Afl Women - Melbourne Demons W Vs Gold Coast Suns...
-  Time: 11:05AM, Channels: 3
 - Australia: Afl Women - Essendon Bombers W Vs North Melbourne...
-  Time: 01:05PM, Channels: 3
+  Time: 01:05PM, Channels: 2
 - Korea Open, Singles - Chou Tien-Chen Vs Loh Kean Yew (09/26/...
-  Time: 12:50PM, Channels: 3
+  Time: 12:50PM, Channels: 2
 - Japanese J3 League - Vanraure Hachinohe Fc Vs Kagoshima Unit...
-  Time: 12:00PM, Channels: 3
+  Time: 12:00PM, Channels: 2
 - Moto3 - Moto3: Motegi (Japan) - Practice 2 (09/26/25)
-  Time: 12:15PM, Channels: 24
+  Time: 12:15PM, Channels: 14
 - Moto2 - Moto2: Motegi (Japan) - Practice 2 (09/26/25)
-  Time: 01:05PM, Channels: 24
+  Time: 01:05PM, Channels: 16
 - Atp Beijing, China Men Singles - David Goffin Vs Arthur Rind...
-  Time: 11:00AM, Channels: 3
-- Atp Tokyo, Japan Men Singles - Sho Shimabukuro Vs Sebastian ...
-  Time: 11:45AM, Channels: 6
+  Time: 11:00AM, Channels: 2
 - Atp Tokyo, Japan Men Double - Gonzalez S / Pel D Vs Cabral F...
-  Time: 11:50AM, Channels: 3
+  Time: 11:50AM, Channels: 2
 - Wta Beijing, China Women Doubles - Dabrowski G / Routliffe E...
-  Time: 12:35PM, Channels: 3
+  Time: 12:35PM, Channels: 2
 - Wta Beijing, China Women Singles - Eva Lys Vs Iva Jovic (09/...
-  Time: 12:35PM, Channels: 3
+  Time: 12:35PM, Channels: 2
 - Wta Beijing, China Women Singles - Marie Bouzkova Vs Magda L...
-  Time: 12:35PM, Channels: 3
+  Time: 12:35PM, Channels: 2
 - Atp Beijing, China Men Singles - Alex De Minaur Vs Bu Yuncha...
-  Time: 01:00PM, Channels: 9
+  Time: 01:00PM, Channels: 6
 - Atp Beijing, China Men Singles - Alex De Minaur Vs Bu Yuncha...
-  Time: 01:00PM, Channels: 3
+  Time: 01:00PM, Channels: 2
+- Atp Beijing, China Men Singles - Shang Juncheng Vs Arthur Ca...
+  Time: 01:10PM, Channels: 2
+- Wta Beijing, China Women Singles - Elena Rybakina Vs Caty Mc...
+  Time: 01:15PM, Channels: 2
