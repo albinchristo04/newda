@@ -1,24 +1,12 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Fri Sep 26 06:47:26 UTC 2025
+Last updated: Fri Sep 26 07:15:35 UTC 2025
 
-Workflow run: #236
+Workflow run: #237
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-26T06:47:26.041052
+Extracted at: 2025-09-26T07:15:34.788949
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== MEDIA SEGMENTS (First 10) ===
-
-1. https://world-proxifier.xyz/rbtv/p/AkRQU1ESDw4CC1QGBxlUXjJcQklSPlQCNiZCSUciS1YDIkpFRCEwVlpCMzJSHzQ1N1tUCkRfRzY0IUtAUkpUKlI8FCksByoWGgorEhoGKhcXBRYVFQ==/index.m3u8
-2. https://world-proxifier.xyz/rbtv/p/AkRQU1ESDw4CC1QGBxlUXjJcQklSPlQCNiZCSUciS1YDIkpFRCEwVlpCMzJSHzQ1N1tUCkRfRzY0IUtAUkpUKlI8FCksByoWGgorEhoGKhcXBRYVFQ==/index.m3u8
-3. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQg1MTUJeNk1aKgtAQlAwTVooMkQkS05SJTBWAl9DTEBdVANSPFQDSF43TFIeVFJSPlQoEgMqFy09FCgSChwXFgYUKBcCHB4RAg==/index.m3u8
-4. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQg1MTUJeNk1aKgtAQlAwTVooMkQkS05SJTBWAl9DTEBdVANSPFQDSF43TFIeVFJSPlQoEgMqFy09FCgSChwXFgYUKBcCHB4RAg==/index.m3u8
-5. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WVlhLTk9UMFYuQgFEMVtGSVISST5IQjMyUkpCSUpCAzZNWj5ETVpUKlI8FBcsAyspEjwUHhoDEBYQPBEWGgoXKQ==/index.m3u8
-6. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WVlhLTk9UMFYuQgFEMVtGSVISST5IQjMyUkpCSUpCAzZNWj5ETVpUKlI8FBcsAyspEjwUHhoDEBYQPBEWGgoXKQ==/index.m3u8
-7. https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYLJEtMMiFUCkRdIjJSQTRER0JXREZUVDtSRAYOUko0NU9XVARLUEo3SCJLMktYNTJSPlQoEgYqFy09FCgSChwXGgErKBcCHB4WPQ==/index.m3u8
-8. https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYLJEtMMiFUCkRdIjJSQTRER0JXREZUVDtSRAYOUko0NU9XVARLUEo3SCJLMktYNTJSPlQoEgYqFy09FCgSChwXGgErKBcCHB4WAg==/index.m3u8
-9. https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYLJEtMMiFUCkRdIjJSQTRER0JXREZUVDtSRAYOUko0NU9XVARLUEo3SCJLMktYNTJSPlQoEgYqFywCHB4TChcpLAMRERAHFQ==/index.m3u8
-10. https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYLJEtMMiFUCkRdIjJSQTRER0JXREZUVDtSRAYOUko0NU9XVARLUEo3SCJLMktYNTJSPlQoEgYqFy09FCgSChwXGgErKBcCHB4WPQ==/index.m3u8
 ```
