@@ -1,47 +1,25 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-26T20:49:07.046138
+Extraction Time: 2025-09-26T21:13:03.666094
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 30
-- Total Channels: 46
+- Unique Events: 13
+- Total Channels: 18
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
-- Major League Baseball - Chicago Cubs Vs St.Louis Cardinals (...
-  Time: 02:20AM, Channels: 1
-- Major League Baseball - Chicago Cubs Vs St.Louis Cardinals (...
-  Time: 02:20AM, Channels: 1
 - Santino Bros Wrestling - Wxw: Pro Wrestling Grand Prix 2025,...
   Time: 02:00AM, Channels: 1
 - Hexagone - Hexagone - Toulouse, France (09/27/25)
-  Time: 02:30AM, Channels: 2
+  Time: 02:30AM, Channels: 1
 - Hexagone - Hexagone - Toulouse, France (09/27/25) [STREAM 17...
   Time: 02:30AM, Channels: 1
-- Belgian Pro League - Oud-Heverlee Leuven Vs Anderlecht (09/2...
-  Time: 02:45AM, Channels: 1
-- French Ligue 1 - Rc Strasbourg Alsace Vs Marseille (09/27/25...
-  Time: 02:45AM, Channels: 2
-- French Ligue 1 - Rc Strasbourg Alsace Vs Marseille (09/27/25...
-  Time: 02:45AM, Channels: 1
-- English Football League Championship - West Bromwich Albion ...
-  Time: 03:00AM, Channels: 3
-- English Football League Championship - West Bromwich Albion ...
-  Time: 03:00AM, Channels: 1
-- French Division 1 Feminine - Paris Fc Women Vs Rc Saint Etie...
-  Time: 03:00AM, Channels: 2
-- Mls Next Pro - New England Revolution B Vs Crown Legacy Fc (...
-  Time: 03:00AM, Channels: 1
-- Spanish La Liga - Girona Fc Vs Rcd Espanyol De Barcelona (09...
-  Time: 03:00AM, Channels: 6
-- Spanish La Liga - Girona Fc Vs Rcd Espanyol De Barcelona (09...
-  Time: 03:00AM, Channels: 1
 - Portuguese Primera Liga - Benfica Vs Gil Vicente (09/27/25)
-  Time: 03:15AM, Channels: 5
+  Time: 03:15AM, Channels: 4
 - Portuguese Primera Liga - Benfica Vs Gil Vicente (09/27/25) ...
   Time: 03:15AM, Channels: 1
 - Spanish Primera División Rfef - Racing De Ferrol Vs Cd Guada...
@@ -54,21 +32,9 @@ EVENT BREAKDOWN:
   Time: 04:30AM, Channels: 1
 - Peruvian Liga 1 - Atletico Grau Vs Sport Huancayo (09/27/25)
   Time: 04:30AM, Channels: 2
-- S-Cer - Tc3 Llanes | Villa De Llanes Rally (09/27/25)
-  Time: 03:10AM, Channels: 1
-- England: Premiership Rugby - Harlequins Vs Bath (09/27/25)
-  Time: 02:45AM, Channels: 1
-- England: Premiership Rugby - Newcastle Red Bulls Vs Saracens...
-  Time: 02:45AM, Channels: 1
-- England: Super League - Play Offs - Leigh Vs Wakefield (09/2...
-  Time: 03:00AM, Channels: 1
-- France: Pro D2 - Ca Brive Vs Grenoble Fc (09/27/25)
-  Time: 03:00AM, Channels: 1
+- Colombian Torneo Betplay Dimayor - Deportes Quindio Vs Bogot...
+  Time: 05:00AM, Channels: 1
 - World: United Rugby Championship - Glasgow Warriors Vs Shark...
-  Time: 03:05AM, Channels: 1
-- World: United Rugby Championship - Ulster Vs Dragons (09/27/...
   Time: 03:05AM, Channels: 1
 - Pádel Premier Padel 2025 - Ustero/Araujo - Salazar/Calvo (09...
   Time: 11:00PM, Channels: 1
-- World Championship - Vero Volley Milano Vs Pallavolo Scandic...
-  Time: 02:30AM, Channels: 1
