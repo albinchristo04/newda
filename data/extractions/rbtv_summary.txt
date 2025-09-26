@@ -1,66 +1,13 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-25T23:48:55.372303
+Extraction Time: 2025-09-26T01:10:37.660523
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 26
-- Total Channels: 30
+- Unique Events: 0
+- Total Channels: 0
 - Individual Streams: 0
-- Media Segments: 0
+- Media Segments: 177
 - Other Events: 0
 
-EVENT BREAKDOWN:
-- Usa: Nfl - Thursday Vs Night Football (09/26/25)
-  Time: 06:00AM, Channels: 1
-- Usa: Ncaa - Army West Point Vs East Carolina (09/26/25)
-  Time: 07:30AM, Channels: 1
-- Major League Baseball - Philadelphia Phillies Vs Miami Marli...
-  Time: 06:05AM, Channels: 1
-- Major League Baseball - Philadelphia Phillies Vs Miami Marli...
-  Time: 06:05AM, Channels: 1
-- Major League Baseball - Cleveland Guardians Vs Detroit Tiger...
-  Time: 06:40AM, Channels: 1
-- Major League Baseball - Cleveland Guardians Vs Detroit Tiger...
-  Time: 06:40AM, Channels: 1
-- Major League Baseball - New York Yankees Vs Chicago White So...
-  Time: 07:05AM, Channels: 1
-- Major League Baseball - New York Yankees Vs Chicago White So...
-  Time: 07:05AM, Channels: 1
-- Major League Baseball - Toronto Blue Jays Vs Boston Red Sox ...
-  Time: 07:07AM, Channels: 1
-- Major League Baseball - Toronto Blue Jays Vs Boston Red Sox ...
-  Time: 07:07AM, Channels: 1
-- Major League Baseball - Chicago Cubs Vs New York Mets (09/26...
-  Time: 07:40AM, Channels: 1
-- Major League Baseball - Chicago Cubs Vs New York Mets (09/26...
-  Time: 07:40AM, Channels: 1
-- Chile Liga Nacional Basketball - Chile Boston College Vs Uni...
-  Time: 06:30AM, Channels: 1
-- Chile Liga Nacional Basketball - Cd Puerto Varas Vs Las Anim...
-  Time: 07:00AM, Channels: 1
-- Chile Liga Nacional Basketball - Colo Colo Vs Colegio Los Le...
-  Time: 07:00AM, Channels: 1
-- Argentinian Liga Nacional De Bosquetbol - Platense Vs Ferro ...
-  Time: 07:30AM, Channels: 1
-- Chile Liga Nacional Basketball - Valdivia Vs Universidad Con...
-  Time: 07:30AM, Channels: 1
-- Brazilian Serie B - Coritiba Pr Vs Criciuma (09/26/25)
-  Time: 06:00AM, Channels: 2
-- Conmebol Copa Libertadores - Sao Paulo Vs Liga Dep Universit...
-  Time: 06:00AM, Channels: 4
-- Conmebol Copa Libertadores - Sao Paulo Vs Liga Dep Universit...
-  Time: 06:00AM, Channels: 1
-- Mls Next Pro - Cincinnati Ii Vs Columbus Crew B (09/26/25)
-  Time: 07:30AM, Channels: 1
-- Nhl Preseason - Montreal Canadiens Vs Toronto Maple Leafs (0...
-  Time: 07:00AM, Channels: 1
-- Nhl Preseason - New York Rangers Vs New York Islanders (09/2...
-  Time: 07:00AM, Channels: 1
-- Nhl Preseason - New York Rangers Vs New York Islanders (09/2...
-  Time: 07:00AM, Channels: 1
-- Nhl Preseason - Washington Capitals Vs Philadelphia Flyers (...
-  Time: 07:00AM, Channels: 1
-- Nascar Cup Series - Nhra Sportsman Series Reading (09/26/25)
-  Time: 06:00AM, Channels: 1

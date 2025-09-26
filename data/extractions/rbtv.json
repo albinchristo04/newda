@@ -1,692 +1,1249 @@
 {
-  "timestamp": "2025-09-25T23:48:55.372303",
+  "timestamp": "2025-09-26T01:10:37.660523",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
-  "segments": [],
-  "events": [
+  "segments": [
     {
-      "event_time": "06:00AM",
-      "event_date": "09/26/25",
-      "channel_name": "HDD A",
-      "event_title": "Usa: Nfl - Thursday Vs Night Football (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/VEYEH1IfAQ1SPlRTSyQ3MkdQPlY1JlQLSFpNM1IXNDY3UUZLT0IoViwKKhMsAhweEgcRFSwDERETACs=/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
-      "group_title": "AMERICAN FOOTBALL"
+      "group_title": "AMERICAN FOOTBALL",
+      "title": "Usa: Ncaa - Army West Point Vs East Carolina [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/VEYEH1IfBgYCQihWAiFKPFJKQjI3QlU2SF0xVjUmVAJAJjFWAFA3Nk9YS0RSPlQoGjwRKBIKHBYXBxAoEwcTFxYC/index.m3u8"
     },
     {
-      "event_time": "07:30AM",
-      "event_date": "09/26/25",
-      "channel_name": "HDD A",
-      "event_title": "Usa: Ncaa - Army West Point Vs East Carolina (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/VEYEH1IfBgYCQihWAiFKPFJKQjI3QlU2SF0xVjUmVAJAJjFWAFA3Nk9YS0RSPlQoGjwRKBIKHBYXBxAoEwcTFxYC/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
-      "group_title": "AMERICAN FOOTBALL"
+      "group_title": "AMERICAN FOOTBALL",
+      "title": "Usa: Ncaa - Army West Point Vs East Carolina [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/VEYEH1IfBgYCQihWAiFKPFJKQjI3QlU2SF0xVjUmVAJAJjFWAFA3Nk9YS0RSPlQoGjwRKBIKHBYXBxAoEwcTFxYC/index.m3u8"
     },
     {
-      "event_time": "06:05AM",
-      "event_date": "09/26/25",
-      "channel_name": "HDK A",
-      "event_title": "Major League Baseball - Philadelphia Phillies Vs Miami Marlins (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWU1tOS0BXQkszW05EUkNNTE9fTkA2QjMyUh5ORExYVApAIUlMTSZUKlI8FygXPBQeGj0rERo8FRMVAxYW/index.m3u8",
-      "duration": null,
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
+      "group_title": "AMERICAN FOOTBALL",
+      "title": "Usa: Ncaa - Army West Point Vs East Carolina [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/VEYEH1IfBgYCQihWAiFKPFJKQjI3QlU2SF0xVjUmVAJAJjFWAFA3Nk9YS0RSPlQoGjwRKBIKHBYXBxAoEwcTFxYC/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
+      "group_title": "AMERICAN FOOTBALL",
+      "title": "Usa: Nfl - Arizona Cardinals Vs Seattle Seahawks [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/VEYEH1IfAQ1SPlQGMVg_Nk1QVARAIUFMTVBJMlIlMFZWVEYzN19CVlZURk9AKkgyUj5UKBo8ESgSChwpFgQSKBMHExcXCg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
+      "group_title": "AMERICAN FOOTBALL",
+      "title": "Usa: Nfl - Arizona Cardinals Vs Seattle Seahawks [STREAM 20[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/VEYEH1IfAQ1SPlQGMVg_Nk1QVARAIUFMTVBJMlIlMFZWVEYzN19CVlZURk9AKkgyUj5UKBo8FSgSChwpFgQSKBMHExcUAA==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
+      "group_title": "AMERICAN FOOTBALL",
+      "title": "Usa: Nfl - Arizona Cardinals Vs Seattle Seahawks [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/VEYEH1IfAQ1SPlQGMVg_Nk1QVARAIUFMTVBJMlIlMFZWVEYzN19CVlZURk9AKkgyUj5UKBo8ESgSChwpFgQSKBMHExcXCg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
+      "group_title": "AMERICAN FOOTBALL",
+      "title": "Usa: Nfl - Arizona Cardinals Vs Seattle Seahawks [STREAM 20[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/VEYEH1IfAQ1SPlQGMVg_Nk1QVARAIUFMTVBJMlIlMFZWVEYzN19CVlZURk9AKkgyUj5UKBo8FSgSChwpFgQSKBMHExcUAA==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
+      "group_title": "AMERICAN FOOTBALL",
+      "title": "Usa: Nfl - Arizona Cardinals Vs Seattle Seahawks [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/VEYEH1IfAQ1SPlQGMVg_Nk1QVARAIUFMTVBJMlIlMFZWVEYzN19CVlZURk9AKkgyUj5UKBo8ESgSChwpFgQSKBMHExcXCg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
+      "group_title": "AMERICAN FOOTBALL",
+      "title": "Usa: Nfl - Arizona Cardinals Vs Seattle Seahawks [STREAM 20[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/VEYEH1IfAQ1SPlQGMVg_Nk1QVARAIUFMTVBJMlIlMFZWVEYzN19CVlZURk9AKkgyUj5UKBo8FSgSChwpFgQSKBMHExcUAA==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
+      "group_title": "AMERICAN FOOTBALL",
+      "title": "Usa: Nfl - Thursday Vs Night Football [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/VEYEH1IfAQ1SPlRTSyQ3MkdQPlY1JlQLSFpNM1IXNDY3UUZLT0IoViwKKhMsAhweEgcRFSwDERETACs=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
+      "group_title": "AMERICAN FOOTBALL",
+      "title": "Usa: Nfl - Thursday Vs Night Football [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/VEYEH1IfAQ1SPlRTSyQ3MkdQPlY1JlQLSFpNM1IXNDY3UUZLT0IoViwKKhMsAhweEgcRFSwDERETACs=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
+      "group_title": "AMERICAN FOOTBALL",
+      "title": "Usa: Nfl - Thursday Vs Night Football [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/VEYEH1IfAQ1SPlRTSyQ3MkdQPlY1JlQLSFpNM1IXNDY3UUZLT0IoViwKKhMsAhweEgcRFSwDERETACs=/index.m3u8"
+    },
+    {
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-      "group_title": "BASEBALL"
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Chicago Cubs Vs New York Mets [HDK A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFtOQkBaNFYAJEcyUiUwVg9UPFZYIjdKUh5CMzZCKFYsASoTLAIcHi09HBQsAxEREwYR/index.m3u8"
     },
     {
-      "event_time": "06:05AM",
-      "event_date": "09/26/25",
-      "event_title": "Major League Baseball - Philadelphia Phillies Vs Miami Marlins (09/26/25) [STREAM 42[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWU1tOS0BXQkszW05EUkNNTE9fTkA2QjMyUh5ORExYVApAIUlMTSZUKlI8FygTPBQeGj0rERo8FRMVAxUe/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-      "group_title": "BASEBALL"
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Chicago Cubs Vs New York Mets [STREAM 48[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFtOQkBaNFYAJEcyUiUwVg9UPFZYIjdKUh5CMzZCKFYsASoXLAIcHi09HBQsAxEREwYQ/index.m3u8"
     },
     {
-      "event_time": "06:40AM",
-      "event_date": "09/26/25",
-      "channel_name": "HDK A",
-      "event_title": "Major League Baseball - Cleveland Guardians Vs Detroit Tigers (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAF9CMURfRklHQgIwQCFBTEBdMFY1JlQFRCc3NkgnVFNIWkI1NkIoViwBKhMsAhweLT0cKSwDERETABA=/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-      "group_title": "BASEBALL"
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Chicago Cubs Vs New York Mets [HDK A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFtOQkBaNFYAJEcyUiUwVg9UPFZYIjdKUh5CMzZCKFYsASoTLAIcHi09HBQsAxEREwYR/index.m3u8"
     },
     {
-      "event_time": "06:40AM",
-      "event_date": "09/26/25",
-      "event_title": "Major League Baseball - Cleveland Guardians Vs Detroit Tigers (09/26/25) [STREAM 15[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAF9CMURfRklHQgIwQCFBTEBdMFY1JlQFRCc3NkgnVFNIWkI1NkIoViwBKhcsAhweLT0cKSwDERETABc=/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-      "group_title": "BASEBALL"
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Chicago Cubs Vs New York Mets [STREAM 48[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFtOQkBaNFYAJEcyUiUwVg9UPFZYIjdKUh5CMzZCKFYsASoXLAIcHi09HBQsAxEREwYQ/index.m3u8"
     },
     {
-      "event_time": "07:05AM",
-      "event_date": "09/26/25",
-      "channel_name": "HDK A",
-      "event_title": "Major League Baseball - New York Yankees Vs Chicago White Sox (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWD1Q8VlgiN0pSSEZJTlRCMlIlMFYAW05CQFo0VlpbTjNEQlA2O0IoViwBKhMsAhweLT0cFiwDERETARY=/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-      "group_title": "BASEBALL"
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Chicago Cubs Vs New York Mets [HDK A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFtOQkBaNFYAJEcyUiUwVg9UPFZYIjdKUh5CMzZCKFYsASoTLAIcHi09HBQsAxEREwYR/index.m3u8"
     },
     {
-      "event_time": "07:05AM",
-      "event_date": "09/26/25",
-      "event_title": "Major League Baseball - New York Yankees Vs Chicago White Sox (09/26/25) [STREAM 44[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWD1Q8VlgiN0pSSEZJTlRCMlIlMFYAW05CQFo0VlpbTjNEQlA2O0IoViwBKhcsAhweLT0cFiwDERETASs=/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-      "group_title": "BASEBALL"
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Chicago Cubs Vs New York Mets [STREAM 48[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFtOQkBaNFYAJEcyUiUwVg9UPFZYIjdKUh5CMzZCKFYsASoXLAIcHi09HBQsAxEREwYQ/index.m3u8"
     },
     {
-      "event_time": "07:07AM",
-      "event_date": "09/26/25",
-      "channel_name": "HDK A",
-      "event_title": "Major League Baseball - Toronto Blue Jays Vs Boston Red Sox (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVyI3Nk0nNFYDXzJAUhtGPDZCMzJSEzQyNyJLVlFUQVZWIj1WLkIqFSwHKhYaCispGgMqFxcFFRUV/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-      "group_title": "BASEBALL"
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Cleveland Guardians Vs Detroit Tigers [HDK A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAF9CMURfRklHQgIwQCFBTEBdMFY1JlQFRCc3NkgnVFNIWkI1NkIoViwBKhMsAhweLT0cKSwDERETABA=/index.m3u8"
     },
     {
-      "event_time": "07:07AM",
-      "event_date": "09/26/25",
-      "event_title": "Major League Baseball - Toronto Blue Jays Vs Boston Red Sox (09/26/25) [STREAM 18[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVyI3Nk0nNFYDXzJAUhtGPDZCMzJSEzQyNyJLVlFUQVZWIj1WLkIqFSwDKhYaCispGgMqFxcFFRUS/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-      "group_title": "BASEBALL"
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Cleveland Guardians Vs Detroit Tigers [STREAM 15[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAF9CMURfRklHQgIwQCFBTEBdMFY1JlQFRCc3NkgnVFNIWkI1NkIoViwBKhcsAhweLT0cKSwDERETABc=/index.m3u8"
     },
     {
-      "event_time": "07:40AM",
-      "event_date": "09/26/25",
-      "channel_name": "HDK A",
-      "event_title": "Major League Baseball - Chicago Cubs Vs New York Mets (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFtOQkBaNFYAJEcyUiUwVg9UPFZYIjdKUh5CMzZCKFYsASoTLAIcHi09HBQsAxEREwYR/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-      "group_title": "BASEBALL"
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Cleveland Guardians Vs Detroit Tigers [HDK A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAF9CMURfRklHQgIwQCFBTEBdMFY1JlQFRCc3NkgnVFNIWkI1NkIoViwBKhMsAhweLT0cKSwDERETABA=/index.m3u8"
     },
     {
-      "event_time": "07:40AM",
-      "event_date": "09/26/25",
-      "event_title": "Major League Baseball - Chicago Cubs Vs New York Mets (09/26/25) [STREAM 48[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFtOQkBaNFYAJEcyUiUwVg9UPFZYIjdKUh5CMzZCKFYsASoXLAIcHi09HBQsAxEREwYQ/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-      "group_title": "BASEBALL"
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Cleveland Guardians Vs Detroit Tigers [STREAM 15[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAF9CMURfRklHQgIwQCFBTEBdMFY1JlQFRCc3NkgnVFNIWkI1NkIoViwBKhcsAhweLT0cKSwDERETABc=/index.m3u8"
     },
     {
-      "event_time": "06:30AM",
-      "event_date": "09/26/25",
-      "channel_name": "SD",
-      "event_title": "Chile Liga Nacional Basketball - Chile Boston College Vs Universidad Catolica (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AFtOS0RCD0xKUFQLQFZONk1QSVYDUDBKRCdHRE9fVCpSEE1MT1RUBzImMTZNQgY2T19CTkRCMzJSREtMNVQ3MkhXRkNSEEYzMl9OQkBCKFYsAyoULAIcHhMAHBEsAxEREwAW/index.m3u8",
-      "duration": null,
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Cleveland Guardians Vs Detroit Tigers [HDK A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAF9CMURfRklHQgIwQCFBTEBdMFY1JlQFRCc3NkgnVFNIWkI1NkIoViwBKhMsAhweLT0cKSwDERETABA=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Cleveland Guardians Vs Detroit Tigers [STREAM 15[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAF9CMURfRklHQgIwQCFBTEBdMFY1JlQFRCc3NkgnVFNIWkI1NkIoViwBKhcsAhweLT0cKSwDERETABc=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - New York Yankees Vs Chicago White Sox [HDK A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWD1Q8VlgiN0pSSEZJTlRCMlIlMFYAW05CQFo0VlpbTjNEQlA2O0IoViwBKhMsAhweLT0cFiwDERETARY=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - New York Yankees Vs Chicago White Sox [STREAM 44[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWD1Q8VlgiN0pSSEZJTlRCMlIlMFYAW05CQFo0VlpbTjNEQlA2O0IoViwBKhcsAhweLT0cFiwDERETASs=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - New York Yankees Vs Chicago White Sox [HDK A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWD1Q8VlgiN0pSSEZJTlRCMlIlMFYAW05CQFo0VlpbTjNEQlA2O0IoViwBKhMsAhweLT0cFiwDERETARY=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - New York Yankees Vs Chicago White Sox [STREAM 44[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWD1Q8VlgiN0pSSEZJTlRCMlIlMFYAW05CQFo0VlpbTjNEQlA2O0IoViwBKhcsAhweLT0cFiwDERETASs=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - New York Yankees Vs Chicago White Sox [HDK A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWD1Q8VlgiN0pSSEZJTlRCMlIlMFYAW05CQFo0VlpbTjNEQlA2O0IoViwBKhMsAhweLT0cFiwDERETARY=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - New York Yankees Vs Chicago White Sox [STREAM 44[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWD1Q8VlgiN0pSSEZJTlRCMlIlMFYAW05CQFo0VlpbTjNEQlA2O0IoViwBKhcsAhweLT0cFiwDERETASs=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Philadelphia Phillies Vs Miami Marlins [HDK A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWU1tOS0BXQkszW05EUkNNTE9fTkA2QjMyUh5ORExYVApAIUlMTSZUKlI8FygXPBQeGj0rERo8FRMVAxYW/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Philadelphia Phillies Vs Miami Marlins [STREAM 42[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWU1tOS0BXQkszW05EUkNNTE9fTkA2QjMyUh5ORExYVApAIUlMTSZUKlI8FygTPBQeGj0rERo8FRMVAxUe/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Philadelphia Phillies Vs Miami Marlins [HDK A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWU1tOS0BXQkszW05EUkNNTE9fTkA2QjMyUh5ORExYVApAIUlMTSZUKlI8FygXPBQeGj0rERo8FRMVAxYW/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Philadelphia Phillies Vs Miami Marlins [STREAM 42[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWU1tOS0BXQkszW05EUkNNTE9fTkA2QjMyUh5ORExYVApAIUlMTSZUKlI8FygTPBQeGj0rERo8FRMVAxUe/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Philadelphia Phillies Vs Miami Marlins [HDK A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWU1tOS0BXQkszW05EUkNNTE9fTkA2QjMyUh5ORExYVApAIUlMTSZUKlI8FygXPBQeGj0rERo8FRMVAxYW/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Philadelphia Phillies Vs Miami Marlins [STREAM 42[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWU1tOS0BXQkszW05EUkNNTE9fTkA2QjMyUh5ORExYVApAIUlMTSZUKlI8FygTPBQeGj0rERo8FRMVAxUe/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Toronto Blue Jays Vs Boston Red Sox [HDK A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVyI3Nk0nNFYDXzJAUhtGPDZCMzJSEzQyNyJLVlFUQVZWIj1WLkIqFSwHKhYaCispGgMqFxcFFRUV/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Toronto Blue Jays Vs Boston Red Sox [STREAM 18[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVyI3Nk0nNFYDXzJAUhtGPDZCMzJSEzQyNyJLVlFUQVZWIj1WLkIqFSwDKhYaCispGgMqFxcFFRUS/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Toronto Blue Jays Vs Boston Red Sox [HDK A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVyI3Nk0nNFYDXzJAUhtGPDZCMzJSEzQyNyJLVlFUQVZWIj1WLkIqFSwHKhYaCispGgMqFxcFFRUV/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Toronto Blue Jays Vs Boston Red Sox [STREAM 18[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVyI3Nk0nNFYDXzJAUhtGPDZCMzJSEzQyNyJLVlFUQVZWIj1WLkIqFSwDKhYaCispGgMqFxcFFRUS/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Toronto Blue Jays Vs Boston Red Sox [HDK A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVyI3Nk0nNFYDXzJAUhtGPDZCMzJSEzQyNyJLVlFUQVZWIj1WLkIqFSwHKhYaCispGgMqFxcFFRUV/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Toronto Blue Jays Vs Boston Red Sox [STREAM 18[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVyI3Nk0nNFYDXzJAUhtGPDZCMzJSEzQyNyJLVlFUQVZWIj1WLkIqFSwDKhYaCispGgMqFxcFFRUS/index.m3u8"
+    },
+    {
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
+      "group_title": "BASKETBALL",
+      "title": "Argentinian Liga Nacional De Bosquetbol - Platense Vs Ferro Carril Oeste [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AiFMQE0nTklIUEtWCVhMRFIfRkJIIktET0JBQFITNDIwJEIzQSJJVi5CVUtAJ0JJNlRUMTZCAUAxITRWAFA3NUhfVAhEJjFAUj5UKBM8FigSChwXEAQrKBMHExcWAQ==/index.m3u8"
     },
     {
-      "event_time": "07:00AM",
-      "event_date": "09/26/25",
-      "channel_name": "SD",
-      "event_title": "Chile Liga Nacional Basketball - Cd Puerto Varas Vs Las Animas (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AFtOS0RCD0xKUFQLQFZONk1QSVYDUDBKRCdHRE9fVCpSEAdWUyRCNTciVFFAIUYyUiUwVglQMFYCXU5IQCZUKlI8FSgQPBQeGgMXKRE8FRMVAxYQ/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
+      "group_title": "BASKETBALL",
+      "title": "Argentinian Liga Nacional De Bosquetbol - Platense Vs Ferro Carril Oeste [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AiFMQE0nTklIUEtWCVhMRFIfRkJIIktET0JBQFITNDIwJEIzQSJJVi5CVUtAJ0JJNlRUMTZCAUAxITRWAFA3NUhfVAhEJjFAUj5UKBM8FigSChwXEAQrKBMHExcWAQ==/index.m3u8"
     },
     {
-      "event_time": "07:00AM",
-      "event_date": "09/26/25",
-      "channel_name": "SD",
-      "event_title": "Chile Liga Nacional Basketball - Colo Colo Vs Colegio Los Leones (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AFtOS0RCD0xKUFQLQFZONk1QSVYDUDBKRCdHRE9fVCpSEDRLMkIGNk8iVDE2QgY2T1RMTDJCDzY2Qg9AMl1CMlI-VCgTPBYoEgocFxE9FSgTBxMXEAU=/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
+      "group_title": "BASKETBALL",
+      "title": "Argentinian Liga Nacional De Bosquetbol - Platense Vs Ferro Carril Oeste [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AiFMQE0nTklIUEtWCVhMRFIfRkJIIktET0JBQFITNDIwJEIzQSJJVi5CVUtAJ0JJNlRUMTZCAUAxITRWAFA3NUhfVAhEJjFAUj5UKBM8FigSChwXEAQrKBMHExcWAQ==/index.m3u8"
     },
     {
-      "event_time": "07:30AM",
-      "event_date": "09/26/25",
-      "channel_name": "SD",
-      "event_title": "Argentinian Liga Nacional De Bosquetbol - Platense Vs Ferro Carril Oeste (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AiFMQE0nTklIUEtWCVhMRFIfRkJIIktET0JBQFITNDIwJEIzQSJJVi5CVUtAJ0JJNlRUMTZCAUAxITRWAFA3NUhfVAhEJjFAUj5UKBM8FigSChwXEAQrKBMHExcWAQ==/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
+      "group_title": "BASKETBALL",
+      "title": "Argentinian Liga Nacional De Bosquetbol - Union De Formosa Vs Regatas De Corrientes [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AiFMQE0nTklIUEtWCVhMRFIfRkJIIktET0JBQFITNDIwJEIzQSJJVi5CUklIIktWR1RUAzIhSjY2UFQxNkJXQEpQMUQ2QkFAUhA0NTFYQkk3VDBWLkIqFywAKhYaChUUFAIqFxcFFRIV/index.m3u8"
     },
     {
-      "event_time": "07:30AM",
-      "event_date": "09/26/25",
-      "channel_name": "SD",
-      "event_title": "Chile Liga Nacional Basketball - Valdivia Vs Universidad Concepcion (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AFtOS0RCD0xKUFQLQFZONk1QSVYDUDBKRCdHRE9fVCpSRUZLR1gzTEBCMzJSREtMNVQ3MkhXRkNSEDRJRlQ1QkgiS1YuQioXLAAqFhoKFRUtBSoXFwUVEhA=/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
+      "group_title": "BASKETBALL",
+      "title": "Argentinian Liga Nacional De Bosquetbol - Union De Formosa Vs Regatas De Corrientes [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AiFMQE0nTklIUEtWCVhMRFIfRkJIIktET0JBQFITNDIwJEIzQSJJVi5CUklIIktWR1RUAzIhSjY2UFQxNkJXQEpQMUQ2QkFAUhA0NTFYQkk3VDBWLkIqFywAKhYaChUUFAIqFxcFFRIV/index.m3u8"
     },
     {
-      "event_time": "06:00AM",
-      "event_date": "09/26/25",
-      "channel_name": "SDK A",
-      "event_title": "Brazilian Serie B - Coritiba Pr Vs Criciuma (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AyFGPUhfTkRNQlBAMVhCVgNCKFYAIjdMN1hHRFJDV1Y1JlQEMVhATDRcRlYuQioWLAcqFRIGFBIaACoULQAWES0=/index.m3u8",
-      "duration": null,
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Argentinian Liga Nacional De Bosquetbol - Union De Formosa Vs Regatas De Corrientes [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AiFMQE0nTklIUEtWCVhMRFIfRkJIIktET0JBQFITNDIwJEIzQSJJVi5CUklIIktWR1RUAzIhSjY2UFQxNkJXQEpQMUQ2QkFAUhA0NTFYQkk3VDBWLkIqFywAKhYaChUUFAIqFxcFFRIV/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Chile Liga Nacional Basketball - Valdivia Vs Universidad Concepcion [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AFtOS0RCD0xKUFQLQFZONk1QSVYDUDBKRCdHRE9fVCpSRUZLR1gzTEBCMzJSREtMNVQ3MkhXRkNSEDRJRlQ1QkgiS1YuQioXLAAqFhoKFRUtBSoXFwUVEhA=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Chile Liga Nacional Basketball - Valdivia Vs Universidad Concepcion [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AFtOS0RCD0xKUFQLQFZONk1QSVYDUDBKRCdHRE9fVCpSRUZLR1gzTEBCMzJSREtMNVQ3MkhXRkNSEDRJRlQ1QkgiS1YuQioXLAAqFhoKFRUtBSoXFwUVEhA=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Chile Liga Nacional Basketball - Valdivia Vs Universidad Concepcion [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AFtOS0RCD0xKUFQLQFZONk1QSVYDUDBKRCdHRE9fVCpSRUZLR1gzTEBCMzJSREtMNVQ3MkhXRkNSEDRJRlQ1QkgiS1YuQioXLAAqFhoKFRUtBSoXFwUVEhA=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
+      "group_title": "FIGHTING",
+      "title": "Santino Bros Wrestling - Impact Wrestling [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/VlBLM0hdNFYDITQyUko3QDYnSUxNWlQqUhoIVwIQUVZaIUIyN19OSUpCKFYsAhcoFzwUHhoDFxYUPBUTFQMQHg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
+      "group_title": "FIGHTING",
+      "title": "Santino Bros Wrestling - Impact Wrestling [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/VlBLM0hdNFYDITQyUko3QDYnSUxNWlQqUhoIVwIQUVZaIUIyN19OSUpCKFYsAhcoFzwUHhoDFxYUPBUTFQMQHg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
+      "group_title": "FIGHTING",
+      "title": "Santino Bros Wrestling - Impact Wrestling [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/VlBLM0hdNFYDITQyUko3QDYnSUxNWlQqUhoIVwIQUVZaIUIyN19OSUpCKFYsAhcoFzwUHhoDFxYUPBUTFQMQHg==/index.m3u8"
+    },
+    {
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Bolivian Primera Division - Real Oruro Vs Club Guabira [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AyJJTDVYRklSQzdMTFQ3RFIRTjFIJk42TUIoVlFURktSHDcwMSJUMTZCBks0UVQANFBHTDFQVCpSPBQoEDwXFxUEFBEaPBYpEAATFQ==/index.m3u8"
     },
     {
-      "event_time": "06:00AM",
-      "event_date": "09/26/25",
-      "channel_name": "SD",
-      "event_title": "Brazilian Serie B - Coritiba Pr Vs Criciuma (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AyFGPUhfTkRNQlBAMVhCVgNCKFYAIjdMN1hHRFJDV1Y1JlQEMVhATDRcRlYuQioWLAAqFRIGFBIaACoULQAWEBU=/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Bolivian Primera Division - Real Oruro Vs Club Guabira [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AyJJTDVYRklSQzdMTFQ3RFIRTjFIJk42TUIoVlFURktSHDcwMSJUMTZCBks0UVQANFBHTDFQVCpSPBQoEDwXFxUEFBEaPBYpEAATFQ==/index.m3u8"
     },
     {
-      "event_time": "06:00AM",
-      "event_date": "09/26/25",
-      "channel_name": "LALIGA",
-      "event_title": "Conmebol Copa Libertadores - Sao Paulo Vs Liga Dep Universitaria Quito (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlJGRjZSQ0YwTyJUMTZCD0xKUFQFRCNUUE1YM0AxJk4zQCFORFJAMkw3IlQqUjwUKBM9KxYsARUTEz0rFCwHFB4WAxQ=/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Bolivian Primera Division - Real Oruro Vs Club Guabira [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AyJJTDVYRklSQzdMTFQ3RFIRTjFIJk42TUIoVlFURktSHDcwMSJUMTZCBks0UVQANFBHTDFQVCpSPBQoEDwXFxUEFBEaPBYpEAATFQ==/index.m3u8"
     },
     {
-      "event_time": "06:00AM",
-      "event_date": "09/26/25",
-      "channel_name": "HDD A",
-      "event_title": "Conmebol Copa Libertadores - Sao Paulo Vs Liga Dep Universitaria Quito (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlJGRjZSQ0YwTyJUMTZCD0xKUFQFRCNUUE1YM0AxJk4zQCFORFJAMkw3IlQqUjwUKBc8FxcXAyspEDwWKRAAEhI=/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Brazilian Serie B - Atletico Clube Goianiense Vs America Mg [SDK A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AyFGPUhfTkRNQlBAMVhCVgNCKFYCJ0lAN1hANlIQSTBBVFQAMlhGSUhUSzJEQjMyUhJKQDFYQERSHgJWLkIqFiwHKhUSBhQSGgEqFC0AFh4a/index.m3u8"
     },
     {
-      "event_time": "06:00AM",
-      "event_date": "09/26/25",
-      "channel_name": "HDD B ESPA\u00d1OL",
-      "event_title": "Conmebol Copa Libertadores - Sao Paulo Vs Liga Dep Universitaria Quito (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlJGRjZSQ0YwTyJUMTZCD0xKUFQFRCNUUE1YM0AxJk4zQCFORFJAMkw3IlQqUjwUKBc8FxcXAyspEDwWKRAAEhM=/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Brazilian Serie B - Atletico Clube Goianiense Vs America Mg [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AyFGPUhfTkRNQlBAMVhCVgNCKFYCJ0lAN1hANlIQSTBBVFQAMlhGSUhUSzJEQjMyUhJKQDFYQERSHgJWLkIqFiwAKhUSBhQSGgEqFC0AFhEV/index.m3u8"
     },
     {
-      "event_time": "06:00AM",
-      "event_date": "09/26/25",
-      "event_title": "Conmebol Copa Libertadores - Sao Paulo Vs Liga Dep Universitaria Quito (09/26/25) [STREAM 1[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlJGRjZSQ0YwTyJUMTZCD0xKUFQFRCNUUE1YM0AxJk4zQCFORFJAMkw3IlQqUjwUKBM8FxcXAyspEDwWKRAAEh4=/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Brazilian Serie B - Atletico Clube Goianiense Vs America Mg [SDK A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AyFGPUhfTkRNQlBAMVhCVgNCKFYCJ0lAN1hANlIQSTBBVFQAMlhGSUhUSzJEQjMyUhJKQDFYQERSHgJWLkIqFiwHKhUSBhQSGgEqFC0AFh4a/index.m3u8"
     },
     {
-      "event_time": "06:00AM",
-      "event_date": "09/26/25",
-      "channel_name": "SD",
-      "event_title": "Conmebol Copa Libertadores - Sao Paulo Vs Liga Dep Universitaria Quito (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlJGRjZSQ0YwTyJUMTZCD0xKUFQFRCNUUE1YM0AxJk4zQCFORFJAMkw3IlQqUjwUKBA8FxcXAyspEDwWKRAAEhA=/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Brazilian Serie B - Atletico Clube Goianiense Vs America Mg [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AyFGPUhfTkRNQlBAMVhCVgNCKFYCJ0lAN1hANlIQSTBBVFQAMlhGSUhUSzJEQjMyUhJKQDFYQERSHgJWLkIqFiwAKhUSBhQSGgEqFC0AFhEV/index.m3u8"
     },
     {
-      "event_time": "07:30AM",
-      "event_date": "09/26/25",
-      "channel_name": "SD",
-      "event_title": "Mls Next Pro - Cincinnati Ii Vs Columbus Crew B (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DhlQVg9UPTNSQzc2Uj5UBEhdQExNXUYzSEIMDlIlMFYAIkkwTFEyMlIQN0A6QgVWLkIqFiwAKhUTBRcSFgQqFC0AFhET/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Brazilian Serie B - Atletico Clube Goianiense Vs America Mg [SDK A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AyFGPUhfTkRNQlBAMVhCVgNCKFYCJ0lAN1hANlIQSTBBVFQAMlhGSUhUSzJEQjMyUhJKQDFYQERSHgJWLkIqFiwHKhUSBhQSGgEqFC0AFh4a/index.m3u8"
     },
     {
-      "event_time": "07:00AM",
-      "event_date": "09/26/25",
-      "channel_name": "HDD B",
-      "event_title": "Nhl Preseason - Montreal Canadiens Vs Toronto Maple Leafs (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVg4iSzMxVEZLUhBGSUBXTkBNJlQxNkJRNjEiSzMyQghEM19CVglURkE2QihWLAIUKBc8FB4aPRQSEzwVExUDFxA=/index.m3u8",
-      "duration": null,
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Brazilian Serie B - Atletico Clube Goianiense Vs America Mg [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AyFGPUhfTkRNQlBAMVhCVgNCKFYCJ0lAN1hANlIQSTBBVFQAMlhGSUhUSzJEQjMyUhJKQDFYQERSHgJWLkIqFiwAKhUSBhQSGgEqFC0AFhEV/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Brazilian Serie B - Chapecoense Sc Vs Ava\u00ed Fc [SDK A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AyFGPUhfTkRNQlBAMVhCVgNCKFYAW0Y3RFY0QE0mQlZWEFQxNkIEMUCh2VYHEFQqUjwUKBc8FxYWAhAeEjwWKRAAHBA=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Brazilian Serie B - Chapecoense Sc Vs Ava\u00ed Fc [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AyFGPUhfTkRNQlBAMVhCVgNCKFYAW0Y3RFY0QE0mQlZWEFQxNkIEMUCh2VYHEFQqUjwUKBA8FxYWAhAeEjwWKRAAHBM=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Brazilian Serie B - Chapecoense Sc Vs Ava\u00ed Fc [SDK A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AyFGPUhfTkRNQlBAMVhCVgNCKFYAW0Y3RFY0QE0mQlZWEFQxNkIEMUCh2VYHEFQqUjwUKBc8FxYWAhAeEjwWKRAAHBA=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Brazilian Serie B - Chapecoense Sc Vs Ava\u00ed Fc [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AyFGPUhfTkRNQlBAMVhCVgNCKFYAW0Y3RFY0QE0mQlZWEFQxNkIEMUCh2VYHEFQqUjwUKBA8FxYWAhAeEjwWKRAAHBM=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Brazilian Serie B - Chapecoense Sc Vs Ava\u00ed Fc [SDK A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AyFGPUhfTkRNQlBAMVhCVgNCKFYAW0Y3RFY0QE0mQlZWEFQxNkIEMUCh2VYHEFQqUjwUKBc8FxYWAhAeEjwWKRAAHBA=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Brazilian Serie B - Chapecoense Sc Vs Ava\u00ed Fc [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AyFGPUhfTkRNQlBAMVhCVgNCKFYAW0Y3RFY0QE0mQlZWEFQxNkIEMUCh2VYHEFQqUjwUKBA8FxYWAhAeEjwWKRAAHBM=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Cfu Club Championship - National Defense Forces Vs Weymouth Wales [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABdSVgBfMkVSEE1ETCNONk0mTUwzQihWD1AxTDJdRktSEUJBRF0wQFIXNDVGVDBWNSZUXkQoSjY0J01WWlBJQDZCKFYsAioULAEVExIBHBIsACsUEAUQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Cfu Club Championship - National Defense Forces Vs Weymouth Wales [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABdSVgBfMkVSEE1ETCNONk0mTUwzQihWD1AxTDJdRktSEUJBRF0wQFIXNDVGVDBWNSZUXkQoSjY0J01WWlBJQDZCKFYsAioULAEVExIBHBIsACsUEAUQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Cfu Club Championship - National Defense Forces Vs Weymouth Wales [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABdSVgBfMkVSEE1ETCNONk0mTUwzQihWD1AxTDJdRktSEUJBRF0wQFIXNDVGVDBWNSZUXkQoSjY0J01WWlBJQDZCKFYsAioULAEVExIBHBIsACsUEAUQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Libertadores - Estudiantes La Plata Vs Cr Flamengo [LALIGA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlIWMDM0V05ETSdCMlIZRlZTX0YzQEIzMlIQV1YHX0ZIRF1MNlI-VCgSPBUpLQIqFRMFFhMWCioTEgoQFBA=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Libertadores - Estudiantes La Plata Vs Cr Flamengo [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlIWMDM0V05ETSdCMlIZRlZTX0YzQEIzMlIQV1YHX0ZIRF1MNlI-VCgSPBEoEQMTFBcGHCgQPRYUGgI=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Libertadores - Estudiantes La Plata Vs Cr Flamengo [HDD B ESPA\u00d1OL]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlIWMDM0V05ETSdCMlIZRlZTX0YzQEIzMlIQV1YHX0ZIRF1MNlI-VCgSPBEoEQMTFBcGHCgQPRYUGgM=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Libertadores - Estudiantes La Plata Vs Cr Flamengo [STREAM 2[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlIWMDM0V05ETSdCMlIZRlZTX0YzQEIzMlIQV1YHX0ZIRF1MNlI-VCgSPBUoEQMTFBcGHCgQPRYUGj0=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Libertadores - Estudiantes La Plata Vs Cr Flamengo [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlIWMDM0V05ETSdCMlIZRlZTX0YzQEIzMlIQV1YHX0ZIRF1MNlI-VCgSPBYoEQMTFBcGHCgQPRYUFQQ=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Libertadores - Estudiantes La Plata Vs Cr Flamengo [LALIGA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlIWMDM0V05ETSdCMlIZRlZTX0YzQEIzMlIQV1YHX0ZIRF1MNlI-VCgSPBUpLQIqFRMFFhMWCioTEgoQFBA=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Libertadores - Estudiantes La Plata Vs Cr Flamengo [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlIWMDM0V05ETSdCMlIZRlZTX0YzQEIzMlIQV1YHX0ZIRF1MNlI-VCgSPBEoEQMTFBcGHCgQPRYUGgI=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Libertadores - Estudiantes La Plata Vs Cr Flamengo [HDD B ESPA\u00d1OL]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlIWMDM0V05ETSdCMlIZRlZTX0YzQEIzMlIQV1YHX0ZIRF1MNlI-VCgSPBEoEQMTFBcGHCgQPRYUGgM=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Libertadores - Estudiantes La Plata Vs Cr Flamengo [STREAM 2[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlIWMDM0V05ETSdCMlIZRlZTX0YzQEIzMlIQV1YHX0ZIRF1MNlI-VCgSPBUoEQMTFBcGHCgQPRYUGj0=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Libertadores - Estudiantes La Plata Vs Cr Flamengo [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlIWMDM0V05ETSdCMlIZRlZTX0YzQEIzMlIQV1YHX0ZIRF1MNlI-VCgSPBYoEQMTFBcGHCgQPRYUFQQ=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Libertadores - Estudiantes La Plata Vs Cr Flamengo [LALIGA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlIWMDM0V05ETSdCMlIZRlZTX0YzQEIzMlIQV1YHX0ZIRF1MNlI-VCgSPBUpLQIqFRMFFhMWCioTEgoQFBA=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Libertadores - Estudiantes La Plata Vs Cr Flamengo [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlIWMDM0V05ETSdCMlIZRlZTX0YzQEIzMlIQV1YHX0ZIRF1MNlI-VCgSPBEoEQMTFBcGHCgQPRYUGgI=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Libertadores - Estudiantes La Plata Vs Cr Flamengo [HDD B ESPA\u00d1OL]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlIWMDM0V05ETSdCMlIZRlZTX0YzQEIzMlIQV1YHX0ZIRF1MNlI-VCgSPBEoEQMTFBcGHCgQPRYUGgM=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Libertadores - Estudiantes La Plata Vs Cr Flamengo [STREAM 2[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlIWMDM0V05ETSdCMlIZRlZTX0YzQEIzMlIQV1YHX0ZIRF1MNlI-VCgSPBUoEQMTFBcGHCgQPRYUGj0=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Libertadores - Estudiantes La Plata Vs Cr Flamengo [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlIWMDM0V05ETSdCMlIZRlZTX0YzQEIzMlIQV1YHX0ZIRF1MNlI-VCgSPBYoEQMTFBcGHCgQPRYUFQQ=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Sudamericana - Universidad De Chile Vs Alianza Lima [LALIGA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEJQMEdQSkAxWEBETVBUKlJES0w1VDcySFdGQ1JXQlYAW05LREIzMlISSUxAXT9EUhlOSEBCKFYsAioXLT0UKBEDExQWBxYoFwIcEhAD/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Sudamericana - Universidad De Chile Vs Alianza Lima [HDD B ESPA\u00d1OL]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEJQMEdQSkAxWEBETVBUKlJES0w1VDcySFdGQ1JXQlYAW05LREIzMlISSUxAXT9EUhlOSEBCKFYsAioTLAEVERAGERQsACsUEAoW/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Sudamericana - Universidad De Chile Vs Alianza Lima [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEJQMEdQSkAxWEBETVBUKlJES0w1VDcySFdGQ1JXQlYAW05LREIzMlISSUxAXT9EUhlOSEBCKFYsAioTLAEVERAGERQsACsUEAoQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Sudamericana - Universidad De Chile Vs Alianza Lima [STREAM 3[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEJQMEdQSkAxWEBETVBUKlJES0w1VDcySFdGQ1JXQlYAW05LREIzMlISSUxAXT9EUhlOSEBCKFYsAioXLAEVERAGERQsACsUEAoX/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Sudamericana - Universidad De Chile Vs Alianza Lima [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEJQMEdQSkAxWEBETVBUKlJES0w1VDcySFdGQ1JXQlYAW05LREIzMlISSUxAXT9EUhlOSEBCKFYsAioULAEVERAGERQsACsUEAUc/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Sudamericana - Universidad De Chile Vs Alianza Lima [LALIGA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEJQMEdQSkAxWEBETVBUKlJES0w1VDcySFdGQ1JXQlYAW05LREIzMlISSUxAXT9EUhlOSEBCKFYsAioXLT0UKBEDExQWBxYoFwIcEhAD/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Sudamericana - Universidad De Chile Vs Alianza Lima [HDD B ESPA\u00d1OL]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEJQMEdQSkAxWEBETVBUKlJES0w1VDcySFdGQ1JXQlYAW05LREIzMlISSUxAXT9EUhlOSEBCKFYsAioTLAEVERAGERQsACsUEAoW/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Sudamericana - Universidad De Chile Vs Alianza Lima [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEJQMEdQSkAxWEBETVBUKlJES0w1VDcySFdGQ1JXQlYAW05LREIzMlISSUxAXT9EUhlOSEBCKFYsAioTLAEVERAGERQsACsUEAoQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Sudamericana - Universidad De Chile Vs Alianza Lima [STREAM 3[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEJQMEdQSkAxWEBETVBUKlJES0w1VDcySFdGQ1JXQlYAW05LREIzMlISSUxAXT9EUhlOSEBCKFYsAioXLAEVERAGERQsACsUEAoX/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Sudamericana - Universidad De Chile Vs Alianza Lima [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEJQMEdQSkAxWEBETVBUKlJES0w1VDcySFdGQ1JXQlYAW05LREIzMlISSUxAXT9EUhlOSEBCKFYsAioULAEVERAGERQsACsUEAUc/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Sudamericana - Universidad De Chile Vs Alianza Lima [LALIGA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEJQMEdQSkAxWEBETVBUKlJES0w1VDcySFdGQ1JXQlYAW05LREIzMlISSUxAXT9EUhlOSEBCKFYsAioXLT0UKBEDExQWBxYoFwIcEhAD/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Sudamericana - Universidad De Chile Vs Alianza Lima [HDD B ESPA\u00d1OL]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEJQMEdQSkAxWEBETVBUKlJES0w1VDcySFdGQ1JXQlYAW05LREIzMlISSUxAXT9EUhlOSEBCKFYsAioTLAEVERAGERQsACsUEAoW/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Sudamericana - Universidad De Chile Vs Alianza Lima [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEJQMEdQSkAxWEBETVBUKlJES0w1VDcySFdGQ1JXQlYAW05LREIzMlISSUxAXT9EUhlOSEBCKFYsAioTLAEVERAGERQsACsUEAoQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Sudamericana - Universidad De Chile Vs Alianza Lima [STREAM 3[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEJQMEdQSkAxWEBETVBUKlJES0w1VDcySFdGQ1JXQlYAW05LREIzMlISSUxAXT9EUhlOSEBCKFYsAioXLAEVERAGERQsACsUEAoX/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Sudamericana - Universidad De Chile Vs Alianza Lima [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEJQMEdQSkAxWEBETVBUKlJES0w1VDcySFdGQ1JXQlYAW05LREIzMlISSUxAXT9EUhlOSEBCKFYsAioULAEVERAGERQsACsUEAUc/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Mls Next Pro - Cincinnati Ii Vs Columbus Crew B [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DhlQVg9UPTNSQzc2Uj5UBEhdQExNXUYzSEIMDlIlMFYAIkkwTFEyMlIQN0A6QgVWLkIqFiwAKhUTBRcSFgQqFC0AFhET/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Mls Next Pro - Cincinnati Ii Vs Columbus Crew B [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DhlQVg9UPTNSQzc2Uj5UBEhdQExNXUYzSEIMDlIlMFYAIkkwTFEyMlIQN0A6QgVWLkIqFiwAKhUTBRcSFgQqFC0AFhET/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Mls Next Pro - Cincinnati Ii Vs Columbus Crew B [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DhlQVg9UPTNSQzc2Uj5UBEhdQExNXUYzSEIMDlIlMFYAIkkwTFEyMlIQN0A6QgVWLkIqFiwAKhUTBRcSFgQqFC0AFhET/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Peruvian Liga 1 - Deportivo Garcilaso Vs Utc Cajamarca [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/U1Q3MDVYRklSGU5OQEIUVi5CB0AzIjczSCU0VgRQN0JIX0YyMkIzMlJEUQRSEEZNQFxGNUZQVCpSPBQoFzwXFxUGFBERPBYpEAATEw==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Peruvian Liga 1 - Deportivo Garcilaso Vs Utc Cajamarca [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/U1Q3MDVYRklSGU5OQEIUVi5CB0AzIjczSCU0VgRQN0JIX0YyMkIzMlJEUQRSEEZNQFxGNUZQVCpSPBQoEDwXFxUGFBERPBYpEAATFA==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Peruvian Liga 1 - Deportivo Garcilaso Vs Utc Cajamarca [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/U1Q3MDVYRklSGU5OQEIUVi5CB0AzIjczSCU0VgRQN0JIX0YyMkIzMlJEUQRSEEZNQFxGNUZQVCpSPBQoFzwXFxUGFBERPBYpEAATEw==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Peruvian Liga 1 - Deportivo Garcilaso Vs Utc Cajamarca [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/U1Q3MDVYRklSGU5OQEIUVi5CB0AzIjczSCU0VgRQN0JIX0YyMkIzMlJEUQRSEEZNQFxGNUZQVCpSPBQoEDwXFxUGFBERPBYpEAATFA==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Peruvian Liga 1 - Deportivo Garcilaso Vs Utc Cajamarca [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/U1Q3MDVYRklSGU5OQEIUVi5CB0AzIjczSCU0VgRQN0JIX0YyMkIzMlJEUQRSEEZNQFxGNUZQVCpSPBQoFzwXFxUGFBERPBYpEAATEw==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Peruvian Liga 1 - Deportivo Garcilaso Vs Utc Cajamarca [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/U1Q3MDVYRklSGU5OQEIUVi5CB0AzIjczSCU0VgRQN0JIX0YyMkIzMlJEUQRSEEZNQFxGNUZQVCpSPBQoEDwXFxUGFBERPBYpEAATFA==/index.m3u8"
+    },
+    {
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
-      "group_title": "HOCKEY"
+      "group_title": "HOCKEY",
+      "title": "Nhl Preseason - Minnesota Wild Vs Dallas Stars [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVg5YS0lEJjQzQEJcTE9XVDE2QgdET19GMlJGMUQxJlQqUjwUFiwHKhYaCisWFz0qFxcFFRMV/index.m3u8"
     },
     {
-      "event_time": "07:00AM",
-      "event_date": "09/26/25",
-      "channel_name": "HDD A",
-      "event_title": "Nhl Preseason - New York Rangers Vs New York Islanders (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVg9UPFZYIjdKUkFGSUpUNzJSJTBWD1Q8VlgiN0pSGjBLQF1BQDEmVCpSPBQWLAcqFhoKKxYWBioXFwUVFBo=/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
-      "group_title": "HOCKEY"
+      "group_title": "HOCKEY",
+      "title": "Nhl Preseason - Minnesota Wild Vs Dallas Stars [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVg5YS0lEJjQzQEJcTE9XVDE2QgdET19GMlJGMUQxJlQqUjwUFiwHKhYaCisWFz0qFxcFFRMV/index.m3u8"
     },
     {
-      "event_time": "07:00AM",
-      "event_date": "09/26/25",
-      "event_title": "Nhl Preseason - New York Rangers Vs New York Islanders (09/26/25) [STREAM 41[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVg9UPFZYIjdKUkFGSUpUNzJSJTBWD1Q8VlgiN0pSGjBLQF1BQDEmVCpSPBQWLAMqFhoKKxYWBioXFwUVFRM=/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
-      "group_title": "HOCKEY"
+      "group_title": "HOCKEY",
+      "title": "Nhl Preseason - Minnesota Wild Vs Dallas Stars [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVg5YS0lEJjQzQEJcTE9XVDE2QgdET19GMlJGMUQxJlQqUjwUFiwHKhYaCisWFz0qFxcFFRMV/index.m3u8"
     },
     {
-      "event_time": "07:00AM",
-      "event_date": "09/26/25",
-      "channel_name": "HDD A",
-      "event_title": "Nhl Preseason - Washington Capitals Vs Philadelphia Flyers (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVlpQME9IXUwzMl1UBEAjTjNAXzBWNSZUV0tYSURHVEk3S1hGVgdfPkAxJlQqUjwUFiwHKhYaCisWFgEqFxcFFRUW/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
-      "group_title": "HOCKEY"
+      "group_title": "HOCKEY",
+      "title": "Nhl Preseason - Montreal Canadiens Vs Toronto Maple Leafs [HDD B]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVg4iSzMxVEZLUhBGSUBXTkBNJlQxNkJRNjEiSzMyQghEM19CVglURkE2QihWLAIUKBc8FB4aPRQSEzwVExUDFxA=/index.m3u8"
     },
     {
-      "event_time": "06:00AM",
-      "event_date": "09/26/25",
-      "channel_name": "HDD A",
-      "event_title": "Nascar Cup Series - Nhra Sportsman Series Reading (09/26/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/D1AwQkAhVAQ0I1RSRCFOQDZCKFYPFVcGUkY1NjEnMEhAXVRSRCFOQDZCV0BAV05JSkIoViwEKhMsAhweEwYWFCwDERETAxM=/index.m3u8",
-      "duration": null,
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+      "group_title": "HOCKEY",
+      "title": "Nhl Preseason - Montreal Canadiens Vs Toronto Maple Leafs [HDD B]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVg4iSzMxVEZLUhBGSUBXTkBNJlQxNkJRNjEiSzMyQghEM19CVglURkE2QihWLAIUKBc8FB4aPRQSEzwVExUDFxA=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+      "group_title": "HOCKEY",
+      "title": "Nhl Preseason - Montreal Canadiens Vs Toronto Maple Leafs [HDD B]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVg4iSzMxVEZLUhBGSUBXTkBNJlQxNkJRNjEiSzMyQghEM19CVglURkE2QihWLAIUKBc8FB4aPRQSEzwVExUDFxA=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+      "group_title": "HOCKEY",
+      "title": "Nhl Preseason - New York Rangers Vs New York Islanders [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVg9UPFZYIjdKUkFGSUpUNzJSJTBWD1Q8VlgiN0pSGjBLQF1BQDEmVCpSPBQWLAcqFhoKKxYWBioXFwUVFBo=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+      "group_title": "HOCKEY",
+      "title": "Nhl Preseason - New York Rangers Vs New York Islanders [STREAM 41[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVg9UPFZYIjdKUkFGSUpUNzJSJTBWD1Q8VlgiN0pSGjBLQF1BQDEmVCpSPBQWLAMqFhoKKxYWBioXFwUVFRM=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+      "group_title": "HOCKEY",
+      "title": "Nhl Preseason - New York Rangers Vs New York Islanders [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVg9UPFZYIjdKUkFGSUpUNzJSJTBWD1Q8VlgiN0pSGjBLQF1BQDEmVCpSPBQWLAcqFhoKKxYWBioXFwUVFBo=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+      "group_title": "HOCKEY",
+      "title": "Nhl Preseason - New York Rangers Vs New York Islanders [STREAM 41[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVg9UPFZYIjdKUkFGSUpUNzJSJTBWD1Q8VlgiN0pSGjBLQF1BQDEmVCpSPBQWLAMqFhoKKxYWBioXFwUVFRM=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+      "group_title": "HOCKEY",
+      "title": "Nhl Preseason - New York Rangers Vs New York Islanders [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVg9UPFZYIjdKUkFGSUpUNzJSJTBWD1Q8VlgiN0pSGjBLQF1BQDEmVCpSPBQWLAcqFhoKKxYWBioXFwUVFBo=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+      "group_title": "HOCKEY",
+      "title": "Nhl Preseason - New York Rangers Vs New York Islanders [STREAM 41[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVg9UPFZYIjdKUkFGSUpUNzJSJTBWD1Q8VlgiN0pSGjBLQF1BQDEmVCpSPBQWLAMqFhoKKxYWBioXFwUVFRM=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+      "group_title": "HOCKEY",
+      "title": "Nhl Preseason - Washington Capitals Vs Philadelphia Flyers [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVlpQME9IXUwzMl1UBEAjTjNAXzBWNSZUV0tYSURHVEk3S1hGVgdfPkAxJlQqUjwUFiwHKhYaCisWFgEqFxcFFRUW/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+      "group_title": "HOCKEY",
+      "title": "Nhl Preseason - Washington Capitals Vs Philadelphia Flyers [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVlpQME9IXUwzMl1UBEAjTjNAXzBWNSZUV0tYSURHVEk3S1hGVgdfPkAxJlQqUjwUFiwHKhYaCisWFgEqFxcFFRUW/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+      "group_title": "HOCKEY",
+      "title": "Nhl Preseason - Washington Capitals Vs Philadelphia Flyers [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVlpQME9IXUwzMl1UBEAjTjNAXzBWNSZUV0tYSURHVEk3S1hGVgdfPkAxJlQqUjwUFiwHKhYaCisWFgEqFxcFFRUW/index.m3u8"
+    },
+    {
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT"
+      "group_title": "MOTORSPORT",
+      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 1 [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoEz0rFiwCHB4tBhMULAcUHhQGFg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 1 [HDD C ESPA\u00d1OL]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEQPBUTFQMSEw==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 1 [HDD E FRAN\u00c7AIS]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEQPBUTFQMSEQ==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 1 [HDD G PORTUGU\u00caS]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEQPBUTFQMTKQ==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 1 [HDD H DUTCH]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEQPBUTFQMTFg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 1 [HDD D DEUTSCH]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEQPBUTFQMSEA==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 1 [HDD B]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEQPBUTFQMSEg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 1 [HDD F ITALIANO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEQPBUTFQMSHg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 1 [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoEz0rFiwCHB4tBhMULAcUHhQGFg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 1 [HDD C ESPA\u00d1OL]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEQPBUTFQMSEw==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 1 [HDD E FRAN\u00c7AIS]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEQPBUTFQMSEQ==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 1 [HDD G PORTUGU\u00caS]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEQPBUTFQMTKQ==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 1 [HDD H DUTCH]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEQPBUTFQMTFg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 1 [HDD D DEUTSCH]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEQPBUTFQMSEA==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 1 [HDD B]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEQPBUTFQMSEg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 1 [HDD F ITALIANO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEQPBUTFQMSHg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 1 [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoEz0rFiwCHB4tBhMULAcUHhQGFg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 1 [HDD C ESPA\u00d1OL]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEQPBUTFQMSEw==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 1 [HDD E FRAN\u00c7AIS]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEQPBUTFQMSEQ==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 1 [HDD G PORTUGU\u00caS]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEQPBUTFQMTKQ==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 1 [HDD H DUTCH]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEQPBUTFQMTFg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 1 [HDD D DEUTSCH]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEQPBUTFQMSEA==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 1 [HDD B]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEQPBUTFQMSEg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 1 [HDD F ITALIANO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEQPBUTFQMSHg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 1 [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoEz0rFiwCHB4tBhMSLAcUHhQGFA==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 1 [MOVISTAR2]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoEz0rFiwCHB4tBhMSLAcUHhUBHA==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 1 [HDD E FRAN\u00c7AIS]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEWPBUTFQMRFA==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 1 [HDD G PORTUGU\u00caS]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEWPBUTFQMRFQ==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 1 [HDD H DUTCH]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEWPBUTFQMREg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 1 [HDD C ESPA\u00d1OL]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEWPBUTFQMSFw==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 1 [HDD D DEUTSCH]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEWPBUTFQMRFw==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 1 [HDD B]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEWPBUTFQMRFg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 1 [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoEz0rFiwCHB4tBhMSLAcUHhQGFA==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 1 [MOVISTAR2]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoEz0rFiwCHB4tBhMSLAcUHhUBHA==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 1 [HDD E FRAN\u00c7AIS]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEWPBUTFQMRFA==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 1 [HDD G PORTUGU\u00caS]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEWPBUTFQMRFQ==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 1 [HDD H DUTCH]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEWPBUTFQMREg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 1 [HDD C ESPA\u00d1OL]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEWPBUTFQMSFw==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 1 [HDD D DEUTSCH]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEWPBUTFQMRFw==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 1 [HDD B]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEWPBUTFQMRFg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 1 [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoEz0rFiwCHB4tBhMSLAcUHhQGFA==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 1 [MOVISTAR2]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoEz0rFiwCHB4tBhMSLAcUHhUBHA==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 1 [HDD E FRAN\u00c7AIS]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEWPBUTFQMRFA==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 1 [HDD G PORTUGU\u00caS]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEWPBUTFQMRFQ==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 1 [HDD H DUTCH]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEWPBUTFQMREg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 1 [HDD C ESPA\u00d1OL]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEWPBUTFQMSFw==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 1 [HDD D DEUTSCH]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEWPBUTFQMRFw==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Moto3 - Moto3: Motegi (Japan) - Practice 1 [HDD B]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFICVCpSPBIoFzwUHho9EBEWPBUTFQMRFg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Nascar Cup Series - Nhra Sportsman Series Reading [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/D1AwQkAhVAQ0I1RSRCFOQDZCKFYPFVcGUkY1NjEnMEhAXVRSRCFOQDZCV0BAV05JSkIoViwEKhMsAhweEwYWFCwDERETAxM=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Nascar Cup Series - Nhra Sportsman Series Reading [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/D1AwQkAhVAQ0I1RSRCFOQDZCKFYPFVcGUkY1NjEnMEhAXVRSRCFOQDZCV0BAV05JSkIoViwEKhMsAhweEwYWFCwDERETAxM=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Nascar Cup Series - Nhra Sportsman Series Reading [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/D1AwQkAhVAQ0I1RSRCFOQDZCKFYPFVcGUkY1NjEnMEhAXVRSRCFOQDZCV0BAV05JSkIoViwEKhMsAhweEwYWFCwDERETAxM=/index.m3u8"
     }
   ],
-  "grouped_events": {
-    "Usa: Nfl - Thursday Vs Night Football (09/26/25)": {
-      "event_title": "Usa: Nfl - Thursday Vs Night Football (09/26/25)",
-      "event_time": "06:00AM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/VEYEH1IfAQ1SPlRTSyQ3MkdQPlY1JlQLSFpNM1IXNDY3UUZLT0IoViwKKhMsAhweEgcRFSwDERETACs=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Usa: Ncaa - Army West Point Vs East Carolina (09/26/25)": {
-      "event_title": "Usa: Ncaa - Army West Point Vs East Carolina (09/26/25)",
-      "event_time": "07:30AM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/VEYEH1IfBgYCQihWAiFKPFJKQjI3QlU2SF0xVjUmVAJAJjFWAFA3Nk9YS0RSPlQoGjwRKBIKHBYXBxAoEwcTFxYC/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Major League Baseball - Philadelphia Phillies Vs Miami Marlins (09/26/25)": {
-      "event_title": "Major League Baseball - Philadelphia Phillies Vs Miami Marlins (09/26/25)",
-      "event_time": "06:05AM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDK A",
-          "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWU1tOS0BXQkszW05EUkNNTE9fTkA2QjMyUh5ORExYVApAIUlMTSZUKlI8FygXPBQeGj0rERo8FRMVAxYW/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Major League Baseball - Philadelphia Phillies Vs Miami Marlins (09/26/25) [STREAM 42[HD]]": {
-      "event_title": "Major League Baseball - Philadelphia Phillies Vs Miami Marlins (09/26/25) [STREAM 42[HD]]",
-      "event_time": "06:05AM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWU1tOS0BXQkszW05EUkNNTE9fTkA2QjMyUh5ORExYVApAIUlMTSZUKlI8FygTPBQeGj0rERo8FRMVAxUe/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Major League Baseball - Cleveland Guardians Vs Detroit Tigers (09/26/25)": {
-      "event_title": "Major League Baseball - Cleveland Guardians Vs Detroit Tigers (09/26/25)",
-      "event_time": "06:40AM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDK A",
-          "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAF9CMURfRklHQgIwQCFBTEBdMFY1JlQFRCc3NkgnVFNIWkI1NkIoViwBKhMsAhweLT0cKSwDERETABA=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Major League Baseball - Cleveland Guardians Vs Detroit Tigers (09/26/25) [STREAM 15[HD]]": {
-      "event_title": "Major League Baseball - Cleveland Guardians Vs Detroit Tigers (09/26/25) [STREAM 15[HD]]",
-      "event_time": "06:40AM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAF9CMURfRklHQgIwQCFBTEBdMFY1JlQFRCc3NkgnVFNIWkI1NkIoViwBKhcsAhweLT0cKSwDERETABc=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Major League Baseball - New York Yankees Vs Chicago White Sox (09/26/25)": {
-      "event_title": "Major League Baseball - New York Yankees Vs Chicago White Sox (09/26/25)",
-      "event_time": "07:05AM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDK A",
-          "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWD1Q8VlgiN0pSSEZJTlRCMlIlMFYAW05CQFo0VlpbTjNEQlA2O0IoViwBKhMsAhweLT0cFiwDERETARY=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Major League Baseball - New York Yankees Vs Chicago White Sox (09/26/25) [STREAM 44[HD]]": {
-      "event_title": "Major League Baseball - New York Yankees Vs Chicago White Sox (09/26/25) [STREAM 44[HD]]",
-      "event_time": "07:05AM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWD1Q8VlgiN0pSSEZJTlRCMlIlMFYAW05CQFo0VlpbTjNEQlA2O0IoViwBKhcsAhweLT0cFiwDERETASs=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Major League Baseball - Toronto Blue Jays Vs Boston Red Sox (09/26/25)": {
-      "event_title": "Major League Baseball - Toronto Blue Jays Vs Boston Red Sox (09/26/25)",
-      "event_time": "07:07AM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDK A",
-          "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVyI3Nk0nNFYDXzJAUhtGPDZCMzJSEzQyNyJLVlFUQVZWIj1WLkIqFSwHKhYaCispGgMqFxcFFRUV/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Major League Baseball - Toronto Blue Jays Vs Boston Red Sox (09/26/25) [STREAM 18[HD]]": {
-      "event_title": "Major League Baseball - Toronto Blue Jays Vs Boston Red Sox (09/26/25) [STREAM 18[HD]]",
-      "event_time": "07:07AM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWVyI3Nk0nNFYDXzJAUhtGPDZCMzJSEzQyNyJLVlFUQVZWIj1WLkIqFSwDKhYaCispGgMqFxcFFRUS/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Major League Baseball - Chicago Cubs Vs New York Mets (09/26/25)": {
-      "event_title": "Major League Baseball - Chicago Cubs Vs New York Mets (09/26/25)",
-      "event_time": "07:40AM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDK A",
-          "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFtOQkBaNFYAJEcyUiUwVg9UPFZYIjdKUh5CMzZCKFYsASoTLAIcHi09HBQsAxEREwYR/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Major League Baseball - Chicago Cubs Vs New York Mets (09/26/25) [STREAM 48[HD]]": {
-      "event_title": "Major League Baseball - Chicago Cubs Vs New York Mets (09/26/25) [STREAM 48[HD]]",
-      "event_time": "07:40AM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFtOQkBaNFYAJEcyUiUwVg9UPFZYIjdKUh5CMzZCKFYsASoXLAIcHi09HBQsAxEREwYQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Chile Liga Nacional Basketball - Chile Boston College Vs Universidad Catolica (09/26/25)": {
-      "event_title": "Chile Liga Nacional Basketball - Chile Boston College Vs Universidad Catolica (09/26/25)",
-      "event_time": "06:30AM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AFtOS0RCD0xKUFQLQFZONk1QSVYDUDBKRCdHRE9fVCpSEE1MT1RUBzImMTZNQgY2T19CTkRCMzJSREtMNVQ3MkhXRkNSEEYzMl9OQkBCKFYsAyoULAIcHhMAHBEsAxEREwAW/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Chile Liga Nacional Basketball - Cd Puerto Varas Vs Las Animas (09/26/25)": {
-      "event_title": "Chile Liga Nacional Basketball - Cd Puerto Varas Vs Las Animas (09/26/25)",
-      "event_time": "07:00AM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AFtOS0RCD0xKUFQLQFZONk1QSVYDUDBKRCdHRE9fVCpSEAdWUyRCNTciVFFAIUYyUiUwVglQMFYCXU5IQCZUKlI8FSgQPBQeGgMXKRE8FRMVAxYQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Chile Liga Nacional Basketball - Colo Colo Vs Colegio Los Leones (09/26/25)": {
-      "event_title": "Chile Liga Nacional Basketball - Colo Colo Vs Colegio Los Leones (09/26/25)",
-      "event_time": "07:00AM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AFtOS0RCD0xKUFQLQFZONk1QSVYDUDBKRCdHRE9fVCpSEDRLMkIGNk8iVDE2QgY2T1RMTDJCDzY2Qg9AMl1CMlI-VCgTPBYoEgocFxE9FSgTBxMXEAU=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Argentinian Liga Nacional De Bosquetbol - Platense Vs Ferro Carril Oeste (09/26/25)": {
-      "event_title": "Argentinian Liga Nacional De Bosquetbol - Platense Vs Ferro Carril Oeste (09/26/25)",
-      "event_time": "07:30AM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AiFMQE0nTklIUEtWCVhMRFIfRkJIIktET0JBQFITNDIwJEIzQSJJVi5CVUtAJ0JJNlRUMTZCAUAxITRWAFA3NUhfVAhEJjFAUj5UKBM8FigSChwXEAQrKBMHExcWAQ==/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Chile Liga Nacional Basketball - Valdivia Vs Universidad Concepcion (09/26/25)": {
-      "event_title": "Chile Liga Nacional Basketball - Valdivia Vs Universidad Concepcion (09/26/25)",
-      "event_time": "07:30AM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AFtOS0RCD0xKUFQLQFZONk1QSVYDUDBKRCdHRE9fVCpSRUZLR1gzTEBCMzJSREtMNVQ3MkhXRkNSEDRJRlQ1QkgiS1YuQioXLAAqFhoKFRUtBSoXFwUVEhA=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Brazilian Serie B - Coritiba Pr Vs Criciuma (09/26/25)": {
-      "event_title": "Brazilian Serie B - Coritiba Pr Vs Criciuma (09/26/25)",
-      "event_time": "06:00AM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SDK A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AyFGPUhfTkRNQlBAMVhCVgNCKFYAIjdMN1hHRFJDV1Y1JlQEMVhATDRcRlYuQioWLAcqFRIGFBIaACoULQAWES0=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AyFGPUhfTkRNQlBAMVhCVgNCKFYAIjdMN1hHRFJDV1Y1JlQEMVhATDRcRlYuQioWLAAqFRIGFBIaACoULQAWEBU=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Conmebol Copa Libertadores - Sao Paulo Vs Liga Dep Universitaria Quito (09/26/25)": {
-      "event_title": "Conmebol Copa Libertadores - Sao Paulo Vs Liga Dep Universitaria Quito (09/26/25)",
-      "event_time": "06:00AM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "LALIGA",
-          "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlJGRjZSQ0YwTyJUMTZCD0xKUFQFRCNUUE1YM0AxJk4zQCFORFJAMkw3IlQqUjwUKBM9KxYsARUTEz0rFCwHFB4WAxQ=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlJGRjZSQ0YwTyJUMTZCD0xKUFQFRCNUUE1YM0AxJk4zQCFORFJAMkw3IlQqUjwUKBc8FxcXAyspEDwWKRAAEhI=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "HDD B ESPA\u00d1OL",
-          "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlJGRjZSQ0YwTyJUMTZCD0xKUFQFRCNUUE1YM0AxJk4zQCFORFJAMkw3IlQqUjwUKBc8FxcXAyspEDwWKRAAEhM=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlJGRjZSQ0YwTyJUMTZCD0xKUFQFRCNUUE1YM0AxJk4zQCFORFJAMkw3IlQqUjwUKBA8FxcXAyspEDwWKRAAEhA=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Conmebol Copa Libertadores - Sao Paulo Vs Liga Dep Universitaria Quito (09/26/25) [STREAM 1[HD]]": {
-      "event_title": "Conmebol Copa Libertadores - Sao Paulo Vs Liga Dep Universitaria Quito (09/26/25) [STREAM 1[HD]]",
-      "event_time": "06:00AM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/ABwJCgYTCg1SEDQ3QEIPTEFUNzNAVzQ1RCZUKlJGRjZSQ0YwTyJUMTZCD0xKUFQFRCNUUE1YM0AxJk4zQCFORFJAMkw3IlQqUjwUKBM8FxcXAyspEDwWKRAAEh4=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Mls Next Pro - Cincinnati Ii Vs Columbus Crew B (09/26/25)": {
-      "event_title": "Mls Next Pro - Cincinnati Ii Vs Columbus Crew B (09/26/25)",
-      "event_time": "07:30AM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/DhlQVg9UPTNSQzc2Uj5UBEhdQExNXUYzSEIMDlIlMFYAIkkwTFEyMlIQN0A6QgVWLkIqFiwAKhUTBRcSFgQqFC0AFhET/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Nhl Preseason - Montreal Canadiens Vs Toronto Maple Leafs (09/26/25)": {
-      "event_title": "Nhl Preseason - Montreal Canadiens Vs Toronto Maple Leafs (09/26/25)",
-      "event_time": "07:00AM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD B",
-          "url": "https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVg4iSzMxVEZLUhBGSUBXTkBNJlQxNkJRNjEiSzMyQghEM19CVglURkE2QihWLAIUKBc8FB4aPRQSEzwVExUDFxA=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Nhl Preseason - New York Rangers Vs New York Islanders (09/26/25)": {
-      "event_title": "Nhl Preseason - New York Rangers Vs New York Islanders (09/26/25)",
-      "event_time": "07:00AM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVg9UPFZYIjdKUkFGSUpUNzJSJTBWD1Q8VlgiN0pSGjBLQF1BQDEmVCpSPBQWLAcqFhoKKxYWBioXFwUVFBo=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Nhl Preseason - New York Rangers Vs New York Islanders (09/26/25) [STREAM 41[HD]]": {
-      "event_title": "Nhl Preseason - New York Rangers Vs New York Islanders (09/26/25) [STREAM 41[HD]]",
-      "event_time": "07:00AM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVg9UPFZYIjdKUkFGSUpUNzJSJTBWD1Q8VlgiN0pSGjBLQF1BQDEmVCpSPBQWLAMqFhoKKxYWBioXFwUVFRM=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Nhl Preseason - Washington Capitals Vs Philadelphia Flyers (09/26/25)": {
-      "event_title": "Nhl Preseason - Washington Capitals Vs Philadelphia Flyers (09/26/25)",
-      "event_time": "07:00AM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/DxUPVlMhQjJEUDA2TUIoVlpQME9IXUwzMl1UBEAjTjNAXzBWNSZUV0tYSURHVEk3S1hGVgdfPkAxJlQqUjwUFiwHKhYaCisWFgEqFxcFFRUW/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Nascar Cup Series - Nhra Sportsman Series Reading (09/26/25)": {
-      "event_title": "Nascar Cup Series - Nhra Sportsman Series Reading (09/26/25)",
-      "event_time": "06:00AM",
-      "event_date": "09/26/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/D1AwQkAhVAQ0I1RSRCFOQDZCKFYPFVcGUkY1NjEnMEhAXVRSRCFOQDZCV0BAV05JSkIoViwEKhMsAhweEwYWFCwDERETAxM=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-          "duration": null
-        }
-      ]
-    }
-  },
+  "events": [],
+  "grouped_events": {},
   "metadata": {}
 }
