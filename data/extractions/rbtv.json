@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-26T06:23:31.080961",
+  "timestamp": "2025-09-26T06:47:26.041052",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [
@@ -33,24 +33,17 @@
     },
     {
       "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
-      "group_title": "CYCLING",
-      "title": "Cycling World Cup - Junior Men'S Road Race | Uci World Championships [MOVISTAR2]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYLJEtMMiFUCkRdIjJSQTRER0JXREZUVDtSRAYOUko0NU9XVARLUEo3SCJLMktYNTJSPlQoEgYqFy09FCgSChwXGgErKBcCHB4WPQ==/index.m3u8"
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+      "group_title": "BADMINTON",
+      "title": "Korea Open, Singles - Farhan Alwi Vs Weng Hongyang [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WVlhLTk9UMFYuQgFEMVtGSVISST5IQjMyUkpCSUpCAzZNWj5ETVpUKlI8FBcsAyspEjwUHhoDEBYQPBEWGgoXKQ==/index.m3u8"
     },
     {
       "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
-      "group_title": "CYCLING",
-      "title": "Cycling World Cup - Junior Men'S Road Race | Uci World Championships [SKA]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYLJEtMMiFUCkRdIjJSQTRER0JXREZUVDtSRAYOUko0NU9XVARLUEo3SCJLMktYNTJSPlQoEgYqFy09FCgSChwXGgErKBcCHB4WAg==/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
-      "group_title": "CYCLING",
-      "title": "Cycling World Cup - Junior Men'S Road Race | Uci World Championships [STREAM 32[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYLJEtMMiFUCkRdIjJSQTRER0JXREZUVDtSRAYOUko0NU9XVARLUEo3SCJLMktYNTJSPlQoEgYqFywCHB4TChcpLAMRERAHFQ==/index.m3u8"
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+      "group_title": "BADMINTON",
+      "title": "Korea Open, Singles - Farhan Alwi Vs Weng Hongyang [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WVlhLTk9UMFYuQgFEMVtGSVISST5IQjMyUkpCSUpCAzZNWj5ETVpUKlI8FBcsAyspEjwUHhoDEBYQPBEWGgoXKQ==/index.m3u8"
     },
     {
       "type": "segment",
@@ -75,115 +68,24 @@
     },
     {
       "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 2 [VDO]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFIDVCpSPBIoEz0rFiwCHB4tBhMVLAcUHhQHKw==/index.m3u8"
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
+      "group_title": "CYCLING",
+      "title": "Cycling World Cup - Junior Men'S Road Race | Uci World Championships [MOVISTAR2]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYLJEtMMiFUCkRdIjJSQTRER0JXREZUVDtSRAYOUko0NU9XVARLUEo3SCJLMktYNTJSPlQoEgYqFy09FCgSChwXGgErKBcCHB4WPQ==/index.m3u8"
     },
     {
       "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 2 [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFIDVCpSPBIoFzwUHho9EBERPBUTFQAQKQ==/index.m3u8"
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
+      "group_title": "CYCLING",
+      "title": "Cycling World Cup - Junior Men'S Road Race | Uci World Championships [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYLJEtMMiFUCkRdIjJSQTRER0JXREZUVDtSRAYOUko0NU9XVARLUEo3SCJLMktYNTJSPlQoEgYqFy09FCgSChwXGgErKBcCHB4WAg==/index.m3u8"
     },
     {
       "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 2 [HDD C ESPA\u00d1OL]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFIDVCpSPBIoFzwUHho9EBERPBUTFQAQFw==/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 2 [HDD D DEUTSCH]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFIDVCpSPBIoFzwUHho9EBERPBUTFQAQFA==/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 2 [HDD E FRAN\u00c7AIS]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFIDVCpSPBIoFzwUHho9EBERPBUTFQAQFQ==/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 2 [HDD F ITALIANO]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFIDVCpSPBIoFzwUHho9EBERPBUTFQAQEg==/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 2 [HDD H DUTCH]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFIDVCpSPBIoFzwUHho9EBERPBUTFQAQEA==/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 2 [HDD G PORTUGU\u00caS]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFIDVCpSPBIoFzwUHho9EBERPBUTFQAQEw==/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 2 [VDO]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFIDVCpSPBIoEz0rFiwCHB4tBhMVLAcUHhQHKw==/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 2 [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFIDVCpSPBIoFzwUHho9EBERPBUTFQAQKQ==/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 2 [HDD C ESPA\u00d1OL]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFIDVCpSPBIoFzwUHho9EBERPBUTFQAQFw==/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 2 [HDD D DEUTSCH]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFIDVCpSPBIoFzwUHho9EBERPBUTFQAQFA==/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 2 [HDD E FRAN\u00c7AIS]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFIDVCpSPBIoFzwUHho9EBERPBUTFQAQFQ==/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 2 [HDD F ITALIANO]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFIDVCpSPBIoFzwUHho9EBERPBUTFQAQEg==/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 2 [HDD H DUTCH]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFIDVCpSPBIoFzwUHho9EBERPBUTFQAQEA==/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Practice 2 [HDD G PORTUGU\u00caS]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZTIUZCN1hAQFIDVCpSPBIoFzwUHho9EBERPBUTFQAQEw==/index.m3u8"
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
+      "group_title": "CYCLING",
+      "title": "Cycling World Cup - Junior Men'S Road Race | Uci World Championships [STREAM 32[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYLJEtMMiFUCkRdIjJSQTRER0JXREZUVDtSRAYOUko0NU9XVARLUEo3SCJLMktYNTJSPlQoEgYqFywCHB4TChcpLAMRERAHFQ==/index.m3u8"
     },
     {
       "type": "segment",
@@ -310,6 +212,20 @@
       "group_title": "MOTORSPORT",
       "title": "Motogp - Motogp: Motegi (Japan) - Practice 2 [HDD H DUTCH]",
       "url": "https://world-proxifier.xyz/rbtv/p/DiIxNgRDVCpSHgpTDBRVH1IeNDNEWk5WJRtGN0BdLFYuQlU1QFYxTEZUVBdSPlQoFDwRKBIKHCkWBRUoEwcTFBQD/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Atp Beijing, China Men Singles - Adrian Mannarino Vs Alexander Bublik [HDD B]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEkE1SFBLVg5QS0lAIU5JMkIzMlISSUA7UEtDRCFUBzRRSUxOQihWLAAqEywCHB4SARQULAMRERAFKw==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Atp Beijing, China Men Singles - Adrian Mannarino Vs Alexander Bublik [HDD B]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEkE1SFBLVg5QS0lAIU5JMkIzMlISSUA7UEtDRCFUBzRRSUxOQihWLAAqEywCHB4SARQULAMRERAFKw==/index.m3u8"
     },
     {
       "type": "segment",
@@ -534,6 +450,20 @@
       "group_title": "TENNIS",
       "title": "Wta Beijing, China Women Singles - Veronika Kudermetova Vs Anna Bondar [HDD B]",
       "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlRRRCE0SUheRlYIJEFAMVxCMzIlRlY1JlQGTV1GVgMiS0NAIVQqUjwWKBc8FB4aAhAXEDwVExUAEhU=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
+      "group_title": "VOLLEYBALL",
+      "title": "Livoli Divisi Utama - Putra: Samator  Vs  Ganeksa Bhumikarta [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CVgzNk9YVAVIJU4ySEJSM0BcRlYuQlUwNyFGH1JGRkhAJzQ1UkIzMlJCAkRNVEgyQEIFTzRcTkpAITFEUj5UKBIAKhctPRQoEgocFxACEygXAhwTGj0=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
+      "group_title": "VOLLEYBALL",
+      "title": "Livoli Divisi Utama - Putra: Samator  Vs  Ganeksa Bhumikarta [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CVgzNk9YVAVIJU4ySEJSM0BcRlYuQlUwNyFGH1JGRkhAJzQ1UkIzMlJCAkRNVEgyQEIFTzRcTkpAITFEUj5UKBIAKhctPRQoEgocFxACEygXAhwTGj0=/index.m3u8"
     }
   ],
   "events": [],
