@@ -1,122 +1,168 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-26T17:51:06.071692
+Extraction Time: 2025-09-26T18:20:17.536370
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 54
-- Total Channels: 64
+- Unique Events: 77
+- Total Channels: 200
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
-- Basketbol Super Ligi - Anadolu Efes Sports Club Vs Esenler E...
-  Time: 12:00AM, Channels: 1
+- Major League Baseball - Chicago Cubs Vs St.Louis Cardinals (...
+  Time: 02:20AM, Channels: 4
+- Major League Baseball - Chicago Cubs Vs St.Louis Cardinals (...
+  Time: 02:20AM, Channels: 2
 - Svenska Basketligan - Bc Lulea Vs Uppsala Basket (09/27/25)
-  Time: 01:00AM, Channels: 1
+  Time: 01:00AM, Channels: 2
 - Svenska Basketligan - Boras Basket Vs Koping Stars (09/27/25...
-  Time: 01:00AM, Channels: 1
+  Time: 01:00AM, Channels: 2
 - Greece Basketball Cup - Olympiacos Piraeus Vs As Karditsas (...
-  Time: 01:30AM, Channels: 1
+  Time: 01:30AM, Channels: 2
+- Basketball Bundesliga - Bayern Munchen Vs Jena (09/27/25)
+  Time: 02:00AM, Channels: 2
+- Ligue Nationale De Basket Pro B - Aix-Maurienne Vs Ada Blois...
+  Time: 02:00AM, Channels: 2
+- Ligue Nationale De Basket Pro B - Caen Vs Rouen (09/27/25)
+  Time: 02:00AM, Channels: 2
+- Ligue Nationale De Basket Pro B - Iel Toulon Vs Poitiers (09...
+  Time: 02:00AM, Channels: 2
+- Ligue Nationale De Basket Pro B - La Rochelle Vs Chalons-Rei...
+  Time: 02:00AM, Channels: 2
 - T20 Asia Cup - India Vs Sri Lanka (09/26/25)
-  Time: 10:30PM, Channels: 1
+  Time: 10:30PM, Channels: 2
 - T20 Asia Cup - India Vs Sri Lanka (09/26/25) [STREAM 48[HD]]
-  Time: 10:30PM, Channels: 1
+  Time: 10:30PM, Channels: 2
 - Bkfc 81 - Bkfc 81: Weigh-In (09/27/25)
-  Time: 12:00AM, Channels: 1
-- Hexagone - One Friday Fights 126 (09/26/25)
-  Time: 08:30PM, Channels: 1
-- Hexagone - Pfl Europe 3: Amin Ayoub - Donovan Desmae (09/26/...
-  Time: 11:00PM, Channels: 1
-- Austrian 2.Liga - Admira Wacker Vs Sc Austria Lustenau (09/2...
-  Time: 12:00AM, Channels: 1
-- Austrian 2.Liga - Fac Wien Vs Sk Rapid Ii (09/27/25)
-  Time: 12:00AM, Channels: 1
-- Austrian 2.Liga - Fc Liefering Vs Sv Stripfing (09/27/25)
-  Time: 12:00AM, Channels: 1
-- Chance Národní Liga - Sk Prostejov Vs Fk Graffin Vlasim (09/...
-  Time: 12:00AM, Channels: 1
-- Chance Národní Liga - Vysocina Jihlava Vs Banik Ostrava B (0...
-  Time: 12:00AM, Channels: 1
-- Estonian Premium Liiga - Tartu Jk Maag Tammeka Vs Fc Kuressa...
-  Time: 12:00AM, Channels: 1
-- Peruvian Liga 1 - Alianza Universidad De Huánuco Vs Sport Bo...
   Time: 12:00AM, Channels: 2
-- Poland Liga 2 - Warta Poznan Vs Stal Stalowa Wola (09/27/25)
-  Time: 12:00AM, Channels: 1
-- United Arab Emirates Adnoc Pro-League - Al-Nasr Dubai Vs Dab...
-  Time: 12:15AM, Channels: 1
+- Santino Bros Wrestling - Wxw: Pro Wrestling Grand Prix 2025,...
+  Time: 02:00AM, Channels: 2
+- Hexagone - One Friday Fights 126 (09/26/25)
+  Time: 08:30PM, Channels: 2
+- Hexagone - Pfl Europe 3: Amin Ayoub - Donovan Desmae (09/26/...
+  Time: 11:00PM, Channels: 2
 - German Bundesliga 2 - Schalke 04 Vs Spvgg Greuther Fürth (09...
-  Time: 12:30AM, Channels: 4
+  Time: 12:30AM, Channels: 8
 - German Bundesliga 2 - Schalke 04 Vs Spvgg Greuther Fürth (09...
-  Time: 12:30AM, Channels: 1
+  Time: 12:30AM, Channels: 2
 - German Bundesliga 2 - Sv Darmstadt 98 Vs Dynamo Dresden (09/...
-  Time: 12:30AM, Channels: 3
+  Time: 12:30AM, Channels: 6
 - German Bundesliga 2 - Sv Darmstadt 98 Vs Dynamo Dresden (09/...
-  Time: 12:30AM, Channels: 1
+  Time: 12:30AM, Channels: 2
 - Italian Campionato Primavera 1 - Inter Milan U20 Vs Juventus...
-  Time: 12:30AM, Channels: 1
+  Time: 12:30AM, Channels: 2
 - Jordan Premier League - Al-Ramtha Sc Vs Al-Jazeera (09/27/25...
-  Time: 12:30AM, Channels: 1
+  Time: 12:30AM, Channels: 2
 - Bulgarian First League - Lokomotiv Plovdiv Vs Levski Sofia (...
-  Time: 01:00AM, Channels: 1
+  Time: 01:00AM, Channels: 2
 - Czech Chance Liga - Slavia Praha Vs Dukla Prague (09/27/25)
-  Time: 01:00AM, Channels: 2
+  Time: 01:00AM, Channels: 4
 - German 3.Liga - Energie Cottbus Vs Vfb Stuttgart Ii (09/27/2...
-  Time: 01:00AM, Channels: 3
+  Time: 01:00AM, Channels: 6
 - German Regionalliga - Werder Bremen Youth Vs Kickers Emden (...
-  Time: 01:00AM, Channels: 1
-- Liga Portugal 2 - Vizela Vs Leixoes (09/27/25)
-  Time: 01:00AM, Channels: 1
-- Liga Portugal 2 - Vizela Vs Leixoes (09/27/25) [STREAM 33[HD...
-  Time: 01:00AM, Channels: 1
-- Qatar Stars League - Al Shahaniya Vs Al-Ahli Doha (09/27/25)
-  Time: 01:00AM, Channels: 1
-- Turkish Super League - Alanyaspor Vs Galatasaray (09/27/25)
   Time: 01:00AM, Channels: 2
+- Liga Portugal 2 - Vizela Vs Leixoes (09/27/25)
+  Time: 01:00AM, Channels: 2
+- Liga Portugal 2 - Vizela Vs Leixoes (09/27/25) [STREAM 33[HD...
+  Time: 01:00AM, Channels: 2
+- Qatar Stars League - Al Shahaniya Vs Al-Ahli Doha (09/27/25)
+  Time: 01:00AM, Channels: 2
+- Turkish Super League - Alanyaspor Vs Galatasaray (09/27/25)
+  Time: 01:00AM, Channels: 4
 - Russian Women'S Premier League - Cska Moscow Women Vs Cherta...
-  Time: 01:15AM, Channels: 1
+  Time: 01:15AM, Channels: 2
 - Spanish Primera División Rfef - Cf Talavera De La Reina Vs C...
-  Time: 01:15AM, Channels: 1
+  Time: 01:15AM, Channels: 2
 - French Championnat National - Chateauroux Vs Caen (09/27/25)
-  Time: 01:30AM, Channels: 1
+  Time: 01:30AM, Channels: 2
 - French Championnat National - Dijon Vs Concarneau (09/27/25)
-  Time: 01:30AM, Channels: 1
+  Time: 01:30AM, Channels: 2
 - French Championnat National - Fc Rouen Vs Bresse Péronnas 01...
-  Time: 01:30AM, Channels: 1
+  Time: 01:30AM, Channels: 2
 - French Championnat National - Fleury Merogis U.S. Vs Aubagne...
-  Time: 01:30AM, Channels: 1
+  Time: 01:30AM, Channels: 2
 - French Championnat National - Le Puy Foot 43 Auvergne Vs Par...
-  Time: 01:30AM, Channels: 1
+  Time: 01:30AM, Channels: 2
 - French Championnat National - Us Orléans Vs Stade Briochin (...
-  Time: 01:30AM, Channels: 1
+  Time: 01:30AM, Channels: 2
 - French Championnat National - Valenciennes Vs Villefranche (...
-  Time: 01:30AM, Channels: 1
+  Time: 01:30AM, Channels: 2
 - French Championnat National - Versailles 78 Vs Quevilly Roue...
-  Time: 01:30AM, Channels: 1
+  Time: 01:30AM, Channels: 2
 - German Regionalliga - Sv Drochtersen/Assel Vs Bremer Sv (09/...
-  Time: 01:30AM, Channels: 1
+  Time: 01:30AM, Channels: 2
 - German Regionalliga - Tus Blau-Weiss Lohne Vs Vfb Lubeck (09...
-  Time: 01:30AM, Channels: 1
+  Time: 01:30AM, Channels: 2
 - Iraq Stars League - Mosul Fc Vs Al-Najaf (09/27/25)
-  Time: 01:30AM, Channels: 1
+  Time: 01:30AM, Channels: 2
 - Switzerland Challenge League - Fc Rapperswil-Jona Vs Neuchat...
-  Time: 01:30AM, Channels: 1
+  Time: 01:30AM, Channels: 2
+- Belgian Second Division - Jong Genk Vs Patro Eisden (09/27/2...
+  Time: 02:00AM, Channels: 2
+- Brazilian Campeonato Paulista Youth - Bragantino Rb Youth Vs...
+  Time: 02:00AM, Channels: 2
+- Brazilian Campeonato Paulista Youth - Ituano (Youth) Vs Pont...
+  Time: 02:00AM, Channels: 2
+- Brazilian Campeonato Paulista Youth - Santos Youth Vs Corint...
+  Time: 02:00AM, Channels: 2
+- French Ligue 2 - Clermont Vs Le Mans (09/27/25)
+  Time: 02:00AM, Channels: 4
+- French Ligue 2 - Grenoble Vs Bastia (09/27/25)
+  Time: 02:00AM, Channels: 4
+- French Ligue 2 - Nancy Vs Stade De Reims (09/27/25)
+  Time: 02:00AM, Channels: 6
+- French Ligue 2 - Nancy Vs Stade De Reims (09/27/25) [STREAM ...
+  Time: 02:00AM, Channels: 2
+- French Ligue 2 - Rodez Aveyron Vs Pau Fc (09/27/25)
+  Time: 02:00AM, Channels: 4
+- French Ligue 2 - Troyes Vs Annecy (09/27/25)
+  Time: 02:00AM, Channels: 4
+- Netherlands Eerste Divisie - Almere City Fc Vs Fc Utrecht Yo...
+  Time: 02:00AM, Channels: 2
+- Netherlands Eerste Divisie - Den Bosch Vs Az Alkmaar Youth (...
+  Time: 02:00AM, Channels: 2
+- Netherlands Eerste Divisie - Dordrecht Vs De Graafschap (09/...
+  Time: 02:00AM, Channels: 4
+- Netherlands Eerste Divisie - Helmond Sport Vs Fc Eindhoven (...
+  Time: 02:00AM, Channels: 2
+- Netherlands Eerste Divisie - Jong Ajax Youth Vs Vvv Venlo (0...
+  Time: 02:00AM, Channels: 2
+- Netherlands Eerste Divisie - Mvv Maastricht Vs Emmen (09/27/...
+  Time: 02:00AM, Channels: 2
+- Netherlands Eerste Divisie - Rkc Waalwijk Vs Ado Den Haag (0...
+  Time: 02:00AM, Channels: 2
+- Netherlands Eerste Divisie - Sc Cambuur Leeuwarden Vs Jong P...
+  Time: 02:00AM, Channels: 2
+- Netherlands Eredivisie - Fc Twente Enschede Vs Fortuna Sitta...
+  Time: 02:00AM, Channels: 2
+- Saudi Professional League - Al Ittihad Club Vs Al Nassr Fc (...
+  Time: 02:00AM, Channels: 12
+- Saudi Professional League - Al Ittihad Club Vs Al Nassr Fc (...
+  Time: 02:00AM, Channels: 2
+- Spanish Tercera División Rfef - Aguilas Fc B Vs Yeclano B (0...
+  Time: 02:00AM, Channels: 2
+- Netherlands Eerste Divisie - Fc Oss Vs Roda Jc (09/27/25)
+  Time: 02:10AM, Channels: 2
+- Peruvian Liga 1 - Ad Tarma Vs Alianza Atletico Sullana (09/2...
+  Time: 02:15AM, Channels: 4
+- Switzerland Challenge League - Etoile Carouge Vs Aarau (09/2...
+  Time: 02:15AM, Channels: 2
 - Liga Asobal - Granollers Vs Bm Nava (09/27/25)
-  Time: 01:00AM, Channels: 1
+  Time: 01:00AM, Channels: 2
+- Division De Honor Femenina - Atletico Guardes Women Vs Bera ...
+  Time: 02:00AM, Channels: 2
 - Kontinental Hockey League - Lokomotiv Yaroslavl Vs Avtomobil...
-  Time: 12:00AM, Channels: 1
+  Time: 12:00AM, Channels: 2
 - Kontinental Hockey League - Dinamo Minsk Vs Severstal Cherep...
-  Time: 12:10AM, Channels: 1
+  Time: 12:10AM, Channels: 2
 - Worldsbk - Wsbk: Worldssp300 Superpole (09/26/25)
-  Time: 10:00PM, Channels: 1
+  Time: 10:00PM, Channels: 2
 - France: Pro D2 - Aurillac Vs Vannes (09/27/25)
-  Time: 01:00AM, Channels: 1
+  Time: 01:00AM, Channels: 2
 - World: United Rugby Championship - Stormers Vs Leinster (09/...
-  Time: 01:00AM, Channels: 1
+  Time: 01:00AM, Channels: 2
 - Pádel Premier Padel 2025 - Ustero/Araujo - Salazar/Calvo (09...
-  Time: 11:00PM, Channels: 1
-- World Championship - Imoco Volley Vs Agil Volley (09/26/25)
-  Time: 11:30PM, Channels: 1
+  Time: 11:00PM, Channels: 2
