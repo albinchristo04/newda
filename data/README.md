@@ -1,12 +1,12 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Fri Sep 26 11:37:41 UTC 2025
+Last updated: Fri Sep 26 11:49:31 UTC 2025
 
-Workflow run: #251
+Workflow run: #252
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-26T11:37:40.675815
+Extracted at: 2025-09-26T11:49:30.914827
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -15,15 +15,15 @@ EVENT: Npb - Rakuten Gold. Eagles Vs Fukuoka Softbank Hawks (09/26/25)
 Time: 05:00PM
 Date: 09/26/25
 Category: None
-Available Channels (2):
+Available Channels (1):
   1. HDK A 日本語
-     URL: https://world-proxifier.xyz/rbtv/p/D0MFVi5CV0ROJDFATUICNk9XKVYGUExLRCZUMTZCATBOJDRKQEJQNkUnBURNXlQBQCpIMlI-VCgRPBEoEgoWFxAGEygTBxMVEgQ=/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
-  2. HDK A 日本語
      URL: https://world-proxifier.xyz/rbtv/p/D0MFVi5CV0ROJDFATUICNk9XKVYGUExLRCZUMTZCATBOJDRKQEJQNkUnBURNXlQBQCpIMlI-VCgRPBEoEgoWFxAGEygTBxMVEgQ=/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
 
 ================================================================================
 
 EVENT: Npb - Saitama Seibu Lions Vs Hokkaido Nippon-Ham Fighters (09/26/25)
+Time: 05:00PM
+Date: 09/26/25
+Category: None
 ```

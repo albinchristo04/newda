@@ -1,82 +1,86 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-26T11:37:40.675815
+Extraction Time: 2025-09-26T11:49:30.914827
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 34
-- Total Channels: 86
+- Unique Events: 36
+- Total Channels: 44
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
 - Npb - Rakuten Gold. Eagles Vs Fukuoka Softbank Hawks (09/26/...
-  Time: 05:00PM, Channels: 2
+  Time: 05:00PM, Channels: 1
 - Npb - Saitama Seibu Lions Vs Hokkaido Nippon-Ham Fighters (0...
-  Time: 05:00PM, Channels: 2
+  Time: 05:00PM, Channels: 1
 - Npb - Yakult Swallows Vs Hiroshima Carp (09/26/25)
-  Time: 05:00PM, Channels: 2
+  Time: 05:00PM, Channels: 1
 - Npb - Yokohama Baystars Vs Yomiuri Giants (09/26/25)
-  Time: 05:00PM, Channels: 2
-- National Basketball League - Cairns Taipans Vs Brisbane Bull...
-  Time: 05:30PM, Channels: 4
+  Time: 05:00PM, Channels: 1
 - Japan League B3 - Tokyo Hachioji Trains Vs Earth Friends Tok...
-  Time: 06:20PM, Channels: 2
+  Time: 06:20PM, Channels: 1
 - Fiba U16 Women'S Asian Championship - China U16 Women Vs Phi...
-  Time: 07:00PM, Channels: 2
+  Time: 07:00PM, Channels: 1
 - Israel Basketball League Cup - Galil Elyon Vs Maccabi Raanan...
-  Time: 07:00PM, Channels: 2
+  Time: 07:00PM, Channels: 1
+- Israel Basketball Cup - Maccabi Tel Aviv Vs Hapoel Jerusalem...
+  Time: 07:45PM, Channels: 1
+- T20 World Cup, Africa Qualifier, Regional Final - Tanzania V...
+  Time: 07:50PM, Channels: 1
 - Cycling World Cup - Junior Men'S Road Race | Uci World Champ...
-  Time: 01:50PM, Channels: 4
+  Time: 01:50PM, Channels: 2
 - Cycling World Cup - U23 Men'S Road Race | Uci World Champion...
-  Time: 05:50PM, Channels: 6
+  Time: 05:50PM, Channels: 3
 - Cycling World Cup - U23 Men'S Road Race | Uci World Champion...
-  Time: 05:50PM, Channels: 2
+  Time: 05:50PM, Channels: 1
 - Chinese Football Super League - Shanghai Shenhua Fc Vs Meizh...
-  Time: 06:00PM, Channels: 2
+  Time: 06:00PM, Channels: 1
 - Korean K League 3  - Ulsan Citizens Vs Siheung City (09/26/2...
-  Time: 06:00PM, Channels: 2
+  Time: 06:00PM, Channels: 1
 - Ukrainian Youth Team Championship - Karpaty U21 Vs Dinamo Ky...
-  Time: 06:00PM, Channels: 2
+  Time: 06:00PM, Channels: 1
 - Chinese Football League 2 - Guangxi Hengchen Football Club V...
-  Time: 07:00PM, Channels: 2
+  Time: 07:00PM, Channels: 1
 - Kazakhstan Division 1 - Fc Jetisay Vs Akas Almaty (09/26/25)
-  Time: 07:00PM, Channels: 2
+  Time: 07:00PM, Channels: 1
 - Kazakhstan Division 1 - Fk Kaspyi Aktau Vs Fk Aktobe Ii (09/...
-  Time: 07:00PM, Channels: 2
+  Time: 07:00PM, Channels: 1
 - Vietnam National First Class League - Xuan Thien Phu Tho Vs ...
-  Time: 07:00PM, Channels: 2
+  Time: 07:00PM, Channels: 1
 - Azerbaijan Premier League - Mil-Mugan Fk Vs Zira Fk (09/26/2...
-  Time: 07:30PM, Channels: 2
+  Time: 07:30PM, Channels: 1
 - Chinese Football Assorciation U-21 League - Qingdao West Coa...
-  Time: 07:30PM, Channels: 2
+  Time: 07:30PM, Channels: 1
 - Chinese Football League 1 - Foshan Nanshi Vs Guangxi Pingguo...
-  Time: 07:30PM, Channels: 2
+  Time: 07:30PM, Channels: 1
 - Chinese Football League 1 - Nantong Zhiyun Fc Vs Shaanxi Uni...
-  Time: 07:30PM, Channels: 2
+  Time: 07:30PM, Channels: 1
 - Chinese Football League 1 - Qingdao Red Lions Vs Shijiazhuan...
-  Time: 07:30PM, Channels: 2
+  Time: 07:30PM, Channels: 1
 - Chinese Football Super League - Beijing Guoan Fc Vs Dalian Y...
-  Time: 07:35PM, Channels: 4
+  Time: 07:35PM, Channels: 2
+- Worldsbk - Wsbk: Worldssp Superpole (09/26/25)
+  Time: 07:55PM, Channels: 1
 - Australia: Nrl - Play Offs - Melbourne Storm Vs Cronulla Sha...
-  Time: 05:50PM, Channels: 2
+  Time: 05:50PM, Channels: 1
 - Wta Beijing, China Women Singles - Priscilla Hon Vs Jeļena O...
-  Time: 06:30PM, Channels: 2
+  Time: 06:30PM, Channels: 1
 - Atp Beijing, China Men Double - S.Bolelli/A.Vavassori Vs Bon...
-  Time: 06:50PM, Channels: 2
+  Time: 06:50PM, Channels: 1
 - Wta Beijing, China Women Singles - Wang Xinyu Vs Zhang Shuai...
-  Time: 07:00PM, Channels: 4
+  Time: 07:00PM, Channels: 2
 - Wta Beijing, China Women Singles - Karolina Muchova Vs Soran...
-  Time: 07:10PM, Channels: 2
+  Time: 07:10PM, Channels: 1
 - Atp Beijing, China Men Singles - Giovanni Mpetshi Perricard ...
-  Time: 07:15PM, Channels: 6
+  Time: 07:15PM, Channels: 3
 - Pádel Premier Padel 2025 - Ortega/Icardo - Fernández/Gonzále...
-  Time: 07:25PM, Channels: 2
+  Time: 07:25PM, Channels: 1
 - Wta Beijing, China Women Singles - Belinda Bencic Vs Katie V...
-  Time: 07:40PM, Channels: 2
+  Time: 07:50PM, Channels: 1
 - Livoli Divisi Utama - Putra: Samator  Vs  Ganeksa Bhumikarta...
-  Time: 02:30PM, Channels: 2
+  Time: 02:30PM, Channels: 1
 - Kovo Cup Women - Daejeon Kgc Women Vs Expressway Co Women (0...
-  Time: 06:00PM, Channels: 4
+  Time: 06:00PM, Channels: 2
