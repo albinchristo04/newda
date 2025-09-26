@@ -1,8 +1,233 @@
 {
-  "timestamp": "2025-09-26T07:15:34.788949",
+  "timestamp": "2025-09-26T07:36:49.515684",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
-  "segments": [],
+  "segments": [
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_asr_active.webp",
+      "group_title": "AUSIE RULES",
+      "title": "Australia: Afl Women - Carlton Blues W Vs Fremantle Dockers W [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkRQU1ESDw4CC1QGBxlUXjJcQklSPlQEQCFJMzJdVAdPJEIyUkpUMTZCATVEXEZJN19CVgEiQEpEITBWWkIoViwCKygXPBQeGj0QHhc8FRMVABMS/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+      "group_title": "BADMINTON",
+      "title": "Korea Open, Doubles - Takuro Hoki/Yugo Kobayashi Vs Lee J / Wang C [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQlFETiQ3NlIVNEpIPF4wSiJUDDJRRjxAJk1MUiUwVglUQlYLQipWWlBLTlIQVCpSPBQXLAMrKRI8FB4aAxcTLTwRFhoKFxU=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+      "group_title": "BADMINTON",
+      "title": "Korea Open, Singles - Farhan Alwi Vs Weng Hongyang [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WVlhLTk9UMFYuQgFEMVtGSVISST5IQjMyUkpCSUpCAzZNWj5ETVpUKlI8FBcsAyspEjwUHhoDEBYQPBEWGgoXKQ==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+      "group_title": "BADMINTON",
+      "title": "Korea Open, Women, Singles - Kim Ga-Eun Vs Putri Kusuma Wardani [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlIYTkhSFEYqRCRLVjUmVFc0JzdMUhgyMjRcRlZaUDdDQF1OVi5CKhYTPBUpLQIqFhoKFRIRCioTEgocFRM=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+      "group_title": "BADMINTON",
+      "title": "Korea Open, Women, Singles - Supanida Katethong Vs Akane Yamaguchi [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlJGMjdAXU5DQEIORDdUMU8yXUxWNSZUBk5QS0BSSEZIQFoyQktYVCpSPBQXLAMrKRI8FB4aAxAXETwRFhoKFxQ=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Korean University Basketball League - Sangmyung University Vs Dongguk University [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBdVFBNWDNAMSZOMzhCBUQ2XkIzQVBJS1IZQkRKJEJWLkJQRE1aSjw0XUxWVF1OMUQhMEw3KFQxNkIHNk1aTDBOQlJJSCVCNTZYMTxSPlQoEzwWKBIKHBcWPRcoEwcTFBUD/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Korean University Basketball League - Yonsei University Vs Chung Ang University [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBdVFBNWDNAMSZOMzhCBUQ2XkIzQVBJS1IZQkRKJEJWLkJeNk0mQkxSREtMNVQ3MkgnPlY1JlQESyRLTlISS05SREtMNVQ3MkgnPlYuQioXLAAqFhoKFRItBioXFwUWERI=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "New Zealand Basketball League Womens - Mainland Pouakai Women Vs Southern Hoiho Women [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/D1Q8VllURktAXUFWA1AwSkQnR0RPX1QNRFBMMERCXDZMVEsyUj5UCkBYS0tAXUFWUyIyRE5QTlZaIkpATUIzMlJGNDA3W0I1TUIDNkhbNFZaIkpATUIoViwDKhMsAhweLT0VECwDERERPRY=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "New Zealand Basketball League Womens - Mainland Pouakai Women Vs Southern Hoiho Women [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/D1Q8VllURktAXUFWA1AwSkQnR0RPX1QNRFBMMERCXDZMVEsyUj5UCkBYS0tAXUFWUyIyRE5QTlZaIkpATUIzMlJGNDA3W0I1TUIDNkhbNFZaIkpATUIoViwDKhQsAhweLT0VECwDEREQChc=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
+      "group_title": "CRICKET",
+      "title": "T20 World Cup, Africa Qualifier, Regional Final - Namibia Vs Kenya [STREAM 34[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/VwMrVloiN0tHQgYwMzlUBkUhTkJAQlYwQF9OQUhUNy1SQUJOSCJLRE9CAUxNUElWLkIJRExYR0xAQjMyUhhCSThQVCpSPBEoEzwUHho9FCkaPBUTFQAcEg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
+      "group_title": "CRICKET",
+      "title": "T20 World Cup, Africa Qualifier, Regional Final - Nigeria Vs Malawi [STREAM 35[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/VwMrVloiN0tHQgYwMzlUBkUhTkJAQlYwQF9OQUhUNy1SQUJOSCJLRE9CAUxNUElWLkIJTEpUN0xAQjMyUh5GS0AqTlYuQioTLAMqFhoKKxYSPSoXFwUWHhc=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Chinese Football Assorciation U-21 League - Dalian Yingbo U21 Vs Yunnan Yukun U21 [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1ISMDIyIUBMQCdONk1CUioTAlQNRFBMMERCKFYBUElMQF1UXEhdTEUyQlIXEkIzMlJIMklNUEtWWCRIME1CUhcSQihWLAIqFCwBFRESBhMQLAArFBE9Fw==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Chinese Football Assorciation U-21 League - Meizhou Hakka U21 Vs Guangxi Pingguo Haliao U21 [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1ISMDIyIUBMQCdONk1CUioTAlQNRFBMMERCKFYOVE49SyIyVgVQSEpAQlIXEkIzMlIUMkRNWj1MUkNOSUpaMjZSFUZLSFA0VlQDFFYuQioWLAAqFRMFFBIaACoULQAXKRQ=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Chinese Football Assorciation U-21 League - Shanghai Shenhua U21 Vs Kunming City Star U21 [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1ISMDIyIUBMQCdONk1CUioTAlQNRFBMMERCKFZWW0ZJSltGTFJGTUBNWzJEUkQVFlIlMFYIJEtISF1MVgBYMTxSRjFEMUJSFxJCKFYsAioULAEVERIGHBcsACsUET0R/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp",
+      "group_title": "RUGBY",
+      "title": "New Zealand: Bunnings Npc - Southland Vs Tasman [HDD B]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DxZcVlkWBA0CHwcfUhMySU1YS042QglXAEIoVlYiMjNLX0ZJR0IzMlJHRjJMUEtWLkIqESwHKhYaCisSGgMqFxcFFh4t/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp",
+      "group_title": "RUGBY",
+      "title": "New Zealand: Bunnings Npc - Southland Vs Tasman [STREAM 33[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DxZcVlkWBA0CHwcfUhMySU1YS042QglXAEIoVlYiMjNLX0ZJR0IzMlJHRjJMUEtWLkIqESwDKhYaCisSGgMqFxcFFhER/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Atp Beijing, China Men Singles - Adrian Mannarino Vs Alexander Bublik [HDD B]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEkE1SFBLVg5QS0lAIU5JMkIzMlISSUA7UEtDRCFUBzRRSUxOQihWLAAqEywCHB4SARQULAMRERAFKw==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Atp Beijing, China Men Singles - Corentin Moutet Vs Tallon Griekspoor [HDD B]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEDQ1RF0xTE1CCDY0J0IzUiUwVldQSUsyXVQAMVhCSjYjNDYxQihWLAAqEywCHB4tARISLAMRERE9FQ==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Atp Beijing, China Men Singles - Daniil Medvedev Vs Cameron Norrie [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEUZJSFhJVg5UQTFEV0IxUiUwVgBQSkAxIktWDyI3NUhUVCpSPBYoEz0rFiwCHB4tARITLAcUHhQKEQ==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Atp Beijing, China Men Singles - Daniil Medvedev Vs Cameron Norrie [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEUZJSFhJVg5UQTFEV0IxUiUwVgBQSkAxIktWDyI3NUhUVCpSPBYoFzwUHho9FxAXPBUTFQATHg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Atp Beijing, China Men Singles - Daniil Medvedev Vs Cameron Norrie [STREAM 17[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEUZJSFhJVg5UQTFEV0IxUiUwVgBQSkAxIktWDyI3NUhUVCpSPBYoEzwUHho9FxAXPBUTFQArHg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Atp Beijing, China Men Singles - Learner Tien Vs Francisco Cerundolo [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSGUJEMV1CNVJHTkBNQjMyUhc3RE1WTjJGIlQERCEySUciSTZSPlQoEDwRKBIKHCkRBSsoEwcTFBQA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Atp Beijing, China Men Singles - Shang Juncheng Vs Arthur Cazaux [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSRk1ETVpUDzRdQE9EXUxWNSZUBjEnTTAxQgZEOVAyP1I-VCgQPBEoEgocFhECFygTBxMUFwI=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Atp Tokyo, Japan Men Double - Maximo Gonzalez/Andres Molteni Vs Bopanna R / Yuzuki T [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSETQwQV9CVi5CCEQ7WEo2UhQ0STlQSUA5PARJRyFCMlIeNEs3VEtMUiUwVgMiNURNXUZWUUIqVlgkPzBOWFRTUj5UKBA8ESgSChwpLQYrKBMHExQaCg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Atp Tokyo, Japan Men Singles - Nuno Borges Vs Taylor Fritz [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VAs0XTRWAyI3TkQmVDE2QlFEOF80NVIXN0w3KVQqUjwWKBM9KxYsAhweLT0XFywHFB4UBRM=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Atp Tokyo, Japan Men Singles - Nuno Borges Vs Taylor Fritz [MOVISTAR]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VAs0XTRWAyI3TkQmVDE2QlFEOF80NVIXN0w3KVQqUjwWKBM9KxYsAhweLT0XFywHFB4VPSs=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Atp Tokyo, Japan Men Singles - Nuno Borges Vs Taylor Fritz [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VAs0XTRWAyI3TkQmVDE2QlFEOF80NVIXN0w3KVQqUjwWKBc8FB4aPSsVEzwVExUAExE=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Wta Beijing, China Women Doubles - Hunter S / Krawczyk D Vs Kato M / Stollar F [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUhE0MEFfQjJSPlQBNF0xQDFCUFYsQg41QCpAPTheVAVSJTBWCFAxNlIeVChSRjE2T19GNVIXVCpSPBYoFzwUHhoCECkSPBUTFQASHg==/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Wta Beijing, China Women Singles - Elena Rybakina Vs Caty Mcnally [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQCT1RLRFJBPkVAXk5JQEIzMlIQRjM4QghCTVBJSzhCKFYsACoTLAIcERUAEiksAxEREAYc/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Wta Beijing, China Women Singles - Jasmine Paolini Vs Anastasija Sevastova [HDD B]",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQPQCZKTE1UVFdAIklMTVhUMTZCBElAJjFENlhPRFJGQjFAJjE2NVBUKlI8FigXPBQeFQUWExM8FRMVABMU/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Wta Beijing, China Women Singles - Veronika Kudermetova Vs Anna Bondar [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlRRRCE0SUheRlYIJEFAMVxCMzIlRlY1JlQGTV1GVgMiS0NAIVQqUjwWKBc8FB4aAhAXEDwVExUAHBQ=/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
+      "group_title": "VOLLEYBALL",
+      "title": "Livoli Divisi Utama - Putra: Samator  Vs  Ganeksa Bhumikarta [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CVgzNk9YVAVIJU4ySEJSM0BcRlYuQlUwNyFGH1JGRkhAJzQ1UkIzMlJCAkRNVEgyQEIFTzRcTkpAITFEUj5UKBIAKhctPRQoEgocFxACEygXAhwTGj0=/index.m3u8"
+    }
+  ],
   "events": [],
   "grouped_events": {},
   "metadata": {}
