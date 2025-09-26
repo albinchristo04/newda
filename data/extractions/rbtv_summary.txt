@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-26T20:38:26.034037
+Extraction Time: 2025-09-26T20:49:07.046138
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 37
-- Total Channels: 57
+- Unique Events: 30
+- Total Channels: 46
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -16,31 +16,17 @@ EVENT BREAKDOWN:
   Time: 02:20AM, Channels: 1
 - Major League Baseball - Chicago Cubs Vs St.Louis Cardinals (...
   Time: 02:20AM, Channels: 1
-- Ligue Nationale De Basket Pro A - Jda Dijon Vs Le Mans Sarth...
-  Time: 02:30AM, Channels: 2
-- Liga Española De Baloncesto Oro - Alimerka Oviedo Baloncesto...
-  Time: 02:45AM, Channels: 1
 - Santino Bros Wrestling - Wxw: Pro Wrestling Grand Prix 2025,...
   Time: 02:00AM, Channels: 1
 - Hexagone - Hexagone - Toulouse, France (09/27/25)
   Time: 02:30AM, Channels: 2
 - Hexagone - Hexagone - Toulouse, France (09/27/25) [STREAM 17...
   Time: 02:30AM, Channels: 1
-- Italian Serie B - Catanzaro Vs Juve Stabia (09/27/25)
-  Time: 02:30AM, Channels: 1
-- Italian Serie B - Catanzaro Vs Juve Stabia (09/27/25) [STREA...
-  Time: 02:30AM, Channels: 1
 - Belgian Pro League - Oud-Heverlee Leuven Vs Anderlecht (09/2...
+  Time: 02:45AM, Channels: 1
+- French Ligue 1 - Rc Strasbourg Alsace Vs Marseille (09/27/25...
   Time: 02:45AM, Channels: 2
 - French Ligue 1 - Rc Strasbourg Alsace Vs Marseille (09/27/25...
-  Time: 02:45AM, Channels: 3
-- French Ligue 1 - Rc Strasbourg Alsace Vs Marseille (09/27/25...
-  Time: 02:45AM, Channels: 1
-- Ireland Premier Division - Drogheda United Vs Derry City (09...
-  Time: 02:45AM, Channels: 1
-- Ireland Premier Division - Galway United Vs Cork City (09/27...
-  Time: 02:45AM, Channels: 1
-- Ireland Premier Division - Shelbourne Vs Waterford United (0...
   Time: 02:45AM, Channels: 1
 - English Football League Championship - West Bromwich Albion ...
   Time: 03:00AM, Channels: 3
@@ -71,7 +57,7 @@ EVENT BREAKDOWN:
 - S-Cer - Tc3 Llanes | Villa De Llanes Rally (09/27/25)
   Time: 03:10AM, Channels: 1
 - England: Premiership Rugby - Harlequins Vs Bath (09/27/25)
-  Time: 02:45AM, Channels: 2
+  Time: 02:45AM, Channels: 1
 - England: Premiership Rugby - Newcastle Red Bulls Vs Saracens...
   Time: 02:45AM, Channels: 1
 - England: Super League - Play Offs - Leigh Vs Wakefield (09/2...
