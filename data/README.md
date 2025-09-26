@@ -1,29 +1,24 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Fri Sep 26 19:12:28 UTC 2025
+Last updated: Fri Sep 26 19:24:14 UTC 2025
 
-Workflow run: #273
+Workflow run: #274
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-26T19:12:27.262179
+Extracted at: 2025-09-26T19:24:13.506256
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== GROUPED EVENTS BY TITLE ===
+=== MEDIA SEGMENTS (First 10) ===
 
-EVENT: Major League Baseball - Chicago Cubs Vs St.Louis Cardinals (09/27/25)
-Time: 02:20AM
-Date: 09/27/25
-Category: None
-Available Channels (1):
-  1. HDK A
-     URL: https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFtOQkBaNFYAJEcyUiUwVlYnKQ0yJE4yUhBGNUdYS0RPJlQqUjwXKBc8FB4aPRIXEjwVExUGFBI=/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
-
-================================================================================
-
-EVENT: Major League Baseball - Chicago Cubs Vs St.Louis Cardinals (09/27/25) [STREAM 20[HD]]
-Time: 02:20AM
-Date: 09/27/25
-Category: None
+1. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFtOQkBaNFYAJEcyUiUwVlYnKQ0yJE4yUhBGNUdYS0RPJlQqUjwXKBc8FB4aPRIXEjwVExUGFBI=/index.m3u8
+2. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFtOQkBaNFYAJEcyUiUwVlYnKQ0yJE4yUhBGNUdYS0RPJlQqUjwXKBM8FB4aPRIXEjwVExUGFBA=/index.m3u8
+3. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFtOQkBaNFYAJEcyUiUwVlYnKQ0yJE4yUhBGNUdYS0RPJlQqUjwXKBc8FB4aPRIXEjwVExUGFBI=/index.m3u8
+4. https://world-proxifier.xyz/rbtv/p/DlBPNjFCD0BAWjJAUhNGMkRRRktPQihWAFtOQkBaNFYAJEcyUiUwVlYnKQ0yJE4yUhBGNUdYS0RPJlQqUjwXKBM8FB4aPRIXEjwVExUGFBA=/index.m3u8
+5. https://world-proxifier.xyz/rbtv/p/A1AwSkQnR0RPX1QHNF1BQDZfTk5AQihWA1A-QDFdVAo0XUBPRF1UMTZCDUBNUFQqUjwVKBA8FB4aPREWEjwVExUGKxA=/index.m3u8
+6. https://world-proxifier.xyz/rbtv/p/A1AwSkQnR0RPX1QHNF1BQDZfTk5AQihWA1A-QDFdVAo0XUBPRF1UMTZCDUBNUFQqUjwVKBA8FB4aPREWEjwVExUGKxA=/index.m3u8
+7. https://world-proxifier.xyz/rbtv/p/AyFOM0gmTVYDUDBKRCdHRE9fVA1EUEwwREIoVglUTkJEJjFAMUJXTEdUNzJSJTBWVltCQUVYQktHQlBPQCFIMlI-VCgTPBEoEgocKRcDFCgTBxMSEAQ=/index.m3u8
+8. https://world-proxifier.xyz/rbtv/p/AyFOM0gmTVYDUDBKRCdHRE9fVA1EUEwwREIoVglUTkJEJjFAMUJXTEdUNzJSJTBWVltCQUVYQktHQlBPQCFIMlI-VCgTPBUoEgocKRcDFCgTBxMSEQI=/index.m3u8
+9. https://world-proxifier.xyz/rbtv/p/AyFOM0gmTVYDUDBKRCdHRE9fVA1EUEwwREIoVglUTkJEJjFAMUJXTEdUNzJSJTBWVltCQUVYQktHQlBPQCFIMlI-VCgTPBEoEgocKRcDFCgTBxMSEAQ=/index.m3u8
+10. https://world-proxifier.xyz/rbtv/p/AyFOM0gmTVYDUDBKRCdHRE9fVA1EUEwwREIoVglUTkJEJjFAMUJXTEdUNzJSJTBWVltCQUVYQktHQlBPQCFIMlI-VCgTPBUoEgocKRcDFCgTBxMSEQI=/index.m3u8
 ```
