@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-26T09:18:38.696821
+Extraction Time: 2025-09-26T09:38:45.184987
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 26
-- Total Channels: 32
+- Unique Events: 25
+- Total Channels: 31
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -22,10 +22,10 @@ EVENT BREAKDOWN:
   Time: 05:00PM, Channels: 1
 - Npb - Yokohama Baystars Vs Yomiuri Giants (09/26/25)
   Time: 05:00PM, Channels: 1
-- New Zealand Basketball League Womens - Mainland Pouakai Wome...
-  Time: 03:30PM, Channels: 2
 - Fiba U16 Women'S Asian Championship - Chinese Taipei U16 Wom...
   Time: 04:30PM, Channels: 1
+- National Basketball League - Cairns Taipans Vs Brisbane Bull...
+  Time: 05:30PM, Channels: 1
 - T20 World Cup, Africa Qualifier, Regional Final - Namibia Vs...
   Time: 03:30PM, Channels: 1
 - T20 World Cup, Africa Qualifier, Regional Final - Nigeria Vs...
@@ -37,7 +37,7 @@ EVENT BREAKDOWN:
 - Lightweight - Men - Ufc Fight Night Pre-Show: Ulberg - Reyes...
   Time: 05:00PM, Channels: 1
 - Indonesian Liga 1 - Semen Padang Vs Bali United (09/26/25)
-  Time: 04:30PM, Channels: 1
+  Time: 04:30PM, Channels: 2
 - Ukrainian Youth Team Championship - Zorya U21 Vs Obolon Kiev...
   Time: 05:00PM, Channels: 1
 - Vietnam National First Class League - Dong Tam Long An Vs Do...
@@ -48,12 +48,8 @@ EVENT BREAKDOWN:
   Time: 05:10PM, Channels: 1
 - Wsbk - Wsbk: Aragon (Spain) - Practice 1 (09/26/25)
   Time: 04:35PM, Channels: 3
-- New Zealand: Bunnings Npc - Southland Vs Tasman (09/26/25)
-  Time: 03:10PM, Channels: 1
 - New Zealand: Bunnings Npc - Southland Vs Tasman (09/26/25) [...
   Time: 03:10PM, Channels: 1
-- Atp Tokyo, Japan Men Double - Maximo Gonzalez/Andres Molteni...
-  Time: 03:20PM, Channels: 1
 - Pádel Premier Padel 2025 - Cuarto De Final Femenino 1 (09/26...
   Time: 04:00PM, Channels: 1
 - Wta Beijing, China Women Doubles - Guo H / Panova A Vs Rakhi...
@@ -62,5 +58,7 @@ EVENT BREAKDOWN:
   Time: 04:20PM, Channels: 1
 - Atp Tokyo, Japan Men Singles - Casper Ruud Vs Matteo Berrett...
   Time: 05:10PM, Channels: 3
+- Wta Beijing, China Women Singles - Elise Mertens Vs Mccartne...
+  Time: 05:20PM, Channels: 1
 - Livoli Divisi Utama - Putra: Samator  Vs  Ganeksa Bhumikarta...
   Time: 02:30PM, Channels: 1

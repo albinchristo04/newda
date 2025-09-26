@@ -69,26 +69,6 @@
       }
     ]
   },
-  "New Zealand Basketball League Womens - Mainland Pouakai Women Vs Southern Hoiho Women (09/26/25)": {
-    "event_title": "New Zealand Basketball League Womens - Mainland Pouakai Women Vs Southern Hoiho Women (09/26/25)",
-    "event_time": "03:30PM",
-    "event_date": "09/26/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/D1Q8VllURktAXUFWA1AwSkQnR0RPX1QNRFBMMERCXDZMVEsyUj5UCkBYS0tAXUFWUyIyRE5QTlZaIkpATUIzMlJGNDA3W0I1TUIDNkhbNFZaIkpATUIoViwDKhMsAhweLT0VECwDERERPRY=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/D1Q8VllURktAXUFWA1AwSkQnR0RPX1QNRFBMMERCXDZMVEsyUj5UCkBYS0tAXUFWUyIyRE5QTlZaIkpATUIzMlJGNDA3W0I1TUIDNkhbNFZaIkpATUIoViwDKhQsAhweLT0VECwDEREQChc=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-        "duration": null
-      }
-    ]
-  },
   "Fiba U16 Women'S Asian Championship - Chinese Taipei U16 Women Vs New Zealand Woman U16 (09/26/25)": {
     "event_title": "Fiba U16 Women'S Asian Championship - Chinese Taipei U16 Women Vs New Zealand Woman U16 (09/26/25)",
     "event_time": "04:30PM",
@@ -98,6 +78,20 @@
       {
         "channel_name": "SD",
         "url": "https://world-proxifier.xyz/rbtv/p/BxoFBlJEFBNSSjRIRF0iMlISMExAXVQES1BKN0giSzJLWDVWLkIGT0hdQjJEQlFESCNCTFJEFBNSSjRIRF1UMTZCCUA6Ql9AQF9GSUdCXDZMUEtWVAIRVi5CKhcsACoWGgoVFRECKhcXBRcWEg==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "National Basketball League - Cairns Taipans Vs Brisbane Bullets (09/26/25)": {
+    "event_title": "National Basketball League - Cairns Taipans Vs Brisbane Bullets (09/26/25)",
+    "event_time": "05:30PM",
+    "event_date": "09/26/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/D1AxTDJdRktSE0YyTlQxRUBfSVYJVEZONFRUKlIQRkwxXTBWV1BON0BdMFY1JlQHMVgwRUBdQlYDJElLRCcwVi5CKhcsByoWGgorKRMFKhcXBRcUEg==/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
         "duration": null
       }
@@ -185,6 +179,12 @@
     "event_date": "09/26/25",
     "category": null,
     "channels": [
+      {
+        "channel_name": "VDO",
+        "url": "https://world-proxifier.xyz/rbtv/p/Cl1BNk1UMExAXVQNSFpGVhJCKFZWVEpATUJVREdQS05SJTBWA1BJTFJES0w3VEFWLkIqFiwDKykSPBcXEwoXHhE8ERYaChES/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      },
       {
         "channel_name": "SD",
         "url": "https://world-proxifier.xyz/rbtv/p/Cl1BNk1UMExAXVQNSFpGVhJCKFZWVEpATUJVREdQS05SJTBWA1BJTFJES0w3VEFWLkIqFiwAKhUTAxwVGgEqFC0AFykV/index.m3u8",
@@ -275,20 +275,6 @@
       }
     ]
   },
-  "New Zealand: Bunnings Npc - Southland Vs Tasman (09/26/25)": {
-    "event_title": "New Zealand: Bunnings Npc - Southland Vs Tasman (09/26/25)",
-    "event_time": "03:10PM",
-    "event_date": "09/26/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "HDD B",
-        "url": "https://world-proxifier.xyz/rbtv/p/DxZcVlkWBA0CHwcfUhMySU1YS042QglXAEIoVlYiMjNLX0ZJR0IzMlJHRjJMUEtWLkIqESwHKhYaCisSGgMqFxcFFh4t/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp",
-        "duration": null
-      }
-    ]
-  },
   "New Zealand: Bunnings Npc - Southland Vs Tasman (09/26/25) [STREAM 33[HD]]": {
     "event_title": "New Zealand: Bunnings Npc - Southland Vs Tasman (09/26/25) [STREAM 33[HD]]",
     "event_time": "03:10PM",
@@ -299,20 +285,6 @@
         "channel_name": null,
         "url": "https://world-proxifier.xyz/rbtv/p/DxZcVlkWBA0CHwcfUhMySU1YS042QglXAEIoVlYiMjNLX0ZJR0IzMlJHRjJMUEtWLkIqESwDKhYaCisSGgMqFxcFFhER/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Atp Tokyo, Japan Men Double - Maximo Gonzalez/Andres Molteni Vs Bopanna R / Yuzuki T (09/26/25)": {
-    "event_title": "Atp Tokyo, Japan Men Double - Maximo Gonzalez/Andres Molteni Vs Bopanna R / Yuzuki T (09/26/25)",
-    "event_time": "03:20PM",
-    "event_date": "09/26/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSETQwQV9CVi5CCEQ7WEo2UhQ0STlQSUA5PARJRyFCMlIeNEs3VEtMUiUwVgMiNURNXUZWUUIqVlgkPzBOWFRTUj5UKBA8ESgSChwpLQYrKBMHExQaCg==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
       }
     ]
@@ -380,6 +352,20 @@
       {
         "channel_name": "HDD A",
         "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VARAJjVAMUJXMDRXVDE2QghENydCNlITQjUxVDEzSF1OVi5CKhQsByoWGgorKREHKhcXBRcXGg==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Wta Beijing, China Women Singles - Elise Mertens Vs Mccartney Kessler (09/26/25)": {
+    "event_title": "Wta Beijing, China Women Singles - Elise Mertens Vs Mccartney Kessler (09/26/25)",
+    "event_time": "05:20PM",
+    "event_date": "09/26/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQCT1gwQFIeQjU3VEsyUiUwVg5WQEQxJ0tAOEIOQDYmSUAxQihWLAAqEywCHBEVABERLAMREREAFQ==/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
       }
