@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-27T06:42:50.420160",
+  "timestamp": "2025-09-27T06:52:05.910138",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [
@@ -47,24 +47,24 @@
     },
     {
       "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
+      "group_title": "CYCLING",
+      "title": "Cycling World Cup - Junior Women'S Road Race | Uci World Championships [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYLJEtMMiFUXjJcQkkkJlRVMlBBVlFQQEBSL1RQABpUXjIhSUNSEE1ETCNONk0mTUwzJlQqUjwUEiwDKykSPBQeGgAWExE8ERctAhMV/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
+      "group_title": "CYCLING",
+      "title": "Cycling World Cup - Junior Women'S Road Race | Uci World Championships [MOVISTAR]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYLJEtMMiFUXjJcQkkkJlRVMlBBVlFQQEBSL1RQABpUXjIhSUNSEE1ETCNONk0mTUwzJlQqUjwUEiwDKykSPBQeGgAWExE8ERctAhMS/index.m3u8"
+    },
+    {
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
       "group_title": "FIGHTING",
       "title": "Most Valuable Promotions - Jonathan Rojas - Ray Rojas [HDD A ESPA\u00d1OL]",
       "url": "https://world-proxifier.xyz/rbtv/p/DiIwM1JFRks0UEdLREJVNTJcNDNIIksyUj5UDzJdRjNLUEtWUSJPRDZCKFZRUD5WUSJPRDZCKFYsAhcoFzwUHhoDHBQUPBUTFQQVEQ==/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
-      "group_title": "FIGHTING",
-      "title": "One Championship - Budo Sento Championship: Vol 31 [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DB8AVgBbRkgzWDRJNltON1I-VAdUEQpWVhYJUwxCBgECHlUODB9QAQpDHVZVHA9WEAJUKlI8FBUsByoWGgoVHhIKKhcXBRIQEg==/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
-      "group_title": "FIGHTING",
-      "title": "One Championship - Budo Sento Championship: Vol 31 [STREAM 34[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DB8AVgBbRkgzWDRJNltON1I-VAdUEQpWVhYJUwxCBgECHlUODB9QAQpDHVZVHA9WEAJUKlI8FBUsAyoWGgoVHhIKKhcXBRIRFw==/index.m3u8"
     },
     {
       "type": "segment",
@@ -128,62 +128,6 @@
       "group_title": "FOOTBALL",
       "title": "Rus D3B - Ska Khabarovsk Ii Vs Salyut-Energia Belgorod [SD]",
       "url": "https://world-proxifier.xyz/rbtv/p/UURQVgEABVYuQlAMAkIOT0BRRjUyJTBKUhoMVjUmVFJAXz4wNz4ASUQhTExAQgVAT1o0NTJXVCpSPBQoEDwXFhQDFhETPBYpEAccEg==/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Motogp - Motogp: Motegi (Japan) - Race 1 [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNgRDVCpSHgpTDBRVH1IeNDNEWk5WJRtGN0BdLFYuQldERlRUFlI-VCgUPBEoEgocFhYGFCgTBxMREQY=/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Motogp - Motogp: Motegi (Japan) - Race 1 [HDD C ESPA\u00d1OL]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNgRDVCpSHgpTDBRVH1IeNDNEWk5WJRtGN0BdLFYuQldERlRUFlI-VCgUPBEoEgocFhYGFCgTBxMREQQ=/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Motogp - Motogp: Motegi (Japan) - Race 1 [HDD D DEUTSCH]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNgRDVCpSHgpTDBRVH1IeNDNEWk5WJRtGN0BdLFYuQldERlRUFlI-VCgUPBEoEgocFhYGFCgTBxMREQU=/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Motogp - Motogp: Motegi (Japan) - Race 1 [HDD E FRAN\u00c7AIS]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNgRDVCpSHgpTDBRVH1IeNDNEWk5WJRtGN0BdLFYuQldERlRUFlI-VCgUPBEoEgocFhYGFCgTBxMREQo=/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Motogp - Motogp: Motegi (Japan) - Race 1 [HDD F ITALIANO]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNgRDVCpSHgpTDBRVH1IeNDNEWk5WJRtGN0BdLFYuQldERlRUFlI-VCgUPBEoEgocFhYGFCgTBxMRFj0=/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Motogp - Motogp: Motegi (Japan) - Race 1 [HDD G PORTUGU\u00caS]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNgRDVCpSHgpTDBRVH1IeNDNEWk5WJRtGN0BdLFYuQldERlRUFlI-VCgUPBEoEgocFhYGFCgTBxMRFgI=/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Motogp - Motogp: Motegi (Japan) - Race 1 [HDD H DUTCH]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNgRDVCpSHgpTDBRVH1IeNDNEWk5WJRtGN0BdLFYuQldERlRUFlI-VCgUPBEoEgocFhYGFCgTBxMRFgM=/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Motogp - Motogp: Motegi (Japan) - Race 1 [STREAM 35[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNgRDVCpSHgpTDBRVH1IeNDNEWk5WJRtGN0BdLFYuQldERlRUFlI-VCgUPBUoEgocFhYGFCgTBxMREQE=/index.m3u8"
     },
     {
       "type": "segment",
@@ -261,20 +205,6 @@
       "group_title": "TENNIS",
       "title": "Wta Beijing, China Women Singles - Liudmila Samsonova Vs Lois Boisson [HDD A]",
       "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQNSCRBSEhfRlZWUEoyMl00MUBCMzJSGTRMNkIFNkgmMDZNQihWLAAqEywCHB4TBhcSLAMRERUBFQ==/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
-      "group_title": "VOLLEYBALL",
-      "title": "Kovo Cup Women - Gs Caltex Women Vs Expressway Co Women [NVR]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CBxTCFIQMjdSSjRIRF1UKlIUUFYAUEkzRCtUXjJcQklSJTBWBis1NUQmMD5AKFQEMkJcNkxUS1YuQioWEDwVKS0CKhYaChYWLQMqExM9FBMV/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
-      "group_title": "VOLLEYBALL",
-      "title": "Kovo Cup Women - Gs Caltex Women Vs Expressway Co Women [VUS]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CBxTCFIQMjdSSjRIRF1UKlIUUFYAUEkzRCtUXjJcQklSJTBWBis1NUQmMD5AKFQEMkJcNkxUS1YuQioWEDwVKS0CKhYaChYWLQMqExM9FBMa/index.m3u8"
     },
     {
       "type": "segment",
