@@ -1,28 +1,18 @@
 {
-  "timestamp": "2025-09-27T09:13:28.979303",
+  "timestamp": "2025-09-27T09:27:52.931426",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
   "events": [
     {
-      "event_time": "04:35PM",
+      "event_time": "05:20PM",
       "event_date": "09/27/25",
       "channel_name": "VDO",
-      "event_title": "Korea Open, Doubles - Lee Jhe-Huei/Yang Po-Hsuan Vs Alfian F / Fikri M S (09/27/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQg9AREINT0Q-TTBEWCpcQF1MVlMiKE82JEZJUiUwVgJfQ0xAXVQDUjxUA0heN0xSHlRSUj5UKBIDKhctPRQoEgocFC0HESgXAysWFwM=/index.m3u8",
+      "event_title": "Korea Open, Women, Singles - Putri Kusuma Wardani Vs Akane Yamaguchi (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlJDMjMxWFQMNCYySEBCXEQxV0ZJSEIzMlISSERNVFRcQFxGTjRWTUxSPlQoEgMqFy09FCgSChwULQIXKBcDKxYXAA==/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
       "group_title": "BADMINTON"
-    },
-    {
-      "event_time": "01:00PM",
-      "event_date": "09/27/25",
-      "channel_name": "HDK A \u65e5\u672c\u8a9e",
-      "event_title": "Npb - Yokohama Baystars Vs Yomiuri Giants (09/27/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/D0MFVi5CXjZOIk1ETFBUB0AoUDNAITBWNSZUXDJcTjAxWFQASFBLMzZCKFYsASoTLAIcFhYFFCksAxERFQMV/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-      "group_title": "BASEBALL"
     },
     {
       "event_time": "05:00PM",
@@ -123,35 +113,6 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
       "group_title": "FIGHTING"
-    },
-    {
-      "event_time": "03:00PM",
-      "event_date": "09/27/25",
-      "event_title": "Japanese J1 League - Machida Zelvia Vs Fagiano Okayama (09/27/25) [STREAM 15[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSHkZCS1hBRFJJQks1WEZWNSZUA0BaTkRNIlQITlA-RExQVCpSPBQoEzwXFi0GESkTPBYpEAQrKQ==/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "03:30PM",
-      "event_date": "09/27/25",
-      "channel_name": "SD",
-      "event_title": "China Youth Football League (Men'S U17 Group) - Changchun Yatai U17 Vs Shandong Taishan U17 (09/27/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUBCXjY0J01WByI0M0FQSUtSGUJESiRCViUeQkkkJlRQEgRUADEiMjcqQihWAFtGSUpWTTBNQl5EN1BOVlQCElY1JlRSS1BLQzJdTFZXUE4yS1BLVlQCElYuQioWLAAqFRMFEhEVAioULQASFhI=/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "03:30PM",
-      "event_date": "09/27/25",
-      "channel_name": "SD",
-      "event_title": "China Youth Football League (Men'S U17 Group) - Chongqing Nankai U17 Vs Dalian Yingbo U17 (09/27/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUBCXjY0J01WByI0M0FQSUtSGUJESiRCViUeQkkkJlRQEgRUADEiMjcqQihWAFs0SUogTklKQglETV5GTFJEFBBSJTBWAVBJTEBdVFxIXUxFMkJSFhRCKFYsAioULAEVERQFEyksACsUFAIr/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
     },
     {
       "event_time": "03:30PM",
@@ -337,16 +298,6 @@
       "channel_name": "SD",
       "event_title": "Czech Third League - Aritma Praha Vs Viktoria Plzen B (09/27/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/AClCQktCUU9IIUFWCVRGTjRUVCpSEjdMN1xGVlMhRk9AQjMyUkVOSjciN0xAQlVLOVRLVgNCKFYsAioULAEVFhYFEyksACsUFAMR/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "04:15PM",
-      "event_date": "09/27/25",
-      "channel_name": "SD",
-      "event_title": "Czech Third League - Jablonec B Vs Hradec Kralove B (09/27/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AClCQktCUU9IIUFWCVRGTjRUVCpSG0ZFTyJLQEZCBVY1JlQBMVBBQEZCDjVAXzQxREIFVi5CKhYsACoVEwIrEhQCKhQtABIXFA==/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
@@ -770,16 +721,6 @@
       "group_title": "TENNIS"
     },
     {
-      "event_time": "03:20PM",
-      "event_date": "09/27/25",
-      "channel_name": "HDD A",
-      "event_title": "Wta Beijing, China Women Doubles - Chan H-C / Jiang X Vs Hsieh S / Ostapenko J (09/27/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUhE0MEFfQjJSPlQES1BLVgU-BlYsQg1MQF1MVltCMzJSFTBMRFtUUlI8VAg2J0Y3RF1INlIbVCpSPBYoFzwUHhoCFx4aPBUTFQUTEw==/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
       "event_time": "04:10PM",
       "event_date": "09/27/25",
       "channel_name": "HDD A",
@@ -859,7 +800,27 @@
       "group_title": "TENNIS"
     },
     {
-      "event_time": "04:55PM",
+      "event_time": "05:10PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD A",
+      "event_title": "Wta Beijing, China Women Singles - Sonay Kartal Vs Daria Kasatkina (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlRSMl1GPFIYRjU3UElWNSZUBUAhTkRSGEYyQCdITE1QVCpSPBYoFzwUHhoDFxAaPBUTFQoUHg==/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "05:30PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD B",
+      "event_title": "Wta Beijing, China Women Doubles - Veronika Kudermetova/Elise Mertens Vs Tang Q / Wang X (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUhE0MEFfQjJSPlRRRCE0SUheRlYIJEFAMVxCMzIlRigGX04yREIIQDEnQkk2QjMyUkdGSUpCVlYsQlxETVpUX1I-VCgQPBEoEgocFhY9FSgTBxMeEgU=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "05:50PM",
       "event_date": "09/27/25",
       "channel_name": "VDO",
       "event_title": "Wta Beijing, China Women Singles - Naomi Osaka Vs Aliaksandra Sasnovich (09/27/25)",
@@ -890,30 +851,16 @@
     }
   ],
   "grouped_events": {
-    "Korea Open, Doubles - Lee Jhe-Huei/Yang Po-Hsuan Vs Alfian F / Fikri M S (09/27/25)": {
-      "event_title": "Korea Open, Doubles - Lee Jhe-Huei/Yang Po-Hsuan Vs Alfian F / Fikri M S (09/27/25)",
-      "event_time": "04:35PM",
+    "Korea Open, Women, Singles - Putri Kusuma Wardani Vs Akane Yamaguchi (09/27/25)": {
+      "event_title": "Korea Open, Women, Singles - Putri Kusuma Wardani Vs Akane Yamaguchi (09/27/25)",
+      "event_time": "05:20PM",
       "event_date": "09/27/25",
       "category": null,
       "channels": [
         {
           "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQg9AREINT0Q-TTBEWCpcQF1MVlMiKE82JEZJUiUwVgJfQ0xAXVQDUjxUA0heN0xSHlRSUj5UKBIDKhctPRQoEgocFC0HESgXAysWFwM=/index.m3u8",
+          "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlJDMjMxWFQMNCYySEBCXEQxV0ZJSEIzMlISSERNVFRcQFxGTjRWTUxSPlQoEgMqFy09FCgSChwULQIXKBcDKxYXAA==/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Npb - Yokohama Baystars Vs Yomiuri Giants (09/27/25)": {
-      "event_title": "Npb - Yokohama Baystars Vs Yomiuri Giants (09/27/25)",
-      "event_time": "01:00PM",
-      "event_date": "09/27/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDK A \u65e5\u672c\u8a9e",
-          "url": "https://world-proxifier.xyz/rbtv/p/D0MFVi5CXjZOIk1ETFBUB0AoUDNAITBWNSZUXDJcTjAxWFQASFBLMzZCKFYsASoTLAIcFhYFFCksAxERFQMV/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
           "duration": null
         }
       ]
@@ -1038,48 +985,6 @@
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/DiIwM1JFRks0UEdLREJVNTJcNDNIIksyUj5UA0gmMTJSIkNWByQ3PBtCVTVEX05INkIoViwCFygXPBQeGgAXExE8FRMVCisX/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Japanese J1 League - Machida Zelvia Vs Fagiano Okayama (09/27/25) [STREAM 15[HD]]": {
-      "event_title": "Japanese J1 League - Machida Zelvia Vs Fagiano Okayama (09/27/25) [STREAM 15[HD]]",
-      "event_time": "03:00PM",
-      "event_date": "09/27/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSHkZCS1hBRFJJQks1WEZWNSZUA0BaTkRNIlQITlA-RExQVCpSPBQoEzwXFi0GESkTPBYpEAQrKQ==/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "China Youth Football League (Men'S U17 Group) - Changchun Yatai U17 Vs Shandong Taishan U17 (09/27/25)": {
-      "event_title": "China Youth Football League (Men'S U17 Group) - Changchun Yatai U17 Vs Shandong Taishan U17 (09/27/25)",
-      "event_time": "03:30PM",
-      "event_date": "09/27/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUBCXjY0J01WByI0M0FQSUtSGUJESiRCViUeQkkkJlRQEgRUADEiMjcqQihWAFtGSUpWTTBNQl5EN1BOVlQCElY1JlRSS1BLQzJdTFZXUE4yS1BLVlQCElYuQioWLAAqFRMFEhEVAioULQASFhI=/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "China Youth Football League (Men'S U17 Group) - Chongqing Nankai U17 Vs Dalian Yingbo U17 (09/27/25)": {
-      "event_title": "China Youth Football League (Men'S U17 Group) - Chongqing Nankai U17 Vs Dalian Yingbo U17 (09/27/25)",
-      "event_time": "03:30PM",
-      "event_date": "09/27/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUBCXjY0J01WByI0M0FQSUtSGUJESiRCViUeQkkkJlRQEgRUADEiMjcqQihWAFs0SUogTklKQglETV5GTFJEFBBSJTBWAVBJTEBdVFxIXUxFMkJSFhRCKFYsAioULAEVERQFEyksACsUFAIr/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }
       ]
@@ -1329,20 +1234,6 @@
         {
           "channel_name": "SD",
           "url": "https://world-proxifier.xyz/rbtv/p/AClCQktCUU9IIUFWCVRGTjRUVCpSEjdMN1xGVlMhRk9AQjMyUkVOSjciN0xAQlVLOVRLVgNCKFYsAioULAEVFhYFEyksACsUFAMR/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Czech Third League - Jablonec B Vs Hradec Kralove B (09/27/25)": {
-      "event_title": "Czech Third League - Jablonec B Vs Hradec Kralove B (09/27/25)",
-      "event_time": "04:15PM",
-      "event_date": "09/27/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AClCQktCUU9IIUFWCVRGTjRUVCpSG0ZFTyJLQEZCBVY1JlQBMVBBQEZCDjVAXzQxREIFVi5CKhYsACoVEwIrEhQCKhQtABIXFA==/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }
@@ -1848,20 +1739,6 @@
         }
       ]
     },
-    "Wta Beijing, China Women Doubles - Chan H-C / Jiang X Vs Hsieh S / Ostapenko J (09/27/25)": {
-      "event_title": "Wta Beijing, China Women Doubles - Chan H-C / Jiang X Vs Hsieh S / Ostapenko J (09/27/25)",
-      "event_time": "03:20PM",
-      "event_date": "09/27/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUhE0MEFfQjJSPlQES1BLVgU-BlYsQg1MQF1MVltCMzJSFTBMRFtUUlI8VAg2J0Y3RF1INlIbVCpSPBYoFzwUHhoCFx4aPBUTFQUTEw==/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "Wta Beijing, China Women Doubles - Cirstea S / Kalinskaya A Vs Timea Babos/Luisa Stefani (09/27/25)": {
       "event_title": "Wta Beijing, China Women Doubles - Cirstea S / Kalinskaya A Vs Timea Babos/Luisa Stefani (09/27/25)",
       "event_time": "04:10PM",
@@ -1950,9 +1827,37 @@
         }
       ]
     },
+    "Wta Beijing, China Women Singles - Sonay Kartal Vs Daria Kasatkina (09/27/25)": {
+      "event_title": "Wta Beijing, China Women Singles - Sonay Kartal Vs Daria Kasatkina (09/27/25)",
+      "event_time": "05:10PM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlRSMl1GPFIYRjU3UElWNSZUBUAhTkRSGEYyQCdITE1QVCpSPBYoFzwUHhoDFxAaPBUTFQoUHg==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Beijing, China Women Doubles - Veronika Kudermetova/Elise Mertens Vs Tang Q / Wang X (09/27/25)": {
+      "event_title": "Wta Beijing, China Women Doubles - Veronika Kudermetova/Elise Mertens Vs Tang Q / Wang X (09/27/25)",
+      "event_time": "05:30PM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD B",
+          "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUhE0MEFfQjJSPlRRRCE0SUheRlYIJEFAMVxCMzIlRigGX04yREIIQDEnQkk2QjMyUkdGSUpCVlYsQlxETVpUX1I-VCgQPBEoEgocFhY9FSgTBxMeEgU=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
     "Wta Beijing, China Women Singles - Naomi Osaka Vs Aliaksandra Sasnovich (09/27/25)": {
       "event_title": "Wta Beijing, China Women Singles - Naomi Osaka Vs Aliaksandra Sasnovich (09/27/25)",
-      "event_time": "04:55PM",
+      "event_time": "05:50PM",
       "event_date": "09/27/25",
       "category": null,
       "channels": [

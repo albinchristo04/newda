@@ -1,21 +1,19 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-27T09:13:28.979303
+Extraction Time: 2025-09-27T09:27:52.931426
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 71
-- Total Channels: 89
+- Unique Events: 67
+- Total Channels: 85
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
-- Korea Open, Doubles - Lee Jhe-Huei/Yang Po-Hsuan Vs Alfian F...
-  Time: 04:35PM, Channels: 1
-- Npb - Yokohama Baystars Vs Yomiuri Giants (09/27/25)
-  Time: 01:00PM, Channels: 1
+- Korea Open, Women, Singles - Putri Kusuma Wardani Vs Akane Y...
+  Time: 05:20PM, Channels: 1
 - Npb - Chiba Lotte Marines Vs Hokkaido Nippon-Ham Fighters (0...
   Time: 05:00PM, Channels: 1
 - Npb - Orix Buffaloes Vs Rakuten Gold. Eagles (09/27/25)
@@ -32,12 +30,6 @@ EVENT BREAKDOWN:
   Time: 02:10PM, Channels: 2
 - Most Valuable Promotions - Fists Of Fury: Prelims (09/27/25)
   Time: 02:00PM, Channels: 1
-- Japanese J1 League - Machida Zelvia Vs Fagiano Okayama (09/2...
-  Time: 03:00PM, Channels: 1
-- China Youth Football League (Men'S U17 Group) - Changchun Ya...
-  Time: 03:30PM, Channels: 1
-- China Youth Football League (Men'S U17 Group) - Chongqing Na...
-  Time: 03:30PM, Channels: 1
 - China Youth Football League (Men'S U17 Group) - Tianjin Spor...
   Time: 03:30PM, Channels: 1
 - Korean K League 1 - Daegu Football Club Vs Ulsan Hd Fc (09/2...
@@ -71,8 +63,6 @@ EVENT BREAKDOWN:
 - Czech Third League - Admira Praha Vs Slavia Prague C (09/27/...
   Time: 04:15PM, Channels: 1
 - Czech Third League - Aritma Praha Vs Viktoria Plzen B (09/27...
-  Time: 04:15PM, Channels: 1
-- Czech Third League - Jablonec B Vs Hradec Kralove B (09/27/2...
   Time: 04:15PM, Channels: 1
 - Czech Third League - Loko Vltavin Vs Fc Pisek (09/27/25)
   Time: 04:15PM, Channels: 1
@@ -136,8 +126,6 @@ EVENT BREAKDOWN:
   Time: 05:00PM, Channels: 3
 - Atp Beijing, China Men Singles - Jannik Sinner Vs Terence At...
   Time: 03:00PM, Channels: 1
-- Wta Beijing, China Women Doubles - Chan H-C / Jiang X Vs Hsi...
-  Time: 03:20PM, Channels: 1
 - Wta Beijing, China Women Doubles - Cirstea S / Kalinskaya A ...
   Time: 04:10PM, Channels: 1
 - Wta Beijing, China Women Doubles - Kristina Mladenovic/Zhang...
@@ -148,8 +136,12 @@ EVENT BREAKDOWN:
   Time: 04:30PM, Channels: 1
 - Atp Beijing, China Men Double - Davidovich Fokina A / De Min...
   Time: 04:45PM, Channels: 1
+- Wta Beijing, China Women Singles - Sonay Kartal Vs Daria Kas...
+  Time: 05:10PM, Channels: 1
+- Wta Beijing, China Women Doubles - Veronika Kudermetova/Elis...
+  Time: 05:30PM, Channels: 1
 - Wta Beijing, China Women Singles - Naomi Osaka Vs Aliaksandr...
-  Time: 04:55PM, Channels: 1
+  Time: 05:50PM, Channels: 1
 - Livoli Divisi Utama - Putra: Tni Au Electric Vs  Samator (09...
   Time: 01:30PM, Channels: 1
 - Livoli Divisi Utama - Putra: Pasundan Vs  Ganeksa Bhumikarta...
