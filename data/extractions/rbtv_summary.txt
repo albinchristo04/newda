@@ -1,150 +1,146 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-27T11:11:19.854746
+Extraction Time: 2025-09-27T11:23:18.400554
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 68
-- Total Channels: 92
+- Unique Events: 66
+- Total Channels: 267
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
 - Golf -  2025 Ryder Cup - Day 2 (09/27/25)
-  Time: 07:00PM, Channels: 2
+  Time: 07:00PM, Channels: 6
 - Npb - Chiba Lotte Marines Vs Hokkaido Nippon-Ham Fighters (0...
-  Time: 05:00PM, Channels: 1
+  Time: 05:00PM, Channels: 3
 - Npb - Orix Buffaloes Vs Rakuten Gold. Eagles (09/27/25)
-  Time: 05:00PM, Channels: 1
+  Time: 05:00PM, Channels: 3
 - Npb - Saitama Seibu Lions Vs Fukuoka Softbank Hawks (09/27/2...
-  Time: 05:00PM, Channels: 1
+  Time: 05:00PM, Channels: 3
 - Npb - Yakult Swallows Vs Hiroshima Carp (09/27/25)
-  Time: 05:00PM, Channels: 1
+  Time: 05:00PM, Channels: 3
 - National Basketball League - Illawarra Hawks Vs Tasmania Jac...
-  Time: 06:00PM, Channels: 2
+  Time: 06:00PM, Channels: 6
 - Philippines Mpbl - Caloocan Supremos All Star Vs Sarangani M...
-  Time: 06:00PM, Channels: 1
+  Time: 06:00PM, Channels: 3
 - Cycling World Cup - Women'S Road Race | Uci World Championsh...
-  Time: 05:45PM, Channels: 2
+  Time: 05:45PM, Channels: 6
 - Cycling World Cup - Women'S Road Race | Uci World Championsh...
-  Time: 05:45PM, Channels: 1
-- Japanese J1 League - Avispa Fukuoka Vs Sanfrecce Hiroshima (...
-  Time: 05:00PM, Channels: 1
-- Japanese J1 League - Tokyo Verdy Vs Urawa Red Diamonds (09/2...
-  Time: 05:00PM, Channels: 1
+  Time: 05:45PM, Channels: 3
 - Malaysian Super League - Kuala Lumpur City Fc Vs Terengganu ...
-  Time: 05:00PM, Channels: 1
+  Time: 05:00PM, Channels: 3
 - Rus D3A - Rodina Moskva Ii Vs Fk Kaluga (09/27/25)
-  Time: 05:00PM, Channels: 1
+  Time: 05:00PM, Channels: 3
 - Chinese Football League 2 - Tai'An Tiankuang Vs Wuhan Three ...
-  Time: 06:00PM, Channels: 1
+  Time: 06:00PM, Channels: 3
 - Chinese Football Super League - Changchun Yatai Fc Vs Qingda...
-  Time: 06:00PM, Channels: 1
+  Time: 06:00PM, Channels: 3
 - Japanese J1 League - Vissel Kobe Vs Shimizu S-Pulse (09/27/2...
-  Time: 06:00PM, Channels: 2
+  Time: 06:00PM, Channels: 6
 - Japanese J1 League - Vissel Kobe Vs Shimizu S-Pulse (09/27/2...
-  Time: 06:00PM, Channels: 1
+  Time: 06:00PM, Channels: 3
 - Japanese J2 League - Imabari Fc Vs Sagan Tosu (09/27/25)
-  Time: 06:00PM, Channels: 2
+  Time: 06:00PM, Channels: 6
 - Japanese J2 League - Jubilo Iwata Vs Rb Omiya Ardija (09/27/...
-  Time: 06:00PM, Channels: 2
+  Time: 06:00PM, Channels: 6
 - Japanese J2 League - Oita Trinita Vs Ehime Fc (09/27/25)
-  Time: 06:00PM, Channels: 2
+  Time: 06:00PM, Channels: 6
 - Japanese J3 League - Tegevajaro Miyazaki Vs Fc Ryukyu Okinaw...
-  Time: 06:00PM, Channels: 1
+  Time: 06:00PM, Channels: 3
 - Japanese J3 League - Thespa Kusatsu Gunma Vs Sc Sagamihara (...
-  Time: 06:00PM, Channels: 1
+  Time: 06:00PM, Channels: 3
 - Korean K League 1 - Football Club Seoul Vs Jeonbuk Hyundai M...
-  Time: 06:00PM, Channels: 2
+  Time: 06:00PM, Channels: 6
 - Korean K League 1 - Football Club Seoul Vs Jeonbuk Hyundai M...
-  Time: 06:00PM, Channels: 1
+  Time: 06:00PM, Channels: 3
 - Korean K League 2 - Chungbuk Cheongju Fc Vs Cheonan City (09...
-  Time: 06:00PM, Channels: 1
+  Time: 06:00PM, Channels: 3
 - Liga Portugal 2 - Penafiel Vs Fc Felgueiras (09/27/25)
-  Time: 06:00PM, Channels: 2
+  Time: 06:00PM, Channels: 6
 - Liga Portugal 2 - Penafiel Vs Fc Felgueiras (09/27/25) [STRE...
-  Time: 06:00PM, Channels: 1
+  Time: 06:00PM, Channels: 3
 - Liga Portugal 2 - Sporting Cp B Vs Maritimo (09/27/25)
-  Time: 06:00PM, Channels: 1
+  Time: 06:00PM, Channels: 3
 - Mongolia Premier League - Deren Fc Vs Khovd Western (09/27/2...
-  Time: 06:00PM, Channels: 1
+  Time: 06:00PM, Channels: 3
 - Poland Women'S Ekstraliga - Pogon Szczecin Women Vs Gks Kato...
-  Time: 06:00PM, Channels: 2
+  Time: 06:00PM, Channels: 6
 - Portugal Campeonato Nacional Feminino - Braga Women Vs Marit...
-  Time: 06:00PM, Channels: 1
+  Time: 06:00PM, Channels: 3
 - Romanian Liga Ii - Fc Bacau Vs Fcm Targu Mures (09/27/25)
-  Time: 06:00PM, Channels: 1
+  Time: 06:00PM, Channels: 3
 - Romanian Superliga Feminină - Asu Politehnica Timisoara (W) ...
-  Time: 06:00PM, Channels: 1
+  Time: 06:00PM, Channels: 3
 - Rus D3A - Torpedo Miass Vs Dinamo Vladivostok (09/27/25)
-  Time: 06:00PM, Channels: 1
+  Time: 06:00PM, Channels: 3
 - Spanish Primera División De La Liga De Fútbol Femenino - Cde...
-  Time: 06:00PM, Channels: 2
+  Time: 06:00PM, Channels: 6
 - Sweden Division 1 - Tegs Sk Vs Karlbergs Bk (09/27/25)
-  Time: 06:00PM, Channels: 1
+  Time: 06:00PM, Channels: 3
 - Thai League 1 - Ayutthaya United Vs Buriram United (09/27/25...
-  Time: 06:00PM, Channels: 1
+  Time: 06:00PM, Channels: 3
 - Ukrainian Premier League - Fk Oleksandria Vs Sc Poltava (09/...
-  Time: 06:00PM, Channels: 1
+  Time: 06:00PM, Channels: 3
 - Ukrainian Youth Team Championship - Lnz Cherkasy U21 Vs Kryv...
-  Time: 06:00PM, Channels: 1
+  Time: 06:00PM, Channels: 3
 - Ukrainian Youth Team Championship - Metalist 1925 Kharkiv(U2...
-  Time: 06:00PM, Channels: 1
+  Time: 06:00PM, Channels: 3
 - Ukrainian Youth Team Championship - Rukh Vynnyky U21 Vs Fc S...
-  Time: 06:00PM, Channels: 1
+  Time: 06:00PM, Channels: 3
 - Belarusian First League - Fk Bumprom Gomel Vs Fk Lida (09/27...
-  Time: 07:00PM, Channels: 1
+  Time: 07:00PM, Channels: 3
 - Chinese Football League 1 - Liaoning Tieren Vs Dingnan Unite...
-  Time: 07:00PM, Channels: 1
+  Time: 07:00PM, Channels: 3
 - Chinese Football League 1 - Shanghai Jiading Huilong Vs Guan...
-  Time: 07:00PM, Channels: 1
+  Time: 07:00PM, Channels: 3
 - Chinese Football League 1 - Suzhou Dongwu Vs Nanjing City (0...
-  Time: 07:00PM, Channels: 1
+  Time: 07:00PM, Channels: 3
 - Danish 1St Division - Herfolge Boldklub Koge Vs Hvidovre If ...
-  Time: 07:00PM, Channels: 1
+  Time: 07:00PM, Channels: 3
 - English Fa Women'S Super League - Arsenal Women Vs Aston Vil...
-  Time: 07:00PM, Channels: 3
+  Time: 07:00PM, Channels: 6
 - German Bundesliga 2 - Karlsruher Sc Vs 1. Fc Magdeburg (09/2...
-  Time: 07:00PM, Channels: 3
+  Time: 07:00PM, Channels: 9
 - German Bundesliga 2 - Sc Paderborn 07 Vs 1. Fc Kaiserslauter...
-  Time: 07:00PM, Channels: 3
+  Time: 07:00PM, Channels: 9
 - German Bundesliga 2 - Sv Elversberg Vs Holstein Kiel (09/27/...
-  Time: 07:00PM, Channels: 3
+  Time: 07:00PM, Channels: 9
 - German Regionalliga - Hannover 96 Am Vs Altona 93 (09/27/25)
-  Time: 07:00PM, Channels: 1
+  Time: 07:00PM, Channels: 3
 - Italian Campionato Primavera 1 - Us Cremonese U20 Vs Ac Mila...
-  Time: 07:00PM, Channels: 1
+  Time: 07:00PM, Channels: 3
 - Latvian Higher League - Jelgava Vs Fk Auda Riga (09/27/25)
-  Time: 07:00PM, Channels: 1
+  Time: 07:00PM, Channels: 3
 - Rus D3B - Kvant Obninsk Vs Dinamo Briansk (09/27/25)
-  Time: 07:00PM, Channels: 1
+  Time: 07:00PM, Channels: 3
 - Rus D3B - Strogino Moscow Vs Znamya Truda (09/27/25)
-  Time: 07:00PM, Channels: 1
+  Time: 07:00PM, Channels: 3
 - Rus D3B - Zvezda Sint Petersburg Vs Torpedo Vladimir (09/27/...
-  Time: 07:00PM, Channels: 1
+  Time: 07:00PM, Channels: 3
 - Russian Premier League - Akhmat Grozny Vs Akron Togliatti (0...
-  Time: 07:00PM, Channels: 1
+  Time: 07:00PM, Channels: 3
 - Sweden Division 1 - Eskilsminne If Vs Husqvarna (09/27/25)
-  Time: 07:00PM, Channels: 1
+  Time: 07:00PM, Channels: 3
 - Sweden Division 1 - If Karlstad Fotboll Vs Enkoping (09/27/2...
-  Time: 07:00PM, Channels: 1
+  Time: 07:00PM, Channels: 3
 - Sweden Division 1 - Ifk Stocksund Vs Gefle If (09/27/25)
-  Time: 07:00PM, Channels: 1
+  Time: 07:00PM, Channels: 3
 - Sweden Division 1 - Ljungskile Vs Torslanda Ik (09/27/25)
-  Time: 07:00PM, Channels: 1
+  Time: 07:00PM, Channels: 3
 - Fia Karting - European Championship 2025 Vs Cremona | Qualif...
-  Time: 04:10PM, Channels: 1
+  Time: 04:10PM, Channels: 3
 - Worldsbk - Race 1 (All Classes) | Tissot Aragon Round (09/27...
-  Time: 06:20PM, Channels: 3
+  Time: 06:20PM, Channels: 9
 - Wta Beijing, China Women Doubles - Veronika Kudermetova/Elis...
-  Time: 06:30PM, Channels: 1
-- Wta Beijing, China Women Singles - Emiliana Arango Vs Zheng ...
-  Time: 07:00PM, Channels: 2
-- Wta Beijing, China Women Singles - Emma Raducanu Vs Cristina...
-  Time: 07:10PM, Channels: 1
-- Livoli Divisi Utama - Putra: Pasundan Vs  Ganeksa Bhumikarta...
-  Time: 05:00PM, Channels: 1
-- World Championship - Poland Vs Italy (09/27/25)
   Time: 06:30PM, Channels: 3
+- Wta Beijing, China Women Singles - Emiliana Arango Vs Zheng ...
+  Time: 07:00PM, Channels: 6
+- Wta Beijing, China Women Singles - Emma Raducanu Vs Cristina...
+  Time: 07:10PM, Channels: 3
+- Livoli Divisi Utama - Putra: Pasundan Vs  Ganeksa Bhumikarta...
+  Time: 05:00PM, Channels: 3
+- World Championship - Poland Vs Italy (09/27/25)
+  Time: 06:30PM, Channels: 9
