@@ -1,29 +1,29 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Sat Sep 27 09:49:17 UTC 2025
+Last updated: Sat Sep 27 10:14:26 UTC 2025
 
-Workflow run: #315
+Workflow run: #316
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-27T09:49:15.940430
+Extracted at: 2025-09-27T10:14:25.646660
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
 
-EVENT: Korea Open, Women, Singles - Putri Kusuma Wardani Vs Akane Yamaguchi (09/27/25)
-Time: 05:20PM
+EVENT: Npb - Chiba Lotte Marines Vs Hokkaido Nippon-Ham Fighters (09/27/25)
+Time: 05:00PM
 Date: 09/27/25
 Category: None
-Available Channels (2):
-  1. VDO
-     URL: https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlJDMjMxWFQMNCYySEBCXEQxV0ZJSEIzMlISSERNVFRcQFxGTjRWTUxSPlQoEgMqFy09FCgSChwULQIXKBcDKxYXAA==/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp
-  2. VDO
-     URL: https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WWiJKQE05VFJIXUxLRCZUKlJDMjMxWFQMNCYySEBCXEQxV0ZJSEIzMlISSERNVFRcQFxGTjRWTUxSPlQoEgMqFy09FCgSChwULQIXKBcDKxYXAA==/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp
+Available Channels (1):
+  1. HDK A 日本語
+     URL: https://world-proxifier.xyz/rbtv/p/D0MFVi5CBk9IUUZWCSIxM0RCCEQxWEtANkIzMlIVNEpOUE5DMkIJTDMjNEkuFUZIUhdOTksnQjU2QihWLAEqEywCHB4tBBcWLAMRERoCEA==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
 
 ================================================================================
 
-EVENT: Npb - Chiba Lotte Marines Vs Hokkaido Nippon-Ham Fighters (09/27/25)
+EVENT: Npb - Orix Buffaloes Vs Rakuten Gold. Eagles (09/27/25)
+Time: 05:00PM
+Date: 09/27/25
+Category: None
 ```
