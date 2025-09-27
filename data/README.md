@@ -1,24 +1,29 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Sat Sep 27 08:49:07 UTC 2025
+Last updated: Sat Sep 27 09:13:29 UTC 2025
 
-Workflow run: #311
+Workflow run: #312
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-27T08:49:06.693823
+Extracted at: 2025-09-27T09:13:28.979303
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== MEDIA SEGMENTS (First 10) ===
+=== GROUPED EVENTS BY TITLE ===
 
-1. https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQg9AREINT0Q-TTBEWCpcQF1MVlMiKE82JEZJUiUwVgJfQ0xAXVQDUjxUA0heN0xSHlRSUj5UKBIDKhctPRQoEgocFC0HESgXAysWFwM=/index.m3u8
-2. https://world-proxifier.xyz/rbtv/p/D0MFVi5CA0RNJk1MTUJRTEpUNzJSJTBWAFsySUhWTUxSETdESiJLMlI-VCgRPBEoEgoUHhQHFCgTBxMREAE=/index.m3u8
-3. https://world-proxifier.xyz/rbtv/p/D0MFVi5CXjZOIk1ETFBUB0AoUDNAITBWNSZUXDJcTjAxWFQASFBLMzZCKFYsASoTLAIcFhYFFCksAxERFQMV/index.m3u8
-4. https://world-proxifier.xyz/rbtv/p/D1AxTDJdRktSE0YyTlQxRUBfSVYJVEZONFRUKlIfQj5SSUJET1BLQ1ITN0BAXkI1NkIzMlJDQjU3W1ReSF9BQkAnMFYuQioXLAcqFhoKKxMQBSoXFwUTERE=/index.m3u8
-5. https://world-proxifier.xyz/rbtv/p/D1AxTDJdRktSE0YyTlQxRUBfSVYJVEZONFRUKlIfQj5SSUJET1BLQ1ITN0BAXkI1NkIzMlJDQjU3W1ReSF9BQkAnMFYuQioXLAAqFhoKKxMQBSoXFwUTERA=/index.m3u8
-6. https://world-proxifier.xyz/rbtv/p/U1tOS0gjNUxNVDBWDkMFDVI-VFRUFl8ID0IGDldIVFMMEQRWAhhQXAwfVDE2QgVENlhJRE1CU0w1UFRXMiExSEAmMUAxJlQqUjwVKBA8FB4aAxwVETwVExUFHBQ=/index.m3u8
-7. https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYLJEtMMiFUXjJcQkkkJlRVMlBBVlFQQEBSL1RQABpUXjIhSUNSEE1ETCNONk0mTUwzJlQqUjwUEiwDKykSPBQeGgAWExE8ERctAhMV/index.m3u8
-8. https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYLJEtMMiFUXjJcQkkkJlRVMlBBVlFQQEBSL1RQABpUXjIhSUNSEE1ETCNONk0mTUwzJlQqUjwUEiwDKykSPBQeGgAWExE8ERctAhMS/index.m3u8
-9. https://world-proxifier.xyz/rbtv/p/DiIwM1JFRks0UEdLREJVNTJcNDNIIksyUj5UA0gmMTJSIkNWByQ3PBtCVTVEX05INkIoViwCFygXPBQeGgAXExE8FRMVCisX/index.m3u8
-10. https://world-proxifier.xyz/rbtv/p/AFtOSUBCXjY0J01WByI0M0FQSUtSGUJESiRCViUeQkkkJlRQEgRUADEiMjcqQihWAFtGSUpWTTBNQl5EN1BOVlQCElY1JlRSS1BLQzJdTFZXUE4yS1BLVlQCElYuQioWLAAqFRMFEhEVAioULQASFhI=/index.m3u8
+EVENT: Korea Open, Doubles - Lee Jhe-Huei/Yang Po-Hsuan Vs Alfian F / Fikri M S (09/27/25)
+Time: 04:35PM
+Date: 09/27/25
+Category: None
+Available Channels (1):
+  1. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQg9AREINT0Q-TTBEWCpcQF1MVlMiKE82JEZJUiUwVgJfQ0xAXVQDUjxUA0heN0xSHlRSUj5UKBIDKhctPRQoEgocFC0HESgXAysWFwM=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp
+
+================================================================================
+
+EVENT: Npb - Yokohama Baystars Vs Yomiuri Giants (09/27/25)
+Time: 01:00PM
+Date: 09/27/25
+Category: None
 ```

@@ -10,32 +10,6 @@
         "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQg9AREINT0Q-TTBEWCpcQF1MVlMiKE82JEZJUiUwVgJfQ0xAXVQDUjxUA0heN0xSHlRSUj5UKBIDKhctPRQoEgocFC0HESgXAysWFwM=/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
         "duration": null
-      },
-      {
-        "channel_name": "VDO",
-        "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBCCjdEXS9WASIyRU9UMFYuQg9AREINT0Q-TTBEWCpcQF1MVlMiKE82JEZJUiUwVgJfQ0xAXVQDUjxUA0heN0xSHlRSUj5UKBIDKhctPRQoEgocFC0HESgXAysWFwM=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Npb - Hanshin Tigers Vs Chunichi Dragons (09/27/25)": {
-    "event_title": "Npb - Hanshin Tigers Vs Chunichi Dragons (09/27/25)",
-    "event_time": "01:00PM",
-    "event_date": "09/27/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "HDK A \u65e5\u672c\u8a9e",
-        "url": "https://world-proxifier.xyz/rbtv/p/D0MFVi5CA0RNJk1MTUJRTEpUNzJSJTBWAFsySUhWTUxSETdESiJLMlI-VCgRPBEoEgoUHhQHFCgTBxMREAE=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "HDK A \u65e5\u672c\u8a9e",
-        "url": "https://world-proxifier.xyz/rbtv/p/D0MFVi5CA0RNJk1MTUJRTEpUNzJSJTBWAFsySUhWTUxSETdESiJLMlI-VCgRPBEoEgoUHhQHFCgTBxMREAE=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-        "duration": null
       }
     ]
   },
@@ -50,10 +24,60 @@
         "url": "https://world-proxifier.xyz/rbtv/p/D0MFVi5CXjZOIk1ETFBUB0AoUDNAITBWNSZUXDJcTjAxWFQASFBLMzZCKFYsASoTLAIcFhYFFCksAxERFQMV/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
         "duration": null
-      },
+      }
+    ]
+  },
+  "Npb - Chiba Lotte Marines Vs Hokkaido Nippon-Ham Fighters (09/27/25)": {
+    "event_title": "Npb - Chiba Lotte Marines Vs Hokkaido Nippon-Ham Fighters (09/27/25)",
+    "event_time": "05:00PM",
+    "event_date": "09/27/25",
+    "category": null,
+    "channels": [
       {
         "channel_name": "HDK A \u65e5\u672c\u8a9e",
-        "url": "https://world-proxifier.xyz/rbtv/p/D0MFVi5CXjZOIk1ETFBUB0AoUDNAITBWNSZUXDJcTjAxWFQASFBLMzZCKFYsASoTLAIcFhYFFCksAxERFQMV/index.m3u8",
+        "url": "https://world-proxifier.xyz/rbtv/p/D0MFVi5CBk9IUUZWCSIxM0RCCEQxWEtANkIzMlIVNEpOUE5DMkIJTDMjNEkuFUZIUhdOTksnQjU2QihWLAEqEywCHB4tBBcWLAMRERoCEA==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Npb - Orix Buffaloes Vs Rakuten Gold. Eagles (09/27/25)": {
+    "event_title": "Npb - Orix Buffaloes Vs Rakuten Gold. Eagles (09/27/25)",
+    "event_time": "05:00PM",
+    "event_date": "09/27/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDK A \u65e5\u672c\u8a9e",
+        "url": "https://world-proxifier.xyz/rbtv/p/D0MFVi5CCjVIK1QHNFVDRE8iQjJSJTBWUVBIMDdUS1YEIklDL0IAREpfQjJSPlQoETwRKBIKHCkUARUoEwcTHhI9/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Npb - Saitama Seibu Lions Vs Fukuoka Softbank Hawks (09/27/25)": {
+    "event_title": "Npb - Saitama Seibu Lions Vs Fukuoka Softbank Hawks (09/27/25)",
+    "event_time": "05:00PM",
+    "event_date": "09/27/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDK A \u65e5\u672c\u8a9e",
+        "url": "https://world-proxifier.xyz/rbtv/p/D0MFVi5CUERIJ0ZIQEJQQEhRMlYJWDRJNkIzMlIXMko0IkhEUkY0QTcTRklOQgNEOl4wVi5CKhUsByoWGgorEBEAKhcXBRwWFw==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Npb - Yakult Swallows Vs Hiroshima Carp (09/27/25)": {
+    "event_title": "Npb - Yakult Swallows Vs Hiroshima Carp (09/27/25)",
+    "event_time": "05:00PM",
+    "event_date": "09/27/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDK A \u65e5\u672c\u8a9e",
+        "url": "https://world-proxifier.xyz/rbtv/p/D0MFVi5CXkROJEkzUkY8RE9fND42QjMyUhVONTImTUxMUFQEQCE1Vi5CKhUsByoWGgITFhoEKhcXBRwpFQ==/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
         "duration": null
       }
@@ -65,18 +89,6 @@
     "event_date": "09/27/25",
     "category": null,
     "channels": [
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/D1AxTDJdRktSE0YyTlQxRUBfSVYJVEZONFRUKlIfQj5SSUJET1BLQ1ITN0BAXkI1NkIzMlJDQjU3W1ReSF9BQkAnMFYuQioXLAcqFhoKKxMQBSoXFwUTERE=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/D1AxTDJdRktSE0YyTlQxRUBfSVYJVEZONFRUKlIfQj5SSUJET1BLQ1ITN0BAXkI1NkIzMlJDQjU3W1ReSF9BQkAnMFYuQioXLAAqFhoKKxMQBSoXFwUTERA=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-        "duration": null
-      },
       {
         "channel_name": "HDD A",
         "url": "https://world-proxifier.xyz/rbtv/p/D1AxTDJdRktSE0YyTlQxRUBfSVYJVEZONFRUKlIfQj5SSUJET1BLQ1ITN0BAXkI1NkIzMlJDQjU3W1ReSF9BQkAnMFYuQioXLAcqFhoKKxMQBSoXFwUTERE=/index.m3u8",
@@ -102,12 +114,6 @@
         "url": "https://world-proxifier.xyz/rbtv/p/U1tOS0gjNUxNVDBWDkMFDVI-VFRUFl8ID0IGDldIVFMMEQRWAhhQXAwfVDE2QgVENlhJRE1CU0w1UFRXMiExSEAmMUAxJlQqUjwVKBA8FB4aAxwVETwVExUFHBQ=/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
         "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/U1tOS0gjNUxNVDBWDkMFDVI-VFRUFl8ID0IGDldIVFMMEQRWAhhQXAwfVDE2QgVENlhJRE1CU0w1UFRXMiExSEAmMUAxJlQqUjwVKBA8FB4aAxwVETwVExUFHBQ=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-        "duration": null
       }
     ]
   },
@@ -117,18 +123,6 @@
     "event_date": "09/27/25",
     "category": null,
     "channels": [
-      {
-        "channel_name": "SKA",
-        "url": "https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYLJEtMMiFUXjJcQkkkJlRVMlBBVlFQQEBSL1RQABpUXjIhSUNSEE1ETCNONk0mTUwzJlQqUjwUEiwDKykSPBQeGgAWExE8ERctAhMV/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "MOVISTAR",
-        "url": "https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYLJEtMMiFUXjJcQkkkJlRVMlBBVlFQQEBSL1RQABpUXjIhSUNSEE1ETCNONk0mTUwzJlQqUjwUEiwDKykSPBQeGgAWExE8ERctAhMS/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
-        "duration": null
-      },
       {
         "channel_name": "SKA",
         "url": "https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYLJEtMMiFUXjJcQkkkJlRVMlBBVlFQQEBSL1RQABpUXjIhSUNSEE1ETCNONk0mTUwzJlQqUjwUEiwDKykSPBQeGgAWExE8ERctAhMV/index.m3u8",
@@ -154,76 +148,6 @@
         "url": "https://world-proxifier.xyz/rbtv/p/DiIwM1JFRks0UEdLREJVNTJcNDNIIksyUj5UA0gmMTJSIkNWByQ3PBtCVTVEX05INkIoViwCFygXPBQeGgAXExE8FRMVCisX/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
         "duration": null
-      },
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/DiIwM1JFRks0UEdLREJVNTJcNDNIIksyUj5UA0gmMTJSIkNWByQ3PBtCVTVEX05INkIoViwCFygXPBQeGgAXExE8FRMVCisX/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Chinese Football League 1 - Yanbian Longding Vs Chongqing Tongliangloong Fc (09/27/25)": {
-    "event_title": "Chinese Football League 1 - Yanbian Longding Vs Chongqing Tongliangloong Fc (09/27/25)",
-    "event_time": "03:00PM",
-    "event_date": "09/27/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1IZQkRKJEJWEkIoVlhQS0VIUEtWCSJLTkdYS05SJTBWAFs0SUogTklKQlE2TVpJTEBdTEsyIktOUhcGVi5CKhYsACoVEgEQFxoHKhQtABEeFA==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1IZQkRKJEJWEkIoVlhQS0VIUEtWCSJLTkdYS05SJTBWAFs0SUogTklKQlE2TVpJTEBdTEsyIktOUhcGVi5CKhYsACoVEgEQFxoHKhQtABEeFA==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Japanese J1 League - Machida Zelvia Vs Fagiano Okayama (09/27/25)": {
-    "event_title": "Japanese J1 League - Machida Zelvia Vs Fagiano Okayama (09/27/25)",
-    "event_time": "03:00PM",
-    "event_date": "09/27/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSHkZCS1hBRFJJQks1WEZWNSZUA0BaTkRNIlQITlA-RExQVCpSPBQoFzwXFi0GESkTPBYpEAQrFQ==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "HDD B \u65e5\u672c\u8a9e",
-        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSHkZCS1hBRFJJQks1WEZWNSZUA0BaTkRNIlQITlA-RExQVCpSPBQoFzwXFi0GESkTPBYpEAQrEg==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSHkZCS1hBRFJJQks1WEZWNSZUA0BaTkRNIlQITlA-RExQVCpSPBQoEDwXFi0GESkTPBYpEAccHg==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSHkZCS1hBRFJJQks1WEZWNSZUA0BaTkRNIlQITlA-RExQVCpSPBQoFzwXFi0GESkTPBYpEAQrFQ==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "HDD B \u65e5\u672c\u8a9e",
-        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSHkZCS1hBRFJJQks1WEZWNSZUA0BaTkRNIlQITlA-RExQVCpSPBQoFzwXFi0GESkTPBYpEAQrEg==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSHkZCS1hBRFJJQks1WEZWNSZUA0BaTkRNIlQITlA-RExQVCpSPBQoEDwXFi0GESkTPBYpEAccHg==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
       }
     ]
   },
@@ -238,32 +162,6 @@
         "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSHkZCS1hBRFJJQks1WEZWNSZUA0BaTkRNIlQITlA-RExQVCpSPBQoEzwXFi0GESkTPBYpEAQrKQ==/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
-      },
-      {
-        "channel_name": null,
-        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSHkZCS1hBRFJJQks1WEZWNSZUA0BaTkRNIlQITlA-RExQVCpSPBQoEzwXFi0GESkTPBYpEAQrKQ==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Women Empowerment League - Sanfrecce Hiroshima Regina Vs Cerezo Osaka Sakai (09/27/25)": {
-    "event_title": "Women Empowerment League - Sanfrecce Hiroshima Regina Vs Cerezo Osaka Sakai (09/27/25)",
-    "event_time": "03:00PM",
-    "event_date": "09/27/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/WiJKQE1CAEgzIjxAMVxCSTdCD0BAWjJAUj5UUkBdQzVEVkBAUhVONTImTUxMUFRVRFpOSUBCMzJSEEI1RCk0VgwmRkpAQlBETlBOVi5CKhYsACoVEwAQEy0EKhQtABEeFQ==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/WiJKQE1CAEgzIjxAMVxCSTdCD0BAWjJAUj5UUkBdQzVEVkBAUhVONTImTUxMUFRVRFpOSUBCMzJSEEI1RCk0VgwmRkpAQlBETlBOVi5CKhYsACoVEwAQEy0EKhQtABEeFQ==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
       }
     ]
   },
@@ -273,12 +171,6 @@
     "event_date": "09/27/25",
     "category": null,
     "channels": [
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUBCXjY0J01WByI0M0FQSUtSGUJESiRCViUeQkkkJlRQEgRUADEiMjcqQihWAFtGSUpWTTBNQl5EN1BOVlQCElY1JlRSS1BLQzJdTFZXUE4yS1BLVlQCElYuQioWLAAqFRMFEhEVAioULQASFhI=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
       {
         "channel_name": "SD",
         "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUBCXjY0J01WByI0M0FQSUtSGUJESiRCViUeQkkkJlRQEgRUADEiMjcqQihWAFtGSUpWTTBNQl5EN1BOVlQCElY1JlRSS1BLQzJdTFZXUE4yS1BLVlQCElYuQioWLAAqFRMFEhEVAioULQASFhI=/index.m3u8",
@@ -298,12 +190,6 @@
         "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUBCXjY0J01WByI0M0FQSUtSGUJESiRCViUeQkkkJlRQEgRUADEiMjcqQihWAFs0SUogTklKQglETV5GTFJEFBBSJTBWAVBJTEBdVFxIXUxFMkJSFhRCKFYsAioULAEVERQFEyksACsUFAIr/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUBCXjY0J01WByI0M0FQSUtSGUJESiRCViUeQkkkJlRQEgRUADEiMjcqQihWAFs0SUogTklKQglETV5GTFJEFBBSJTBWAVBJTEBdVFxIXUxFMkJSFhRCKFYsAioULAEVERQFEyksACsUFAIr/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
       }
     ]
   },
@@ -313,12 +199,6 @@
     "event_date": "09/27/25",
     "category": null,
     "channels": [
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUBCXjY0J01WByI0M0FQSUtSGUJESiRCViUeQkkkJlRQEgRUADEiMjcqQihWV1hGSUlYS1ZWIzQ1NyZUUkZbNDZPQlIWFEIzMlJHMExNWk0wQEJSSUglQjU2WDE8UhVOTktCUEJLIjRLUkQUEFI-VCgSPBYoEQMTEBUEHCgQPRYQLQo=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
       {
         "channel_name": "SD",
         "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUBCXjY0J01WByI0M0FQSUtSGUJESiRCViUeQkkkJlRQEgRUADEiMjcqQihWV1hGSUlYS1ZWIzQ1NyZUUkZbNDZPQlIWFEIzMlJHMExNWk0wQEJSSUglQjU2WDE8UhVOTktCUEJLIjRLUkQUEFI-VCgSPBYoEQMTEBUEHCgQPRYQLQo=/index.m3u8",
@@ -338,12 +218,6 @@
         "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBdVAxSGUJESiRCVhJCKFYBUEJONEIBNjInR0RPX1QETyRHVjUmVFBPJkZJUhUHVgcQVCpSPBQoEDwXFi0KFxIUPBYpEAQrEQ==/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBdVAxSGUJESiRCVhJCKFYBUEJONEIBNjInR0RPX1QETyRHVjUmVFBPJkZJUhUHVgcQVCpSPBQoEDwXFi0KFxIUPBYpEAQrEQ==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
       }
     ]
   },
@@ -353,12 +227,6 @@
     "event_date": "09/27/25",
     "category": null,
     "channels": [
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBdVAxSGUJESiRCVhJCKFYEWEpCS1Q0SVJGRklKXDJWByI0M0FQSUtSEEkwQUIzMlJDNE9AXUxWVidCQE9UNzJSPlQoEjwWKBECFBUXAisoED0WEC0E/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
       {
         "channel_name": "SD",
         "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBdVAxSGUJESiRCVhJCKFYEWEpCS1Q0SVJGRklKXDJWByI0M0FQSUtSEEkwQUIzMlJDNE9AXUxWVidCQE9UNzJSPlQoEjwWKBECFBUXAisoED0WEC0E/index.m3u8",
@@ -378,12 +246,6 @@
         "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBdVAxSGUJESiRCVhNCKFYAWzJJSl1GSFISMERNQjMyUkYyPjJdVFJAXDAwTVpUB08kQj5IXUwyUj5UKBI8FigRAhYQLQERKBA9FhASAw==/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBdVAxSGUJESiRCVhNCKFYAWzJJSl1GSFISMERNQjMyUkYyPjJdVFJAXDAwTVpUB08kQj5IXUwyUj5UKBI8FigRAhYQLQERKBA9FhASAw==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
       }
     ]
   },
@@ -393,12 +255,6 @@
     "event_date": "09/27/25",
     "category": null,
     "channels": [
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1IZQkRKJEJWE0IoVgQkRklKVzRJSkIITE1aMTBSJTBWCVBLPUsiMlYJIktOOCRGSVISMU9PVDFMRiZUKlI8FCgQPBcXFz0WFhE8FikQBBUW/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
       {
         "channel_name": "SD",
         "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1IZQkRKJEJWE0IoVgQkRklKVzRJSkIITE1aMTBSJTBWCVBLPUsiMlYJIktOOCRGSVISMU9PVDFMRiZUKlI8FCgQPBcXFz0WFhE8FikQBBUW/index.m3u8",
@@ -418,12 +274,6 @@
         "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1IZQkRKJEJWE0IoVggkS0hIXUxWAFgxPFJGMUQxQjMyUhtORE1aPUxSGTIyS1BLVi5CKhYsACoVEwcVFhEAKhQtABIWGg==/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1IZQkRKJEJWE0IoVggkS0hIXUxWAFgxPFJGMUQxQjMyUhtORE1aPUxSGTIyS1BLVi5CKhYsACoVEwcVFhEAKhQtABIWGg==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
       }
     ]
   },
@@ -438,12 +288,6 @@
         "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1IZQkRKJEJWE0IoVlZbRklKW0ZMUkM0NTdCBVY1JlRUNFBLPUsiMlZYUDAySF1UKlI8FCgQPBcXFz0WFxc8FikQBBQT/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/AFtOSUQmQlYHIjQzQVBJS1IZQkRKJEJWE0IoVlZbRklKW0ZMUkM0NTdCBVY1JlRUNFBLPUsiMlZYUDAySF1UKlI8FCgQPBcXFz0WFxc8FikQBBQT/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
       }
     ]
   },
@@ -453,12 +297,6 @@
     "event_date": "09/27/25",
     "category": null,
     "channels": [
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/AClCQktCUU9IIUFWCVRGTjRUVCpSFw5WCCJJTE1CMzJSRg5WWVA1PFI-VCgSPBYoEQMUKRYGHCgQPRYQEgE=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
       {
         "channel_name": "SD",
         "url": "https://world-proxifier.xyz/rbtv/p/AClCQktCUU9IIUFWCVRGTjRUVCpSFw5WCCJJTE1CMzJSRg5WWVA1PFI-VCgSPBYoEQMUKRYGHCgQPRYQEgE=/index.m3u8",
@@ -484,18 +322,6 @@
         "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSFEZIQVBUCDZQSERSJTBWAl9HTDFUPVYPWE5OQCdGVi5CKhYsACoVEj0QFRAAKhQtABIWFg==/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
-      },
-      {
-        "channel_name": "HDD A \u65e5\u672c\u8a9e",
-        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSFEZIQVBUCDZQSERSJTBWAl9HTDFUPVYPWE5OQCdGVi5CKhYsByoVEj0QFRAAKhQtABIXEw==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSFEZIQVBUCDZQSERSJTBWAl9HTDFUPVYPWE5OQCdGVi5CKhYsACoVEj0QFRAAKhQtABIWFg==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
       }
     ]
   },
@@ -505,12 +331,6 @@
     "event_date": "09/27/25",
     "category": null,
     "channels": [
-      {
-        "channel_name": null,
-        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSFEZIQVBUCDZQSERSJTBWAl9HTDFUPVYPWE5OQCdGVi5CKhYsAyoVEj0QFRAAKhQtABIXFg==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
       {
         "channel_name": null,
         "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSFEZIQVBUCDZQSERSJTBWAl9HTDFUPVYPWE5OQCdGVi5CKhYsAyoVEj0QFRAAKhQtABIXFg==/index.m3u8",
@@ -536,18 +356,6 @@
         "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSH0ZOMihGVgQhRkgzJDBWNSZUDEAmTUxMUFQGTSdJQDEmVCpSPBQoEDwXFi0GERYtPBYpEAQUFA==/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
-      },
-      {
-        "channel_name": "HDD A \u65e5\u672c\u8a9e",
-        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSH0ZOMihGVgQhRkgzJDBWNSZUDEAmTUxMUFQGTSdJQDEmVCpSPBQoFzwXFi0GERYtPBYpEAQVFA==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSH0ZOMihGVgQhRkgzJDBWNSZUDEAmTUxMUFQGTSdJQDEmVCpSPBQoEDwXFi0GERYtPBYpEAQUFA==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
       }
     ]
   },
@@ -557,12 +365,6 @@
     "event_date": "09/27/25",
     "category": null,
     "channels": [
-      {
-        "channel_name": null,
-        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSH0ZOMihGVgQhRkgzJDBWNSZUDEAmTUxMUFQGTSdJQDEmVCpSPBQoEzwXFi0GERYtPBYpEAQVFQ==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
       {
         "channel_name": null,
         "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSH0ZOMihGVgQhRkgzJDBWNSZUDEAmTUxMUFQGTSdJQDEmVCpSPBQoEzwXFi0GERYtPBYpEAQVFQ==/index.m3u8",
@@ -582,12 +384,6 @@
         "url": "https://world-proxifier.xyz/rbtv/p/USJKRE1YRklSGU5OQEIMDlI-VAMAQlM2TyRLM0AhTlY1JlRSRiJJRDFCV0A2WDFEUj5UKBI8FigRAxcXFT0QKBA9FhATPQ==/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/USJKRE1YRklSGU5OQEIMDlI-VAMAQlM2TyRLM0AhTlY1JlRSRiJJRDFCV0A2WDFEUj5UKBI8FigRAxcXFT0QKBA9FhATPQ==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
       }
     ]
   },
@@ -597,12 +393,6 @@
     "event_date": "09/27/25",
     "category": null,
     "channels": [
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/USJKRE1YRklSGU5OQEIMDlI-VAo0JkBATyRJVgBQSjc0XzJJSkIzMlIQNDU1WEswT0IDME1UQTZAIUZWLkIqFiwAKhUTARUeLQEqFC0AEhYV/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
       {
         "channel_name": "SD",
         "url": "https://world-proxifier.xyz/rbtv/p/USJKRE1YRklSGU5OQEIMDlI-VAo0JkBATyRJVgBQSjc0XzJJSkIzMlIQNDU1WEswT0IDME1UQTZAIUZWLkIqFiwAKhUTARUeLQEqFC0AEhYV/index.m3u8",
@@ -622,12 +412,6 @@
         "url": "https://world-proxifier.xyz/rbtv/p/USQwMkhQS1ZaIkpATTQwVlMhQkhIVDdWCVRGTjRUVCpSSTNAOVdGVhM9KxJSSjRIRF1UMTZCBzxNUEo2Uh40MkYiPFZaIkpATUIoViwCKhQsARQTFQIREiwAKxQUAhI=/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/USQwMkhQS1ZaIkpATTQwVlMhQkhIVDdWCVRGTjRUVCpSSTNAOVdGVhM9KxJSSjRIRF1UMTZCBzxNUEo2Uh40MkYiPFZaIkpATUIoViwCKhQsARQTFQIREiwAKxQUAhI=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
       }
     ]
   },
@@ -637,12 +421,6 @@
     "event_date": "09/27/25",
     "category": null,
     "channels": [
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/AClCQktCUU9IIUFWCVRGTjRUVCpSEkFISCFGVlMhRk9AQjMyUkZJRDVYRlZTIUZONFRUBFI-VCgSPBYoEQMXExoGFygQPRYQEAM=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
       {
         "channel_name": "SD",
         "url": "https://world-proxifier.xyz/rbtv/p/AClCQktCUU9IIUFWCVRGTjRUVCpSEkFISCFGVlMhRk9AQjMyUkZJRDVYRlZTIUZONFRUBFI-VCgSPBYoEQMXExoGFygQPRYQEAM=/index.m3u8",
@@ -662,12 +440,6 @@
         "url": "https://world-proxifier.xyz/rbtv/p/AClCQktCUU9IIUFWCVRGTjRUVCpSEjdMN1xGVlMhRk9AQjMyUkVOSjciN0xAQlVLOVRLVgNCKFYsAioULAEVFhYFEyksACsUFAMR/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/AClCQktCUU9IIUFWCVRGTjRUVCpSEjdMN1xGVlMhRk9AQjMyUkVOSjciN0xAQlVLOVRLVgNCKFYsAioULAEVFhYFEyksACsUFAMR/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
       }
     ]
   },
@@ -677,12 +449,6 @@
     "event_date": "09/27/25",
     "category": null,
     "channels": [
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/AClCQktCUU9IIUFWCVRGTjRUVCpSG0ZFTyJLQEZCBVY1JlQBMVBBQEZCDjVAXzQxREIFVi5CKhYsACoVEwIrEhQCKhQtABIXFA==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
       {
         "channel_name": "SD",
         "url": "https://world-proxifier.xyz/rbtv/p/AClCQktCUU9IIUFWCVRGTjRUVCpSG0ZFTyJLQEZCBVY1JlQBMVBBQEZCDjVAXzQxREIFVi5CKhYsACoVEwIrEhQCKhQtABIXFA==/index.m3u8",
@@ -702,12 +468,6 @@
         "url": "https://world-proxifier.xyz/rbtv/p/AClCQktCUU9IIUFWCVRGTjRUVCpSGTRKMkJTSzdQM0xNQjMyUhcGVlNYMEBOQihWLAIqFCwBFRYWBRwXLAArFBQAFA==/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/AClCQktCUU9IIUFWCVRGTjRUVCpSGTRKMkJTSzdQM0xNQjMyUhcGVlNYMEBOQihWLAIqFCwBFRYWBRwXLAArFBQAFA==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
       }
     ]
   },
@@ -717,12 +477,6 @@
     "event_date": "09/27/25",
     "category": null,
     "channels": [
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/AClCQktCUU9IIUFWCVRGTjRUVCpSRjU2T1BLRFIfQjVAJzQxSFZCVjUmVA9IJkg1QEJSMjdYVElAV1QIMV9OQkhCKFYsAioULAEVFi0GERUsACsUFAMc/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
       {
         "channel_name": "SD",
         "url": "https://world-proxifier.xyz/rbtv/p/AClCQktCUU9IIUFWCVRGTjRUVCpSRjU2T1BLRFIfQjVAJzQxSFZCVjUmVA9IJkg1QEJSMjdYVElAV1QIMV9OQkhCKFYsAioULAEVFi0GERUsACsUFAMc/index.m3u8",
@@ -742,12 +496,6 @@
         "url": "https://world-proxifier.xyz/rbtv/p/AClCQktCUU9IIUFWCVRGTjRUVCpSRzdMTVRAVjUmVFExVk02NVhLRFI-VCgSPBYoEQMUFxABEigQPRYQED0=/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/AClCQktCUU9IIUFWCVRGTjRUVCpSRzdMTVRAVjUmVFExVk02NVhLRFI-VCgSPBYoEQMUFxABEigQPRYQED0=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
       }
     ]
   },
@@ -757,12 +505,6 @@
     "event_date": "09/27/25",
     "category": null,
     "channels": [
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/AClCQktCUU9IIUFWCVRGTjRUVCpSEEIyTlRUBzRXQk0yJU5CREIFVjUmVAU0XklEUkM3REtQVAdSPlQoEjwWKBEDFBIVBRYoED0WEBAF/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
       {
         "channel_name": "SD",
         "url": "https://world-proxifier.xyz/rbtv/p/AClCQktCUU9IIUFWCVRGTjRUVCpSEEIyTlRUBzRXQk0yJU5CREIFVjUmVAU0XklEUkM3REtQVAdSPlQoEjwWKBEDFBIVBRYoED0WEBAF/index.m3u8",
@@ -782,12 +524,6 @@
         "url": "https://world-proxifier.xyz/rbtv/p/AClCQktCUU9IIUFWCVRGTjRUVCpSRUJLTlRUAUBcNzxSJTBWVl80MUBdVFFEXzNEMShUKlI8FCgQPBcXEj0QEhE8FikQBBYT/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/AClCQktCUU9IIUFWCVRGTjRUVCpSRUJLTlRUAUBcNzxSJTBWVl80MUBdVFFEXzNEMShUKlI8FCgQPBcXEj0QEhE8FikQBBYT/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
       }
     ]
   },
@@ -802,12 +538,6 @@
         "url": "https://world-proxifier.xyz/rbtv/p/AClCQktCUU9IIUFWCVRGTjRUVCpSSUlMTUIFVjUmVAFPJEBMTUIoViwCKhQsARUWEwArFiwAKxQUABA=/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/AClCQktCUU9IIUFWCVRGTjRUVCpSSUlMTUIFVjUmVAFPJEBMTUIoViwCKhQsARUWEwArFiwAKxQUABA=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
       }
     ]
   },
@@ -817,18 +547,6 @@
     "event_date": "09/27/25",
     "category": null,
     "channels": [
-      {
-        "channel_name": "VDO",
-        "url": "https://world-proxifier.xyz/rbtv/p/Cl1BNk1UMExAXVQNSFpGVhJCKFZTRghWDlBIRDYmRjVSJTBWU0YMClJINE44UEhEMSdGVi5CKhYsAyspEjwXFxMKFxEtPBEWGgQSFw==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/Cl1BNk1UMExAXVQNSFpGVhJCKFZTRghWDlBIRDYmRjVSJTBWU0YMClJINE44UEhEMSdGVi5CKhYsACoVEwMcFRU9KhQtABIUFA==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
       {
         "channel_name": "VDO",
         "url": "https://world-proxifier.xyz/rbtv/p/Cl1BNk1UMExAXVQNSFpGVhJCKFZTRghWDlBIRDYmRjVSJTBWU0YMClJINE44UEhEMSdGVi5CKhYsAyspEjwXFxMKFxEtPBEWGgQSFw==/index.m3u8",
@@ -860,18 +578,6 @@
         "url": "https://world-proxifier.xyz/rbtv/p/Cl1BNk1UMExAXVQNSFpGVhNCKFZTRgxSUkZCSEAhRklKQjMyUkNCNTZYR0RSE0ZLSF41RDNQS1YuQioWLAAqFRMFFR4UBSoULQASFBA=/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
-      },
-      {
-        "channel_name": "VDO",
-        "url": "https://world-proxifier.xyz/rbtv/p/Cl1BNk1UMExAXVQNSFpGVhNCKFZTRgxSUkZCSEAhRklKQjMyUkNCNTZYR0RSE0ZLSF41RDNQS1YuQioWLAMrKRI8FxcVAxwQFTwRFhoKERM=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/Cl1BNk1UMExAXVQNSFpGVhNCKFZTRgxSUkZCSEAhRklKQjMyUkNCNTZYR0RSE0ZLSF41RDNQS1YuQioWLAAqFRMFFR4UBSoULQASFBA=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
       }
     ]
   },
@@ -892,16 +598,292 @@
         "url": "https://world-proxifier.xyz/rbtv/p/Cl1BNk1UMExAXVQNSFpGVhNCKFZWIU4-SFlGPEBCAQRSJTBWU1Q3MkghRk1AQgRCRFtUKlI8FCgQPBcXFQArFS08FikQBBYV/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
-      },
+      }
+    ]
+  },
+  "Italian Campionato Primavera 1 - Cesena U20 Vs Napoli U19 (09/27/25)": {
+    "event_title": "Italian Campionato Primavera 1 - Cesena U20 Vs Napoli U19 (09/27/25)",
+    "event_time": "05:00PM",
+    "event_date": "09/27/25",
+    "category": null,
+    "channels": [
       {
-        "channel_name": "VDO",
-        "url": "https://world-proxifier.xyz/rbtv/p/Cl1BNk1UMExAXVQNSFpGVhNCKFZWIU4-SFlGPEBCAQRSJTBWU1Q3MkghRk1AQgRCRFtUKlI8FCgTPSsWLAEVERA9FyksBxQeFAQc/index.m3u8",
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/CidGS0hQS1YAUEo3SCJLRDciVFcxWEpENVQ3RFICVCpSEEIyRF1GVlQDK1Y1JlQLQCM0S0hCUhYaQihWLAIqFCwBFRcUASseLAArFBQGFQ==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Japanese Football League - Okinawa Sv Vs Iwate Grulla Morioka (09/27/25)": {
+    "event_title": "Japanese Football League - Okinawa Sv Vs Iwate Grulla Morioka (09/27/25)",
+    "event_time": "05:00PM",
+    "event_date": "09/27/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSFzQ2N1FGS09CD0BAWjJAUj5UCE5YS0Q6UFRSVUIzMlIaPEQ3VFQAMSRJS0BCCDYxWDRKQEIoViwCKhQsARQTEQEVESwAKxQUBhQ=/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Japanese Football League - Veertien Mie Vs Honda Fc (09/27/25)": {
+    "event_title": "Japanese Football League - Veertien Mie Vs Honda Fc (09/27/25)",
+    "event_time": "05:00PM",
+    "event_date": "09/27/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSFzQ2N1FGS09CD0BAWjJAUj5UUURUNzNIVEtWDlhCVjUmVAEyXUFEUhcGVi5CKhYsACoVEgcXFS0CKhQtABIVFA==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Japanese J1 League - Avispa Fukuoka Vs Sanfrecce Hiroshima (09/27/25)": {
+    "event_title": "Japanese J1 League - Avispa Fukuoka Vs Sanfrecce Hiroshima (09/27/25)",
+    "event_time": "05:00PM",
+    "event_date": "09/27/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDD A \u65e5\u672c\u8a9e",
+        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSEjNMNiNGVgckSDAyXkZWNSZUUkBdQzVEVkBAUhVONTImTUxMUFQqUjwUKBc8FxYtBhcQEzwWKRAEEBE=/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
       },
       {
         "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/Cl1BNk1UMExAXVQNSFpGVhNCKFZWIU4-SFlGPEBCAQRSJTBWU1Q3MkghRk1AQgRCRFtUKlI8FCgQPBcXFQArFS08FikQBBYV/index.m3u8",
+        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSEjNMNiNGVgckSDAyXkZWNSZUUkBdQzVEVkBAUhVONTImTUxMUFQqUjwUKBA8FxYtBhcQEzwWKRAEFyk=/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Japanese J1 League - Avispa Fukuoka Vs Sanfrecce Hiroshima (09/27/25) [STREAM 1[HD]]": {
+    "event_title": "Japanese J1 League - Avispa Fukuoka Vs Sanfrecce Hiroshima (09/27/25) [STREAM 1[HD]]",
+    "event_time": "05:00PM",
+    "event_date": "09/27/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": null,
+        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSEjNMNiNGVgckSDAyXkZWNSZUUkBdQzVEVkBAUhVONTImTUxMUFQqUjwUKBM8FxYtBhcQEzwWKRAEERA=/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Japanese J1 League - Tokyo Verdy Vs Urawa Red Diamonds (09/27/25)": {
+    "event_title": "Japanese J1 League - Tokyo Verdy Vs Urawa Red Diamonds (09/27/25)",
+    "event_time": "05:00PM",
+    "event_date": "09/27/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDD A \u65e5\u672c\u8a9e",
+        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSRzRKOCJUUUQhQTxSJTBWVCFGPkBCV0BHQgdMQFw0SUcmVCpSPBQoFzwXFi0GERYSPBYpEAQRFg==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSRzRKOCJUUUQhQTxSJTBWVCFGPkBCV0BHQgdMQFw0SUcmVCpSPBQoEDwXFi0GERYSPBYpEAQXEg==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Japanese J1 League - Tokyo Verdy Vs Urawa Red Diamonds (09/27/25) [STREAM 6[HD]]": {
+    "event_title": "Japanese J1 League - Tokyo Verdy Vs Urawa Red Diamonds (09/27/25) [STREAM 6[HD]]",
+    "event_time": "05:00PM",
+    "event_date": "09/27/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": null,
+        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxRWCVRGTjRUVCpSRzRKOCJUUUQhQTxSJTBWVCFGPkBCV0BHQgdMQFw0SUcmVCpSPBQoEzwXFi0GERYSPBYpEAQQEA==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Japanese J2 League - Iwaki Fc Vs Ventforet Kofu (09/27/25)": {
+    "event_title": "Japanese J2 League - Iwaki Fc Vs Ventforet Kofu (09/27/25)",
+    "event_time": "05:00PM",
+    "event_date": "09/27/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDD A \u65e5\u672c\u8a9e",
+        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxVWCVRGTjRUVCpSGjxETlhUAwBCMzJSRUJJN1U0NUQnVAwyVTJWLkIqFiwHKhUSAhQTFgoqFC0AEhMQ/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxVWCVRGTjRUVCpSGjxETlhUAwBCMzJSRUJJN1U0NUQnVAwyVTJWLkIqFiwAKhUSAhQTFgoqFC0AEhUT/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Japanese J2 League - Jef United Ichihara Chiba Vs Roasso Kumamoto (09/27/25)": {
+    "event_title": "Japanese J2 League - Jef United Ichihara Chiba Vs Roasso Kumamoto (09/27/25)",
+    "event_time": "05:00PM",
+    "event_date": "09/27/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDD B \u65e5\u672c\u8a9e",
+        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxVWCVRGTjRUVCpSGwADUkRLTDdUQVYKVk1MS1A3RFIQTUxBUFQxNkJXNkAmMDZSGDJIQFw0MzJCKFYsAioTLAEUFhIBEhMsACsUFAcr/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxVWCVRGTjRUVCpSGwADUkRLTDdUQVYKVk1MS1A3RFIQTUxBUFQxNkJXNkAmMDZSGDJIQFw0MzJCKFYsAioULAEUFhIBEhMsACsUFAEU/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Japanese J2 League - Montedio Yamagata Vs Renofa Yamaguchi (09/27/25)": {
+    "event_title": "Japanese J2 League - Montedio Yamagata Vs Renofa Yamaguchi (09/27/25)",
+    "event_time": "05:00PM",
+    "event_date": "09/27/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDD A \u65e5\u672c\u8a9e",
+        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxVWCVRGTjRUVCpSHjRJN1RBTDJCXkRMUExEN1BUMTZCV0BNIkNEUkhGSEBaMkJLWFQqUjwUKBc8FxYSAhEQFzwWKRAEERI=/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxVWCVRGTjRUVCpSHjRJN1RBTDJCXkRMUExEN1BUMTZCV0BNIkNEUkhGSEBaMkJLWFQqUjwUKBA8FxYSAhEQFzwWKRAEFh4=/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Japanese J3 League - Azul Claro Numazu Vs Fc Gifu (09/27/25)": {
+    "event_title": "Japanese J3 League - Azul Claro Numazu Vs Fc Gifu (09/27/25)",
+    "event_time": "05:00PM",
+    "event_date": "09/27/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxZWCVRGTjRUVCpSEj8wT0IGS0AhNFYPJEpEOSRUMTZCAQRSFE5BNEIoViwCKhQsARQWEgATHiwAKxQUARY=/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Japanese J3 League - Giravanz Kitakyushu Vs Kochi United (09/27/25)": {
+    "event_title": "Japanese J3 League - Giravanz Kitakyushu Vs Kochi United (09/27/25)",
+    "event_time": "05:00PM",
+    "event_date": "09/27/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxZWCVRGTjRUVCpSFE41QCVGSTlCDkw3UEg8NCZNMFIlMFYIIkBPSEJSSUgnQkNSPlQoEjwWKBECFBYUBhIoED0WEBEH/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Japanese J3 League - Nara Club Vs Fc Osaka (09/27/25)": {
+    "event_title": "Japanese J3 League - Nara Club Vs Fc Osaka (09/27/25)",
+    "event_time": "05:00PM",
+    "event_date": "09/27/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxZWCVRGTjRUVCpSH0Y1QEIGSzRRVDE2QgEEUhwwRE5QVCpSPBQoEDwXFhICFh4SPBYpEAQXEQ==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Japanese J3 League - Zweigen Kanazawa Fc Vs Kamatamare Sanuki (09/27/25)": {
+    "event_title": "Japanese J3 League - Zweigen Kanazawa Fc Vs Kamatamare Sanuki (09/27/25)",
+    "event_time": "05:00PM",
+    "event_date": "09/27/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxZWCVRGTjRUVCpSSTxASFpCSVIYRklAKUY-QEIBBFIlMFYIUEpEN1BKRDFUVFJAXTJKSEIoViwCKhQsARQWEgMcHiwAKxQUARc=/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Malaysian Super League - Kuala Lumpur City Fc Vs Terengganu Fc (09/27/25)": {
+    "event_title": "Malaysian Super League - Kuala Lumpur City Fc Vs Terengganu Fc (09/27/25)",
+    "event_time": "05:00PM",
+    "event_date": "09/27/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SKA",
+        "url": "https://world-proxifier.xyz/rbtv/p/DlBJRDgmTkRNQlAwM1Q3VglURk40VFQqUhgyRE9QVA00XDUwMUIGTDcoVAMAQjMyUkdCNURdTE5AXTJWBxBUKlI8FCgTPSsWLAEVFy0KER4sBxQeFQYR/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/DlBJRDgmTkRNQlAwM1Q3VglURk40VFQqUhgyRE9QVA00XDUwMUIGTDcoVAMAQjMyUkdCNURdTE5AXTJWBxBUKlI8FCgQPBcXEz0cExo8FikQBBAV/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Rus D3A - Rodina Moskva Ii Vs Fk Kaluga (09/27/25)": {
+    "event_title": "Rus D3A - Rodina Moskva Ii Vs Fk Kaluga (09/27/25)",
+    "event_time": "05:00PM",
+    "event_date": "09/27/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/UURQVgEABFYuQlc2R1hLRFIeNDJOJUZWChpUMTZCAQxSGEZLNFpGVi5CKhYsACoVEwAVExMAKhQtABISEA==/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Vietnam National First Class League - Bac Ninh Vs Khatoco Khanh Hoa (09/27/25)": {
+    "event_title": "Vietnam National First Class League - Bac Ninh Vs Khatoco Khanh Hoa (09/27/25)",
+    "event_time": "05:00PM",
+    "event_date": "09/27/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/VVhCM01QSlYPUDFMMl1GS1IXTjU2J1QET1AwMlIZQkRKJEJWLkIFREZCCUxNW1QxNkIOT0AnNEIyQg5PQF1NVgUiRlYuQioWLAAqFRMFEBcaByoULQASEhc=/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Vietnam National First Class League - Van Hien University Vs Truong Tuoi Dong Nai (09/27/25)": {
+    "event_title": "Vietnam National First Class League - Van Hien University Vs Truong Tuoi Dong Nai (09/27/25)",
+    "event_time": "05:00PM",
+    "event_date": "09/27/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/VVhCM01QSlYPUDFMMl1GS1IXTjU2J1QET1AwMlIZQkRKJEJWLkJTRE1CA0xEXVRQTVgzQDEmTjM4QjMyUkc3MDJdTFZXJDRMUhE0SUpCCURIQihWLAIqFCwBFREWChQSLAArFBQGEA==/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
       }
@@ -913,12 +895,6 @@
     "event_date": "09/27/25",
     "category": null,
     "channels": [
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/B1Q3NUAhTlYAW0ZLT1RLTkRCADAxIjVAUj5UB0AhQEBPIktEUi9UVUBWQlYTQihWLAQqEywCHB4QABwWLAMRERUFHA==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-        "duration": null
-      },
       {
         "channel_name": "HDD A",
         "url": "https://world-proxifier.xyz/rbtv/p/B1Q3NUAhTlYAW0ZLT1RLTkRCADAxIjVAUj5UB0AhQEBPIktEUi9UVUBWQlYTQihWLAQqEywCHB4QABwWLAMRERUFHA==/index.m3u8",
@@ -938,51 +914,31 @@
         "url": "https://world-proxifier.xyz/rbtv/p/BxoEVghQNzNIXUxWLkIAMDEiNUBAXVQES1BKN0giSzJLWDVWEz0VElIlMFYAIUJIMl1GVj9CVjBAX05BOFhLTlIVQkQ3JlQWUj5UKBQ8FSktAioWGgoWFRIHKhMTPRUpFQ==/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
         "duration": null
-      },
+      }
+    ]
+  },
+  "Wsbk - Wsbk: Aragon (Spain) - Qualification (09/27/25)": {
+    "event_title": "Wsbk - Wsbk: Aragon (Spain) - Qualification (09/27/25)",
+    "event_time": "05:00PM",
+    "event_date": "09/27/25",
+    "category": null,
+    "channels": [
       {
-        "channel_name": "LALIGA",
-        "url": "https://world-proxifier.xyz/rbtv/p/BxoEVghQNzNIXUxWLkIAMDEiNUBAXVQES1BKN0giSzJLWDVWEz0VElIlMFYAIUJIMl1GVj9CVjBAX05BOFhLTlIVQkQ3JlQWUj5UKBQ8FSktAioWGgoWFRIHKhMTPRUpFQ==/index.m3u8",
+        "channel_name": "VDO",
+        "url": "https://world-proxifier.xyz/rbtv/p/WkYFDFI-VF5WEw4fUhI3REoiS1YlRjVESF0sVi5CVjBAX05BSFZGM0giS1YuQioQLAMrKRI8FB4aAhATFDwRFy0CEBQ=/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
         "duration": null
-      }
-    ]
-  },
-  "Australia: Super Rugby Aus - Brumbies Vs Waratahs (09/27/25)": {
-    "event_title": "Australia: Super Rugby Aus - Brumbies Vs Waratahs (09/27/25)",
-    "event_time": "03:00PM",
-    "event_date": "09/27/25",
-    "category": null,
-    "channels": [
+      },
       {
-        "channel_name": "HDD B",
-        "url": "https://world-proxifier.xyz/rbtv/p/AkRQU1ESDw4CC1RSNCNCNVJBMk5BKFQGVEZUKlITNzBMUU5ANkIzMlJKRjVAJ0ZPNkIoViwFKhMsAhweEgYTFiwDEREVBBE=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp",
+        "channel_name": "MOVISTAR2",
+        "url": "https://world-proxifier.xyz/rbtv/p/WkYFDFI-VF5WEw4fUhI3REoiS1YlRjVESF0sVi5CVjBAX05BSFZGM0giS1YuQioQLAMrKRI8FB4aAhATFDwRFy0DFCk=/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
         "duration": null
       },
       {
-        "channel_name": "HDD B",
-        "url": "https://world-proxifier.xyz/rbtv/p/AkRQU1ESDw4CC1RSNCNCNVJBMk5BKFQGVEZUKlITNzBMUU5ANkIzMlJKRjVAJ0ZPNkIoViwFKhMsAhweEgYTFiwDEREVBBE=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Australia: Super Rugby Aus - Brumbies Vs Waratahs (09/27/25) [STREAM 33[HD]]": {
-    "event_title": "Australia: Super Rugby Aus - Brumbies Vs Waratahs (09/27/25) [STREAM 33[HD]]",
-    "event_time": "03:00PM",
-    "event_date": "09/27/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": null,
-        "url": "https://world-proxifier.xyz/rbtv/p/AkRQU1ESDw4CC1RSNCNCNVJBMk5BKFQGVEZUKlITNzBMUU5ANkIzMlJKRjVAJ0ZPNkIoViwFKhcsAhweEgYTFiwDEREVBBY=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": null,
-        "url": "https://world-proxifier.xyz/rbtv/p/AkRQU1ESDw4CC1RSNCNCNVJBMk5BKFQGVEZUKlITNzBMUU5ANkIzMlJKRjVAJ0ZPNkIoViwFKhcsAhweEgYTFiwDEREVBBY=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp",
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/WkYFDFI-VF5WEw4fUhI3REoiS1YlRjVESF0sVi5CVjBAX05BSFZGM0giS1YuQioQLAcqFhoKFBIXBCoXFwUcKRY=/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
         "duration": null
       }
     ]
@@ -993,12 +949,6 @@
     "event_date": "09/27/25",
     "category": null,
     "channels": [
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSG0ZJTVhIVlZYS0lEIVQxNkJRQDFUS0JEQgQzTFBLQFI-VCgQPBEoEgocKRQ9KygTBxMRFAY=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-        "duration": null
-      },
       {
         "channel_name": "HDD A",
         "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSG0ZJTVhIVlZYS0lEIVQxNkJRQDFUS0JEQgQzTFBLQFI-VCgQPBEoEgocKRQ9KygTBxMRFAY=/index.m3u8",
@@ -1018,32 +968,6 @@
         "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUhE0MEFfQjJSPlQES1BLVgU-BlYsQg1MQF1MVltCMzJSFTBMRFtUUlI8VAg2J0Y3RF1INlIbVCpSPBYoFzwUHhoCFx4aPBUTFQUTEw==/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
-      },
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUhE0MEFfQjJSPlQES1BLVgU-BlYsQg1MQF1MVltCMzJSFTBMRFtUUlI8VAg2J0Y3RF1INlIbVCpSPBYoFzwUHhoCFx4aPBUTFQUTEw==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Wta Beijing, China Women Singles - Ajla Tomljanovic Vs Jessica Pegula (09/27/25)": {
-    "event_title": "Wta Beijing, China Women Singles - Ajla Tomljanovic Vs Jessica Pegula (09/27/25)",
-    "event_time": "03:40PM",
-    "event_date": "09/27/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQGSV9GVlciSktJUEs2NVhAVjUmVA9EJjBMRlBUV0RaMktAQihWLAAqEywCHB4TARYVLAMRERUKKw==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQGSV9GVlciSktJUEs2NVhAVjUmVA9EJjBMRlBUV0RaMktAQihWLAAqEywCHB4TARYVLAMRERUKKw==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-        "duration": null
       }
     ]
   },
@@ -1053,12 +977,6 @@
     "event_date": "09/27/25",
     "category": null,
     "channels": [
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUhE0MEFfQjJSPlQESCEwM0RQVFJSPFQMQF9OSTZeRjxAQgRWNSZUU0hcQkRSE0ZFMiYqDTRYMERSRjFARVBLTFI-VCgQPBEoEgocFC0CKygTBxMeLT0=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-        "duration": null
-      },
       {
         "channel_name": "HDD A",
         "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUhE0MEFfQjJSPlQESCEwM0RQVFJSPFQMQF9OSTZeRjxAQgRWNSZUU0hcQkRSE0ZFMiYqDTRYMERSRjFARVBLTFI-VCgQPBEoEgocFC0CKygTBxMeLT0=/index.m3u8",
@@ -1080,8 +998,8 @@
         "duration": null
       },
       {
-        "channel_name": "VDO",
-        "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUhE0MEFfQjJSPlQMMVgwM0hdRlYOX0ZDRF00MUhWKl1LUEtOUkZNMEBYVDE2QgM2TUJVVixCCDBGWzQxQEIOVi5CKhQsAyspEjwUHhoCECkQPBEXLQIcHg==/index.m3u8",
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUhE0MEFfQjJSPlQMMVgwM0hdRlYOX0ZDRF00MUhWKl1LUEtOUkZNMEBYVDE2QgM2TUJVVixCCDBGWzQxQEIOVi5CKhQsByoWGgoUEi0AKhcXBRwpFw==/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
       }
@@ -1106,26 +1024,8 @@
         "duration": null
       },
       {
-        "channel_name": "HDD B",
-        "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VARAIUk2NkIES0ZQN0Q5QgJEMVVORFIlMFZZWD82NEIFQDFaMFYuQioULAcqFhoKKykRACoXFwUcKRI=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "VDO",
-        "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VARAIUk2NkIES0ZQN0Q5QgJEMVVORFIlMFZZWD82NEIFQDFaMFYuQioULAMrKRI8FB4aPSsVEDwRFhoKEhY=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "MOVISTAR2",
-        "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VARAIUk2NkIES0ZQN0Q5QgJEMVVORFIlMFZZWD82NEIFQDFaMFYuQioULAMrKRI8FB4aPSsVEDwRFy0CFh4=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "HDD B",
-        "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VARAIUk2NkIES0ZQN0Q5QgJEMVVORFIlMFZZWD82NEIFQDFaMFYuQioULAcqFhoKKykRACoXFwUcKRI=/index.m3u8",
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VARAIUk2NkIES0ZQN0Q5QgJEMVVORFIlMFZZWD82NEIFQDFaMFYuQioULAcqFhoKKykRACoXFwUcKRA=/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
       }
@@ -1142,10 +1042,32 @@
         "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VARAIUk2NkIES0ZQN0Q5QgJEMVVORFIlMFZZWD82NEIFQDFaMFYuQioULAMqFhoKKykRACoXFwUSFhY=/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
-      },
+      }
+    ]
+  },
+  "Atp Beijing, China Men Double - Davidovich Fokina A / De Minaur A Vs Heliovaara H / Patten H (09/27/25)": {
+    "event_title": "Atp Beijing, China Men Double - Davidovich Fokina A / De Minaur A Vs Heliovaara H / Patten H (09/27/25)",
+    "event_time": "04:45PM",
+    "event_date": "09/27/25",
+    "category": null,
+    "channels": [
       {
-        "channel_name": null,
-        "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VARAIUk2NkIES0ZQN0Q5QgJEMVVORFIlMFZZWD82NEIFQDFaMFYuQioULAMqFhoKKykRACoXFwUSFhY=/index.m3u8",
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVQFMiRHS0RCKFYBUDNMRyIzTEZbVAMyXk5JQEIEVixCQUBSHk5JQCQ3VgJCMzJSFUJLSCIzREAhRlYFQipWU1AxM0RdVAFSPlQoEDwRKBIKHCkRAhYoEwcTHhIC/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Wta Beijing, China Women Singles - Naomi Osaka Vs Aliaksandra Sasnovich (09/27/25)": {
+    "event_title": "Wta Beijing, China Women Singles - Naomi Osaka Vs Aliaksandra Sasnovich (09/27/25)",
+    "event_time": "04:55PM",
+    "event_date": "09/27/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "VDO",
+        "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQLQCJKTFIcMEROUFQxNkIES0hQSDJAXUE1QEJQRDZdNDFIVk1WLkIqFCwDKykSPBQeGgMXEBQ8ERctAysp/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
       }
@@ -1162,42 +1084,18 @@
         "url": "https://world-proxifier.xyz/rbtv/p/CVgzNk9YVAVIJU4ySEJSM0BcRlYuQlUwNyFGH1JHCQ5SElJWBl9CQjchTkJSJTBWUkZGSEAnNDVSPlQoEgAqFy09FCgSChwUEAYSKBcDKxYUPQ==/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
         "duration": null
-      },
-      {
-        "channel_name": "VDO",
-        "url": "https://world-proxifier.xyz/rbtv/p/CVgzNk9YVAVIJU4ySEJSM0BcRlYuQlUwNyFGH1JHCQ5SElJWBl9CQjchTkJSJTBWUkZGSEAnNDVSPlQoEgAqFy09FCgSChwUEAYSKBcDKxYUPQ==/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
-        "duration": null
       }
     ]
   },
-  "Kovo Cup Women - Ibk Women Vs Hyundai E&C Hillstate Women (09/27/25)": {
-    "event_title": "Kovo Cup Women - Ibk Women Vs Hyundai E&C Hillstate Women (09/27/25)",
-    "event_time": "03:00PM",
+  "Livoli Divisi Utama - Putra: Pasundan Vs  Ganeksa Bhumikarta (09/27/25)": {
+    "event_title": "Livoli Divisi Utama - Putra: Pasundan Vs  Ganeksa Bhumikarta (09/27/25)",
+    "event_time": "05:00PM",
     "event_date": "09/27/25",
     "category": null,
     "channels": [
       {
-        "channel_name": "NVR",
-        "url": "https://world-proxifier.xyz/rbtv/p/CBxTCFIQMjdSSjRIRF1UKlIaBQxSSjRIRF1UMTZCAzw0XUFESEIAIwBCA0xPXzAzQCdCVloiSkBNQihWLAIWKBM9KxYsAhweEAIrFCwHFSkSBBA=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "VUS",
-        "url": "https://world-proxifier.xyz/rbtv/p/CBxTCFIQMjdSSjRIRF1UKlIaBQxSSjRIRF1UMTZCAzw0XUFESEIAIwBCA0xPXzAzQCdCVloiSkBNQihWLAIWKBM9KxYsAhweEAIrFCwHFSkSBBI=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "NVR",
-        "url": "https://world-proxifier.xyz/rbtv/p/CBxTCFIQMjdSSjRIRF1UKlIaBQxSSjRIRF1UMTZCAzw0XUFESEIAIwBCA0xPXzAzQCdCVloiSkBNQihWLAIWKBM9KxYsAhweEAIrFCwHFSkSBBA=/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "VUS",
-        "url": "https://world-proxifier.xyz/rbtv/p/CBxTCFIQMjdSSjRIRF1UKlIaBQxSSjRIRF1UMTZCAzw0XUFESEIAIwBCA0xPXzAzQCdCVloiSkBNQihWLAIWKBM9KxYsAhweEAIrFCwHFSkSBBI=/index.m3u8",
+        "channel_name": "VDO",
+        "url": "https://world-proxifier.xyz/rbtv/p/CVgzNk9YVAVIJU4ySEJSM0BcRlYuQlUwNyFGH1JDRjI0XUFETUIzMlJCAkRNVEgyQEIFTzRcTkpAITFEUj5UKBIAKhctPRQoEgocFBAGEygXAysWFAI=/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
         "duration": null
       }
