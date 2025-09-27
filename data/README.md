@@ -1,24 +1,29 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Sat Sep 27 05:14:05 UTC 2025
+Last updated: Sat Sep 27 05:30:44 UTC 2025
 
-Workflow run: #299
+Workflow run: #300
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-27T05:14:04.582233
+Extracted at: 2025-09-27T05:30:43.720605
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== MEDIA SEGMENTS (First 10) ===
+=== GROUPED EVENTS BY TITLE ===
 
-1. https://world-proxifier.xyz/rbtv/p/ABIJBgESHVYAFw9WLkIFBFIZTjZNJlQxNkJRNjEiSzMyQgQ1SiJLRDQnMFYuQioeLAcqFhoKFBIRACoXFwUSKRo=/index.m3u8
-2. https://world-proxifier.xyz/rbtv/p/AkRQU1ESDw4CC1QGBxlUKlJDSUQ4QgpBRSZUKlIUQkBPIktOUhBGMzZCMzJSEzdMNlFGSURCD0wyXTBWLkIqFi08ESgSChwWFgQcKBMHExAaBw==/index.m3u8
-3. https://world-proxifier.xyz/rbtv/p/AkRQU1ESDw4CC1QGBxlUKlJDSUQ4QgpBRSZUKlIUQkBPIktOUhBGMzZCMzJSEzdMNlFGSURCD0wyXTBWLkIqFi08FSgSChwWFgQcKBMHExEtAA==/index.m3u8
-4. https://world-proxifier.xyz/rbtv/p/D0MFVi5CA0RNJk1MTUJRTEpUNzJSJTBWAFsySUhWTUxSETdESiJLMlI-VCgRPBEoEgoUHhQHFCgTBxMREAE=/index.m3u8
-5. https://world-proxifier.xyz/rbtv/p/D0MFVi5CXjZOIk1ETFBUB0AoUDNAITBWNSZUXDJcTjAxWFQASFBLMzZCKFYsASoTLAIcFhYFFCksAxERFQMV/index.m3u8
-6. https://world-proxifier.xyz/rbtv/p/DiIwM1JFRks0UEdLREJVNTJcNDNIIksyUj5UDzJdRjNLUEtWUSJPRDZCKFZRUD5WUSJPRDZCKFYsAhcoFzwUHhoDHBQUPBUTFQQVEQ==/index.m3u8
-7. https://world-proxifier.xyz/rbtv/p/DB8AVgBbRkgzWDRJNltON1I-VAdUEQpWVhYJUwxCBgECHlUODB9QAQpDHVZVHA9WEAJUKlI8FBUsByoWGgoVHhIKKhcXBRIQEg==/index.m3u8
-8. https://world-proxifier.xyz/rbtv/p/DB8AVgBbRkgzWDRJNltON1I-VAdUEQpWVhYJUwxCBgECHlUODB9QAQpDHVZVHA9WEAJUKlI8FBUsAyoWGgoVHhIKKhcXBRIRFw==/index.m3u8
-9. https://world-proxifier.xyz/rbtv/p/DB8AVgBbRkgzWDRJNltON1I-VAQCFABWB0RXXFIXBlYSARFWLkIqFhE8FSgSChwXGgMrKBMHExMWAw==/index.m3u8
-10. https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSFzQ2N1FGS09CD0BAWjJAUj5UVURYSURGQlBPSFpGVgcQVDE2QghMTVRHQEBCCEw3JjJISEIBBFI-VCgSPBYoEQIRFRECFCgQPRYTFAU=/index.m3u8
+EVENT: Australia: Afl - Play Offs - Geelong Cats Vs Brisbane Lions (09/27/25)
+Time: 12:30PM
+Date: 09/27/25
+Category: None
+Available Channels (1):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/AkRQU1ESDw4CC1QGBxlUKlJDSUQ4QgpBRSZUKlIUQkBPIktOUhBGMzZCMzJSEzdMNlFGSURCD0wyXTBWLkIqFi08ESgSChwWFgQcKBMHExAaBw==/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_asr_active.webp
+
+================================================================================
+
+EVENT: Australia: Afl - Play Offs - Geelong Cats Vs Brisbane Lions (09/27/25) [STREAM 31[HD]]
+Time: 12:30PM
+Date: 09/27/25
+Category: None
 ```

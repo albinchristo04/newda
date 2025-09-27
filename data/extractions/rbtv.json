@@ -1,423 +1,1206 @@
 {
-  "timestamp": "2025-09-27T05:14:04.582233",
+  "timestamp": "2025-09-27T05:30:43.720605",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
-  "segments": [
+  "segments": [],
+  "events": [
     {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
-      "group_title": "AMERICAN FOOTBALL",
-      "title": "Canada: Cfl - Bc Lions Vs Toronto Argonauts [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/ABIJBgESHVYAFw9WLkIFBFIZTjZNJlQxNkJRNjEiSzMyQgQ1SiJLRDQnMFYuQioeLAcqFhoKFBIRACoXFwUSKRo=/index.m3u8"
-    },
-    {
-      "type": "segment",
+      "event_time": "12:30PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD A",
+      "event_title": "Australia: Afl - Play Offs - Geelong Cats Vs Brisbane Lions (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkRQU1ESDw4CC1QGBxlUKlJDSUQ4QgpBRSZUKlIUQkBPIktOUhBGMzZCMzJSEzdMNlFGSURCD0wyXTBWLkIqFi08ESgSChwWFgQcKBMHExAaBw==/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_asr_active.webp",
-      "group_title": "AUSIE RULES",
-      "title": "Australia: Afl - Play Offs - Geelong Cats Vs Brisbane Lions [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AkRQU1ESDw4CC1QGBxlUKlJDSUQ4QgpBRSZUKlIUQkBPIktOUhBGMzZCMzJSEzdMNlFGSURCD0wyXTBWLkIqFi08ESgSChwWFgQcKBMHExAaBw==/index.m3u8"
+      "group_title": "AUSIE RULES"
     },
     {
-      "type": "segment",
+      "event_time": "12:30PM",
+      "event_date": "09/27/25",
+      "event_title": "Australia: Afl - Play Offs - Geelong Cats Vs Brisbane Lions (09/27/25) [STREAM 31[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkRQU1ESDw4CC1QGBxlUKlJDSUQ4QgpBRSZUKlIUQkBPIktOUhBGMzZCMzJSEzdMNlFGSURCD0wyXTBWLkIqFi08FSgSChwWFgQcKBMHExEtAA==/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_asr_active.webp",
-      "group_title": "AUSIE RULES",
-      "title": "Australia: Afl - Play Offs - Geelong Cats Vs Brisbane Lions [STREAM 31[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AkRQU1ESDw4CC1QGBxlUKlJDSUQ4QgpBRSZUKlIUQkBPIktOUhBGMzZCMzJSEzdMNlFGSURCD0wyXTBWLkIqFi08FSgSChwWFgQcKBMHExEtAA==/index.m3u8"
+      "group_title": "AUSIE RULES"
     },
     {
-      "type": "segment",
+      "event_time": "01:00PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDK A \u65e5\u672c\u8a9e",
+      "event_title": "Npb - Hanshin Tigers Vs Chunichi Dragons (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/D0MFVi5CA0RNJk1MTUJRTEpUNzJSJTBWAFsySUhWTUxSETdESiJLMlI-VCgRPBEoEgoUHhQHFCgTBxMREAE=/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-      "group_title": "BASEBALL",
-      "title": "Npb - Hanshin Tigers Vs Chunichi Dragons [HDK A \u65e5\u672c\u8a9e]",
-      "url": "https://world-proxifier.xyz/rbtv/p/D0MFVi5CA0RNJk1MTUJRTEpUNzJSJTBWAFsySUhWTUxSETdESiJLMlI-VCgRPBEoEgoUHhQHFCgTBxMREAE=/index.m3u8"
+      "group_title": "BASEBALL"
     },
     {
-      "type": "segment",
+      "event_time": "01:00PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDK A \u65e5\u672c\u8a9e",
+      "event_title": "Npb - Yokohama Baystars Vs Yomiuri Giants (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/D0MFVi5CXjZOIk1ETFBUB0AoUDNAITBWNSZUXDJcTjAxWFQASFBLMzZCKFYsASoTLAIcFhYFFCksAxERFQMV/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-      "group_title": "BASEBALL",
-      "title": "Npb - Yokohama Baystars Vs Yomiuri Giants [HDK A \u65e5\u672c\u8a9e]",
-      "url": "https://world-proxifier.xyz/rbtv/p/D0MFVi5CXjZOIk1ETFBUB0AoUDNAITBWNSZUXDJcTjAxWFQASFBLMzZCKFYsASoTLAIcFhYFFCksAxERFQMV/index.m3u8"
+      "group_title": "BASEBALL"
     },
     {
-      "type": "segment",
+      "event_time": "09:00AM",
+      "event_date": "09/27/25",
+      "event_title": "One Championship - Cage Fury Fc 146 (09/27/25) [STREAM 3[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DB8AVgBbRkgzWDRJNltON1I-VAQCFABWB0RXXFIXBlYSARFWLkIqFhE8FSgSChwXGgMrKBMHExMWAw==/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
-      "group_title": "FIGHTING",
-      "title": "Most Valuable Promotions - Jonathan Rojas - Ray Rojas [HDD A ESPA\u00d1OL]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIwM1JFRks0UEdLREJVNTJcNDNIIksyUj5UDzJdRjNLUEtWUSJPRDZCKFZRUD5WUSJPRDZCKFYsAhcoFzwUHhoDHBQUPBUTFQQVEQ==/index.m3u8"
+      "group_title": "FIGHTING"
     },
     {
-      "type": "segment",
+      "event_time": "10:00AM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD A ESPA\u00d1OL",
+      "event_title": "Most Valuable Promotions - Jonathan Rojas - Ray Rojas (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIwM1JFRks0UEdLREJVNTJcNDNIIksyUj5UDzJdRjNLUEtWUSJPRDZCKFZRUD5WUSJPRDZCKFYsAhcoFzwUHhoDHBQUPBUTFQQVEQ==/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
-      "group_title": "FIGHTING",
-      "title": "One Championship - Budo Sento Championship: Vol 31 [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DB8AVgBbRkgzWDRJNltON1I-VAdUEQpWVhYJUwxCBgECHlUODB9QAQpDHVZVHA9WEAJUKlI8FBUsByoWGgoVHhIKKhcXBRIQEg==/index.m3u8"
+      "group_title": "FIGHTING"
     },
     {
-      "type": "segment",
+      "event_time": "11:30AM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD A",
+      "event_title": "One Championship - Budo Sento Championship: Vol 31 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DB8AVgBbRkgzWDRJNltON1I-VAdUEQpWVhYJUwxCBgECHlUODB9QAQpDHVZVHA9WEAJUKlI8FBUsByoWGgoVHhIKKhcXBRIQEg==/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
-      "group_title": "FIGHTING",
-      "title": "One Championship - Budo Sento Championship: Vol 31 [STREAM 34[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DB8AVgBbRkgzWDRJNltON1I-VAdUEQpWVhYJUwxCBgECHlUODB9QAQpDHVZVHA9WEAJUKlI8FBUsAyoWGgoVHhIKKhcXBRIRFw==/index.m3u8"
+      "group_title": "FIGHTING"
     },
     {
-      "type": "segment",
+      "event_time": "11:30AM",
+      "event_date": "09/27/25",
+      "event_title": "One Championship - Budo Sento Championship: Vol 31 (09/27/25) [STREAM 34[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DB8AVgBbRkgzWDRJNltON1I-VAdUEQpWVhYJUwxCBgECHlUODB9QAQpDHVZVHA9WEAJUKlI8FBUsAyoWGgoVHhIKKhcXBRIRFw==/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
-      "group_title": "FIGHTING",
-      "title": "One Championship - Cage Fury Fc 146 [STREAM 3[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DB8AVgBbRkgzWDRJNltON1I-VAQCFABWB0RXXFIXBlYSARFWLkIqFhE8FSgSChwXGgMrKBMHExMWAw==/index.m3u8"
+      "group_title": "FIGHTING"
     },
     {
-      "type": "segment",
+      "event_time": "12:00PM",
+      "event_date": "09/27/25",
+      "channel_name": "SD",
+      "event_title": "Japanese Football League - Reilac Shiga Fc Vs Minebea Mitsumi Fc (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSFzQ2N1FGS09CD0BAWjJAUj5UVURYSURGQlBPSFpGVgcQVDE2QghMTVRHQEBCCEw3JjJISEIBBFI-VCgSPBYoEQIRFRECFCgQPRYTFAU=/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Japanese Football League - Reilac Shiga Fc Vs Minebea Mitsumi Fc [SD]",
-      "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSFzQ2N1FGS09CD0BAWjJAUj5UVURYSURGQlBPSFpGVgcQVDE2QghMTVRHQEBCCEw3JjJISEIBBFI-VCgSPBYoEQIRFRECFCgQPRYTFAU=/index.m3u8"
+      "group_title": "FOOTBALL"
     },
     {
-      "type": "segment",
+      "event_time": "12:00PM",
+      "event_date": "09/27/25",
+      "channel_name": "SD",
+      "event_title": "Japanese Football League - Reinmeer Aomori Fc Vs Atletico Suzuka (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSFzQ2N1FGS09CD0BAWjJAUj5UVURYS0hEVDdWAiJKNjFYVAMAQjMyUhIxS0QnTkIyQlAwOSRIRFI-VCgSPBYoEQIRFRMFEygQPRYTFT0=/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Japanese Football League - Reinmeer Aomori Fc Vs Atletico Suzuka [SD]",
-      "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSFzQ2N1FGS09CD0BAWjJAUj5UVURYS0hEVDdWAiJKNjFYVAMAQjMyUhIxS0QnTkIyQlAwOSRIRFI-VCgSPBYoEQIRFRMFEygQPRYTFT0=/index.m3u8"
+      "group_title": "FOOTBALL"
     },
     {
-      "type": "segment",
+      "event_time": "12:00PM",
+      "event_date": "09/27/25",
+      "channel_name": "SD",
+      "event_title": "Japanese Nadeshiko League 1 - Ngu Nagoya Women Vs Okayama Yunogo Belle (W) (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSH0ZDRCZNTE4iVA1EUEwwREIUVi5CCQBUQglESiI-RFJKNEhEXVQxNkIKSkAoRkhAQl4wTSJMNlITQktPVFQhOjpUKlI8FCgQPBcWFgMTEC08FikQBxMW/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Japanese J2 League - Hokkaido Consadole Sapporo Vs Vegalta Sendai [HDD A \u65e5\u672c\u8a9e]",
-      "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxVWCVRGTjRUVCpSFTRKTlBOQzJCBjZNJkZDMl9CVlZQNTcyITRWNSZUUURaRks3UFRSRF1BREhCKFYsAioTLAEUFhIHFh4sACsUFwoU/index.m3u8"
+      "group_title": "FOOTBALL"
     },
     {
-      "type": "segment",
+      "event_time": "12:00PM",
+      "event_date": "09/27/25",
+      "channel_name": "SD",
+      "event_title": "Japanese Nadeshiko League 1 - Setagaya Sfidwomen Vs As Harima Albion Women (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSH0ZDRCZNTE4iVA1EUEwwREIUVi5CUEA3UExEOFBUUkVYQV4yXEJJUiUwVgJGVAFAIU5IQEIEDQMaCgtSSjRIRF1UKlI8FCgQPBcWFgMTEBU8FikQBxMX/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Japanese J2 League - Hokkaido Consadole Sapporo Vs Vegalta Sendai [SD]",
-      "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxVWCVRGTjRUVCpSFTRKTlBOQzJCBjZNJkZDMl9CVlZQNTcyITRWNSZUUURaRks3UFRSRF1BREhCKFYsAioULAEUFhIHFh4sACsUFwUc/index.m3u8"
+      "group_title": "FOOTBALL"
     },
     {
-      "type": "segment",
+      "event_time": "01:00PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD A \u65e5\u672c\u8a9e",
+      "event_title": "Japanese J2 League - Hokkaido Consadole Sapporo Vs Vegalta Sendai (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxVWCVRGTjRUVCpSFTRKTlBOQzJCBjZNJkZDMl9CVlZQNTcyITRWNSZUUURaRks3UFRSRF1BREhCKFYsAioTLAEUFhIHFh4sACsUFwoU/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Japanese Nadeshiko League 1 - Ngu Nagoya Women Vs Okayama Yunogo Belle (W) [SD]",
-      "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSH0ZDRCZNTE4iVA1EUEwwREIUVi5CCQBUQglESiI-RFJKNEhEXVQxNkIKSkAoRkhAQl4wTSJMNlITQktPVFQhOjpUKlI8FCgQPBcWFgMTEC08FikQBxMW/index.m3u8"
+      "group_title": "FOOTBALL"
     },
     {
-      "type": "segment",
+      "event_time": "01:00PM",
+      "event_date": "09/27/25",
+      "channel_name": "SD",
+      "event_title": "Japanese J2 League - Hokkaido Consadole Sapporo Vs Vegalta Sendai (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxVWCVRGTjRUVCpSFTRKTlBOQzJCBjZNJkZDMl9CVlZQNTcyITRWNSZUUURaRks3UFRSRF1BREhCKFYsAioULAEUFhIHFh4sACsUFwUc/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Japanese Nadeshiko League 1 - Setagaya Sfidwomen Vs As Harima Albion Women [SD]",
-      "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSH0ZDRCZNTE4iVA1EUEwwREIUVi5CUEA3UExEOFBUUkVYQV4yXEJJUiUwVgJGVAFAIU5IQEIEDQMaCgtSSjRIRF1UKlI8FCgQPBcWFgMTEBU8FikQBxMX/index.m3u8"
+      "group_title": "FOOTBALL"
     },
     {
-      "type": "segment",
+      "event_time": "01:00PM",
+      "event_date": "09/27/25",
+      "channel_name": "SD",
+      "event_title": "Korean K League 1 - Gangwon Football Club Vs Daejeon Citizen (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBdVAxSGUJESiRCVhJCKFYEUEtOOiJLVgciNDNBUElLUhBJMEFCMzJSEUZASVQ0SVIQTjNIKUJJUj5UKBI8FigRAhQVFwArKBA9FhMVAQ==/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Korean K League 1 - Gangwon Football Club Vs Daejeon Citizen [SD]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBdVAxSGUJESiRCVhJCKFYEUEtOOiJLVgciNDNBUElLUhBJMEFCMzJSEUZASVQ0SVIQTjNIKUJJUj5UKBI8FigRAhQVFwArKBA9FhMVAQ==/index.m3u8"
+      "group_title": "FOOTBALL"
     },
     {
-      "type": "segment",
+      "event_time": "01:00PM",
+      "event_date": "09/27/25",
+      "channel_name": "SD",
+      "event_title": "Korean K League 2 - Jeonnam Dragons Vs Bucheon Fc 1995 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBdVAxSGUJESiRCVhNCKFYLVDRJTVBKVgEhRk4yXTBWNSZUBzRWTUAyXVQDAEIUHhoGVCpSPBQoEDwXFhAEKxETPBYpEAcTEQ==/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Korean K League 2 - Jeonnam Dragons Vs Bucheon Fc 1995 [SD]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBdVAxSGUJESiRCVhNCKFYLVDRJTVBKVgEhRk4yXTBWNSZUBzRWTUAyXVQDAEIUHhoGVCpSPBQoEDwXFhAEKxETPBYpEAcTEQ==/index.m3u8"
+      "group_title": "FOOTBALL"
     },
     {
-      "type": "segment",
+      "event_time": "01:00PM",
+      "event_date": "09/27/25",
+      "channel_name": "SD",
+      "event_title": "Korean K League 3  - Chuncheon Citizen Vs Changwon City (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBdVAxSGUJESiRCVhBCVCpSEE0wTVZNQDJdVARIJ049RF1UMTZCBk9AXUw-Ml1UBEgnPlYuQioWLAAqFRIBFhEaASoULQARERY=/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Korean K League 3  - Chuncheon Citizen Vs Changwon City [SD]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBdVAxSGUJESiRCVhBCVCpSEE0wTVZNQDJdVARIJ049RF1UMTZCBk9AXUw-Ml1UBEgnPlYuQioWLAAqFRIBFhEaASoULQARERY=/index.m3u8"
+      "group_title": "FOOTBALL"
     },
     {
-      "type": "segment",
+      "event_time": "01:00PM",
+      "event_date": "09/27/25",
+      "channel_name": "SD",
+      "event_title": "Korean K League 3  - Jeonbuk Hyundai Motors Ii Vs Pocheon Fc (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBdVAxSGUJESiRCVhBCVCpSG0I2TVEySlIVPjBNV0ZMUh40MzIhMFYKGlQxNkJVNkZbQjZNQgEEUj5UKBI8FigRAhcUFQYVKBA9FhMVBw==/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Korean K League 3  - Jeonbuk Hyundai Motors Ii Vs Pocheon Fc [SD]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBdVAxSGUJESiRCVhBCVCpSG0I2TVEySlIVPjBNV0ZMUh40MzIhMFYKGlQxNkJVNkZbQjZNQgEEUj5UKBI8FigRAhcUFQYVKBA9FhMVBw==/index.m3u8"
+      "group_title": "FOOTBALL"
     },
     {
-      "type": "segment",
+      "event_time": "01:30PM",
+      "event_date": "09/27/25",
+      "channel_name": "SD",
+      "event_title": "Japanese Football League - Fc Tiamo Hirakata Vs Maruyasu Okazaki (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSFzQ2N1FGS09CD0BAWjJAUj5UAwBCUUxAXDRWBVg3RE5QMURSJTBWDlA3MDhQMDBSHEhEOVBITFI-VCgSPBYoEQIRFREDHCgQPRYTGgA=/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:15PM",
+      "event_date": "09/27/25",
+      "channel_name": "VDO",
+      "event_title": "Moto3 - Moto3: Motegi (Japan) - Qualification 2 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwDKykSPBQeGgIQExA8ERYaCisQ/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Qualification 1 [VDO]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhRWLkIqECwDKykSPBQeGgIQEhE8ERYaCisT/index.m3u8"
+      "group_title": "MOTORSPORT"
     },
     {
-      "type": "segment",
+      "event_time": "12:15PM",
+      "event_date": "09/27/25",
+      "channel_name": "DAZN ES",
+      "event_title": "Moto3 - Moto3: Motegi (Japan) - Qualification 2 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwDKykSPBQeGgIQExA8ERctAhUS/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Qualification 1 [HDD B]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhRWLkIqECwHKhYaChQSFgEqFxcFEykW/index.m3u8"
+      "group_title": "MOTORSPORT"
     },
     {
-      "type": "segment",
+      "event_time": "12:15PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD C ESPA\u00d1OL",
+      "event_title": "Moto3 - Moto3: Motegi (Japan) - Qualification 2 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFwAqFxcFEh4t/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Qualification 1 [HDD C ESPA\u00d1OL]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhRWLkIqECwHKhYaChQSFgEqFxcFEykX/index.m3u8"
+      "group_title": "MOTORSPORT"
     },
     {
-      "type": "segment",
+      "event_time": "12:15PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD E FRAN\u00c7AIS",
+      "event_title": "Moto3 - Moto3: Motegi (Japan) - Qualification 2 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFwAqFxcFEh4T/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Qualification 1 [HDD D DEUTSCH]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhRWLkIqECwHKhYaChQSFgEqFxcFEykU/index.m3u8"
+      "group_title": "MOTORSPORT"
     },
     {
-      "type": "segment",
+      "event_time": "12:15PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD A",
+      "event_title": "Moto3 - Moto3: Motegi (Japan) - Qualification 2 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFwAqFxcFEhEV/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Qualification 1 [HDD E FRAN\u00c7AIS]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhRWLkIqECwHKhYaChQSFgEqFxcFEykV/index.m3u8"
+      "group_title": "MOTORSPORT"
     },
     {
-      "type": "segment",
+      "event_time": "12:15PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD D DEUTSCH",
+      "event_title": "Moto3 - Moto3: Motegi (Japan) - Qualification 2 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFwAqFxcFEh4S/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Qualification 1 [HDD F ITALIANO]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhRWLkIqECwHKhYaChQSFgEqFxcFEyka/index.m3u8"
+      "group_title": "MOTORSPORT"
     },
     {
-      "type": "segment",
+      "event_time": "12:15PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD F ITALIANO",
+      "event_title": "Moto3 - Moto3: Motegi (Japan) - Qualification 2 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFwAqFxcFEh4Q/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Qualification 1 [HDD G PORTUGU\u00caS]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhRWLkIqECwHKhYaChQSFgEqFxcFExYt/index.m3u8"
+      "group_title": "MOTORSPORT"
     },
     {
-      "type": "segment",
+      "event_time": "12:15PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD G PORTUGU\u00caS",
+      "event_title": "Moto3 - Moto3: Motegi (Japan) - Qualification 2 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFwAqFxcFEh4R/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Qualification 1 [HDD H DUTCH]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhRWLkIqECwHKhYaChQSFgEqFxcFExYS/index.m3u8"
+      "group_title": "MOTORSPORT"
     },
     {
-      "type": "segment",
+      "event_time": "12:15PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD H DUTCH",
+      "event_title": "Moto3 - Moto3: Motegi (Japan) - Qualification 2 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFwAqFxcFEh4W/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Qualification 2 [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFgcqFxcFExcX/index.m3u8"
+      "group_title": "MOTORSPORT"
     },
     {
-      "type": "segment",
+      "event_time": "12:45PM",
+      "event_date": "09/27/25",
+      "channel_name": "VDO",
+      "event_title": "Moto2 - Moto2: Motegi (Japan) - Qualification 1 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhRWLkIqECwDKykSPBQeGgIQEhE8ERYaCisT/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Qualification 2 [HDD C ESPA\u00d1OL]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFgcqFxcFExcV/index.m3u8"
+      "group_title": "MOTORSPORT"
     },
     {
-      "type": "segment",
+      "event_time": "12:45PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD B",
+      "event_title": "Moto2 - Moto2: Motegi (Japan) - Qualification 1 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhRWLkIqECwHKhYaChQSFgEqFxcFEykW/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Qualification 2 [HDD D DEUTSCH]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFgcqFxcFExca/index.m3u8"
+      "group_title": "MOTORSPORT"
     },
     {
-      "type": "segment",
+      "event_time": "12:45PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD C ESPA\u00d1OL",
+      "event_title": "Moto2 - Moto2: Motegi (Japan) - Qualification 1 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhRWLkIqECwHKhYaChQSFgEqFxcFEykX/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Qualification 2 [HDD E FRAN\u00c7AIS]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFgcqFxcFExQt/index.m3u8"
+      "group_title": "MOTORSPORT"
     },
     {
-      "type": "segment",
+      "event_time": "12:45PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD D DEUTSCH",
+      "event_title": "Moto2 - Moto2: Motegi (Japan) - Qualification 1 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhRWLkIqECwHKhYaChQSFgEqFxcFEykU/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Qualification 2 [HDD F ITALIANO]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFgcqFxcFExQS/index.m3u8"
+      "group_title": "MOTORSPORT"
     },
     {
-      "type": "segment",
+      "event_time": "12:45PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD E FRAN\u00c7AIS",
+      "event_title": "Moto2 - Moto2: Motegi (Japan) - Qualification 1 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhRWLkIqECwHKhYaChQSFgEqFxcFEykV/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Qualification 2 [HDD G PORTUGU\u00caS]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFgcqFxcFExQT/index.m3u8"
+      "group_title": "MOTORSPORT"
     },
     {
-      "type": "segment",
+      "event_time": "12:45PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD F ITALIANO",
+      "event_title": "Moto2 - Moto2: Motegi (Japan) - Qualification 1 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhRWLkIqECwHKhYaChQSFgEqFxcFEyka/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto2 - Moto2: Motegi (Japan) - Qualification 2 [HDD H DUTCH]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFgcqFxcFExQQ/index.m3u8"
+      "group_title": "MOTORSPORT"
     },
     {
-      "type": "segment",
+      "event_time": "12:45PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD G PORTUGU\u00caS",
+      "event_title": "Moto2 - Moto2: Motegi (Japan) - Qualification 1 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhRWLkIqECwHKhYaChQSFgEqFxcFExYt/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto3 - Moto3: Motegi (Japan) - Qualification 2 [VDO]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwDKykSPBQeGgIQExA8ERYaCisQ/index.m3u8"
+      "group_title": "MOTORSPORT"
     },
     {
-      "type": "segment",
+      "event_time": "12:45PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD H DUTCH",
+      "event_title": "Moto2 - Moto2: Motegi (Japan) - Qualification 1 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhRWLkIqECwHKhYaChQSFgEqFxcFExYS/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto3 - Moto3: Motegi (Japan) - Qualification 2 [DAZN ES]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwDKykSPBQeGgIQExA8ERctAhUS/index.m3u8"
+      "group_title": "MOTORSPORT"
     },
     {
-      "type": "segment",
+      "event_time": "01:10PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD A",
+      "event_title": "Moto2 - Moto2: Motegi (Japan) - Qualification 2 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFgcqFxcFExcX/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto3 - Moto3: Motegi (Japan) - Qualification 2 [HDD C ESPA\u00d1OL]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFwAqFxcFEh4t/index.m3u8"
+      "group_title": "MOTORSPORT"
     },
     {
-      "type": "segment",
+      "event_time": "01:10PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD C ESPA\u00d1OL",
+      "event_title": "Moto2 - Moto2: Motegi (Japan) - Qualification 2 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFgcqFxcFExcV/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto3 - Moto3: Motegi (Japan) - Qualification 2 [HDD E FRAN\u00c7AIS]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFwAqFxcFEh4T/index.m3u8"
+      "group_title": "MOTORSPORT"
     },
     {
-      "type": "segment",
+      "event_time": "01:10PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD D DEUTSCH",
+      "event_title": "Moto2 - Moto2: Motegi (Japan) - Qualification 2 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFgcqFxcFExca/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto3 - Moto3: Motegi (Japan) - Qualification 2 [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFwAqFxcFEhEV/index.m3u8"
+      "group_title": "MOTORSPORT"
     },
     {
-      "type": "segment",
+      "event_time": "01:10PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD E FRAN\u00c7AIS",
+      "event_title": "Moto2 - Moto2: Motegi (Japan) - Qualification 2 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFgcqFxcFExQt/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto3 - Moto3: Motegi (Japan) - Qualification 2 [HDD D DEUTSCH]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFwAqFxcFEh4S/index.m3u8"
+      "group_title": "MOTORSPORT"
     },
     {
-      "type": "segment",
+      "event_time": "01:10PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD F ITALIANO",
+      "event_title": "Moto2 - Moto2: Motegi (Japan) - Qualification 2 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFgcqFxcFExQS/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto3 - Moto3: Motegi (Japan) - Qualification 2 [HDD F ITALIANO]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFwAqFxcFEh4Q/index.m3u8"
+      "group_title": "MOTORSPORT"
     },
     {
-      "type": "segment",
+      "event_time": "01:10PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD G PORTUGU\u00caS",
+      "event_title": "Moto2 - Moto2: Motegi (Japan) - Qualification 2 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFgcqFxcFExQT/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto3 - Moto3: Motegi (Japan) - Qualification 2 [HDD G PORTUGU\u00caS]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFwAqFxcFEh4R/index.m3u8"
+      "group_title": "MOTORSPORT"
     },
     {
-      "type": "segment",
+      "event_time": "01:10PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD H DUTCH",
+      "event_title": "Moto2 - Moto2: Motegi (Japan) - Qualification 2 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFgcqFxcFExQQ/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Moto3 - Moto3: Motegi (Japan) - Qualification 2 [HDD H DUTCH]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFwAqFxcFEh4W/index.m3u8"
+      "group_title": "MOTORSPORT"
     },
     {
-      "type": "segment",
+      "event_time": "01:20PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD A",
+      "event_title": "Wec - Wec: 6 Hours Of Fuji (Japan) - Qualification 1 (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/WhYGVi5CXAIAC1QTUhU0MDEmVDZFQgEwSVhUIQtQNURNOlQqUkAyRE9YQ0xGUDFMMl1UFlI-VCgUPBEoEgocFhYAHCgTBxMREAU=/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT",
-      "title": "Wec - Wec: 6 Hours Of Fuji (Japan) - Qualification 1 [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/WhYGVi5CXAIAC1QTUhU0MDEmVDZFQgEwSVhUIQtQNURNOlQqUkAyRE9YQ0xGUDFMMl1UFlI-VCgUPBEoEgocFhYAHCgTBxMREAU=/index.m3u8"
+      "group_title": "MOTORSPORT"
     },
     {
-      "type": "segment",
+      "event_time": "01:05PM",
+      "event_date": "09/27/25",
+      "channel_name": "MOVISTAR2",
+      "event_title": "World: Rugby Championship - New Zealand Vs Australia (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/WhxXDQELVFU0Wkc8UhBNREwjTjZNJk1MM0IoVg9UPFZZVEZLQF1BVjUmVAY0JjE1QF9ORFI-VCgVPBUpLQIqFhoKFBMWByoTEgocFBE=/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp",
-      "group_title": "RUGBY",
-      "title": "World: Rugby Championship - New Zealand Vs Australia [MOVISTAR2]",
-      "url": "https://world-proxifier.xyz/rbtv/p/WhxXDQELVFU0Wkc8UhBNREwjTjZNJk1MM0IoVg9UPFZZVEZLQF1BVjUmVAY0JjE1QF9ORFI-VCgVPBUpLQIqFhoKFBMWByoTEgocFBE=/index.m3u8"
+      "group_title": "RUGBY"
     },
     {
-      "type": "segment",
+      "event_time": "01:05PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD A",
+      "event_title": "World: Rugby Championship - New Zealand Vs Australia (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/WhxXDQELVFU0Wkc8UhBNREwjTjZNJk1MM0IoVg9UPFZZVEZLQF1BVjUmVAY0JjE1QF9ORFI-VCgVPBEoEgocFhcGESgTBxMREgo=/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp",
-      "group_title": "RUGBY",
-      "title": "World: Rugby Championship - New Zealand Vs Australia [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/WhxXDQELVFU0Wkc8UhBNREwjTjZNJk1MM0IoVg9UPFZZVEZLQF1BVjUmVAY0JjE1QF9ORFI-VCgVPBEoEgocFhcGESgTBxMREgo=/index.m3u8"
+      "group_title": "RUGBY"
     },
     {
-      "type": "segment",
+      "event_time": "01:05PM",
+      "event_date": "09/27/25",
+      "event_title": "World: Rugby Championship - New Zealand Vs Australia (09/27/25) [STREAM 2[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/WhxXDQELVFU0Wkc8UhBNREwjTjZNJk1MM0IoVg9UPFZZVEZLQF1BVjUmVAY0JjE1QF9ORFI-VCgVPBUoEgocFhcGESgTBxMREgc=/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp",
-      "group_title": "RUGBY",
-      "title": "World: Rugby Championship - New Zealand Vs Australia [STREAM 2[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/WhxXDQELVFU0Wkc8UhBNREwjTjZNJk1MM0IoVg9UPFZZVEZLQF1BVjUmVAY0JjE1QF9ORFI-VCgVPBUoEgocFhcGESgTBxMREgc=/index.m3u8"
+      "group_title": "RUGBY"
     },
     {
-      "type": "segment",
+      "event_time": "11:00AM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD A",
+      "event_title": "Wta Beijing, China Women Singles - Maria Camila Osorio Serrano Vs Anna Kalinskaya (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQKQCFORFIQRkhIX0ZWDCY0NUgiVFJEITdETSJUMTZCBElNUFQMQF9OSTZeRjxAQihWLAAqEywCHB4TARcULAMRERQHFw==/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Beijing, China Men Double - Cash J / Glasspool L Vs Cobolli F / Sonego L [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVQFMiRHS0RCKFYAUDBPUhtUKFIUSUQ2JjU2Ml9UDVIlMFYAIkc2T19OVgdCKlZWIktASiJUDVI-VCgQPBEoEgocKRECESgTBxMREAY=/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "11:30AM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD A",
+      "event_title": "Atp Tokyo, Japan Men Double - Gonzalez S / Pel D Vs Erler A / Galloway R (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSETQwQV9CVi5CAjZNKUZLRClUUlI8VFdEX1QFUiUwVgYhSUAxQgRWLEICRE9fND5AKFRVUj5UKBA8ESgSChwpLQEcKBMHExAUAQ==/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Beijing, China Men Singles - Alex De Minaur Vs Arthur Rinderknech [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEklAO0JBQFIeTklAJDdWNSZUBjEnTTAxQldMTVdCNU5dQkJLQihWLAAqEywCHB4tBCsVLAMRERUDFA==/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "11:55AM",
+      "event_date": "09/27/25",
+      "channel_name": "VDO",
+      "event_title": "Atp Tokyo, Japan Men Singles - Brandon Nakashima Vs Marton Fucsovics (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VAcxUEtDMl1UC0BeRjJLWEpEUiUwVg5QNzMyXVQDNFYwNjVYQDJSPlQoEDwVKS0CKhYaCispEQEqExIKHBMa/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Tokyo, Japan Men Double - Gonzalez S / Pel D Vs Erler A / Galloway R [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSETQwQV9CVi5CAjZNKUZLRClUUlI8VFdEX1QFUiUwVgYhSUAxQgRWLEICRE9fND5AKFRVUj5UKBA8ESgSChwpLQEcKBMHExAUAQ==/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "11:55AM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD A",
+      "event_title": "Atp Tokyo, Japan Men Singles - Brandon Nakashima Vs Marton Fucsovics (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VAcxUEtDMl1UC0BeRjJLWEpEUiUwVg5QNzMyXVQDNFYwNjVYQDJSPlQoEDwRKBIKHCktARcoEwcTEBUE/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Tokyo, Japan Men Singles - Brandon Nakashima Vs Marton Fucsovics [VDO]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VAcxUEtDMl1UC0BeRjJLWEpEUiUwVg5QNzMyXVQDNFYwNjVYQDJSPlQoEDwVKS0CKhYaCispEQEqExIKHBMa/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "11:55AM",
+      "event_date": "09/27/25",
+      "event_title": "Atp Tokyo, Japan Men Singles - Brandon Nakashima Vs Marton Fucsovics (09/27/25) [STREAM 23[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VAcxUEtDMl1UC0BeRjJLWEpEUiUwVg5QNzMyXVQDNFYwNjVYQDJSPlQoEDwVKBIKHCktARcoEwcTEBIA/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Tokyo, Japan Men Singles - Brandon Nakashima Vs Marton Fucsovics [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VAcxUEtDMl1UC0BeRjJLWEpEUiUwVg5QNzMyXVQDNFYwNjVYQDJSPlQoEDwRKBIKHCktARcoEwcTEBUE/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "12:35PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD A",
+      "event_title": "Wta Beijing, China Women Singles - Iga Swiatek Vs Yuan Yue (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQOSlBUUjpYRjNEXlQxNkJeMEBdVFw0VFQqUjwWKBc8FB4aAxATEjwVExUFFBA=/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Tokyo, Japan Men Singles - Brandon Nakashima Vs Marton Fucsovics [STREAM 23[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VAcxUEtDMl1UC0BeRjJLWEpEUiUwVg5QNzMyXVQDNFYwNjVYQDJSPlQoEDwVKBIKHCktARcoEwcTEBIA/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "12:50PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD A",
+      "event_title": "Atp Beijing, China Men Double - Cash J / Glasspool L Vs Cobolli F / Sonego L (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVQFMiRHS0RCKFYAUDBPUhtUKFIUSUQ2JjU2Ml9UDVIlMFYAIkc2T19OVgdCKlZWIktASiJUDVI-VCgQPBEoEgocKRECESgTBxMREAY=/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Beijing, China Women Doubles - Khromacheva I / Sutjiadi A Vs Sara Errani/Jasmine Paolini [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUhE0MEFfQjJSPlQMSyE0SEBWTUA1UFQOUjxUUjQnT0xAV05WAkIzMlJGRjVAQgA1MVBLTCwbRjJMWEtAUkNGNk9YS0xSPlQoEDwRKBIKHBYRBRMoEwcTERAH/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "12:50PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD A",
+      "event_title": "Wta Beijing, China Women Doubles - Khromacheva I / Sutjiadi A Vs Sara Errani/Jasmine Paolini (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUhE0MEFfQjJSPlQMSyE0SEBWTUA1UFQOUjxUUjQnT0xAV05WAkIzMlJGRjVAQgA1MVBLTCwbRjJMWEtAUkNGNk9YS0xSPlQoEDwRKBIKHBYRBRMoEwcTERAH/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Beijing, China Women Singles - Anastasia Potapova Vs Victoria Mboko [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQGTVAwM0AmTkRSQzQzQCM0MUBCMzJSRU5CNyI3TEBCCEUyXjRWLkIqFCwHKhYaChUVFQIqFxcFEhMa/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "01:00PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD A",
+      "event_title": "Atp Beijing, China Men Singles - Alex De Minaur Vs Arthur Rinderknech (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEklAO0JBQFIeTklAJDdWNSZUBjEnTTAxQldMTVdCNU5dQkJLQihWLAAqEywCHB4tBCsVLAMRERUDFA==/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Beijing, China Women Singles - Elena-Gabriela Ruse Vs Emma Navarro [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQCT1RLRC4URkUxWEJLQEJXMDZUVDE2QgBITFBUC0AlRjUxIlQqUjwWKBc8FB4aAxcUEDwVExUEEik=/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "01:30PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD B",
+      "event_title": "Atp Tokyo, Japan Men Double - Harrison C / King E Vs Uesugi K / Watanabe S (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSETQwQV9CVi5CA0QxIU4yMl1UBFI8VAxIXUxWBkIzMlJEQjI0Wk5WCEIqVlpQMURNUEdAUkZUKlI8FigXPBQeGj0rFRU8FRMVBRQR/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Beijing, China Women Singles - Iga Swiatek Vs Yuan Yue [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQOSlBUUjpYRjNEXlQxNkJeMEBdVFw0VFQqUjwWKBc8FB4aAxATEjwVExUFFBA=/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "01:30PM",
+      "event_date": "09/27/25",
+      "channel_name": "HDD B",
+      "event_title": "Wta Beijing, China Women Singles - Diana Shnaider Vs Joint Maya (09/27/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQFSFBLRFJGTUlAWEFAMUIzMlIbNExNJ1QKQChGVi5CKhQsByoWGgoVEhEDKhcXBRMpLQ==/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Beijing, China Women Singles - Liudmila Samsonova Vs Lois Boisson [HDD B]",
-      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQNSCRBSEhfRlZWUEoyMl00MUBCMzJSGTRMNkIFNkgmMDZNQihWLAAqEywCHB4TBhcSLAMRERU9FQ==/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Beijing, China Women Singles - Maria Camila Osorio Serrano Vs Anna Kalinskaya [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQKQCFORFIQRkhIX0ZWDCY0NUgiVFJEITdETSJUMTZCBElNUFQMQF9OSTZeRjxAQihWLAAqEywCHB4TARcULAMRERQHFw==/index.m3u8"
+      "group_title": "TENNIS"
     }
   ],
-  "events": [],
-  "grouped_events": {},
+  "grouped_events": {
+    "Australia: Afl - Play Offs - Geelong Cats Vs Brisbane Lions (09/27/25)": {
+      "event_title": "Australia: Afl - Play Offs - Geelong Cats Vs Brisbane Lions (09/27/25)",
+      "event_time": "12:30PM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AkRQU1ESDw4CC1QGBxlUKlJDSUQ4QgpBRSZUKlIUQkBPIktOUhBGMzZCMzJSEzdMNlFGSURCD0wyXTBWLkIqFi08ESgSChwWFgQcKBMHExAaBw==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_asr_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Australia: Afl - Play Offs - Geelong Cats Vs Brisbane Lions (09/27/25) [STREAM 31[HD]]": {
+      "event_title": "Australia: Afl - Play Offs - Geelong Cats Vs Brisbane Lions (09/27/25) [STREAM 31[HD]]",
+      "event_time": "12:30PM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/AkRQU1ESDw4CC1QGBxlUKlJDSUQ4QgpBRSZUKlIUQkBPIktOUhBGMzZCMzJSEzdMNlFGSURCD0wyXTBWLkIqFi08FSgSChwWFgQcKBMHExEtAA==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_asr_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Npb - Hanshin Tigers Vs Chunichi Dragons (09/27/25)": {
+      "event_title": "Npb - Hanshin Tigers Vs Chunichi Dragons (09/27/25)",
+      "event_time": "01:00PM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDK A \u65e5\u672c\u8a9e",
+          "url": "https://world-proxifier.xyz/rbtv/p/D0MFVi5CA0RNJk1MTUJRTEpUNzJSJTBWAFsySUhWTUxSETdESiJLMlI-VCgRPBEoEgoUHhQHFCgTBxMREAE=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Npb - Yokohama Baystars Vs Yomiuri Giants (09/27/25)": {
+      "event_title": "Npb - Yokohama Baystars Vs Yomiuri Giants (09/27/25)",
+      "event_time": "01:00PM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDK A \u65e5\u672c\u8a9e",
+          "url": "https://world-proxifier.xyz/rbtv/p/D0MFVi5CXjZOIk1ETFBUB0AoUDNAITBWNSZUXDJcTjAxWFQASFBLMzZCKFYsASoTLAIcFhYFFCksAxERFQMV/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "One Championship - Cage Fury Fc 146 (09/27/25) [STREAM 3[HD]]": {
+      "event_title": "One Championship - Cage Fury Fc 146 (09/27/25) [STREAM 3[HD]]",
+      "event_time": "09:00AM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/DB8AVgBbRkgzWDRJNltON1I-VAQCFABWB0RXXFIXBlYSARFWLkIqFhE8FSgSChwXGgMrKBMHExMWAw==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Most Valuable Promotions - Jonathan Rojas - Ray Rojas (09/27/25)": {
+      "event_title": "Most Valuable Promotions - Jonathan Rojas - Ray Rojas (09/27/25)",
+      "event_time": "10:00AM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A ESPA\u00d1OL",
+          "url": "https://world-proxifier.xyz/rbtv/p/DiIwM1JFRks0UEdLREJVNTJcNDNIIksyUj5UDzJdRjNLUEtWUSJPRDZCKFZRUD5WUSJPRDZCKFYsAhcoFzwUHhoDHBQUPBUTFQQVEQ==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "One Championship - Budo Sento Championship: Vol 31 (09/27/25)": {
+      "event_title": "One Championship - Budo Sento Championship: Vol 31 (09/27/25)",
+      "event_time": "11:30AM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/DB8AVgBbRkgzWDRJNltON1I-VAdUEQpWVhYJUwxCBgECHlUODB9QAQpDHVZVHA9WEAJUKlI8FBUsByoWGgoVHhIKKhcXBRIQEg==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "One Championship - Budo Sento Championship: Vol 31 (09/27/25) [STREAM 34[HD]]": {
+      "event_title": "One Championship - Budo Sento Championship: Vol 31 (09/27/25) [STREAM 34[HD]]",
+      "event_time": "11:30AM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/DB8AVgBbRkgzWDRJNltON1I-VAdUEQpWVhYJUwxCBgECHlUODB9QAQpDHVZVHA9WEAJUKlI8FBUsAyoWGgoVHhIKKhcXBRIRFw==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Japanese Football League - Reilac Shiga Fc Vs Minebea Mitsumi Fc (09/27/25)": {
+      "event_title": "Japanese Football League - Reilac Shiga Fc Vs Minebea Mitsumi Fc (09/27/25)",
+      "event_time": "12:00PM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSFzQ2N1FGS09CD0BAWjJAUj5UVURYSURGQlBPSFpGVgcQVDE2QghMTVRHQEBCCEw3JjJISEIBBFI-VCgSPBYoEQIRFRECFCgQPRYTFAU=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Japanese Football League - Reinmeer Aomori Fc Vs Atletico Suzuka (09/27/25)": {
+      "event_title": "Japanese Football League - Reinmeer Aomori Fc Vs Atletico Suzuka (09/27/25)",
+      "event_time": "12:00PM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSFzQ2N1FGS09CD0BAWjJAUj5UVURYS0hEVDdWAiJKNjFYVAMAQjMyUhIxS0QnTkIyQlAwOSRIRFI-VCgSPBYoEQIRFRMFEygQPRYTFT0=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Japanese Nadeshiko League 1 - Ngu Nagoya Women Vs Okayama Yunogo Belle (W) (09/27/25)": {
+      "event_title": "Japanese Nadeshiko League 1 - Ngu Nagoya Women Vs Okayama Yunogo Belle (W) (09/27/25)",
+      "event_time": "12:00PM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSH0ZDRCZNTE4iVA1EUEwwREIUVi5CCQBUQglESiI-RFJKNEhEXVQxNkIKSkAoRkhAQl4wTSJMNlITQktPVFQhOjpUKlI8FCgQPBcWFgMTEC08FikQBxMW/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Japanese Nadeshiko League 1 - Setagaya Sfidwomen Vs As Harima Albion Women (09/27/25)": {
+      "event_title": "Japanese Nadeshiko League 1 - Setagaya Sfidwomen Vs As Harima Albion Women (09/27/25)",
+      "event_time": "12:00PM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSH0ZDRCZNTE4iVA1EUEwwREIUVi5CUEA3UExEOFBUUkVYQV4yXEJJUiUwVgJGVAFAIU5IQEIEDQMaCgtSSjRIRF1UKlI8FCgQPBcWFgMTEBU8FikQBxMX/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Japanese J2 League - Hokkaido Consadole Sapporo Vs Vegalta Sendai (09/27/25)": {
+      "event_title": "Japanese J2 League - Hokkaido Consadole Sapporo Vs Vegalta Sendai (09/27/25)",
+      "event_time": "01:00PM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A \u65e5\u672c\u8a9e",
+          "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxVWCVRGTjRUVCpSFTRKTlBOQzJCBjZNJkZDMl9CVlZQNTcyITRWNSZUUURaRks3UFRSRF1BREhCKFYsAioTLAEUFhIHFh4sACsUFwoU/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSGxVWCVRGTjRUVCpSFTRKTlBOQzJCBjZNJkZDMl9CVlZQNTcyITRWNSZUUURaRks3UFRSRF1BREhCKFYsAioULAEUFhIHFh4sACsUFwUc/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Korean K League 1 - Gangwon Football Club Vs Daejeon Citizen (09/27/25)": {
+      "event_title": "Korean K League 1 - Gangwon Football Club Vs Daejeon Citizen (09/27/25)",
+      "event_time": "01:00PM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBdVAxSGUJESiRCVhJCKFYEUEtOOiJLVgciNDNBUElLUhBJMEFCMzJSEUZASVQ0SVIQTjNIKUJJUj5UKBI8FigRAhQVFwArKBA9FhMVAQ==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Korean K League 2 - Jeonnam Dragons Vs Bucheon Fc 1995 (09/27/25)": {
+      "event_title": "Korean K League 2 - Jeonnam Dragons Vs Bucheon Fc 1995 (09/27/25)",
+      "event_time": "01:00PM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBdVAxSGUJESiRCVhNCKFYLVDRJTVBKVgEhRk4yXTBWNSZUBzRWTUAyXVQDAEIUHhoGVCpSPBQoEDwXFhAEKxETPBYpEAcTEQ==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Korean K League 3  - Chuncheon Citizen Vs Changwon City (09/27/25)": {
+      "event_title": "Korean K League 3  - Chuncheon Citizen Vs Changwon City (09/27/25)",
+      "event_time": "01:00PM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBdVAxSGUJESiRCVhBCVCpSEE0wTVZNQDJdVARIJ049RF1UMTZCBk9AXUw-Ml1UBEgnPlYuQioWLAAqFRIBFhEaASoULQARERY=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Korean K League 3  - Jeonbuk Hyundai Motors Ii Vs Pocheon Fc (09/27/25)": {
+      "event_title": "Korean K League 3  - Jeonbuk Hyundai Motors Ii Vs Pocheon Fc (09/27/25)",
+      "event_time": "01:00PM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CCI3QEBdVAxSGUJESiRCVhBCVCpSG0I2TVEySlIVPjBNV0ZMUh40MzIhMFYKGlQxNkJVNkZbQjZNQgEEUj5UKBI8FigRAhcUFQYVKBA9FhMVBw==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Japanese Football League - Fc Tiamo Hirakata Vs Maruyasu Okazaki (09/27/25)": {
+      "event_title": "Japanese Football League - Fc Tiamo Hirakata Vs Maruyasu Okazaki (09/27/25)",
+      "event_time": "01:30PM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/C1A1RE1UMEBSFzQ2N1FGS09CD0BAWjJAUj5UAwBCUUxAXDRWBVg3RE5QMURSJTBWDlA3MDhQMDBSHEhEOVBITFI-VCgSPBYoEQIRFREDHCgQPRYTGgA=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Moto3 - Moto3: Motegi (Japan) - Qualification 2 (09/27/25)": {
+      "event_title": "Moto3 - Moto3: Motegi (Japan) - Qualification 2 (09/27/25)",
+      "event_time": "12:15PM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwDKykSPBQeGgIQExA8ERYaCisQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "DAZN ES",
+          "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwDKykSPBQeGgIQExA8ERctAhUS/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD C ESPA\u00d1OL",
+          "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFwAqFxcFEh4t/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD E FRAN\u00c7AIS",
+          "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFwAqFxcFEh4T/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFwAqFxcFEhEV/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD D DEUTSCH",
+          "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFwAqFxcFEh4S/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD F ITALIANO",
+          "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFwAqFxcFEh4Q/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD G PORTUGU\u00caS",
+          "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFwAqFxcFEh4R/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD H DUTCH",
+          "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhBCKFYOHFEIEAtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFwAqFxcFEh4W/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Moto2 - Moto2: Motegi (Japan) - Qualification 1 (09/27/25)": {
+      "event_title": "Moto2 - Moto2: Motegi (Japan) - Qualification 1 (09/27/25)",
+      "event_time": "12:45PM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhRWLkIqECwDKykSPBQeGgIQEhE8ERYaCisT/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD B",
+          "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhRWLkIqECwHKhYaChQSFgEqFxcFEykW/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD C ESPA\u00d1OL",
+          "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhRWLkIqECwHKhYaChQSFgEqFxcFEykX/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD D DEUTSCH",
+          "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhRWLkIqECwHKhYaChQSFgEqFxcFEykU/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD E FRAN\u00c7AIS",
+          "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhRWLkIqECwHKhYaChQSFgEqFxcFEykV/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD F ITALIANO",
+          "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhRWLkIqECwHKhYaChQSFgEqFxcFEyka/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD G PORTUGU\u00caS",
+          "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhRWLkIqECwHKhYaChQSFgEqFxcFExYt/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD H DUTCH",
+          "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhRWLkIqECwHKhYaChQSFgEqFxcFExYS/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Moto2 - Moto2: Motegi (Japan) - Qualification 2 (09/27/25)": {
+      "event_title": "Moto2 - Moto2: Motegi (Japan) - Qualification 2 (09/27/25)",
+      "event_time": "01:10PM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFgcqFxcFExcX/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD C ESPA\u00d1OL",
+          "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFgcqFxcFExcV/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD D DEUTSCH",
+          "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFgcqFxcFExca/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD E FRAN\u00c7AIS",
+          "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFgcqFxcFExQt/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD F ITALIANO",
+          "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFgcqFxcFExQS/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD G PORTUGU\u00caS",
+          "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFgcqFxcFExQT/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD H DUTCH",
+          "url": "https://world-proxifier.xyz/rbtv/p/DiIxNhNCKFYOHFEIEwtUCjInQk5IQiMPQCNGSSpCKFZQJEZLSFVOQkAnTjZNQhVWLkIqECwHKhYaChQSFgcqFxcFExQQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wec - Wec: 6 Hours Of Fuji (Japan) - Qualification 1 (09/27/25)": {
+      "event_title": "Wec - Wec: 6 Hours Of Fuji (Japan) - Qualification 1 (09/27/25)",
+      "event_time": "01:20PM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/WhYGVi5CXAIAC1QTUhU0MDEmVDZFQgEwSVhUIQtQNURNOlQqUkAyRE9YQ0xGUDFMMl1UFlI-VCgUPBEoEgocFhYAHCgTBxMREAU=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "World: Rugby Championship - New Zealand Vs Australia (09/27/25)": {
+      "event_title": "World: Rugby Championship - New Zealand Vs Australia (09/27/25)",
+      "event_time": "01:05PM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "MOVISTAR2",
+          "url": "https://world-proxifier.xyz/rbtv/p/WhxXDQELVFU0Wkc8UhBNREwjTjZNJk1MM0IoVg9UPFZZVEZLQF1BVjUmVAY0JjE1QF9ORFI-VCgVPBUpLQIqFhoKFBMWByoTEgocFBE=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/WhxXDQELVFU0Wkc8UhBNREwjTjZNJk1MM0IoVg9UPFZZVEZLQF1BVjUmVAY0JjE1QF9ORFI-VCgVPBEoEgocFhcGESgTBxMREgo=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "World: Rugby Championship - New Zealand Vs Australia (09/27/25) [STREAM 2[HD]]": {
+      "event_title": "World: Rugby Championship - New Zealand Vs Australia (09/27/25) [STREAM 2[HD]]",
+      "event_time": "01:05PM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/WhxXDQELVFU0Wkc8UhBNREwjTjZNJk1MM0IoVg9UPFZZVEZLQF1BVjUmVAY0JjE1QF9ORFI-VCgVPBUoEgocFhcGESgTBxMREgc=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Beijing, China Women Singles - Maria Camila Osorio Serrano Vs Anna Kalinskaya (09/27/25)": {
+      "event_title": "Wta Beijing, China Women Singles - Maria Camila Osorio Serrano Vs Anna Kalinskaya (09/27/25)",
+      "event_time": "11:00AM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQKQCFORFIQRkhIX0ZWDCY0NUgiVFJEITdETSJUMTZCBElNUFQMQF9OSTZeRjxAQihWLAAqEywCHB4TARcULAMRERQHFw==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Atp Tokyo, Japan Men Double - Gonzalez S / Pel D Vs Erler A / Galloway R (09/27/25)": {
+      "event_title": "Atp Tokyo, Japan Men Double - Gonzalez S / Pel D Vs Erler A / Galloway R (09/27/25)",
+      "event_time": "11:30AM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSETQwQV9CVi5CAjZNKUZLRClUUlI8VFdEX1QFUiUwVgYhSUAxQgRWLEICRE9fND5AKFRVUj5UKBA8ESgSChwpLQEcKBMHExAUAQ==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Atp Tokyo, Japan Men Singles - Brandon Nakashima Vs Marton Fucsovics (09/27/25)": {
+      "event_title": "Atp Tokyo, Japan Men Singles - Brandon Nakashima Vs Marton Fucsovics (09/27/25)",
+      "event_time": "11:55AM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VAcxUEtDMl1UC0BeRjJLWEpEUiUwVg5QNzMyXVQDNFYwNjVYQDJSPlQoEDwVKS0CKhYaCispEQEqExIKHBMa/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VAcxUEtDMl1UC0BeRjJLWEpEUiUwVg5QNzMyXVQDNFYwNjVYQDJSPlQoEDwRKBIKHCktARcoEwcTEBUE/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Atp Tokyo, Japan Men Singles - Brandon Nakashima Vs Marton Fucsovics (09/27/25) [STREAM 23[HD]]": {
+      "event_title": "Atp Tokyo, Japan Men Singles - Brandon Nakashima Vs Marton Fucsovics (09/27/25) [STREAM 23[HD]]",
+      "event_time": "11:55AM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSRk5JSl9CMlI-VAcxUEtDMl1UC0BeRjJLWEpEUiUwVg5QNzMyXVQDNFYwNjVYQDJSPlQoEDwVKBIKHCktARcoEwcTEBIA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Beijing, China Women Singles - Iga Swiatek Vs Yuan Yue (09/27/25)": {
+      "event_title": "Wta Beijing, China Women Singles - Iga Swiatek Vs Yuan Yue (09/27/25)",
+      "event_time": "12:35PM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQOSlBUUjpYRjNEXlQxNkJeMEBdVFw0VFQqUjwWKBc8FB4aAxATEjwVExUFFBA=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Atp Beijing, China Men Double - Cash J / Glasspool L Vs Cobolli F / Sonego L (09/27/25)": {
+      "event_title": "Atp Beijing, China Men Double - Cash J / Glasspool L Vs Cobolli F / Sonego L (09/27/25)",
+      "event_time": "12:50PM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVQFMiRHS0RCKFYAUDBPUhtUKFIUSUQ2JjU2Ml9UDVIlMFYAIkc2T19OVgdCKlZWIktASiJUDVI-VCgQPBEoEgocKRECESgTBxMREAY=/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Beijing, China Women Doubles - Khromacheva I / Sutjiadi A Vs Sara Errani/Jasmine Paolini (09/27/25)": {
+      "event_title": "Wta Beijing, China Women Doubles - Khromacheva I / Sutjiadi A Vs Sara Errani/Jasmine Paolini (09/27/25)",
+      "event_time": "12:50PM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUhE0MEFfQjJSPlQMSyE0SEBWTUA1UFQOUjxUUjQnT0xAV05WAkIzMlJGRjVAQgA1MVBLTCwbRjJMWEtAUkNGNk9YS0xSPlQoEDwRKBIKHBYRBRMoEwcTERAH/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Atp Beijing, China Men Singles - Alex De Minaur Vs Arthur Rinderknech (09/27/25)": {
+      "event_title": "Atp Beijing, China Men Singles - Alex De Minaur Vs Arthur Rinderknech (09/27/25)",
+      "event_time": "01:00PM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVgNUTk1IXUwtUhBNTE1QVApEXVRSSF1MS0QmVCpSEklAO0JBQFIeTklAJDdWNSZUBjEnTTAxQldMTVdCNU5dQkJLQihWLAAqEywCHB4tBCsVLAMRERUDFA==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Atp Tokyo, Japan Men Double - Harrison C / King E Vs Uesugi K / Watanabe S (09/27/25)": {
+      "event_title": "Atp Tokyo, Japan Men Double - Harrison C / King E Vs Uesugi K / Watanabe S (09/27/25)",
+      "event_time": "01:30PM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD B",
+          "url": "https://world-proxifier.xyz/rbtv/p/AkdVVlciSDwyOVQPQCNGSVIeQklSETQwQV9CVi5CA0QxIU4yMl1UBFI8VAxIXUxWBkIzMlJEQjI0Wk5WCEIqVlpQMURNUEdAUkZUKlI8FigXPBQeGj0rFRU8FRMVBRQR/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Beijing, China Women Singles - Diana Shnaider Vs Joint Maya (09/27/25)": {
+      "event_title": "Wta Beijing, China Women Singles - Diana Shnaider Vs Joint Maya (09/27/25)",
+      "event_time": "01:30PM",
+      "event_date": "09/27/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD B",
+          "url": "https://world-proxifier.xyz/rbtv/p/WkcEVgNUTk1IXUwtUhBNTE1QVF4yXEJJUkZOSUpfQjJSPlQFSFBLRFJGTUlAWEFAMUIzMlIbNExNJ1QKQChGVi5CKhQsByoWGgoVEhEDKhcXBRMpLQ==/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    }
+  },
   "metadata": {}
 }
