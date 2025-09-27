@@ -1,29 +1,24 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Sat Sep 27 13:22:38 UTC 2025
+Last updated: Sat Sep 27 13:36:22 UTC 2025
 
-Workflow run: #325
+Workflow run: #326
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-27T13:22:37.728743
+Extracted at: 2025-09-27T13:36:21.299428
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== GROUPED EVENTS BY TITLE ===
+=== MEDIA SEGMENTS (First 10) ===
 
-EVENT: Golf -  2025 Ryder Cup - Day 2 (09/27/25)
-Time: 07:00PM
-Date: 09/27/25
-Category: None
-Available Channels (2):
-  1. VDO
-     URL: https://world-proxifier.xyz/rbtv/p/SiJJQVI-VFYTPRUSUiE-Q0QhVEI0I1QqUldGPFIDVCpSPBQXLAMrKRI8FB4aABYSFjwRFy0CERI=/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp
-  2. MOVISTAR2
-     URL: https://world-proxifier.xyz/rbtv/p/SiJJQVI-VFYTPRUSUiE-Q0QhVEI0I1QqUldGPFIDVCpSPBQXLAMrKRI8FB4aABYSFjwRFy0CERM=/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp
-
-================================================================================
-
-EVENT: Svenska Basketligan 2 - Djurgarden Vs Aik Basket (09/27/25)
+1. https://world-proxifier.xyz/rbtv/p/SiJJQVI-VFYTPRUSUiE-Q0QhVEI0I1QqUldGPFIDVCpSPBQXLAMrKRI8FB4aABYSFjwRFy0CERI=/index.m3u8
+2. https://world-proxifier.xyz/rbtv/p/SiJJQVI-VFYTPRUSUiE-Q0QhVEI0I1QqUldGPFIDVCpSPBQXLAMrKRI8FB4aABYSFjwRFy0CERM=/index.m3u8
+3. https://world-proxifier.xyz/rbtv/p/ViVCSTZeRlYDUDBKRCdJTEpQS1YTQihWAVkyNUpQN0NEXVQxNkIEDghCBUQ2XkIzUj5UKBM8FigSChwpFwYVKBMHEx4XAg==/index.m3u8
+4. https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFZaIkpATTQwVlEiRkNSQUZCREI5VlQQDFZaIjdLR0IGT0BcNUwyXTBPSCMwVi5CKhYWPBUpLQIqFhoKFhUVBSoTEz0VEBE=/index.m3u8
+5. https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFZaIkpATTQwVlEiRkNSQUZCREI5VlQQDFZaIjdLR0IGT0BcNUwyXTBPSCMwVi5CKhYWPBUoEgocFBEFEygTBxMeEwE=/index.m3u8
+6. https://world-proxifier.xyz/rbtv/p/UVBPREdQSklEIUtWEz0VElI-VFVAWUZDQFxLQDFdVBctAxBWViQ1QDFCBURNJ0ZIOlROTksnVAQyXTFATVdCNVIXTk5LJzBWLkIqFhE8FSktAioWGgoWFRQHKhMTPRUSFA==/index.m3u8
+7. https://world-proxifier.xyz/rbtv/p/UUpQVg4kRjxSR01ESEIoVghbMkk2JEJKT1RIVjUmVFJIIjJAOEIoViwCFygXPBQeGgAXEy08FRMVChAR/index.m3u8
+8. https://world-proxifier.xyz/rbtv/p/UUpQVg4kRjxSR01ESEIoVghbMkk2JEJKT1RIVjUmVFJIIjJAOEIoViwCFygXPBQeGgAXEy08FRMVChEp/index.m3u8
+9. https://world-proxifier.xyz/rbtv/p/A1RJRDEkMExAXVQDSCEwM1IZQkRKJEJWLkIBBFITQks2W05JQEIFREEhMkw2XlQxNkIONkxcMklAX0tMTkJQSzJdTkhSPlQoEjwWKBECEhcTAxAoED0WHhQH/index.m3u8
+10. https://world-proxifier.xyz/rbtv/p/A1RJRDEkMExAXVQDSCEwM1IZQkRKJEJWLkIBDFIcNzJLUFQxNkIEBwcXI1ASCixWLkIqFiwAKhUSBBUXEwQqFC0AHBQS/index.m3u8
 ```
