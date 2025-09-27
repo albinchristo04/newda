@@ -1,29 +1,24 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Sat Sep 27 07:35:51 UTC 2025
+Last updated: Sat Sep 27 07:48:57 UTC 2025
 
-Workflow run: #307
+Workflow run: #308
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-27T07:35:50.142358
+Extracted at: 2025-09-27T07:48:56.916865
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== GROUPED EVENTS BY TITLE ===
+=== MEDIA SEGMENTS (First 10) ===
 
-EVENT: Npb - Hanshin Tigers Vs Chunichi Dragons (09/27/25)
-Time: 01:00PM
-Date: 09/27/25
-Category: None
-Available Channels (2):
-  1. HDK A 日本語
-     URL: https://world-proxifier.xyz/rbtv/p/D0MFVi5CA0RNJk1MTUJRTEpUNzJSJTBWAFsySUhWTUxSETdESiJLMlI-VCgRPBEoEgoUHhQHFCgTBxMREAE=/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
-  2. HDK A 日本語
-     URL: https://world-proxifier.xyz/rbtv/p/D0MFVi5CA0RNJk1MTUJRTEpUNzJSJTBWAFsySUhWTUxSETdESiJLMlI-VCgRPBEoEgoUHhQHFCgTBxMREAE=/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
-
-================================================================================
-
-EVENT: Npb - Yokohama Baystars Vs Yomiuri Giants (09/27/25)
+1. https://world-proxifier.xyz/rbtv/p/D0MFVi5CA0RNJk1MTUJRTEpUNzJSJTBWAFsySUhWTUxSETdESiJLMlI-VCgRPBEoEgoUHhQHFCgTBxMREAE=/index.m3u8
+2. https://world-proxifier.xyz/rbtv/p/D0MFVi5CA0RNJk1MTUJRTEpUNzJSJTBWAFsySUhWTUxSETdESiJLMlI-VCgRPBEoEgoUHhQHFCgTBxMREAE=/index.m3u8
+3. https://world-proxifier.xyz/rbtv/p/D0MFVi5CA0RNJk1MTUJRTEpUNzJSJTBWAFsySUhWTUxSETdESiJLMlI-VCgRPBEoEgoUHhQHFCgTBxMREAE=/index.m3u8
+4. https://world-proxifier.xyz/rbtv/p/D0MFVi5CXjZOIk1ETFBUB0AoUDNAITBWNSZUXDJcTjAxWFQASFBLMzZCKFYsASoTLAIcFhYFFCksAxERFQMV/index.m3u8
+5. https://world-proxifier.xyz/rbtv/p/D0MFVi5CXjZOIk1ETFBUB0AoUDNAITBWNSZUXDJcTjAxWFQASFBLMzZCKFYsASoTLAIcFhYFFCksAxERFQMV/index.m3u8
+6. https://world-proxifier.xyz/rbtv/p/D0MFVi5CXjZOIk1ETFBUB0AoUDNAITBWNSZUXDJcTjAxWFQASFBLMzZCKFYsASoTLAIcFhYFFCksAxERFQMV/index.m3u8
+7. https://world-proxifier.xyz/rbtv/p/D1AxTDJdRktSE0YyTlQxRUBfSVYJVEZONFRUKlIfQj5SSUJET1BLQ1ITN0BAXkI1NkIzMlJDQjU3W1ReSF9BQkAnMFYuQioXLAcqFhoKKxMQBSoXFwUTERE=/index.m3u8
+8. https://world-proxifier.xyz/rbtv/p/D1AxTDJdRktSE0YyTlQxRUBfSVYJVEZONFRUKlIfQj5SSUJET1BLQ1ITN0BAXkI1NkIzMlJDQjU3W1ReSF9BQkAnMFYuQioXLAAqFhoKKxMQBSoXFwUTERA=/index.m3u8
+9. https://world-proxifier.xyz/rbtv/p/D1AxTDJdRktSE0YyTlQxRUBfSVYJVEZONFRUKlIfQj5SSUJET1BLQ1ITN0BAXkI1NkIzMlJDQjU3W1ReSF9BQkAnMFYuQioXLAcqFhoKKxMQBSoXFwUTERE=/index.m3u8
+10. https://world-proxifier.xyz/rbtv/p/D1AxTDJdRktSE0YyTlQxRUBfSVYJVEZONFRUKlIfQj5SSUJET1BLQ1ITN0BAXkI1NkIzMlJDQjU3W1ReSF9BQkAnMFYuQioXLAAqFhoKKxMQBSoXFwUTERA=/index.m3u8
 ```
