@@ -1,24 +1,29 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Sat Sep 27 07:25:32 UTC 2025
+Last updated: Sat Sep 27 07:35:51 UTC 2025
 
-Workflow run: #306
+Workflow run: #307
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-09-27T07:25:31.884078
+Extracted at: 2025-09-27T07:35:50.142358
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== MEDIA SEGMENTS (First 10) ===
+=== GROUPED EVENTS BY TITLE ===
 
-1. https://world-proxifier.xyz/rbtv/p/AkRQU1ESDw4CC1QGBxlUKlJDSUQ4QgpBRSZUKlIUQkBPIktOUhBGMzZCMzJSEzdMNlFGSURCD0wyXTBWLkIqFi08ESgSChwWFgQcKBMHExAaBw==/index.m3u8
-2. https://world-proxifier.xyz/rbtv/p/AkRQU1ESDw4CC1QGBxlUKlJDSUQ4QgpBRSZUKlIUQkBPIktOUhBGMzZCMzJSEzdMNlFGSURCD0wyXTBWLkIqFi08FSgSChwWFgQcKBMHExEtAA==/index.m3u8
-3. https://world-proxifier.xyz/rbtv/p/D0MFVi5CA0RNJk1MTUJRTEpUNzJSJTBWAFsySUhWTUxSETdESiJLMlI-VCgRPBEoEgoUHhQHFCgTBxMREAE=/index.m3u8
-4. https://world-proxifier.xyz/rbtv/p/D0MFVi5CXjZOIk1ETFBUB0AoUDNAITBWNSZUXDJcTjAxWFQASFBLMzZCKFYsASoTLAIcFhYFFCksAxERFQMV/index.m3u8
-5. https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYLJEtMMiFUXjJcQkkkJlRVMlBBVlFQQEBSL1RQABpUXjIhSUNSEE1ETCNONk0mTUwzJlQqUjwUEiwDKykSPBQeGgAWExE8ERctAhMV/index.m3u8
-6. https://world-proxifier.xyz/rbtv/p/AChAS0hdTFZaIjdLR0IGMDNCKFYLJEtMMiFUXjJcQkkkJlRVMlBBVlFQQEBSL1RQABpUXjIhSUNSEE1ETCNONk0mTUwzJlQqUjwUEiwDKykSPBQeGgAWExE8ERctAhMS/index.m3u8
-7. https://world-proxifier.xyz/rbtv/p/DiIwM1JFRks0UEdLREJVNTJcNDNIIksyUj5UDzJdRjNLUEtWUSJPRDZCKFZRUD5WUSJPRDZCKFYsAhcoFzwUHhoDHBQUPBUTFQQVEQ==/index.m3u8
-8. https://world-proxifier.xyz/rbtv/p/AFtOSUBCXjY0J01WByI0M0FQSUtSGUJESiRCViUeQkkkJlRQEgRUADEiMjcqQihWAFtGSUpWTTBNQl5EN1BOVlQCElY1JlRSS1BLQzJdTFZXUE4yS1BLVlQCElYuQioWLAAqFRMFEhEVAioULQASFhI=/index.m3u8
-9. https://world-proxifier.xyz/rbtv/p/AFtOSUBCXjY0J01WByI0M0FQSUtSGUJESiRCViUeQkkkJlRQEgRUADEiMjcqQihWAFs0SUogTklKQglETV5GTFJEFBBSJTBWAVBJTEBdVFxIXUxFMkJSFhRCKFYsAioULAEVERQFEyksACsUFAIr/index.m3u8
-10. https://world-proxifier.xyz/rbtv/p/AFtOSUBCXjY0J01WByI0M0FQSUtSGUJESiRCViUeQkkkJlRQEgRUADEiMjcqQihWV1hGSUlYS1ZWIzQ1NyZUUkZbNDZPQlIWFEIzMlJHMExNWk0wQEJSSUglQjU2WDE8UhVOTktCUEJLIjRLUkQUEFI-VCgSPBYoEQMTEBUEHCgQPRYQLQo=/index.m3u8
+EVENT: Npb - Hanshin Tigers Vs Chunichi Dragons (09/27/25)
+Time: 01:00PM
+Date: 09/27/25
+Category: None
+Available Channels (2):
+  1. HDK A 日本語
+     URL: https://world-proxifier.xyz/rbtv/p/D0MFVi5CA0RNJk1MTUJRTEpUNzJSJTBWAFsySUhWTUxSETdESiJLMlI-VCgRPBEoEgoUHhQHFCgTBxMREAE=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
+  2. HDK A 日本語
+     URL: https://world-proxifier.xyz/rbtv/p/D0MFVi5CA0RNJk1MTUJRTEpUNzJSJTBWAFsySUhWTUxSETdESiJLMlI-VCgRPBEoEgoUHhQHFCgTBxMREAE=/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
+
+================================================================================
+
+EVENT: Npb - Yokohama Baystars Vs Yomiuri Giants (09/27/25)
 ```
