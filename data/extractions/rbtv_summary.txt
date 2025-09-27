@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-27T12:27:57.074907
+Extraction Time: 2025-09-27T12:57:51.975152
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 79
-- Total Channels: 104
+- Unique Events: 94
+- Total Channels: 121
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -22,41 +22,27 @@ EVENT BREAKDOWN:
   Time: 08:00PM, Channels: 1
 - Rws Muay Thai - Khunsueklek Vs Siouey (09/27/25)
   Time: 08:00PM, Channels: 2
-- Belarusian First League - Fk Bumprom Gomel Vs Fk Lida (09/27...
-  Time: 07:00PM, Channels: 1
-- Chinese Football League 1 - Liaoning Tieren Vs Dingnan Unite...
-  Time: 07:00PM, Channels: 1
 - Chinese Football League 1 - Shanghai Jiading Huilong Vs Guan...
   Time: 07:00PM, Channels: 1
 - Chinese Football League 1 - Suzhou Dongwu Vs Nanjing City (0...
   Time: 07:00PM, Channels: 1
-- Danish 1St Division - Herfolge Boldklub Koge Vs Hvidovre If ...
-  Time: 07:00PM, Channels: 1
+- English Fa Women'S Super League - Arsenal Women Vs Aston Vil...
+  Time: 07:00PM, Channels: 2
 - English Fa Women'S Super League - Arsenal Women Vs Aston Vil...
   Time: 07:00PM, Channels: 1
+- German Bundesliga 2 - Sc Paderborn 07 Vs 1. Fc Kaiserslauter...
+  Time: 07:00PM, Channels: 2
 - German Bundesliga 2 - Sc Paderborn 07 Vs 1. Fc Kaiserslauter...
   Time: 07:00PM, Channels: 1
 - German Bundesliga 2 - Sv Elversberg Vs Holstein Kiel (09/27/...
   Time: 07:00PM, Channels: 1
-- Italian Campionato Primavera 1 - Us Cremonese U20 Vs Ac Mila...
-  Time: 07:00PM, Channels: 1
-- Latvian Higher League - Jelgava Vs Fk Auda Riga (09/27/25)
+- German Bundesliga 2 - Sv Elversberg Vs Holstein Kiel (09/27/...
   Time: 07:00PM, Channels: 1
 - Rus D3B - Kvant Obninsk Vs Dinamo Briansk (09/27/25)
   Time: 07:00PM, Channels: 1
 - Rus D3B - Strogino Moscow Vs Znamya Truda (09/27/25)
   Time: 07:00PM, Channels: 1
-- Rus D3B - Zvezda Sint Petersburg Vs Torpedo Vladimir (09/27/...
-  Time: 07:00PM, Channels: 1
-- Russian Premier League - Akhmat Grozny Vs Akron Togliatti (0...
-  Time: 07:00PM, Channels: 1
-- Sweden Division 1 - Eskilsminne If Vs Husqvarna (09/27/25)
-  Time: 07:00PM, Channels: 1
-- Sweden Division 1 - If Karlstad Fotboll Vs Enkoping (09/27/2...
-  Time: 07:00PM, Channels: 1
 - Sweden Division 1 - Ifk Stocksund Vs Gefle If (09/27/25)
-  Time: 07:00PM, Channels: 1
-- Sweden Division 1 - Ljungskile Vs Torslanda Ik (09/27/25)
   Time: 07:00PM, Channels: 1
 - Azerbaijan Premier League - Shamakhi Fk Vs Araz Nakhchivan (...
   Time: 07:30PM, Channels: 1
@@ -73,7 +59,11 @@ EVENT BREAKDOWN:
 - English Football League Championship - Wrexham Vs Derby Coun...
   Time: 07:30PM, Channels: 1
 - English Premier League - Brentford Vs Manchester United (09/...
-  Time: 07:30PM, Channels: 3
+  Time: 07:30PM, Channels: 4
+- English Premier League - Brentford Vs Manchester United (09/...
+  Time: 07:30PM, Channels: 1
+- English Premier League - Brentford Vs Manchester United (09/...
+  Time: 07:30PM, Channels: 1
 - Thai League 1 - Rayong Fc Vs Uthai Thani Forest (09/27/25)
   Time: 07:30PM, Channels: 1
 - Belarusian First League - Osipovichy Vs Fc Gomel B (09/27/25...
@@ -91,7 +81,7 @@ EVENT BREAKDOWN:
 - German 3.Liga - Erzgebirge Aue Vs Tsv 1860 München (09/27/25...
   Time: 08:00PM, Channels: 3
 - German 3.Liga - Hansa Rostock Vs Havelse (09/27/25)
-  Time: 08:00PM, Channels: 2
+  Time: 08:00PM, Channels: 1
 - German 3.Liga - Msv Duisburg Vs Fc Ingolstadt (09/27/25)
   Time: 08:00PM, Channels: 2
 - German 3.Liga - Schweinfurt 05 Fc Vs Alemannia Aachen (09/27...
@@ -121,7 +111,7 @@ EVENT BREAKDOWN:
 - Romanian Super Liga - Uta Arad Vs Fk Csikszereda Miercurea C...
   Time: 08:00PM, Channels: 1
 - Spanish La Liga - Getafe Vs Levante (09/27/25)
-  Time: 08:00PM, Channels: 4
+  Time: 08:00PM, Channels: 3
 - Spanish La Liga - Getafe Vs Levante (09/27/25) [STREAM 25_FH...
   Time: 08:00PM, Channels: 1
 - Spanish Primera División Rfef - Barakaldo Cf Vs Cacereno (09...
@@ -136,6 +126,46 @@ EVENT BREAKDOWN:
   Time: 08:30PM, Channels: 1
 - Ukrainian Premier League - Zorya Vs Obolon Kyiv (09/27/25)
   Time: 08:30PM, Channels: 1
+- Pko Bank Polski Ekstraklasa - Korona Kielce Vs Lechia Gdansk...
+  Time: 08:45PM, Channels: 1
+- Belarusian First League - Fk Orsha Vs Abff(U19) (09/27/25)
+  Time: 09:00PM, Channels: 1
+- Czech Chance Liga - Banik Ostrava Vs Sparta Praha (09/27/25)
+  Time: 09:00PM, Channels: 1
+- Czech Chance Liga - Bohemians 1905 Vs Sigma Olomouc (09/27/2...
+  Time: 09:00PM, Channels: 1
+- Czech Chance Liga - Synot Slovacko Vs Mfk Karvina (09/27/25)
+  Time: 09:00PM, Channels: 1
+- Italian Campionato Primavera 1 - Monza U19 Vs Fiorentina U19...
+  Time: 09:00PM, Channels: 1
+- Italian Serie A - Como Vs Cremonese (09/27/25)
+  Time: 09:00PM, Channels: 1
+- Italian Serie B - Avellino Vs Acd Virtus Entella (09/27/25) ...
+  Time: 09:00PM, Channels: 1
+- Italian Serie B - Sudtirol Vs A.C. Reggiana 1919 (09/27/25)
+  Time: 09:00PM, Channels: 1
+- Italian Serie B - Venezia Vs Spezia (09/27/25) [STREAM 46[HD...
+  Time: 09:00PM, Channels: 1
+- Italian Serie B - Venezia Vs Spezia (09/27/25)
+  Time: 09:00PM, Channels: 1
+- Italian Serie C - Sassari Torres Vs Ascoli (09/27/25)
+  Time: 09:00PM, Channels: 1
+- Italian Serie C - Us Sambenedettese Vs Juventusu23 (09/27/25...
+  Time: 09:00PM, Channels: 1
+- Liga Portugal 2 - Viseu Vs Portimonense (09/27/25) [STREAM 4...
+  Time: 09:00PM, Channels: 1
+- Lithuanian A Lyga  - Siauliai Vs Fk Riteriai (09/27/25)
+  Time: 09:00PM, Channels: 1
+- Malaysian Super League - Negeri Sembilan Vs Sabah Fc (09/27/...
+  Time: 09:00PM, Channels: 1
+- Rus D3B - Spartak Nalchik Vs Fk Astrakhan (09/27/25)
+  Time: 09:00PM, Channels: 1
+- Russian Women'S Premier League - Fk Ryazan Women Vs Rubin Ka...
+  Time: 09:00PM, Channels: 1
+- Sweden Allsvenskan - Elfsborg Vs Degerfors If (09/27/25)
+  Time: 09:00PM, Channels: 1
+- Uzbekistan Super League - Navbahor Namangan Vs Qizilqum Zara...
+  Time: 09:00PM, Channels: 1
 - Kontinental Hockey League - Metallurg Magnitogorsk Vs Ak Bar...
   Time: 07:30PM, Channels: 1
 - Kontinental Hockey League - Salavat Yulaev Ufa Vs Avangard O...
@@ -156,12 +186,12 @@ EVENT BREAKDOWN:
   Time: 07:30PM, Channels: 1
 - World: United Rugby Championship - Bulls Vs Ospreys (09/27/2...
   Time: 08:00PM, Channels: 1
-- Wta Beijing, China Women Singles - Emiliana Arango Vs Zheng ...
-  Time: 07:00PM, Channels: 2
 - Wta Beijing, China Women Singles - Emma Raducanu Vs Cristina...
   Time: 07:10PM, Channels: 1
 - Semifinal Femenino-Padel - Semifinal Femenina 1 (09/27/25)
   Time: 08:00PM, Channels: 1
+- Atp Beijing, China Men Singles - Arthur Cazaux Vs Jakub Mens...
+  Time: 08:40PM, Channels: 3
 - Livoli Divisi Utama - Putra: Pasundan Vs  Ganeksa Bhumikarta...
   Time: 05:00PM, Channels: 1
 - Beach Pro Tour - Elite16 | Rio De Janeiro Vs Playoffs | Cour...
