@@ -1,76 +1,92 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-09-27T04:18:00.844823
+Extraction Time: 2025-09-27T04:40:19.470097
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 31
-- Total Channels: 46
+- Unique Events: 39
+- Total Channels: 110
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
+- Usa: Ncaa - Arizona State Vs Tcu (09/27/25)
+  Time: 09:00AM, Channels: 2
 - Canada: Cfl - Bc Lions Vs Toronto Argonauts (09/27/25)
-  Time: 10:00AM, Channels: 1
+  Time: 10:00AM, Channels: 2
 - Usa: Ncaa - Oregon State Vs Houston (09/27/25)
-  Time: 10:30AM, Channels: 1
-- Major League Baseball - Los Angeles Angels Vs Houston Astros...
-  Time: 09:38AM, Channels: 1
+  Time: 10:30AM, Channels: 2
+- Australia: Afl - Play Offs - Geelong Cats Vs Brisbane Lions ...
+  Time: 12:30PM, Channels: 2
+- Australia: Afl - Play Offs - Geelong Cats Vs Brisbane Lions ...
+  Time: 12:30PM, Channels: 2
 - Major League Baseball - San Diego Padres Vs Arizona Diamondb...
-  Time: 09:40AM, Channels: 1
+  Time: 09:40AM, Channels: 2
 - Major League Baseball - San Diego Padres Vs Arizona Diamondb...
-  Time: 09:40AM, Channels: 1
+  Time: 09:40AM, Channels: 2
+- Major League Baseball - Seattle Mariners Vs Los Angeles Dodg...
+  Time: 09:40AM, Channels: 2
 - Major League Baseball - Oakland Athletics Vs Kansas City Roy...
-  Time: 10:05AM, Channels: 1
+  Time: 10:05AM, Channels: 2
+- Major League Baseball - Oakland Athletics Vs Kansas City Roy...
+  Time: 10:05AM, Channels: 2
 - Major League Baseball - San Francisco Giants Vs Colorado Roc...
-  Time: 10:15AM, Channels: 1
+  Time: 10:15AM, Channels: 2
+- Major League Baseball - San Francisco Giants Vs Colorado Roc...
+  Time: 10:15AM, Channels: 2
 - Liga Nacional De Baloncesto Profesional - Halcones Xalapa Vs...
-  Time: 10:00AM, Channels: 1
+  Time: 10:00AM, Channels: 2
 - Liga Nacional De Baloncesto Profesional - Santos De San Luis...
-  Time: 10:00AM, Channels: 1
-- Liga Nacional De Baloncesto Profesional - Fuerza Regia Vs Co...
-  Time: 10:15AM, Channels: 1
+  Time: 10:00AM, Channels: 2
 - New Zealand Basketball League Womens - Mid-North Whai Women ...
-  Time: 11:00AM, Channels: 2
+  Time: 11:00AM, Channels: 4
 - One Championship - Cage Fury Fc 146 (09/27/25) [STREAM 3[HD]...
-  Time: 09:00AM, Channels: 1
-- Wwe - Tna: Victory Road 2025 (09/27/25)
-  Time: 09:00AM, Channels: 1
+  Time: 09:00AM, Channels: 2
 - Most Valuable Promotions - Jonathan Rojas - Ray Rojas (09/27...
-  Time: 10:00AM, Channels: 1
+  Time: 10:00AM, Channels: 2
 - One Championship - Budo Sento Championship: Vol 31 (09/27/25...
-  Time: 11:30AM, Channels: 1
+  Time: 11:30AM, Channels: 2
+- One Championship - Budo Sento Championship: Vol 31 (09/27/25...
+  Time: 11:30AM, Channels: 2
 - United States Women'S National Soccer League - San Diego Wav...
-  Time: 10:30AM, Channels: 1
-- United States Women'S National Soccer League - San Diego Wav...
-  Time: 10:30AM, Channels: 1
+  Time: 10:30AM, Channels: 2
 - Japanese Football League - Reilac Shiga Fc Vs Minebea Mitsum...
-  Time: 12:00PM, Channels: 1
+  Time: 12:00PM, Channels: 2
 - Japanese Football League - Reinmeer Aomori Fc Vs Atletico Su...
-  Time: 12:00PM, Channels: 1
+  Time: 12:00PM, Channels: 2
 - Japanese Nadeshiko League 1 - Ngu Nagoya Women Vs Okayama Yu...
-  Time: 12:00PM, Channels: 1
+  Time: 12:00PM, Channels: 2
 - Japanese Nadeshiko League 1 - Setagaya Sfidwomen Vs As Harim...
-  Time: 12:00PM, Channels: 1
-- Women Empowerment League - Albirex Niigata Ladies Vs Ntv Tok...
-  Time: 12:00PM, Channels: 1
+  Time: 12:00PM, Channels: 2
 - Nhl Preseason - San Jose Sharks Vs Vegas Golden Knights (09/...
-  Time: 10:00AM, Channels: 1
+  Time: 10:00AM, Channels: 2
+- Nhl Preseason - San Jose Sharks Vs Vegas Golden Knights (09/...
+  Time: 10:00AM, Channels: 2
 - Nhl Preseason - Vancouver Canucks Vs Seattle Kraken (09/27/2...
-  Time: 10:00AM, Channels: 1
+  Time: 10:00AM, Channels: 2
 - Nhl Preseason - Vancouver Canucks Vs Seattle Kraken (09/27/2...
-  Time: 10:00AM, Channels: 1
-- Arca Menards Series - Reese'S 150 (09/27/25) [STREAM 27[HD]]
-  Time: 08:00AM, Channels: 1
-- Moto3 - Moto3: Motegi (Japan) - Qualification 1 (09/27/25)
-  Time: 11:50AM, Channels: 6
+  Time: 10:00AM, Channels: 2
 - Moto3 - Moto3: Motegi (Japan) - Qualification 2 (09/27/25)
-  Time: 12:15PM, Channels: 9
-- Wta Beijing, China Women Singles - Mirra Andreeva Vs Zhu Lin...
-  Time: 11:00AM, Channels: 1
+  Time: 12:15PM, Channels: 18
+- Moto2 - Moto2: Motegi (Japan) - Qualification 1 (09/27/25)
+  Time: 12:45PM, Channels: 14
+- Atp Beijing, China Men Singles - Fabian Marozsan Vs Alexandr...
+  Time: 11:00AM, Channels: 2
+- Wta Beijing, China Women Singles - Anastasia Potapova Vs Vic...
+  Time: 11:00AM, Channels: 2
+- Wta Beijing, China Women Singles - Elena-Gabriela Ruse Vs Em...
+  Time: 11:00AM, Channels: 2
+- Wta Beijing, China Women Singles - Jessica Bouzas Maneiro Vs...
+  Time: 11:00AM, Channels: 2
+- Wta Beijing, China Women Singles - Maria Camila Osorio Serra...
+  Time: 11:00AM, Channels: 2
+- Atp Tokyo, Japan Men Double - Gonzalez S / Pel D Vs Erler A ...
+  Time: 11:30AM, Channels: 2
+- Atp Tokyo, Japan Men Singles - Brandon Nakashima Vs Marton F...
+  Time: 11:55AM, Channels: 4
 - Atp Tokyo, Japan Men Singles - Brandon Nakashima Vs Marton F...
   Time: 11:55AM, Channels: 2
-- Atp Tokyo, Japan Men Singles - Brandon Nakashima Vs Marton F...
-  Time: 11:55AM, Channels: 1
+- Wta Beijing, China Women Singles - Liudmila Samsonova Vs Loi...
+  Time: 12:40PM, Channels: 2
