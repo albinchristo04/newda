@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-05T22:13:13.071873
+Extraction Time: 2025-10-05T22:30:08.940357
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 32
-- Total Channels: 48
+- Unique Events: 35
+- Total Channels: 51
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -30,10 +30,10 @@ EVENT BREAKDOWN:
   Time: 06:00AM, Channels: 1
 - Basketball Champions League Americas - Olimpia Kings Vs Grsa...
   Time: 06:10AM, Channels: 1
-- Portuguese Primera Liga - Fc Porto Vs Benfica (10/06/25)
-  Time: 04:15AM, Channels: 3
-- Portuguese Primera Liga - Fc Porto Vs Benfica (10/06/25) [ST...
-  Time: 04:15AM, Channels: 1
+- Chile Liga Nacional Basketball - Chile Boston College Vs Col...
+  Time: 06:30AM, Channels: 1
+- Chile Liga Nacional Basketball - Puente Alto Vs Universidad ...
+  Time: 06:30AM, Channels: 1
 - Chilean Cup - Huachipato Vs Audax Italiano (10/06/25)
   Time: 04:30AM, Channels: 1
 - Paraguayan Primera Division - Club Guaraní Vs Atlético Tembe...
@@ -62,17 +62,23 @@ EVENT BREAKDOWN:
   Time: 06:00AM, Channels: 1
 - Brazilian Serie C - Sao Bernardo Vs Caxias Rs (10/06/25)
   Time: 06:00AM, Channels: 1
-- Canadian Premier League - Pacific Fc Vs Cavalry Fc (10/06/25...
-  Time: 06:00AM, Channels: 1
 - Colombian Torneo Betplay Dimayor - Real Cartagena Vs Atletic...
   Time: 06:00AM, Channels: 1
 - Ecuadorian Campeonato Serie B - Guayaquil City Vs Gualaceo S...
   Time: 06:00AM, Channels: 1
+- Canadian Premier League - Pacific Fc Vs Cavalry Fc (10/06/25...
+  Time: 06:10AM, Channels: 1
 - United States Major League Soccer - Vancouver Whitecaps Vs S...
-  Time: 06:00AM, Channels: 3
+  Time: 06:10AM, Channels: 3
 - United States Major League Soccer - Vancouver Whitecaps Vs S...
-  Time: 06:00AM, Channels: 1
+  Time: 06:10AM, Channels: 1
 - Categoría Primera A - Atletico Junior Barranquilla Vs Deport...
-  Time: 06:15AM, Channels: 1
+  Time: 06:15AM, Channels: 2
+- Jamaica Premier League - Waterhouse Fc Vs Mount Pleasant Fa ...
+  Time: 06:30AM, Channels: 1
+- Ligapro Serie A  - Barcelona Sc(Ecu) Vs Independiente Del Va...
+  Time: 06:30AM, Channels: 1
+- Peruvian Liga 1 - Deportivo Garcilaso Vs Alianza Atletico Su...
+  Time: 06:30AM, Channels: 2
 - Nascar Cup Series - Nascar Cup Series: Bank Of America Roval...
   Time: 03:00AM, Channels: 3

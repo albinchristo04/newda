@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-05T22:13:13.071873",
+  "timestamp": "2025-10-05T22:30:08.940357",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -115,43 +115,24 @@
       "group_title": "BASKETBALL"
     },
     {
-      "event_time": "04:15AM",
+      "event_time": "06:30AM",
       "event_date": "10/06/25",
-      "channel_name": "HDD A",
-      "event_title": "Portuguese Primera Liga - Fc Porto Vs Benfica (10/06/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AM5CEMJHEMQDKNRXNMKSWWC7KZDFCED4LE2DI4DIOIBBM4AVHU4TCNQRIRABI4SVLZLDUNRRMV4G45L7OR6X22TNAMBQKBACAYPQGY3NMN3GG/index.m3u8",
+      "channel_name": "SD",
+      "event_title": "Chile Liga Nacional Basketball - Chile Boston College Vs Colo Colo (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CA6TSKJXMQMTSIRTNMFTQUS3LRNFCXAQOIZCMOZAEYTDIPBJOJTGKGSZLNPVCEDSL5BSOOR6MUISWOJ4EA2S4ZJPIIJHAW24L4IHGPBZH5SXQ3TVP53X26DKNAEAWBANBAAR6ATEMRTX2ZY/index.m3u8",
       "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL"
     },
     {
-      "event_time": "04:15AM",
+      "event_time": "06:30AM",
       "event_date": "10/06/25",
-      "channel_name": "HDD B DEUTSCH",
-      "event_title": "Portuguese Primera Liga - Fc Porto Vs Benfica (10/06/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AM5CEMJHEMQDKNRXNMKSWWC7KZDFCED4LE2DI4DIOIBBM4AVHU4TCNQRIRABI4SVLZLDUNRRMV4G45L7OR6X22TNAMBQKBACAYPQGY3NMN3GA/index.m3u8",
+      "channel_name": "SD",
+      "event_title": "Chile Liga Nacional Basketball - Puente Alto Vs Universidad Catolica (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CA6TSKJXMQMTSIRTNMFTQUS3LRNFCXAQOIZCMOZAEYTDIPBJOJTGKCKEK5OUAVIQOFOCOOTQGMQWIAB6FQSC4NZKLBLFEUAQONIUIPBZHETDGZD7PJSX26LKNIPAGCQNA4EQQAT4M5TXIZL4ME/index.m3u8",
       "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "04:15AM",
-      "event_date": "10/06/25",
-      "channel_name": "HDD C PORTUGU\u00caS",
-      "event_title": "Portuguese Primera Liga - Fc Porto Vs Benfica (10/06/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AM5CEMJHEMQDKNRXNMKSWWC7KZDFCED4LE2DI4DIOIBBM4AVHU4TCNQRIRABI4SVLZLDUNRRMV4G45L7OR6X22TNAMBQKBACAYPQGY3NMN3GC/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "04:15AM",
-      "event_date": "10/06/25",
-      "event_title": "Portuguese Primera Liga - Fc Porto Vs Benfica (10/06/25) [STREAM 45[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AM5CEMJHEMQDKNRXNMKSWWC7KZDFCED4LE2DI4DIOIBBM4AVHU4TCNQRIRABI4SVLZLDUNRRMV4G45L7OR6XS2TNAMBQKBACAYPQGY3NMN3GM/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL"
     },
     {
       "event_time": "04:30AM",
@@ -373,16 +354,6 @@
     {
       "event_time": "06:00AM",
       "event_date": "10/06/25",
-      "channel_name": "HDD A",
-      "event_title": "Canadian Premier League - Pacific Fc Vs Cavalry Fc (10/06/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CA2D4JBWFU2D4ZICHEQDIWCXIEKHYVKRK4TDA4DIOIKDIMZMGQRCM6LXOEJUEQYQONISKNB4G4VWIEYTMV4GCZLWAAOQKGYEAEDAGZLDMBVGC5DNMNZWW/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "06:00AM",
-      "event_date": "10/06/25",
       "channel_name": "SD",
       "event_title": "Colombian Torneo Betplay Dimayor - Real Cartagena Vs Atletico Fc (10/06/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/CA5DYKR7EY6DCK3SD4VCWX2XLQKHEVKEMA7TIKLFCYWTQMJ4HU4WK5ARMBLFKXAQONISCIJREI3SUNDQGMQWWBBNLVLUOXKTL4IHMEDVPJXXE23EP53H273XMABQWAYED4BQACDAMNUA/index.m3u8",
@@ -401,7 +372,17 @@
       "group_title": "FOOTBALL"
     },
     {
-      "event_time": "06:00AM",
+      "event_time": "06:10AM",
+      "event_date": "10/06/25",
+      "channel_name": "HDD A",
+      "event_title": "Canadian Premier League - Pacific Fc Vs Cavalry Fc (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CA2D4JBWFU2D4ZICHEQDIWCXIEKHYVKRK4TDA4DIOIKDIMZMGQRCM6LXOEJUEQYQONISKNB4G4VWIEYTMV4GCZLWAAOQKGYEAEDAGZLDMBVGC5DNMNZWW/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:10AM",
       "event_date": "10/06/25",
       "channel_name": "HDD A",
       "event_title": "United States Major League Soccer - Vancouver Whitecaps Vs San Jose Earthquakes (10/06/25)",
@@ -411,7 +392,7 @@
       "group_title": "FOOTBALL"
     },
     {
-      "event_time": "06:00AM",
+      "event_time": "06:10AM",
       "event_date": "10/06/25",
       "channel_name": "HDD B ESPA\u00d1OL",
       "event_title": "United States Major League Soccer - Vancouver Whitecaps Vs San Jose Earthquakes (10/06/25)",
@@ -421,7 +402,7 @@
       "group_title": "FOOTBALL"
     },
     {
-      "event_time": "06:00AM",
+      "event_time": "06:10AM",
       "event_date": "10/06/25",
       "event_title": "United States Major League Soccer - Vancouver Whitecaps Vs San Jose Earthquakes (10/06/25) [STREAM 44[HD]]",
       "url": "https://world-proxifier.xyz/rbtv/p/AY5TSMJXEB2QGMJTH4QCUEL7KJPF6QQQPQ3DINZQG5SAMPZGGEXDO6I4CJSVKXSTL5CSKMBCMUCSYPBEEAYSUNJKCFCEAFDDKFPBAGJ2EMQHEAJUEIYTUORQHBNFOQAUDINBAH3CPJRGUZTVMVSXOZ3YNJVACCQAAMCQ/index.m3u8",
@@ -430,7 +411,7 @@
       "group_title": "FOOTBALL"
     },
     {
-      "event_time": "06:00AM",
+      "event_time": "06:10AM",
       "event_date": "10/06/25",
       "channel_name": "SD",
       "event_title": "United States Major League Soccer - Vancouver Whitecaps Vs San Jose Earthquakes (10/06/25)",
@@ -445,6 +426,56 @@
       "channel_name": "HDD A",
       "event_title": "Categor\u00eda Primera A - Atletico Junior Barranquilla Vs Deportes Tolima (10/06/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/CA2CIIBVFMTZH2BTNMKSWWC7KZDFCEDRCB7HKEJRHYQSCOJGHVVQ6LC7LNOEMEDSKFBCCNB6GQTS2OJ4ERZD2NTZOVLUGW2CIRKUG4YBH4UTWKJUOBXXQ23KNAPAIHAAAIAQOCDHMV7XMYT4MZUHO/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:15AM",
+      "event_date": "10/06/25",
+      "channel_name": "SD",
+      "event_title": "Categor\u00eda Primera A - Atletico Junior Barranquilla Vs Deportes Tolima (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CA2CIIBVFMTZH2BTNMKSWWC7KZDFCEDRCB7HKEJRHYQSCOJGHVVQ6LC7LNOEMEDSKFBCCNB6GQTS2OJ4ERZD2NTZOVLUGW2CIRKUG4YBH4UTWKJUOBXXQ23KNAPACHAAAIAQOCDHMV7XMYT4MZTXY/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:30AM",
+      "event_date": "10/06/25",
+      "channel_name": "SD",
+      "event_title": "Jamaica Premier League - Waterhouse Fc Vs Mount Pleasant Fa (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DE2D2JB3E42HAFJAFYUDAVCACN4FKUKXIU3HK7LFAUSSCNJXHISDAKSUCJ2XOECGIMIB4ORFFMTGIBJ4EAZTQJBXIUJHK5IQDINBA7DEP53H24DHMZ3WW73XOYBAECYHBABQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:30AM",
+      "event_date": "10/06/25",
+      "channel_name": "SD",
+      "event_title": "Ligapro Serie A  - Barcelona Sc(Ecu) Vs Independiente Del Valle (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/D46DOJACGY5HAFRXHEWDYELTCMKB2EDSKEQTMNJJHUVDI4AWCFRQAGTEDMJUEQYQPFPDOMBAEA6CAPBVFMTC4ZJ5KRPBGYSRLROFK437PJSX25L2MNVGM6L4NUEQMCY3AMAAQA3LMA/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:30AM",
+      "event_date": "10/06/25",
+      "channel_name": "HDD A",
+      "event_title": "Peruvian Liga 1 - Deportivo Garcilaso Vs Alianza Atletico Sullana (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AMYCEMBEFU2D4ZI6EIRDQEIDCMMRA5CVIA6COJBMEQVXKFZEEAUCYNKQIFOBIRSDCBYT6PBRFMUCK5IRGE7C4MJQKJORGZ2FLROFCPJUOBXXQZD2MFVGIZDRNMEQKAQEAEPQGADLMZUHE/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:30AM",
+      "event_date": "10/06/25",
+      "channel_name": "SD",
+      "event_title": "Peruvian Liga 1 - Deportivo Garcilaso Vs Alianza Atletico Sullana (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AMYCEMBEFU2D4ZI6EIRDQEIDCMMRA5CVIA6COJBMEQVXKFZEEAUCYNKQIFOBIRSDCBYT6PBRFMUCK5IRGE7C4MJQKJORGZ2FLROFCPJUOBXXQZD2MFVGCZDRNMEQKAQEAEPQGADLMZUHC/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
@@ -619,42 +650,30 @@
         }
       ]
     },
-    "Portuguese Primera Liga - Fc Porto Vs Benfica (10/06/25)": {
-      "event_title": "Portuguese Primera Liga - Fc Porto Vs Benfica (10/06/25)",
-      "event_time": "04:15AM",
+    "Chile Liga Nacional Basketball - Chile Boston College Vs Colo Colo (10/06/25)": {
+      "event_title": "Chile Liga Nacional Basketball - Chile Boston College Vs Colo Colo (10/06/25)",
+      "event_time": "06:30AM",
       "event_date": "10/06/25",
       "category": null,
       "channels": [
         {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AM5CEMJHEMQDKNRXNMKSWWC7KZDFCED4LE2DI4DIOIBBM4AVHU4TCNQRIRABI4SVLZLDUNRRMV4G45L7OR6X22TNAMBQKBACAYPQGY3NMN3GG/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "HDD B DEUTSCH",
-          "url": "https://world-proxifier.xyz/rbtv/p/AM5CEMJHEMQDKNRXNMKSWWC7KZDFCED4LE2DI4DIOIBBM4AVHU4TCNQRIRABI4SVLZLDUNRRMV4G45L7OR6X22TNAMBQKBACAYPQGY3NMN3GA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "HDD C PORTUGU\u00caS",
-          "url": "https://world-proxifier.xyz/rbtv/p/AM5CEMJHEMQDKNRXNMKSWWC7KZDFCED4LE2DI4DIOIBBM4AVHU4TCNQRIRABI4SVLZLDUNRRMV4G45L7OR6X22TNAMBQKBACAYPQGY3NMN3GC/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CA6TSKJXMQMTSIRTNMFTQUS3LRNFCXAQOIZCMOZAEYTDIPBJOJTGKGSZLNPVCEDSL5BSOOR6MUISWOJ4EA2S4ZJPIIJHAW24L4IHGPBZH5SXQ3TVP53X26DKNAEAWBANBAAR6ATEMRTX2ZY/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
           "duration": null
         }
       ]
     },
-    "Portuguese Primera Liga - Fc Porto Vs Benfica (10/06/25) [STREAM 45[HD]]": {
-      "event_title": "Portuguese Primera Liga - Fc Porto Vs Benfica (10/06/25) [STREAM 45[HD]]",
-      "event_time": "04:15AM",
+    "Chile Liga Nacional Basketball - Puente Alto Vs Universidad Catolica (10/06/25)": {
+      "event_title": "Chile Liga Nacional Basketball - Puente Alto Vs Universidad Catolica (10/06/25)",
+      "event_time": "06:30AM",
       "event_date": "10/06/25",
       "category": null,
       "channels": [
         {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/AM5CEMJHEMQDKNRXNMKSWWC7KZDFCED4LE2DI4DIOIBBM4AVHU4TCNQRIRABI4SVLZLDUNRRMV4G45L7OR6XS2TNAMBQKBACAYPQGY3NMN3GM/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CA6TSKJXMQMTSIRTNMFTQUS3LRNFCXAQOIZCMOZAEYTDIPBJOJTGKCKEK5OUAVIQOFOCOOTQGMQWIAB6FQSC4NZKLBLFEUAQONIUIPBZHETDGZD7PJSX26LKNIPAGCQNA4EQQAT4M5TXIZL4ME/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
           "duration": null
         }
       ]
@@ -903,20 +922,6 @@
         }
       ]
     },
-    "Canadian Premier League - Pacific Fc Vs Cavalry Fc (10/06/25)": {
-      "event_title": "Canadian Premier League - Pacific Fc Vs Cavalry Fc (10/06/25)",
-      "event_time": "06:00AM",
-      "event_date": "10/06/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/CA2D4JBWFU2D4ZICHEQDIWCXIEKHYVKRK4TDA4DIOIKDIMZMGQRCM6LXOEJUEQYQONISKNB4G4VWIEYTMV4GCZLWAAOQKGYEAEDAGZLDMBVGC5DNMNZWW/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "Colombian Torneo Betplay Dimayor - Real Cartagena Vs Atletico Fc (10/06/25)": {
       "event_title": "Colombian Torneo Betplay Dimayor - Real Cartagena Vs Atletico Fc (10/06/25)",
       "event_time": "06:00AM",
@@ -945,9 +950,23 @@
         }
       ]
     },
+    "Canadian Premier League - Pacific Fc Vs Cavalry Fc (10/06/25)": {
+      "event_title": "Canadian Premier League - Pacific Fc Vs Cavalry Fc (10/06/25)",
+      "event_time": "06:10AM",
+      "event_date": "10/06/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/CA2D4JBWFU2D4ZICHEQDIWCXIEKHYVKRK4TDA4DIOIKDIMZMGQRCM6LXOEJUEQYQONISKNB4G4VWIEYTMV4GCZLWAAOQKGYEAEDAGZLDMBVGC5DNMNZWW/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
     "United States Major League Soccer - Vancouver Whitecaps Vs San Jose Earthquakes (10/06/25)": {
       "event_title": "United States Major League Soccer - Vancouver Whitecaps Vs San Jose Earthquakes (10/06/25)",
-      "event_time": "06:00AM",
+      "event_time": "06:10AM",
       "event_date": "10/06/25",
       "category": null,
       "channels": [
@@ -973,7 +992,7 @@
     },
     "United States Major League Soccer - Vancouver Whitecaps Vs San Jose Earthquakes (10/06/25) [STREAM 44[HD]]": {
       "event_title": "United States Major League Soccer - Vancouver Whitecaps Vs San Jose Earthquakes (10/06/25) [STREAM 44[HD]]",
-      "event_time": "06:00AM",
+      "event_time": "06:10AM",
       "event_date": "10/06/25",
       "category": null,
       "channels": [
@@ -994,6 +1013,60 @@
         {
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/CA2CIIBVFMTZH2BTNMKSWWC7KZDFCEDRCB7HKEJRHYQSCOJGHVVQ6LC7LNOEMEDSKFBCCNB6GQTS2OJ4ERZD2NTZOVLUGW2CIRKUG4YBH4UTWKJUOBXXQ23KNAPAIHAAAIAQOCDHMV7XMYT4MZUHO/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CA2CIIBVFMTZH2BTNMKSWWC7KZDFCEDRCB7HKEJRHYQSCOJGHVVQ6LC7LNOEMEDSKFBCCNB6GQTS2OJ4ERZD2NTZOVLUGW2CIRKUG4YBH4UTWKJUOBXXQ23KNAPACHAAAIAQOCDHMV7XMYT4MZTXY/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Jamaica Premier League - Waterhouse Fc Vs Mount Pleasant Fa (10/06/25)": {
+      "event_title": "Jamaica Premier League - Waterhouse Fc Vs Mount Pleasant Fa (10/06/25)",
+      "event_time": "06:30AM",
+      "event_date": "10/06/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/DE2D2JB3E42HAFJAFYUDAVCACN4FKUKXIU3HK7LFAUSSCNJXHISDAKSUCJ2XOECGIMIB4ORFFMTGIBJ4EAZTQJBXIUJHK5IQDINBA7DEP53H24DHMZ3WW73XOYBAECYHBABQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Ligapro Serie A  - Barcelona Sc(Ecu) Vs Independiente Del Valle (10/06/25)": {
+      "event_title": "Ligapro Serie A  - Barcelona Sc(Ecu) Vs Independiente Del Valle (10/06/25)",
+      "event_time": "06:30AM",
+      "event_date": "10/06/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/D46DOJACGY5HAFRXHEWDYELTCMKB2EDSKEQTMNJJHUVDI4AWCFRQAGTEDMJUEQYQPFPDOMBAEA6CAPBVFMTC4ZJ5KRPBGYSRLROFK437PJSX25L2MNVGM6L4NUEQMCY3AMAAQA3LMA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Peruvian Liga 1 - Deportivo Garcilaso Vs Alianza Atletico Sullana (10/06/25)": {
+      "event_title": "Peruvian Liga 1 - Deportivo Garcilaso Vs Alianza Atletico Sullana (10/06/25)",
+      "event_time": "06:30AM",
+      "event_date": "10/06/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AMYCEMBEFU2D4ZI6EIRDQEIDCMMRA5CVIA6COJBMEQVXKFZEEAUCYNKQIFOBIRSDCBYT6PBRFMUCK5IRGE7C4MJQKJORGZ2FLROFCPJUOBXXQZD2MFVGIZDRNMEQKAQEAEPQGADLMZUHE/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/AMYCEMBEFU2D4ZI6EIRDQEIDCMMRA5CVIA6COJBMEQVXKFZEEAUCYNKQIFOBIRSDCBYT6PBRFMUCK5IRGE7C4MJQKJORGZ2FLROFCPJUOBXXQZD2MFVGCZDRNMEQKAQEAEPQGADLMZUHC/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }
