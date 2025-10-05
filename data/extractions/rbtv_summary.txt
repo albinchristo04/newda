@@ -1,138 +1,172 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-05T12:28:07.694716
+Extraction Time: 2025-10-05T12:58:36.775137
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 62
-- Total Channels: 100
+- Unique Events: 79
+- Total Channels: 227
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
 - Bdmntn Xl 2025 - Final: Rockets Vs  Hurricanes (10/05/25)
-  Time: 05:30PM, Channels: 1
+  Time: 05:30PM, Channels: 2
 - Dp World Tour - Alfred Dunhill Links Championship 2025 Tourn...
-  Time: 06:30PM, Channels: 1
+  Time: 06:30PM, Channels: 2
 - World Cup, Women - India Women Vs Pakistan Women (10/05/25)
-  Time: 05:30PM, Channels: 1
+  Time: 05:30PM, Channels: 2
 - Uci Pro Series - Cro Race | Stage 6 (10/05/25)
-  Time: 07:00PM, Channels: 2
-- Pro Futsal League 2025/26 - Kuda Laut Nusantara Vs Halus Fc ...
-  Time: 05:30PM, Channels: 1
-- Belarusian First League - Kommunalnik Slonim Vs Dinamo-2 Min...
-  Time: 06:30PM, Channels: 1
-- Italian Serie A - Udinese Vs Cagliari (10/05/25)
-  Time: 06:30PM, Channels: 3
-- Italian Serie A - Udinese Vs Cagliari (10/05/25) [STREAM 23[...
-  Time: 06:30PM, Channels: 1
-- Italian Serie C - Juventusu23 Vs Ravenna (10/05/25)
-  Time: 06:30PM, Channels: 1
-- Italian Women'S Serie A - Como 2000 Women Vs Lazio Women (10...
-  Time: 06:30PM, Channels: 3
-- Turkish First League - Sariyer Vs Sakaryaspor (10/05/25)
-  Time: 06:30PM, Channels: 1
+  Time: 07:00PM, Channels: 4
+- Uec European Championship - Men´S Road Race (10/05/25)
+  Time: 09:00PM, Channels: 2
 - English Fa Women'S Super League - Leicester City Women Vs Ev...
   Time: 06:55PM, Channels: 2
 - English Fa Women'S Super League - London City Lionesses Wome...
-  Time: 06:55PM, Channels: 1
+  Time: 06:55PM, Channels: 2
 - English Fa Women'S Super League - West Ham United Women Vs A...
   Time: 06:55PM, Channels: 2
 - Azerbaijan Premier League - Karvan Evlakh Vs Sabah Baku (10/...
-  Time: 07:00PM, Channels: 1
-- Czech Chance Liga - Tescoma Zlin Vs Banik Ostrava (10/05/25)
-  Time: 07:00PM, Channels: 1
+  Time: 07:00PM, Channels: 2
 - English Football League Championship - Ipswich Town Vs Norwi...
-  Time: 07:00PM, Channels: 4
-- Sweden Superettan - Ik Oddevold Vs Utsiktens Bk (10/05/25)
-  Time: 07:00PM, Channels: 1
-- Thai League 1 - Bangkok United Fc Vs Nakhon Ratchasima Mazda...
-  Time: 07:00PM, Channels: 1
+  Time: 07:00PM, Channels: 8
 - Russian Premier League - Fc Sochi Vs Fc Pari Nizhniy Novgoro...
-  Time: 07:15PM, Channels: 1
+  Time: 07:15PM, Channels: 2
 - Belgian Pro League - Anderlecht Vs Standard Liege (10/05/25)
-  Time: 07:30PM, Channels: 1
-- Chinese Football League 1 - Guangdong Guangzhou Power Vs She...
-  Time: 07:30PM, Channels: 1
-- Chinese Football League 1 - Guangxi Pingguo Fc Vs Chongqing ...
-  Time: 07:30PM, Channels: 1
-- Chinese Football League 1 - Nanjing City Vs Shijiazhuang Gon...
-  Time: 07:30PM, Channels: 1
-- German 3.Liga - Erzgebirge Aue Vs Rot-Weiss Essen (10/05/25)
-  Time: 07:30PM, Channels: 3
-- German Bundesliga 2 - 1. Fc Magdeburg Vs Sv Elversberg (10/0...
   Time: 07:30PM, Channels: 4
-- German Bundesliga 2 - Arminia Bielefeld Vs Schalke 04 (10/05...
-  Time: 07:30PM, Channels: 3
-- German Bundesliga 2 - Spvgg Greuther Fürth Vs Hannover 96 (1...
+- Chinese Football League 1 - Guangdong Guangzhou Power Vs She...
   Time: 07:30PM, Channels: 2
+- Chinese Football League 1 - Guangxi Pingguo Fc Vs Chongqing ...
+  Time: 07:30PM, Channels: 2
+- Chinese Football League 1 - Nanjing City Vs Shijiazhuang Gon...
+  Time: 07:30PM, Channels: 2
+- German 3.Liga - Erzgebirge Aue Vs Rot-Weiss Essen (10/05/25)
+  Time: 07:30PM, Channels: 4
+- German Bundesliga 2 - 1. Fc Magdeburg Vs Sv Elversberg (10/0...
+  Time: 07:30PM, Channels: 8
+- German Bundesliga 2 - Arminia Bielefeld Vs Schalke 04 (10/05...
+  Time: 07:30PM, Channels: 4
+- German Bundesliga 2 - Spvgg Greuther Fürth Vs Hannover 96 (1...
+  Time: 07:30PM, Channels: 6
 - Thai League 1 - Pt Prachuap Fc Vs Ratchaburi Fc (10/05/25)
-  Time: 07:30PM, Channels: 1
+  Time: 07:30PM, Channels: 2
 - Turkish Super League - Kasimpasa Vs Konyaspor (10/05/25)
-  Time: 07:30PM, Channels: 1
+  Time: 07:30PM, Channels: 2
 - Bulgarian First League - Fc Dobrudzha Vs Arda (10/05/25)
-  Time: 08:00PM, Channels: 1
+  Time: 08:00PM, Channels: 2
 - Danish Superliga - Randers Fc Vs Viborg (10/05/25)
-  Time: 08:00PM, Channels: 1
+  Time: 08:00PM, Channels: 2
 - Danish Superliga - Vejle Vs Nordsjaelland (10/05/25)
-  Time: 08:00PM, Channels: 1
+  Time: 08:00PM, Channels: 2
 - German Frauen Bundesliga - Union Berlin Women Vs Sc Freiburg...
-  Time: 08:00PM, Channels: 3
-- Indonesian Liga 2 - Deltras Sidoarjo Vs Persiku Kudus (10/05...
-  Time: 08:00PM, Channels: 2
-- Moldovan Super Liga - Dacia-Buiucani Vs Cf Sparta Selemet (1...
-  Time: 08:00PM, Channels: 1
-- Pro Futsal League 2025/26 - Blacksteel Fc Vs Nanzaby Fc (10/...
-  Time: 08:00PM, Channels: 1
-- Romanian Super Liga - Cfr Cluj Vs Hermannstadt (10/05/25)
-  Time: 08:00PM, Channels: 1
-- Spanish La Liga - Deportivo Alavés Vs Elche (10/05/25)
   Time: 08:00PM, Channels: 6
-- Spanish La Liga - Deportivo Alavés Vs Elche (10/05/25) [STRE...
-  Time: 08:00PM, Channels: 1
-- Spanish La Liga - Deportivo Alavés Vs Elche (10/05/25) [STRE...
-  Time: 08:00PM, Channels: 1
-- Spanish Segunda Division - Real Zaragoza Vs Cordoba (10/05/2...
+- Indonesian Liga 2 - Deltras Sidoarjo Vs Persiku Kudus (10/05...
+  Time: 08:00PM, Channels: 4
+- Moldovan Super Liga - Dacia-Buiucani Vs Cf Sparta Selemet (1...
   Time: 08:00PM, Channels: 2
+- Pro Futsal League 2025/26 - Blacksteel Fc Vs Nanzaby Fc (10/...
+  Time: 08:00PM, Channels: 2
+- Romanian Super Liga - Cfr Cluj Vs Hermannstadt (10/05/25)
+  Time: 08:00PM, Channels: 2
+- Spanish La Liga - Deportivo Alavés Vs Elche (10/05/25)
+  Time: 08:00PM, Channels: 12
+- Spanish La Liga - Deportivo Alavés Vs Elche (10/05/25) [STRE...
+  Time: 08:00PM, Channels: 2
+- Spanish La Liga - Deportivo Alavés Vs Elche (10/05/25) [STRE...
+  Time: 08:00PM, Channels: 2
+- Spanish Segunda Division - Real Zaragoza Vs Cordoba (10/05/2...
+  Time: 08:00PM, Channels: 4
 - Sweden Allsvenskan - Aik Vs Ifk Varnamo (10/05/25)
-  Time: 08:00PM, Channels: 1
+  Time: 08:00PM, Channels: 2
 - Sweden Allsvenskan - Ifk Goteborg Vs Hammarby (10/05/25)
-  Time: 08:00PM, Channels: 1
+  Time: 08:00PM, Channels: 2
 - Switzerland Super League - Lausanne Sports Vs Young Boys (10...
-  Time: 08:00PM, Channels: 1
+  Time: 08:00PM, Channels: 2
+- Switzerland Women'S Division 1 - Fc Luzern Women Vs Fc Zuric...
+  Time: 08:00PM, Channels: 2
 - Thai League 1 - Buriram United Vs Bg Pathum United (10/05/25...
-  Time: 08:00PM, Channels: 1
+  Time: 08:00PM, Channels: 2
 - Uzbekistan Super League - Neftchi Fergana Vs Fk Andijon (10/...
-  Time: 08:00PM, Channels: 1
+  Time: 08:00PM, Channels: 2
 - Uzbekistan Super League - Shurtan Guzor Vs Sogdiana Jizak (1...
-  Time: 08:00PM, Channels: 1
+  Time: 08:00PM, Channels: 2
+- Austrian Bundesliga - Lask Linz Vs Tsv Hartberg (10/05/25)
+  Time: 08:30PM, Channels: 2
+- Austrian Bundesliga - Rheindorf Altach Vs Sturm Graz (10/05/...
+  Time: 08:30PM, Channels: 2
+- Italian Serie C - Catania Fc Vs Us Siracusa (10/05/25)
+  Time: 08:30PM, Channels: 2
+- Italian Serie C - Pro Patria Vs Trento (10/05/25)
+  Time: 08:30PM, Channels: 2
+- Italian Serie C - Pro Vercelli Vs Ac Dolomiti Bellunesi (10/...
+  Time: 08:30PM, Channels: 2
+- Italian Serie C - Salernitana Vs Cavese (10/05/25)
+  Time: 08:30PM, Channels: 2
+- Italian Serie C - Trapani Vs Giugliano (10/05/25)
+  Time: 08:30PM, Channels: 2
+- Italian Serie C - Us Casertana 1908 Vs Casarano (10/05/25)
+  Time: 08:30PM, Channels: 2
+- Netherlands Eredivisie - Feyenoord Vs Fc Utrecht (10/05/25) ...
+  Time: 08:30PM, Channels: 2
+- Netherlands Eredivisie - Feyenoord Vs Fc Utrecht (10/05/25)
+  Time: 08:30PM, Channels: 2
+- Norwegian Eliteserien - Viking Vs Brann (10/05/25)
+  Time: 08:30PM, Channels: 2
 - Philippines United Football League - One Taguig Vs Philippin...
-  Time: 08:30PM, Channels: 1
-- Erc - Croatia Rally: Stage 10 (10/05/25)
-  Time: 07:00PM, Channels: 1
+  Time: 08:30PM, Channels: 2
+- Poland Liga 1 - Lks Lodz Vs Gks Tychy (10/05/25)
+  Time: 08:30PM, Channels: 2
+- Pko Bank Polski Ekstraklasa - Rakow Czestochowa Vs Motor Lub...
+  Time: 08:45PM, Channels: 2
+- English Premier League - Aston Villa Vs Burnley (10/05/25) [...
+  Time: 09:00PM, Channels: 2
+- English Premier League - Aston Villa Vs Burnley (10/05/25)
+  Time: 09:00PM, Channels: 2
+- English Premier League - Everton Vs Crystal Palace (10/05/25...
+  Time: 09:00PM, Channels: 6
+- English Premier League - Everton Vs Crystal Palace (10/05/25...
+  Time: 09:00PM, Channels: 2
+- English Premier League - Everton Vs Crystal Palace (10/05/25...
+  Time: 09:00PM, Channels: 2
+- English Premier League - Newcastle United Vs Nottingham Fore...
+  Time: 09:00PM, Channels: 5
+- English Premier League - Wolverhampton Wanderers Vs Brighton...
+  Time: 09:00PM, Channels: 2
+- French Ligue 1 - Lyon Vs Toulouse Fc (10/05/25)
+  Time: 09:00PM, Channels: 2
+- Italian Serie A - Bologna Vs Pisa (10/05/25) [STREAM 3[HD]]
+  Time: 09:00PM, Channels: 2
+- Italian Serie A - Bologna Vs Pisa (10/05/25)
+  Time: 09:00PM, Channels: 2
+- Italian Serie A - Bologna Vs Pisa (10/05/25) [STREAM 3_FHD[F...
+  Time: 09:00PM, Channels: 2
+- Italian Serie A - Fiorentina Vs As Roma (10/05/25) [STREAM 2...
+  Time: 09:00PM, Channels: 2
+- Italian Serie A - Fiorentina Vs As Roma (10/05/25)
+  Time: 09:00PM, Channels: 2
+- Italian Serie A - Fiorentina Vs As Roma (10/05/25) [STREAM 2...
+  Time: 09:00PM, Channels: 2
+- Malaysian Super League - Pdrm Fc Vs Johor Darul Ta'Zim Fc (1...
+  Time: 09:00PM, Channels: 2
 - Dtm - Dtm: Hockenheim (Germany) - Race 2 (10/05/25)
-  Time: 07:30PM, Channels: 1
-- Fia European Truck Racing Championship - Race 3 | Jarama (10...
-  Time: 07:40PM, Channels: 1
+  Time: 07:30PM, Channels: 2
 - Formula 1 - F1: Driver Tracker (10/05/25)
-  Time: 07:55PM, Channels: 1
+  Time: 07:55PM, Channels: 2
 - Formula 1 - F1: Mixed On-Board Camera (10/05/25)
-  Time: 07:55PM, Channels: 1
+  Time: 07:55PM, Channels: 2
 - Extreme E - Day 2 Vs Multi-Car Xe | Saudi Arabia (10/05/25)
-  Time: 08:00PM, Channels: 1
+  Time: 08:00PM, Channels: 2
 - Formula 1 - Formula 1: Singapore Grand Prix (Singapore) - Ra...
-  Time: 08:00PM, Channels: 9
-- Motogp - British Superbikes (10/05/25)
-  Time: 08:00PM, Channels: 1
+  Time: 08:00PM, Channels: 18
+- Atp Shanghai, China Men Singles - Yannick Hanfmann Vs Novak ...
+  Time: 06:30PM, Channels: 4
 - Atp Shanghai, China Men Singles - Yannick Hanfmann Vs Novak ...
   Time: 06:30PM, Channels: 2
-- Atp Shanghai, China Men Singles - Yannick Hanfmann Vs Novak ...
-  Time: 06:30PM, Channels: 1
+- Wta Beijing, China Women Singles - Linda Noskova Vs Amanda A...
+  Time: 07:00PM, Channels: 4
 - Wta Beijing, China Women Singles - Linda Noskova Vs Amanda A...
   Time: 07:00PM, Channels: 2
-- Wta Beijing, China Women Singles - Linda Noskova Vs Amanda A...
-  Time: 07:00PM, Channels: 1
-- Atp Shanghai, China Men Singles - Valentin Vacherot Vs Tomas...
-  Time: 07:20PM, Channels: 2
+- Atp Shanghai, China Men Singles - Tallon Griekspoor Vs Janni...
+  Time: 09:10PM, Channels: 2
