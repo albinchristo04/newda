@@ -1,4 +1,4 @@
-Extracted at: 2025-10-05T22:30:08.940357
+Extracted at: 2025-10-05T22:40:51.755538
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -130,31 +130,6 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: Chilean Cup - Huachipato Vs Audax Italiano (10/06/25)
-Time: 04:30AM
-Date: 10/06/25
-Category: None
-Available Channels (1):
-  1. SD
-     URL: https://world-proxifier.xyz/rbtv/p/CA6TSKJXEU5XABRHHNSXIEL2IZKVGWCZIAZCCP3FEQ3XKEJQGYVD26LYIZJFQWKRLZPXG732MV6XK6TDNJTHS4TOAYAQOGYDAAEAGYDA/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-
-================================================================================
-
-EVENT: Paraguayan Primera Division - Club Guaraní Vs Atlético Tembetary (10/06/25)
-Time: 04:30AM
-Date: 10/06/25
-Category: None
-Available Channels (2):
-  1. HDD A
-     URL: https://world-proxifier.xyz/rbtv/p/AM2CEJBVGE2CSJB4NMKSWWC7KZDFCEDULESTYIZMHUVHK7LFCETTAOYROVDFKQSRL3Z745JGGZZAKIJ4Q35T6LB2LYJGOUK5KJKUIMRHFFSXQ3TVP52H27LKNUBQMAYEAQBR6A3DNVRXM2Y/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-  2. SD
-     URL: https://world-proxifier.xyz/rbtv/p/AM2CEJBVGE2CSJB4NMKSWWC7KZDFCEDULESTYIZMHUVHK7LFCETTAOYROVDFKQSRL3Z745JGGZZAKIJ4Q35T6LB2LYJGOUK5KJKUIMRHFFSXQ3TVP52H26DKNUBQMAYEAQBR6A3DNVRXMZA/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-
-================================================================================
-
 EVENT: Colombian Torneo Betplay Dimayor - Cucuta Deportivo Vs Leones (10/06/25)
 Time: 05:00AM
 Date: 10/06/25
@@ -209,12 +184,9 @@ EVENT: Usl League One - Omaha Vs Fc Naples (10/06/25)
 Time: 05:00AM
 Date: 10/06/25
 Category: None
-Available Channels (2):
+Available Channels (1):
   1. HDD A
      URL: https://world-proxifier.xyz/rbtv/p/AYDBYZI6EE2DOMBXNMFDOVASDYKH6XKRLAZHKJRWOIBBM4ALGM5SSPCCCIMR4EA7AEPWK6TEORTHYZLBPV6XQ5LBAIDQE/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-  2. SD
-     URL: https://world-proxifier.xyz/rbtv/p/AYDBYZI6EE2DOMBXNMFDOVASDYKH6XKRLAZHKJRWOIBBM4ALGM5SSPCCCIMR4EA7AEPWA6TEORTHYZLBPV6XQ5LBAIDAE/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
 ================================================================================
@@ -308,6 +280,17 @@ Available Channels (1):
 
 ================================================================================
 
+EVENT: Canadian Premier League - Pacific Fc Vs Cavalry Fc (10/06/25)
+Time: 06:00AM
+Date: 10/06/25
+Category: None
+Available Channels (1):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/CA2D4JBWFU2D4ZICHEQDIWCXIEKHYVKRK4TDA4DIOIKDIMZMGQRCM6LXOEJUEQYQONISKNB4G4VWIEYTMV4GCZLWAAOQKGYEAEDAGZLDMBVGC5DNMNZWW/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
 EVENT: Colombian Torneo Betplay Dimayor - Real Cartagena Vs Atletico Fc (10/06/25)
 Time: 06:00AM
 Date: 10/06/25
@@ -326,17 +309,6 @@ Category: None
 Available Channels (1):
   1. SD
      URL: https://world-proxifier.xyz/rbtv/p/CY3CKJBWFMTTSJB4NMDDQXCCKZNV4UKEL5ZQMNJXHMQXKETFP5VQELCQJNJEKRKZLQIBAPBEHRZDEJTQAITSUKJYKJLVYFDDOMIBU6LVP52H2532MR3WI7TRNAAR2AAEBABQMBQ/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-
-================================================================================
-
-EVENT: Canadian Premier League - Pacific Fc Vs Cavalry Fc (10/06/25)
-Time: 06:10AM
-Date: 10/06/25
-Category: None
-Available Channels (1):
-  1. HDD A
-     URL: https://world-proxifier.xyz/rbtv/p/CA2D4JBWFU2D4ZICHEQDIWCXIEKHYVKRK4TDA4DIOIKDIMZMGQRCM6LXOEJUEQYQONISKNB4G4VWIEYTMV4GCZLWAAOQKGYEAEDAGZLDMBVGC5DNMNZWW/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
 ================================================================================

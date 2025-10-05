@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-05T22:30:08.940357
+Extraction Time: 2025-10-05T22:40:51.755538
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 35
-- Total Channels: 51
+- Unique Events: 33
+- Total Channels: 47
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -34,10 +34,6 @@ EVENT BREAKDOWN:
   Time: 06:30AM, Channels: 1
 - Chile Liga Nacional Basketball - Puente Alto Vs Universidad ...
   Time: 06:30AM, Channels: 1
-- Chilean Cup - Huachipato Vs Audax Italiano (10/06/25)
-  Time: 04:30AM, Channels: 1
-- Paraguayan Primera Division - Club Guaraní Vs Atlético Tembe...
-  Time: 04:30AM, Channels: 2
 - Colombian Torneo Betplay Dimayor - Cucuta Deportivo Vs Leone...
   Time: 05:00AM, Channels: 1
 - Uruguay Primera Division - Ca Penarol Vs Danubio Fc (10/06/2...
@@ -47,7 +43,7 @@ EVENT BREAKDOWN:
 - Usl Championship - Rhode Island Vs Las Vegas Lights (10/06/2...
   Time: 05:00AM, Channels: 1
 - Usl League One - Omaha Vs Fc Naples (10/06/25)
-  Time: 05:00AM, Channels: 2
+  Time: 05:00AM, Channels: 1
 - Usl League One - Omaha Vs Fc Naples (10/06/25) [STREAM 20[HD...
   Time: 05:00AM, Channels: 1
 - Bolivian Copa Lfpb - Blooming Vs Club Guabira (10/06/25)
@@ -62,12 +58,12 @@ EVENT BREAKDOWN:
   Time: 06:00AM, Channels: 1
 - Brazilian Serie C - Sao Bernardo Vs Caxias Rs (10/06/25)
   Time: 06:00AM, Channels: 1
+- Canadian Premier League - Pacific Fc Vs Cavalry Fc (10/06/25...
+  Time: 06:00AM, Channels: 1
 - Colombian Torneo Betplay Dimayor - Real Cartagena Vs Atletic...
   Time: 06:00AM, Channels: 1
 - Ecuadorian Campeonato Serie B - Guayaquil City Vs Gualaceo S...
   Time: 06:00AM, Channels: 1
-- Canadian Premier League - Pacific Fc Vs Cavalry Fc (10/06/25...
-  Time: 06:10AM, Channels: 1
 - United States Major League Soccer - Vancouver Whitecaps Vs S...
   Time: 06:10AM, Channels: 3
 - United States Major League Soccer - Vancouver Whitecaps Vs S...

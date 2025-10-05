@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-05T22:30:08.940357",
+  "timestamp": "2025-10-05T22:40:51.755538",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -135,36 +135,6 @@
       "group_title": "BASKETBALL"
     },
     {
-      "event_time": "04:30AM",
-      "event_date": "10/06/25",
-      "channel_name": "SD",
-      "event_title": "Chilean Cup - Huachipato Vs Audax Italiano (10/06/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CA6TSKJXEU5XABRHHNSXIEL2IZKVGWCZIAZCCP3FEQ3XKEJQGYVD26LYIZJFQWKRLZPXG732MV6XK6TDNJTHS4TOAYAQOGYDAAEAGYDA/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "04:30AM",
-      "event_date": "10/06/25",
-      "channel_name": "HDD A",
-      "event_title": "Paraguayan Primera Division - Club Guaran\u00ed Vs Atl\u00e9tico Tembetary (10/06/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AM2CEJBVGE2CSJB4NMKSWWC7KZDFCEDULESTYIZMHUVHK7LFCETTAOYROVDFKQSRL3Z745JGGZZAKIJ4Q35T6LB2LYJGOUK5KJKUIMRHFFSXQ3TVP52H27LKNUBQMAYEAQBR6A3DNVRXM2Y/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "04:30AM",
-      "event_date": "10/06/25",
-      "channel_name": "SD",
-      "event_title": "Paraguayan Primera Division - Club Guaran\u00ed Vs Atl\u00e9tico Tembetary (10/06/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AM2CEJBVGE2CSJB4NMKSWWC7KZDFCEDULESTYIZMHUVHK7LFCETTAOYROVDFKQSRL3Z745JGGZZAKIJ4Q35T6LB2LYJGOUK5KJKUIMRHFFSXQ3TVP52H26DKNUBQMAYEAQBR6A3DNVRXMZA/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
       "event_time": "05:00AM",
       "event_date": "10/06/25",
       "channel_name": "SD",
@@ -238,16 +208,6 @@
       "event_date": "10/06/25",
       "event_title": "Usl League One - Omaha Vs Fc Naples (10/06/25) [STREAM 20[HD]]",
       "url": "https://world-proxifier.xyz/rbtv/p/AYDBYZI6EE2DOMBXNMFDOVASDYKH6XKRLAZHKJRWOIBBM4ALGM5SSPCCCIMR4EA7AEPWC6TEORTHYZLBPV6XQ5LBAIDQO/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "05:00AM",
-      "event_date": "10/06/25",
-      "channel_name": "SD",
-      "event_title": "Usl League One - Omaha Vs Fc Naples (10/06/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AYDBYZI6EE2DOMBXNMFDOVASDYKH6XKRLAZHKJRWOIBBM4ALGM5SSPCCCIMR4EA7AEPWA6TEORTHYZLBPV6XQ5LBAIDAE/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
@@ -354,6 +314,16 @@
     {
       "event_time": "06:00AM",
       "event_date": "10/06/25",
+      "channel_name": "HDD A",
+      "event_title": "Canadian Premier League - Pacific Fc Vs Cavalry Fc (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CA2D4JBWFU2D4ZICHEQDIWCXIEKHYVKRK4TDA4DIOIKDIMZMGQRCM6LXOEJUEQYQONISKNB4G4VWIEYTMV4GCZLWAAOQKGYEAEDAGZLDMBVGC5DNMNZWW/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:00AM",
+      "event_date": "10/06/25",
       "channel_name": "SD",
       "event_title": "Colombian Torneo Betplay Dimayor - Real Cartagena Vs Atletico Fc (10/06/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/CA5DYKR7EY6DCK3SD4VCWX2XLQKHEVKEMA7TIKLFCYWTQMJ4HU4WK5ARMBLFKXAQONISCIJREI3SUNDQGMQWWBBNLVLUOXKTL4IHMEDVPJXXE23EP53H273XMABQWAYED4BQACDAMNUA/index.m3u8",
@@ -367,16 +337,6 @@
       "channel_name": "SD",
       "event_title": "Ecuadorian Campeonato Serie B - Guayaquil City Vs Gualaceo Sc (10/06/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/CY3CKJBWFMTTSJB4NMDDQXCCKZNV4UKEL5ZQMNJXHMQXKETFP5VQELCQJNJEKRKZLQIBAPBEHRZDEJTQAITSUKJYKJLVYFDDOMIBU6LVP52H2532MR3WI7TRNAAR2AAEBABQMBQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "06:10AM",
-      "event_date": "10/06/25",
-      "channel_name": "HDD A",
-      "event_title": "Canadian Premier League - Pacific Fc Vs Cavalry Fc (10/06/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CA2D4JBWFU2D4ZICHEQDIWCXIEKHYVKRK4TDA4DIOIKDIMZMGQRCM6LXOEJUEQYQONISKNB4G4VWIEYTMV4GCZLWAAOQKGYEAEDAGZLDMBVGC5DNMNZWW/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
@@ -678,40 +638,6 @@
         }
       ]
     },
-    "Chilean Cup - Huachipato Vs Audax Italiano (10/06/25)": {
-      "event_title": "Chilean Cup - Huachipato Vs Audax Italiano (10/06/25)",
-      "event_time": "04:30AM",
-      "event_date": "10/06/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CA6TSKJXEU5XABRHHNSXIEL2IZKVGWCZIAZCCP3FEQ3XKEJQGYVD26LYIZJFQWKRLZPXG732MV6XK6TDNJTHS4TOAYAQOGYDAAEAGYDA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Paraguayan Primera Division - Club Guaran\u00ed Vs Atl\u00e9tico Tembetary (10/06/25)": {
-      "event_title": "Paraguayan Primera Division - Club Guaran\u00ed Vs Atl\u00e9tico Tembetary (10/06/25)",
-      "event_time": "04:30AM",
-      "event_date": "10/06/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AM2CEJBVGE2CSJB4NMKSWWC7KZDFCEDULESTYIZMHUVHK7LFCETTAOYROVDFKQSRL3Z745JGGZZAKIJ4Q35T6LB2LYJGOUK5KJKUIMRHFFSXQ3TVP52H27LKNUBQMAYEAQBR6A3DNVRXM2Y/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AM2CEJBVGE2CSJB4NMKSWWC7KZDFCEDULESTYIZMHUVHK7LFCETTAOYROVDFKQSRL3Z745JGGZZAKIJ4Q35T6LB2LYJGOUK5KJKUIMRHFFSXQ3TVP52H26DKNUBQMAYEAQBR6A3DNVRXMZA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "Colombian Torneo Betplay Dimayor - Cucuta Deportivo Vs Leones (10/06/25)": {
       "event_title": "Colombian Torneo Betplay Dimayor - Cucuta Deportivo Vs Leones (10/06/25)",
       "event_time": "05:00AM",
@@ -789,12 +715,6 @@
         {
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/AYDBYZI6EE2DOMBXNMFDOVASDYKH6XKRLAZHKJRWOIBBM4ALGM5SSPCCCIMR4EA7AEPWK6TEORTHYZLBPV6XQ5LBAIDQE/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AYDBYZI6EE2DOMBXNMFDOVASDYKH6XKRLAZHKJRWOIBBM4ALGM5SSPCCCIMR4EA7AEPWA6TEORTHYZLBPV6XQ5LBAIDAE/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }
@@ -922,6 +842,20 @@
         }
       ]
     },
+    "Canadian Premier League - Pacific Fc Vs Cavalry Fc (10/06/25)": {
+      "event_title": "Canadian Premier League - Pacific Fc Vs Cavalry Fc (10/06/25)",
+      "event_time": "06:00AM",
+      "event_date": "10/06/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/CA2D4JBWFU2D4ZICHEQDIWCXIEKHYVKRK4TDA4DIOIKDIMZMGQRCM6LXOEJUEQYQONISKNB4G4VWIEYTMV4GCZLWAAOQKGYEAEDAGZLDMBVGC5DNMNZWW/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
     "Colombian Torneo Betplay Dimayor - Real Cartagena Vs Atletico Fc (10/06/25)": {
       "event_title": "Colombian Torneo Betplay Dimayor - Real Cartagena Vs Atletico Fc (10/06/25)",
       "event_time": "06:00AM",
@@ -945,20 +879,6 @@
         {
           "channel_name": "SD",
           "url": "https://world-proxifier.xyz/rbtv/p/CY3CKJBWFMTTSJB4NMDDQXCCKZNV4UKEL5ZQMNJXHMQXKETFP5VQELCQJNJEKRKZLQIBAPBEHRZDEJTQAITSUKJYKJLVYFDDOMIBU6LVP52H2532MR3WI7TRNAAR2AAEBABQMBQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Canadian Premier League - Pacific Fc Vs Cavalry Fc (10/06/25)": {
-      "event_title": "Canadian Premier League - Pacific Fc Vs Cavalry Fc (10/06/25)",
-      "event_time": "06:10AM",
-      "event_date": "10/06/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/CA2D4JBWFU2D4ZICHEQDIWCXIEKHYVKRK4TDA4DIOIKDIMZMGQRCM6LXOEJUEQYQONISKNB4G4VWIEYTMV4GCZLWAAOQKGYEAEDAGZLDMBVGC5DNMNZWW/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }
