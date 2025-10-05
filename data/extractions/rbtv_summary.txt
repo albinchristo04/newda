@@ -1,13 +1,168 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-05T16:49:20.623062
+Extraction Time: 2025-10-05T17:11:56.855787
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 0
-- Total Channels: 0
+- Unique Events: 77
+- Total Channels: 106
 - Individual Streams: 0
-- Media Segments: 87
+- Media Segments: 0
 - Other Events: 0
 
+EVENT BREAKDOWN:
+- Usa: Nfl - Cbs Vs The Nfl Today (10/06/25)
+  Time: 12:00AM, Channels: 1
+- Usa: Nfl - Baltimore Ravens Vs Houston Texans (10/06/25)
+  Time: 01:00AM, Channels: 1
+- Usa: Nfl - Carolina Panthers Vs Miami Dolphins (10/06/25)
+  Time: 01:00AM, Channels: 1
+- Usa: Nfl - Indianapolis Colts Vs Las Vegas Raiders (10/06/25...
+  Time: 01:00AM, Channels: 1
+- Usa: Nfl - New Orleans Saints Vs New York Giants (10/06/25)
+  Time: 01:00AM, Channels: 1
+- Usa: Nfl - New York Jets Vs Dallas Cowboys (10/06/25)
+  Time: 01:00AM, Channels: 1
+- Usa: Nfl - Nfl Vs Redzone Week 5 (10/06/25)
+  Time: 01:00AM, Channels: 1
+- Usa: Nfl - Philadelphia Eagles Vs Denver Broncos (10/06/25)
+  Time: 01:00AM, Channels: 1
+- Usa: Nfl - Cleveland Browns Vs Minnesota Vikings (10/05/25)
+  Time: 09:30PM, Channels: 1
+- Usa: Nfl - Espn Vs Sunday Nfl Countdown (10/05/25)
+  Time: 10:00PM, Channels: 1
+- Usa: Nfl - Fox Vs Nfl Sunday (10/05/25)
+  Time: 11:00PM, Channels: 1
+- Club Friendly - Banana Vs Ball World Tour (10/06/25)
+  Time: 01:00AM, Channels: 1
+- Basketball Bundesliga - Bayern Munchen Vs Hamburg (10/06/25)
+  Time: 12:00AM, Channels: 1
+- Basketball Bundesliga - Enbw Ludwigsburg Vs S. Oliver Wurzbu...
+  Time: 12:00AM, Channels: 1
+- Lega Basket Serie A - Aquila Basket Trento Vs Pallacanestro ...
+  Time: 12:00AM, Channels: 1
+- Liga Asociación De Clubs De Baloncesto - Ucam Murcia Cb Vs M...
+  Time: 12:00AM, Channels: 1
+- Spain Segunda Feb - Cb Benicarlo Vs Cb Salad (10/06/25)
+  Time: 12:00AM, Channels: 1
+- Spain Segunda Feb - Jaen Cb Vs Moron (10/06/25)
+  Time: 12:00AM, Channels: 1
+- Lietuvos Krepsinio Lyga - Siauliai Vs Lietkabelis (10/06/25)
+  Time: 12:10AM, Channels: 1
+- Liga Española De Baloncesto Oro - Mmt Estudiantes Vs Gipuzko...
+  Time: 12:30AM, Channels: 1
+- Spain Segunda Feb - Cd Leonesa Basket Vs Cordoba (10/06/25)
+  Time: 12:30AM, Channels: 1
+- Lega Basket Serie A - Reyer Venezia Vs Guerino Vanoli Basket...
+  Time: 01:00AM, Channels: 1
+- Liga Asociación De Clubs De Baloncesto - Pamesa Valencia Vs ...
+  Time: 01:00AM, Channels: 1
+- Ligue Nationale De Basket Pro A - Saint Quentin Vs Asvel Vil...
+  Time: 01:00AM, Channels: 2
+- Spain Segunda Feb - Albacete Vs Ce Bisbal Basquet (10/06/25)
+  Time: 01:00AM, Channels: 1
+- British Basketball League - Sheffield Sharks Vs Glasgow Rock...
+  Time: 11:00PM, Channels: 1
+- 2.Basketball Bundesliga Prob - Fellbach Vs Bayern Munich 2 (...
+  Time: 11:30PM, Channels: 1
+- 2.Basketball Bundesliga Prob - Neustadt Vs Tks 49Ers (10/05/...
+  Time: 11:30PM, Channels: 1
+- Lega Basket Serie A - Universo Treviso Basket Vs Pallacanest...
+  Time: 11:30PM, Channels: 1
+- Russian Women'S Basketball Premier League - Zyrianochka Sykt...
+  Time: 11:30PM, Channels: 1
+- Segunda Feb - Biele Isb Vs Logrobasket Logi7 (10/05/25)
+  Time: 11:55PM, Channels: 1
+- Uec European Championship - Men´S Road Race (10/05/25)
+  Time: 09:00PM, Channels: 1
+- Danish Superliga - Fc Copenhagen Vs Midtjylland (10/06/25)
+  Time: 12:00AM, Channels: 1
+- Italian Serie A - Napoli Vs Genoa (10/06/25)
+  Time: 12:00AM, Channels: 4
+- Italian Serie A - Napoli Vs Genoa (10/06/25) [STREAM 24[HD]]
+  Time: 12:00AM, Channels: 1
+- Russian Premier League - Baltika Kaliningrad Vs Dynamo Makha...
+  Time: 12:00AM, Channels: 1
+- South Africa Premier League Cup - Amazulu Vs Magesi (10/06/2...
+  Time: 12:00AM, Channels: 1
+- Spanish Segunda División Rfef - Cd Tudelano Vs Ud Mutilve (1...
+  Time: 12:00AM, Channels: 1
+- Spanish Segunda División Rfef - Quintanar Del Rey Vs Cd Cori...
+  Time: 12:00AM, Channels: 1
+- Spanish Primera División Rfef - Cd Guadalajara Vs Real Avile...
+  Time: 12:15AM, Channels: 1
+- Spanish Primera División Rfef - Fc Cartagena Vs Sd Tarazona ...
+  Time: 12:15AM, Channels: 1
+- Spanish Primera División Rfef - Ponferradina Vs Real Madrid ...
+  Time: 12:15AM, Channels: 1
+- Belgian Pro League - Club Brugge Vs Union Saint-Gilloise (10...
+  Time: 12:30AM, Channels: 2
+- Czech Chance Liga - Sparta Praha Vs Slavia Praha (10/06/25)
+  Time: 12:30AM, Channels: 2
+- Lithuanian A Lyga  - Hegelmann Litauen Vs Banga Gargzdai (10...
+  Time: 12:30AM, Channels: 1
+- Portuguese Primera Liga - Rio Ave Vs Cd Tondela (10/06/25)
+  Time: 12:30AM, Channels: 2
+- Portuguese Primera Liga - Rio Ave Vs Cd Tondela (10/06/25) [...
+  Time: 12:30AM, Channels: 1
+- Spanish La Liga - Rcd Espanyol De Barcelona Vs Real Betis (1...
+  Time: 12:30AM, Channels: 6
+- Spanish La Liga - Rcd Espanyol De Barcelona Vs Real Betis (1...
+  Time: 12:30AM, Channels: 1
+- Spanish La Liga - Real Sociedad Vs Rayo Vallecano (10/06/25)
+  Time: 12:30AM, Channels: 4
+- Spanish Segunda Division - Racing Santander Vs Malaga (10/06...
+  Time: 12:30AM, Channels: 2
+- Spanish Segunda Division - Real Valladolid Cf Vs Mirandes (1...
+  Time: 12:30AM, Channels: 2
+- Croatian Football League - Nk Lokomotiva Zagreb Vs Dinamo Za...
+  Time: 12:45AM, Channels: 1
+- Costa Rica 2.Liga - Aserri Fc Vs Pitbulls (10/06/25)
+  Time: 01:00AM, Channels: 1
+- Hungary Fizz Liga - Kisvárda Master Good Fc Vs Diosgyor Vtk ...
+  Time: 01:00AM, Channels: 1
+- Ireland Fai Cup - Shamrock Rovers Vs Kerry Fc (10/06/25)
+  Time: 01:00AM, Channels: 1
+- Israel Premier League - Maccabi Netanya Vs Hapoel Bnei Sakhn...
+  Time: 01:00AM, Channels: 1
+- Jordan Sh Cup - Al Hussein Irbid Vs Shabab Al Ordon (10/06/2...
+  Time: 01:00AM, Channels: 1
+- Ligapro Serie A  - Macara Vs Sociedad Deportiva Aucas (10/06...
+  Time: 01:00AM, Channels: 1
+- Mls Next Pro - Chattanooga Vs Atlanta United Fc Ii (10/06/25...
+  Time: 01:00AM, Channels: 1
+- Mls Next Pro - Orlando City B Vs Cincinnati Ii (10/06/25)
+  Time: 01:00AM, Channels: 1
+- Serbian Mozzart Bet Superliga - Fk Napredak Krusevac Vs Crve...
+  Time: 01:00AM, Channels: 1
+- French Ligue 1 - As Monaco Vs Ogc Nice (10/05/25)
+  Time: 11:15PM, Channels: 2
+- French Ligue 1 - As Monaco Vs Ogc Nice (10/05/25) [STREAM 34...
+  Time: 11:15PM, Channels: 1
+- French Ligue 1 - Havre Athletic Club Vs Stade Rennais Fc (10...
+  Time: 11:15PM, Channels: 2
+- French Ligue 1 - Havre Athletic Club Vs Stade Rennais Fc (10...
+  Time: 11:15PM, Channels: 1
+- French Ligue 1 - Rc Strasbourg Alsace Vs Angers Sco (10/05/2...
+  Time: 11:15PM, Channels: 2
+- French Ligue 1 - Rc Strasbourg Alsace Vs Angers Sco (10/05/2...
+  Time: 11:15PM, Channels: 1
+- Spanish Segunda División Rfef - Cd Lealtad Vs Marino Luanco ...
+  Time: 11:15PM, Channels: 1
+- Bundesliga - Hamburger Sv Vs 1. Fsv Mainz 05 (10/05/25)
+  Time: 11:30PM, Channels: 4
+- Bundesliga - Hamburger Sv Vs 1. Fsv Mainz 05 (10/05/25) [STR...
+  Time: 11:30PM, Channels: 1
+- English Premier League - Brentford Vs Manchester City (10/05...
+  Time: 11:30PM, Channels: 7
+- English Premier League - Brentford Vs Manchester City (10/05...
+  Time: 11:30PM, Channels: 1
+- Italian Serie C - As Sorrento Calcio Vs Ac Monopoli (10/05/2...
+  Time: 11:30PM, Channels: 1
+- Pko Bank Polski Ekstraklasa - Gks Katowice Vs Lech Poznan (1...
+  Time: 11:30PM, Channels: 1
+- Liga Asobal - Huesca Vs Granollers (10/06/25)
+  Time: 12:30AM, Channels: 1
+- England: Super League Women - Play Offs - Wigan Warriors W V...
+  Time: 12:30AM, Channels: 1
