@@ -1,19 +1,17 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-05T18:51:32.265098
+Extraction Time: 2025-10-05T19:10:55.679499
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 69
-- Total Channels: 91
+- Unique Events: 71
+- Total Channels: 103
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
-- Usa: Nfl - Cbs Vs The Nfl Today (10/06/25)
-  Time: 12:00AM, Channels: 1
 - Usa: Nfl - Baltimore Ravens Vs Houston Texans (10/06/25)
   Time: 01:00AM, Channels: 1
 - Usa: Nfl - Carolina Panthers Vs Miami Dolphins (10/06/25)
@@ -30,43 +28,25 @@ EVENT BREAKDOWN:
   Time: 01:00AM, Channels: 1
 - Usa: Nfl - Espn Vs Sunday Nfl Countdown (10/05/25)
   Time: 10:00PM, Channels: 1
-- Usa: Nfl - Fox Vs Nfl Sunday (10/05/25)
-  Time: 11:00PM, Channels: 1
 - Club Friendly - Banana Vs Ball World Tour (10/06/25)
   Time: 01:00AM, Channels: 1
-- Lega Basket Serie A - Reyer Venezia Vs Guerino Vanoli Basket...
-  Time: 01:00AM, Channels: 1
-- Liga Asociación De Clubs De Baloncesto - Pamesa Valencia Vs ...
-  Time: 01:00AM, Channels: 1
 - Ligue Nationale De Basket Pro A - Saint Quentin Vs Asvel Vil...
-  Time: 01:00AM, Channels: 2
-- Spain Segunda Feb - Albacete Vs Ce Bisbal Basquet (10/06/25)
   Time: 01:00AM, Channels: 1
 - Admiralbet Aba League - Kk Buducnost Vs Subotica Spartak (10...
   Time: 01:30AM, Channels: 1
 - Lega Basket Serie A - Dinamo Sassari Vs Pallacanestro Varese...
   Time: 02:00AM, Channels: 1
+- Women'S National Basketball Association - Las Vegas Aces Vs ...
+  Time: 03:00AM, Channels: 2
+- Women'S National Basketball Association - Las Vegas Aces Vs ...
+  Time: 03:00AM, Channels: 1
 - Segunda Feb - Biele Isb Vs Logrobasket Logi7 (10/05/25)
   Time: 11:55PM, Channels: 1
 - Copa Del Mundo De Bicicleta De Montaña - Lake Placid (2025) ...
   Time: 01:15AM, Channels: 1
 - Uec European Championship - Men´S Road Race (10/05/25)
   Time: 09:00PM, Channels: 1
-- Hungary Fizz Liga - Kisvárda Master Good Fc Vs Diosgyor Vtk ...
-  Time: 01:00AM, Channels: 1
-- Ireland Fai Cup - Shamrock Rovers Vs Kerry Fc (10/06/25)
-  Time: 01:00AM, Channels: 1
 - Israel Premier League - Maccabi Netanya Vs Hapoel Bnei Sakhn...
-  Time: 01:00AM, Channels: 1
-- Jordan Sh Cup - Al Hussein Irbid Vs Shabab Al Ordon (10/06/2...
-  Time: 01:00AM, Channels: 1
-- Ligapro Serie A  - Macara Vs Sociedad Deportiva Aucas (10/06...
-  Time: 01:00AM, Channels: 1
-- Mls Next Pro - Chattanooga Vs Atlanta United Fc Ii (10/06/25...
-  Time: 01:00AM, Channels: 1
-- Mls Next Pro - Orlando City B Vs Cincinnati Ii (10/06/25)
-  Time: 01:00AM, Channels: 1
-- Serbian Mozzart Bet Superliga - Fk Napredak Krusevac Vs Crve...
   Time: 01:00AM, Channels: 1
 - Argentine Division 1 - Godoy Cruz Antonio Tomba Vs Ca Indepe...
   Time: 01:30AM, Channels: 2
@@ -135,18 +115,42 @@ EVENT BREAKDOWN:
 - Uruguay Primera Division - Racing Club Montevideo Vs Plaza C...
   Time: 02:30AM, Channels: 2
 - French Ligue 1 - Losc Lille Vs Paris Saint Germain (10/06/25...
-  Time: 02:45AM, Channels: 4
+  Time: 02:45AM, Channels: 3
 - French Ligue 1 - Losc Lille Vs Paris Saint Germain (10/06/25...
   Time: 02:45AM, Channels: 1
 - Italian Serie A - Juventus Vs Ac Milan (10/06/25)
-  Time: 02:45AM, Channels: 5
+  Time: 02:45AM, Channels: 4
 - Italian Serie A - Juventus Vs Ac Milan (10/06/25) [STREAM 24...
   Time: 02:45AM, Channels: 1
 - Italian Serie A - Juventus Vs Ac Milan (10/06/25) [STREAM 24...
   Time: 02:45AM, Channels: 1
+- Bolivian Copa Lfpb - Always Ready Vs Club Aurora (10/06/25)
+  Time: 03:00AM, Channels: 1
+- Brazilian Serie A - Clube De Regatas Vasco Da Gama Vs Vitori...
+  Time: 03:00AM, Channels: 2
+- Brazilian Serie A - Sao Paulo Vs Palmeiras (10/06/25)
+  Time: 03:00AM, Channels: 3
+- Brazilian Serie B - Operario Ferroviario Pr Vs Remo Belem (P...
+  Time: 03:00AM, Channels: 2
+- Canadian Premier League - Valour Vs Atletico Ottawa (10/06/2...
+  Time: 03:00AM, Channels: 1
+- Conmebol Copa Libertadores Femenino - Boca Juniors Women Vs ...
+  Time: 03:00AM, Channels: 1
+- Conmebol Copa Libertadores Femenino - Sc Corinthians Paulist...
+  Time: 03:00AM, Channels: 1
+- Spanish La Liga - Rc Celta Vs Atletico Madrid (10/06/25)
+  Time: 03:00AM, Channels: 4
+- Spanish La Liga - Rc Celta Vs Atletico Madrid (10/06/25) [ST...
+  Time: 03:00AM, Channels: 1
+- Spanish La Liga - Rc Celta Vs Atletico Madrid (10/06/25) [ST...
+  Time: 03:00AM, Channels: 1
+- Spanish Segunda Division - Ud Las Palmas Vs Cadiz (10/06/25)
+  Time: 03:00AM, Channels: 3
 - Fim Ewc - Motocross Of Nations Race 2 (10/06/25)
   Time: 02:30AM, Channels: 2
 - Fia European Truck Racing Championship - Weathertech Series ...
   Time: 03:00AM, Channels: 1
 - Nascar Cup Series - Nascar Cup Series: Bank Of America Roval...
-  Time: 03:00AM, Channels: 1
+  Time: 03:00AM, Channels: 3
+- France: Top 14 - Aviron Bayonnais Vs Stade Toulousain (10/06...
+  Time: 03:05AM, Channels: 2
