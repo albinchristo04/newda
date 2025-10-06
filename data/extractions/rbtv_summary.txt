@@ -1,38 +1,48 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-06T15:49:34.858134
+Extraction Time: 2025-10-06T16:19:10.516018
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 12
-- Total Channels: 12
+- Unique Events: 17
+- Total Channels: 34
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
-- Usa: Ncaa - Inside Vs Georgia Southern Football With Clay He...
-  Time: 11:30PM, Channels: 1
+- Usa: Ncaa - K.C. Vs Keeler Weekly Press Conference (10/07/25...
+  Time: 12:00AM, Channels: 2
+- Usa: Ncaa - Scott Vs Frost Press Conference (10/07/25)
+  Time: 12:00AM, Channels: 2
+- Admiralbet Aba League - Kk Partizan Vs Kk Krka (10/07/25)
+  Time: 12:00AM, Channels: 2
+- Basketbol Super Ligi - Fenerbahçe Beko Vs Socar Spor (10/07/...
+  Time: 12:00AM, Channels: 2
+- Cypriot Basketball Division A - Aek Larnaca Vs Keravnos Stro...
+  Time: 12:00AM, Channels: 2
+- Vtb United League - Mba Moscow Vs Enisey Krasnoyarsk (10/07/...
+  Time: 12:00AM, Channels: 2
+- National Basketball League - Lokomotiv Plovdiv Vs Euroins Ch...
+  Time: 12:15AM, Channels: 2
 - Admiralbet Aba League - Dubai Vs Co Split (10/06/25)
-  Time: 11:00PM, Channels: 1
+  Time: 11:00PM, Channels: 2
 - Cypriot Basketball Division A - Etha Encomi Vs Anorthosis Fa...
-  Time: 11:00PM, Channels: 1
-- World Cup, Women - New Zealand Women Vs South Africa Women (...
-  Time: 05:30PM, Channels: 1
-- World Cup, Women - New Zealand Women Vs South Africa Women (...
-  Time: 05:30PM, Channels: 1
-- Portuguese U23 League - Torreense U23 Vs Estrela Fc U23 (10/...
-  Time: 10:00PM, Channels: 1
-- Russian First Leagueleague - Fk Chelyabinsk Vs Yenisey Krasn...
-  Time: 10:00PM, Channels: 1
+  Time: 11:00PM, Channels: 2
+- Bosnia And Herzegovina Premier League - Sarajevo Vs Hsk Zrin...
+  Time: 12:00AM, Channels: 2
+- Bulgarian Vtora Liga - Lokomotiv Gorna Oryahovitsa Vs Fratri...
+  Time: 12:00AM, Channels: 2
+- German Frauen Bundesliga - Hamburger Sv Women Vs Hoffenheim ...
+  Time: 12:00AM, Channels: 2
 - Romanian Super Liga - Fc Otelul Galati Vs Metaloglobus (10/0...
-  Time: 10:30PM, Channels: 1
+  Time: 10:30PM, Channels: 2
 - Qatar Reserve League - Al Gharafa U23 Vs Al Rayyan Reserves ...
-  Time: 11:30PM, Channels: 1
+  Time: 11:30PM, Channels: 2
 - Qatar Reserve League - Al Sadd Reserves Vs Al-Duhail Sc Rese...
-  Time: 11:30PM, Channels: 1
+  Time: 11:30PM, Channels: 2
 - Bein 3 - Milano P1 Premier Padel 2025 - Day 1 (10/06/25)
-  Time: 10:00PM, Channels: 1
+  Time: 10:00PM, Channels: 2
 - Wta 125K Mallorca, Spain Women Singles - Julia Stusek Vs Oks...
-  Time: 11:35PM, Channels: 1
+  Time: 11:35PM, Channels: 2
