@@ -1,13 +1,46 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-06T17:49:25.689891
+Extraction Time: 2025-10-06T18:23:15.344623
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 0
-- Total Channels: 0
+- Unique Events: 16
+- Total Channels: 19
 - Individual Streams: 0
-- Media Segments: 47
+- Media Segments: 0
 - Other Events: 0
 
+EVENT BREAKDOWN:
+- Usa: Ncaa - Coordinator'S Vs Corner (10/07/25)
+  Time: 02:00AM, Channels: 1
+- Ultimate Pool 2025 - Group B Pairs Cup Last 16 (10/07/25)
+  Time: 01:00AM, Channels: 1
+- Svenska Basketligan - Sloga Uppsala Vs Umea Bskt (10/07/25)
+  Time: 01:00AM, Channels: 1
+- 2.Basketball Bundesliga Proa - Rheinenergie Koln Vs Artland ...
+  Time: 01:30AM, Channels: 1
+- Admiralbet Aba League - Crvena Zvezda Red Star Vs Kk Zadar (...
+  Time: 02:00AM, Channels: 1
+- Lega Basket Serie A - Virtus Pallacanestro Bologna Vs Napoli...
+  Time: 02:00AM, Channels: 2
+- Ligue Nationale De Basket Pro A - Le Mans Sarthe Vs Paris Ba...
+  Time: 02:00AM, Channels: 2
+- Inside The Ring - Inside The Ring | Episode 5 (10/07/25)
+  Time: 02:00AM, Channels: 1
+- Russian First Leagueleague - Kamaz Naberezhnye Chelny Vs Ura...
+  Time: 12:30AM, Channels: 1
+- Danish 1St Division - Hvidovre If Vs Lyngby (10/07/25)
+  Time: 01:00AM, Channels: 1
+- Sweden Superettan - Sandvikens If Vs Orgryte (10/07/25)
+  Time: 01:00AM, Channels: 1
+- Romanian Super Liga - Fc Botosani Vs Uta Arad (10/07/25)
+  Time: 01:30AM, Channels: 1
+- Netherlands Eerste Divisie - Vitesse Arnhem Vs Den Bosch (10...
+  Time: 02:00AM, Channels: 2
+- Challenger Atp Challenger Roanne, France, Men Singles - Fili...
+  Time: 02:15AM, Channels: 1
+- Bein 3 - Milano P1 Premier Padel 2025 - Day 1 (10/06/25)
+  Time: 10:00PM, Channels: 1
+- Serie A1 Women - Vero Milano W Vs Bergamo 1991 W (10/07/25)
+  Time: 02:30AM, Channels: 1
