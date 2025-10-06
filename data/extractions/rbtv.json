@@ -1,164 +1,234 @@
 {
-  "timestamp": "2025-10-06T05:15:36.394103",
+  "timestamp": "2025-10-06T05:38:27.597190",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
-  "segments": [
+  "segments": [],
+  "events": [
     {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Mexico Liga Mx - Club Tijuana Vs Monterrey [HDD A ESPA\u00d1OL]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DYYCQLBRFN2RYLBVFJSRI2ISDYKHGXCFKJZQCOJPE4STWMLFEQ4GKFC6LRDVCQSCKVEXG732MV6XK6TGNJTHU7DNAMFAGGYDAAEAIYDN/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Mexico Liga Mx - Club Tijuana Vs Monterrey [HDD A ESPA\u00d1OL]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DYYCQLBRFN2RYLBVFJSRI2ISDYKHGXCFKJZQCOJPE4STWMLFEQ4GKFC6LRDVCQSCKVEXG732MV6XK6TGNJTHU7DNAMFAGGYDAAEAIYDN/index.m3u8"
-    },
-    {
-      "type": "segment",
+      "event_time": "11:00AM",
+      "event_date": "10/06/25",
+      "channel_name": "HDD A",
+      "event_title": "Wta Wuhan, China Women Singles - Dayana Yastremska Vs Laura Siegemund (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKHKQJNJFUUIQNFISAIJCEA7TOPRRMUSDQZIVKBDUCVIQMNMVKNBQHUYDYIDVPJXXEZDWOYDR2AQNBEEASA3KPJRHEY34MVTA/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Shanghai, China Men Double - A.Krajicek/N.Mektic Vs Harrison C / King E [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKGA7PFAVKWSZKNKTQ6Q6NMPSCPREFQYWWMZKCF5FERSCLFBV6PLVCNSX2ZA6HEVTK2YAPENRQEY3AMPQMH3CNRUX22TTNR7XOZL2PVUAQ/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "12:30PM",
+      "event_date": "10/06/25",
+      "channel_name": "HDD A",
+      "event_title": "Atp Shanghai, China Men Double - A.Krajicek/N.Mektic Vs Harrison C / King E (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKGA7PFAVKWSZKNKTQ6Q6NMPSCPREFQYWWMZKCF5FERSCLFBV6PLVCNSX2ZA6HEVTK2YAPENRQEY3AMPQMH3CNRUX22TTNR7XOZL2PVUAQ/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Shanghai, China Men Double - A.Krajicek/N.Mektic Vs Harrison C / King E [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKGA7PFAVKWSZKNKTQ6Q6NMPSCPREFQYWWMZKCF5FERSCLFBV6PLVCNSX2ZA6HEVTK2YAPENRQEY3AMPQMH3CNRUX22TTNR7XOZL2PVUAQ/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "12:30PM",
+      "event_date": "10/06/25",
+      "channel_name": "HDD A",
+      "event_title": "Atp Shanghai, China Men Singles - Felix Auger-Aliassime Vs Jesper De Jong (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LXK5PV2SAQOFCTIMBCNAJSQPBRGYQSEKB4CFCEAFD2KVBUANRHOAQTOZA7H4VTK23POMIR2AA3AYPQCCLKMNUXMYLLM5TXI2T2OI/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Shanghai, China Men Singles - Felix Auger-Aliassime Vs Jesper De Jong [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LXK5PV2SAQOFCTIMBCNAJSQPBRGYQSEKB4CFCEAFD2KVBUANRHOAQTOZA7H4VTK23POMIR2AA3AYPQCCLKMNUXMYLLM5TXI2T2OI/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "12:30PM",
+      "event_date": "10/06/25",
+      "channel_name": "MOVISTAR2",
+      "event_title": "Atp Shanghai, China Men Singles - Kamil Majchrzak Vs Alex De Minaur (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L2KNPF2XAQPVITSNRYG4UCKPTQGMQWWBBVKRFBGUCVCB6VSPJUEU3XE3T7OBVGCZDXNEAQGHAFBEEQMCLCNV7XGYDWMRRXC/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Shanghai, China Men Singles - Felix Auger-Aliassime Vs Jesper De Jong [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LXK5PV2SAQOFCTIMBCNAJSQPBRGYQSEKB4CFCEAFD2KVBUANRHOAQTOZA7H4VTK23POMIR2AA3AYPQCCLKMNUXMYLLM5TXI2T2OI/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "12:30PM",
+      "event_date": "10/06/25",
+      "channel_name": "HDD A",
+      "event_title": "Atp Shanghai, China Men Singles - Kamil Majchrzak Vs Alex De Minaur (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L2KNPF2XAQPVITSNRYG4UCKPTQGMQWWBBVKRFBGUCVCB6VSPJUEU3XE3T7OBVGCZDTOYAAWCQCBEAQQH3BMJQX2Y34/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Shanghai, China Men Singles - Kamil Majchrzak Vs Alex De Minaur [MOVISTAR2]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L2KNPF2XAQPVITSNRYG4UCKPTQGMQWWBBVKRFBGUCVCB6VSPJUEU3XE3T7OBVGCZDXNEAQGHAFBEEQMCLCNV7XGYDWMRRXC/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "12:30PM",
+      "event_date": "10/06/25",
+      "event_title": "Atp Shanghai, China Men Singles - Kamil Majchrzak Vs Alex De Minaur (10/06/25) [STREAM 23[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L2KNPF2XAQPVITSNRYG4UCKPTQGMQWWBBVKRFBGUCVCB6VSPJUEU3XE3T7OBVGCZDXOYAAWCQCBEAQQH3BMJQX2Y3W/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Shanghai, China Men Singles - Kamil Majchrzak Vs Alex De Minaur [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L2KNPF2XAQPVITSNRYG4UCKPTQGMQWWBBVKRFBGUCVCB6VSPJUEU3XE3T7OBVGCZDTOYAAWCQCBEAQQH3BMJQX2Y34/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "12:55PM",
+      "event_date": "10/06/25",
+      "channel_name": "HDD A",
+      "event_title": "Wta Wuhan, China Women Singles - Elise Mertens Vs Polina Kudermetova (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKHC5LNAFCED5KVBCOMB6GZZDEJTQCU6SOLBXKAJHQQKUKVBF2NRBH4ZTGZD7PJSX26DKN4PAGCQNBEEAKAD4M5TXI2TWMY/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Shanghai, China Men Singles - Kamil Majchrzak Vs Alex De Minaur [STREAM 23[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L2KNPF2XAQPVITSNRYG4UCKPTQGMQWWBBVKRFBGUCVCB6VSPJUEU3XE3T7OBVGCZDXOYAAWCQCBEAQQH3BMJQX2Y3W/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "01:00PM",
+      "event_date": "10/06/25",
+      "channel_name": "HDD A",
+      "event_title": "Wta Wuhan, China Women Doubles - Kristina Mladenovic/Zhang Shuai Vs Aoyama S / Bucsa C (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKESDLNAEAWK6KEIB4OJREE3SUORGFQYWIHZRKBOFIFDDLBCVCOTVEY3HEBJ2FESD6KTFBIIR2E3WIVJUGULTCZYG66DEPJRWUZDEORQAQCYCAUER6AQHMJWWE5I/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Shanghai, China Men Singles - Kamil Majchrzak Vs Alex De Minaur [MOVISTAR2]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L2KNPF2XAQPVITSNRYG4UCKPTQGMQWWBBVKRFBGUCVCB6VSPJUEU3XE3T7OBVGCZDXNEAQGHAFBEEQMCLCNV7XGYDWMRRXC/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "01:10PM",
+      "event_date": "10/06/25",
+      "channel_name": "VDO",
+      "event_title": "Wta Wuhan, China Women Singles - Katerina Siniakova Vs Diana Shnaider (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKESQIZLEMWK6KEIAAPB6FQZS6ORGERZD2NTZOVNVEWSRCBRVQPJUHEQTONTVPJXXEZDWOYBQEAYFD4AQSCLKNVSXO7LSM5RHIYD5/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Shanghai, China Men Singles - Kamil Majchrzak Vs Alex De Minaur [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L2KNPF2XAQPVITSNRYG4UCKPTQGMQWWBBVKRFBGUCVCB6VSPJUEU3XE3T7OBVGCZDTOYAAWCQCBEAQQH3BMJQX2Y34/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "01:10PM",
+      "event_date": "10/06/25",
+      "channel_name": "HDD A",
+      "event_title": "Wta Wuhan, China Women Singles - Katerina Siniakova Vs Diana Shnaider (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKESQIZLEMWK6KEIAAPB6FQZS6ORGERZD2NTZOVNVEWSRCBRVQPJUHEQTONTVPJXXEZDWOYDR2AQNBEEQQBLBPJRHEY34M5SA/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Shanghai, China Men Singles - Kamil Majchrzak Vs Alex De Minaur [STREAM 23[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L2KNPF2XAQPVITSNRYG4UCKPTQGMQWWBBVKRFBGUCVCB6VSPJUEU3XE3T7OBVGCZDXOYAAWCQCBEAQQH3BMJQX2Y3W/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Wuhan, China Women Doubles - Kristina Mladenovic/Zhang Shuai Vs Aoyama S / Bucsa C [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKESDLNAEAWK6KEIB4OJREE3SUORGFQYWIHZRKBOFIFDDLBCVCOTVEY3HEBJ2FESD6KTFBIIR2E3WIVJUGULTCZYG66DEPJRWUZDEORQAQCYCAUER6AQHMJWWE5I/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Wuhan, China Women Doubles - Kristina Mladenovic/Zhang Shuai Vs Aoyama S / Bucsa C [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKESDLNAEAWK6KEIB4OJREE3SUORGFQYWIHZRKBOFIFDDLBCVCOTVEY3HEBJ2FESD6KTFBIIR2E3WIVJUGULTCZYG66DEPJRWUZDEORQAQCYCAUER6AQHMJWWE5I/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Wuhan, China Women Singles - Dayana Yastremska Vs Laura Siegemund [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKHKQJNJFUUIQNFISAIJCEA7TOPRRMUSDQZIVKBDUCVIQMNMVKNBQHUYDYIDVPJXXEZDWOYDR2AQNBEEASA3KPJRHEY34MVTA/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Wuhan, China Women Singles - Dayana Yastremska Vs Laura Siegemund [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKHKQJNJFUUIQNFISAIJCEA7TOPRRMUSDQZIVKBDUCVIQMNMVKNBQHUYDYIDVPJXXEZDWOYDR2AQNBEEASA3KPJRHEY34MVTA/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Wuhan, China Women Singles - Elise Mertens Vs Polina Kudermetova [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKHC5LNAFCED5KVBCOMB6GZZDEJTQCU6SOLBXKAJHQQKUKVBF2NRBH4ZTGZD7PJSX26DKN4PAGCQNBEEAKAD4M5TXI2TWMY/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Wuhan, China Women Singles - Elise Mertens Vs Polina Kudermetova [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKHC5LNAFCED5KVBCOMB6GZZDEJTQCU6SOLBXKAJHQQKUKVBF2NRBH4ZTGZD7PJSX26DKN4PAGCQNBEEAKAD4M5TXI2TWMY/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Wuhan, China Women Singles - Katerina Siniakova Vs Diana Shnaider [VDO]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKESQIZLEMWK6KEIAAPB6FQZS6ORGERZD2NTZOVNVEWSRCBRVQPJUHEQTONTVPJXXEZDWOYBQEAYFD4AQSCLKNVSXO7LSM5RHIYD5/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Wuhan, China Women Singles - Katerina Siniakova Vs Diana Shnaider [VDO]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKESQIZLEMWK6KEIAAPB6FQZS6ORGERZD2NTZOVNVEWSRCBRVQPJUHEQTONTVPJXXEZDWOYBQEAYFD4AQSCLKNVSXO7LSM5RHIYD5/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Wuhan, China Women Singles - Varvara Gracheva Vs Jessica Bouzas Maneiro [HDD B]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKD2QIBCVKQSRCB3SCNBTFU3TENDQGMQWWDZ4IJAVUV2RCBZF6JRPGE3HECJUHYQDWOJKPENRQEY3AMPQMH3CNRUXY2TRMR7XOZL2PVUQQ/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Wuhan, China Women Singles - Varvara Gracheva Vs Jessica Bouzas Maneiro [HDD B]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKD2QIBCVKQSRCB3SCNBTFU3TENDQGMQWWDZ4IJAVUV2RCBZF6JRPGE3HECJUHYQDWOJKPENRQEY3AMPQMH3CNRUXY2TRMR7XOZL2PVUQQ/index.m3u8"
+      "group_title": "TENNIS"
     }
   ],
-  "events": [],
-  "grouped_events": {},
+  "grouped_events": {
+    "Wta Wuhan, China Women Singles - Dayana Yastremska Vs Laura Siegemund (10/06/25)": {
+      "event_title": "Wta Wuhan, China Women Singles - Dayana Yastremska Vs Laura Siegemund (10/06/25)",
+      "event_time": "11:00AM",
+      "event_date": "10/06/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKHKQJNJFUUIQNFISAIJCEA7TOPRRMUSDQZIVKBDUCVIQMNMVKNBQHUYDYIDVPJXXEZDWOYDR2AQNBEEASA3KPJRHEY34MVTA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Atp Shanghai, China Men Double - A.Krajicek/N.Mektic Vs Harrison C / King E (10/06/25)": {
+      "event_title": "Atp Shanghai, China Men Double - A.Krajicek/N.Mektic Vs Harrison C / King E (10/06/25)",
+      "event_time": "12:30PM",
+      "event_date": "10/06/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKGA7PFAVKWSZKNKTQ6Q6NMPSCPREFQYWWMZKCF5FERSCLFBV6PLVCNSX2ZA6HEVTK2YAPENRQEY3AMPQMH3CNRUX22TTNR7XOZL2PVUAQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Atp Shanghai, China Men Singles - Felix Auger-Aliassime Vs Jesper De Jong (10/06/25)": {
+      "event_title": "Atp Shanghai, China Men Singles - Felix Auger-Aliassime Vs Jesper De Jong (10/06/25)",
+      "event_time": "12:30PM",
+      "event_date": "10/06/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LXK5PV2SAQOFCTIMBCNAJSQPBRGYQSEKB4CFCEAFD2KVBUANRHOAQTOZA7H4VTK23POMIR2AA3AYPQCCLKMNUXMYLLM5TXI2T2OI/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Atp Shanghai, China Men Singles - Kamil Majchrzak Vs Alex De Minaur (10/06/25)": {
+      "event_title": "Atp Shanghai, China Men Singles - Kamil Majchrzak Vs Alex De Minaur (10/06/25)",
+      "event_time": "12:30PM",
+      "event_date": "10/06/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "MOVISTAR2",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L2KNPF2XAQPVITSNRYG4UCKPTQGMQWWBBVKRFBGUCVCB6VSPJUEU3XE3T7OBVGCZDXNEAQGHAFBEEQMCLCNV7XGYDWMRRXC/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L2KNPF2XAQPVITSNRYG4UCKPTQGMQWWBBVKRFBGUCVCB6VSPJUEU3XE3T7OBVGCZDTOYAAWCQCBEAQQH3BMJQX2Y34/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Atp Shanghai, China Men Singles - Kamil Majchrzak Vs Alex De Minaur (10/06/25) [STREAM 23[HD]]": {
+      "event_title": "Atp Shanghai, China Men Singles - Kamil Majchrzak Vs Alex De Minaur (10/06/25) [STREAM 23[HD]]",
+      "event_time": "12:30PM",
+      "event_date": "10/06/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L2KNPF2XAQPVITSNRYG4UCKPTQGMQWWBBVKRFBGUCVCB6VSPJUEU3XE3T7OBVGCZDXOYAAWCQCBEAQQH3BMJQX2Y3W/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Wuhan, China Women Singles - Elise Mertens Vs Polina Kudermetova (10/06/25)": {
+      "event_title": "Wta Wuhan, China Women Singles - Elise Mertens Vs Polina Kudermetova (10/06/25)",
+      "event_time": "12:55PM",
+      "event_date": "10/06/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKHC5LNAFCED5KVBCOMB6GZZDEJTQCU6SOLBXKAJHQQKUKVBF2NRBH4ZTGZD7PJSX26DKN4PAGCQNBEEAKAD4M5TXI2TWMY/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Wuhan, China Women Doubles - Kristina Mladenovic/Zhang Shuai Vs Aoyama S / Bucsa C (10/06/25)": {
+      "event_title": "Wta Wuhan, China Women Doubles - Kristina Mladenovic/Zhang Shuai Vs Aoyama S / Bucsa C (10/06/25)",
+      "event_time": "01:00PM",
+      "event_date": "10/06/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKESDLNAEAWK6KEIB4OJREE3SUORGFQYWIHZRKBOFIFDDLBCVCOTVEY3HEBJ2FESD6KTFBIIR2E3WIVJUGULTCZYG66DEPJRWUZDEORQAQCYCAUER6AQHMJWWE5I/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Wuhan, China Women Singles - Katerina Siniakova Vs Diana Shnaider (10/06/25)": {
+      "event_title": "Wta Wuhan, China Women Singles - Katerina Siniakova Vs Diana Shnaider (10/06/25)",
+      "event_time": "01:10PM",
+      "event_date": "10/06/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKESQIZLEMWK6KEIAAPB6FQZS6ORGERZD2NTZOVNVEWSRCBRVQPJUHEQTONTVPJXXEZDWOYBQEAYFD4AQSCLKNVSXO7LSM5RHIYD5/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKESQIZLEMWK6KEIAAPB6FQZS6ORGERZD2NTZOVNVEWSRCBRVQPJUHEQTONTVPJXXEZDWOYDR2AQNBEEQQBLBPJRHEY34M5SA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    }
+  },
   "metadata": {}
 }
