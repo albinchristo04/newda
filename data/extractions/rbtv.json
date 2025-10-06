@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-06T22:31:01.030590",
+  "timestamp": "2025-10-06T22:49:13.320440",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -43,16 +43,6 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
       "group_title": "BASEBALL"
-    },
-    {
-      "event_time": "04:30AM",
-      "event_date": "10/07/25",
-      "channel_name": "HDD A",
-      "event_title": "Colombian Torneo Betplay Dimayor - Atletico Huila Vs Barranquilla Fc (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CA5DYKR7EY6DCK3SD4VCWX2XLQKHEVKEMA7TIKLFCYWTQMJ4HU4WK5ARONDVQVKELFJTY5IYGA5SQNDQGMQWWBZYINAFEWSBIVMVYPZUOABRCZD7PJSWG23POMIQIEY6DIIAIATKMVQHEYDEP55GKYL3PVWQMCQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
     },
     {
       "event_time": "05:30AM",
@@ -198,20 +188,6 @@
           "channel_name": "HDK A",
           "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4AVHIWTSMJBG4TTKMKYKMJWIWCZLRODUMBDMUSDO5I4FIQWWBBXKZLV6UKDCB2F6NZSGU3SCZD7PJSWM23POMIQIEY6DIIACCLKNVTHKYTEP55GKYD4ORQAKBI/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Colombian Torneo Betplay Dimayor - Atletico Huila Vs Barranquilla Fc (10/07/25)": {
-      "event_title": "Colombian Torneo Betplay Dimayor - Atletico Huila Vs Barranquilla Fc (10/07/25)",
-      "event_time": "04:30AM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/CA5DYKR7EY6DCK3SD4VCWX2XLQKHEVKEMA7TIKLFCYWTQMJ4HU4WK5ARONDVQVKELFJTY5IYGA5SQNDQGMQWWBZYINAFEWSBIVMVYPZUOABRCZD7PJSWG23POMIQIEY6DIIAIATKMVQHEYDEP55GKYL3PVWQMCQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }
       ]

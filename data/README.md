@@ -1,12 +1,12 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Mon Oct  6 22:31:01 UTC 2025
+Last updated: Mon Oct  6 22:49:13 UTC 2025
 
-Workflow run: #968
+Workflow run: #969
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-10-06T22:31:01.030590
+Extracted at: 2025-10-06T22:49:13.320440
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
