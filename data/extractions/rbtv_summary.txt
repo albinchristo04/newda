@@ -1,13 +1,44 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-06T19:25:40.367984
+Extraction Time: 2025-10-06T19:36:49.824533
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 0
-- Total Channels: 0
+- Unique Events: 15
+- Total Channels: 23
 - Individual Streams: 0
-- Media Segments: 75
+- Media Segments: 0
 - Other Events: 0
 
+EVENT BREAKDOWN:
+- Ultimate Pool 2025 - Group B Pairs Cup Last 16 (10/07/25)
+  Time: 01:00AM, Channels: 1
+- Admiralbet Aba League - Crvena Zvezda Red Star Vs Kk Zadar (...
+  Time: 02:00AM, Channels: 1
+- Lega Basket Serie A - Virtus Pallacanestro Bologna Vs Napoli...
+  Time: 02:00AM, Channels: 2
+- Ligue Nationale De Basket Pro A - Le Mans Sarthe Vs Paris Ba...
+  Time: 02:00AM, Channels: 2
+- Urvalsdeild Karla - Valur Reykjavik Vs U.M.F. Tindastoll (10...
+  Time: 03:15AM, Channels: 1
+- Inside The Ring - Inside The Ring | Episode 5 (10/07/25)
+  Time: 02:00AM, Channels: 1
+- Netherlands Eerste Divisie - Vitesse Arnhem Vs Den Bosch (10...
+  Time: 02:00AM, Channels: 2
+- Spanish Segunda Division - Cultural Leonesa Vs Albacete Balo...
+  Time: 02:30AM, Channels: 3
+- Conmebol Copa Libertadores Femenino - Deportivo Cali Women V...
+  Time: 03:00AM, Channels: 1
+- Conmebol Copa Libertadores Femenino - San Lorenzo Women Vs C...
+  Time: 03:00AM, Channels: 2
+- English Football League Two - Harrogate Town Vs Crewe Alexan...
+  Time: 03:00AM, Channels: 3
+- Motogp - British Speedway (10/07/25)
+  Time: 02:35AM, Channels: 1
+- Challenger Atp Challenger Roanne, France, Men Singles - Fili...
+  Time: 02:15AM, Channels: 1
+- Serie A1 Women - Pinerolo Women Vs Scandicci Women (10/07/25...
+  Time: 02:30AM, Channels: 1
+- Serie A1 Women - Vero Milano W Vs Bergamo 1991 W (10/07/25)
+  Time: 02:30AM, Channels: 1
