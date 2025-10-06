@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-06T15:39:02.447605
+Extraction Time: 2025-10-06T15:49:34.858134
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 11
-- Total Channels: 11
+- Unique Events: 12
+- Total Channels: 12
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -34,3 +34,5 @@ EVENT BREAKDOWN:
   Time: 11:30PM, Channels: 1
 - Bein 3 - Milano P1 Premier Padel 2025 - Day 1 (10/06/25)
   Time: 10:00PM, Channels: 1
+- Wta 125K Mallorca, Spain Women Singles - Julia Stusek Vs Oks...
+  Time: 11:35PM, Channels: 1
