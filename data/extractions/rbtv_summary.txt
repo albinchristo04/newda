@@ -1,30 +1,13 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-06T05:38:27.597190
+Extraction Time: 2025-10-06T05:49:23.697653
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 8
-- Total Channels: 10
+- Unique Events: 0
+- Total Channels: 0
 - Individual Streams: 0
-- Media Segments: 0
+- Media Segments: 20
 - Other Events: 0
 
-EVENT BREAKDOWN:
-- Wta Wuhan, China Women Singles - Dayana Yastremska Vs Laura ...
-  Time: 11:00AM, Channels: 1
-- Atp Shanghai, China Men Double - A.Krajicek/N.Mektic Vs Harr...
-  Time: 12:30PM, Channels: 1
-- Atp Shanghai, China Men Singles - Felix Auger-Aliassime Vs J...
-  Time: 12:30PM, Channels: 1
-- Atp Shanghai, China Men Singles - Kamil Majchrzak Vs Alex De...
-  Time: 12:30PM, Channels: 2
-- Atp Shanghai, China Men Singles - Kamil Majchrzak Vs Alex De...
-  Time: 12:30PM, Channels: 1
-- Wta Wuhan, China Women Singles - Elise Mertens Vs Polina Kud...
-  Time: 12:55PM, Channels: 1
-- Wta Wuhan, China Women Doubles - Kristina Mladenovic/Zhang S...
-  Time: 01:00PM, Channels: 1
-- Wta Wuhan, China Women Singles - Katerina Siniakova Vs Diana...
-  Time: 01:10PM, Channels: 2
