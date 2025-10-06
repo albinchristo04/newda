@@ -1,13 +1,46 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-06T17:14:36.714634
+Extraction Time: 2025-10-06T17:31:08.895102
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 0
-- Total Channels: 0
+- Unique Events: 16
+- Total Channels: 16
 - Individual Streams: 0
-- Media Segments: 34
+- Media Segments: 0
 - Other Events: 0
 
+EVENT BREAKDOWN:
+- Ultimate Pool 2025 - Group B Pairs Cup Last 16 (10/07/25)
+  Time: 01:00AM, Channels: 1
+- Admiralbet Aba League - Kk Partizan Vs Kk Krka (10/07/25)
+  Time: 12:00AM, Channels: 1
+- Basketbol Super Ligi - Fenerbahçe Beko Vs Socar Spor (10/07/...
+  Time: 12:00AM, Channels: 1
+- Cypriot Basketball Division A - Aek Larnaca Vs Keravnos Stro...
+  Time: 12:00AM, Channels: 1
+- Vtb United League - Mba Moscow Vs Enisey Krasnoyarsk (10/07/...
+  Time: 12:00AM, Channels: 1
+- National Basketball League - Lokomotiv Plovdiv Vs Euroins Ch...
+  Time: 12:15AM, Channels: 1
+- Liga Nova Kbm - Triglav Kranj Vs Ilirija (10/07/25)
+  Time: 12:30AM, Channels: 1
+- Svenska Basketligan - Sloga Uppsala Vs Umea Bskt (10/07/25)
+  Time: 01:00AM, Channels: 1
+- 2.Basketball Bundesliga Proa - Rheinenergie Koln Vs Artland ...
+  Time: 01:30AM, Channels: 1
+- Bosnia And Herzegovina Premier League - Sarajevo Vs Hsk Zrin...
+  Time: 12:00AM, Channels: 1
+- Bulgarian Vtora Liga - Lokomotiv Gorna Oryahovitsa Vs Fratri...
+  Time: 12:00AM, Channels: 1
+- Russian First Leagueleague - Kamaz Naberezhnye Chelny Vs Ura...
+  Time: 12:30AM, Channels: 1
+- Danish 1St Division - Hvidovre If Vs Lyngby (10/07/25)
+  Time: 01:00AM, Channels: 1
+- Sweden Superettan - Sandvikens If Vs Orgryte (10/07/25)
+  Time: 01:00AM, Channels: 1
+- Romanian Super Liga - Fc Botosani Vs Uta Arad (10/07/25)
+  Time: 01:30AM, Channels: 1
+- Bein 3 - Milano P1 Premier Padel 2025 - Day 1 (10/06/25)
+  Time: 10:00PM, Channels: 1
