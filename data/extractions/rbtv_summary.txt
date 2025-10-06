@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-06T09:40:33.969768
+Extraction Time: 2025-10-06T10:17:17.342766
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 13
-- Total Channels: 17
+- Unique Events: 15
+- Total Channels: 19
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -24,6 +24,8 @@ EVENT BREAKDOWN:
   Time: 05:00PM, Channels: 1
 - Kazakhstan Women'S Super League - Okzhetpes (W) Vs Zhenis W ...
   Time: 05:00PM, Channels: 1
+- Kazakhstan Women'S Super League - Yelimay Semey （W） Vs Fk At...
+  Time: 06:00PM, Channels: 1
 - Atp Shanghai, China Men Double - Peers J / Zielinski J Vs Sc...
   Time: 04:15PM, Channels: 1
 - Wta Wuhan, China Women Singles - Olga Danilovic Vs Clara Tau...
@@ -36,5 +38,7 @@ EVENT BREAKDOWN:
   Time: 05:20PM, Channels: 1
 - Wta 125K Mallorca, Spain Women Singles - Noma Noha Akugue Vs...
   Time: 05:25PM, Channels: 1
+- Wta Wuhan, China Women Doubles - Maria Sakkari/Donna Vekic V...
+  Time: 06:20PM, Channels: 1
 - Atp Shanghai, China Men Singles - Learner Tien Vs Cameron No...
-  Time: 05:50PM, Channels: 1
+  Time: 06:30PM, Channels: 1
