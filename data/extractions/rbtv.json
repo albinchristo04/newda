@@ -1,136 +1,187 @@
 {
-  "timestamp": "2025-10-06T03:47:06.308981",
+  "timestamp": "2025-10-06T04:18:36.017538",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
-  "segments": [
+  "segments": [],
+  "events": [
     {
-      "type": "segment",
+      "event_time": "11:30AM",
+      "event_date": "10/06/25",
+      "channel_name": "HDD A",
+      "event_title": "Usa: Nfl - Sunday Vs Night Football Final (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYDBC73SBIJRYZL7NMLCYX2WKJGRARSDCAOTYNZNEZSBGPZKEYUSINK5CJ2V2XSRLQIHS73QNJVWWY37ORVXE7DPAABBYBQHAEEAAZA/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
-      "group_title": "AMERICAN FOOTBALL",
-      "title": "Usa: Nfl - Buffalo Bills Vs New England Patriots [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AYDBC73SBIJRYZL7NMDSYV2UKJMF6EDSLE7TSI3FEQ3XKHRAEVVQAN2WLZJFUVAQMBISOJZZFITDO5L2N5ZGI7DWA4OQEDIJBACQIZD2MJZGG43MMI/index.m3u8"
+      "group_title": "AMERICAN FOOTBALL"
     },
     {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
-      "group_title": "AMERICAN FOOTBALL",
-      "title": "Usa: Nfl - Buffalo Bills Vs New England Patriots [HDD D ESPA\u00d1OL]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AYDBC73SBIJRYZL7NMDSYV2UKJMF6EDSLE7TSI3FEQ3XKHRAEVVQAN2WLZJFUVAQMBISOJZZFITDO5L2N5ZGI7DWA4OQEDIJBACQIZD2MJZGG43MMQ/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
-      "group_title": "AMERICAN FOOTBALL",
-      "title": "Usa: Nfl - Buffalo Bills Vs New England Patriots [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AYDBC73SBIJRYZL7NMDSYV2UKJMF6EDSLE7TSI3FEQ3XKHRAEVVQAN2WLZJFUVAQMBISOJZZFITDO5L2N5ZGI7DWA4OQEDIJBACQIZD2MJZGG43MMI/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
-      "group_title": "AMERICAN FOOTBALL",
-      "title": "Usa: Nfl - Buffalo Bills Vs New England Patriots [HDD D ESPA\u00d1OL]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AYDBC73SBIJRYZL7NMDSYV2UKJMF6EDSLE7TSI3FEQ3XKHRAEVVQAN2WLZJFUVAQMBISOJZZFITDO5L2N5ZGI7DWA4OQEDIJBACQIZD2MJZGG43MMQ/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
-      "group_title": "AMERICAN FOOTBALL",
-      "title": "Usa: Nfl - Sunday Vs Night Football Final [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AYDBC73SBIJRYZL7NMLCYX2WKJGRARSDCAOTYNZNEZSBGPZKEYUSINK5CJ2V2XSRLQIHS73QNJVWWY37ORVXE7DPAABBYBQHAEEAAZA/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
-      "group_title": "AMERICAN FOOTBALL",
-      "title": "Usa: Nfl - Sunday Vs Night Football Final [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AYDBC73SBIJRYZL7NMLCYX2WKJGRARSDCAOTYNZNEZSBGPZKEYUSINK5CJ2V2XSRLQIHS73QNJVWWY37ORVXE7DPAABBYBQHAEEAAZA/index.m3u8"
-    },
-    {
-      "type": "segment",
+      "event_time": "11:05AM",
+      "event_date": "10/06/25",
+      "channel_name": "HDD A ESPA\u00d1OL",
+      "event_title": "Mexico Liga Mx - Club Tijuana Vs Monterrey (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DYYCQLBRFN2RYLBVFJSRI2ISDYKHGXCFKJZQCOJPE4STWMLFEQ4GKFC6LRDVCQSCKVEXG732MV6XK6TGNJTHU7DNAMFAGGYDAAEAIYDN/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Mexico Liga Mx - Club Tijuana Vs Monterrey [HDD A ESPA\u00d1OL]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DYYCQLBRFN2RYLBVFJSRI2ISDYKHGXCFKJZQCOJPE4STWMLFEQ4GKFC6LRDVCQSCKVEXG732MV6XK6TGNJTHU7DNAMFAGGYDAAEAIYDN/index.m3u8"
+      "group_title": "FOOTBALL"
     },
     {
-      "type": "segment",
+      "event_time": "11:05AM",
+      "event_date": "10/06/25",
+      "channel_name": "SD",
+      "event_title": "Mexico Liga Mx - Club Tijuana Vs Monterrey (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DYYCQLBRFN2RYLBVFJSRI2ISDYKHGXCFKJZQCOJPE4STWMLFEQ4GKFC6LRDVCQSCKVEXG732MV6XK6TDNJTHU7DNAMFAGGYDAAEAIYDC/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Mexico Liga Mx - Club Tijuana Vs Monterrey [SD]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DYYCQLBRFN2RYLBVFJSRI2ISDYKHGXCFKJZQCOJPE4STWMLFEQ4GKFC6LRDVCQSCKVEXG732MV6XK6TDNJTHU7DNAMFAGGYDAAEAIYDC/index.m3u8"
+      "group_title": "FOOTBALL"
     },
     {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Mexico Liga Mx - Club Tijuana Vs Monterrey [HDD A ESPA\u00d1OL]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DYYCQLBRFN2RYLBVFJSRI2ISDYKHGXCFKJZQCOJPE4STWMLFEQ4GKFC6LRDVCQSCKVEXG732MV6XK6TGNJTHU7DNAMFAGGYDAAEAIYDN/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Mexico Liga Mx - Club Tijuana Vs Monterrey [SD]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DYYCQLBRFN2RYLBVFJSRI2ISDYKHGXCFKJZQCOJPE4STWMLFEQ4GKFC6LRDVCQSCKVEXG732MV6XK6TDNJTHU7DNAMFAGGYDAAEAIYDC/index.m3u8"
-    },
-    {
-      "type": "segment",
+      "event_time": "11:00AM",
+      "event_date": "10/06/25",
+      "channel_name": "VDO",
+      "event_title": "Wta Wuhan, China Women Singles - Ashlyn Krueger Vs Hailey Baptiste (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGCCLJPU2XQQPNBCMMBXEAQGIIZDMUNCULBVKRFRG5SRIBCFSIBBGVSXQ3TVP53H26LVNEAB2AQNBEEASA3EPJTHOYDVM5SQ/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Wuhan, China Women Singles - Ashlyn Krueger Vs Hailey Baptiste [VDO]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGCCLJPU2XQQPNBCMMBXEAQGIIZDMUNCULBVKRFRG5SRIBCFSIBBGVSXQ3TVP53H26LVNEAB2AQNBEEASA3EPJTHOYDVM5SQ/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "11:00AM",
+      "event_date": "10/06/25",
+      "channel_name": "HDD A",
+      "event_title": "Wta Wuhan, China Women Singles - Ashlyn Krueger Vs Hailey Baptiste (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGCCLJPU2XQQPNBCMMBXEAQGIIZDMUNCULBVKRFRG5SRIBCFSIBBGVSXQ3TVP53H27LKNAEAWCYNAMDR6ATEMRUHKYA/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Wuhan, China Women Singles - Ashlyn Krueger Vs Hailey Baptiste [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGCCLJPU2XQQPNBCMMBXEAQGIIZDMUNCULBVKRFRG5SRIBCFSIBBGVSXQ3TVP53H27LKNAEAWCYNAMDR6ATEMRUHKYA/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "11:00AM",
+      "event_date": "10/06/25",
+      "channel_name": "HDD A",
+      "event_title": "Wta Wuhan, China Women Singles - Dayana Yastremska Vs Laura Siegemund (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKHKQJNJFUUIQNFISAIJCEA7TOPRRMUSDQZIVKBDUCVIQMNMVKNBQHUYDYIDVPJXXEZDWOYDR2AQNBEEASA3KPJRHEY34MVTA/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Wuhan, China Women Singles - Ashlyn Krueger Vs Hailey Baptiste [VDO]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGCCLJPU2XQQPNBCMMBXEAQGIIZDMUNCULBVKRFRG5SRIBCFSIBBGVSXQ3TVP53H26LVNEAB2AQNBEEASA3EPJTHOYDVM5SQ/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "11:00AM",
+      "event_date": "10/06/25",
+      "channel_name": "HDD A",
+      "event_title": "Wta Wuhan, China Women Singles - Maria Camila Osorio Serrano Vs Marie Bouzkova (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQIBNFKEDTKFOTUOJRMUOTOORCFQ6WWFR4INAFEWS7CBDEG4YYGE3TWILVCIVCOMJOGZDVGEY6DIIB6A34MN7XI235NVUXM2TEO5XAACQDAA/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Wuhan, China Women Singles - Ashlyn Krueger Vs Hailey Baptiste [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGCCLJPU2XQQPNBCMMBXEAQGIIZDMUNCULBVKRFRG5SRIBCFSIBBGVSXQ3TVP53H27LKNAEAWCYNAMDR6ATEMRUHKYA/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "12:30PM",
+      "event_date": "10/06/25",
+      "channel_name": "VDO",
+      "event_title": "Wta Wuhan, China Women Singles - Katerina Siniakova Vs Diana Shnaider (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKESQIZLEMWK6KEIAAPB6FQZS6ORGERZD2NTZOVNVEWSRCBRVQPJUHEQTONTVPJXXEZDWOYBQEAYFD4AQSCLKNVSXO7LSM5RHIYD5/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Wuhan, China Women Singles - Dayana Yastremska Vs Laura Siegemund [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKHKQJNJFUUIQNFISAIJCEA7TOPRRMUSDQZIVKBDUCVIQMNMVKNBQHUYDYIDVPJXXEZDWOYDR2AQNBEEASA3KPJRHEY34MVTA/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Wuhan, China Women Singles - Dayana Yastremska Vs Laura Siegemund [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKHKQJNJFUUIQNFISAIJCEA7TOPRRMUSDQZIVKBDUCVIQMNMVKNBQHUYDYIDVPJXXEZDWOYDR2AQNBEEASA3KPJRHEY34MVTA/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Wuhan, China Women Singles - Maria Camila Osorio Serrano Vs Marie Bouzkova [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQIBNFKEDTKFOTUOJRMUOTOORCFQ6WWFR4INAFEWS7CBDEG4YYGE3TWILVCIVCOMJOGZDVGEY6DIIB6A34MN7XI235NVUXM2TEO5XAACQDAA/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Wuhan, China Women Singles - Maria Camila Osorio Serrano Vs Marie Bouzkova [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQIBNFKEDTKFOTUOJRMUOTOORCFQ6WWFR4INAFEWS7CBDEG4YYGE3TWILVCIVCOMJOGZDVGEY6DIIB6A34MN7XI235NVUXM2TEO5XAACQDAA/index.m3u8"
+      "group_title": "TENNIS"
     }
   ],
-  "events": [],
-  "grouped_events": {},
+  "grouped_events": {
+    "Usa: Nfl - Sunday Vs Night Football Final (10/06/25)": {
+      "event_title": "Usa: Nfl - Sunday Vs Night Football Final (10/06/25)",
+      "event_time": "11:30AM",
+      "event_date": "10/06/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AYDBC73SBIJRYZL7NMLCYX2WKJGRARSDCAOTYNZNEZSBGPZKEYUSINK5CJ2V2XSRLQIHS73QNJVWWY37ORVXE7DPAABBYBQHAEEAAZA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Mexico Liga Mx - Club Tijuana Vs Monterrey (10/06/25)": {
+      "event_title": "Mexico Liga Mx - Club Tijuana Vs Monterrey (10/06/25)",
+      "event_time": "11:05AM",
+      "event_date": "10/06/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A ESPA\u00d1OL",
+          "url": "https://world-proxifier.xyz/rbtv/p/DYYCQLBRFN2RYLBVFJSRI2ISDYKHGXCFKJZQCOJPE4STWMLFEQ4GKFC6LRDVCQSCKVEXG732MV6XK6TGNJTHU7DNAMFAGGYDAAEAIYDN/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/DYYCQLBRFN2RYLBVFJSRI2ISDYKHGXCFKJZQCOJPE4STWMLFEQ4GKFC6LRDVCQSCKVEXG732MV6XK6TDNJTHU7DNAMFAGGYDAAEAIYDC/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Wuhan, China Women Singles - Ashlyn Krueger Vs Hailey Baptiste (10/06/25)": {
+      "event_title": "Wta Wuhan, China Women Singles - Ashlyn Krueger Vs Hailey Baptiste (10/06/25)",
+      "event_time": "11:00AM",
+      "event_date": "10/06/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGCCLJPU2XQQPNBCMMBXEAQGIIZDMUNCULBVKRFRG5SRIBCFSIBBGVSXQ3TVP53H26LVNEAB2AQNBEEASA3EPJTHOYDVM5SQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGCCLJPU2XQQPNBCMMBXEAQGIIZDMUNCULBVKRFRG5SRIBCFSIBBGVSXQ3TVP53H27LKNAEAWCYNAMDR6ATEMRUHKYA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Wuhan, China Women Singles - Dayana Yastremska Vs Laura Siegemund (10/06/25)": {
+      "event_title": "Wta Wuhan, China Women Singles - Dayana Yastremska Vs Laura Siegemund (10/06/25)",
+      "event_time": "11:00AM",
+      "event_date": "10/06/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKHKQJNJFUUIQNFISAIJCEA7TOPRRMUSDQZIVKBDUCVIQMNMVKNBQHUYDYIDVPJXXEZDWOYDR2AQNBEEASA3KPJRHEY34MVTA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Wuhan, China Women Singles - Maria Camila Osorio Serrano Vs Marie Bouzkova (10/06/25)": {
+      "event_title": "Wta Wuhan, China Women Singles - Maria Camila Osorio Serrano Vs Marie Bouzkova (10/06/25)",
+      "event_time": "11:00AM",
+      "event_date": "10/06/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQIBNFKEDTKFOTUOJRMUOTOORCFQ6WWFR4INAFEWS7CBDEG4YYGE3TWILVCIVCOMJOGZDVGEY6DIIB6A34MN7XI235NVUXM2TEO5XAACQDAA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Wuhan, China Women Singles - Katerina Siniakova Vs Diana Shnaider (10/06/25)": {
+      "event_title": "Wta Wuhan, China Women Singles - Katerina Siniakova Vs Diana Shnaider (10/06/25)",
+      "event_time": "12:30PM",
+      "event_date": "10/06/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKESQIZLEMWK6KEIAAPB6FQZS6ORGERZD2NTZOVNVEWSRCBRVQPJUHEQTONTVPJXXEZDWOYBQEAYFD4AQSCLKNVSXO7LSM5RHIYD5/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    }
+  },
   "metadata": {}
 }

@@ -1,38 +1,4 @@
 {
-  "Usa: Nfl - Nbc Vs Sunday Night Football (10/06/25)": {
-    "event_title": "Usa: Nfl - Nbc Vs Sunday Night Football (10/06/25)",
-    "event_time": "07:00AM",
-    "event_date": "10/06/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/AYDBC73SBIJRYZL7NMFRW4QSIVDRAY2FLY3TIKLFDQWTEOBROIGSUNSFKBJFQXAQDINHG6TJNJSGWZDJPRVX25LADYAAIBIHBADA/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Usa: Nfl - Buffalo Bills Vs New England Patriots (10/06/25)": {
-    "event_title": "Usa: Nfl - Buffalo Bills Vs New England Patriots (10/06/25)",
-    "event_time": "08:20AM",
-    "event_date": "10/06/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/AYDBC73SBIJRYZL7NMDSYV2UKJMF6EDSLE7TSI3FEQ3XKHRAEVVQAN2WLZJFUVAQMBISOJZZFITDO5L2N5ZGI7DWA4OQEDIJBACQIZD2MJZGG43MMI/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "HDD D ESPA\u00d1OL",
-        "url": "https://world-proxifier.xyz/rbtv/p/AYDBC73SBIJRYZL7NMDSYV2UKJMF6EDSLE7TSI3FEQ3XKHRAEVVQAN2WLZJFUVAQMBISOJZZFITDO5L2N5ZGI7DWA4OQEDIJBACQIZD2MJZGG43MMQ/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
-        "duration": null
-      }
-    ]
-  },
   "Usa: Nfl - Sunday Vs Night Football Final (10/06/25)": {
     "event_title": "Usa: Nfl - Sunday Vs Night Football Final (10/06/25)",
     "event_time": "11:30AM",
@@ -43,32 +9,6 @@
         "channel_name": "HDD A",
         "url": "https://world-proxifier.xyz/rbtv/p/AYDBC73SBIJRYZL7NMLCYX2WKJGRARSDCAOTYNZNEZSBGPZKEYUSINK5CJ2V2XSRLQIHS73QNJVWWY37ORVXE7DPAABBYBQHAEEAAZA/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Mexico Liga Mx - Pumas U.N.A.M. Vs Chivas Guadalajara (10/06/25)": {
-    "event_title": "Mexico Liga Mx - Pumas U.N.A.M. Vs Chivas Guadalajara (10/06/25)",
-    "event_time": "09:35AM",
-    "event_date": "10/06/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/DYYCQLBRFN2RYLBVFJSRI2ISDYKGARK5KEQHKBLLDRVBI7QIPRVTGKQROFNV2RSRIMIBIIBREEZSQNB2EQQCUZLTDMJBYBI7AYPQIYTMMR3WU4T2MN2WU73XMA/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "HDD B ESPA\u00d1OL",
-        "url": "https://world-proxifier.xyz/rbtv/p/DYYCQLBRFN2RYLBVFJSRI2ISDYKGARK5KEQHKBLLDRVBI7QIPRVTGKQROFNV2RSRIMIBIIBREEZSQNB2EQQCUZLTDMJBYBI7AYPQIYTMMR3WU4T2MN2WU73WNE/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/DYYCQLBRFN2RYLBVFJSRI2ISDYKGARK5KEQHKBLLDRVBI7QIPRVTGKQROFNV2RSRIMIBIIBREEZSQNB2EQQCUZLTDMJBYBI7AMPQIYTMMR3WU4T2MN2WU73XNY/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
       }
     ]
@@ -136,6 +76,20 @@
       {
         "channel_name": "HDD A",
         "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQIBNFKEDTKFOTUOJRMUOTOORCFQ6WWFR4INAFEWS7CBDEG4YYGE3TWILVCIVCOMJOGZDVGEY6DIIB6A34MN7XI235NVUXM2TEO5XAACQDAA/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Wta Wuhan, China Women Singles - Katerina Siniakova Vs Diana Shnaider (10/06/25)": {
+    "event_title": "Wta Wuhan, China Women Singles - Katerina Siniakova Vs Diana Shnaider (10/06/25)",
+    "event_time": "12:30PM",
+    "event_date": "10/06/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "VDO",
+        "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKESQIZLEMWK6KEIAAPB6FQZS6ORGERZD2NTZOVNVEWSRCBRVQPJUHEQTONTVPJXXEZDWOYBQEAYFD4AQSCLKNVSXO7LSM5RHIYD5/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
       }
