@@ -1,9 +1,29 @@
 {
-  "timestamp": "2025-10-06T21:49:43.890709",
+  "timestamp": "2025-10-06T22:13:43.754780",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
   "events": [
+    {
+      "event_time": "06:00AM",
+      "event_date": "10/07/25",
+      "channel_name": "HDD A",
+      "event_title": "Usa: Ncaa - Willie Vs Simmons Coach'S Show (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYDBC73SBILBCBDSMZSQ4WC6L5OVKECGINZQMOJIH4VTWI3FCESCIOSZCVABIY2YL5DXG732MVVWI732MVSGW33TCEAAGBAAAQEQQ437PJSWA43ENFYWI/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
+      "group_title": "AMERICAN FOOTBALL"
+    },
+    {
+      "event_time": "06:00AM",
+      "event_date": "10/07/25",
+      "channel_name": "HDD A",
+      "event_title": "Usa: Nfl - Monday Vs Night Countdown (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYDBC73SBIJRYZL7NMEDMX2WKJGRARSDCAOTYNZNEZSBMPZQHQ7SCNSGLQJR4GQQBEIHS73QONZG473QO5RHW5LNBAFRGHQ2CABAOYTMMRYQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
+      "group_title": "AMERICAN FOOTBALL"
+    },
     {
       "event_time": "01:00AM",
       "event_date": "10/07/25",
@@ -13,6 +33,16 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
       "group_title": "BADMINTON"
+    },
+    {
+      "event_time": "06:08AM",
+      "event_date": "10/07/25",
+      "channel_name": "HDK A",
+      "event_title": "Major League Baseball - Philadelphia Phillies Vs Los Angeles Dodgers (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4AVHIWTSMJBG4TTKMKYKMJWIWCZLRODUMBDMUSDO5I4FIQWWBBXKZLV6UKDCB2F6NZSGU3SCZD7PJSWM23POMIQIEY6DIIACCLKNVTHKYTEP55GKYD4ORQAKBI/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL"
     },
     {
       "event_time": "04:30AM",
@@ -63,9 +93,77 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:00AM",
+      "event_date": "10/07/25",
+      "channel_name": "HDD A",
+      "event_title": "Argentine Division 1 - Deportivo Riestra Vs Velez Sarsfield (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CITTOIB4GA6D4IDSB4WC6WCBLJNV4EABCB7HKFBAEIVSOJBMEQSGKC2YK5AEAQSRCBDCA5IGEA7CCL3QCYZTSNR7LBLV6UAQDINBAYTVPJXXE4TVPJXXE73UNEDAIAIMCANBUEDAMVUHC23U/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:00AM",
+      "event_date": "10/07/25",
+      "channel_name": "SD",
+      "event_title": "Argentine Division 1 - Deportivo Riestra Vs Velez Sarsfield (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CITTOIB4GA6D4IDSB4WC6WCBLJNV4EABCB7HKFBAEIVSOJBMEQSGKC2YK5AEAQSRCBDCA5IGEA7CCL3QCYZTSNR7LBLV6UAQDINBAYTVPJXXE53VPJXXE73UNEDAIAIMCANBUEDAMVUHC2TQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:00AM",
+      "event_date": "10/07/25",
+      "channel_name": "HDD A",
+      "event_title": "Uruguay Primera Division - Defensor Sporting Montevideo Vs Montevideo Wanderers Fc (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYTSKIRHEUWHAFJAEIUDYQ2TCNYFSRSZIM5DUPTFP5SBCNJDG4STMNSDCJQEIX2CIRMT2MTQBA6SUIJVGM5S6IBWCFCEAFD5L5PEINRDHEQTOK3VA4SDYLZAFNKEAQAUOZZRAGTZOVQWK6DOOVTGK6DBMVWQGCYAA4DAEEA2PF2WG5LKOBWWS/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:00AM",
+      "event_date": "10/07/25",
+      "channel_name": "SD",
+      "event_title": "Uruguay Primera Division - Defensor Sporting Montevideo Vs Montevideo Wanderers Fc (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYTSKIRHEUWHAFJAEIUDYQ2TCNYFSRSZIM5DUPTFP5SBCNJDG4STMNSDCJQEIX2CIRMT2MTQBA6SUIJVGM5S6IBWCFCEAFD5L5PEINRDHEQTOK3VA4SDYLZAFNKEAQAUOZZRAGTZOVQWK6DOOVRWK6DBMVWQGCYAA4DAEEA2PF2WG5LKOBWWG/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
     }
   ],
   "grouped_events": {
+    "Usa: Ncaa - Willie Vs Simmons Coach'S Show (10/07/25)": {
+      "event_title": "Usa: Ncaa - Willie Vs Simmons Coach'S Show (10/07/25)",
+      "event_time": "06:00AM",
+      "event_date": "10/07/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AYDBC73SBILBCBDSMZSQ4WC6L5OVKECGINZQMOJIH4VTWI3FCESCIOSZCVABIY2YL5DXG732MVVWI732MVSGW33TCEAAGBAAAQEQQ437PJSWA43ENFYWI/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Usa: Nfl - Monday Vs Night Countdown (10/07/25)": {
+      "event_title": "Usa: Nfl - Monday Vs Night Countdown (10/07/25)",
+      "event_time": "06:00AM",
+      "event_date": "10/07/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AYDBC73SBIJRYZL7NMEDMX2WKJGRARSDCAOTYNZNEZSBMPZQHQ7SCNSGLQJR4GQQBEIHS73QONZG473QO5RHW5LNBAFRGHQ2CABAOYTMMRYQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
+          "duration": null
+        }
+      ]
+    },
     "Ultimate Pool 2025 - Group B Pairs Cup Last 16 (10/07/25)": {
       "event_title": "Ultimate Pool 2025 - Group B Pairs Cup Last 16 (10/07/25)",
       "event_time": "01:00AM",
@@ -76,6 +174,20 @@
           "channel_name": "SKA",
           "url": "https://world-proxifier.xyz/rbtv/p/EY4SILB7EUQTKZJCEQVDKEIAAMDAKEA5CA2COPZQEJSDO4BVGMRDOKQRKFDEIEC4KFBSO5LBONZG473QORQGW33TCEAAGBABCANBU43HMB2WE4LFMFSXQYLFN4BQAAQCBA/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Major League Baseball - Philadelphia Phillies Vs Los Angeles Dodgers (10/07/25)": {
+      "event_title": "Major League Baseball - Philadelphia Phillies Vs Los Angeles Dodgers (10/07/25)",
+      "event_time": "06:08AM",
+      "event_date": "10/07/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDK A",
+          "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4AVHIWTSMJBG4TTKMKYKMJWIWCZLRODUMBDMUSDO5I4FIQWWBBXKZLV6UKDCB2F6NZSGU3SCZD7PJSWM23POMIQIEY6DIIACCLKNVTHKYTEP55GKYD4ORQAKBI/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
           "duration": null
         }
       ]
@@ -129,6 +241,46 @@
         {
           "channel_name": "SD",
           "url": "https://world-proxifier.xyz/rbtv/p/AM2CEJBVGE2CSJB4NMKSWWC7KZDFCEDULESTYIZMHUVHK7LFCUXCWPCDKNPRI42RKJIT6OJVG46WIIZDMUKAQZIXKBIVUW26KFOBAERGEUVTCLJ2HZSXQYLFNAIRQGIUAMIBUGTTMFRHCYTUMFQWK6DBMVVACCQHAMEQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Argentine Division 1 - Deportivo Riestra Vs Velez Sarsfield (10/07/25)": {
+      "event_title": "Argentine Division 1 - Deportivo Riestra Vs Velez Sarsfield (10/07/25)",
+      "event_time": "06:00AM",
+      "event_date": "10/07/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/CITTOIB4GA6D4IDSB4WC6WCBLJNV4EABCB7HKFBAEIVSOJBMEQSGKC2YK5AEAQSRCBDCA5IGEA7CCL3QCYZTSNR7LBLV6UAQDINBAYTVPJXXE4TVPJXXE73UNEDAIAIMCANBUEDAMVUHC23U/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CITTOIB4GA6D4IDSB4WC6WCBLJNV4EABCB7HKFBAEIVSOJBMEQSGKC2YK5AEAQSRCBDCA5IGEA7CCL3QCYZTSNR7LBLV6UAQDINBAYTVPJXXE53VPJXXE73UNEDAIAIMCANBUEDAMVUHC2TQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Uruguay Primera Division - Defensor Sporting Montevideo Vs Montevideo Wanderers Fc (10/07/25)": {
+      "event_title": "Uruguay Primera Division - Defensor Sporting Montevideo Vs Montevideo Wanderers Fc (10/07/25)",
+      "event_time": "06:00AM",
+      "event_date": "10/07/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AYTSKIRHEUWHAFJAEIUDYQ2TCNYFSRSZIM5DUPTFP5SBCNJDG4STMNSDCJQEIX2CIRMT2MTQBA6SUIJVGM5S6IBWCFCEAFD5L5PEINRDHEQTOK3VA4SDYLZAFNKEAQAUOZZRAGTZOVQWK6DOOVTGK6DBMVWQGCYAA4DAEEA2PF2WG5LKOBWWS/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/AYTSKIRHEUWHAFJAEIUDYQ2TCNYFSRSZIM5DUPTFP5SBCNJDG4STMNSDCJQEIX2CIRMT2MTQBA6SUIJVGM5S6IBWCFCEAFD5L5PEINRDHEQTOK3VA4SDYLZAFNKEAQAUOZZRAGTZOVQWK6DOOVRWK6DBMVWQGCYAA4DAEEA2PF2WG5LKOBWWG/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }

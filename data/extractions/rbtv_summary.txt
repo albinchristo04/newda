@@ -1,22 +1,32 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-06T21:49:43.890709
+Extraction Time: 2025-10-06T22:13:43.754780
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 4
-- Total Channels: 6
+- Unique Events: 9
+- Total Channels: 13
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
+- Usa: Ncaa - Willie Vs Simmons Coach'S Show (10/07/25)
+  Time: 06:00AM, Channels: 1
+- Usa: Nfl - Monday Vs Night Countdown (10/07/25)
+  Time: 06:00AM, Channels: 1
 - Ultimate Pool 2025 - Group B Pairs Cup Last 16 (10/07/25)
   Time: 01:00AM, Channels: 1
+- Major League Baseball - Philadelphia Phillies Vs Los Angeles...
+  Time: 06:08AM, Channels: 1
 - Colombian Torneo Betplay Dimayor - Atletico Huila Vs Barranq...
   Time: 04:30AM, Channels: 2
 - Bolivian Copa Lfpb - Real Oruro Vs Academiadb (10/07/25)
   Time: 05:30AM, Channels: 1
 - Paraguayan Primera Division - General Caballero Vs Fc Nacion...
   Time: 05:30AM, Channels: 2
+- Argentine Division 1 - Deportivo Riestra Vs Velez Sarsfield ...
+  Time: 06:00AM, Channels: 2
+- Uruguay Primera Division - Defensor Sporting Montevideo Vs M...
+  Time: 06:00AM, Channels: 2
