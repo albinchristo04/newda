@@ -1,13 +1,44 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-06T16:44:05.282409
+Extraction Time: 2025-10-06T16:54:27.074855
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 0
-- Total Channels: 0
+- Unique Events: 15
+- Total Channels: 15
 - Individual Streams: 0
-- Media Segments: 48
+- Media Segments: 0
 - Other Events: 0
 
+EVENT BREAKDOWN:
+- Usa: Ncaa - Scott Vs Frost Press Conference (10/07/25)
+  Time: 12:00AM, Channels: 1
+- Admiralbet Aba League - Kk Partizan Vs Kk Krka (10/07/25)
+  Time: 12:00AM, Channels: 1
+- Basketbol Super Ligi - Fenerbahçe Beko Vs Socar Spor (10/07/...
+  Time: 12:00AM, Channels: 1
+- Cypriot Basketball Division A - Aek Larnaca Vs Keravnos Stro...
+  Time: 12:00AM, Channels: 1
+- Vtb United League - Mba Moscow Vs Enisey Krasnoyarsk (10/07/...
+  Time: 12:00AM, Channels: 1
+- National Basketball League - Lokomotiv Plovdiv Vs Euroins Ch...
+  Time: 12:15AM, Channels: 1
+- Liga Nova Kbm - Triglav Kranj Vs Ilirija (10/07/25)
+  Time: 12:30AM, Channels: 1
+- Admiralbet Aba League - Dubai Vs Co Split (10/06/25)
+  Time: 11:00PM, Channels: 1
+- Bosnia And Herzegovina Premier League - Sarajevo Vs Hsk Zrin...
+  Time: 12:00AM, Channels: 1
+- Bulgarian Vtora Liga - Lokomotiv Gorna Oryahovitsa Vs Fratri...
+  Time: 12:00AM, Channels: 1
+- Russian First Leagueleague - Kamaz Naberezhnye Chelny Vs Ura...
+  Time: 12:30AM, Channels: 1
+- Qatar Reserve League - Al Gharafa U23 Vs Al Rayyan Reserves ...
+  Time: 11:30PM, Channels: 1
+- Qatar Reserve League - Al Sadd Reserves Vs Al-Duhail Sc Rese...
+  Time: 11:30PM, Channels: 1
+- Bein 3 - Milano P1 Premier Padel 2025 - Day 1 (10/06/25)
+  Time: 10:00PM, Channels: 1
+- Wta 125K Mallorca, Spain Women Singles - Julia Stusek Vs Oks...
+  Time: 11:35PM, Channels: 1
