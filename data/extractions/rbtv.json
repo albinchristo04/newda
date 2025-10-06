@@ -1,395 +1,339 @@
 {
-  "timestamp": "2025-10-06T17:31:08.895102",
+  "timestamp": "2025-10-06T17:49:25.689891",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
-  "segments": [],
-  "events": [
+  "segments": [
     {
-      "event_time": "01:00AM",
-      "event_date": "10/07/25",
-      "channel_name": "SKA",
-      "event_title": "Ultimate Pool 2025 - Group B Pairs Cup Last 16 (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/EY4SILB7EUQTKZJCEQVDKEIAAMDAKEA5CA2COPZQEJSDO4BVGMRDOKQRKFDEIEC4KFBSO5LBONZG473QORQGW33TCEAAGBABCANBU43HMB2WE4LFMFSXQYLFN4BQAAQCBA/index.m3u8",
-      "duration": null,
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
+      "group_title": "AMERICAN FOOTBALL",
+      "title": "Usa: Ncaa - Chris Vs Klieman Press Conference [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYDBC73SBILBCBDSMZSRUWKALJDRARSDCAMDSOJAH4STW4AVEAXDMKQROFOFUVSVIJKT2NRVMV4G45LJMV4GCZLPCEMBSFACAAAAAZ3MMVSXQ3TVMJZGG4TXNU/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
+      "group_title": "AMERICAN FOOTBALL",
+      "title": "Usa: Ncaa - Chris Vs Klieman Press Conference [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYDBC73SBILBCBDSMZSRUWKALJDRARSDCAMDSOJAH4STW4AVEAXDMKQROFOFUVSVIJKT2NRVMV4G45LJMV4GCZLPCEMBSFACAAAAAZ3MMVSXQ3TVMJZGG4TXNU/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
+      "group_title": "AMERICAN FOOTBALL",
+      "title": "Usa: Ncaa - Chris Vs Klieman Press Conference [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYDBC73SBILBCBDSMZSRUWKALJDRARSDCAMDSOJAH4STW4AVEAXDMKQROFOFUVSVIJKT2NRVMV4G45LJMV4GCZLPCEMBSFACAAAAAZ3MMVSXQ3TVMJZGG4TXNU/index.m3u8"
+    },
+    {
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-      "group_title": "BADMINTON"
+      "group_title": "BADMINTON",
+      "title": "Ultimate Pool 2025 - Group B Pairs Cup Last 16 [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/EY4SILB7EUQTKZJCEQVDKEIAAMDAKEA5CA2COPZQEJSDO4BVGMRDOKQRKFDEIEC4KFBSO5LBONZG473QORQGW33TCEAAGBABCANBU43HMB2WE4LFMFSXQYLFN4BQAAQCBA/index.m3u8"
     },
     {
-      "event_time": "12:00AM",
-      "event_date": "10/07/25",
-      "channel_name": "SD",
-      "event_title": "Admiralbet Aba League - Kk Partizan Vs Kk Krka (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIYT2LBAEU4REIBGNMCBW4ASP5IVCV2FKVZXQ4AODFSAKMJXEYRD6OC7CJCUOED3PMIBQJZ3ERZG473QO5ZGC33ZAIJBSHQQAEEQS23AMZ3XE3T7OB3WK6T4NEDQ/index.m3u8",
-      "duration": null,
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+      "group_title": "BADMINTON",
+      "title": "Ultimate Pool 2025 - Group B Pairs Cup Last 16 [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/EY4SILB7EUQTKZJCEQVDKEIAAMDAKEA5CA2COPZQEJSDO4BVGMRDOKQRKFDEIEC4KFBSO5LBONZG473QORQGW33TCEAAGBABCANBU43HMB2WE4LFMFSXQYLFN4BQAAQCBA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+      "group_title": "BADMINTON",
+      "title": "Ultimate Pool 2025 - Group B Pairs Cup Last 16 [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/EY4SILB7EUQTKZJCEQVDKEIAAMDAKEA5CA2COPZQEJSDO4BVGMRDOKQRKFDEIEC4KFBSO5LBONZG473QORQGW33TCEAAGBABCANBU43HMB2WE4LFMFSXQYLFN4BQAAQCBA/index.m3u8"
+    },
+    {
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
+      "group_title": "BASKETBALL",
+      "title": "2.Basketball Bundesliga Proa - Rheinenergie Koln Vs Artland Dragons [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/MF5REJBBF4YCIJZTE4UXS42HLVIFKQ24LE2DI4AVEAVRI4DIOIMS2PCYLR3FUVKCK5MTM5I3FI7CU5JGGZZAUNZNLVJV2UAQORBFCNB2HY3HE3T7OB3XEYLPPEBBEGI6CAAQSCLLMBTHY4TOP5YHOZL2PRVQG/index.m3u8"
     },
     {
-      "event_time": "12:00AM",
-      "event_date": "10/07/25",
-      "channel_name": "SD",
-      "event_title": "Basketbol Super Ligi - Fenerbah\u00e7e Beko Vs Socar Spor (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3T6KLSDAYCSVCACN4FSV2ZCB7HKFRAHQQSOMREHKEOEPAROBLF6XYQIZBXGBR7EYZTM5IDGU6TSZLTDMJACFA2DIIAG437PJSWG7LMNBYGI7TFOMNREAIDAEEQABY/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
+      "group_title": "BASKETBALL",
+      "title": "2.Basketball Bundesliga Proa - Rheinenergie Koln Vs Artland Dragons [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/MF5REJBBF4YCIJZTE4UXS42HLVIFKQ24LE2DI4AVEAVRI4DIOIMS2PCYLR3FUVKCK5MTM5I3FI7CU5JGGZZAUNZNLVJV2UAQORBFCNB2HY3HE3T7OB3XEYLPPEBBEGI6CAAQSCLLMBTHY4TOP5YHOZL2PRVQG/index.m3u8"
     },
     {
-      "event_time": "12:00AM",
-      "event_date": "10/07/25",
-      "channel_name": "SD",
-      "event_title": "Cypriot Basketball Division A - Aek Larnaca Vs Keravnos Strovolos (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CAWCANZ3FMQXABZTHAXDYRKQKJMFYEDULESTYIZMHUVHKELFP5VQIHD2CJ7VKQS6KFJTE5JGGZZA6MBCEQSCKKRKCFQUORS7IZPVYPBGOBXXQZDHOBXXQ23WPENRQEYFBEEQQBLFMNYG66DEM5TXI233PU/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
+      "group_title": "BASKETBALL",
+      "title": "Admiralbet Aba League - Kk Partizan Vs Kk Krka [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIYT2LBAEU4REIBGNMCBW4ASP5IVCV2FKVZXQ4AODFSAKMJXEYRD6OC7CJCUOED3PMIBQJZ3ERZG473QO5ZGC33ZAIJBSHQQAEEQS23AMZ3XE3T7OB3WK6T4NEDQ/index.m3u8"
     },
     {
-      "event_time": "12:00AM",
-      "event_date": "10/07/25",
-      "channel_name": "SD",
-      "event_title": "Vtb United League - Mba Moscow Vs Enisey Krasnoyarsk (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AUAREZIHFI6CIIBWNMETYUCVIZIRAHIQPUIRI4AIHU3TMPZSOI6TM6LULRNEOVKJCB5SCNBDFM6T2NBCGY4WW33TCEABGHQ2CABRA6L7OB2GW7LNMVZWM23POMIQABAFBEAAS/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
+      "group_title": "BASKETBALL",
+      "title": "Admiralbet Aba League - Kk Partizan Vs Kk Krka [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIYT2LBAEU4REIBGNMCBW4ASP5IVCV2FKVZXQ4AODFSAKMJXEYRD6OC7CJCUOED3PMIBQJZ3ERZG473QO5ZGC33ZAIJBSHQQAEEQS23AMZ3XE3T7OB3WK6T4NEDQ/index.m3u8"
     },
     {
-      "event_time": "12:15AM",
-      "event_date": "10/07/25",
-      "channel_name": "SD",
-      "event_title": "National Basketball League - Lokomotiv Plovdiv Vs Euroins Cherno More (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQPQ3DINZQG5SHQ4AJHUQCUNC6IZNEEEDALRPSKMJZGNZDEJTQAATTSKRQL5ARG52YKVBF4PDVDUVCAILVPJXXE6LFOMNREAAUDINBAALKNRSXEZT4OV5G64TZOJUAQAYH/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
+      "group_title": "BASKETBALL",
+      "title": "Admiralbet Aba League - Kk Partizan Vs Kk Krka [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIYT2LBAEU4REIBGNMCBW4ASP5IVCV2FKVZXQ4AODFSAKMJXEYRD6OC7CJCUOED3PMIBQJZ3ERZG473QO5ZGC33ZAIJBSHQQAEEQS23AMZ3XE3T7OB3WK6T4NEDQ/index.m3u8"
     },
     {
-      "event_time": "12:30AM",
-      "event_date": "10/07/25",
-      "channel_name": "SD",
-      "event_title": "Liga Nova Kbm - Triglav Kranj Vs Ilirija (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/D46DOJDSBI5CMJDSAADRIEI7CNQEEWKXLQZCG4AOEASTWOTFEQ4GKEC5LNAV2WSRCANHS5LCMV4G45LDMV4GCZLIBAFQWAIGA4IBU6LVMJZGG7LEMU/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
+      "group_title": "BASKETBALL",
+      "title": "Basketbol Super Ligi - Fenerbah\u00e7e Beko Vs Socar Spor [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3T6KLSDAYCSVCACN4FSV2ZCB7HKFRAHQQSOMREHKEOEPAROBLF6XYQIZBXGBR7EYZTM5IDGU6TSZLTDMJACFA2DIIAG437PJSWG7LMNBYGI7TFOMNREAIDAEEQABY/index.m3u8"
     },
     {
-      "event_time": "01:00AM",
-      "event_date": "10/07/25",
-      "channel_name": "SD",
-      "event_title": "Svenska Basketligan - Sloga Uppsala Vs Umea Bskt (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AARTKKZBF42HABZTHAXDYRK6LJJVCXQQDVZQMPBKGUSXKBJVEI4CINKQCJCUOEDFLVKTE5ISCYMRA5L2N5ZHSZLTDMJAAFA2DIIAC2TMNBYGI7DVPJXXE6LSNAEAGBI/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
+      "group_title": "BASKETBALL",
+      "title": "Basketbol Super Ligi - Fenerbah\u00e7e Beko Vs Socar Spor [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3T6KLSDAYCSVCACN4FSV2ZCB7HKFRAHQQSOMREHKEOEPAROBLF6XYQIZBXGBR7EYZTM5IDGU6TSZLTDMJACFA2DIIAG437PJSWG7LMNBYGI7TFOMNREAIDAEEQABY/index.m3u8"
     },
     {
-      "event_time": "01:30AM",
-      "event_date": "10/07/25",
-      "channel_name": "SD",
-      "event_title": "2.Basketball Bundesliga Proa - Rheinenergie Koln Vs Artland Dragons (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/MF5REJBBF4YCIJZTE4UXS42HLVIFKQ24LE2DI4AVEAVRI4DIOIMS2PCYLR3FUVKCK5MTM5I3FI7CU5JGGZZAUNZNLVJV2UAQORBFCNB2HY3HE3T7OB3XEYLPPEBBEGI6CAAQSCLLMBTHY4TOP5YHOZL2PRVQG/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
+      "group_title": "BASKETBALL",
+      "title": "Basketbol Super Ligi - Fenerbah\u00e7e Beko Vs Socar Spor [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3T6KLSDAYCSVCACN4FSV2ZCB7HKFRAHQQSOMREHKEOEPAROBLF6XYQIZBXGBR7EYZTM5IDGU6TSZLTDMJACFA2DIIAG437PJSWG7LMNBYGI7TFOMNREAIDAEEQABY/index.m3u8"
     },
     {
-      "event_time": "12:00AM",
-      "event_date": "10/07/25",
-      "channel_name": "SD",
-      "event_title": "Bosnia And Herzegovina Premier League - Sarajevo Vs Hsk Zrinjski Mostar (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CE5CGKZ3EV2TCKZWNMGTYQ2IKZJV6RSZLYZHKABXG4UTYNJXOIDSAOCWI5LBIHIQMNISCNB2EASCW5JGGZZAGFQSCFUECXK6LJBVWOTVDUVCCMBUEJSXQYLFNAIRQGIUAMIBUGTTMFRHKZLSMNSWK6DBMVVACCQHAEDA/index.m3u8",
-      "duration": null,
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Cypriot Basketball Division A - Aek Larnaca Vs Keravnos Strovolos [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CAWCANZ3FMQXABZTHAXDYRKQKJMFYEDULESTYIZMHUVHKELFP5VQIHD2CJ7VKQS6KFJTE5JGGZZA6MBCEQSCKKRKCFQUORS7IZPVYPBGOBXXQZDHOBXXQ23WPENRQEYFBEEQQBLFMNYG66DEM5TXI233PU/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Cypriot Basketball Division A - Aek Larnaca Vs Keravnos Strovolos [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CAWCANZ3FMQXABZTHAXDYRKQKJMFYEDULESTYIZMHUVHKELFP5VQIHD2CJ7VKQS6KFJTE5JGGZZA6MBCEQSCKKRKCFQUORS7IZPVYPBGOBXXQZDHOBXXQ23WPENRQEYFBEEQQBLFMNYG66DEM5TXI233PU/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Cypriot Basketball Division A - Aek Larnaca Vs Keravnos Strovolos [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CAWCANZ3FMQXABZTHAXDYRKQKJMFYEDULESTYIZMHUVHKELFP5VQIHD2CJ7VKQS6KFJTE5JGGZZA6MBCEQSCKKRKCFQUORS7IZPVYPBGOBXXQZDHOBXXQ23WPENRQEYFBEEQQBLFMNYG66DEM5TXI233PU/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Liga Nova Kbm - Triglav Kranj Vs Ilirija [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/D46DOJDSBI5CMJDSAADRIEI7CNQEEWKXLQZCG4AOEASTWOTFEQ4GKEC5LNAV2WSRCANHS5LCMV4G45LDMV4GCZLIBAFQWAIGA4IBU6LVMJZGG7LEMU/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Liga Nova Kbm - Triglav Kranj Vs Ilirija [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/D46DOJDSBI5CMJDSAADRIEI7CNQEEWKXLQZCG4AOEASTWOTFEQ4GKEC5LNAV2WSRCANHS5LCMV4G45LDMV4GCZLIBAFQWAIGA4IBU6LVMJZGG7LEMU/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Liga Nova Kbm - Triglav Kranj Vs Ilirija [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/D46DOJDSBI5CMJDSAADRIEI7CNQEEWKXLQZCG4AOEASTWOTFEQ4GKEC5LNAV2WSRCANHS5LCMV4G45LDMV4GCZLIBAFQWAIGA4IBU6LVMJZGG7LEMU/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "National Basketball League - Lokomotiv Plovdiv Vs Euroins Cherno More [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQPQ3DINZQG5SHQ4AJHUQCUNC6IZNEEEDALRPSKMJZGNZDEJTQAATTSKRQL5ARG52YKVBF4PDVDUVCAILVPJXXE6LFOMNREAAUDINBAALKNRSXEZT4OV5G64TZOJUAQAYH/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "National Basketball League - Lokomotiv Plovdiv Vs Euroins Cherno More [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQPQ3DINZQG5SHQ4AJHUQCUNC6IZNEEEDALRPSKMJZGNZDEJTQAATTSKRQL5ARG52YKVBF4PDVDUVCAILVPJXXE6LFOMNREAAUDINBAALKNRSXEZT4OV5G64TZOJUAQAYH/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "National Basketball League - Lokomotiv Plovdiv Vs Euroins Cherno More [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQPQ3DINZQG5SHQ4AJHUQCUNC6IZNEEEDALRPSKMJZGNZDEJTQAATTSKRQL5ARG52YKVBF4PDVDUVCAILVPJXXE6LFOMNREAAUDINBAALKNRSXEZT4OV5G64TZOJUAQAYH/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Svenska Basketligan - Sloga Uppsala Vs Umea Bskt [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AARTKKZBF42HABZTHAXDYRK6LJJVCXQQDVZQMPBKGUSXKBJVEI4CINKQCJCUOEDFLVKTE5ISCYMRA5L2N5ZHSZLTDMJAAFA2DIIAC2TMNBYGI7DVPJXXE6LSNAEAGBI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Svenska Basketligan - Sloga Uppsala Vs Umea Bskt [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AARTKKZBF42HABZTHAXDYRK6LJJVCXQQDVZQMPBKGUSXKBJVEI4CINKQCJCUOEDFLVKTE5ISCYMRA5L2N5ZHSZLTDMJAAFA2DIIAC2TMNBYGI7DVPJXXE6LSNAEAGBI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Svenska Basketligan - Sloga Uppsala Vs Umea Bskt [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AARTKKZBF42HABZTHAXDYRK6LJJVCXQQDVZQMPBKGUSXKBJVEI4CINKQCJCUOEDFLVKTE5ISCYMRA5L2N5ZHSZLTDMJAAFA2DIIAC2TMNBYGI7DVPJXXE6LSNAEAGBI/index.m3u8"
+    },
+    {
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Bosnia And Herzegovina Premier League - Sarajevo Vs Hsk Zrinjski Mostar [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CE5CGKZ3EV2TCKZWNMGTYQ2IKZJV6RSZLYZHKABXG4UTYNJXOIDSAOCWI5LBIHIQMNISCNB2EASCW5JGGZZAGFQSCFUECXK6LJBVWOTVDUVCCMBUEJSXQYLFNAIRQGIUAMIBUGTTMFRHKZLSMNSWK6DBMVVACCQHAEDA/index.m3u8"
     },
     {
-      "event_time": "12:00AM",
-      "event_date": "10/07/25",
-      "channel_name": "SD",
-      "event_title": "Bulgarian Vtora Liga - Lokomotiv Gorna Oryahovitsa Vs Fratria (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CEQDYIRTGY6DCK3SDUYTMQ2TCN4FSV2RCB7HKHBKHEVTQPZRHM6WKHS6IBOVKED7IJETEPJ7GM5TAJRRMUSDQZI7INJUORSZKEIBU6LVMFSXQ3TVMNSXQYLFNUBQKBIMAMARAGTZOVRXK2TQMBTQ/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Bosnia And Herzegovina Premier League - Sarajevo Vs Hsk Zrinjski Mostar [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CE5CGKZ3EV2TCKZWNMGTYQ2IKZJV6RSZLYZHKABXG4UTYNJXOIDSAOCWI5LBIHIQMNISCNB2EASCW5JGGZZAGFQSCFUECXK6LJBVWOTVDUVCCMBUEJSXQYLFNAIRQGIUAMIBUGTTMFRHKZLSMNSWK6DBMVVACCQHAEDA/index.m3u8"
     },
     {
-      "event_time": "12:30AM",
-      "event_date": "10/07/25",
-      "channel_name": "SD",
-      "event_title": "Russian First Leagueleague - Kamaz Naberezhnye Chelny Vs Ural Yekaterinburg (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AEQCGNR3EU5XAAZ3HE3C2EL6KZKVORKVPQ3DINZQG5SHQ4AOCMDAIAYRPRJFMVKCKVFDWOZJEBZAOPJVFE6DEZJPIIJGMRSRLQIGSNR6GEYTONR4HYTSOOJCPENRQEYFCANBUEDAOV5G64TQM5UHEYT7O54RWGATA4AAQBAFNI/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Bosnia And Herzegovina Premier League - Sarajevo Vs Hsk Zrinjski Mostar [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CE5CGKZ3EV2TCKZWNMGTYQ2IKZJV6RSZLYZHKABXG4UTYNJXOIDSAOCWI5LBIHIQMNISCNB2EASCW5JGGZZAGFQSCFUECXK6LJBVWOTVDUVCCMBUEJSXQYLFNAIRQGIUAMIBUGTTMFRHKZLSMNSWK6DBMVVACCQHAEDA/index.m3u8"
     },
     {
-      "event_time": "01:00AM",
-      "event_date": "10/07/25",
-      "channel_name": "SD",
-      "event_title": "Danish 1St Division - Hvidovre If Vs Lyngby (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/C42D4LBBFR2WCNRGNMATAR23IBOV6XQQDVZR2JRMGYVSGIRAOIBAG6KHIEJXQSK6K5JCU5L2N5ZHK5L2N5ZHQZLTDMJAOBIJBAAAGZTVPJXXE53FNBYWI6Y/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Bulgarian Vtora Liga - Lokomotiv Gorna Oryahovitsa Vs Fratria [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CEQDYIRTGY6DCK3SDUYTMQ2TCN4FSV2RCB7HKHBKHEVTQPZRHM6WKHS6IBOVKED7IJETEPJ7GM5TAJRRMUSDQZI7INJUORSZKEIBU6LVMFSXQ3TVMNSXQYLFNUBQKBIMAMARAGTZOVRXK2TQMBTQ/index.m3u8"
     },
     {
-      "event_time": "01:00AM",
-      "event_date": "10/07/25",
-      "channel_name": "SD",
-      "event_title": "Sweden Superettan - Sandvikens If Vs Orgryte (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AARDKIJXFJ2QGMBCFY3TYRKGKJNBAHIQMMZDWNBTHMXTAPRWOIBAG6KHIEJXWQSXIJESOMDQN54GIZDQN54GW5TZDMMBGAABAEDAOZDNOBXXQZDGMB6WM7LU/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Bulgarian Vtora Liga - Lokomotiv Gorna Oryahovitsa Vs Fratria [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CEQDYIRTGY6DCK3SDUYTMQ2TCN4FSV2RCB7HKHBKHEVTQPZRHM6WKHS6IBOVKED7IJETEPJ7GM5TAJRRMUSDQZI7INJUORSZKEIBU6LVMFSXQ3TVMNSXQYLFNUBQKBIMAMARAGTZOVRXK2TQMBTQ/index.m3u8"
     },
     {
-      "event_time": "01:30AM",
-      "event_date": "10/07/25",
-      "channel_name": "SD",
-      "event_title": "Romanian Super Liga - Fc Botosani Vs Uta Arad (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AE5D2JB4FU2D4ZIBHY2TYQYSP5OVOUIQDVZRGE3FCAVSCPZWGMSSY6KHIEJWCZDRCBYSCNBUMV4G45LBMV4GCZLKCEMBSFAEAIAACYTFNBSXQ3TVMN2WU73TNI/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Bulgarian Vtora Liga - Lokomotiv Gorna Oryahovitsa Vs Fratria [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CEQDYIRTGY6DCK3SDUYTMQ2TCN4FSV2RCB7HKHBKHEVTQPZRHM6WKHS6IBOVKED7IJETEPJ7GM5TAJRRMUSDQZI7INJUORSZKEIBU6LVMFSXQ3TVMNSXQYLFNUBQKBIMAMARAGTZOVRXK2TQMBTQ/index.m3u8"
     },
     {
-      "event_time": "10:00PM",
-      "event_date": "10/06/25",
-      "channel_name": "VDO",
-      "event_title": "Bein 3 - Milano P1 Premier Padel 2025 - Day 1 (10/06/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CEYDSK3SO52X2ZI7EIUTQX25CNSACEDAII3DQOJAEBSAKMJBG4TWK2YBAADBIHIQORISU5LBMV4G45LDMV4GCZLLAEBAEFA2DIIAEY3FMBYWU7DVPJXXE7LXNMAAIBI/index.m3u8",
-      "duration": null,
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Danish 1St Division - Hvidovre If Vs Lyngby [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/C42D4LBBFR2WCNRGNMATAR23IBOV6XQQDVZR2JRMGYVSGIRAOIBAG6KHIEJXQSK6K5JCU5L2N5ZHK5L2N5ZHQZLTDMJAOBIJBAAAGZTVPJXXE53FNBYWI6Y/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Danish 1St Division - Hvidovre If Vs Lyngby [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/C42D4LBBFR2WCNRGNMATAR23IBOV6XQQDVZR2JRMGYVSGIRAOIBAG6KHIEJXQSK6K5JCU5L2N5ZHK5L2N5ZHQZLTDMJAOBIJBAAAGZTVPJXXE53FNBYWI6Y/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Danish 1St Division - Hvidovre If Vs Lyngby [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/C42D4LBBFR2WCNRGNMATAR23IBOV6XQQDVZR2JRMGYVSGIRAOIBAG6KHIEJXQSK6K5JCU5L2N5ZHK5L2N5ZHQZLTDMJAOBIJBAAAGZTVPJXXE53FNBYWI6Y/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Romanian Super Liga - Fc Botosani Vs Uta Arad [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AE5D2JB4FU2D4ZIBHY2TYQYSP5OVOUIQDVZRGE3FCAVSCPZWGMSSY6KHIEJWCZDRCBYSCNBUMV4G45LBMV4GCZLKCEMBSFAEAIAACYTFNBSXQ3TVMN2WU73TNI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Romanian Super Liga - Fc Botosani Vs Uta Arad [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AE5D2JB4FU2D4ZIBHY2TYQYSP5OVOUIQDVZRGE3FCAVSCPZWGMSSY6KHIEJWCZDRCBYSCNBUMV4G45LBMV4GCZLKCEMBSFAEAIAACYTFNBSXQ3TVMN2WU73TNI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Romanian Super Liga - Fc Botosani Vs Uta Arad [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AE5D2JB4FU2D4ZIBHY2TYQYSP5OVOUIQDVZRGE3FCAVSCPZWGMSSY6KHIEJWCZDRCBYSCNBUMV4G45LBMV4GCZLKCEMBSFAEAIAACYTFNBSXQ3TVMN2WU73TNI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Russian First Leagueleague - Kamaz Naberezhnye Chelny Vs Ural Yekaterinburg [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AEQCGNR3EU5XAAZ3HE3C2EL6KZKVORKVPQ3DINZQG5SHQ4AOCMDAIAYRPRJFMVKCKVFDWOZJEBZAOPJVFE6DEZJPIIJGMRSRLQIGSNR6GEYTONR4HYTSOOJCPENRQEYFCANBUEDAOV5G64TQM5UHEYT7O54RWGATA4AAQBAFNI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Russian First Leagueleague - Kamaz Naberezhnye Chelny Vs Ural Yekaterinburg [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AEQCGNR3EU5XAAZ3HE3C2EL6KZKVORKVPQ3DINZQG5SHQ4AOCMDAIAYRPRJFMVKCKVFDWOZJEBZAOPJVFE6DEZJPIIJGMRSRLQIGSNR6GEYTONR4HYTSOOJCPENRQEYFCANBUEDAOV5G64TQM5UHEYT7O54RWGATA4AAQBAFNI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Russian First Leagueleague - Kamaz Naberezhnye Chelny Vs Ural Yekaterinburg [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AEQCGNR3EU5XAAZ3HE3C2EL6KZKVORKVPQ3DINZQG5SHQ4AOCMDAIAYRPRJFMVKCKVFDWOZJEBZAOPJVFE6DEZJPIIJGMRSRLQIGSNR6GEYTONR4HYTSOOJCPENRQEYFCANBUEDAOV5G64TQM5UHEYT7O54RWGATA4AAQBAFNI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Sweden Superettan - Sandvikens If Vs Orgryte [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AARDKIJXFJ2QGMBCFY3TYRKGKJNBAHIQMMZDWNBTHMXTAPRWOIBAG6KHIEJXWQSXIJESOMDQN54GIZDQN54GW5TZDMMBGAABAEDAOZDNOBXXQZDGMB6WM7LU/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Sweden Superettan - Sandvikens If Vs Orgryte [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AARDKIJXFJ2QGMBCFY3TYRKGKJNBAHIQMMZDWNBTHMXTAPRWOIBAG6KHIEJXWQSXIJESOMDQN54GIZDQN54GW5TZDMMBGAABAEDAOZDNOBXXQZDGMB6WM7LU/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Sweden Superettan - Sandvikens If Vs Orgryte [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AARDKIJXFJ2QGMBCFY3TYRKGKJNBAHIQMMZDWNBTHMXTAPRWOIBAG6KHIEJXWQSXIJESOMDQN54GIZDQN54GW5TZDMMBGAABAEDAOZDNOBXXQZDGMB6WM7LU/index.m3u8"
+    },
+    {
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Bein 3 - Milano P1 Premier Padel 2025 - Day 1 [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CEYDSK3SO52X2ZI7EIUTQX25CNSACEDAII3DQOJAEBSAKMJBG4TWK2YBAADBIHIQORISU5LBMV4G45LDMV4GCZLLAEBAEFA2DIIAEY3FMBYWU7DVPJXXE7LXNMAAIBI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Bein 3 - Milano P1 Premier Padel 2025 - Day 1 [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CEYDSK3SO52X2ZI7EIUTQX25CNSACEDAII3DQOJAEBSAKMJBG4TWK2YBAADBIHIQORISU5LBMV4G45LDMV4GCZLLAEBAEFA2DIIAEY3FMBYWU7DVPJXXE7LXNMAAIBI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Bein 3 - Milano P1 Premier Padel 2025 - Day 1 [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CEYDSK3SO52X2ZI7EIUTQX25CNSACEDAII3DQOJAEBSAKMJBG4TWK2YBAADBIHIQORISU5LBMV4G45LDMV4GCZLLAEBAEFA2DIIAEY3FMBYWU7DVPJXXE7LXNMAAIBI/index.m3u8"
     }
   ],
-  "grouped_events": {
-    "Ultimate Pool 2025 - Group B Pairs Cup Last 16 (10/07/25)": {
-      "event_title": "Ultimate Pool 2025 - Group B Pairs Cup Last 16 (10/07/25)",
-      "event_time": "01:00AM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SKA",
-          "url": "https://world-proxifier.xyz/rbtv/p/EY4SILB7EUQTKZJCEQVDKEIAAMDAKEA5CA2COPZQEJSDO4BVGMRDOKQRKFDEIEC4KFBSO5LBONZG473QORQGW33TCEAAGBABCANBU43HMB2WE4LFMFSXQYLFN4BQAAQCBA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Admiralbet Aba League - Kk Partizan Vs Kk Krka (10/07/25)": {
-      "event_title": "Admiralbet Aba League - Kk Partizan Vs Kk Krka (10/07/25)",
-      "event_time": "12:00AM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CIYT2LBAEU4REIBGNMCBW4ASP5IVCV2FKVZXQ4AODFSAKMJXEYRD6OC7CJCUOED3PMIBQJZ3ERZG473QO5ZGC33ZAIJBSHQQAEEQS23AMZ3XE3T7OB3WK6T4NEDQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Basketbol Super Ligi - Fenerbah\u00e7e Beko Vs Socar Spor (10/07/25)": {
-      "event_title": "Basketbol Super Ligi - Fenerbah\u00e7e Beko Vs Socar Spor (10/07/25)",
-      "event_time": "12:00AM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3T6KLSDAYCSVCACN4FSV2ZCB7HKFRAHQQSOMREHKEOEPAROBLF6XYQIZBXGBR7EYZTM5IDGU6TSZLTDMJACFA2DIIAG437PJSWG7LMNBYGI7TFOMNREAIDAEEQABY/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Cypriot Basketball Division A - Aek Larnaca Vs Keravnos Strovolos (10/07/25)": {
-      "event_title": "Cypriot Basketball Division A - Aek Larnaca Vs Keravnos Strovolos (10/07/25)",
-      "event_time": "12:00AM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CAWCANZ3FMQXABZTHAXDYRKQKJMFYEDULESTYIZMHUVHKELFP5VQIHD2CJ7VKQS6KFJTE5JGGZZA6MBCEQSCKKRKCFQUORS7IZPVYPBGOBXXQZDHOBXXQ23WPENRQEYFBEEQQBLFMNYG66DEM5TXI233PU/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Vtb United League - Mba Moscow Vs Enisey Krasnoyarsk (10/07/25)": {
-      "event_title": "Vtb United League - Mba Moscow Vs Enisey Krasnoyarsk (10/07/25)",
-      "event_time": "12:00AM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AUAREZIHFI6CIIBWNMETYUCVIZIRAHIQPUIRI4AIHU3TMPZSOI6TM6LULRNEOVKJCB5SCNBDFM6T2NBCGY4WW33TCEABGHQ2CABRA6L7OB2GW7LNMVZWM23POMIQABAFBEAAS/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "National Basketball League - Lokomotiv Plovdiv Vs Euroins Cherno More (10/07/25)": {
-      "event_title": "National Basketball League - Lokomotiv Plovdiv Vs Euroins Cherno More (10/07/25)",
-      "event_time": "12:15AM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQPQ3DINZQG5SHQ4AJHUQCUNC6IZNEEEDALRPSKMJZGNZDEJTQAATTSKRQL5ARG52YKVBF4PDVDUVCAILVPJXXE6LFOMNREAAUDINBAALKNRSXEZT4OV5G64TZOJUAQAYH/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Liga Nova Kbm - Triglav Kranj Vs Ilirija (10/07/25)": {
-      "event_title": "Liga Nova Kbm - Triglav Kranj Vs Ilirija (10/07/25)",
-      "event_time": "12:30AM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/D46DOJDSBI5CMJDSAADRIEI7CNQEEWKXLQZCG4AOEASTWOTFEQ4GKEC5LNAV2WSRCANHS5LCMV4G45LDMV4GCZLIBAFQWAIGA4IBU6LVMJZGG7LEMU/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Svenska Basketligan - Sloga Uppsala Vs Umea Bskt (10/07/25)": {
-      "event_title": "Svenska Basketligan - Sloga Uppsala Vs Umea Bskt (10/07/25)",
-      "event_time": "01:00AM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AARTKKZBF42HABZTHAXDYRK6LJJVCXQQDVZQMPBKGUSXKBJVEI4CINKQCJCUOEDFLVKTE5ISCYMRA5L2N5ZHSZLTDMJAAFA2DIIAC2TMNBYGI7DVPJXXE6LSNAEAGBI/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "2.Basketball Bundesliga Proa - Rheinenergie Koln Vs Artland Dragons (10/07/25)": {
-      "event_title": "2.Basketball Bundesliga Proa - Rheinenergie Koln Vs Artland Dragons (10/07/25)",
-      "event_time": "01:30AM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/MF5REJBBF4YCIJZTE4UXS42HLVIFKQ24LE2DI4AVEAVRI4DIOIMS2PCYLR3FUVKCK5MTM5I3FI7CU5JGGZZAUNZNLVJV2UAQORBFCNB2HY3HE3T7OB3XEYLPPEBBEGI6CAAQSCLLMBTHY4TOP5YHOZL2PRVQG/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Bosnia And Herzegovina Premier League - Sarajevo Vs Hsk Zrinjski Mostar (10/07/25)": {
-      "event_title": "Bosnia And Herzegovina Premier League - Sarajevo Vs Hsk Zrinjski Mostar (10/07/25)",
-      "event_time": "12:00AM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CE5CGKZ3EV2TCKZWNMGTYQ2IKZJV6RSZLYZHKABXG4UTYNJXOIDSAOCWI5LBIHIQMNISCNB2EASCW5JGGZZAGFQSCFUECXK6LJBVWOTVDUVCCMBUEJSXQYLFNAIRQGIUAMIBUGTTMFRHKZLSMNSWK6DBMVVACCQHAEDA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Bulgarian Vtora Liga - Lokomotiv Gorna Oryahovitsa Vs Fratria (10/07/25)": {
-      "event_title": "Bulgarian Vtora Liga - Lokomotiv Gorna Oryahovitsa Vs Fratria (10/07/25)",
-      "event_time": "12:00AM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CEQDYIRTGY6DCK3SDUYTMQ2TCN4FSV2RCB7HKHBKHEVTQPZRHM6WKHS6IBOVKED7IJETEPJ7GM5TAJRRMUSDQZI7INJUORSZKEIBU6LVMFSXQ3TVMNSXQYLFNUBQKBIMAMARAGTZOVRXK2TQMBTQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Russian First Leagueleague - Kamaz Naberezhnye Chelny Vs Ural Yekaterinburg (10/07/25)": {
-      "event_title": "Russian First Leagueleague - Kamaz Naberezhnye Chelny Vs Ural Yekaterinburg (10/07/25)",
-      "event_time": "12:30AM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AEQCGNR3EU5XAAZ3HE3C2EL6KZKVORKVPQ3DINZQG5SHQ4AOCMDAIAYRPRJFMVKCKVFDWOZJEBZAOPJVFE6DEZJPIIJGMRSRLQIGSNR6GEYTONR4HYTSOOJCPENRQEYFCANBUEDAOV5G64TQM5UHEYT7O54RWGATA4AAQBAFNI/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Danish 1St Division - Hvidovre If Vs Lyngby (10/07/25)": {
-      "event_title": "Danish 1St Division - Hvidovre If Vs Lyngby (10/07/25)",
-      "event_time": "01:00AM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/C42D4LBBFR2WCNRGNMATAR23IBOV6XQQDVZR2JRMGYVSGIRAOIBAG6KHIEJXQSK6K5JCU5L2N5ZHK5L2N5ZHQZLTDMJAOBIJBAAAGZTVPJXXE53FNBYWI6Y/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Sweden Superettan - Sandvikens If Vs Orgryte (10/07/25)": {
-      "event_title": "Sweden Superettan - Sandvikens If Vs Orgryte (10/07/25)",
-      "event_time": "01:00AM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AARDKIJXFJ2QGMBCFY3TYRKGKJNBAHIQMMZDWNBTHMXTAPRWOIBAG6KHIEJXWQSXIJESOMDQN54GIZDQN54GW5TZDMMBGAABAEDAOZDNOBXXQZDGMB6WM7LU/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Romanian Super Liga - Fc Botosani Vs Uta Arad (10/07/25)": {
-      "event_title": "Romanian Super Liga - Fc Botosani Vs Uta Arad (10/07/25)",
-      "event_time": "01:30AM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AE5D2JB4FU2D4ZIBHY2TYQYSP5OVOUIQDVZRGE3FCAVSCPZWGMSSY6KHIEJWCZDRCBYSCNBUMV4G45LBMV4GCZLKCEMBSFAEAIAACYTFNBSXQ3TVMN2WU73TNI/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Bein 3 - Milano P1 Premier Padel 2025 - Day 1 (10/06/25)": {
-      "event_title": "Bein 3 - Milano P1 Premier Padel 2025 - Day 1 (10/06/25)",
-      "event_time": "10:00PM",
-      "event_date": "10/06/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/CEYDSK3SO52X2ZI7EIUTQX25CNSACEDAII3DQOJAEBSAKMJBG4TWK2YBAADBIHIQORISU5LBMV4G45LDMV4GCZLLAEBAEFA2DIIAEY3FMBYWU7DVPJXXE7LXNMAAIBI/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    }
-  },
+  "events": [],
+  "grouped_events": {},
   "metadata": {}
 }
