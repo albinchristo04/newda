@@ -1,40 +1,13 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-06T11:26:50.800471
+Extraction Time: 2025-10-06T11:49:35.593134
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 13
-- Total Channels: 17
+- Unique Events: 0
+- Total Channels: 0
 - Individual Streams: 0
-- Media Segments: 0
+- Media Segments: 63
 - Other Events: 0
 
-EVENT BREAKDOWN:
-- World Cup, Women - New Zealand Women Vs South Africa Women (...
-  Time: 05:30PM, Channels: 2
-- World Cup, Women - New Zealand Women Vs South Africa Women (...
-  Time: 05:30PM, Channels: 1
-- Kazakhstan Women'S Super League - Yelimay Semey （W） Vs Fk At...
-  Time: 06:00PM, Channels: 1
-- Kazakhstan Women'S Super League - Tobol Kostanay (W) Vs Kais...
-  Time: 07:00PM, Channels: 1
-- Wta Wuhan, China Women Doubles - Maria Sakkari/Donna Vekic V...
-  Time: 06:20PM, Channels: 1
-- Atp Shanghai, China Men Singles - Alexander Zverev Vs Arthur...
-  Time: 06:30PM, Channels: 3
-- Atp Shanghai, China Men Singles - Alexander Zverev Vs Arthur...
-  Time: 06:30PM, Channels: 1
-- Atp Shanghai, China Men Singles - Alexander Zverev Vs Arthur...
-  Time: 06:30PM, Channels: 1
-- Atp Shanghai, China Men Double - Ray Ho / Bu Yunchaokete Vs ...
-  Time: 06:40PM, Channels: 1
-- Wta Wuhan, China Women Singles - Lucia Bronzetti Vs Yuan Yue...
-  Time: 06:40PM, Channels: 1
-- Atp Shanghai, China Men Singles - Learner Tien Vs Cameron No...
-  Time: 07:00PM, Channels: 2
-- Wta 125K Mallorca, Spain Women Singles - Solana Sierra Vs Da...
-  Time: 07:10PM, Channels: 1
-- Wta Wuhan, China Women Singles - Moyuka Uchijima Vs Wang Xin...
-  Time: 07:30PM, Channels: 1
