@@ -1,45 +1,235 @@
 {
-  "timestamp": "2025-10-06T21:27:55.883626",
+  "timestamp": "2025-10-06T21:38:05.467219",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
-  "segments": [
+  "segments": [],
+  "events": [
     {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
-      "group_title": "AMERICAN FOOTBALL",
-      "title": "Usa: Ncaa - Kyle Vs Whittingham Press Conference [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AYDBC73SBILBCBDSMZSRESC6KYKEMQYQM45TYJBRHMVDEOBEH5VRKK2UIFABI427LZLDMJZVFMYSC5L2N5ZHEZLTDMJAKFA2DIIAEY3FMBYWW43VPJXXE6LSNAEAMAA/index.m3u8"
-    },
-    {
-      "type": "segment",
+      "event_time": "01:00AM",
+      "event_date": "10/07/25",
+      "channel_name": "SKA",
+      "event_title": "Ultimate Pool 2025 - Group B Pairs Cup Last 16 (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/EY4SILB7EUQTKZJCEQVDKEIAAMDAKEA5CA2COPZQEJSDO4BVGMRDOKQRKFDEIEC4KFBSO5LBONZG473QORQGW33TCEAAGBABCANBU43HMB2WE4LFMFSXQYLFN4BQAAQCBA/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-      "group_title": "BADMINTON",
-      "title": "Ultimate Pool 2025 - Group B Pairs Cup Last 16 [SKA]",
-      "url": "https://world-proxifier.xyz/rbtv/p/EY4SILB7EUQTKZJCEQVDKEIAAMDAKEA5CA2COPZQEJSDO4BVGMRDOKQRKFDEIEC4KFBSO5LBONZG473QORQGW33TCEAAGBABCANBU43HMB2WE4LFMFSXQYLFN4BQAAQCBA/index.m3u8"
+      "group_title": "BADMINTON"
     },
     {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
-      "group_title": "FIGHTING",
-      "title": "Inside The Ring - Inside The Ring | Episode 5 [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DI5SGLBWEF2QILJXNMLTAX2VCMMRA6K6IM5DCNLFAYWDA4AXHMSSE6KNCJ3EIWKDL5KDM5LFMV4G45LBOFZGC33ZA4JBSHQQAIAAAY3BMJ3HE3T7OB3WK6T4NIBQ/index.m3u8"
+      "event_time": "01:00AM",
+      "event_date": "10/07/25",
+      "channel_name": "SKA",
+      "event_title": "Ultimate Pool 2025 - Group B Pairs Cup Last 16 (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/EY4SILB7EUQTKZJCEQVDKEIAAMDAKEA5CA2COPZQEJSDO4BVGMRDOKQRKFDEIEC4KFBSO5LBONZG473QORQGW33TCEAAGBABCANBU43HMB2WE4LFMFSXQYLFN4BQAAQCBA/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+      "group_title": "BADMINTON"
     },
     {
-      "type": "segment",
+      "event_time": "04:30AM",
+      "event_date": "10/07/25",
+      "channel_name": "HDD A",
+      "event_title": "Colombian Torneo Betplay Dimayor - Atletico Huila Vs Barranquilla Fc (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CA5DYKR7EY6DCK3SD4VCWX2XLQKHEVKEMA7TIKLFCYWTQMJ4HU4WK5ARONDVQVKELFJTY5IYGA5SQNDQGMQWWBZYINAFEWSBIVMVYPZUOABRCZD7PJSWG23POMIQIEY6DIIAIATKMVQHEYDEP55GKYL3PVWQMCQ/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Colombian Torneo Betplay Dimayor - Atletico Huila Vs Barranquilla Fc [HDD A]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CA5DYKR7EY6DCK3SD4VCWX2XLQKHEVKEMA7TIKLFCYWTQMJ4HU4WK5ARONDVQVKELFJTY5IYGA5SQNDQGMQWWBZYINAFEWSBIVMVYPZUOABRCZD7PJSWG23POMIQIEY6DIIAIATKMVQHEYDEP55GKYL3PVWQMCQ/index.m3u8"
+      "group_title": "FOOTBALL"
     },
     {
-      "type": "segment",
+      "event_time": "04:30AM",
+      "event_date": "10/07/25",
+      "channel_name": "SD",
+      "event_title": "Colombian Torneo Betplay Dimayor - Atletico Huila Vs Barranquilla Fc (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CA5DYKR7EY6DCK3SD4VCWX2XLQKHEVKEMA7TIKLFCYWTQMJ4HU4WK5ARONDVQVKELFJTY5IYGA5SQNDQGMQWWBZYINAFEWSBIVMVYPZUOABRCZD7PJSWG23POMIQCEY6DIIAIATKMVQHEYDEP55GKYL3PVWQMBA/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL",
-      "title": "Colombian Torneo Betplay Dimayor - Atletico Huila Vs Barranquilla Fc [SD]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CA5DYKR7EY6DCK3SD4VCWX2XLQKHEVKEMA7TIKLFCYWTQMJ4HU4WK5ARONDVQVKELFJTY5IYGA5SQNDQGMQWWBZYINAFEWSBIVMVYPZUOABRCZD7PJSWG23POMIQCEY6DIIAIATKMVQHEYDEP55GKYL3PVWQMBA/index.m3u8"
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "04:30AM",
+      "event_date": "10/07/25",
+      "channel_name": "HDD A",
+      "event_title": "Colombian Torneo Betplay Dimayor - Atletico Huila Vs Barranquilla Fc (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CA5DYKR7EY6DCK3SD4VCWX2XLQKHEVKEMA7TIKLFCYWTQMJ4HU4WK5ARONDVQVKELFJTY5IYGA5SQNDQGMQWWBZYINAFEWSBIVMVYPZUOABRCZD7PJSWG23POMIQIEY6DIIAIATKMVQHEYDEP55GKYL3PVWQMCQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "04:30AM",
+      "event_date": "10/07/25",
+      "channel_name": "SD",
+      "event_title": "Colombian Torneo Betplay Dimayor - Atletico Huila Vs Barranquilla Fc (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CA5DYKR7EY6DCK3SD4VCWX2XLQKHEVKEMA7TIKLFCYWTQMJ4HU4WK5ARONDVQVKELFJTY5IYGA5SQNDQGMQWWBZYINAFEWSBIVMVYPZUOABRCZD7PJSWG23POMIQCEY6DIIAIATKMVQHEYDEP55GKYL3PVWQMBA/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "05:30AM",
+      "event_date": "10/07/25",
+      "channel_name": "SD",
+      "event_title": "Bolivian Copa Lfpb - Real Oruro Vs Academiadb (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CE5DYLBEFU2D4ZIREQ2TQEL6OVSHEEA5CAATAMJJOIFSOJJXHVVTGKQRONIFKVCVLVMTEEISMV4G45LBMV4GCZLKCEMBSFAEAIEQG2TCMVSXQ3TVMN2WU735NE/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "05:30AM",
+      "event_date": "10/07/25",
+      "channel_name": "SD",
+      "event_title": "Bolivian Copa Lfpb - Real Oruro Vs Academiadb (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CE5DYLBEFU2D4ZIREQ2TQEL6OVSHEEA5CAATAMJJOIFSOJJXHVVTGKQRONIFKVCVLVMTEEISMV4G45LBMV4GCZLKCEMBSFAEAIEQG2TCMVSXQ3TVMN2WU735NE/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "05:30AM",
+      "event_date": "10/07/25",
+      "channel_name": "HDD A",
+      "event_title": "Paraguayan Primera Division - General Caballero Vs Fc Nacional Asuncion (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AM2CEJBVGE2CSJB4NMKSWWC7KZDFCEDULESTYIZMHUVHK7LFCUXCWPCDKNPRI42RKJIT6OJVG46WIIZDMUKAQZIXKBIVUW26KFOBAERGEUVTCLJ2HZSXQYLFNAIRQGIUAYIBUGTTMFRHCYTUMFQWK6DBMVVACCQHBQBA/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "05:30AM",
+      "event_date": "10/07/25",
+      "channel_name": "SD",
+      "event_title": "Paraguayan Primera Division - General Caballero Vs Fc Nacional Asuncion (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AM2CEJBVGE2CSJB4NMKSWWC7KZDFCEDULESTYIZMHUVHK7LFCUXCWPCDKNPRI42RKJIT6OJVG46WIIZDMUKAQZIXKBIVUW26KFOBAERGEUVTCLJ2HZSXQYLFNAIRQGIUAMIBUGTTMFRHCYTUMFQWK6DBMVVACCQHAMEQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "05:30AM",
+      "event_date": "10/07/25",
+      "channel_name": "HDD A",
+      "event_title": "Paraguayan Primera Division - General Caballero Vs Fc Nacional Asuncion (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AM2CEJBVGE2CSJB4NMKSWWC7KZDFCEDULESTYIZMHUVHK7LFCUXCWPCDKNPRI42RKJIT6OJVG46WIIZDMUKAQZIXKBIVUW26KFOBAERGEUVTCLJ2HZSXQYLFNAIRQGIUAYIBUGTTMFRHCYTUMFQWK6DBMVVACCQHBQBA/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "05:30AM",
+      "event_date": "10/07/25",
+      "channel_name": "SD",
+      "event_title": "Paraguayan Primera Division - General Caballero Vs Fc Nacional Asuncion (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AM2CEJBVGE2CSJB4NMKSWWC7KZDFCEDULESTYIZMHUVHK7LFCUXCWPCDKNPRI42RKJIT6OJVG46WIIZDMUKAQZIXKBIVUW26KFOBAERGEUVTCLJ2HZSXQYLFNAIRQGIUAMIBUGTTMFRHCYTUMFQWK6DBMVVACCQHAMEQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
     }
   ],
-  "events": [],
-  "grouped_events": {},
+  "grouped_events": {
+    "Ultimate Pool 2025 - Group B Pairs Cup Last 16 (10/07/25)": {
+      "event_title": "Ultimate Pool 2025 - Group B Pairs Cup Last 16 (10/07/25)",
+      "event_time": "01:00AM",
+      "event_date": "10/07/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SKA",
+          "url": "https://world-proxifier.xyz/rbtv/p/EY4SILB7EUQTKZJCEQVDKEIAAMDAKEA5CA2COPZQEJSDO4BVGMRDOKQRKFDEIEC4KFBSO5LBONZG473QORQGW33TCEAAGBABCANBU43HMB2WE4LFMFSXQYLFN4BQAAQCBA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SKA",
+          "url": "https://world-proxifier.xyz/rbtv/p/EY4SILB7EUQTKZJCEQVDKEIAAMDAKEA5CA2COPZQEJSDO4BVGMRDOKQRKFDEIEC4KFBSO5LBONZG473QORQGW33TCEAAGBABCANBU43HMB2WE4LFMFSXQYLFN4BQAAQCBA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Colombian Torneo Betplay Dimayor - Atletico Huila Vs Barranquilla Fc (10/07/25)": {
+      "event_title": "Colombian Torneo Betplay Dimayor - Atletico Huila Vs Barranquilla Fc (10/07/25)",
+      "event_time": "04:30AM",
+      "event_date": "10/07/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/CA5DYKR7EY6DCK3SD4VCWX2XLQKHEVKEMA7TIKLFCYWTQMJ4HU4WK5ARONDVQVKELFJTY5IYGA5SQNDQGMQWWBZYINAFEWSBIVMVYPZUOABRCZD7PJSWG23POMIQIEY6DIIAIATKMVQHEYDEP55GKYL3PVWQMCQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CA5DYKR7EY6DCK3SD4VCWX2XLQKHEVKEMA7TIKLFCYWTQMJ4HU4WK5ARONDVQVKELFJTY5IYGA5SQNDQGMQWWBZYINAFEWSBIVMVYPZUOABRCZD7PJSWG23POMIQCEY6DIIAIATKMVQHEYDEP55GKYL3PVWQMBA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/CA5DYKR7EY6DCK3SD4VCWX2XLQKHEVKEMA7TIKLFCYWTQMJ4HU4WK5ARONDVQVKELFJTY5IYGA5SQNDQGMQWWBZYINAFEWSBIVMVYPZUOABRCZD7PJSWG23POMIQIEY6DIIAIATKMVQHEYDEP55GKYL3PVWQMCQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CA5DYKR7EY6DCK3SD4VCWX2XLQKHEVKEMA7TIKLFCYWTQMJ4HU4WK5ARONDVQVKELFJTY5IYGA5SQNDQGMQWWBZYINAFEWSBIVMVYPZUOABRCZD7PJSWG23POMIQCEY6DIIAIATKMVQHEYDEP55GKYL3PVWQMBA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Bolivian Copa Lfpb - Real Oruro Vs Academiadb (10/07/25)": {
+      "event_title": "Bolivian Copa Lfpb - Real Oruro Vs Academiadb (10/07/25)",
+      "event_time": "05:30AM",
+      "event_date": "10/07/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CE5DYLBEFU2D4ZIREQ2TQEL6OVSHEEA5CAATAMJJOIFSOJJXHVVTGKQRONIFKVCVLVMTEEISMV4G45LBMV4GCZLKCEMBSFAEAIEQG2TCMVSXQ3TVMN2WU735NE/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CE5DYLBEFU2D4ZIREQ2TQEL6OVSHEEA5CAATAMJJOIFSOJJXHVVTGKQRONIFKVCVLVMTEEISMV4G45LBMV4GCZLKCEMBSFAEAIEQG2TCMVSXQ3TVMN2WU735NE/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Paraguayan Primera Division - General Caballero Vs Fc Nacional Asuncion (10/07/25)": {
+      "event_title": "Paraguayan Primera Division - General Caballero Vs Fc Nacional Asuncion (10/07/25)",
+      "event_time": "05:30AM",
+      "event_date": "10/07/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AM2CEJBVGE2CSJB4NMKSWWC7KZDFCEDULESTYIZMHUVHK7LFCUXCWPCDKNPRI42RKJIT6OJVG46WIIZDMUKAQZIXKBIVUW26KFOBAERGEUVTCLJ2HZSXQYLFNAIRQGIUAYIBUGTTMFRHCYTUMFQWK6DBMVVACCQHBQBA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/AM2CEJBVGE2CSJB4NMKSWWC7KZDFCEDULESTYIZMHUVHK7LFCUXCWPCDKNPRI42RKJIT6OJVG46WIIZDMUKAQZIXKBIVUW26KFOBAERGEUVTCLJ2HZSXQYLFNAIRQGIUAMIBUGTTMFRHCYTUMFQWK6DBMVVACCQHAMEQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AM2CEJBVGE2CSJB4NMKSWWC7KZDFCEDULESTYIZMHUVHK7LFCUXCWPCDKNPRI42RKJIT6OJVG46WIIZDMUKAQZIXKBIVUW26KFOBAERGEUVTCLJ2HZSXQYLFNAIRQGIUAYIBUGTTMFRHCYTUMFQWK6DBMVVACCQHBQBA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/AM2CEJBVGE2CSJB4NMKSWWC7KZDFCEDULESTYIZMHUVHK7LFCUXCWPCDKNPRI42RKJIT6OJVG46WIIZDMUKAQZIXKBIVUW26KFOBAERGEUVTCLJ2HZSXQYLFNAIRQGIUAMIBUGTTMFRHCYTUMFQWK6DBMVVACCQHAMEQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    }
+  },
   "metadata": {}
 }

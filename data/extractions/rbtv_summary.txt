@@ -1,13 +1,22 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-06T21:27:55.883626
+Extraction Time: 2025-10-06T21:38:05.467219
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 0
-- Total Channels: 0
+- Unique Events: 4
+- Total Channels: 12
 - Individual Streams: 0
-- Media Segments: 5
+- Media Segments: 0
 - Other Events: 0
 
+EVENT BREAKDOWN:
+- Ultimate Pool 2025 - Group B Pairs Cup Last 16 (10/07/25)
+  Time: 01:00AM, Channels: 2
+- Colombian Torneo Betplay Dimayor - Atletico Huila Vs Barranq...
+  Time: 04:30AM, Channels: 4
+- Bolivian Copa Lfpb - Real Oruro Vs Academiadb (10/07/25)
+  Time: 05:30AM, Channels: 2
+- Paraguayan Primera Division - General Caballero Vs Fc Nacion...
+  Time: 05:30AM, Channels: 4
