@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-06T19:12:31.738018",
+  "timestamp": "2025-10-06T19:25:40.367984",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [
@@ -19,6 +19,20 @@
     },
     {
       "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
+      "group_title": "AMERICAN FOOTBALL",
+      "title": "Usa: Ncaa - Coordinator'S Vs Corner [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYDBC73SBILBCBDSMZSRUXS5IFIFSXSRIQ6CO5ZWOIZCM4AGHU4SWPCDCIMR4EAJCANHS5LGMV4G45LCOVRHW4LAA4JBSHQQAIDQC2TGMA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+      "group_title": "BADMINTON",
+      "title": "Ultimate Pool 2025 - Group B Pairs Cup Last 16 [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/EY4SILB7EUQTKZJCEQVDKEIAAMDAKEA5CA2COPZQEJSDO4BVGMRDOKQRKFDEIEC4KFBSO5LBONZG473QORQGW33TCEAAGBABCANBU43HMB2WE4LFMFSXQYLFN4BQAAQCBA/index.m3u8"
+    },
+    {
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
       "group_title": "BADMINTON",
       "title": "Ultimate Pool 2025 - Group B Pairs Cup Last 16 [SKA]",
@@ -35,15 +49,15 @@
       "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
       "group_title": "BASKETBALL",
-      "title": "2.Basketball Bundesliga Proa - Rheinenergie Koln Vs Artland Dragons [SD]",
-      "url": "https://world-proxifier.xyz/rbtv/p/MF5REJBBF4YCIJZTE4UXS42HLVIFKQ24LE2DI4AVEAVRI4DIOIMS2PCYLR3FUVKCK5MTM5I3FI7CU5JGGZZAUNZNLVJV2UAQORBFCNB2HY3HE3T7OB3XEYLPPEBBEGI6CAAQSCLLMBTHY4TOP5YHOZL2PRVQG/index.m3u8"
+      "title": "Admiralbet Aba League - Crvena Zvezda Red Star Vs Kk Zadar [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIYT2LBAEU4REIBGNMCBW4ASP5IVCV2FKVZXQ4AGEAZDAPREOIITGPCLKZJBIYSVKQIAAIJRG5ZDEJTQBYMWWHZYKVJUCFA2DIIAE437PJSWCZD7PJSWG4T4MECAKAAUDINBAATEMRUXOZY/index.m3u8"
     },
     {
       "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
       "group_title": "BASKETBALL",
-      "title": "2.Basketball Bundesliga Proa - Rheinenergie Koln Vs Artland Dragons [SD]",
-      "url": "https://world-proxifier.xyz/rbtv/p/MF5REJBBF4YCIJZTE4UXS42HLVIFKQ24LE2DI4AVEAVRI4DIOIMS2PCYLR3FUVKCK5MTM5I3FI7CU5JGGZZAUNZNLVJV2UAQORBFCNB2HY3HE3T7OB3XEYLPPEBBEGI6CAAQSCLLMBTHY4TOP5YHOZL2PRVQG/index.m3u8"
+      "title": "Admiralbet Aba League - Crvena Zvezda Red Star Vs Kk Zadar [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIYT2LBAEU4REIBGNMCBW4ASP5IVCV2FKVZXQ4AGEAZDAPREOIITGPCLKZJBIYSVKQIAAIJRG5ZDEJTQBYMWWHZYKVJUCFA2DIIAE437PJSWCZD7PJSWG4T4MECAKAAUDINBAATEMRUXOZY/index.m3u8"
     },
     {
       "type": "segment",
@@ -56,8 +70,15 @@
       "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
       "group_title": "BASKETBALL",
-      "title": "Admiralbet Aba League - Crvena Zvezda Red Star Vs Kk Zadar [SD]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIYT2LBAEU4REIBGNMCBW4ASP5IVCV2FKVZXQ4AGEAZDAPREOIITGPCLKZJBIYSVKQIAAIJRG5ZDEJTQBYMWWHZYKVJUCFA2DIIAE437PJSWCZD7PJSWG4T4MECAKAAUDINBAATEMRUXOZY/index.m3u8"
+      "title": "Lega Basket Serie A - Virtus Pallacanestro Bologna Vs Napoli Basket [HDD A \u0395\u039b\u039b\u0397\u039d\u0399\u039a\u0386]",
+      "url": "https://world-proxifier.xyz/rbtv/p/D4YDOJDSAY2CGLRXH5SQUVCALJIRA4IQDVZQGOJXEYYSM4AVGMTSSOCSKNOVCQ2EIJPXGFZ7FE6SGOZRMUSDQZIXKBBFYWCZCBZFCIB6GUYXE3T7OB3XEYLPPEDREGI6CAAQSCLLMBTXO4TOP5YHOZL2PRVQS/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Lega Basket Serie A - Virtus Pallacanestro Bologna Vs Napoli Basket [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/D4YDOJDSAY2CGLRXH5SQUVCALJIRA4IQDVZQGOJXEYYSM4AVGMTSSOCSKNOVCQ2EIJPXGFZ7FE6SGOZRMUSDQZIXKBBFYWCZCBZFCIB6GUYXE3T7OB3XEYLPPEBBEGI6CAAQSCLLMBTXO4TOP5YHOZL2PRVQO/index.m3u8"
     },
     {
       "type": "segment",
@@ -117,6 +138,48 @@
     },
     {
       "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Ligue Nationale De Basket Pro A - Le Mans Sarthe Vs Paris Basketball [HDD A FRAN\u00c7AIS]",
+      "url": "https://world-proxifier.xyz/rbtv/p/D46DOMBXMQNTCMJ3EQVTQXKXCNIFKEDSKEQD4NJROIKCOP3FCNVWQ6L5K4JXSUK6IMIAANBCGE5CC5JGGZZBWJBLLBARG5SRINNVKJZXGEUT4ZD7PJSWA23POMIQIEY6DIIACCLKNVSXEY3EP55GKYD4ORQAEAY/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Ligue Nationale De Basket Pro A - Le Mans Sarthe Vs Paris Basketball [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/D46DOMBXMQNTCMJ3EQVTQXKXCNIFKEDSKEQD4NJROIKCOP3FCNVWQ6L5K4JXSUK6IMIAANBCGE5CC5JGGZZBWJBLLBARG5SRINNVKJZXGEUT4ZD7PJSWA23POMIQCEY6DIIACCLKNVSXEY3EP55GKYD4ORQAGBI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Urvalsdeild Karla - Valur Reykjavik Vs U.M.F. Tindastoll [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYTSMJB6G4YTKLB6F5STEUCAL5KRAHIQMYZDSJJXOILDAKJOHAVDGMC2CJCUOEDFDZ6X2E36MUDC2OZUEQQT6KRVLUJBSHQQAIIBU6LVMNSXQ3TVMF6GW4TVN4CBEGI6CABAOALKMFRA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Urvalsdeild Karla - Valur Reykjavik Vs U.M.F. Tindastoll [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYTSMJB6G4YTKLB6F5STEUCAL5KRAHIQMYZDSJJXOILDAKJOHAVDGMC2CJCUOEDFDZ6X2E36MUDC2OZUEQQT6KRVLUJBSHQQAIIBU6LVMNSXQ3TVMF6GW4TVN4CBEGI6CABAOALKMFRA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Urvalsdeild Karla - Valur Reykjavik Vs U.M.F. Tindastoll [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYTSMJB6G4YTKLB6F5STEUCAL5KRAHIQMYZDSJJXOILDAKJOHAVDGMC2CJCUOEDFDZ6X2E36MUDC2OZUEQQT6KRVLUJBSHQQAIIBU6LVMNSXQ3TVMF6GW4TVN4CBEGI6CABAOALKMFRA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
+      "group_title": "FIGHTING",
+      "title": "Inside The Ring - Inside The Ring | Episode 5 [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DI5SGLBWEF2QILJXNMLTAX2VCMMRA6K6IM5DCNLFAYWDA4AXHMSSE6KNCJ3EIWKDL5KDM5LFMV4G45LBOFZGC33ZA4JBSHQQAIAAAY3BMJ3HE3T7OB3WK6T4NIBQ/index.m3u8"
+    },
+    {
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
       "group_title": "FIGHTING",
       "title": "Inside The Ring - Inside The Ring | Episode 5 [HDD A]",
@@ -142,6 +205,27 @@
       "group_title": "FOOTBALL",
       "title": "Conmebol Copa Libertadores Femenino - Deportivo Cali Women Vs Nacional Montevideo Women [SD]",
       "url": "https://world-proxifier.xyz/rbtv/p/CANB4CAXAYNBYZIREQ2TQEL6LJLFKQSEKE3TUIRAEFSBGNJIG4SSYN26CIPBI5CVIBPSCIJZGM6WIFRRFE5WWERWLRLV2FCGIMIH4MRWHEVDYJJZOAED2JJRHRDVWV2RL4IGOXZ6GA7GK6DOOVQWK6DBMVVBCGAZCQCAECIDMRSGAZLYNZ2WG5LKP5ZGW/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Libertadores Femenino - Deportivo Cali Women Vs Nacional Montevideo Women [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CANB4CAXAYNBYZIREQ2TQEL6LJLFKQSEKE3TUIRAEFSBGNJIG4SSYN26CIPBI5CVIBPSCIJZGM6WIFRRFE5WWERWLRLV2FCGIMIH4MRWHEVDYJJZOAED2JJRHRDVWV2RL4IGOXZ6GA7GK6DOOVQWK6DBMVVBCGAZCQCAECIDMRSGAZLYNZ2WG5LKP5ZGW/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Libertadores Femenino - San Lorenzo Women Vs Club Olimpia Women [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CANB4CAXAYNBYZIREQ2TQEL6LJLFKQSEKE3TUIRAEFSBGNJIG4SSYN26CIPBIY2RLYIB6ORCEA6D4OTQCI6SMIBXCFCEAFDTLRCVE4Y2HQWD6NB4GFSQKJBIHRPREGI6CAARAGTZOVTGK6DOOVSHO23YO5XAOEQZDYIAGAAIM5RGK/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Libertadores Femenino - San Lorenzo Women Vs Club Olimpia Women [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CANB4CAXAYNBYZIREQ2TQEL6LJLFKQSEKE3TUIRAEFSBGNJIG4SSYN26CIPBIY2RLYIB6ORCEA6D4OTQCI6SMIBXCFCEAFDTLRCVE4Y2HQWD6NB4GFSQKJBIHRPREGI6CAARAGTZOVRWK6DOOVSHO23YO5XAOEQZDYIAGAAIM5RGG/index.m3u8"
     },
     {
       "type": "segment",
@@ -217,6 +301,27 @@
       "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL",
+      "title": "English Football League Two - Harrogate Town Vs Crewe Alexandra [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CY5TOKJ3G46XAAZ5EQYTWUC6L4KHYVKRK4TDA4AREUVXK7LFDIVDOK26KVJEAVIQMRPSIO3QGMQWIFRCEASS4ZIYLVLUWVK6KRBFC437PJSWGZD7PJSWA63VNAIRQGIUAQBAAA3CM5RGK6DOOVTHOYD2O5UQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "English Football League Two - Harrogate Town Vs Crewe Alexandra [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CY5TOKJ3G46XAAZ5EQYTWUC6L4KHYVKRK4TDA4AREUVXK7LFDIVDOK26KVJEAVIQMRPSIO3QGMQWIFRCEASS4ZIYLVLUWVK6KRBFC437PJSWGZD7PJSWI23POMIQMAIEAMAQEATTP55GKYLUNVSHEZQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "English Football League Two - Harrogate Town Vs Crewe Alexandra [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CY5TOKJ3G46XAAZ5EQYTWUC6L4KHYVKRK4TDA4AREUVXK7LFDIVDOK26KVJEAVIQMRPSIO3QGMQWIFRCEASS4ZIYLVLUWVK6KRBFC437PJSWGZD7PJSWC23POMIQMAIEAMAQEATTP55GKYLUNVSHEYY/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
       "title": "Netherlands Eerste Divisie - Vitesse Arnhem Vs Den Bosch [HDD A DUTCH]",
       "url": "https://world-proxifier.xyz/rbtv/p/DUYCILJXGY4TCKZWHBSRYVCAIBAFKEDULESTYIZMG5SHQ4ATHM7SAKSCK4JXKQS6LBKT45JGGZZAAMB6MUICINR2LEJBSHQQAEIBU6LVMZSXQ3TVMR3WU6TWNMEBEGI6CABQACDHMNTA/index.m3u8"
     },
@@ -240,6 +345,27 @@
       "group_title": "FOOTBALL",
       "title": "Netherlands Eerste Divisie - Vitesse Arnhem Vs Den Bosch [SD]",
       "url": "https://world-proxifier.xyz/rbtv/p/DUYCILJXGY4TCKZWHBSRYVCAIBAFKEDULESTYIZMG5SHQ4ATHM7SAKSCK4JXKQS6LBKT45JGGZZAAMB6MUICINR2LEJBSHQQAEIBU6LVMNSXQ3TVMR3WU6TWNMEBEGI6CABQACDHMNSQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Netherlands Eerste Divisie - Vitesse Arnhem Vs Den Bosch [HDD A DUTCH]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DUYCILJXGY4TCKZWHBSRYVCAIBAFKEDULESTYIZMG5SHQ4ATHM7SAKSCK4JXKQS6LBKT45JGGZZAAMB6MUICINR2LEJBSHQQAEIBU6LVMZSXQ3TVMR3WU6TWNMEBEGI6CABQACDHMNTA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Netherlands Eerste Divisie - Vitesse Arnhem Vs Den Bosch [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DUYCILJXGY4TCKZWHBSRYVCAIBAFKEDULESTYIZMG5SHQ4ATHM7SAKSCK4JXKQS6LBKT45JGGZZAAMB6MUICINR2LEJBSHQQAEIBU6LVMNSXQ3TVMR3WU6TWNMEBEGI6CABQACDHMNSQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Romanian Super Liga - Fc Botosani Vs Uta Arad [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AE5D2JB4FU2D4ZIBHY2TYQYSP5OVOUIQDVZRGE3FCAVSCPZWGMSSY6KHIEJWCZDRCBYSCNBUMV4G45LBMV4GCZLKCEMBSFAEAIAACYTFNBSXQ3TVMN2WU73TNI/index.m3u8"
     },
     {
       "type": "segment",
@@ -299,6 +425,34 @@
     },
     {
       "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Spanish Segunda Division - Cultural Leonesa Vs Albacete Balompi\u00e9 Sad [MOVISTAR]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AASTCKZ3G46XAFRXFQYDOVKTCNYFSRSZIM5DUPTFP5SBMJJJEY7DOOC5CJ7VCX26KVBTE5JGGZZAKOJSEQYS4MJ4CFYFEWC7LVAFTEH4OALBGADVPJXXE6TFOMNREAIEAAARAGTZOVSHOY3WMJTXC4TBN54QOAABAQAAE/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Spanish Segunda Division - Cultural Leonesa Vs Albacete Balompi\u00e9 Sad [HDD A ITALIANO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AASTCKZ3G46XAFRXFQYDOVKTCNYFSRSZIM5DUPTFP5SBMJJJEY7DOOC5CJ7VCX26KVBTE5JGGZZAKOJSEQYS4MJ4CFYFEWC7LVAFTEH4OALBGADVPJXXE6TFOMNREBIUDINBABDBMRRHEZLQOV5G64TYOVQQKBID/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Spanish Segunda Division - Cultural Leonesa Vs Albacete Balompi\u00e9 Sad [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AASTCKZ3G46XAFRXFQYDOVKTCNYFSRSZIM5DUPTFP5SBMJJJEY7DOOC5CJ7VCX26KVBTE5JGGZZAKOJSEQYS4MJ4CFYFEWC7LVAFTEH4OALBGADVPJXXE6TFOMNREAAUDINBABDBMRRHEZLQOV5G64TYOVQQKBAE/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT",
+      "title": "Motogp - British Speedway [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DY5CIKQVCR2X2ZIQHEWC2WCBLMKGGQCVKU3SEMJ4OJXH64DSOJQW66IHCIMR4EACAAAGGYLCORZG473QO5SXU7DKBE/index.m3u8"
+    },
+    {
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
       "group_title": "MOTORSPORT",
       "title": "Motogp - British Speedway [HDD A]",
@@ -327,6 +481,13 @@
     },
     {
       "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Challenger Atp Challenger Roanne, France, Men Singles - Filip Misolic Vs Henry Bernet [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CA6TCKJ6EE5TOIBANMCA2YISOBOFCXC4KU6TENJXOILDUMJLHQXGS6LXIBJFUU2VDQIB4MB6MUAS2OZXFE3TQZLUCF2FUWCZIAIH2ORGH4UTWJ3VEY3HEAZAG5BUWE3WKVBF4VJHOV5G64TXOV5G64T5MVZRWEQCBUEQSBIDNJ2XU33SOZRGC7DBP4/index.m3u8"
+    },
+    {
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
       "group_title": "VOLLEYBALL",
       "title": "Serie A1 Women - Pinerolo Women Vs Scandicci Women [HDD A ITALIANO]",
@@ -338,6 +499,20 @@
       "group_title": "VOLLEYBALL",
       "title": "Serie A1 Women - Pinerolo Women Vs Scandicci Women [HDD A ITALIANO]",
       "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGCZIFEQUDYXYSDYKGAWK6KUQTUPBKOIJTUPJAHRVTGKQRMFIFKXSULFJTAPDQCI6SSMB6MV4GCZLIAIJBSHQQAYIBU6LVMF6GW7DDMN2HEYLPPEBQKAQNAMEQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
+      "group_title": "VOLLEYBALL",
+      "title": "Serie A1 Women - Pinerolo Women Vs Scandicci Women [HDD A ITALIANO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGCZIFEQUDYXYSDYKGAWK6KUQTUPBKOIJTUPJAHRVTGKQRMFIFKXSULFJTAPDQCI6SSMB6MV4GCZLIAIJBSHQQAYIBU6LVMF6GW7DDMN2HEYLPPEBQKAQNAMEQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
+      "group_title": "VOLLEYBALL",
+      "title": "Serie A1 Women - Vero Milano W Vs Bergamo 1991 W [HDD A ITALIANO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGCZIFEQUDYXYSDYKGMVKCL5ZRQOJJGMVDU4ASOI6TM6LTK5AVGUK5L4IGE3DJORZBG5L2N5ZHU5TZDMMBGAQQDINBAYLFMB2WO5DFOBXXQ23XNYAAWAAD/index.m3u8"
     },
     {
       "type": "segment",
