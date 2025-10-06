@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-06T18:23:15.344623",
+  "timestamp": "2025-10-06T18:47:10.603463",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -105,16 +105,6 @@
       "group_title": "FIGHTING"
     },
     {
-      "event_time": "12:30AM",
-      "event_date": "10/07/25",
-      "channel_name": "SD",
-      "event_title": "Russian First Leagueleague - Kamaz Naberezhnye Chelny Vs Ural Yekaterinburg (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AEQCGNR3EU5XAAZ3HE3C2EL6KZKVORKVPQ3DINZQG5SHQ4AOCMDAIAYRPRJFMVKCKVFDWOZJEBZAOPJVFE6DEZJPIIJGMRSRLQIGSNR6GEYTONR4HYTSOOJCPENRQEYFCANBUEDAOV5G64TQM5UHEYT7O54RWGATA4AAQBAFNI/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
       "event_time": "01:00AM",
       "event_date": "10/07/25",
       "channel_name": "SD",
@@ -165,6 +155,46 @@
       "group_title": "FOOTBALL"
     },
     {
+      "event_time": "02:30AM",
+      "event_date": "10/07/25",
+      "channel_name": "MOVISTAR",
+      "event_title": "Spanish Segunda Division - Cultural Leonesa Vs Albacete Balompi\u00e9 Sad (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AASTCKZ3G46XAFRXFQYDOVKTCNYFSRSZIM5DUPTFP5SBMJJJEY7DOOC5CJ7VCX26KVBTE5JGGZZAKOJSEQYS4MJ4CFYFEWC7LVAFTEH4OALBGADVPJXXE6TFOMNREAIEAAARAGTZOVSHOY3WMJTXC4TBN54QOAABAQAAE/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "02:30AM",
+      "event_date": "10/07/25",
+      "channel_name": "HDD A ITALIANO",
+      "event_title": "Spanish Segunda Division - Cultural Leonesa Vs Albacete Balompi\u00e9 Sad (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AASTCKZ3G46XAFRXFQYDOVKTCNYFSRSZIM5DUPTFP5SBMJJJEY7DOOC5CJ7VCX26KVBTE5JGGZZAKOJSEQYS4MJ4CFYFEWC7LVAFTEH4OALBGADVPJXXE6TFOMNREBIUDINBABDBMRRHEZLQOV5G64TYOVQQKBID/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "02:30AM",
+      "event_date": "10/07/25",
+      "channel_name": "SD",
+      "event_title": "Spanish Segunda Division - Cultural Leonesa Vs Albacete Balompi\u00e9 Sad (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AASTCKZ3G46XAFRXFQYDOVKTCNYFSRSZIM5DUPTFP5SBMJJJEY7DOOC5CJ7VCX26KVBTE5JGGZZAKOJSEQYS4MJ4CFYFEWC7LVAFTEH4OALBGADVPJXXE6TFOMNREAAUDINBABDBMRRHEZLQOV5G64TYOVQQKBAE/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "02:35AM",
+      "event_date": "10/07/25",
+      "channel_name": "HDD A",
+      "event_title": "Motogp - British Speedway (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DY5CIKQVCR2X2ZIQHEWC2WCBLMKGGQCVKU3SEMJ4OJXH64DSOJQW66IHCIMR4EACAAAGGYLCORZG473QO5SXU7DKBE/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT"
+    },
+    {
       "event_time": "02:15AM",
       "event_date": "10/07/25",
       "channel_name": "HDD A",
@@ -175,21 +205,21 @@
       "group_title": "TENNIS"
     },
     {
-      "event_time": "10:00PM",
-      "event_date": "10/06/25",
-      "channel_name": "VDO",
-      "event_title": "Bein 3 - Milano P1 Premier Padel 2025 - Day 1 (10/06/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CEYDSK3SO52X2ZI7EIUTQX25CNSACEDAII3DQOJAEBSAKMJBG4TWK2YBAADBIHIQORISU5LBMV4G45LDMV4GCZLLAEBAEFA2DIIAEY3FMBYWU7DVPJXXE7LXNMAAWBI/index.m3u8",
+      "event_time": "02:30AM",
+      "event_date": "10/07/25",
+      "channel_name": "HDD A ITALIANO",
+      "event_title": "Serie A1 Women - Pinerolo Women Vs Scandicci Women (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGCZIFEQUDYXYSDYKGAWK6KUQTUPBKOIJTUPJAHRVTGKQRMFIFKXSULFJTAPDQCI6SSMB6MV4GCZLIAIJBSHQQAYIBU6LVMF6GW7DDMN2HEYLPPEBQKAQNAMEQ/index.m3u8",
       "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
+      "group_title": "VOLLEYBALL"
     },
     {
       "event_time": "02:30AM",
       "event_date": "10/07/25",
-      "channel_name": "HDD B ITALIANO",
+      "channel_name": "HDD A ITALIANO",
       "event_title": "Serie A1 Women - Vero Milano W Vs Bergamo 1991 W (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGCZIFEQUDYXYSDYKGMVKCL5ZRQOJJGMVDU4ASOI6TM6LTK5AVGUK5L4IGE3DJORZBG5L2N5ZHU5TZDMMBGAQQDINBAYLFMB2WO5DFOBXXQ23XNYAAWAAB/index.m3u8",
+      "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGCZIFEQUDYXYSDYKGMVKCL5ZRQOJJGMVDU4ASOI6TM6LTK5AVGUK5L4IGE3DJORZBG5L2N5ZHU5TZDMMBGAQQDINBAYLFMB2WO5DFOBXXQ23XNYAAWAAD/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
       "group_title": "VOLLEYBALL"
@@ -320,20 +350,6 @@
         }
       ]
     },
-    "Russian First Leagueleague - Kamaz Naberezhnye Chelny Vs Ural Yekaterinburg (10/07/25)": {
-      "event_title": "Russian First Leagueleague - Kamaz Naberezhnye Chelny Vs Ural Yekaterinburg (10/07/25)",
-      "event_time": "12:30AM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AEQCGNR3EU5XAAZ3HE3C2EL6KZKVORKVPQ3DINZQG5SHQ4AOCMDAIAYRPRJFMVKCKVFDWOZJEBZAOPJVFE6DEZJPIIJGMRSRLQIGSNR6GEYTONR4HYTSOOJCPENRQEYFCANBUEDAOV5G64TQM5UHEYT7O54RWGATA4AAQBAFNI/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "Danish 1St Division - Hvidovre If Vs Lyngby (10/07/25)": {
       "event_title": "Danish 1St Division - Hvidovre If Vs Lyngby (10/07/25)",
       "event_time": "01:00AM",
@@ -396,6 +412,46 @@
         }
       ]
     },
+    "Spanish Segunda Division - Cultural Leonesa Vs Albacete Balompi\u00e9 Sad (10/07/25)": {
+      "event_title": "Spanish Segunda Division - Cultural Leonesa Vs Albacete Balompi\u00e9 Sad (10/07/25)",
+      "event_time": "02:30AM",
+      "event_date": "10/07/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "MOVISTAR",
+          "url": "https://world-proxifier.xyz/rbtv/p/AASTCKZ3G46XAFRXFQYDOVKTCNYFSRSZIM5DUPTFP5SBMJJJEY7DOOC5CJ7VCX26KVBTE5JGGZZAKOJSEQYS4MJ4CFYFEWC7LVAFTEH4OALBGADVPJXXE6TFOMNREAIEAAARAGTZOVSHOY3WMJTXC4TBN54QOAABAQAAE/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A ITALIANO",
+          "url": "https://world-proxifier.xyz/rbtv/p/AASTCKZ3G46XAFRXFQYDOVKTCNYFSRSZIM5DUPTFP5SBMJJJEY7DOOC5CJ7VCX26KVBTE5JGGZZAKOJSEQYS4MJ4CFYFEWC7LVAFTEH4OALBGADVPJXXE6TFOMNREBIUDINBABDBMRRHEZLQOV5G64TYOVQQKBID/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/AASTCKZ3G46XAFRXFQYDOVKTCNYFSRSZIM5DUPTFP5SBMJJJEY7DOOC5CJ7VCX26KVBTE5JGGZZAKOJSEQYS4MJ4CFYFEWC7LVAFTEH4OALBGADVPJXXE6TFOMNREAAUDINBABDBMRRHEZLQOV5G64TYOVQQKBAE/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Motogp - British Speedway (10/07/25)": {
+      "event_title": "Motogp - British Speedway (10/07/25)",
+      "event_time": "02:35AM",
+      "event_date": "10/07/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/DY5CIKQVCR2X2ZIQHEWC2WCBLMKGGQCVKU3SEMJ4OJXH64DSOJQW66IHCIMR4EACAAAGGYLCORZG473QO5SXU7DKBE/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        }
+      ]
+    },
     "Challenger Atp Challenger Roanne, France, Men Singles - Filip Misolic Vs Henry Bernet (10/07/25)": {
       "event_title": "Challenger Atp Challenger Roanne, France, Men Singles - Filip Misolic Vs Henry Bernet (10/07/25)",
       "event_time": "02:15AM",
@@ -410,16 +466,16 @@
         }
       ]
     },
-    "Bein 3 - Milano P1 Premier Padel 2025 - Day 1 (10/06/25)": {
-      "event_title": "Bein 3 - Milano P1 Premier Padel 2025 - Day 1 (10/06/25)",
-      "event_time": "10:00PM",
-      "event_date": "10/06/25",
+    "Serie A1 Women - Pinerolo Women Vs Scandicci Women (10/07/25)": {
+      "event_title": "Serie A1 Women - Pinerolo Women Vs Scandicci Women (10/07/25)",
+      "event_time": "02:30AM",
+      "event_date": "10/07/25",
       "category": null,
       "channels": [
         {
-          "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/CEYDSK3SO52X2ZI7EIUTQX25CNSACEDAII3DQOJAEBSAKMJBG4TWK2YBAADBIHIQORISU5LBMV4G45LDMV4GCZLLAEBAEFA2DIIAEY3FMBYWU7DVPJXXE7LXNMAAWBI/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "channel_name": "HDD A ITALIANO",
+          "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGCZIFEQUDYXYSDYKGAWK6KUQTUPBKOIJTUPJAHRVTGKQRMFIFKXSULFJTAPDQCI6SSMB6MV4GCZLIAIJBSHQQAYIBU6LVMF6GW7DDMN2HEYLPPEBQKAQNAMEQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
           "duration": null
         }
       ]
@@ -431,8 +487,8 @@
       "category": null,
       "channels": [
         {
-          "channel_name": "HDD B ITALIANO",
-          "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGCZIFEQUDYXYSDYKGMVKCL5ZRQOJJGMVDU4ASOI6TM6LTK5AVGUK5L4IGE3DJORZBG5L2N5ZHU5TZDMMBGAQQDINBAYLFMB2WO5DFOBXXQ23XNYAAWAAB/index.m3u8",
+          "channel_name": "HDD A ITALIANO",
+          "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGCZIFEQUDYXYSDYKGMVKCL5ZRQOJJGMVDU4ASOI6TM6LTK5AVGUK5L4IGE3DJORZBG5L2N5ZHU5TZDMMBGAQQDINBAYLFMB2WO5DFOBXXQ23XNYAAWAAD/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
           "duration": null
         }

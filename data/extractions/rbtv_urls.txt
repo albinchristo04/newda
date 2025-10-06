@@ -1,4 +1,4 @@
-Extracted at: 2025-10-06T18:23:15.344623
+Extracted at: 2025-10-06T18:47:10.603463
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -97,17 +97,6 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: Russian First Leagueleague - Kamaz Naberezhnye Chelny Vs Ural Yekaterinburg (10/07/25)
-Time: 12:30AM
-Date: 10/07/25
-Category: None
-Available Channels (1):
-  1. SD
-     URL: https://world-proxifier.xyz/rbtv/p/AEQCGNR3EU5XAAZ3HE3C2EL6KZKVORKVPQ3DINZQG5SHQ4AOCMDAIAYRPRJFMVKCKVFDWOZJEBZAOPJVFE6DEZJPIIJGMRSRLQIGSNR6GEYTONR4HYTSOOJCPENRQEYFCANBUEDAOV5G64TQM5UHEYT7O54RWGATA4AAQBAFNI/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-
-================================================================================
-
 EVENT: Danish 1St Division - Hvidovre If Vs Lyngby (10/07/25)
 Time: 01:00AM
 Date: 10/07/25
@@ -155,6 +144,34 @@ Available Channels (2):
 
 ================================================================================
 
+EVENT: Spanish Segunda Division - Cultural Leonesa Vs Albacete Balompié Sad (10/07/25)
+Time: 02:30AM
+Date: 10/07/25
+Category: None
+Available Channels (3):
+  1. MOVISTAR
+     URL: https://world-proxifier.xyz/rbtv/p/AASTCKZ3G46XAFRXFQYDOVKTCNYFSRSZIM5DUPTFP5SBMJJJEY7DOOC5CJ7VCX26KVBTE5JGGZZAKOJSEQYS4MJ4CFYFEWC7LVAFTEH4OALBGADVPJXXE6TFOMNREAIEAAARAGTZOVSHOY3WMJTXC4TBN54QOAABAQAAE/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. HDD A ITALIANO
+     URL: https://world-proxifier.xyz/rbtv/p/AASTCKZ3G46XAFRXFQYDOVKTCNYFSRSZIM5DUPTFP5SBMJJJEY7DOOC5CJ7VCX26KVBTE5JGGZZAKOJSEQYS4MJ4CFYFEWC7LVAFTEH4OALBGADVPJXXE6TFOMNREBIUDINBABDBMRRHEZLQOV5G64TYOVQQKBID/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  3. SD
+     URL: https://world-proxifier.xyz/rbtv/p/AASTCKZ3G46XAFRXFQYDOVKTCNYFSRSZIM5DUPTFP5SBMJJJEY7DOOC5CJ7VCX26KVBTE5JGGZZAKOJSEQYS4MJ4CFYFEWC7LVAFTEH4OALBGADVPJXXE6TFOMNREAAUDINBABDBMRRHEZLQOV5G64TYOVQQKBAE/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Motogp - British Speedway (10/07/25)
+Time: 02:35AM
+Date: 10/07/25
+Category: None
+Available Channels (1):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/DY5CIKQVCR2X2ZIQHEWC2WCBLMKGGQCVKU3SEMJ4OJXH64DSOJQW66IHCIMR4EACAAAGGYLCORZG473QO5SXU7DKBE/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp
+
+================================================================================
+
 EVENT: Challenger Atp Challenger Roanne, France, Men Singles - Filip Misolic Vs Henry Bernet (10/07/25)
 Time: 02:15AM
 Date: 10/07/25
@@ -166,14 +183,14 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: Bein 3 - Milano P1 Premier Padel 2025 - Day 1 (10/06/25)
-Time: 10:00PM
-Date: 10/06/25
+EVENT: Serie A1 Women - Pinerolo Women Vs Scandicci Women (10/07/25)
+Time: 02:30AM
+Date: 10/07/25
 Category: None
 Available Channels (1):
-  1. VDO
-     URL: https://world-proxifier.xyz/rbtv/p/CEYDSK3SO52X2ZI7EIUTQX25CNSACEDAII3DQOJAEBSAKMJBG4TWK2YBAADBIHIQORISU5LBMV4G45LDMV4GCZLLAEBAEFA2DIIAEY3FMBYWU7DVPJXXE7LXNMAAWBI/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  1. HDD A ITALIANO
+     URL: https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGCZIFEQUDYXYSDYKGAWK6KUQTUPBKOIJTUPJAHRVTGKQRMFIFKXSULFJTAPDQCI6SSMB6MV4GCZLIAIJBSHQQAYIBU6LVMF6GW7DDMN2HEYLPPEBQKAQNAMEQ/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp
 
 ================================================================================
 
@@ -182,8 +199,8 @@ Time: 02:30AM
 Date: 10/07/25
 Category: None
 Available Channels (1):
-  1. HDD B ITALIANO
-     URL: https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGCZIFEQUDYXYSDYKGMVKCL5ZRQOJJGMVDU4ASOI6TM6LTK5AVGUK5L4IGE3DJORZBG5L2N5ZHU5TZDMMBGAQQDINBAYLFMB2WO5DFOBXXQ23XNYAAWAAB/index.m3u8
+  1. HDD A ITALIANO
+     URL: https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGCZIFEQUDYXYSDYKGMVKCL5ZRQOJJGMVDU4ASOI6TM6LTK5AVGUK5L4IGE3DJORZBG5L2N5ZHU5TZDMMBGAQQDINBAYLFMB2WO5DFOBXXQ23XNYAAWAAD/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp
 
 ================================================================================

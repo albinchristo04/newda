@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-06T18:23:15.344623
+Extraction Time: 2025-10-06T18:47:10.603463
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 16
-- Total Channels: 19
+- Unique Events: 17
+- Total Channels: 22
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -28,8 +28,6 @@ EVENT BREAKDOWN:
   Time: 02:00AM, Channels: 2
 - Inside The Ring - Inside The Ring | Episode 5 (10/07/25)
   Time: 02:00AM, Channels: 1
-- Russian First Leagueleague - Kamaz Naberezhnye Chelny Vs Ura...
-  Time: 12:30AM, Channels: 1
 - Danish 1St Division - Hvidovre If Vs Lyngby (10/07/25)
   Time: 01:00AM, Channels: 1
 - Sweden Superettan - Sandvikens If Vs Orgryte (10/07/25)
@@ -38,9 +36,13 @@ EVENT BREAKDOWN:
   Time: 01:30AM, Channels: 1
 - Netherlands Eerste Divisie - Vitesse Arnhem Vs Den Bosch (10...
   Time: 02:00AM, Channels: 2
+- Spanish Segunda Division - Cultural Leonesa Vs Albacete Balo...
+  Time: 02:30AM, Channels: 3
+- Motogp - British Speedway (10/07/25)
+  Time: 02:35AM, Channels: 1
 - Challenger Atp Challenger Roanne, France, Men Singles - Fili...
   Time: 02:15AM, Channels: 1
-- Bein 3 - Milano P1 Premier Padel 2025 - Day 1 (10/06/25)
-  Time: 10:00PM, Channels: 1
+- Serie A1 Women - Pinerolo Women Vs Scandicci Women (10/07/25...
+  Time: 02:30AM, Channels: 1
 - Serie A1 Women - Vero Milano W Vs Bergamo 1991 W (10/07/25)
   Time: 02:30AM, Channels: 1
