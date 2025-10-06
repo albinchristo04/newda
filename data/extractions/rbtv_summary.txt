@@ -1,72 +1,13 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-05T23:49:24.408471
+Extraction Time: 2025-10-06T01:11:23.030639
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 29
-- Total Channels: 83
+- Unique Events: 0
+- Total Channels: 0
 - Individual Streams: 0
-- Media Segments: 0
+- Media Segments: 60
 - Other Events: 0
 
-EVENT BREAKDOWN:
-- Usa: Nfl - Nfl Vs Redzone Week 5 (10/06/25)
-  Time: 01:00AM, Channels: 2
-- Usa: Nfl - Nbc Vs Sunday Night Football (10/06/25)
-  Time: 07:00AM, Channels: 2
-- Chile Liga Nacional Basketball - Cd Espanol Talca U21 Vs Col...
-  Time: 06:00AM, Channels: 2
-- Basketball Champions League Americas - Olimpia Kings Vs Grsa...
-  Time: 06:10AM, Channels: 2
-- Chile Liga Nacional Basketball - Chile Boston College Vs Col...
-  Time: 06:30AM, Channels: 2
-- Chile Liga Nacional Basketball - Puente Alto Vs Universidad ...
-  Time: 06:30AM, Channels: 2
-- Chile Liga Nacional Basketball - Las Animas Vs Ancud (10/06/...
-  Time: 07:30AM, Channels: 3
-- Argentine Division 1 - Boca Juniors Vs Club Atlético Newell'...
-  Time: 06:00AM, Channels: 4
-- Argentine Division 1 - Boca Juniors Vs Club Atlético Newell'...
-  Time: 06:00AM, Channels: 2
-- Brazilian Serie C - Sao Bernardo Vs Caxias Rs (10/06/25)
-  Time: 06:00AM, Channels: 2
-- Colombian Torneo Betplay Dimayor - Real Cartagena Vs Atletic...
-  Time: 06:00AM, Channels: 2
-- Ecuadorian Campeonato Serie B - Guayaquil City Vs Gualaceo S...
-  Time: 06:00AM, Channels: 2
-- Canadian Premier League - Pacific Fc Vs Cavalry Fc (10/06/25...
-  Time: 06:10AM, Channels: 2
-- United States Major League Soccer - Vancouver Whitecaps Vs S...
-  Time: 06:10AM, Channels: 6
-- United States Major League Soccer - Vancouver Whitecaps Vs S...
-  Time: 06:10AM, Channels: 2
-- Categoría Primera A - Atletico Junior Barranquilla Vs Deport...
-  Time: 06:15AM, Channels: 4
-- Jamaica Premier League - Waterhouse Fc Vs Mount Pleasant Fa ...
-  Time: 06:30AM, Channels: 2
-- Ligapro Serie A  - Barcelona Sc(Ecu) Vs Independiente Del Va...
-  Time: 06:30AM, Channels: 2
-- Peruvian Liga 1 - Deportivo Garcilaso Vs Alianza Atletico Su...
-  Time: 06:30AM, Channels: 4
-- Conmebol Copa Libertadores Femenino - Alianza Lima W Vs Ferr...
-  Time: 07:00AM, Channels: 2
-- Conmebol Copa Libertadores Femenino - Independiente Del Vall...
-  Time: 07:00AM, Channels: 2
-- Paraguayan Primera Division - Club Libertad Asunción Vs Club...
-  Time: 07:00AM, Channels: 4
-- Peruvian Liga 1 - Universitario De Deportes Vs Juan Pablo Ii...
-  Time: 07:00AM, Channels: 4
-- U20 World Cup - Nigeria U20 Vs Colombia U20 (10/06/25)
-  Time: 07:00AM, Channels: 4
-- U20 World Cup - Saudi Arabia U20 Vs Norway U20 (10/06/25)
-  Time: 07:00AM, Channels: 4
-- Bolivian Copa Lfpb - Jorge Wilstermann Vs Oriente Petrolero ...
-  Time: 07:30AM, Channels: 2
-- Brazilian Serie A - Ceara Vs Santos (10/06/25)
-  Time: 07:30AM, Channels: 4
-- Brazilian Serie A - Cruzeiro Esporte Clube Vs Sport Club Do ...
-  Time: 07:30AM, Channels: 4
-- Brazilian Serie B - Atletico Clube Goianiense Vs Athletico P...
-  Time: 07:30AM, Channels: 4
