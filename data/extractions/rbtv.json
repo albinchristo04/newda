@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-06T22:13:43.754780",
+  "timestamp": "2025-10-06T22:31:01.030590",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -50,16 +50,6 @@
       "channel_name": "HDD A",
       "event_title": "Colombian Torneo Betplay Dimayor - Atletico Huila Vs Barranquilla Fc (10/07/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/CA5DYKR7EY6DCK3SD4VCWX2XLQKHEVKEMA7TIKLFCYWTQMJ4HU4WK5ARONDVQVKELFJTY5IYGA5SQNDQGMQWWBZYINAFEWSBIVMVYPZUOABRCZD7PJSWG23POMIQIEY6DIIAIATKMVQHEYDEP55GKYL3PVWQMCQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "04:30AM",
-      "event_date": "10/07/25",
-      "channel_name": "SD",
-      "event_title": "Colombian Torneo Betplay Dimayor - Atletico Huila Vs Barranquilla Fc (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CA5DYKR7EY6DCK3SD4VCWX2XLQKHEVKEMA7TIKLFCYWTQMJ4HU4WK5ARONDVQVKELFJTY5IYGA5SQNDQGMQWWBZYINAFEWSBIVMVYPZUOABRCZD7PJSWG23POMIQCEY6DIIAIATKMVQHEYDEP55GKYL3PVWQMBA/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
@@ -133,6 +123,26 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:30AM",
+      "event_date": "10/07/25",
+      "channel_name": "HDD A",
+      "event_title": "Colombian Torneo Betplay Dimayor - Tigres Zipaquira Vs Patriotas Fc (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CA5DYKR7EY6DCK3SD4VCWX2XLQKHEVKEMA7TIKLFCYWTQMJ4HU4WK5ARMZNFGQSVIMIASPBAEQRTCPBCERZD2NTZMFJUORSZL5CFCIDVCYDHE3T7OB2HEYLPPEDREGI6CACAECDEMRTHM4TOP5YHMYTTOFQAE/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:30AM",
+      "event_date": "10/07/25",
+      "channel_name": "SD",
+      "event_title": "Colombian Torneo Betplay Dimayor - Tigres Zipaquira Vs Patriotas Fc (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CA5DYKR7EY6DCK3SD4VCWX2XLQKHEVKEMA7TIKLFCYWTQMJ4HU4WK5ARMZNFGQSVIMIASPBAEQRTCPBCERZD2NTZMFJUORSZL5CFCIDVCYDHE3T7OB2HEYLPPEBBEGI6CACAECDEMRTHM4TOP5YHMYTTOFQAA/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
     }
   ],
   "grouped_events": {
@@ -201,12 +211,6 @@
         {
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/CA5DYKR7EY6DCK3SD4VCWX2XLQKHEVKEMA7TIKLFCYWTQMJ4HU4WK5ARONDVQVKELFJTY5IYGA5SQNDQGMQWWBZYINAFEWSBIVMVYPZUOABRCZD7PJSWG23POMIQIEY6DIIAIATKMVQHEYDEP55GKYL3PVWQMCQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CA5DYKR7EY6DCK3SD4VCWX2XLQKHEVKEMA7TIKLFCYWTQMJ4HU4WK5ARONDVQVKELFJTY5IYGA5SQNDQGMQWWBZYINAFEWSBIVMVYPZUOABRCZD7PJSWG23POMIQCEY6DIIAIATKMVQHEYDEP55GKYL3PVWQMBA/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }
@@ -281,6 +285,26 @@
         {
           "channel_name": "SD",
           "url": "https://world-proxifier.xyz/rbtv/p/AYTSKIRHEUWHAFJAEIUDYQ2TCNYFSRSZIM5DUPTFP5SBCNJDG4STMNSDCJQEIX2CIRMT2MTQBA6SUIJVGM5S6IBWCFCEAFD5L5PEINRDHEQTOK3VA4SDYLZAFNKEAQAUOZZRAGTZOVQWK6DOOVRWK6DBMVWQGCYAA4DAEEA2PF2WG5LKOBWWG/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Colombian Torneo Betplay Dimayor - Tigres Zipaquira Vs Patriotas Fc (10/07/25)": {
+      "event_title": "Colombian Torneo Betplay Dimayor - Tigres Zipaquira Vs Patriotas Fc (10/07/25)",
+      "event_time": "06:30AM",
+      "event_date": "10/07/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/CA5DYKR7EY6DCK3SD4VCWX2XLQKHEVKEMA7TIKLFCYWTQMJ4HU4WK5ARMZNFGQSVIMIASPBAEQRTCPBCERZD2NTZMFJUORSZL5CFCIDVCYDHE3T7OB2HEYLPPEDREGI6CACAECDEMRTHM4TOP5YHMYTTOFQAE/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CA5DYKR7EY6DCK3SD4VCWX2XLQKHEVKEMA7TIKLFCYWTQMJ4HU4WK5ARMZNFGQSVIMIASPBAEQRTCPBCERZD2NTZMFJUORSZL5CFCIDVCYDHE3T7OB2HEYLPPEBBEGI6CACAECDEMRTHM4TOP5YHMYTTOFQAA/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }

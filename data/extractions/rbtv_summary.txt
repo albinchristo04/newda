@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-06T22:13:43.754780
+Extraction Time: 2025-10-06T22:31:01.030590
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 9
-- Total Channels: 13
+- Unique Events: 10
+- Total Channels: 14
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -21,7 +21,7 @@ EVENT BREAKDOWN:
 - Major League Baseball - Philadelphia Phillies Vs Los Angeles...
   Time: 06:08AM, Channels: 1
 - Colombian Torneo Betplay Dimayor - Atletico Huila Vs Barranq...
-  Time: 04:30AM, Channels: 2
+  Time: 04:30AM, Channels: 1
 - Bolivian Copa Lfpb - Real Oruro Vs Academiadb (10/07/25)
   Time: 05:30AM, Channels: 1
 - Paraguayan Primera Division - General Caballero Vs Fc Nacion...
@@ -30,3 +30,5 @@ EVENT BREAKDOWN:
   Time: 06:00AM, Channels: 2
 - Uruguay Primera Division - Defensor Sporting Montevideo Vs M...
   Time: 06:00AM, Channels: 2
+- Colombian Torneo Betplay Dimayor - Tigres Zipaquira Vs Patri...
+  Time: 06:30AM, Channels: 2

@@ -1,4 +1,4 @@
-Extracted at: 2025-10-06T22:13:43.754780
+Extracted at: 2025-10-06T22:31:01.030590
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -51,12 +51,9 @@ EVENT: Colombian Torneo Betplay Dimayor - Atletico Huila Vs Barranquilla Fc (10/
 Time: 04:30AM
 Date: 10/07/25
 Category: None
-Available Channels (2):
+Available Channels (1):
   1. HDD A
      URL: https://world-proxifier.xyz/rbtv/p/CA5DYKR7EY6DCK3SD4VCWX2XLQKHEVKEMA7TIKLFCYWTQMJ4HU4WK5ARONDVQVKELFJTY5IYGA5SQNDQGMQWWBZYINAFEWSBIVMVYPZUOABRCZD7PJSWG23POMIQIEY6DIIAIATKMVQHEYDEP55GKYL3PVWQMCQ/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-  2. SD
-     URL: https://world-proxifier.xyz/rbtv/p/CA5DYKR7EY6DCK3SD4VCWX2XLQKHEVKEMA7TIKLFCYWTQMJ4HU4WK5ARONDVQVKELFJTY5IYGA5SQNDQGMQWWBZYINAFEWSBIVMVYPZUOABRCZD7PJSWG23POMIQCEY6DIIAIATKMVQHEYDEP55GKYL3PVWQMBA/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
 ================================================================================
@@ -110,6 +107,20 @@ Available Channels (2):
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
   2. SD
      URL: https://world-proxifier.xyz/rbtv/p/AYTSKIRHEUWHAFJAEIUDYQ2TCNYFSRSZIM5DUPTFP5SBCNJDG4STMNSDCJQEIX2CIRMT2MTQBA6SUIJVGM5S6IBWCFCEAFD5L5PEINRDHEQTOK3VA4SDYLZAFNKEAQAUOZZRAGTZOVQWK6DOOVRWK6DBMVWQGCYAA4DAEEA2PF2WG5LKOBWWG/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Colombian Torneo Betplay Dimayor - Tigres Zipaquira Vs Patriotas Fc (10/07/25)
+Time: 06:30AM
+Date: 10/07/25
+Category: None
+Available Channels (2):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/CA5DYKR7EY6DCK3SD4VCWX2XLQKHEVKEMA7TIKLFCYWTQMJ4HU4WK5ARMZNFGQSVIMIASPBAEQRTCPBCERZD2NTZMFJUORSZL5CFCIDVCYDHE3T7OB2HEYLPPEDREGI6CACAECDEMRTHM4TOP5YHMYTTOFQAE/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/CA5DYKR7EY6DCK3SD4VCWX2XLQKHEVKEMA7TIKLFCYWTQMJ4HU4WK5ARMZNFGQSVIMIASPBAEQRTCPBCERZD2NTZMFJUORSZL5CFCIDVCYDHE3T7OB2HEYLPPEBBEGI6CACAECDEMRTHM4TOP5YHMYTTOFQAA/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
 ================================================================================
