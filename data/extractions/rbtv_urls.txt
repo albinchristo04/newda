@@ -1,4 +1,4 @@
-Extracted at: 2025-10-06T04:18:36.017538
+Extracted at: 2025-10-06T04:41:11.956795
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -7,8 +7,11 @@ EVENT: Usa: Nfl - Sunday Vs Night Football Final (10/06/25)
 Time: 11:30AM
 Date: 10/06/25
 Category: None
-Available Channels (1):
+Available Channels (2):
   1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/AYDBC73SBIJRYZL7NMLCYX2WKJGRARSDCAOTYNZNEZSBGPZKEYUSINK5CJ2V2XSRLQIHS73QNJVWWY37ORVXE7DPAABBYBQHAEEAAZA/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp
+  2. HDD A
      URL: https://world-proxifier.xyz/rbtv/p/AYDBC73SBIJRYZL7NMLCYX2WKJGRARSDCAOTYNZNEZSBGPZKEYUSINK5CJ2V2XSRLQIHS73QNJVWWY37ORVXE7DPAABBYBQHAEEAAZA/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp
 
@@ -18,11 +21,17 @@ EVENT: Mexico Liga Mx - Club Tijuana Vs Monterrey (10/06/25)
 Time: 11:05AM
 Date: 10/06/25
 Category: None
-Available Channels (2):
+Available Channels (4):
   1. HDD A ESPAÑOL
      URL: https://world-proxifier.xyz/rbtv/p/DYYCQLBRFN2RYLBVFJSRI2ISDYKHGXCFKJZQCOJPE4STWMLFEQ4GKFC6LRDVCQSCKVEXG732MV6XK6TGNJTHU7DNAMFAGGYDAAEAIYDN/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
   2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/DYYCQLBRFN2RYLBVFJSRI2ISDYKHGXCFKJZQCOJPE4STWMLFEQ4GKFC6LRDVCQSCKVEXG732MV6XK6TDNJTHU7DNAMFAGGYDAAEAIYDC/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  3. HDD A ESPAÑOL
+     URL: https://world-proxifier.xyz/rbtv/p/DYYCQLBRFN2RYLBVFJSRI2ISDYKHGXCFKJZQCOJPE4STWMLFEQ4GKFC6LRDVCQSCKVEXG732MV6XK6TGNJTHU7DNAMFAGGYDAAEAIYDN/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  4. SD
      URL: https://world-proxifier.xyz/rbtv/p/DYYCQLBRFN2RYLBVFJSRI2ISDYKHGXCFKJZQCOJPE4STWMLFEQ4GKFC6LRDVCQSCKVEXG732MV6XK6TDNJTHU7DNAMFAGGYDAAEAIYDC/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
@@ -32,11 +41,17 @@ EVENT: Wta Wuhan, China Women Singles - Ashlyn Krueger Vs Hailey Baptiste (10/06
 Time: 11:00AM
 Date: 10/06/25
 Category: None
-Available Channels (2):
+Available Channels (4):
   1. VDO
      URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGCCLJPU2XQQPNBCMMBXEAQGIIZDMUNCULBVKRFRG5SRIBCFSIBBGVSXQ3TVP53H26LVNEAB2AQNBEEASA3EPJTHOYDVM5SQ/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
   2. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGCCLJPU2XQQPNBCMMBXEAQGIIZDMUNCULBVKRFRG5SRIBCFSIBBGVSXQ3TVP53H27LKNAEAWCYNAMDR6ATEMRUHKYA/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  3. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGCCLJPU2XQQPNBCMMBXEAQGIIZDMUNCULBVKRFRG5SRIBCFSIBBGVSXQ3TVP53H26LVNEAB2AQNBEEASA3EPJTHOYDVM5SQ/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  4. HDD A
      URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGCCLJPU2XQQPNBCMMBXEAQGIIZDMUNCULBVKRFRG5SRIBCFSIBBGVSXQ3TVP53H27LKNAEAWCYNAMDR6ATEMRUHKYA/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
 
@@ -46,8 +61,11 @@ EVENT: Wta Wuhan, China Women Singles - Dayana Yastremska Vs Laura Siegemund (10
 Time: 11:00AM
 Date: 10/06/25
 Category: None
-Available Channels (1):
+Available Channels (2):
   1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKHKQJNJFUUIQNFISAIJCEA7TOPRRMUSDQZIVKBDUCVIQMNMVKNBQHUYDYIDVPJXXEZDWOYDR2AQNBEEASA3KPJRHEY34MVTA/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  2. HDD A
      URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKHKQJNJFUUIQNFISAIJCEA7TOPRRMUSDQZIVKBDUCVIQMNMVKNBQHUYDYIDVPJXXEZDWOYDR2AQNBEEASA3KPJRHEY34MVTA/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
 
@@ -57,19 +75,93 @@ EVENT: Wta Wuhan, China Women Singles - Maria Camila Osorio Serrano Vs Marie Bou
 Time: 11:00AM
 Date: 10/06/25
 Category: None
-Available Channels (1):
+Available Channels (2):
   1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQIBNFKEDTKFOTUOJRMUOTOORCFQ6WWFR4INAFEWS7CBDEG4YYGE3TWILVCIVCOMJOGZDVGEY6DIIB6A34MN7XI235NVUXM2TEO5XAACQDAA/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  2. HDD A
      URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQIBNFKEDTKFOTUOJRMUOTOORCFQ6WWFR4INAFEWS7CBDEG4YYGE3TWILVCIVCOMJOGZDVGEY6DIIB6A34MN7XI235NVUXM2TEO5XAACQDAA/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
 
 ================================================================================
 
-EVENT: Wta Wuhan, China Women Singles - Katerina Siniakova Vs Diana Shnaider (10/06/25)
+EVENT: Atp Shanghai, China Men Double - A.Krajicek/N.Mektic Vs Harrison C / King E (10/06/25)
 Time: 12:30PM
 Date: 10/06/25
 Category: None
-Available Channels (1):
+Available Channels (2):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKGA7PFAVKWSZKNKTQ6Q6NMPSCPREFQYWWMZKCF5FERSCLFBV6PLVCNSX2ZA6HEVTK2YAPENRQEY3AMPQMH3CNRUX22TTNR7XOZL2PVUAQ/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  2. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKGA7PFAVKWSZKNKTQ6Q6NMPSCPREFQYWWMZKCF5FERSCLFBV6PLVCNSX2ZA6HEVTK2YAPENRQEY3AMPQMH3CNRUX22TTNR7XOZL2PVUAQ/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Atp Shanghai, China Men Singles - Felix Auger-Aliassime Vs Jesper De Jong (10/06/25)
+Time: 12:30PM
+Date: 10/06/25
+Category: None
+Available Channels (2):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LXK5PV2SAQOFCTIMBCNAJSQPBRGYQSEKB4CFCEAFD2KVBUANRHOAQTOZA7H4VTK23POMIR2AA3AYPQCCLKMNUXMYLLM5TXI2T2OI/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  2. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LXK5PV2SAQOFCTIMBCNAJSQPBRGYQSEKB4CFCEAFD2KVBUANRHOAQTOZA7H4VTK23POMIR2AA3AYPQCCLKMNUXMYLLM5TXI2T2OI/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Atp Shanghai, China Men Singles - Kamil Majchrzak Vs Alex De Minaur (10/06/25)
+Time: 12:30PM
+Date: 10/06/25
+Category: None
+Available Channels (6):
+  1. SKA
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L2KNPF2XAQPVITSNRYG4UCKPTQGMQWWBBVKRFBGUCVCB6VSPJUEU3XE3T7OBVGCZDXNEAQGHAFBEEQMCLCNV7XGYDWMRRXK/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  2. MOVISTAR2
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L2KNPF2XAQPVITSNRYG4UCKPTQGMQWWBBVKRFBGUCVCB6VSPJUEU3XE3T7OBVGCZDXNEAQGHAFBEEQMCLCNV7XGYDWMRRXC/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  3. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L2KNPF2XAQPVITSNRYG4UCKPTQGMQWWBBVKRFBGUCVCB6VSPJUEU3XE3T7OBVGCZDTOYAAWCQCBEAQQH3BMJQX2Y34/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  4. SKA
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L2KNPF2XAQPVITSNRYG4UCKPTQGMQWWBBVKRFBGUCVCB6VSPJUEU3XE3T7OBVGCZDXNEAQGHAFBEEQMCLCNV7XGYDWMRRXK/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  5. MOVISTAR2
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L2KNPF2XAQPVITSNRYG4UCKPTQGMQWWBBVKRFBGUCVCB6VSPJUEU3XE3T7OBVGCZDXNEAQGHAFBEEQMCLCNV7XGYDWMRRXC/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  6. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L2KNPF2XAQPVITSNRYG4UCKPTQGMQWWBBVKRFBGUCVCB6VSPJUEU3XE3T7OBVGCZDTOYAAWCQCBEAQQH3BMJQX2Y34/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Atp Shanghai, China Men Singles - Kamil Majchrzak Vs Alex De Minaur (10/06/25) [STREAM 23[HD]]
+Time: 12:30PM
+Date: 10/06/25
+Category: None
+Available Channels (2):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L2KNPF2XAQPVITSNRYG4UCKPTQGMQWWBBVKRFBGUCVCB6VSPJUEU3XE3T7OBVGCZDXOYAAWCQCBEAQQH3BMJQX2Y3W/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  2. None
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L2KNPF2XAQPVITSNRYG4UCKPTQGMQWWBBVKRFBGUCVCB6VSPJUEU3XE3T7OBVGCZDXOYAAWCQCBEAQQH3BMJQX2Y3W/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Wta Wuhan, China Women Singles - Katerina Siniakova Vs Diana Shnaider (10/06/25)
+Time: 12:50PM
+Date: 10/06/25
+Category: None
+Available Channels (2):
   1. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKESQIZLEMWK6KEIAAPB6FQZS6ORGERZD2NTZOVNVEWSRCBRVQPJUHEQTONTVPJXXEZDWOYBQEAYFD4AQSCLKNVSXO7LSM5RHIYD5/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  2. VDO
      URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKESQIZLEMWK6KEIAAPB6FQZS6ORGERZD2NTZOVNVEWSRCBRVQPJUHEQTONTVPJXXEZDWOYBQEAYFD4AQSCLKNVSXO7LSM5RHIYD5/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
 
