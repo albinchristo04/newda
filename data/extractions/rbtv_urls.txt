@@ -1,4 +1,4 @@
-Extracted at: 2025-10-06T11:12:53.935878
+Extracted at: 2025-10-06T11:26:50.800471
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -55,8 +55,8 @@ Time: 06:20PM
 Date: 10/06/25
 Category: None
 Available Channels (1):
-  1. HDD B
-     URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKFCQIBNFKEDDKFNTQNBCFR6QAOR6FMZWWEZ4LJNVAFCGIMIHKOR6GU3TWZAAOBVHEEZQPFUBEGI6CABRAGTZOVTGK6DOOVQXY23SORVQIEQZDYIAEBYBNNRGI/index.m3u8
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKFCQIBNFKEDDKFNTQNBCFR6QAOR6FMZWWEZ4LJNVAFCGIMIHKOR6GU3TWZAAOBVHEEZQPFUBEGI6CABRAGTZOVTGK6DOOVQXY23SORVQIEQZDYIAEBYBNNWWC/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
 
 ================================================================================
@@ -126,15 +126,34 @@ EVENT: Atp Shanghai, China Men Singles - Learner Tien Vs Cameron Norrie (10/06/2
 Time: 07:00PM
 Date: 10/06/25
 Category: None
-Available Channels (3):
+Available Channels (2):
   1. MOVISTAR2
      URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L5K5JEMXSVIIIAOPBVFNZDEJTQAYZSMIBLLZOBG6S7IJBFSNTVPJXXE53VPJXXE6LVNEABEGI6CAAQSCLFNRRXI4TOP5YHGYDZORVAQ/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
-  2. SDF A
-     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L5K5JEMXSVIIIAOPBVFNZDEJTQAYZSMIBLLZOBG6S7IJBFSNTVPJXXE53VPJXXE7LFOMNREAQNBEDASA3COV5G64TWMJQX22TZ/index.m3u8
+  2. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L5K5JEMXSVIIIAOPBVFNZDEJTQAYZSMIBLLZOBG6S7IJBFSNTVPJXXE53VPJXXE7LFOMNREAQNBEDASA3COV5G64TWMJQX22TY/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
-  3. HDD B
-     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L5K5JEMXSVIIIAOPBVFNZDEJTQAYZSMIBLLZOBG6S7IJBFSNTVPJXXE53VPJXXE7LFOMNREAQNBEDASA3COV5G64TWMJQX2ZL6/index.m3u8
+
+================================================================================
+
+EVENT: Wta 125K Mallorca, Spain Women Singles - Solana Sierra Vs Dalila Spiteri (10/06/25)
+Time: 07:10PM
+Date: 10/06/25
+Category: None
+Available Channels (1):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CBRTYOJRFMZWIBRZEAQDSJDZI5ARG4CRLRMVYMTVAM2TWMBQEIWHEYLPPEBBEGI6CADBAGTZOVQXY235NRQXC4TBN54QGBICBQEAK/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Wta Wuhan, China Women Singles - Moyuka Uchijima Vs Wang Xinyu (10/06/25) [STREAM 25[HD]]
+Time: 07:30PM
+Date: 10/06/25
+Category: None
+Available Channels (1):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFC6JNDF6UIQMVJTWPB2FQ7SK5JGGZZBYJBXKYJGWXK6JFCRA6L7OB3HE3T7OB3XEYLPPEAAWCQNBADQAEDZP5YHOZLVNVSXE/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
 
 ================================================================================
