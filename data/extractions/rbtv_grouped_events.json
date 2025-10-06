@@ -16,6 +16,18 @@
         "url": "https://world-proxifier.xyz/rbtv/p/DI5TIKR4EETDSJB4NMETAVSTCMDBAHIQOYIHKERAHESSMOLFCERDCIARIRABIY2FLVBTMOLQCA6C2IJVEFZGC33ZDYBRYBY7AQBAQZTHMB6H253FNBYWC4Q/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
+      },
+      {
+        "channel_name": "VDO",
+        "url": "https://world-proxifier.xyz/rbtv/p/DI5TIKR4EETDSJB4NMETAVSTCMDBAHIQOYIHKERAHESSMOLFCERDCIARIRABIY2FLVBTMOLQCA6C2IJVEFZGC33ZDYBRYBQAAAAR6Z3HNBYGA5DMP5ZWA6TSNUCA/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/DI5TIKR4EETDSJB4NMETAVSTCMDBAHIQOYIHKERAHESSMOLFCERDCIARIRABIY2FLVBTMOLQCA6C2IJVEFZGC33ZDYBRYBY7AQBAQZTHMB6H253FNBYWC4Q/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
       }
     ]
   },
@@ -36,59 +48,57 @@
         "url": "https://world-proxifier.xyz/rbtv/p/DI5TIKR4EETDSJB4NMETAVSTCMDBAHIQPM3DWNBEHZSACPZXHQVCCNQRORYBIRSDCBQDMJZDFQYCK5ISEQ7CELRJKBBFEWQQDINBA7DEP53H24DHNBYWO63XOYBAECYAAQAA/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
-      }
-    ]
-  },
-  "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges (10/06/25)": {
-    "event_title": "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges (10/06/25)",
-    "event_time": "02:30PM",
-    "event_date": "10/06/25",
-    "category": null,
-    "channels": [
+      },
       {
-        "channel_name": "SKA",
-        "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MJ2WE6TKNAEAWBINAIAR6BTBM5QXMYI/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_tns_active.webp",
+        "channel_name": "VDO",
+        "url": "https://world-proxifier.xyz/rbtv/p/DI5TIKR4EETDSJB4NMETAVSTCMDBAHIQPM3DWNBEHZSACPZXHQVCCNQRORYBIRSDCBQDMJZDFQYCK5ISEQ7CELRJKBBFEWQQDINBA7DEP53WE5DEP5YWA43RNQAQAHACAIBAAA3A/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
       },
       {
-        "channel_name": "MOVISTAR2",
-        "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MJ2WE6TKNAEAWBINAIAR6BTBM5QXAZY/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_tns_active.webp",
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/DI5TIKR4EETDSJB4NMETAVSTCMDBAHIQPM3DWNBEHZSACPZXHQVCCNQRORYBIRSDCBQDMJZDFQYCK5ISEQ7CELRJKBBFEWQQDINBA7DEP53H24DHNBYWO63XOYBAECYAAQAA/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Kazakhstan Women'S Super League - Aktobe W Vs Zhetysu \uff08W\uff09 (10/06/25)": {
+    "event_title": "Kazakhstan Women'S Super League - Aktobe W Vs Zhetysu \uff08W\uff09 (10/06/25)",
+    "event_time": "05:00PM",
+    "event_date": "10/06/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/DA2CUJBZFQTCIJB4NMJDMXCXLUJUGEDDIURTAITFDYQTINZQG5VWQ6LQLFDVWUSVCBTXGIZDMUECYMBEHQQT4ZNWRW5EJW4MXEIBU6LVP52H2532MR3WW7DRNMBB2AAEBACAIAI/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
       },
       {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MZVGG4T4N4EAAAQ3AIDQCCDANU/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_tns_active.webp",
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/DA2CUJBZFQTCIJB4NMJDMXCXLUJUGEDDIURTAITFDYQTINZQG5VWQ6LQLFDVWUSVCBTXGIZDMUECYMBEHQQT4ZNWRW5EJW4MXEIBU6LVP52H2532MR3WW7DRNMBB2AAEBACAIAI/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
       }
     ]
   },
-  "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges (10/06/25) [STREAM 3[HD]]": {
-    "event_title": "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges (10/06/25) [STREAM 3[HD]]",
-    "event_time": "02:30PM",
+  "Kazakhstan Women'S Super League - Okzhetpes (W) Vs Zhenis W (10/06/25)": {
+    "event_title": "Kazakhstan Women'S Super League - Okzhetpes (W) Vs Zhenis W (10/06/25)",
+    "event_time": "05:00PM",
     "event_date": "10/06/25",
     "category": null,
     "channels": [
       {
-        "channel_name": null,
-        "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MJVGG4T4N4EAAAQ3AIDQCCDBNU/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_tns_active.webp",
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/DA2CUJBZFQTCIJB4NMJDMXCXLUJUGEDDIURTAITFDYQTINZQG5VWQ6L6LFEVYVKEIBKSA5LYGJ5WIIZDMUECGIBXLBARGYYQDINBA7DEP53H24DHNFZGM6LROYBAECYAAQBA/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
-      }
-    ]
-  },
-  "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges (10/06/25) [STREAM 3_FHD[FULL HD]]": {
-    "event_title": "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges (10/06/25) [STREAM 3_FHD[FULL HD]]",
-    "event_time": "02:30PM",
-    "event_date": "10/06/25",
-    "category": null,
-    "channels": [
+      },
       {
-        "channel_name": null,
-        "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MJVGG4T4N4EAAAQ3AIDQCCDAM4/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_tns_active.webp",
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/DA2CUJBZFQTCIJB4NMJDMXCXLUJUGEDDIURTAITFDYQTINZQG5VWQ6L6LFEVYVKEIBKSA5LYGJ5WIIZDMUECGIBXLBARGYYQDINBA7DEP53H24DHNFZGM6LROYBAECYAAQBA/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
       }
     ]
@@ -100,8 +110,8 @@
     "category": null,
     "channels": [
       {
-        "channel_name": "VDO",
-        "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKA2ZI4JXQWK6CBDCA5I2FI5SUILQBAZTEJDZDMMBGGYDD4BAAY3EP52GW7LNNFYWIZDTNMBQGAID/index.m3u8",
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKA2ZI4JXQWK6CBDCA5I2FI5SUILQBAZTEJDZDMMBGGYDD4DB6YTMNF6WW4DDP53WK6T5NUCA/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
       },
@@ -113,29 +123,21 @@
       }
     ]
   },
-  "Wta Wuhan, China Women Singles - Varvara Gracheva Vs Jessica Bouzas Maneiro (10/06/25)": {
-    "event_title": "Wta Wuhan, China Women Singles - Varvara Gracheva Vs Jessica Bouzas Maneiro (10/06/25)",
-    "event_time": "03:35PM",
+  "Wta Wuhan, China Women Singles - Zhu Lin Vs Joint Maya (10/06/25) [STREAM 25[HD]]": {
+    "event_title": "Wta Wuhan, China Women Singles - Zhu Lin Vs Joint Maya (10/06/25) [STREAM 25[HD]]",
+    "event_time": "03:15PM",
     "event_date": "10/06/25",
     "category": null,
     "channels": [
       {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKD2QIBCVKQSRCB3SCNBTFU3TENDQGMQWWDZ4IJAVUV2RCBZF6JRPGE3HECJUHYQDWOJKPENRQEY3AMPQMH3CNRUXY2TRMR7XOZL2PVVAM/index.m3u8",
+        "channel_name": null,
+        "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKA2ZI4JXQWK6CBDCA5I2FI5SUILQBAZTEJDZDMMBGGYDD4BB6YTMNF6WW4DDP53WK6T5NQDQ/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
-      }
-    ]
-  },
-  "Wta Wuhan, China Women Doubles - Muhammad A / Schuurs D Vs Kichenok L / Perez E (10/06/25)": {
-    "event_title": "Wta Wuhan, China Women Doubles - Muhammad A / Schuurs D Vs Kichenok L / Perez E (10/06/25)",
-    "event_time": "03:50PM",
-    "event_date": "10/06/25",
-    "category": null,
-    "channels": [
+      },
       {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKFCELJJFSXKRKQIBE5L7MUASOPJFGAQDQZI5CFCEAFD3LFJVQNR3H4XHECDVP5SQELRXHRFRE5QUDINBAH3APJTGUY35NRUXIY34NJVQMAYLAADQ/index.m3u8",
+        "channel_name": null,
+        "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKA2ZI4JXQWK6CBDCA5I2FI5SUILQBAZTEJDZDMMBGGYDD4BB6YTMNF6WW4DDP53WK6T5NQDQ/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
       }
@@ -147,6 +149,12 @@
     "event_date": "10/06/25",
     "category": null,
     "channels": [
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TEJZZEA7CQNDQCE5CUKBUCFCEAFD5KFEVCILVAMWTONR4GZSXQYLFOYBB2BI3AEEQSCLCM5UGUYDTMRUHAYI/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      },
       {
         "channel_name": "HDD A",
         "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TEJZZEA7CQNDQCE5CUKBUCFCEAFD5KFEVCILVAMWTONR4GZSXQYLFOYBB2BI3AEEQSCLCM5UGUYDTMRUHAYI/index.m3u8",
@@ -166,12 +174,38 @@
         "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKCKUK5AUOED2CAPXGDZZEA7C2OZDFY5WWD3ZI5ARGZ2TLBPFCORBEQQCAZA7OBVHEHBEGVOVYVSGCB6RAGTZOV7XM7LSPJQXY23SORVQOHIBAMAQQBIC/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
+      },
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKCKUK5AUOED2CAPXGDZZEA7C2OZDFY5WWD3ZI5ARGZ2TLBPFCORBEQQCAZA7OBVHEHBEGVOVYVSGCB6RAGTZOV7XM7LSPJQXY23SORVQOHIBAMAQQBIC/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Wta Wuhan, China Women Singles - Olga Danilovic Vs Clara Tauson (10/06/25)": {
+    "event_title": "Wta Wuhan, China Women Singles - Olga Danilovic Vs Clara Tauson (10/06/25)",
+    "event_time": "04:30PM",
+    "event_date": "10/06/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFS5KVJBI5CRLZMT6ORGFQYWIIZDMUISOJBLKAJGOVKFINPV4437PJSX2532MZVGG4T4MEEACAA3AIDQCCDFMU/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFS5KVJBI5CRLZMT6ORGFQYWIIZDMUISOJBLKAJGOVKFINPV4437PJSX2532MZVGG4T4MEEACAA3AIDQCCDFMU/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
       }
     ]
   },
   "Atp Shanghai, China Men Singles - Luciano Darderi Vs Lorenzo Musetti (10/06/25)": {
     "event_title": "Atp Shanghai, China Men Singles - Luciano Darderi Vs Lorenzo Musetti (10/06/25)",
-    "event_time": "04:30PM",
+    "event_time": "05:00PM",
     "event_date": "10/06/25",
     "category": null,
     "channels": [
@@ -180,24 +214,62 @@
         "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L5I5IF2UK6L4IBONBCEE3TMPDQGMQWWCJWINLV2TS7CB6UKIBQEQYTWZD7PJSX26DKNMAQEAQ3AEEQSBTKM5RGUZDWM5QXAZI/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
+      },
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L5I5IF2UK6L4IBONBCEE3TMPDQGMQWWCJWINLV2TS7CB6UKIBQEQYTWZD7PJSX26DKN4PAGCQNAYEQEAT4M5TXI2TSMQ/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "MOVISTAR2",
+        "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L5I5IF2UK6L4IBONBCEE3TMPDQGMQWWCJWINLV2TS7CB6UKIBQEQYTWZD7PJSX26DKNMAQEAQ3AEEQSBTKM5RGUZDWM5QXAZI/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L5I5IF2UK6L4IBONBCEE3TMPDQGMQWWCJWINLV2TS7CB6UKIBQEQYTWZD7PJSX26DKN4PAGCQNAYEQEAT4M5TXI2TSMQ/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
       }
     ]
   },
   "Wta Wuhan, China Women Singles - Antonia Ru\u017ei\u0107 Vs Magda Linette (10/06/25)": {
     "event_title": "Wta Wuhan, China Women Singles - Antonia Ru\u017ei\u0107 Vs Magda Linette (10/06/25)",
-    "event_time": "04:45PM",
+    "event_time": "05:15PM",
     "event_date": "10/06/25",
     "category": null,
     "channels": [
       {
-        "channel_name": "HDD B",
-        "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGC7IZOFUWKRCBRCNEHOFSLMG5JGGZZAMJB6KVJRG6CZLZKUIJZQOBXXQZD2MNVGIZDUMAEAWCYBAMPQEB3CNVSHM/index.m3u8",
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGC7IZOFUWKRCBRCNEHOFSLMG5JGGZZAMJB6KVJRG6CZLZKUIJZQOBXXQZD2MNVGIZDUMAEAWCYBAMPQEB3CNVTHC/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
       },
       {
-        "channel_name": "HDD B",
-        "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGC7IZOFUWKRCBRCNEHOFSLMG5JGGZZAMJB6KVJRG6CZLZKUIJZQOBXXQZD2MNVGIZDUMAEAWCYBAMPQEB3CNVSXC/index.m3u8",
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGC7IZOFUWKRCBRCNEHOFSLMG5JGGZZAMJB6KVJRG6CZLZKUIJZQOBXXQZD2MNVGIZDUMAEAWCYBAMPQEB3CNVTHC/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Wta Wuhan, China Women Doubles - Chan H-C / Jiang X Vs Hozumi E / Wu F (10/06/25)": {
+    "event_title": "Wta Wuhan, China Women Doubles - Chan H-C / Jiang X Vs Hozumi E / Wu F (10/06/25)",
+    "event_time": "05:20PM",
+    "event_date": "10/06/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKGSZKNORI6A5OMIHY5I2FQZSUMTQDVZD2NTZPFOUSQK5LEIHK432OAJCOZATOBXXQ23KNIPAIHAFBEEQSALBMV7XOZLVNVTHG/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKGSZKNORI6A5OMIHY5I2FQZSUMTQDVZD2NTZPFOUSQK5LEIHK432OAJCOZATOBXXQ23KNIPAIHAFBEEQSALBMV7XOZLVNVTHG/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
       }
