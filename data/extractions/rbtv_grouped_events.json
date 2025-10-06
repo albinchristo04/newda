@@ -1,20 +1,40 @@
 {
-  "Atp Shanghai, China Men Singles - Denis Shapovalov Vs Jiri Lehecka (10/06/25)": {
-    "event_title": "Atp Shanghai, China Men Singles - Denis Shapovalov Vs Jiri Lehecka (10/06/25)",
-    "event_time": "02:30PM",
+  "Indonesian Liga 2 - Fc Bekasi City Vs Sumsel United (10/06/25)": {
+    "event_title": "Indonesian Liga 2 - Fc Bekasi City Vs Sumsel United (10/06/25)",
+    "event_time": "04:30PM",
     "event_date": "10/06/25",
     "category": null,
     "channels": [
       {
-        "channel_name": "MOVISTAR2",
-        "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LVK5OV2QYQMNMDEJJ7GMZSQORGMUSDQZITLBAFUFD4KVMFKMB6GFSXQ3TVP53H26LVNEAB2AQNBEDASATAPJTHOYDVMBTA/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_tns_active.webp",
+        "channel_name": "VDO",
+        "url": "https://world-proxifier.xyz/rbtv/p/DI5TIKR4EETDSJB4NMETAVSTCMDBAHIQOYIHKERAHESSMOLFCERDCIARIRABIY2FLVBTMOLQCA6C2IJVEFZGC33ZDYBRYBQAAAAR6Z3HNBYGA5DMP5ZWA6TSNUCA/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
       },
       {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LVK5OV2QYQMNMDEJJ7GMZSQORGMUSDQZITLBAFUFD4KVMFKMB6GFSXQ3TVP53H27LKNAEAWBINAIBR6ATEMRUHCYQ/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_tns_active.webp",
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/DI5TIKR4EETDSJB4NMETAVSTCMDBAHIQOYIHKERAHESSMOLFCERDCIARIRABIY2FLVBTMOLQCA6C2IJVEFZGC33ZDYBRYBY7AQBAQZTHMB6H253FNBYWC4Q/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Indonesian Liga 2 - Kendal Tornado Fc Vs Persiba Balikpapan (10/06/25)": {
+    "event_title": "Indonesian Liga 2 - Kendal Tornado Fc Vs Persiba Balikpapan (10/06/25)",
+    "event_time": "04:30PM",
+    "event_date": "10/06/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "VDO",
+        "url": "https://world-proxifier.xyz/rbtv/p/DI5TIKR4EETDSJB4NMETAVSTCMDBAHIQPM3DWNBEHZSACPZXHQVCCNQRORYBIRSDCBQDMJZDFQYCK5ISEQ7CELRJKBBFEWQQDINBA7DEP53WE5DEP5YWA43RNQAQAHACAIBAAA3A/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/DI5TIKR4EETDSJB4NMETAVSTCMDBAHIQPM3DWNBEHZSACPZXHQVCCNQRORYBIRSDCBQDMJZDFQYCK5ISEQ7CELRJKBBFEWQQDINBA7DEP53H24DHNBYWO63XOYBAECYAAQAA/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
       }
     ]
@@ -121,6 +141,34 @@
       }
     ]
   },
+  "Wta 125K Mallorca, Spain Women Singles - Mariella Thamm Vs Mayar Sherif (10/06/25)": {
+    "event_title": "Wta 125K Mallorca, Spain Women Singles - Mariella Thamm Vs Mayar Sherif (10/06/25)",
+    "event_time": "04:10PM",
+    "event_date": "10/06/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TEJZZEA7CQNDQCE5CUKBUCFCEAFD5KFEVCILVAMWTONR4GZSXQYLFOYBB2BI3AEEQSCLCM5UGUYDTMRUHAYI/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Atp Shanghai, China Men Double - Peers J / Zielinski J Vs Schnaitter J / Wallner M (10/06/25)": {
+    "event_title": "Atp Shanghai, China Men Double - Peers J / Zielinski J Vs Schnaitter J / Wallner M (10/06/25)",
+    "event_time": "04:15PM",
+    "event_date": "10/06/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKCKUK5AUOED2CAPXGDZZEA7C2OZDFY5WWD3ZI5ARGZ2TLBPFCORBEQQCAZA7OBVHEHBEGVOVYVSGCB6RAGTZOV7XM7LSPJQXY23SORVQOHIBAMAQQBIC/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      }
+    ]
+  },
   "Atp Shanghai, China Men Singles - Luciano Darderi Vs Lorenzo Musetti (10/06/25)": {
     "event_title": "Atp Shanghai, China Men Singles - Luciano Darderi Vs Lorenzo Musetti (10/06/25)",
     "event_time": "04:30PM",
@@ -130,6 +178,26 @@
       {
         "channel_name": "MOVISTAR2",
         "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L5I5IF2UK6L4IBONBCEE3TMPDQGMQWWCJWINLV2TS7CB6UKIBQEQYTWZD7PJSX26DKNMAQEAQ3AEEQSBTKM5RGUZDWM5QXAZI/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Wta Wuhan, China Women Singles - Antonia Ru\u017ei\u0107 Vs Magda Linette (10/06/25)": {
+    "event_title": "Wta Wuhan, China Women Singles - Antonia Ru\u017ei\u0107 Vs Magda Linette (10/06/25)",
+    "event_time": "04:45PM",
+    "event_date": "10/06/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDD B",
+        "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGC7IZOFUWKRCBRCNEHOFSLMG5JGGZZAMJB6KVJRG6CZLZKUIJZQOBXXQZD2MNVGIZDUMAEAWCYBAMPQEB3CNVSHM/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "HDD B",
+        "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGC7IZOFUWKRCBRCNEHOFSLMG5JGGZZAMJB6KVJRG6CZLZKUIJZQOBXXQZD2MNVGIZDUMAEAWCYBAMPQEB3CNVSXC/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.tcgfs39a2.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
       }
