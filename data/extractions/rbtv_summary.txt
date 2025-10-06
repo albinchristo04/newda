@@ -1,36 +1,13 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-06T04:50:31.875176
+Extraction Time: 2025-10-06T05:15:36.394103
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 11
-- Total Channels: 15
+- Unique Events: 0
+- Total Channels: 0
 - Individual Streams: 0
-- Media Segments: 0
+- Media Segments: 22
 - Other Events: 0
 
-EVENT BREAKDOWN:
-- Usa: Nfl - Sunday Vs Night Football Final (10/06/25)
-  Time: 11:30AM, Channels: 1
-- Mexico Liga Mx - Club Tijuana Vs Monterrey (10/06/25)
-  Time: 11:05AM, Channels: 2
-- Wta Wuhan, China Women Singles - Ashlyn Krueger Vs Hailey Ba...
-  Time: 11:00AM, Channels: 2
-- Wta Wuhan, China Women Singles - Dayana Yastremska Vs Laura ...
-  Time: 11:00AM, Channels: 1
-- Wta Wuhan, China Women Singles - Maria Camila Osorio Serrano...
-  Time: 11:00AM, Channels: 1
-- Atp Shanghai, China Men Double - A.Krajicek/N.Mektic Vs Harr...
-  Time: 12:30PM, Channels: 1
-- Atp Shanghai, China Men Singles - Felix Auger-Aliassime Vs J...
-  Time: 12:30PM, Channels: 1
-- Atp Shanghai, China Men Singles - Kamil Majchrzak Vs Alex De...
-  Time: 12:30PM, Channels: 3
-- Atp Shanghai, China Men Singles - Kamil Majchrzak Vs Alex De...
-  Time: 12:30PM, Channels: 1
-- Wta Wuhan, China Women Singles - Elise Mertens Vs Polina Kud...
-  Time: 12:55PM, Channels: 1
-- Wta Wuhan, China Women Singles - Katerina Siniakova Vs Diana...
-  Time: 01:00PM, Channels: 1
