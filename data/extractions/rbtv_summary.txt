@@ -1,13 +1,32 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-06T07:37:14.576045
+Extraction Time: 2025-10-06T07:49:35.090383
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 0
-- Total Channels: 0
+- Unique Events: 9
+- Total Channels: 26
 - Individual Streams: 0
-- Media Segments: 22
+- Media Segments: 0
 - Other Events: 0
 
+EVENT BREAKDOWN:
+- Atp Shanghai, China Men Singles - Denis Shapovalov Vs Jiri L...
+  Time: 02:30PM, Channels: 4
+- Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Bor...
+  Time: 02:30PM, Channels: 6
+- Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Bor...
+  Time: 02:30PM, Channels: 2
+- Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Bor...
+  Time: 02:30PM, Channels: 2
+- Atp Shanghai, China Men Double - Arevalo M / Pavic M Vs Neal...
+  Time: 02:35PM, Channels: 2
+- Wta Wuhan, China Women Singles - Zhu Lin Vs Joint Maya (10/0...
+  Time: 03:15PM, Channels: 4
+- Wta Wuhan, China Women Singles - Varvara Gracheva Vs Jessica...
+  Time: 03:35PM, Channels: 2
+- Wta Wuhan, China Women Doubles - Muhammad A / Schuurs D Vs K...
+  Time: 03:50PM, Channels: 2
+- Atp Shanghai, China Men Singles - Luciano Darderi Vs Lorenzo...
+  Time: 04:00PM, Channels: 2

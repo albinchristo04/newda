@@ -1,164 +1,495 @@
 {
-  "timestamp": "2025-10-06T07:37:14.576045",
+  "timestamp": "2025-10-06T07:49:35.090383",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
-  "segments": [
+  "segments": [],
+  "events": [
     {
-      "type": "segment",
+      "event_time": "02:30PM",
+      "event_date": "10/06/25",
+      "channel_name": "MOVISTAR2",
+      "event_title": "Atp Shanghai, China Men Singles - Denis Shapovalov Vs Jiri Lehecka (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LVK5OV2QYQMNMDEJJ7GMZSQORGMUSDQZITLBAFUFD4KVMFKMB6GFSXQ3TVP53H26LVNEAB2AQNBEDASATAPJTHOYDVMZTA/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Shanghai, China Men Double - Arevalo M / Pavic M Vs Neal Skupski/John Patrick Smith [HDD A]",
-      "url": "http://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKGCDK5CVKXC7CB6XG6TQCUZTEPBTMUPWWMZKCF6FMVK4CBRVWJRFEMXDW2Y7H4WTY2YVHBCUAWSXLMIGGXJ2EE4GK6DOOV7XM7L5NJUAQCYLAABQQHYCMRSGQ4LD/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "02:30PM",
+      "event_date": "10/06/25",
+      "channel_name": "HDD A",
+      "event_title": "Atp Shanghai, China Men Singles - Denis Shapovalov Vs Jiri Lehecka (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LVK5OV2QYQMNMDEJJ7GMZSQORGMUSDQZITLBAFUFD4KVMFKMB6GFSXQ3TVP53H27LKNAEAWBINAIBR6ATEMRUHCYQ/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Shanghai, China Men Double - Arevalo M / Pavic M Vs Neal Skupski/John Patrick Smith [HDD A]",
-      "url": "http://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKGCDK5CVKXC7CB6XG6TQCUZTEPBTMUPWWMZKCF6FMVK4CBRVWJRFEMXDW2Y7H4WTY2YVHBCUAWSXLMIGGXJ2EE4GK6DOOV7XM7L5NJUAQCYLAABQQHYCMRSGQ4LD/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "02:30PM",
+      "event_date": "10/06/25",
+      "channel_name": "MOVISTAR2",
+      "event_title": "Atp Shanghai, China Men Singles - Denis Shapovalov Vs Jiri Lehecka (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LVK5OV2QYQMNMDEJJ7GMZSQORGMUSDQZITLBAFUFD4KVMFKMB6GFSXQ3TVP53H26LVNEAB2AQNBEDASATAPJTHOYDVMZTA/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Shanghai, China Men Singles - Denis Shapovalov Vs Jiri Lehecka [MOVISTAR2]",
-      "url": "http://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LVK5OV2QYQMNMDEJJ7GMZSQORGMUSDQZITLBAFUFD4KVMFKMB6GFSXQ3TVP53H26LVNEAB2AQNBEDASATAPJTHOYDVMZTA/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "02:30PM",
+      "event_date": "10/06/25",
+      "channel_name": "HDD A",
+      "event_title": "Atp Shanghai, China Men Singles - Denis Shapovalov Vs Jiri Lehecka (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LVK5OV2QYQMNMDEJJ7GMZSQORGMUSDQZITLBAFUFD4KVMFKMB6GFSXQ3TVP53H27LKNAEAWBINAIBR6ATEMRUHCYQ/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Shanghai, China Men Singles - Denis Shapovalov Vs Jiri Lehecka [HDD A]",
-      "url": "http://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LVK5OV2QYQMNMDEJJ7GMZSQORGMUSDQZITLBAFUFD4KVMFKMB6GFSXQ3TVP53H27LKNAEAWBINAIBR6ATEMRUHCYQ/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "02:30PM",
+      "event_date": "10/06/25",
+      "channel_name": "SKA",
+      "event_title": "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MJ2WE6TKNAEAWBINAIAR6BTBM5QXMYI/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Shanghai, China Men Singles - Denis Shapovalov Vs Jiri Lehecka [MOVISTAR2]",
-      "url": "http://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LVK5OV2QYQMNMDEJJ7GMZSQORGMUSDQZITLBAFUFD4KVMFKMB6GFSXQ3TVP53H26LVNEAB2AQNBEDASATAPJTHOYDVMZTA/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "02:30PM",
+      "event_date": "10/06/25",
+      "channel_name": "MOVISTAR2",
+      "event_title": "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MJ2WE6TKNAEAWBINAIAR6BTBM5QXMZY/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Shanghai, China Men Singles - Denis Shapovalov Vs Jiri Lehecka [HDD A]",
-      "url": "http://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LVK5OV2QYQMNMDEJJ7GMZSQORGMUSDQZITLBAFUFD4KVMFKMB6GFSXQ3TVP53H27LKNAEAWBINAIBR6ATEMRUHCYQ/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "02:30PM",
+      "event_date": "10/06/25",
+      "channel_name": "HDD A",
+      "event_title": "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MZVGG4T4N4EAAAQ3AIDQCCDANU/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges [SKA]",
-      "url": "http://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MJ2WE6TKNAEAWBINAIAR6BTBM5QXMYI/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "02:30PM",
+      "event_date": "10/06/25",
+      "event_title": "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges (10/06/25) [STREAM 3[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MJVGG4T4N4EAAAQ3AIDQCCDBNU/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges [MOVISTAR2]",
-      "url": "http://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MJ2WE6TKNAEAWBINAIAR6BTBM5QXMZY/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "02:30PM",
+      "event_date": "10/06/25",
+      "event_title": "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges (10/06/25) [STREAM 3_FHD[FULL HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MJVGG4T4N4EAAAQ3AIDQCCDAM4/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges [HDD A]",
-      "url": "http://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MZVGG4T4N4EAAAQ3AIDQCCDANU/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "02:30PM",
+      "event_date": "10/06/25",
+      "channel_name": "SKA",
+      "event_title": "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MJ2WE6TKNAEAWBINAIAR6BTBM5QXMYI/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges [STREAM 3[HD]]",
-      "url": "http://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MJVGG4T4N4EAAAQ3AIDQCCDBNU/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "02:30PM",
+      "event_date": "10/06/25",
+      "channel_name": "MOVISTAR2",
+      "event_title": "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MJ2WE6TKNAEAWBINAIAR6BTBM5QXMZY/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges [STREAM 3_FHD[FULL HD]]",
-      "url": "http://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MJVGG4T4N4EAAAQ3AIDQCCDAM4/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "02:30PM",
+      "event_date": "10/06/25",
+      "channel_name": "HDD A",
+      "event_title": "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MZVGG4T4N4EAAAQ3AIDQCCDANU/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges [SKA]",
-      "url": "http://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MJ2WE6TKNAEAWBINAIAR6BTBM5QXMYI/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "02:30PM",
+      "event_date": "10/06/25",
+      "event_title": "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges (10/06/25) [STREAM 3[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MJVGG4T4N4EAAAQ3AIDQCCDBNU/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges [MOVISTAR2]",
-      "url": "http://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MJ2WE6TKNAEAWBINAIAR6BTBM5QXMZY/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "02:30PM",
+      "event_date": "10/06/25",
+      "event_title": "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges (10/06/25) [STREAM 3_FHD[FULL HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MJVGG4T4N4EAAAQ3AIDQCCDAM4/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges [HDD A]",
-      "url": "http://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MZVGG4T4N4EAAAQ3AIDQCCDANU/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "02:35PM",
+      "event_date": "10/06/25",
+      "channel_name": "HDD A",
+      "event_title": "Atp Shanghai, China Men Double - Arevalo M / Pavic M Vs Neal Skupski/John Patrick Smith (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKGCDK5CVKXC7CB6XG6TQCUZTEPBTMUPWWMZKCF6FMVK4CBRVWJRFEMXDW2Y7H4WTY2YVHBCUAWSXLMIGGXJ2EE4GK6DOOV7XM7L5NJUAQCYLAABQQHYCMRSGQ4LD/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges [STREAM 3[HD]]",
-      "url": "http://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MJVGG4T4N4EAAAQ3AIDQCCDBNU/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "02:35PM",
+      "event_date": "10/06/25",
+      "channel_name": "HDD A",
+      "event_title": "Atp Shanghai, China Men Double - Arevalo M / Pavic M Vs Neal Skupski/John Patrick Smith (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKGCDK5CVKXC7CB6XG6TQCUZTEPBTMUPWWMZKCF6FMVK4CBRVWJRFEMXDW2Y7H4WTY2YVHBCUAWSXLMIGGXJ2EE4GK6DOOV7XM7L5NJUAQCYLAABQQHYCMRSGQ4LD/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges [STREAM 3_FHD[FULL HD]]",
-      "url": "http://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MJVGG4T4N4EAAAQ3AIDQCCDAM4/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "03:15PM",
+      "event_date": "10/06/25",
+      "channel_name": "VDO",
+      "event_title": "Wta Wuhan, China Women Singles - Zhu Lin Vs Joint Maya (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKA2ZI4JXQWK6CBDCA5I2FI5SUILQBAZTEJDZDMMBGGYDD4BAAY3EP52GW7LNNFYWIZDTNMBQGAID/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Wuhan, China Women Singles - Varvara Gracheva Vs Jessica Bouzas Maneiro [HDD A]",
-      "url": "http://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKD2QIBCVKQSRCB3SCNBTFU3TENDQGMQWWDZ4IJAVUV2RCBZF6JRPGE3HECJUHYQDWOJKPENRQEY3AMPQMH3CNRUXY2TRMR7XOZL2PVVAM/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "03:15PM",
+      "event_date": "10/06/25",
+      "channel_name": "HDD A",
+      "event_title": "Wta Wuhan, China Women Singles - Zhu Lin Vs Joint Maya (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKA2ZI4JXQWK6CBDCA5I2FI5SUILQBAZTEJDZDMMBGGYDD4DB6YTMNF6WW4DDP53WK6T5NUCA/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Wuhan, China Women Singles - Varvara Gracheva Vs Jessica Bouzas Maneiro [HDD A]",
-      "url": "http://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKD2QIBCVKQSRCB3SCNBTFU3TENDQGMQWWDZ4IJAVUV2RCBZF6JRPGE3HECJUHYQDWOJKPENRQEY3AMPQMH3CNRUXY2TRMR7XOZL2PVVAM/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "03:15PM",
+      "event_date": "10/06/25",
+      "channel_name": "VDO",
+      "event_title": "Wta Wuhan, China Women Singles - Zhu Lin Vs Joint Maya (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKA2ZI4JXQWK6CBDCA5I2FI5SUILQBAZTEJDZDMMBGGYDD4BAAY3EP52GW7LNNFYWIZDTNMBQGAID/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Wuhan, China Women Singles - Zhu Lin Vs Joint Maya [VDO]",
-      "url": "http://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKA2ZI4JXQWK6CBDCA5I2FI5SUILQBAZTEJDZDMMBGGYDD4BAAY3EP52GW7LNNFYWIZDTNMBQGAID/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "03:15PM",
+      "event_date": "10/06/25",
+      "channel_name": "HDD A",
+      "event_title": "Wta Wuhan, China Women Singles - Zhu Lin Vs Joint Maya (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKA2ZI4JXQWK6CBDCA5I2FI5SUILQBAZTEJDZDMMBGGYDD4DB6YTMNF6WW4DDP53WK6T5NUCA/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Wuhan, China Women Singles - Zhu Lin Vs Joint Maya [HDD A]",
-      "url": "http://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKA2ZI4JXQWK6CBDCA5I2FI5SUILQBAZTEJDZDMMBGGYDD4DB6YTMNF6WW4DDP53WK6T5NUCA/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "03:35PM",
+      "event_date": "10/06/25",
+      "channel_name": "HDD A",
+      "event_title": "Wta Wuhan, China Women Singles - Varvara Gracheva Vs Jessica Bouzas Maneiro (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKD2QIBCVKQSRCB3SCNBTFU3TENDQGMQWWDZ4IJAVUV2RCBZF6JRPGE3HECJUHYQDWOJKPENRQEY3AMPQMH3CNRUXY2TRMR7XOZL2PVVAM/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Wuhan, China Women Singles - Zhu Lin Vs Joint Maya [VDO]",
-      "url": "http://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKA2ZI4JXQWK6CBDCA5I2FI5SUILQBAZTEJDZDMMBGGYDD4BAAY3EP52GW7LNNFYWIZDTNMBQGAID/index.m3u8"
+      "group_title": "TENNIS"
     },
     {
-      "type": "segment",
+      "event_time": "03:35PM",
+      "event_date": "10/06/25",
+      "channel_name": "HDD A",
+      "event_title": "Wta Wuhan, China Women Singles - Varvara Gracheva Vs Jessica Bouzas Maneiro (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKD2QIBCVKQSRCB3SCNBTFU3TENDQGMQWWDZ4IJAVUV2RCBZF6JRPGE3HECJUHYQDWOJKPENRQEY3AMPQMH3CNRUXY2TRMR7XOZL2PVVAM/index.m3u8",
+      "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Wuhan, China Women Singles - Zhu Lin Vs Joint Maya [HDD A]",
-      "url": "http://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKA2ZI4JXQWK6CBDCA5I2FI5SUILQBAZTEJDZDMMBGGYDD4DB6YTMNF6WW4DDP53WK6T5NUCA/index.m3u8"
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "03:50PM",
+      "event_date": "10/06/25",
+      "channel_name": "HDD A",
+      "event_title": "Wta Wuhan, China Women Doubles - Muhammad A / Schuurs D Vs Kichenok L / Perez E (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKFCELJJFSXKRKQIBE5L7MUASOPJFGAQDQZI5CFCEAFD3LFJVQNR3H4XHECDVP5SQELRXHRFRE5QUDINBAH3APJTGUY35NRUXIY34NJVQMAYLAADQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "03:50PM",
+      "event_date": "10/06/25",
+      "channel_name": "HDD A",
+      "event_title": "Wta Wuhan, China Women Doubles - Muhammad A / Schuurs D Vs Kichenok L / Perez E (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKFCELJJFSXKRKQIBE5L7MUASOPJFGAQDQZI5CFCEAFD3LFJVQNR3H4XHECDVP5SQELRXHRFRE5QUDINBAH3APJTGUY35NRUXIY34NJVQMAYLAADQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "04:00PM",
+      "event_date": "10/06/25",
+      "channel_name": "MOVISTAR2",
+      "event_title": "Atp Shanghai, China Men Singles - Luciano Darderi Vs Lorenzo Musetti (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L5I5IF2UK6L4IBONBCEE3TMPDQGMQWWCJWINLV2TS7CB6UKIBQEQYTWZD7PJSX26DKNMAQEAQ3AEEQSBTKM5RGUZDWM5QXMZI/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "04:00PM",
+      "event_date": "10/06/25",
+      "channel_name": "MOVISTAR2",
+      "event_title": "Atp Shanghai, China Men Singles - Luciano Darderi Vs Lorenzo Musetti (10/06/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L5I5IF2UK6L4IBONBCEE3TMPDQGMQWWCJWINLV2TS7CB6UKIBQEQYTWZD7PJSX26DKNMAQEAQ3AEEQSBTKM5RGUZDWM5QXMZI/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
     }
   ],
-  "events": [],
-  "grouped_events": {},
+  "grouped_events": {
+    "Atp Shanghai, China Men Singles - Denis Shapovalov Vs Jiri Lehecka (10/06/25)": {
+      "event_title": "Atp Shanghai, China Men Singles - Denis Shapovalov Vs Jiri Lehecka (10/06/25)",
+      "event_time": "02:30PM",
+      "event_date": "10/06/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "MOVISTAR2",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LVK5OV2QYQMNMDEJJ7GMZSQORGMUSDQZITLBAFUFD4KVMFKMB6GFSXQ3TVP53H26LVNEAB2AQNBEDASATAPJTHOYDVMZTA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LVK5OV2QYQMNMDEJJ7GMZSQORGMUSDQZITLBAFUFD4KVMFKMB6GFSXQ3TVP53H27LKNAEAWBINAIBR6ATEMRUHCYQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "MOVISTAR2",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LVK5OV2QYQMNMDEJJ7GMZSQORGMUSDQZITLBAFUFD4KVMFKMB6GFSXQ3TVP53H26LVNEAB2AQNBEDASATAPJTHOYDVMZTA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LVK5OV2QYQMNMDEJJ7GMZSQORGMUSDQZITLBAFUFD4KVMFKMB6GFSXQ3TVP53H27LKNAEAWBINAIBR6ATEMRUHCYQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges (10/06/25)": {
+      "event_title": "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges (10/06/25)",
+      "event_time": "02:30PM",
+      "event_date": "10/06/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SKA",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MJ2WE6TKNAEAWBINAIAR6BTBM5QXMYI/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "MOVISTAR2",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MJ2WE6TKNAEAWBINAIAR6BTBM5QXMZY/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MZVGG4T4N4EAAAQ3AIDQCCDANU/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SKA",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MJ2WE6TKNAEAWBINAIAR6BTBM5QXMYI/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "MOVISTAR2",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MJ2WE6TKNAEAWBINAIAR6BTBM5QXMZY/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MZVGG4T4N4EAAAQ3AIDQCCDANU/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges (10/06/25) [STREAM 3[HD]]": {
+      "event_title": "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges (10/06/25) [STREAM 3[HD]]",
+      "event_time": "02:30PM",
+      "event_date": "10/06/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MJVGG4T4N4EAAAQ3AIDQCCDBNU/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MJVGG4T4N4EAAAQ3AIDQCCDBNU/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges (10/06/25) [STREAM 3_FHD[FULL HD]]": {
+      "event_title": "Atp Shanghai, China Men Singles - Shang Juncheng Vs Nuno Borges (10/06/25) [STREAM 3_FHD[FULL HD]]",
+      "event_time": "02:30PM",
+      "event_date": "10/06/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MJVGG4T4N4EAAAQ3AIDQCCDAM4/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LCLJJFUVYQPJCT2NRYEA6CG5JGGZZAKMBXLYJHCW2CK5KUG437PJSX2532MJVGG4T4N4EAAAQ3AIDQCCDAM4/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Atp Shanghai, China Men Double - Arevalo M / Pavic M Vs Neal Skupski/John Patrick Smith (10/06/25)": {
+      "event_title": "Atp Shanghai, China Men Double - Arevalo M / Pavic M Vs Neal Skupski/John Patrick Smith (10/06/25)",
+      "event_time": "02:35PM",
+      "event_date": "10/06/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKGCDK5CVKXC7CB6XG6TQCUZTEPBTMUPWWMZKCF6FMVK4CBRVWJRFEMXDW2Y7H4WTY2YVHBCUAWSXLMIGGXJ2EE4GK6DOOV7XM7L5NJUAQCYLAABQQHYCMRSGQ4LD/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKGCDK5CVKXC7CB6XG6TQCUZTEPBTMUPWWMZKCF6FMVK4CBRVWJRFEMXDW2Y7H4WTY2YVHBCUAWSXLMIGGXJ2EE4GK6DOOV7XM7L5NJUAQCYLAABQQHYCMRSGQ4LD/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Wuhan, China Women Singles - Zhu Lin Vs Joint Maya (10/06/25)": {
+      "event_title": "Wta Wuhan, China Women Singles - Zhu Lin Vs Joint Maya (10/06/25)",
+      "event_time": "03:15PM",
+      "event_date": "10/06/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKA2ZI4JXQWK6CBDCA5I2FI5SUILQBAZTEJDZDMMBGGYDD4BAAY3EP52GW7LNNFYWIZDTNMBQGAID/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKA2ZI4JXQWK6CBDCA5I2FI5SUILQBAZTEJDZDMMBGGYDD4DB6YTMNF6WW4DDP53WK6T5NUCA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKA2ZI4JXQWK6CBDCA5I2FI5SUILQBAZTEJDZDMMBGGYDD4BAAY3EP52GW7LNNFYWIZDTNMBQGAID/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKA2ZI4JXQWK6CBDCA5I2FI5SUILQBAZTEJDZDMMBGGYDD4DB6YTMNF6WW4DDP53WK6T5NUCA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Wuhan, China Women Singles - Varvara Gracheva Vs Jessica Bouzas Maneiro (10/06/25)": {
+      "event_title": "Wta Wuhan, China Women Singles - Varvara Gracheva Vs Jessica Bouzas Maneiro (10/06/25)",
+      "event_time": "03:35PM",
+      "event_date": "10/06/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKD2QIBCVKQSRCB3SCNBTFU3TENDQGMQWWDZ4IJAVUV2RCBZF6JRPGE3HECJUHYQDWOJKPENRQEY3AMPQMH3CNRUXY2TRMR7XOZL2PVVAM/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKD2QIBCVKQSRCB3SCNBTFU3TENDQGMQWWDZ4IJAVUV2RCBZF6JRPGE3HECJUHYQDWOJKPENRQEY3AMPQMH3CNRUXY2TRMR7XOZL2PVVAM/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Wuhan, China Women Doubles - Muhammad A / Schuurs D Vs Kichenok L / Perez E (10/06/25)": {
+      "event_title": "Wta Wuhan, China Women Doubles - Muhammad A / Schuurs D Vs Kichenok L / Perez E (10/06/25)",
+      "event_time": "03:50PM",
+      "event_date": "10/06/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKFCELJJFSXKRKQIBE5L7MUASOPJFGAQDQZI5CFCEAFD3LFJVQNR3H4XHECDVP5SQELRXHRFRE5QUDINBAH3APJTGUY35NRUXIY34NJVQMAYLAADQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKFCELJJFSXKRKQIBE5L7MUASOPJFGAQDQZI5CFCEAFD3LFJVQNR3H4XHECDVP5SQELRXHRFRE5QUDINBAH3APJTGUY35NRUXIY34NJVQMAYLAADQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Atp Shanghai, China Men Singles - Luciano Darderi Vs Lorenzo Musetti (10/06/25)": {
+      "event_title": "Atp Shanghai, China Men Singles - Luciano Darderi Vs Lorenzo Musetti (10/06/25)",
+      "event_time": "04:00PM",
+      "event_date": "10/06/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "MOVISTAR2",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L5I5IF2UK6L4IBONBCEE3TMPDQGMQWWCJWINLV2TS7CB6UKIBQEQYTWZD7PJSX26DKNMAQEAQ3AEEQSBTKM5RGUZDWM5QXMZI/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "MOVISTAR2",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L5I5IF2UK6L4IBONBCEE3TMPDQGMQWWCJWINLV2TS7CB6UKIBQEQYTWZD7PJSX26DKNMAQEAQ3AEEQSBTKM5RGUZDWM5QXMZI/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    }
+  },
   "metadata": {}
 }
