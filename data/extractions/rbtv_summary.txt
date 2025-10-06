@@ -1,40 +1,16 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-06T23:28:23.728035
+Extraction Time: 2025-10-06T23:38:33.142488
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 13
-- Total Channels: 17
+- Unique Events: 1
+- Total Channels: 2
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
-- Usa: Ncaa - Willie Vs Simmons Coach'S Show (10/07/25)
-  Time: 06:00AM, Channels: 1
-- Usa: Nfl - Monday Vs Night Countdown (10/07/25)
-  Time: 06:00AM, Channels: 1
-- Ultimate Pool 2025 - Group B Pairs Cup Last 16 (10/07/25)
-  Time: 01:00AM, Channels: 1
-- Major League Baseball - Philadelphia Phillies Vs Los Angeles...
-  Time: 06:08AM, Channels: 1
-- National Basketball Association - Miami Heat Vs Milwaukee Bu...
-  Time: 07:30AM, Channels: 2
-- Bolivian Copa Lfpb - Real Oruro Vs Academiadb (10/07/25)
-  Time: 05:30AM, Channels: 1
-- Paraguayan Primera Division - General Caballero Vs Fc Nacion...
-  Time: 05:30AM, Channels: 1
-- Argentine Division 1 - Deportivo Riestra Vs Velez Sarsfield ...
+- {'4': 68, '8': 7308895194058155890, '13': 353995073190280639...
   Time: 06:00AM, Channels: 2
-- Uruguay Primera Division - Defensor Sporting Montevideo Vs M...
-  Time: 06:00AM, Channels: 2
-- Colombian Torneo Betplay Dimayor - Tigres Zipaquira Vs Patri...
-  Time: 06:30AM, Channels: 2
-- Arg Primera Nacional - All Boys Vs Los Andes (10/07/25)
-  Time: 07:00AM, Channels: 1
-- Conmebol Copa Libertadores Femenino - Sao Paulo/Sp Women Vs ...
-  Time: 07:00AM, Channels: 1
-- Conmebol Copa Libertadores Femenino - Sportivo Limpeno Women...
-  Time: 07:00AM, Channels: 1
