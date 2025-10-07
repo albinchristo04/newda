@@ -1,4 +1,4 @@
-Extracted at: 2025-10-07T04:18:55.155323
+Extracted at: 2025-10-07T04:40:48.574422
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -18,12 +18,9 @@ EVENT: National Basketball Association - Toronto Raptors Vs Denver Nuggets (10/0
 Time: 10:00AM
 Date: 10/07/25
 Category: None
-Available Channels (2):
+Available Channels (1):
   1. HDD A
      URL: https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LFLVAVWXSEL4IACNBAGE6TMJTQGMQWWAJ4L5CFMRQQPZCVONBQEQ3HE3T7OB3XEYLPPEDREGI6CAAQSCLLMBUHI4TOP5YHOZL2PRXAI/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
-  2. SD
-     URL: https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LFLVAVWXSEL4IACNBAGE6TMJTQGMQWWAJ4L5CFMRQQPZCVONBQEQ3HE3T7OB3XEYLPPEBBEGI6CAAQSCLLMBUHI4TOP5YHOZL2PRXAO/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
 
 ================================================================================
@@ -36,20 +33,6 @@ Available Channels (1):
   1. MOVISTAR2
      URL: https://world-proxifier.xyz/rbtv/p/AYJRGZIUFUZDQMLSAUWD4WKGBEKGKXCSKUQTE4BTEFSAONJ4G44GK4IDAIAQCGIQDUIDEJZEEAQWSOBRG4YSEJBVKRAR4WKZJBCFCIDVPVSQMKZYOAFT2JZEG4IUIQAUONMFCQR7HQ2WKEJFHAQCONZHFF4RWGATAUCBAGQ2ONTWA5LDMR7XUZLAPN2WSBACAYKBUGQQAZQWOYLSMA/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp
-
-================================================================================
-
-EVENT: United States Women'S National Soccer League - Angel City Fc Women Vs Kansas City Current Women (10/07/25)
-Time: 10:30AM
-Date: 10/07/25
-Category: None
-Available Channels (2):
-  1. HDD A
-     URL: https://world-proxifier.xyz/rbtv/p/AY5TSMJXEB2QGMJTH4QCUELFLRMVKXQXINZRWMJRHMVTWMJJOIMCUOSSK5ARI7CVKFLSMMDQNBZAKOZXEA7GWBRQIVFRG4TTCBTV6PRQHZSSIN3VDMSDYOBEFIIXCWSAJEIHGRJBE42SWJTEAI7SQNZFMVZRWEQCCQNBUEAGON7XUZLGOVTGC7DCPNSXGGYSAACAQBIABE/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-  2. SD
-     URL: https://world-proxifier.xyz/rbtv/p/AY5TSMJXEB2QGMJTH4QCUELFLRMVKXQXINZRWMJRHMVTWMJJOIMCUOSSK5ARI7CVKFLSMMDQNBZAKOZXEA7GWBRQIVFRG4TTCBTV6PRQHZSSIN3VDMSDYOBEFIIXCWSAJEIHGRJBE42SWJTEAI7SQNZFMVZRWEQCCQNBUEADON7XUZLGOVTGC7DCPNSXGGYSAACAQBIABA/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
 ================================================================================
 
@@ -93,6 +76,75 @@ Category: None
 Available Channels (1):
   1. HDD A
      URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKF2QLVPF2ED7INITQNDQGMQWIGJVHQ7CULLZO5LUCWSRLZKFKKLVPJXXE53VPJXXE7LFOMNREAQNBEEASBDDOV5G64TWMJQXYZLS/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Wta Wuhan, China Women Doubles - Storm Sanders/Katerina Siniakova Vs Krueger A / Pegula J (10/07/25)
+Time: 12:00PM
+Date: 10/07/25
+Category: None
+Available Channels (1):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKCSFLVAVSEDDKFPDOMBCGZ6Q6NBEEAQCEKZYCFQVUWSZKFNV6JJUOAZSCZA6EIYDOLBAFMIXGEY3CBQFKVZGHEYWKGDEP55GKYLLN5ZRCBATDYNBAAIJNJWGC5DGMR7XUZLAPR2GACIK/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Atp Shanghai, China Men Singles - Gabriel Diallo Vs Zizou Bergs (10/07/25)
+Time: 12:30PM
+Date: 10/07/25
+Category: None
+Available Channels (2):
+  1. SKA
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWKNIUMWKVLQIBOPBRFE7CW5JGGZZBCLBDLZDRG5SVIJLUG437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCDGNVTGK6DOOVTHOYD2PVVQ/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  2. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWKNIUMWKVLQIBOPBRFE7CW5JGGZZBCLBDLZDRG5SVIJLUG437PJSWCZD7PJSWI23POMIQGCQNBACQQBTTP55GKYDTMRUXYYY/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Wta Wuhan, China Women Singles - Emma Raducanu Vs Ann Li (10/07/25)
+Time: 12:40PM
+Date: 10/07/25
+Category: None
+Available Channels (1):
+  1. HDD B
+     URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKHC4L5JBIYSRKRCTANB6GBZDEJTQAQ6CKZIVLAJBSHQQAMIBU6LVMZSXQ3TVMF6GW434NUCREGI6CABAOALKNVTQ/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Wta Wuhan, China Women Singles - Magdalena Frech Vs Veronika Kudermetova (10/07/25)
+Time: 12:40PM
+Date: 10/07/25
+Category: None
+Available Channels (1):
+  1. HDD B
+     URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQKVLVKXCVLZIXGEZCEAYSY5JGGZZB2IBLLZOFUX2RCB5UKNZQEIUDOMB2EYSHEYLPPEBBEGI6CADBAGTZOVQXY234NRRXG4TBN54QGBICBUEAI/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Wta Wuhan, China Women Singles - Marta Kostyuk Vs Karolina Muchova (10/07/25)
+Time: 12:40PM
+Date: 10/07/25
+Category: None
+Available Channels (1):
+  1. HDD B
+     URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQIBDVKED3L5BSOLBFFZZDEJTQBYZTSKRVLBOFEFD5IVJVQPBDGFSXQ3TVMNSXQYLFN4IRQGIUAEEQSCDKMFRWK6DOOVRHEY3SPVXQ/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Wta Wuhan, China Women Singles - Rebecca Sramkova Vs Anna Kalinskaya (10/07/25)
+Time: 12:40PM
+Date: 10/07/25
+Category: None
+Available Channels (1):
+  1. HDD B
+     URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKC2UKBLFOU2RCBRSCNB5FY6TENDQGMQWWBBXL5JRG72RLRMV4IB6GE6DGZD7PJSWC23POMIQIEY6DIIACCLKNVUXCY3EP55GKYD4ORQASBY/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
 
 ================================================================================

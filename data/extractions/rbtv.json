@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-07T04:18:55.155323",
+  "timestamp": "2025-10-07T04:40:48.574422",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -25,16 +25,6 @@
       "group_title": "BASKETBALL"
     },
     {
-      "event_time": "10:00AM",
-      "event_date": "10/07/25",
-      "channel_name": "SD",
-      "event_title": "National Basketball Association - Toronto Raptors Vs Denver Nuggets (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LFLVAVWXSEL4IACNBAGE6TMJTQGMQWWAJ4L5CFMRQQPZCVONBQEQ3HE3T7OB3XEYLPPEBBEGI6CAAQSCLLMBUHI4TOP5YHOZL2PRXAO/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
-    },
-    {
       "event_time": "08:10AM",
       "event_date": "10/07/25",
       "channel_name": "MOVISTAR2",
@@ -43,26 +33,6 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
       "group_title": "FIGHTING"
-    },
-    {
-      "event_time": "10:30AM",
-      "event_date": "10/07/25",
-      "channel_name": "HDD A",
-      "event_title": "United States Women'S National Soccer League - Angel City Fc Women Vs Kansas City Current Women (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AY5TSMJXEB2QGMJTH4QCUELFLRMVKXQXINZRWMJRHMVTWMJJOIMCUOSSK5ARI7CVKFLSMMDQNBZAKOZXEA7GWBRQIVFRG4TTCBTV6PRQHZSSIN3VDMSDYOBEFIIXCWSAJEIHGRJBE42SWJTEAI7SQNZFMVZRWEQCCQNBUEAGON7XUZLGOVTGC7DCPNSXGGYSAACAQBIABE/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "10:30AM",
-      "event_date": "10/07/25",
-      "channel_name": "SD",
-      "event_title": "United States Women'S National Soccer League - Angel City Fc Women Vs Kansas City Current Women (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AY5TSMJXEB2QGMJTH4QCUELFLRMVKXQXINZRWMJRHMVTWMJJOIMCUOSSK5ARI7CVKFLSMMDQNBZAKOZXEA7GWBRQIVFRG4TTCBTV6PRQHZSSIN3VDMSDYOBEFIIXCWSAJEIHGRJBE42SWJTEAI7SQNZFMVZRWEQCCQNBUEADON7XUZLGOVTGC7DCPNSXGGYSAACAQBIABA/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
     },
     {
       "event_time": "11:00AM",
@@ -103,6 +73,76 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
+    },
+    {
+      "event_time": "12:00PM",
+      "event_date": "10/07/25",
+      "channel_name": "HDD A",
+      "event_title": "Wta Wuhan, China Women Doubles - Storm Sanders/Katerina Siniakova Vs Krueger A / Pegula J (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKCSFLVAVSEDDKFPDOMBCGZ6Q6NBEEAQCEKZYCFQVUWSZKFNV6JJUOAZSCZA6EIYDOLBAFMIXGEY3CBQFKVZGHEYWKGDEP55GKYLLN5ZRCBATDYNBAAIJNJWGC5DGMR7XUZLAPR2GACIK/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "12:30PM",
+      "event_date": "10/07/25",
+      "channel_name": "SKA",
+      "event_title": "Atp Shanghai, China Men Singles - Gabriel Diallo Vs Zizou Bergs (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWKNIUMWKVLQIBOPBRFE7CW5JGGZZBCLBDLZDRG5SVIJLUG437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCDGNVTGK6DOOVTHOYD2PVVQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "12:30PM",
+      "event_date": "10/07/25",
+      "channel_name": "HDD A",
+      "event_title": "Atp Shanghai, China Men Singles - Gabriel Diallo Vs Zizou Bergs (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWKNIUMWKVLQIBOPBRFE7CW5JGGZZBCLBDLZDRG5SVIJLUG437PJSWCZD7PJSWI23POMIQGCQNBACQQBTTP55GKYDTMRUXYYY/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "12:40PM",
+      "event_date": "10/07/25",
+      "channel_name": "HDD B",
+      "event_title": "Wta Wuhan, China Women Singles - Emma Raducanu Vs Ann Li (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKHC4L5JBIYSRKRCTANB6GBZDEJTQAQ6CKZIVLAJBSHQQAMIBU6LVMZSXQ3TVMF6GW434NUCREGI6CABAOALKNVTQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "12:40PM",
+      "event_date": "10/07/25",
+      "channel_name": "HDD B",
+      "event_title": "Wta Wuhan, China Women Singles - Magdalena Frech Vs Veronika Kudermetova (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQKVLVKXCVLZIXGEZCEAYSY5JGGZZB2IBLLZOFUX2RCB5UKNZQEIUDOMB2EYSHEYLPPEBBEGI6CADBAGTZOVQXY234NRRXG4TBN54QGBICBUEAI/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "12:40PM",
+      "event_date": "10/07/25",
+      "channel_name": "HDD B",
+      "event_title": "Wta Wuhan, China Women Singles - Marta Kostyuk Vs Karolina Muchova (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQIBDVKED3L5BSOLBFFZZDEJTQBYZTSKRVLBOFEFD5IVJVQPBDGFSXQ3TVMNSXQYLFN4IRQGIUAEEQSCDKMFRWK6DOOVRHEY3SPVXQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "12:40PM",
+      "event_date": "10/07/25",
+      "channel_name": "HDD B",
+      "event_title": "Wta Wuhan, China Women Singles - Rebecca Sramkova Vs Anna Kalinskaya (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKC2UKBLFOU2RCBRSCNB5FY6TENDQGMQWWBBXL5JRG72RLRMV4IB6GE6DGZD7PJSWC23POMIQIEY6DIIACCLKNVUXCY3EP55GKYD4ORQASBY/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
     }
   ],
   "grouped_events": {
@@ -131,12 +171,6 @@
           "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LFLVAVWXSEL4IACNBAGE6TMJTQGMQWWAJ4L5CFMRQQPZCVONBQEQ3HE3T7OB3XEYLPPEDREGI6CAAQSCLLMBUHI4TOP5YHOZL2PRXAI/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
           "duration": null
-        },
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LFLVAVWXSEL4IACNBAGE6TMJTQGMQWWAJ4L5CFMRQQPZCVONBQEQ3HE3T7OB3XEYLPPEBBEGI6CAAQSCLLMBUHI4TOP5YHOZL2PRXAO/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
         }
       ]
     },
@@ -150,26 +184,6 @@
           "channel_name": "MOVISTAR2",
           "url": "https://world-proxifier.xyz/rbtv/p/AYJRGZIUFUZDQMLSAUWD4WKGBEKGKXCSKUQTE4BTEFSAONJ4G44GK4IDAIAQCGIQDUIDEJZEEAQWSOBRG4YSEJBVKRAR4WKZJBCFCIDVPVSQMKZYOAFT2JZEG4IUIQAUONMFCQR7HQ2WKEJFHAQCONZHFF4RWGATAUCBAGQ2ONTWA5LDMR7XUZLAPN2WSBACAYKBUGQQAZQWOYLSMA/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "United States Women'S National Soccer League - Angel City Fc Women Vs Kansas City Current Women (10/07/25)": {
-      "event_title": "United States Women'S National Soccer League - Angel City Fc Women Vs Kansas City Current Women (10/07/25)",
-      "event_time": "10:30AM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AY5TSMJXEB2QGMJTH4QCUELFLRMVKXQXINZRWMJRHMVTWMJJOIMCUOSSK5ARI7CVKFLSMMDQNBZAKOZXEA7GWBRQIVFRG4TTCBTV6PRQHZSSIN3VDMSDYOBEFIIXCWSAJEIHGRJBE42SWJTEAI7SQNZFMVZRWEQCCQNBUEAGON7XUZLGOVTGC7DCPNSXGGYSAACAQBIABE/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AY5TSMJXEB2QGMJTH4QCUELFLRMVKXQXINZRWMJRHMVTWMJJOIMCUOSSK5ARI7CVKFLSMMDQNBZAKOZXEA7GWBRQIVFRG4TTCBTV6PRQHZSSIN3VDMSDYOBEFIIXCWSAJEIHGRJBE42SWJTEAI7SQNZFMVZRWEQCCQNBUEADON7XUZLGOVTGC7DCPNSXGGYSAACAQBIABA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }
       ]
@@ -225,6 +239,96 @@
         {
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKF2QLVPF2ED7INITQNDQGMQWIGJVHQ7CULLZO5LUCWSRLZKFKKLVPJXXE53VPJXXE7LFOMNREAQNBEEASBDDOV5G64TWMJQXYZLS/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Wuhan, China Women Doubles - Storm Sanders/Katerina Siniakova Vs Krueger A / Pegula J (10/07/25)": {
+      "event_title": "Wta Wuhan, China Women Doubles - Storm Sanders/Katerina Siniakova Vs Krueger A / Pegula J (10/07/25)",
+      "event_time": "12:00PM",
+      "event_date": "10/07/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKCSFLVAVSEDDKFPDOMBCGZ6Q6NBEEAQCEKZYCFQVUWSZKFNV6JJUOAZSCZA6EIYDOLBAFMIXGEY3CBQFKVZGHEYWKGDEP55GKYLLN5ZRCBATDYNBAAIJNJWGC5DGMR7XUZLAPR2GACIK/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Atp Shanghai, China Men Singles - Gabriel Diallo Vs Zizou Bergs (10/07/25)": {
+      "event_title": "Atp Shanghai, China Men Singles - Gabriel Diallo Vs Zizou Bergs (10/07/25)",
+      "event_time": "12:30PM",
+      "event_date": "10/07/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SKA",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWKNIUMWKVLQIBOPBRFE7CW5JGGZZBCLBDLZDRG5SVIJLUG437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCDGNVTGK6DOOVTHOYD2PVVQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWKNIUMWKVLQIBOPBRFE7CW5JGGZZBCLBDLZDRG5SVIJLUG437PJSWCZD7PJSWI23POMIQGCQNBACQQBTTP55GKYDTMRUXYYY/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Wuhan, China Women Singles - Emma Raducanu Vs Ann Li (10/07/25)": {
+      "event_title": "Wta Wuhan, China Women Singles - Emma Raducanu Vs Ann Li (10/07/25)",
+      "event_time": "12:40PM",
+      "event_date": "10/07/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD B",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKHC4L5JBIYSRKRCTANB6GBZDEJTQAQ6CKZIVLAJBSHQQAMIBU6LVMZSXQ3TVMF6GW434NUCREGI6CABAOALKNVTQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Wuhan, China Women Singles - Magdalena Frech Vs Veronika Kudermetova (10/07/25)": {
+      "event_title": "Wta Wuhan, China Women Singles - Magdalena Frech Vs Veronika Kudermetova (10/07/25)",
+      "event_time": "12:40PM",
+      "event_date": "10/07/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD B",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQKVLVKXCVLZIXGEZCEAYSY5JGGZZB2IBLLZOFUX2RCB5UKNZQEIUDOMB2EYSHEYLPPEBBEGI6CADBAGTZOVQXY234NRRXG4TBN54QGBICBUEAI/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Wuhan, China Women Singles - Marta Kostyuk Vs Karolina Muchova (10/07/25)": {
+      "event_title": "Wta Wuhan, China Women Singles - Marta Kostyuk Vs Karolina Muchova (10/07/25)",
+      "event_time": "12:40PM",
+      "event_date": "10/07/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD B",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQIBDVKED3L5BSOLBFFZZDEJTQBYZTSKRVLBOFEFD5IVJVQPBDGFSXQ3TVMNSXQYLFN4IRQGIUAEEQSCDKMFRWK6DOOVRHEY3SPVXQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Wuhan, China Women Singles - Rebecca Sramkova Vs Anna Kalinskaya (10/07/25)": {
+      "event_title": "Wta Wuhan, China Women Singles - Rebecca Sramkova Vs Anna Kalinskaya (10/07/25)",
+      "event_time": "12:40PM",
+      "event_date": "10/07/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD B",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKC2UKBLFOU2RCBRSCNB5FY6TENDQGMQWWBBXL5JRG72RLRMV4IB6GE6DGZD7PJSWC23POMIQIEY6DIIACCLKNVUXCY3EP55GKYD4ORQASBY/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
