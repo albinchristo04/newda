@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-07T23:27:54.527708",
+  "timestamp": "2025-10-07T23:38:05.488408",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -86,19 +86,9 @@
     {
       "event_time": "07:00AM",
       "event_date": "10/08/25",
-      "channel_name": "HDD A",
+      "channel_name": "HDD A ESPA\u00d1OL",
       "event_title": "U20 World Cup - Chile U20 Vs Mexico U20 (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN3VQWK4KVZQAYTVOIZCM4AIG4ZSYOS6CJTAMAAQDINHGZDQN54GIY3QN54GW4LLBACQGBQICANBU43GMB6WO4LC/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "07:00AM",
-      "event_date": "10/08/25",
-      "channel_name": "HDD B ESPA\u00d1OL",
-      "event_title": "U20 World Cup - Chile U20 Vs Mexico U20 (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN3VQWK4KVZQAYTVOIZCM4AIG4ZSYOS6CJTAMAAQDINHGZDQN54GIY3QN54GW4LLBACQGBQICANBU43GMB6WO4LN/index.m3u8",
+      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN3VQWK4KVZQAYTVOIZCM4AIG4ZSYOS6CJTAMAAQDINHGZDQN54GIY3QN54GW4LLBACQGBQICANBU43GMB6WO4TF/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
@@ -273,14 +263,8 @@
       "category": null,
       "channels": [
         {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN3VQWK4KVZQAYTVOIZCM4AIG4ZSYOS6CJTAMAAQDINHGZDQN54GIY3QN54GW4LLBACQGBQICANBU43GMB6WO4LC/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "HDD B ESPA\u00d1OL",
-          "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN3VQWK4KVZQAYTVOIZCM4AIG4ZSYOS6CJTAMAAQDINHGZDQN54GIY3QN54GW4LLBACQGBQICANBU43GMB6WO4LN/index.m3u8",
+          "channel_name": "HDD A ESPA\u00d1OL",
+          "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN3VQWK4KVZQAYTVOIZCM4AIG4ZSYOS6CJTAMAAQDINHGZDQN54GIY3QN54GW4LLBACQGBQICANBU43GMB6WO4TF/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         },

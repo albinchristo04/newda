@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-07T23:27:54.527708
+Extraction Time: 2025-10-07T23:38:05.488408
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
 - Unique Events: 12
-- Total Channels: 16
+- Total Channels: 15
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -27,7 +27,7 @@ EVENT BREAKDOWN:
 - Brazilian Serie B - Amazonas Fc Vs Criciuma (10/08/25)
   Time: 07:00AM, Channels: 1
 - U20 World Cup - Chile U20 Vs Mexico U20 (10/08/25)
-  Time: 07:00AM, Channels: 3
+  Time: 07:00AM, Channels: 2
 - U20 World Cup - Chile U20 Vs Mexico U20 (10/08/25) [STREAM 3...
   Time: 07:00AM, Channels: 1
 - National Hockey League - Florida Panthers Vs Chicago Blackha...

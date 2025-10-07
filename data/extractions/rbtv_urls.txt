@@ -1,4 +1,4 @@
-Extracted at: 2025-10-07T23:27:54.527708
+Extracted at: 2025-10-07T23:38:05.488408
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -87,14 +87,11 @@ EVENT: U20 World Cup - Chile U20 Vs Mexico U20 (10/08/25)
 Time: 07:00AM
 Date: 10/08/25
 Category: None
-Available Channels (3):
-  1. HDD A
-     URL: https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN3VQWK4KVZQAYTVOIZCM4AIG4ZSYOS6CJTAMAAQDINHGZDQN54GIY3QN54GW4LLBACQGBQICANBU43GMB6WO4LC/index.m3u8
+Available Channels (2):
+  1. HDD A ESPAÑOL
+     URL: https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN3VQWK4KVZQAYTVOIZCM4AIG4ZSYOS6CJTAMAAQDINHGZDQN54GIY3QN54GW4LLBACQGBQICANBU43GMB6WO4TF/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-  2. HDD B ESPAÑOL
-     URL: https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN3VQWK4KVZQAYTVOIZCM4AIG4ZSYOS6CJTAMAAQDINHGZDQN54GIY3QN54GW4LLBACQGBQICANBU43GMB6WO4LN/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-  3. SD
+  2. SD
      URL: https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN3VQWK4KVZQAYTVOIZCM4AIG4ZSYOS6CJTAMAAQDINHGZDQN54GIZTQN54GW4LLBACQGBQICANBU43GMB6WO4LA/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
