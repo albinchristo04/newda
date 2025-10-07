@@ -1,26 +1,26 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-07T22:14:12.625848
+Extraction Time: 2025-10-07T22:31:25.831654
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
 - Unique Events: 6
-- Total Channels: 7
+- Total Channels: 14
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
 - Primera División Fútbol Sala - Osasuna Magna Vs Illes Balear...
-  Time: 02:50AM, Channels: 1
+  Time: 02:50AM, Channels: 2
 - Colombian Torneo Betplay Dimayor - Real Soacha Cundinamarca ...
-  Time: 06:10AM, Channels: 1
+  Time: 06:10AM, Channels: 2
 - National Hockey League - Nhl Vs Tonight (10/08/25)
-  Time: 04:00AM, Channels: 1
+  Time: 04:00AM, Channels: 2
+- National Hockey League - Florida Panthers Vs Chicago Blackha...
+  Time: 05:00AM, Channels: 4
 - National Hockey League - Florida Panthers Vs Chicago Blackha...
   Time: 05:00AM, Channels: 2
-- National Hockey League - Florida Panthers Vs Chicago Blackha...
-  Time: 05:00AM, Channels: 1
 - College Golf - 2025 Nb3 Collegiate Match Play, Day 1 (10/08/...
-  Time: 05:30AM, Channels: 1
+  Time: 05:30AM, Channels: 2
