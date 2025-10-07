@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-07T09:39:07.186685
+Extraction Time: 2025-10-07T09:49:02.284826
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 11
-- Total Channels: 14
+- Unique Events: 12
+- Total Channels: 15
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -32,5 +32,7 @@ EVENT BREAKDOWN:
   Time: 04:30PM, Channels: 1
 - Premier Padel 2025  - Milan P1 Day 2 Match 2 (10/07/25)
   Time: 05:00PM, Channels: 1
+- Wta Wuhan, China Women Singles - Sorana Cirstea Vs Jeļena Os...
+  Time: 05:20PM, Channels: 1
 - Wta Wuhan, China Women Doubles - Guo H / Panova A Vs Olga Da...
-  Time: 05:40PM, Channels: 1
+  Time: 05:50PM, Channels: 1
