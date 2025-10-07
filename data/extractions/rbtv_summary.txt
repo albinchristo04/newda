@@ -1,36 +1,13 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-07T05:32:34.833985
+Extraction Time: 2025-10-07T05:49:01.343074
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 11
-- Total Channels: 12
+- Unique Events: 0
+- Total Channels: 0
 - Individual Streams: 0
-- Media Segments: 0
+- Media Segments: 38
 - Other Events: 0
 
-EVENT BREAKDOWN:
-- Usa: Nfl - Monday Vs Night Countdown (10/07/25)
-  Time: 06:00AM, Channels: 1
-- Korean Basketball League - Busan Ktf Sonicboom Vs Ulsan Mobi...
-  Time: 01:00PM, Channels: 1
-- Ufc Fight Night: Ulberg Vs Reyes (2025) - Artes-Marciales-Mi...
-  Time: 08:10AM, Channels: 1
-- Korean K League 2 - Seoul E-Land Fc Vs Hwaseong Fc (10/07/25...
-  Time: 01:00PM, Channels: 1
-- Wta Wuhan, China Women Singles - Anastasia Zakharova Vs Sofi...
-  Time: 11:00AM, Channels: 1
-- Wta Wuhan, China Women Singles - Mccartney Kessler Vs Jaquel...
-  Time: 11:00AM, Channels: 1
-- Wta Wuhan, China Women Singles - Naomi Osaka Vs Leylah Ferna...
-  Time: 11:00AM, Channels: 1
-- Atp Shanghai, China Men Double - Cash R/Tracy J Vs Kevin Kra...
-  Time: 12:30PM, Channels: 1
-- Atp Shanghai, China Men Singles - Gabriel Diallo Vs Zizou Be...
-  Time: 12:30PM, Channels: 2
-- Wta Wuhan, China Women Singles - Marta Kostyuk Vs Karolina M...
-  Time: 12:55PM, Channels: 1
-- Wta Wuhan, China Women Doubles - Linette M / Tauson C Vs Tim...
-  Time: 01:10PM, Channels: 1
