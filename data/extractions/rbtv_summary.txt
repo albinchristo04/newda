@@ -1,7 +1,7 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-07T12:32:47.129025
+Extraction Time: 2025-10-07T13:17:05.635308
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
@@ -19,7 +19,7 @@ EVENT BREAKDOWN:
 - Uci Women´S Pro Series - Tre Valli Varesine | Women'S Race (...
   Time: 05:00PM, Channels: 1
 - Uci Women'S Europe Tour - Es2, Binche–Chimay–Binche (10/07/2...
-  Time: 07:00PM, Channels: 2
+  Time: 07:00PM, Channels: 1
 - Uci Women'S Europe Tour - Es2, Binche–Chimay–Binche (10/07/2...
   Time: 07:00PM, Channels: 1
 - Uci Pro Series - Es2, Tre Valli Varesine Men 2025 (10/07/25)
@@ -30,10 +30,6 @@ EVENT BREAKDOWN:
   Time: 07:35PM, Channels: 1
 - Premier Padel 2025  - Milan P1 Day 2 Match 3 (10/07/25)
   Time: 06:30PM, Channels: 1
-- Wta Wuhan, China Women Singles - Marie Bouzkova Vs Iga Swiat...
-  Time: 07:00PM, Channels: 2
-- Wta Wuhan, China Women Singles - Marie Bouzkova Vs Iga Swiat...
-  Time: 07:00PM, Channels: 1
 - Atp Shanghai, China Men Singles - Jaume Munar Vs Novak Djoko...
   Time: 07:10PM, Channels: 3
 - Atp Shanghai, China Men Singles - Jaume Munar Vs Novak Djoko...
@@ -42,11 +38,15 @@ EVENT BREAKDOWN:
   Time: 07:20PM, Channels: 2
 - Premier Padel 2025  - Milan P1 Day 2 Match 4 (10/07/25)
   Time: 08:00PM, Channels: 1
-- Atp Shanghai, China Men Singles - Valentin Vacherot Vs Tallo...
+- Challenger Atp Challenger Roanne, France, Men Singles - Mika...
+  Time: 08:30PM, Channels: 1
+- Wta Wuhan, China Women Singles - Mirra Andreeva Vs Laura Sie...
   Time: 08:40PM, Channels: 2
 - Wta Wuhan, China Women Singles - Mirra Andreeva Vs Laura Sie...
   Time: 08:40PM, Channels: 1
-- Turkish Cup Women - Thy Women Vs Aras Kargo Women (10/07/25)
-  Time: 06:00PM, Channels: 1
+- Atp Shanghai, China Men Singles - Valentin Vacherot Vs Tallo...
+  Time: 09:20PM, Channels: 3
+- Atp Shanghai, China Men Singles - Valentin Vacherot Vs Tallo...
+  Time: 09:20PM, Channels: 1
 - Turkish Cup Women - Aydin Bld. Spor Women Vs Bahcelievler Wo...
   Time: 08:30PM, Channels: 1

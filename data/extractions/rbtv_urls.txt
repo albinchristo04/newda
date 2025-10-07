@@ -1,4 +1,4 @@
-Extracted at: 2025-10-07T12:32:47.129025
+Extracted at: 2025-10-07T13:17:05.635308
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -40,12 +40,9 @@ EVENT: Uci Women'S Europe Tour - Es2, Binche–Chimay–Binche (10/07/25)
 Time: 07:00PM
 Date: 10/07/25
 Category: None
-Available Channels (2):
+Available Channels (1):
   1. MOVISTAR
      URL: https://world-proxifier.xyz/rbtv/p/AYLBSZIFFM4DKK3VHBSRYRCALRCFKEDEL4TCO4DIOIAQMYTJOIESYN2SLJLNNMFDONMDUOBRHSYMJRQSFQ6CQLJ4CEMBSFABAUIBU6LVMJ2WE5LVPJXXE6LVNEAQWBAFCANBUEDFM5RHOYTS/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp
-  2. HDD A ITALIANO
-     URL: https://world-proxifier.xyz/rbtv/p/AYLBSZIFFM4DKK3VHBSRYRCALRCFKEDEL4TCO4DIOIAQMYTJOIESYN2SLJLNNMFDONMDUOBRHSYMJRQSFQ6CQLJ4CEMBSFABAUIBU6LVMZSXQ3TVMJ2WE634NYABEGI6CABAOATDMFQQ/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp
 
 ================================================================================
@@ -105,31 +102,6 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: Wta Wuhan, China Women Singles - Marie Bouzkova Vs Iga Swiatek (10/07/25)
-Time: 07:00PM
-Date: 10/07/25
-Category: None
-Available Channels (2):
-  1. VDO
-     URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQIBNFCEDSL5CSSPR7GMZWIIZDMUNSYJDZMJCVUVKEKVNRA6L7OB3HE3T7OB3WE63UPENRQEYGAAAAABDLMVYG66DEMNRHOYDZPU/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
-  2. HDD A
-     URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQIBNFCEDSL5CSSPR7GMZWIIZDMUNSYJDZMJCVUVKEKVNRA6L7OB3HE3T7OBZXEYLPPEBQEAYEAQEAAEDZP5YHOZLWMVSHC/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
-
-================================================================================
-
-EVENT: Wta Wuhan, China Women Singles - Marie Bouzkova Vs Iga Swiatek (10/07/25) [STREAM 25[HD]]
-Time: 07:00PM
-Date: 10/07/25
-Category: None
-Available Channels (1):
-  1. None
-     URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQIBNFCEDSL5CSSPR7GMZWIIZDMUNSYJDZMJCVUVKEKVNRA6L7OB3HE3T7OB3XEYLPPEBQEAYEAQEAAEDZP5YHOZLWMVQHC/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
-
-================================================================================
-
 EVENT: Atp Shanghai, China Men Singles - Jaume Munar Vs Novak Djokovic (10/07/25)
 Time: 07:10PM
 Date: 10/07/25
@@ -183,16 +155,13 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: Atp Shanghai, China Men Singles - Valentin Vacherot Vs Tallon Griekspoor (10/07/25)
-Time: 08:40PM
+EVENT: Challenger Atp Challenger Roanne, France, Men Singles - Mika Brunold Vs Justin Engel (10/07/25)
+Time: 08:30PM
 Date: 10/07/25
 Category: None
-Available Channels (2):
-  1. SKA
-     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LHKNPVCXSELFPHGAZREY5CCJZ7GFZD2NTZMVJV6WC7LYIHOIJ4GUXCCNB2H43XEYLPPEBBEGI6CABAAADCOV5G64TVNRUX2Z3TPR4RWGATAIBAEAIINI/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
-  2. MOVISTAR2
-     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LHKNPVCXSELFPHGAZREY5CCJZ7GFZD2NTZMVJV6WC7LYIHOIJ4GUXCCNB2H43XEYLPPEBBEGI6CABAAADCOV5G64TVNRUX2Z3TPR4RWGATAIBAEAQCMM/index.m3u8
+Available Channels (1):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/CA6TCKJ6EE5TOIBANMCA2YISOBOFCXC4KU6TENJXOILDUMJLHQXGS6LXIBJFUU2VDQIB4MB6MUAS2OZXFE3TQZLUCF7VUX2RCBZEEJR3H4UTMZBDENSRQPRWFVMFYE3RLZLVKXDTP55GKYLEP55GKZDLN5ZRCAADAQAAKBIION7XUZLAONTWA4DB/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
 
 ================================================================================
@@ -201,21 +170,52 @@ EVENT: Wta Wuhan, China Women Singles - Mirra Andreeva Vs Laura Siegemund (10/07
 Time: 08:40PM
 Date: 10/07/25
 Category: None
-Available Channels (1):
+Available Channels (2):
   1. VDO
      URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCYIBAVKEDRLZKCCMBVGMZWIIZDMUPCUMBLKAJGAXKVK5KV2JR3GRSXQ3TVMNSXQYLFNMAQEAQUDINBAATDMVQHCZL5OV5G64T5O5VQGAAK/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  2. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCYIBAVKEDRLZKCCMBVGMZWIIZDMUPCUMBLKAJGAXKVK5KV2JR3GRSXQ3TVMNSXQYLFN4IRQGIUAIAAAADHMJUWK6DOOVRHEYD3OBWQ/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
 
 ================================================================================
 
-EVENT: Turkish Cup Women - Thy Women Vs Aras Kargo Women (10/07/25)
-Time: 06:00PM
+EVENT: Wta Wuhan, China Women Singles - Mirra Andreeva Vs Laura Siegemund (10/07/25) [STREAM 25[HD]]
+Time: 08:40PM
 Date: 10/07/25
 Category: None
 Available Channels (1):
-  1. VDO
-     URL: https://world-proxifier.xyz/rbtv/p/A4QCELR3G46XABRHHNSQ4XS7KZNBAHIQMQNQY4ASHUUTAPTFEQ4GKGCDKNABI62RIJLTY5IHFI7SCO3QN54GW5DKCEMBSFACAAAAC437PJSWG7LMNBZWM7LFOMNREBIGAIBAGBY/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCYIBAVKEDRLZKCCMBVGMZWIIZDMUPCUMBLKAJGAXKVK5KV2JR3GRSXQ3TVMNSXQYLFNMIRQGIUAIAAAADHMJUWK6DOOVRHEYD3OVWA/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Atp Shanghai, China Men Singles - Valentin Vacherot Vs Tallon Griekspoor (10/07/25)
+Time: 09:20PM
+Date: 10/07/25
+Category: None
+Available Channels (3):
+  1. SKA
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LHKNPVCXSELFPHGAZREY5CCJZ7GFZD2NTZMVJV6WC7LYIHOIJ4GUXCCNB2H43XEYLPPEBBEGI6CABAAADCOV5G64TVNRUX2Z3TPR4RWGATAIBAEAIINI/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  2. MOVISTAR2
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LHKNPVCXSELFPHGAZREY5CCJZ7GFZD2NTZMVJV6WC7LYIHOIJ4GUXCCNB2H43XEYLPPEBBEGI6CABAAADCOV5G64TVNRUX2Z3TPR4RWGATAIBAEAQCMM/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  3. HDD B
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LHKNPVCXSELFPHGAZREY5CCJZ7GFZD2NTZMVJV6WC7LYIHOIJ4GUXCCNB2H43XEYLPPEBBEGI6CADBAGTZOVQXY234MBUHY4TBN54QGBIBAQCQC/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Atp Shanghai, China Men Singles - Valentin Vacherot Vs Tallon Griekspoor (10/07/25) [STREAM 23[HD]]
+Time: 09:20PM
+Date: 10/07/25
+Category: None
+Available Channels (1):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LHKNPVCXSELFPHGAZREY5CCJZ7GFZD2NTZMVJV6WC7LYIHOIJ4GUXCCNB2H43XEYLPPEBBEGI6CABBAGTZOVQXY234MBUHY4TBN54QGBIBAQAAA/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
 
 ================================================================================
 
