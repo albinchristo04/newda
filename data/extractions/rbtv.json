@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-07T14:16:39.095002",
+  "timestamp": "2025-10-07T14:43:00.552300",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -55,16 +55,6 @@
     {
       "event_time": "08:15PM",
       "event_date": "10/07/25",
-      "channel_name": "HDD A ITALIANO",
-      "event_title": "Uci Pro Series - Es2, Tre Valli Varesine Men 2025 (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZICGY5HAFRXHEWDYQQSDYKHKYYCDRZQCIRAOIJDIPBJHNVRGOCDK5AF2XSVCB6TMO3QO5RHMYDQN54GW5DMCEMBSFAGCANBU43HMB2WE7LCMJSXQYLFNMDAAAYABE/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
-      "group_title": "CYCLING"
-    },
-    {
-      "event_time": "08:15PM",
-      "event_date": "10/07/25",
       "event_title": "Uci Pro Series - Es2, Tre Valli Varesine Men 2025 (10/07/25) [STREAM 20[HD]]",
       "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZICGY5HAFRXHEWDYQQSDYKHKYYCDRZQCIRAOIJDIPBJHNVRGOCDK5AF2XSVCB6TMO3QO5RHMYDQN54GW5DMCEMBSFACCANBU43HMB2WE7LCMJSXQYLFNMDAAAYAAY/index.m3u8",
       "duration": null,
@@ -80,36 +70,6 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
       "group_title": "CYCLING"
-    },
-    {
-      "event_time": "06:30PM",
-      "event_date": "10/07/25",
-      "channel_name": "SKA",
-      "event_title": "Premier Padel 2025  - Milan P1 Day 2 Match 3 (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAAJVSUKEKNMHGZTQN54GIZTQN54GW53JAEBRGHQ2CABAAY3FNFZGIZD7PJSWI6LXNMBQM/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "07:20PM",
-      "event_date": "10/07/25",
-      "channel_name": "MOVISTAR2",
-      "event_title": "Wta 125K Mallorca, Spain Women Singles - Mina Hodzic Vs Sara Bejlek (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TUOZRMUNCWMJKFQYWWMZKCFQVERSRCBZFKOJZGUXHE3T7OB3HEYLPPEBQEAYFCANBUEDCNRUXY2T4NRYG66DLONVQGAACBU/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "07:20PM",
-      "event_date": "10/07/25",
-      "channel_name": "HDD A",
-      "event_title": "Wta 125K Mallorca, Spain Women Singles - Mina Hodzic Vs Sara Bejlek (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TUOZRMUNCWMJKFQYWWMZKCFQVERSRCBZFKOJZGUXHE3T7OB3HEYLPPEDREGI6CAAQSCLKNVUHY4TOP5YHOZLZOVWQI/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
     },
     {
       "event_time": "08:00PM",
@@ -190,11 +150,21 @@
       "group_title": "TENNIS"
     },
     {
-      "event_time": "08:30PM",
+      "event_time": "10:30PM",
+      "event_date": "10/07/25",
+      "channel_name": "HDD A",
+      "event_title": "Challenger Atp Challenger Roanne, France, Men Singles - Alexis Galarneau Vs Matteo Martineau (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CA6TCKJ6EE5TOIBANMCA2YISOBOFCXC4KU6TENJXOILDUMJLHQXGS6LXIBJFUU2VDQIB4MB6MUAS2OZXFE3TQZLUCFZV6UKILFBRAFBUHQSCAKRQGEYHEPJWPF6FGR2AKVPRA7JSE4SCYPBBGQSWK6DBMVVBCGAZCQDBAGQ2ONTWA5LCOFQGSZLYMFSWWBQAAMAQO/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "10:30PM",
       "event_date": "10/07/25",
       "channel_name": "VDO",
-      "event_title": "Turkish Cup Women - Aydin Bld. Spor Women Vs Bahcelievler Women (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/A4QCELR3G46XABRHHNSQ4XS7KZNBAHIQOEVDCOJLOIDDSNDLOIMDKNSDCJSFWXKVLYICKJTQA4ZSYNRVFE5S4MZVKRABGY27LVKV4437PJSWG53VPJXXE6LVNEABEGI6CAAQSCLLMNSXK4TOP5YHGYDZO5VAS/index.m3u8",
+      "event_title": "Turkish Cup Women - Kuzey Boru Genclik Women Vs Be\u015fikta\u015f Women (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/A4QCELR3G46XABRHHNSQ4XS7KZNBAHIQPMTC6NJ4OIDDUIRQOIGCAN2SLZNF6EDHL5OTMO3QGMQWIFZVQDGSELRNKD32YFDHL5OVKPLVPJXXE5LGOBXXQ23XNEAQGEY6DIIACCLKNVTHAZ3EP55GKZDZO5VQECY/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
       "group_title": "VOLLEYBALL"
@@ -271,20 +241,6 @@
         }
       ]
     },
-    "Uci Pro Series - Es2, Tre Valli Varesine Men 2025 (10/07/25)": {
-      "event_title": "Uci Pro Series - Es2, Tre Valli Varesine Men 2025 (10/07/25)",
-      "event_time": "08:15PM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A ITALIANO",
-          "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZICGY5HAFRXHEWDYQQSDYKHKYYCDRZQCIRAOIJDIPBJHNVRGOCDK5AF2XSVCB6TMO3QO5RHMYDQN54GW5DMCEMBSFAGCANBU43HMB2WE7LCMJSXQYLFNMDAAAYABE/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "Uci Pro Series - Es2, Tre Valli Varesine Men 2025 (10/07/25) [STREAM 20[HD]]": {
       "event_title": "Uci Pro Series - Es2, Tre Valli Varesine Men 2025 (10/07/25) [STREAM 20[HD]]",
       "event_time": "08:15PM",
@@ -309,40 +265,6 @@
           "channel_name": "MOVISTAR2",
           "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZICGY5HAFRXHEWDYQQSDYKGIQSVCACTIPBJHNSAGMJXG44CYN2UCJHRI7KVLYLSA5JCEQYSC5L2N5ZHU4DZDMMBGBQAAAARA6L7OB3WE5DFNFZGC23POMIQIAIGAIAAQ/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Premier Padel 2025  - Milan P1 Day 2 Match 3 (10/07/25)": {
-      "event_title": "Premier Padel 2025  - Milan P1 Day 2 Match 3 (10/07/25)",
-      "event_time": "06:30PM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SKA",
-          "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAAJVSUKEKNMHGZTQN54GIZTQN54GW53JAEBRGHQ2CABAAY3FNFZGIZD7PJSWI6LXNMBQM/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Wta 125K Mallorca, Spain Women Singles - Mina Hodzic Vs Sara Bejlek (10/07/25)": {
-      "event_title": "Wta 125K Mallorca, Spain Women Singles - Mina Hodzic Vs Sara Bejlek (10/07/25)",
-      "event_time": "07:20PM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "MOVISTAR2",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TUOZRMUNCWMJKFQYWWMZKCFQVERSRCBZFKOJZGUXHE3T7OB3HEYLPPEBQEAYFCANBUEDCNRUXY2T4NRYG66DLONVQGAACBU/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TUOZRMUNCWMJKFQYWWMZKCFQVERSRCBZFKOJZGUXHE3T7OB3HEYLPPEDREGI6CAAQSCLKNVUHY4TOP5YHOZLZOVWQI/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
       ]
@@ -435,15 +357,29 @@
         }
       ]
     },
-    "Turkish Cup Women - Aydin Bld. Spor Women Vs Bahcelievler Women (10/07/25)": {
-      "event_title": "Turkish Cup Women - Aydin Bld. Spor Women Vs Bahcelievler Women (10/07/25)",
-      "event_time": "08:30PM",
+    "Challenger Atp Challenger Roanne, France, Men Singles - Alexis Galarneau Vs Matteo Martineau (10/07/25)": {
+      "event_title": "Challenger Atp Challenger Roanne, France, Men Singles - Alexis Galarneau Vs Matteo Martineau (10/07/25)",
+      "event_time": "10:30PM",
+      "event_date": "10/07/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/CA6TCKJ6EE5TOIBANMCA2YISOBOFCXC4KU6TENJXOILDUMJLHQXGS6LXIBJFUU2VDQIB4MB6MUAS2OZXFE3TQZLUCFZV6UKILFBRAFBUHQSCAKRQGEYHEPJWPF6FGR2AKVPRA7JSE4SCYPBBGQSWK6DBMVVBCGAZCQDBAGQ2ONTWA5LCOFQGSZLYMFSWWBQAAMAQO/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Turkish Cup Women - Kuzey Boru Genclik Women Vs Be\u015fikta\u015f Women (10/07/25)": {
+      "event_title": "Turkish Cup Women - Kuzey Boru Genclik Women Vs Be\u015fikta\u015f Women (10/07/25)",
+      "event_time": "10:30PM",
       "event_date": "10/07/25",
       "category": null,
       "channels": [
         {
           "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/A4QCELR3G46XABRHHNSQ4XS7KZNBAHIQOEVDCOJLOIDDSNDLOIMDKNSDCJSFWXKVLYICKJTQA4ZSYNRVFE5S4MZVKRABGY27LVKV4437PJSWG53VPJXXE6LVNEABEGI6CAAQSCLLMNSXK4TOP5YHGYDZO5VAS/index.m3u8",
+          "url": "https://world-proxifier.xyz/rbtv/p/A4QCELR3G46XABRHHNSQ4XS7KZNBAHIQPMTC6NJ4OIDDUIRQOIGCAN2SLZNF6EDHL5OTMO3QGMQWIFZVQDGSELRNKD32YFDHL5OVKPLVPJXXE5LGOBXXQ23XNEAQGEY6DIIACCLKNVTHAZ3EP55GKZDZO5VQECY/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
           "duration": null
         }

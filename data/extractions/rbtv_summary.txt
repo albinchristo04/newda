@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-07T14:16:39.095002
+Extraction Time: 2025-10-07T14:43:00.552300
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 16
-- Total Channels: 20
+- Unique Events: 14
+- Total Channels: 17
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -22,16 +22,10 @@ EVENT BREAKDOWN:
   Time: 07:00PM, Channels: 1
 - Uci Women'S Europe Tour - Es2, Binche–Chimay–Binche (10/07/2...
   Time: 07:00PM, Channels: 1
-- Uci Pro Series - Es2, Tre Valli Varesine Men 2025 (10/07/25)
-  Time: 08:15PM, Channels: 1
 - Uci Pro Series - Es2, Tre Valli Varesine Men 2025 (10/07/25)...
   Time: 08:15PM, Channels: 1
 - Uci Pro Series - Tre Valli Varesine | Men'S Race (10/07/25)
   Time: 09:25PM, Channels: 1
-- Premier Padel 2025  - Milan P1 Day 2 Match 3 (10/07/25)
-  Time: 06:30PM, Channels: 1
-- Wta 125K Mallorca, Spain Women Singles - Mina Hodzic Vs Sara...
-  Time: 07:20PM, Channels: 2
 - Premier Padel 2025  - Milan P1 Day 2 Match 4 (10/07/25)
   Time: 08:00PM, Channels: 1
 - Wta Wuhan, China Women Singles - Mirra Andreeva Vs Laura Sie...
@@ -42,5 +36,7 @@ EVENT BREAKDOWN:
   Time: 10:10PM, Channels: 3
 - Atp Shanghai, China Men Singles - Valentin Vacherot Vs Tallo...
   Time: 10:10PM, Channels: 1
-- Turkish Cup Women - Aydin Bld. Spor Women Vs Bahcelievler Wo...
-  Time: 08:30PM, Channels: 1
+- Challenger Atp Challenger Roanne, France, Men Singles - Alex...
+  Time: 10:30PM, Channels: 1
+- Turkish Cup Women - Kuzey Boru Genclik Women Vs Beşiktaş Wom...
+  Time: 10:30PM, Channels: 1

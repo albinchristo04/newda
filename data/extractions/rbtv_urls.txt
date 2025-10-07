@@ -1,4 +1,4 @@
-Extracted at: 2025-10-07T14:16:39.095002
+Extracted at: 2025-10-07T14:43:00.552300
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -58,17 +58,6 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: Uci Pro Series - Es2, Tre Valli Varesine Men 2025 (10/07/25)
-Time: 08:15PM
-Date: 10/07/25
-Category: None
-Available Channels (1):
-  1. HDD A ITALIANO
-     URL: https://world-proxifier.xyz/rbtv/p/AYLBSZICGY5HAFRXHEWDYQQSDYKHKYYCDRZQCIRAOIJDIPBJHNVRGOCDK5AF2XSVCB6TMO3QO5RHMYDQN54GW5DMCEMBSFAGCANBU43HMB2WE7LCMJSXQYLFNMDAAAYABE/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp
-
-================================================================================
-
 EVENT: Uci Pro Series - Es2, Tre Valli Varesine Men 2025 (10/07/25) [STREAM 20[HD]]
 Time: 08:15PM
 Date: 10/07/25
@@ -88,31 +77,6 @@ Available Channels (1):
   1. MOVISTAR2
      URL: https://world-proxifier.xyz/rbtv/p/AYLBSZICGY5HAFRXHEWDYQQSDYKGIQSVCACTIPBJHNSAGMJXG44CYN2UCJHRI7KVLYLSA5JCEQYSC5L2N5ZHU4DZDMMBGBQAAAARA6L7OB3WE5DFNFZGC23POMIQIAIGAIAAQ/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp
-
-================================================================================
-
-EVENT: Premier Padel 2025  - Milan P1 Day 2 Match 3 (10/07/25)
-Time: 06:30PM
-Date: 10/07/25
-Category: None
-Available Channels (1):
-  1. SKA
-     URL: https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAAJVSUKEKNMHGZTQN54GIZTQN54GW53JAEBRGHQ2CABAAY3FNFZGIZD7PJSWI6LXNMBQM/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
-
-================================================================================
-
-EVENT: Wta 125K Mallorca, Spain Women Singles - Mina Hodzic Vs Sara Bejlek (10/07/25)
-Time: 07:20PM
-Date: 10/07/25
-Category: None
-Available Channels (2):
-  1. MOVISTAR2
-     URL: https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TUOZRMUNCWMJKFQYWWMZKCFQVERSRCBZFKOJZGUXHE3T7OB3HEYLPPEBQEAYFCANBUEDCNRUXY2T4NRYG66DLONVQGAACBU/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
-  2. HDD A
-     URL: https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TUOZRMUNCWMJKFQYWWMZKCFQVERSRCBZFKOJZGUXHE3T7OB3HEYLPPEDREGI6CAAQSCLKNVUHY4TOP5YHOZLZOVWQI/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
 
 ================================================================================
 
@@ -180,13 +144,24 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: Turkish Cup Women - Aydin Bld. Spor Women Vs Bahcelievler Women (10/07/25)
-Time: 08:30PM
+EVENT: Challenger Atp Challenger Roanne, France, Men Singles - Alexis Galarneau Vs Matteo Martineau (10/07/25)
+Time: 10:30PM
+Date: 10/07/25
+Category: None
+Available Channels (1):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/CA6TCKJ6EE5TOIBANMCA2YISOBOFCXC4KU6TENJXOILDUMJLHQXGS6LXIBJFUU2VDQIB4MB6MUAS2OZXFE3TQZLUCFZV6UKILFBRAFBUHQSCAKRQGEYHEPJWPF6FGR2AKVPRA7JSE4SCYPBBGQSWK6DBMVVBCGAZCQDBAGQ2ONTWA5LCOFQGSZLYMFSWWBQAAMAQO/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Turkish Cup Women - Kuzey Boru Genclik Women Vs Beşiktaş Women (10/07/25)
+Time: 10:30PM
 Date: 10/07/25
 Category: None
 Available Channels (1):
   1. VDO
-     URL: https://world-proxifier.xyz/rbtv/p/A4QCELR3G46XABRHHNSQ4XS7KZNBAHIQOEVDCOJLOIDDSNDLOIMDKNSDCJSFWXKVLYICKJTQA4ZSYNRVFE5S4MZVKRABGY27LVKV4437PJSWG53VPJXXE6LVNEABEGI6CAAQSCLLMNSXK4TOP5YHGYDZO5VAS/index.m3u8
+     URL: https://world-proxifier.xyz/rbtv/p/A4QCELR3G46XABRHHNSQ4XS7KZNBAHIQPMTC6NJ4OIDDUIRQOIGCAN2SLZNF6EDHL5OTMO3QGMQWIFZVQDGSELRNKD32YFDHL5OVKPLVPJXXE5LGOBXXQ23XNEAQGEY6DIIACCLKNVTHAZ3EP55GKZDZO5VQECY/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp
 
 ================================================================================
