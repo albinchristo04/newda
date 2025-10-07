@@ -10,6 +10,12 @@
         "url": "https://world-proxifier.xyz/rbtv/p/AYDBC73SBIJRYZL7NMEDMX2WKJGRARSDCAOTYNZNEZSBMPZQHQ7SCNSGLQJR4GQQBEIHS73QONZG473QO5RHW5LNBAFRGHQ2CABAOYTMMRYQ/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
         "duration": null
+      },
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/AYDBC73SBIJRYZL7NMEDMX2WKJGRARSDCAOTYNZNEZSBMPZQHQ7SCNSGLQJR4GQQBEIHS73QONZG473QO5RHW5LNBAFRGHQ2CABAOYTMMRYQ/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
+        "duration": null
       }
     ]
   },
@@ -33,20 +39,6 @@
       }
     ]
   },
-  "Major League Baseball - Philadelphia Phillies Vs Los Angeles Dodgers (10/07/25)": {
-    "event_title": "Major League Baseball - Philadelphia Phillies Vs Los Angeles Dodgers (10/07/25)",
-    "event_time": "06:08AM",
-    "event_date": "10/07/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "HDK A",
-        "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4AVHIWTSMJBG4TTKMKYKMJWIWCZLRODUMBDMUSDO5I4FIQWWBBXKZLV6UKDCB2F6NZSGU3SCZD7PJSWM23POMIQIEY6DIIACCLKNVTHKYTEP55GKYD4ORQAKBI/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-        "duration": null
-      }
-    ]
-  },
   "Major League Baseball - Milwaukee Brewers Vs Chicago Cubs (10/07/25)": {
     "event_title": "Major League Baseball - Milwaukee Brewers Vs Chicago Cubs (10/07/25)",
     "event_time": "09:08AM",
@@ -60,75 +52,9 @@
         "duration": null
       },
       {
-        "channel_name": "HDK B",
-        "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4AIHMUCEMJQHEXCA6LTIBLEGVKCIMICKJTQAY5C2NRREI6WWBRMKNARGHQ2CACBA6L7OBZXE3T7OB2GW4T5N4AQGEY6DIIAEB3CNRTXI/index.m3u8",
+        "channel_name": "HDK A",
+        "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4AIHMUCEMJQHEXCA6LTIBLEGVKCIMICKJTQAY5C2NRREI6WWBRMKNARGHQ2CACBA6L7OBZXE3T7OB2GW4T5N4AQGEY6DIIAEB3CNRTXK/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "HDK C",
-        "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4AIHMUCEMJQHEXCA6LTIBLEGVKCIMICKJTQAY5C2NRREI6WWBRMKNARGHQ2CACBA6L7OBZXE3T7OB2GW4T5N4AQGEY6DIIAEB3CNRTXO/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "HDK D",
-        "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4AIHMUCEMJQHEXCA6LTIBLEGVKCIMICKJTQAY5C2NRREI6WWBRMKNARGHQ2CACBA6L7OBZXE3T7OB2GW4T5N4AQGEY6DIIAEB3CNRTXM/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Argentinian Liga Nacional De Bosquetbol - Obras Sanitarias Buenos Aires Vs Quimsa (10/07/25)": {
-    "event_title": "Argentinian Liga Nacional De Bosquetbol - Obras Sanitarias Buenos Aires Vs Quimsa (10/07/25)",
-    "event_time": "07:30AM",
-    "event_date": "10/07/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/CITTOIB4GA6D4LBTEVSRKWCVKIKH4UKTLE6DWMJJOIQDA4AHHU4DILCUIZIVWXAQDUIBYNZCEQQWIBRRFM5T6JBLLBJUAFDSIVKV4PBGOACDWNRQENSSIODFBBCFWXSHKEIBUGTTM5YG66DEMZYG66DLORQAQCQGAMCRAGQ2ONTWO5DLOFTQ/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "National Basketball Association - Miami Heat Vs Milwaukee Bucks (10/07/25)": {
-    "event_title": "National Basketball Association - Miami Heat Vs Milwaukee Bucks (10/07/25)",
-    "event_time": "07:30AM",
-    "event_date": "10/07/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L4LNJFSWIQPBKTEILQGMQWIGBZFESSUMBSKRLRG5SFKNNUG437PJSWAZD7PJSWI23POMIQGCQNBACQOBDTP55GKYDTMRUXAYI/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L4LNJFSWIQPBKTEILQGMQWIGBZFESSUMBSKRLRG5SFKNNUG437PJSWAZD7PJSWC23POMIQGCQNBACQOBDTP55GKYDTMRUXAYY/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "National Basketball Association - Houston Rockets Vs Atlanta Hawks (10/07/25)": {
-    "event_title": "National Basketball Association - Houston Rockets Vs Atlanta Hawks (10/07/25)",
-    "event_time": "08:00AM",
-    "event_date": "10/07/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LZLVDEORC7LYIACORTFY3TAJTQGMQWWBBNLVJV2QCRCB4FCJB6ENSXQ3TVMJSXQYLFN4IRQGIUAEEQSCDGMJTWK6DOOVRHEY3SOBQA/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LZLVDEORC7LYIACORTFY3TAJTQGMQWWBBNLVJV2QCRCB4FCJB6ENSXQ3TVMJSXQYLFNIIRQGIUAEEQSCDGMJTWK6DOOVRHEY3SOBWA/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
         "duration": null
       }
     ]
@@ -146,28 +72,8 @@
         "duration": null
       },
       {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L4K5PEIWCZIMIBIJZZH4UCQPBVGZZD2NTZOVLUORS7LFCBAAZ4EMYT2KRGOBXXQ23XPENRQEYHCANBUEDCNRUX2Z3TNVYG66DLO5XAACYGAI/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "National Basketball Association - San Antonio Spurs Vs Guangzhou Loong Lions (10/07/25)": {
-    "event_title": "National Basketball Association - San Antonio Spurs Vs Guangzhou Loong Lions (10/07/25)",
-    "event_time": "08:00AM",
-    "event_date": "10/07/25",
-    "category": null,
-    "channels": [
-      {
         "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LCKNORI4K6IRPT2PB7MUATIIBCGZZD2NTZOZDVEWSXJJMF6JTVDQVD2KRSOAETWJBLFIIRQGIUAIIBUGTTMNYG66DEMRUXY2T6OJXRCGAZCQBAOAIJMVTQ/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LCKNORI4K6IRPT2PB7MUATIIBCGZZD2NTZOZDVEWSXJJMF6JTVDQVD2KRSOAETWJBLFIIRQGIUAIIBUGTTMZYG66DEMRUXY2T6OJXRCGAZCQBAOAIJMZQQ/index.m3u8",
+        "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L4K5PEIWCZIMIBIJZZH4UCQPBVGZZD2NTZOVLUORS7LFCBAAZ4EMYT2KRGOBXXQ23XPENRQEYCCANBUEDCNRUX2Z3TNVYG66DLO5XAACYFAU/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
         "duration": null
       }
@@ -190,6 +96,70 @@
         "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LVKNPVQUKDCB6TEIZVG45SOPRDMUSDQZIWLJPFEXC7LVIRAEB4EQ6HEEB5EUVTMLRXPENRQEYGCANBUEDAOV5G64TVNRUX2Z3TOV4RWGATAYDQCCIGNM/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
         "duration": null
+      },
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LVKNPVQUKDCB6TEIZVG45SOPRDMUSDQZIWLJPFEXC7LVIRAEB4EQ6HEEB5EUVTMLRXPENRQEYGCANBUEDFOV5G64TVNRUX2Z3TOV4RWGATAYDQCCIGMQ/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LVKNPVQUKDCB6TEIZVG45SOPRDMUSDQZIWLJPFEXC7LVIRAEB4EQ6HEEB5EUVTMLRXPENRQEYGCANBUEDAOV5G64TVNRUX2Z3TOV4RWGATAYDQCCIGNM/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Liga Nacional De Baloncesto Profesional - El Calor De Cancun Vs Halcones Xalapa (10/07/25)": {
+    "event_title": "Liga Nacional De Baloncesto Profesional - El Calor De Cancun Vs Halcones Xalapa (10/07/25)",
+    "event_time": "09:15AM",
+    "event_date": "10/07/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/D46DOJDSBI2DGLB5EUSDKEKWKYKHEUK4L46TMNJWEYVXKABXHUWSAKSYLVOVKXAQDUIBMOLQAYZSQORCMU3C4ZI2KBOFAQK6CBDEG4Y5GEUTCKZ3GU3HEEZEGVIEEUQUDINBAATTP55GKYLEP55GKY3SPRQACAIKCQNBUEACMRSGS4TG/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/D46DOJDSBI2DGLB5EUSDKEKWKYKHEUK4L46TMNJWEYVXKABXHUWSAKSYLVOVKXAQDUIBMOLQAYZSQORCMU3C4ZI2KBOFAQK6CBDEG4Y5GEUTCKZ3GU3HEEZEGVIEEUQUDINBAATTP55GKYLEP55GKY3SPRQACAIKCQNBUEACMRSGS4TG/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "National Basketball Association - Toronto Raptors Vs Denver Nuggets (10/07/25)": {
+    "event_title": "National Basketball Association - Toronto Raptors Vs Denver Nuggets (10/07/25)",
+    "event_time": "10:00AM",
+    "event_date": "10/07/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LFLVAVWXSEL4IACNBAGE6TMJTQGMQWWAJ4L5CFMRQQPZCVONBQEQ3HE3T7OB3XEYLPPEDREGI6CAAQSCLLMBUHI4TOP5YHOZL2PRXAI/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LFLVAVWXSEL4IACNBAGE6TMJTQGMQWWAJ4L5CFMRQQPZCVONBQEQ3HE3T7OB3XEYLPPEBBEGI6CAAQSCLLMBUHI4TOP5YHOZL2PRXAO/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LFLVAVWXSEL4IACNBAGE6TMJTQGMQWWAJ4L5CFMRQQPZCVONBQEQ3HE3T7OB3XEYLPPEDREGI6CAAQSCLLMBUHI4TOP5YHOZL2PRXAI/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LFLVAVWXSEL4IACNBAGE6TMJTQGMQWWAJ4L5CFMRQQPZCVONBQEQ3HE3T7OB3XEYLPPEBBEGI6CAAQSCLLMBUHI4TOP5YHOZL2PRXAO/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+        "duration": null
       }
     ]
   },
@@ -199,6 +169,12 @@
     "event_date": "10/07/25",
     "category": null,
     "channels": [
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/AQBBKZL7MQMD6KZWFI6HS723KROEIEDCOECHK6TPOJ2WC4DPPBVXG6I3DAJQMAAAAACGCYLQN54GIZ3HORVX44Q/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
+        "duration": null
+      },
       {
         "channel_name": "HDD A",
         "url": "https://world-proxifier.xyz/rbtv/p/AQBBKZL7MQMD6KZWFI6HS723KROEIEDCOECHK6TPOJ2WC4DPPBVXG6I3DAJQMAAAAACGCYLQN54GIZ3HORVX44Q/index.m3u8",
@@ -218,58 +194,94 @@
         "url": "https://world-proxifier.xyz/rbtv/p/AYJRGZIUFUZDQMLSAUWD4WKGBEKGKXCSKUQTE4BTEFSAONJ4G44GK4IDAIAQCGIQDUIDEJZEEAQWSOBRG4YSEJBVKRAR4WKZJBCFCIDVPVSQMKZYOAFT2JZEG4IUIQAUONMFCQR7HQ2WKEJFHAQCONZHFF4RWGATAUCBAGQ2ONTWA5LDMR7XUZLAPN2WSBACAYKBUGQQAZQWOYLSMA/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
         "duration": null
+      },
+      {
+        "channel_name": "MOVISTAR2",
+        "url": "https://world-proxifier.xyz/rbtv/p/AYJRGZIUFUZDQMLSAUWD4WKGBEKGKXCSKUQTE4BTEFSAONJ4G44GK4IDAIAQCGIQDUIDEJZEEAQWSOBRG4YSEJBVKRAR4WKZJBCFCIDVPVSQMKZYOAFT2JZEG4IUIQAUONMFCQR7HQ2WKEJFHAQCONZHFF4RWGATAUCBAGQ2ONTWA5LDMR7XUZLAPN2WSBACAYKBUGQQAZQWOYLSMA/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
+        "duration": null
       }
     ]
   },
-  "Argentine Division 1 - Racing Club De Avellaneda Vs Independiente Rivadavia (10/07/25)": {
-    "event_title": "Argentine Division 1 - Racing Club De Avellaneda Vs Independiente Rivadavia (10/07/25)",
-    "event_time": "08:00AM",
+  "Costa Rica Primera Division - Ad Municipal Liberia Vs Puntarenas Fc (10/07/25)": {
+    "event_title": "Costa Rica Primera Division - Ad Municipal Liberia Vs Puntarenas Fc (10/07/25)",
+    "event_time": "10:00AM",
     "event_date": "10/07/25",
     "category": null,
     "channels": [
       {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/CITTOIB4GA6D4IDSB4WC6WCBLJNV4EABCB7HKAREGEWTWN3FCETTAOYRKZLBI4KGKVOD6NB6EA3CK5JGGZZAEKZ5KRBFMWSULFKV4JZQOALTWMRUGQSCIIREPENRQEYFCANBUEDFOV5G64TQMRQHEZD7PV4RWGATA4AAQBIAMM/index.m3u8",
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/CA5CGMJTMQDTSJRTNMKSWWC7KZDFCEDULESTYIZMHUVHK7LFCMHWKFCELRNFOWKAKFOHGGJZE43TMPBRMUSDQZIJIROEOVKCKVPFCIDVCYDHE3T7OB2HEYLPPEBBEGI6CACAEBLFMZSXO4TOP5YHMYTTOBUQO/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
       },
       {
         "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/CITTOIB4GA6D4IDSB4WC6WCBLJNV4EABCB7HKAREGEWTWN3FCETTAOYRKZLBI4KGKVOD6NB6EA3CK5JGGZZAEKZ5KRBFMWSULFKV4JZQOALTWMRUGQSCIIREPENRQEYFCANBUEDAOV5G64TQMRQHEZD7PV4RWGATA4AAQBAJNM/index.m3u8",
+        "url": "https://world-proxifier.xyz/rbtv/p/CA5CGMJTMQDTSJRTNMKSWWC7KZDFCEDULESTYIZMHUVHK7LFCMHWKFCELRNFOWKAKFOHGGJZE43TMPBRMUSDQZIJIROEOVKCKVPFCIDVCYDHE3T7OB2HEYLPPEBBEGI6CACAEBLFMZSXO4TOP5YHMYTTOBUQO/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
       }
     ]
   },
-  "Bolivian Copa Lfpb - The Strongest Vs Gualberto Villarroel Deportivo San Jos\u00e9 (10/07/25)": {
-    "event_title": "Bolivian Copa Lfpb - The Strongest Vs Gualberto Villarroel Deportivo San Jos\u00e9 (10/07/25)",
-    "event_time": "08:00AM",
+  "Mexico Liga Mx Femenil - Monterrey Women Vs Club America Women (10/07/25)": {
+    "event_title": "Mexico Liga Mx Femenil - Monterrey Women Vs Club America Women (10/07/25)",
+    "event_time": "10:00AM",
     "event_date": "10/07/25",
     "category": null,
     "channels": [
       {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/CE5DYLBEFU2D4ZIREQ2TQEL6OVSHEEA5CADT2NLFAEYCOPZLGUXDMLIRIRABI52FKFODCMBCGE6WIAZZFE7CUNZLLZLV6FDUKVAF6IJBHEZT2ZAGGEVXEAJKFLZJWEY6DIIACEDZP5YHM4TOP5YHCYDSOFVQEAATDYNBAAYANNQWS4Q/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Categor\u00eda Primera A - La Equidad Vs Deportiva Once Caldas (10/07/25)": {
-    "event_title": "Categor\u00eda Primera A - La Equidad Vs Deportiva Once Caldas (10/07/25)",
-    "event_time": "08:30AM",
-    "event_date": "10/07/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/CA2CIIBVFMTZH2BTNMKSWWC7KZDFCEDRCB7HKHBEOIASIJJMGYVCC6KHIEJXAVKAL5BCOPBGERZAWOZTEBZAQJBVKVJUAFA2DIIAC437PJSWIZD7PJSWM6LUNYEQMAAUDINBAA3DNVSXKZQ/index.m3u8",
+        "channel_name": "HDD A ESPA\u00d1OL",
+        "url": "https://world-proxifier.xyz/rbtv/p/DYYCQLBRFN2RYLBVFJSRI2ISOVIV2VK6LE7XK7LFD4VTWJBAEA4SAIARMVOFSVK6CBDCA5ITFETSM5IRFA3TSLB2KAJGIW25KVPBA6L7OB2HE3T7OBZXEYLPPECQAAQMA4DAGEDZP5YHMYT4MBQHE/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
       },
       {
         "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/CA2CIIBVFMTZH2BTNMKSWWC7KZDFCEDRCB7HKHBEOIASIJJMGYVCC6KHIEJXAVKAL5BCOPBGERZAWOZTEBZAQJBVKVJUAFA2DIIAC437PJSWCZD7PJSWM6LUNYEQMAAUDINBAA3DNVSXKYY/index.m3u8",
+        "url": "https://world-proxifier.xyz/rbtv/p/DYYCQLBRFN2RYLBVFJSRI2ISOVIV2VK6LE7XK7LFD4VTWJBAEA4SAIARMVOFSVK6CBDCA5ITFETSM5IRFA3TSLB2KAJGIW25KVPBA6L7OB2HE3T7OB3HEYLPPECQAAQMA4DAGEDZP5YHMYT4MBQHA/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "HDD A ESPA\u00d1OL",
+        "url": "https://world-proxifier.xyz/rbtv/p/DYYCQLBRFN2RYLBVFJSRI2ISOVIV2VK6LE7XK7LFD4VTWJBAEA4SAIARMVOFSVK6CBDCA5ITFETSM5IRFA3TSLB2KAJGIW25KVPBA6L7OB2HE3T7OBZXEYLPPECQAAQMA4DAGEDZP5YHMYT4MBQHE/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/DYYCQLBRFN2RYLBVFJSRI2ISOVIV2VK6LE7XK7LFD4VTWJBAEA4SAIARMVOFSVK6CBDCA5ITFETSM5IRFA3TSLB2KAJGIW25KVPBA6L7OB2HE3T7OB3HEYLPPECQAAQMA4DAGEDZP5YHMYT4MBQHA/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "United States Women'S National Soccer League - Angel City Fc Women Vs Kansas City Current Women (10/07/25)": {
+    "event_title": "United States Women'S National Soccer League - Angel City Fc Women Vs Kansas City Current Women (10/07/25)",
+    "event_time": "10:30AM",
+    "event_date": "10/07/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/AY5TSMJXEB2QGMJTH4QCUELFLRMVKXQXINZRWMJRHMVTWMJJOIMCUOSSK5ARI7CVKFLSMMDQNBZAKOZXEA7GWBRQIVFRG4TTCBTV6PRQHZSSIN3VDMSDYOBEFIIXCWSAJEIHGRJBE42SWJTEAI7SQNZFMVZRWEQCCQNBUEAGON7XUZLGOVTGC7DCPNSXGGYSAACAQBIABE/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/AY5TSMJXEB2QGMJTH4QCUELFLRMVKXQXINZRWMJRHMVTWMJJOIMCUOSSK5ARI7CVKFLSMMDQNBZAKOZXEA7GWBRQIVFRG4TTCBTV6PRQHZSSIN3VDMSDYOBEFIIXCWSAJEIHGRJBE42SWJTEAI7SQNZFMVZRWEQCCQNBUEADON7XUZLGOVTGC7DCPNSXGGYSAACAQBIABA/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/AY5TSMJXEB2QGMJTH4QCUELFLRMVKXQXINZRWMJRHMVTWMJJOIMCUOSSK5ARI7CVKFLSMMDQNBZAKOZXEA7GWBRQIVFRG4TTCBTV6PRQHZSSIN3VDMSDYOBEFIIXCWSAJEIHGRJBE42SWJTEAI7SQNZFMVZRWEQCCQNBUEAGON7XUZLGOVTGC7DCPNSXGGYSAACAQBIABE/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/AY5TSMJXEB2QGMJTH4QCUELFLRMVKXQXINZRWMJRHMVTWMJJOIMCUOSSK5ARI7CVKFLSMMDQNBZAKOZXEA7GWBRQIVFRG4TTCBTV6PRQHZSSIN3VDMSDYOBEFIIXCWSAJEIHGRJBE42SWJTEAI7SQNZFMVZRWEQCCQNBUEADON7XUZLGOVTGC7DCPNSXGGYSAACAQBIABA/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
       }
