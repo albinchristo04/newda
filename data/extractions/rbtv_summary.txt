@@ -1,38 +1,13 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-07T03:20:30.084653
+Extraction Time: 2025-10-07T03:46:05.184525
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 12
-- Total Channels: 15
+- Unique Events: 0
+- Total Channels: 0
 - Individual Streams: 0
-- Media Segments: 0
+- Media Segments: 39
 - Other Events: 0
 
-EVENT BREAKDOWN:
-- Usa: Nfl - Monday Vs Night Countdown (10/07/25)
-  Time: 06:00AM, Channels: 1
-- Usa: Nfl - Jacksonville Jaguars Vs Kansas City Chiefs (10/07...
-  Time: 08:15AM, Channels: 1
-- Major League Baseball - Milwaukee Brewers Vs Chicago Cubs (1...
-  Time: 09:08AM, Channels: 1
-- Liga Nacional De Baloncesto Profesional - El Calor De Cancun...
-  Time: 09:15AM, Channels: 1
-- National Basketball Association - Toronto Raptors Vs Denver ...
-  Time: 10:00AM, Channels: 2
-- Ufc Fight Night: Ulberg Vs Reyes (2025) - Artes-Marciales-Mi...
-  Time: 08:10AM, Channels: 1
-- Mexico Liga Mx Femenil - Monterrey Women Vs Club America Wom...
-  Time: 10:00AM, Channels: 2
-- United States Women'S National Soccer League - Angel City Fc...
-  Time: 10:30AM, Channels: 2
-- Wta Wuhan, China Women Singles - Anastasia Zakharova Vs Sofi...
-  Time: 11:00AM, Channels: 1
-- Wta Wuhan, China Women Singles - Emiliana Arango Vs Liudmila...
-  Time: 11:00AM, Channels: 1
-- Wta Wuhan, China Women Singles - Mccartney Kessler Vs Jaquel...
-  Time: 11:00AM, Channels: 1
-- Wta Wuhan, China Women Singles - Naomi Osaka Vs Leylah Ferna...
-  Time: 11:00AM, Channels: 1
