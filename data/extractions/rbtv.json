@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-07T14:43:00.552300",
+  "timestamp": "2025-10-07T14:53:02.739671",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -102,15 +102,6 @@
       "group_title": "TENNIS"
     },
     {
-      "event_time": "08:40PM",
-      "event_date": "10/07/25",
-      "event_title": "Wta Wuhan, China Women Singles - Mirra Andreeva Vs Laura Siegemund (10/07/25) [STREAM 25[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCYIBAVKEDRLZKCCMBVGMZWIIZDMUPCUMBLKAJGAXKVK5KV2JR3GRSXQ3TVMNSXQYLFNMIRQGIUAIAAAADHMJUWK6DOOVRHEYD3OVWA/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
       "event_time": "10:10PM",
       "event_date": "10/07/25",
       "channel_name": "SKA",
@@ -126,6 +117,16 @@
       "channel_name": "MOVISTAR2",
       "event_title": "Atp Shanghai, China Men Singles - Valentin Vacherot Vs Tallon Griekspoor (10/07/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LHKNPVCXSELFPHGAZREY5CCJZ7GFZD2NTZMVJV6WC7LYIHOIJ4GUXCCNB2H43XEYLPPEBBEGI6CABAAADCOV5G64TVNRUX2Z3TPR4RWGATAIBAEAQCMM/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "10:10PM",
+      "event_date": "10/07/25",
+      "channel_name": "MOVISTAR2",
+      "event_title": "Atp Shanghai, China Men Singles - Valentin Vacherot Vs Tallon Griekspoor (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LHKNPVCXSELFPHGAZREY5CCJZ7GFZD2NTZMVJV6WC7LYIHOIJ4GUXCCNB2H43XEYLPPEBBEGI6CABAAADCOV5G64TVNRUX2Z3TPR4RWGATAIBAEAQHMY/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
@@ -155,6 +156,16 @@
       "channel_name": "HDD A",
       "event_title": "Challenger Atp Challenger Roanne, France, Men Singles - Alexis Galarneau Vs Matteo Martineau (10/07/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/CA6TCKJ6EE5TOIBANMCA2YISOBOFCXC4KU6TENJXOILDUMJLHQXGS6LXIBJFUU2VDQIB4MB6MUAS2OZXFE3TQZLUCFZV6UKILFBRAFBUHQSCAKRQGEYHEPJWPF6FGR2AKVPRA7JSE4SCYPBBGQSWK6DBMVVBCGAZCQDBAGQ2ONTWA5LCOFQGSZLYMFSWWBQAAMAQO/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "10:35PM",
+      "event_date": "10/07/25",
+      "channel_name": "HDD A",
+      "event_title": "Wta 125K Mallorca, Spain Women Singles - Lola Radivojevic Vs Miriam Bianca Bulgaru (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6DYOJRMUACKMJZGM6SCIBPLBIRGQSDCB6VSIJ4GEUHEBR4GEVTCKTFDNCF4VCVIJCRAGTZOVRWK6DOOVTGK6DBMVUAQCYKAUBQMEA2PF2WE4TAORRWA/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
@@ -303,20 +314,6 @@
         }
       ]
     },
-    "Wta Wuhan, China Women Singles - Mirra Andreeva Vs Laura Siegemund (10/07/25) [STREAM 25[HD]]": {
-      "event_title": "Wta Wuhan, China Women Singles - Mirra Andreeva Vs Laura Siegemund (10/07/25) [STREAM 25[HD]]",
-      "event_time": "08:40PM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCYIBAVKEDRLZKCCMBVGMZWIIZDMUPCUMBLKAJGAXKVK5KV2JR3GRSXQ3TVMNSXQYLFNMIRQGIUAIAAAADHMJUWK6DOOVRHEYD3OVWA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "Atp Shanghai, China Men Singles - Valentin Vacherot Vs Tallon Griekspoor (10/07/25)": {
       "event_title": "Atp Shanghai, China Men Singles - Valentin Vacherot Vs Tallon Griekspoor (10/07/25)",
       "event_time": "10:10PM",
@@ -332,6 +329,12 @@
         {
           "channel_name": "MOVISTAR2",
           "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LHKNPVCXSELFPHGAZREY5CCJZ7GFZD2NTZMVJV6WC7LYIHOIJ4GUXCCNB2H43XEYLPPEBBEGI6CABAAADCOV5G64TVNRUX2Z3TPR4RWGATAIBAEAQCMM/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "MOVISTAR2",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LHKNPVCXSELFPHGAZREY5CCJZ7GFZD2NTZMVJV6WC7LYIHOIJ4GUXCCNB2H43XEYLPPEBBEGI6CABAAADCOV5G64TVNRUX2Z3TPR4RWGATAIBAEAQHMY/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         },
@@ -366,6 +369,20 @@
         {
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/CA6TCKJ6EE5TOIBANMCA2YISOBOFCXC4KU6TENJXOILDUMJLHQXGS6LXIBJFUU2VDQIB4MB6MUAS2OZXFE3TQZLUCFZV6UKILFBRAFBUHQSCAKRQGEYHEPJWPF6FGR2AKVPRA7JSE4SCYPBBGQSWK6DBMVVBCGAZCQDBAGQ2ONTWA5LCOFQGSZLYMFSWWBQAAMAQO/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta 125K Mallorca, Spain Women Singles - Lola Radivojevic Vs Miriam Bianca Bulgaru (10/07/25)": {
+      "event_title": "Wta 125K Mallorca, Spain Women Singles - Lola Radivojevic Vs Miriam Bianca Bulgaru (10/07/25)",
+      "event_time": "10:35PM",
+      "event_date": "10/07/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6DYOJRMUACKMJZGM6SCIBPLBIRGQSDCB6VSIJ4GEUHEBR4GEVTCKTFDNCF4VCVIJCRAGTZOVRWK6DOOVTGK6DBMVUAQCYKAUBQMEA2PF2WE4TAORRWA/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }

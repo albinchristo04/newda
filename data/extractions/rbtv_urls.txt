@@ -1,4 +1,4 @@
-Extracted at: 2025-10-07T14:43:00.552300
+Extracted at: 2025-10-07T14:53:02.739671
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -105,29 +105,21 @@ Available Channels (2):
 
 ================================================================================
 
-EVENT: Wta Wuhan, China Women Singles - Mirra Andreeva Vs Laura Siegemund (10/07/25) [STREAM 25[HD]]
-Time: 08:40PM
-Date: 10/07/25
-Category: None
-Available Channels (1):
-  1. None
-     URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCYIBAVKEDRLZKCCMBVGMZWIIZDMUPCUMBLKAJGAXKVK5KV2JR3GRSXQ3TVMNSXQYLFNMIRQGIUAIAAAADHMJUWK6DOOVRHEYD3OVWA/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
-
-================================================================================
-
 EVENT: Atp Shanghai, China Men Singles - Valentin Vacherot Vs Tallon Griekspoor (10/07/25)
 Time: 10:10PM
 Date: 10/07/25
 Category: None
-Available Channels (3):
+Available Channels (4):
   1. SKA
      URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LHKNPVCXSELFPHGAZREY5CCJZ7GFZD2NTZMVJV6WC7LYIHOIJ4GUXCCNB2H43XEYLPPEBBEGI6CABAAADCOV5G64TVNRUX2Z3TPR4RWGATAIBAEAIINI/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
   2. MOVISTAR2
      URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LHKNPVCXSELFPHGAZREY5CCJZ7GFZD2NTZMVJV6WC7LYIHOIJ4GUXCCNB2H43XEYLPPEBBEGI6CABAAADCOV5G64TVNRUX2Z3TPR4RWGATAIBAEAQCMM/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
-  3. HDD A
+  3. MOVISTAR2
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LHKNPVCXSELFPHGAZREY5CCJZ7GFZD2NTZMVJV6WC7LYIHOIJ4GUXCCNB2H43XEYLPPEBBEGI6CABAAADCOV5G64TVNRUX2Z3TPR4RWGATAIBAEAQHMY/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  4. HDD A
      URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LHKNPVCXSELFPHGAZREY5CCJZ7GFZD2NTZMVJV6WC7LYIHOIJ4GUXCCNB2H43XEYLPPEBBEGI6CADBAGTZOVQXY234MBUHY4TBN54QGBIBAQCQK/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
 
@@ -151,6 +143,17 @@ Category: None
 Available Channels (1):
   1. HDD A
      URL: https://world-proxifier.xyz/rbtv/p/CA6TCKJ6EE5TOIBANMCA2YISOBOFCXC4KU6TENJXOILDUMJLHQXGS6LXIBJFUU2VDQIB4MB6MUAS2OZXFE3TQZLUCFZV6UKILFBRAFBUHQSCAKRQGEYHEPJWPF6FGR2AKVPRA7JSE4SCYPBBGQSWK6DBMVVBCGAZCQDBAGQ2ONTWA5LCOFQGSZLYMFSWWBQAAMAQO/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Wta 125K Mallorca, Spain Women Singles - Lola Radivojevic Vs Miriam Bianca Bulgaru (10/07/25)
+Time: 10:35PM
+Date: 10/07/25
+Category: None
+Available Channels (1):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6DYOJRMUACKMJZGM6SCIBPLBIRGQSDCB6VSIJ4GEUHEBR4GEVTCKTFDNCF4VCVIJCRAGTZOVRWK6DOOVTGK6DBMVUAQCYKAUBQMEA2PF2WE4TAORRWA/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
 
 ================================================================================
