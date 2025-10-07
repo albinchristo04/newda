@@ -1,29 +1,15 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Tue Oct  7 19:36:20 UTC 2025
+Last updated: Tue Oct  7 19:49:41 UTC 2025
 
-Workflow run: #1022
+Workflow run: #1023
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-10-07T19:36:19.255143
+Extracted at: 2025-10-07T19:49:40.563719
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
-=== GROUPED EVENTS BY TITLE ===
+=== MEDIA SEGMENTS (First 10) ===
 
-EVENT: Basketball Champions League - Vef Riga Juniors Vs Aek Athens (10/08/25)
-Time: 02:00AM
-Date: 10/08/25
-Category: None
-Available Channels (6):
-  1. HDD A
-     URL: https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFAQHAG6LDLNKFKED2IVPDUORCGZZDEJTQAQLQAZIYIVNFMWSDCANBU43HOBXXQZDDOBXXQ23UMAEAWAIHBAIBUGTTM5TXOY3WNQ/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
-  2. HDD B ΕΛΛΗΝΙΚΆ
-     URL: https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFAQHAG6LDLNKFKED2IVPDUORCGZZDEJTQAQLQAZIYIVNFMWSDCANBU43HOBXXQZDDOBXXQ23UMAEAWAIHBAIBUGTTM5TXOY3XMU/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
-  3. SD
-     URL: https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFAQHAG6LDLNKFKED2IVPDUORCGZZDEJTQAQLQAZIYIVNFMWSDCANBU43HOBXXQZDGOBXXQ23UMAEAWAIHBAIBUGTTM5TXOY3WMA/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
-  4. HDD A
+1. https://world-proxifier.xyz/rbtv/p/CY5TOKJ3G46XACZTH4WDMX2TL4KHYVKRK4TDA4DIOILTMJJLEYRSUK2BK4JWCXSZIRKTO5JGGZZASORCEAYSUKB3KQJBSHQQAEIBU6LVMZSXQ3TVMR3WA63TNAEREGI6CABQACDGMZRA/index.m3u8
 ```
