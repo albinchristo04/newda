@@ -1,38 +1,13 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-07T07:49:19.962098
+Extraction Time: 2025-10-07T08:21:15.457601
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 12
-- Total Channels: 14
+- Unique Events: 0
+- Total Channels: 0
 - Individual Streams: 0
-- Media Segments: 0
+- Media Segments: 13
 - Other Events: 0
 
-EVENT BREAKDOWN:
-- Korean K League 2 - Chungbuk Cheongju Fc Vs Gimpo Fc (10/07/...
-  Time: 03:30PM, Channels: 1
-- Wta Wuhan, China Women Singles - Marta Kostyuk Vs Karolina M...
-  Time: 12:55PM, Channels: 1
-- Wta Wuhan, China Women Singles - Magdalena Frech Vs Veronika...
-  Time: 01:35PM, Channels: 1
-- Wta Wuhan, China Women Singles - Rebecca Sramkova Vs Anna Ka...
-  Time: 01:55PM, Channels: 1
-- Wta Wuhan, China Women Singles - Emma Navarro Vs Zhang Shuai...
-  Time: 03:10PM, Channels: 1
-- Wta Wuhan, China Women Singles - Emma Navarro Vs Zhang Shuai...
-  Time: 03:10PM, Channels: 1
-- Premier Padel 2025  - Milan P1 Day 2 Match 1 (10/07/25)
-  Time: 03:30PM, Channels: 1
-- Wta Wuhan, China Women Doubles - Mihalikova T / Nicholls O V...
-  Time: 03:30PM, Channels: 1
-- Atp Shanghai, China Men Singles - Giovanni Mpetshi Perricard...
-  Time: 03:40PM, Channels: 3
-- Atp Shanghai, China Men Singles - Giovanni Mpetshi Perricard...
-  Time: 03:40PM, Channels: 1
-- Wta Wuhan, China Women Singles - Belinda Bencic Vs Donna Vek...
-  Time: 03:50PM, Channels: 1
-- Wta Wuhan, China Women Singles - Linda Noskova Vs Yulia Puti...
-  Time: 03:50PM, Channels: 1
