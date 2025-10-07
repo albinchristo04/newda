@@ -1,38 +1,42 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-07T07:15:36.771045
+Extraction Time: 2025-10-07T07:36:46.177081
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 12
-- Total Channels: 32
+- Unique Events: 14
+- Total Channels: 18
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
-- Korean Basketball League - Busan Ktf Sonicboom Vs Ulsan Mobi...
-  Time: 01:00PM, Channels: 2
+- Korean K League 2 - Chungbuk Cheongju Fc Vs Gimpo Fc (10/07/...
+  Time: 03:30PM, Channels: 1
 - Atp Shanghai, China Men Singles - Gabriel Diallo Vs Zizou Be...
-  Time: 12:30PM, Channels: 6
+  Time: 12:30PM, Channels: 3
 - Atp Shanghai, China Men Singles - Gabriel Diallo Vs Zizou Be...
-  Time: 12:30PM, Channels: 2
+  Time: 12:30PM, Channels: 1
 - Wta Wuhan, China Women Singles - Marta Kostyuk Vs Karolina M...
-  Time: 12:55PM, Channels: 2
+  Time: 12:55PM, Channels: 1
 - Wta Wuhan, China Women Singles - Magdalena Frech Vs Veronika...
-  Time: 01:35PM, Channels: 2
+  Time: 01:35PM, Channels: 1
 - Atp Shanghai, China Men Double - Andreozzi G / Guinard M Vs ...
-  Time: 01:40PM, Channels: 2
+  Time: 01:40PM, Channels: 1
 - Wta Wuhan, China Women Singles - Rebecca Sramkova Vs Anna Ka...
-  Time: 01:55PM, Channels: 2
-- Atp Shanghai, China Men Singles - Giovanni Mpetshi Perricard...
-  Time: 03:10PM, Channels: 6
-- Atp Shanghai, China Men Singles - Giovanni Mpetshi Perricard...
-  Time: 03:10PM, Channels: 2
+  Time: 01:55PM, Channels: 1
 - Wta Wuhan, China Women Singles - Emma Navarro Vs Zhang Shuai...
-  Time: 03:10PM, Channels: 2
+  Time: 03:10PM, Channels: 1
+- Wta Wuhan, China Women Singles - Emma Navarro Vs Zhang Shuai...
+  Time: 03:10PM, Channels: 1
+- Premier Padel 2025  - Milan P1 Day 2 Match 1 (10/07/25)
+  Time: 03:30PM, Channels: 1
+- Atp Shanghai, China Men Singles - Giovanni Mpetshi Perricard...
+  Time: 03:40PM, Channels: 3
+- Atp Shanghai, China Men Singles - Giovanni Mpetshi Perricard...
+  Time: 03:40PM, Channels: 1
 - Wta Wuhan, China Women Singles - Belinda Bencic Vs Donna Vek...
-  Time: 03:20PM, Channels: 2
+  Time: 03:40PM, Channels: 1
 - Wta Wuhan, China Women Singles - Linda Noskova Vs Yulia Puti...
-  Time: 03:20PM, Channels: 2
+  Time: 03:40PM, Channels: 1

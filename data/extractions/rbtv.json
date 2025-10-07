@@ -1,67 +1,18 @@
 {
-  "timestamp": "2025-10-07T07:15:36.771045",
+  "timestamp": "2025-10-07T07:36:46.177081",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
   "events": [
     {
-      "event_time": "01:00PM",
+      "event_time": "03:30PM",
       "event_date": "10/07/25",
       "channel_name": "SD",
-      "event_title": "Korean Basketball League - Busan Ktf Sonicboom Vs Ulsan Mobis Phoebus (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DA5CEIBTFJ2REJBBEAQC2U2TL5MBA7CVKE2CANLFP5SBOJJWGMSWKETFOQJWOX26LFJTCOR7FBZDEJTQCA7DQJBXCF7VYVSZIMIGAOZ2GUTSON3VPJXXE6LFOMNREAAUDINBAALKNRUHA2TWOV5G64TZOJUAQCYH/index.m3u8",
+      "event_title": "Korean K League 2 - Chungbuk Cheongju Fc Vs Gimpo Fc (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DA5CEIBTFJ2RWZI6FYSD4RCXCMDBAHIQOM5SAPRCGAYT44AGHIXCUN2WLBDBI5TTCBDCA5IXFQ7TIOTQAMIWW33TCEBRGHQ2CABRA6L7OBYWG53DNFZWU23POMIQCAYMAUAQC/index.m3u8",
       "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
-    },
-    {
-      "event_time": "01:00PM",
-      "event_date": "10/07/25",
-      "channel_name": "SD",
-      "event_title": "Korean Basketball League - Busan Ktf Sonicboom Vs Ulsan Mobis Phoebus (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DA5CEIBTFJ2REJBBEAQC2U2TL5MBA7CVKE2CANLFP5SBOJJWGMSWKETFOQJWOX26LFJTCOR7FBZDEJTQCA7DQJBXCF7VYVSZIMIGAOZ2GUTSON3VPJXXE6LFOMNREAAUDINBAALKNRUHA2TWOV5G64TZOJUAQCYH/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
-    },
-    {
-      "event_time": "12:30PM",
-      "event_date": "10/07/25",
-      "channel_name": "SKA",
-      "event_title": "Atp Shanghai, China Men Singles - Gabriel Diallo Vs Zizou Bergs (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWKNIUMWKVLQIBOPBRFE7CW5JGGZZBCLBDLZDRG5SVIJLUG437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCDGNVTGK6DOOVTHOYDZOVVA/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "12:30PM",
-      "event_date": "10/07/25",
-      "channel_name": "MOVISTAR2",
-      "event_title": "Atp Shanghai, China Men Singles - Gabriel Diallo Vs Zizou Bergs (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWKNIUMWKVLQIBOPBRFE7CW5JGGZZBCLBDLZDRG5SVIJLUG437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCDGNVTGK6DOOVTHOYDZORXA/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "12:30PM",
-      "event_date": "10/07/25",
-      "channel_name": "HDD A",
-      "event_title": "Atp Shanghai, China Men Singles - Gabriel Diallo Vs Zizou Bergs (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWKNIUMWKVLQIBOPBRFE7CW5JGGZZBCLBDLZDRG5SVIJLUG437PJSWCZD7PJSWI23POMIQGCQNBACQQBTTP55GKYDTMRUXYYY/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "12:30PM",
-      "event_date": "10/07/25",
-      "event_title": "Atp Shanghai, China Men Singles - Gabriel Diallo Vs Zizou Bergs (10/07/25) [STREAM 23[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWKNIUMWKVLQIBOPBRFE7CW5JGGZZBCLBDLZDRG5SVIJLUG437PJSWCZD7PJSWA23POMIQGCQNBACQQBTTP55GKYDTMRUXYZI/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
     },
     {
       "event_time": "12:30PM",
@@ -113,41 +64,11 @@
       "group_title": "TENNIS"
     },
     {
-      "event_time": "12:55PM",
-      "event_date": "10/07/25",
-      "channel_name": "HDD A",
-      "event_title": "Wta Wuhan, China Women Singles - Marta Kostyuk Vs Karolina Muchova (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQIBDVKED3L5BSOLBFFZZDEJTQBYZTSKRVLBOFEFD5IVJVQPBDGFSXQ3TVMNSXQYLFN4IRQGIUAEEQSCDKMFRWK6DOOVRHEY3SPRWA/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
       "event_time": "01:35PM",
       "event_date": "10/07/25",
       "channel_name": "HDD A",
       "event_title": "Wta Wuhan, China Women Singles - Magdalena Frech Vs Veronika Kudermetova (10/07/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQKVLVKXCVLZIXGEZCEAYSY5JGGZZB2IBLLZOFUX2RCB5UKNZQEIUDOMB2EYSHEYLPPEBBEGI6CADBAGTZOVQXY234NRRXG4TBN54QGBIBAQAAO/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "01:35PM",
-      "event_date": "10/07/25",
-      "channel_name": "HDD A",
-      "event_title": "Wta Wuhan, China Women Singles - Magdalena Frech Vs Veronika Kudermetova (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQKVLVKXCVLZIXGEZCEAYSY5JGGZZB2IBLLZOFUX2RCB5UKNZQEIUDOMB2EYSHEYLPPEBBEGI6CADBAGTZOVQXY234NRRXG4TBN54QGBIBAQAAO/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "01:40PM",
-      "event_date": "10/07/25",
-      "channel_name": "HDD A",
-      "event_title": "Atp Shanghai, China Men Double - Andreozzi G / Guinard M Vs Cerundolo F / Darderi L (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKGC7KZAVCX2KJJMXGETQNJZAGIBZFMZTSILZPQJEKRYQONKUEJR3GQVD4K3VCZSX22YBHBBVMVSGLEIHYEDZP5YHM4TOP5YHG4TBN54QACYKBUBASBQQPF7XA53FOZSWA4Y/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
@@ -173,89 +94,11 @@
       "group_title": "TENNIS"
     },
     {
-      "event_time": "01:55PM",
+      "event_time": "03:10PM",
       "event_date": "10/07/25",
       "channel_name": "HDD A",
-      "event_title": "Wta Wuhan, China Women Singles - Rebecca Sramkova Vs Anna Kalinskaya (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKC2UKBLFOU2RCBRSCNB5FY6TENDQGMQWWBBXL5JRG72RLRMV4IB6GE6DGZD7PJSWC23POMIQIEY6DIIACCLKNVUXCY3EP55GKYD4O5UQAAA/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "03:10PM",
-      "event_date": "10/07/25",
-      "channel_name": "SKA",
-      "event_title": "Atp Shanghai, China Men Singles - Giovanni Mpetshi Perricard Vs Holger Rune (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWLNOEEUK6LZMXGGBAEATDOPJZMUBC4NZLLBIVERSUCBDEG4Y5H4UTKIJHOALSOJJAPENRQEYHCANBUEDBMVQHI4TOP5YHI23SPVWAQAYTDYNBABQCMFSGQ7I/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "03:10PM",
-      "event_date": "10/07/25",
-      "channel_name": "MOVISTAR2",
-      "event_title": "Atp Shanghai, China Men Singles - Giovanni Mpetshi Perricard Vs Holger Rune (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWLNOEEUK6LZMXGGBAEATDOPJZMUBC4NZLLBIVERSUCBDEG4Y5H4UTKIJHOALSOJJAPENRQEYHCANBUEDBMVQHI4TOP5YHI23SPVWAQAYTDYNBABQCMFTWC4Y/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "03:10PM",
-      "event_date": "10/07/25",
-      "channel_name": "HDD B",
-      "event_title": "Atp Shanghai, China Men Singles - Giovanni Mpetshi Perricard Vs Holger Rune (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWLNOEEUK6LZMXGGBAEATDOPJZMUBC4NZLLBIVERSUCBDEG4Y5H4UTKIJHOALSOJJAPENRQEYHCANBUEDFOV5G64TVNRUX2Z3SOR4RWGATAYDQEAAANM/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "03:10PM",
-      "event_date": "10/07/25",
-      "event_title": "Atp Shanghai, China Men Singles - Giovanni Mpetshi Perricard Vs Holger Rune (10/07/25) [STREAM 23[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWLNOEEUK6LZMXGGBAEATDOPJZMUBC4NZLLBIVERSUCBDEG4Y5H4UTKIJHOALSOJJAPENRQEYHCANBUEDBOV5G64TVNRUX2Z3SOR4RWGATAYDQCCIJNM/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "03:10PM",
-      "event_date": "10/07/25",
-      "channel_name": "SKA",
-      "event_title": "Atp Shanghai, China Men Singles - Giovanni Mpetshi Perricard Vs Holger Rune (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWLNOEEUK6LZMXGGBAEATDOPJZMUBC4NZLLBIVERSUCBDEG4Y5H4UTKIJHOALSOJJAPENRQEYHCANBUEDBMVQHI4TOP5YHI23SPVWAQAYTDYNBABQCMFSGQ7I/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "03:10PM",
-      "event_date": "10/07/25",
-      "channel_name": "MOVISTAR2",
-      "event_title": "Atp Shanghai, China Men Singles - Giovanni Mpetshi Perricard Vs Holger Rune (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWLNOEEUK6LZMXGGBAEATDOPJZMUBC4NZLLBIVERSUCBDEG4Y5H4UTKIJHOALSOJJAPENRQEYHCANBUEDBMVQHI4TOP5YHI23SPVWAQAYTDYNBABQCMFTWC4Y/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "03:10PM",
-      "event_date": "10/07/25",
-      "channel_name": "HDD B",
-      "event_title": "Atp Shanghai, China Men Singles - Giovanni Mpetshi Perricard Vs Holger Rune (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWLNOEEUK6LZMXGGBAEATDOPJZMUBC4NZLLBIVERSUCBDEG4Y5H4UTKIJHOALSOJJAPENRQEYHCANBUEDFOV5G64TVNRUX2Z3SOR4RWGATAYDQEAAANM/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "03:10PM",
-      "event_date": "10/07/25",
-      "event_title": "Atp Shanghai, China Men Singles - Giovanni Mpetshi Perricard Vs Holger Rune (10/07/25) [STREAM 23[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWLNOEEUK6LZMXGGBAEATDOPJZMUBC4NZLLBIVERSUCBDEG4Y5H4UTKIJHOALSOJJAPENRQEYHCANBUEDBOV5G64TVNRUX2Z3SOR4RWGATAYDQCCIJNM/index.m3u8",
+      "event_title": "Wta Wuhan, China Women Singles - Emma Navarro Vs Zhang Shuai (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKHC4L5JBI7SRIZISCJZ7MUSDO5IKFUZSKITZMJNEMVKZCANBU43GOBXXQZDDOBXXQ23UMAEAUCQHAUIBUGTTM5TXOYTVMM/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
@@ -270,16 +113,56 @@
       "group_title": "TENNIS"
     },
     {
-      "event_time": "03:10PM",
+      "event_time": "03:30PM",
       "event_date": "10/07/25",
-      "event_title": "Wta Wuhan, China Women Singles - Emma Navarro Vs Zhang Shuai (10/07/25) [STREAM 25[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKHC4L5JBI7SRIZISCJZ7MUSDO5IKFUZSKITZMJNEMVKZCANBU43GOBXXQZDHOBXXQ23UMAEAUCQHAUIBUGTTM5TXOYTUMY/index.m3u8",
+      "channel_name": "SKA",
+      "event_title": "Premier Padel 2025  - Milan P1 Day 2 Match 1 (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAAJVSUKEKNMHGZDQN54GIZTQN54GW53JAEBRGHQ2CABAAY3FNFZGMZD7PJSWI6LXNMBQA/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
     },
     {
-      "event_time": "03:20PM",
+      "event_time": "03:40PM",
+      "event_date": "10/07/25",
+      "channel_name": "SKA",
+      "event_title": "Atp Shanghai, China Men Singles - Giovanni Mpetshi Perricard Vs Holger Rune (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWLNOEEUK6LZMXGGBAEATDOPJZMUBC4NZLLBIVERSUCBDEG4Y5H4UTKIJHOALSOJJAPENRQEYHCANBUEDBMVQHI4TOP5YHI23SPVWAQAYTDYNBABQCMFSGQ7I/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "03:40PM",
+      "event_date": "10/07/25",
+      "channel_name": "MOVISTAR2",
+      "event_title": "Atp Shanghai, China Men Singles - Giovanni Mpetshi Perricard Vs Holger Rune (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWLNOEEUK6LZMXGGBAEATDOPJZMUBC4NZLLBIVERSUCBDEG4Y5H4UTKIJHOALSOJJAPENRQEYHCANBUEDBMVQHI4TOP5YHI23SPVWAQAYTDYNBABQCMFTWC4Y/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "03:40PM",
+      "event_date": "10/07/25",
+      "channel_name": "HDD B",
+      "event_title": "Atp Shanghai, China Men Singles - Giovanni Mpetshi Perricard Vs Holger Rune (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWLNOEEUK6LZMXGGBAEATDOPJZMUBC4NZLLBIVERSUCBDEG4Y5H4UTKIJHOALSOJJAPENRQEYHCANBUEDFOV5G64TVNRUX2Z3SOR4RWGATAYDQEAAANM/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "03:40PM",
+      "event_date": "10/07/25",
+      "event_title": "Atp Shanghai, China Men Singles - Giovanni Mpetshi Perricard Vs Holger Rune (10/07/25) [STREAM 23[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWLNOEEUK6LZMXGGBAEATDOPJZMUBC4NZLLBIVERSUCBDEG4Y5H4UTKIJHOALSOJJAPENRQEYHCANBUEDBOV5G64TVNRUX2Z3SOR4RWGATAYDQCCIJNM/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "03:40PM",
       "event_date": "10/07/25",
       "channel_name": "HDD B",
       "event_title": "Wta Wuhan, China Women Singles - Belinda Bencic Vs Donna Vekic (10/07/25)",
@@ -289,27 +172,7 @@
       "group_title": "TENNIS"
     },
     {
-      "event_time": "03:20PM",
-      "event_date": "10/07/25",
-      "channel_name": "HDD B",
-      "event_title": "Wta Wuhan, China Women Singles - Belinda Bencic Vs Donna Vekic (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKG2ULZNFUVCRCBZDMOZTFQYWIIZDMULCIKZXKAJGKUK3LFJRA6L7OB3HE3T7OBZXEYLPPEAAWCQMBEBQEEDZP5YHOZLWMVQXM/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "03:20PM",
-      "event_date": "10/07/25",
-      "channel_name": "HDD B",
-      "event_title": "Wta Wuhan, China Women Singles - Linda Noskova Vs Yulia Putintseva (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFKYLRLVKED6L5BTQORGERZDEJTQDQTSOLBYCFREMQCZLZCEGNRDGFSXQ3TVMNSXQYLFN4IRQGIUAEEQSCLLMFTWK6DOOVRHEYD3ORWQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "03:20PM",
+      "event_time": "03:40PM",
       "event_date": "10/07/25",
       "channel_name": "HDD B",
       "event_title": "Wta Wuhan, China Women Singles - Linda Noskova Vs Yulia Putintseva (10/07/25)",
@@ -320,22 +183,16 @@
     }
   ],
   "grouped_events": {
-    "Korean Basketball League - Busan Ktf Sonicboom Vs Ulsan Mobis Phoebus (10/07/25)": {
-      "event_title": "Korean Basketball League - Busan Ktf Sonicboom Vs Ulsan Mobis Phoebus (10/07/25)",
-      "event_time": "01:00PM",
+    "Korean K League 2 - Chungbuk Cheongju Fc Vs Gimpo Fc (10/07/25)": {
+      "event_title": "Korean K League 2 - Chungbuk Cheongju Fc Vs Gimpo Fc (10/07/25)",
+      "event_time": "03:30PM",
       "event_date": "10/07/25",
       "category": null,
       "channels": [
         {
           "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/DA5CEIBTFJ2REJBBEAQC2U2TL5MBA7CVKE2CANLFP5SBOJJWGMSWKETFOQJWOX26LFJTCOR7FBZDEJTQCA7DQJBXCF7VYVSZIMIGAOZ2GUTSON3VPJXXE6LFOMNREAAUDINBAALKNRUHA2TWOV5G64TZOJUAQCYH/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/DA5CEIBTFJ2REJBBEAQC2U2TL5MBA7CVKE2CANLFP5SBOJJWGMSWKETFOQJWOX26LFJTCOR7FBZDEJTQCA7DQJBXCF7VYVSZIMIGAOZ2GUTSON3VPJXXE6LFOMNREAAUDINBAALKNRUHA2TWOV5G64TZOJUAQCYH/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+          "url": "https://world-proxifier.xyz/rbtv/p/DA5CEIBTFJ2RWZI6FYSD4RCXCMDBAHIQOM5SAPRCGAYT44AGHIXCUN2WLBDBI5TTCBDCA5IXFQ7TIOTQAMIWW33TCEBRGHQ2CABRA6L7OBYWG53DNFZWU23POMIQCAYMAUAQC/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }
       ]
@@ -346,24 +203,6 @@
       "event_date": "10/07/25",
       "category": null,
       "channels": [
-        {
-          "channel_name": "SKA",
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWKNIUMWKVLQIBOPBRFE7CW5JGGZZBCLBDLZDRG5SVIJLUG437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCDGNVTGK6DOOVTHOYDZOVVA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "MOVISTAR2",
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWKNIUMWKVLQIBOPBRFE7CW5JGGZZBCLBDLZDRG5SVIJLUG437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCDGNVTGK6DOOVTHOYDZORXA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWKNIUMWKVLQIBOPBRFE7CW5JGGZZBCLBDLZDRG5SVIJLUG437PJSWCZD7PJSWI23POMIQGCQNBACQQBTTP55GKYDTMRUXYYY/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
         {
           "channel_name": "SKA",
           "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWKNIUMWKVLQIBOPBRFE7CW5JGGZZBCLBDLZDRG5SVIJLUG437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCDGNVTGK6DOOVTHOYDZOVVA/index.m3u8",
@@ -395,12 +234,6 @@
           "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWKNIUMWKVLQIBOPBRFE7CW5JGGZZBCLBDLZDRG5SVIJLUG437PJSWCZD7PJSWA23POMIQGCQNBACQQBTTP55GKYDTMRUXYZI/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
-        },
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWKNIUMWKVLQIBOPBRFE7CW5JGGZZBCLBDLZDRG5SVIJLUG437PJSWCZD7PJSWA23POMIQGCQNBACQQBTTP55GKYDTMRUXYZI/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
         }
       ]
     },
@@ -410,12 +243,6 @@
       "event_date": "10/07/25",
       "category": null,
       "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQIBDVKED3L5BSOLBFFZZDEJTQBYZTSKRVLBOFEFD5IVJVQPBDGFSXQ3TVMNSXQYLFN4IRQGIUAEEQSCDKMFRWK6DOOVRHEY3SPRWA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
         {
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQIBDVKED3L5BSOLBFFZZDEJTQBYZTSKRVLBOFEFD5IVJVQPBDGFSXQ3TVMNSXQYLFN4IRQGIUAEEQSCDKMFRWK6DOOVRHEY3SPRWA/index.m3u8",
@@ -435,12 +262,6 @@
           "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQKVLVKXCVLZIXGEZCEAYSY5JGGZZB2IBLLZOFUX2RCB5UKNZQEIUDOMB2EYSHEYLPPEBBEGI6CADBAGTZOVQXY234NRRXG4TBN54QGBIBAQAAO/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
-        },
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQKVLVKXCVLZIXGEZCEAYSY5JGGZZB2IBLLZOFUX2RCB5UKNZQEIUDOMB2EYSHEYLPPEBBEGI6CADBAGTZOVQXY234NRRXG4TBN54QGBIBAQAAO/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
         }
       ]
     },
@@ -450,12 +271,6 @@
       "event_date": "10/07/25",
       "category": null,
       "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKGC7KZAVCX2KJJMXGETQNJZAGIBZFMZTSILZPQJEKRYQONKUEJR3GQVD4K3VCZSX22YBHBBVMVSGLEIHYEDZP5YHM4TOP5YHG4TBN54QACYKBUBASBQQPF7XA53FOZSWA4Y/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
         {
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKGC7KZAVCX2KJJMXGETQNJZAGIBZFMZTSILZPQJEKRYQONKUEJR3GQVD4K3VCZSX22YBHBBVMVSGLEIHYEDZP5YHM4TOP5YHG4TBN54QACYKBUBASBQQPF7XA53FOZSWA4Y/index.m3u8",
@@ -475,10 +290,46 @@
           "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKC2UKBLFOU2RCBRSCNB5FY6TENDQGMQWWBBXL5JRG72RLRMV4IB6GE6DGZD7PJSWC23POMIQIEY6DIIACCLKNVUXCY3EP55GKYD4O5UQAAA/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
-        },
+        }
+      ]
+    },
+    "Wta Wuhan, China Women Singles - Emma Navarro Vs Zhang Shuai (10/07/25)": {
+      "event_title": "Wta Wuhan, China Women Singles - Emma Navarro Vs Zhang Shuai (10/07/25)",
+      "event_time": "03:10PM",
+      "event_date": "10/07/25",
+      "category": null,
+      "channels": [
         {
           "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKC2UKBLFOU2RCBRSCNB5FY6TENDQGMQWWBBXL5JRG72RLRMV4IB6GE6DGZD7PJSWC23POMIQIEY6DIIACCLKNVUXCY3EP55GKYD4O5UQAAA/index.m3u8",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKHC4L5JBI7SRIZISCJZ7MUSDO5IKFUZSKITZMJNEMVKZCANBU43GOBXXQZDDOBXXQ23UMAEAUCQHAUIBUGTTM5TXOYTVMM/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Wuhan, China Women Singles - Emma Navarro Vs Zhang Shuai (10/07/25) [STREAM 25[HD]]": {
+      "event_title": "Wta Wuhan, China Women Singles - Emma Navarro Vs Zhang Shuai (10/07/25) [STREAM 25[HD]]",
+      "event_time": "03:10PM",
+      "event_date": "10/07/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKHC4L5JBI7SRIZISCJZ7MUSDO5IKFUZSKITZMJNEMVKZCANBU43GOBXXQZDHOBXXQ23UMAEAUCQHAUIBUGTTM5TXOYTUMY/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Premier Padel 2025  - Milan P1 Day 2 Match 1 (10/07/25)": {
+      "event_title": "Premier Padel 2025  - Milan P1 Day 2 Match 1 (10/07/25)",
+      "event_time": "03:30PM",
+      "event_date": "10/07/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SKA",
+          "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAAJVSUKEKNMHGZDQN54GIZTQN54GW53JAEBRGHQ2CABAAY3FNFZGMZD7PJSWI6LXNMBQA/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
@@ -486,28 +337,10 @@
     },
     "Atp Shanghai, China Men Singles - Giovanni Mpetshi Perricard Vs Holger Rune (10/07/25)": {
       "event_title": "Atp Shanghai, China Men Singles - Giovanni Mpetshi Perricard Vs Holger Rune (10/07/25)",
-      "event_time": "03:10PM",
+      "event_time": "03:40PM",
       "event_date": "10/07/25",
       "category": null,
       "channels": [
-        {
-          "channel_name": "SKA",
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWLNOEEUK6LZMXGGBAEATDOPJZMUBC4NZLLBIVERSUCBDEG4Y5H4UTKIJHOALSOJJAPENRQEYHCANBUEDBMVQHI4TOP5YHI23SPVWAQAYTDYNBABQCMFSGQ7I/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "MOVISTAR2",
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWLNOEEUK6LZMXGGBAEATDOPJZMUBC4NZLLBIVERSUCBDEG4Y5H4UTKIJHOALSOJJAPENRQEYHCANBUEDBMVQHI4TOP5YHI23SPVWAQAYTDYNBABQCMFTWC4Y/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "HDD B",
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWLNOEEUK6LZMXGGBAEATDOPJZMUBC4NZLLBIVERSUCBDEG4Y5H4UTKIJHOALSOJJAPENRQEYHCANBUEDFOV5G64TVNRUX2Z3SOR4RWGATAYDQEAAANM/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
         {
           "channel_name": "SKA",
           "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWLNOEEUK6LZMXGGBAEATDOPJZMUBC4NZLLBIVERSUCBDEG4Y5H4UTKIJHOALSOJJAPENRQEYHCANBUEDBMVQHI4TOP5YHI23SPVWAQAYTDYNBABQCMFSGQ7I/index.m3u8",
@@ -530,39 +363,13 @@
     },
     "Atp Shanghai, China Men Singles - Giovanni Mpetshi Perricard Vs Holger Rune (10/07/25) [STREAM 23[HD]]": {
       "event_title": "Atp Shanghai, China Men Singles - Giovanni Mpetshi Perricard Vs Holger Rune (10/07/25) [STREAM 23[HD]]",
-      "event_time": "03:10PM",
+      "event_time": "03:40PM",
       "event_date": "10/07/25",
       "category": null,
       "channels": [
         {
           "channel_name": null,
           "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWLNOEEUK6LZMXGGBAEATDOPJZMUBC4NZLLBIVERSUCBDEG4Y5H4UTKIJHOALSOJJAPENRQEYHCANBUEDBOV5G64TVNRUX2Z3SOR4RWGATAYDQCCIJNM/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWLNOEEUK6LZMXGGBAEATDOPJZMUBC4NZLLBIVERSUCBDEG4Y5H4UTKIJHOALSOJJAPENRQEYHCANBUEDBOV5G64TVNRUX2Z3SOR4RWGATAYDQCCIJNM/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Wta Wuhan, China Women Singles - Emma Navarro Vs Zhang Shuai (10/07/25) [STREAM 25[HD]]": {
-      "event_title": "Wta Wuhan, China Women Singles - Emma Navarro Vs Zhang Shuai (10/07/25) [STREAM 25[HD]]",
-      "event_time": "03:10PM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKHC4L5JBI7SRIZISCJZ7MUSDO5IKFUZSKITZMJNEMVKZCANBU43GOBXXQZDHOBXXQ23UMAEAUCQHAUIBUGTTM5TXOYTUMY/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKHC4L5JBI7SRIZISCJZ7MUSDO5IKFUZSKITZMJNEMVKZCANBU43GOBXXQZDHOBXXQ23UMAEAUCQHAUIBUGTTM5TXOYTUMY/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
@@ -570,16 +377,10 @@
     },
     "Wta Wuhan, China Women Singles - Belinda Bencic Vs Donna Vekic (10/07/25)": {
       "event_title": "Wta Wuhan, China Women Singles - Belinda Bencic Vs Donna Vekic (10/07/25)",
-      "event_time": "03:20PM",
+      "event_time": "03:40PM",
       "event_date": "10/07/25",
       "category": null,
       "channels": [
-        {
-          "channel_name": "HDD B",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKG2ULZNFUVCRCBZDMOZTFQYWIIZDMULCIKZXKAJGKUK3LFJRA6L7OB3HE3T7OBZXEYLPPEAAWCQMBEBQEEDZP5YHOZLWMVQXM/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
         {
           "channel_name": "HDD B",
           "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKG2ULZNFUVCRCBZDMOZTFQYWIIZDMULCIKZXKAJGKUK3LFJRA6L7OB3HE3T7OBZXEYLPPEAAWCQMBEBQEEDZP5YHOZLWMVQXM/index.m3u8",
@@ -590,16 +391,10 @@
     },
     "Wta Wuhan, China Women Singles - Linda Noskova Vs Yulia Putintseva (10/07/25)": {
       "event_title": "Wta Wuhan, China Women Singles - Linda Noskova Vs Yulia Putintseva (10/07/25)",
-      "event_time": "03:20PM",
+      "event_time": "03:40PM",
       "event_date": "10/07/25",
       "category": null,
       "channels": [
-        {
-          "channel_name": "HDD B",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFKYLRLVKED6L5BTQORGERZDEJTQDQTSOLBYCFREMQCZLZCEGNRDGFSXQ3TVMNSXQYLFN4IRQGIUAEEQSCLLMFTWK6DOOVRHEYD3ORWQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
         {
           "channel_name": "HDD B",
           "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFKYLRLVKED6L5BTQORGERZDEJTQDQTSOLBYCFREMQCZLZCEGNRDGFSXQ3TVMNSXQYLFN4IRQGIUAEEQSCLLMFTWK6DOOVRHEYD3ORWQ/index.m3u8",
