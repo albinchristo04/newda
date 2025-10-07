@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-07T14:53:02.739671
+Extraction Time: 2025-10-07T15:17:09.398403
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 14
-- Total Channels: 18
+- Unique Events: 18
+- Total Channels: 22
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -26,6 +26,10 @@ EVENT BREAKDOWN:
   Time: 08:15PM, Channels: 1
 - Uci Pro Series - Tre Valli Varesine | Men'S Race (10/07/25)
   Time: 09:25PM, Channels: 1
+- Uefa El W - Gintra Universitetas Women Vs Nordsjaelland Wome...
+  Time: 11:00PM, Channels: 1
+- Kontinental Hockey League - Lada Togliatti Vs Hc Sochi (10/0...
+  Time: 11:00PM, Channels: 1
 - Premier Padel 2025  - Milan P1 Day 2 Match 4 (10/07/25)
   Time: 08:00PM, Channels: 1
 - Wta Wuhan, China Women Singles - Mirra Andreeva Vs Laura Sie...
@@ -38,5 +42,9 @@ EVENT BREAKDOWN:
   Time: 10:30PM, Channels: 1
 - Wta 125K Mallorca, Spain Women Singles - Lola Radivojevic Vs...
   Time: 10:35PM, Channels: 1
-- Turkish Cup Women - Kuzey Boru Genclik Women Vs Beşiktaş Wom...
-  Time: 10:30PM, Channels: 1
+- Beach Pro Tour - Elite 16 | Newport Beach Vs Qualifying | Co...
+  Time: 10:55PM, Channels: 1
+- Beach Pro Tour - Elite 16 | Newport Beach Vs Qualifying | Co...
+  Time: 10:55PM, Channels: 1
+- Beach Pro Tour - Elite 16 | Newport Beach Vs Qualifying | Co...
+  Time: 10:55PM, Channels: 1
