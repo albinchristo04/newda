@@ -1,19 +1,9 @@
 {
-  "timestamp": "2025-10-07T17:14:00.421012",
+  "timestamp": "2025-10-07T17:31:23.029936",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
   "events": [
-    {
-      "event_time": "12:50AM",
-      "event_date": "10/08/25",
-      "channel_name": "HDD A",
-      "event_title": "Usa: Ncaa - Iowa Vs State Football Press Conference (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AYDBC73SBILBCBDSMZSRAXSFKIKEMQYQMMTTIJBAOIBDUPZRGAVCSNIRMJAVCQ2DCBZTYOZWEAQCCOZTEBZGC33ZBAJBSHQQAYIBU6LVMJ2WE5DMMZ3XEYLPPEBQKAIFAABA/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
-      "group_title": "AMERICAN FOOTBALL"
-    },
     {
       "event_time": "01:00AM",
       "event_date": "10/08/25",
@@ -120,16 +110,6 @@
       "channel_name": "SD",
       "event_title": "Basketball Champions League - Galatasaray S.K. Vs Kk Igokea (10/08/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFCUVCSOCFKNAFKQSRJEIAA6Y3NNZDEJTQBYMWWDB6LZMVMVIQDINBAYLVPJXXE53VPJXXE6T4MAEAAAINCANBUEDBMJRHIYTX/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
-    },
-    {
-      "event_time": "01:00AM",
-      "event_date": "10/08/25",
-      "channel_name": "HDD A",
-      "event_title": "Basketball Champions League - Lietuvos Rytas Vs Sk Legia Warszawa (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFDYRCALKEIROEOEDCJFCDEJTQGMQWIBQ3MUPC4IRQKAJGIVKCINFFCJBUOBXXQZDHOBXXQ23TPENRQEYFBEEQSATBNVYG66DEM5TXOY32OA/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
       "group_title": "BASKETBALL"
@@ -273,26 +253,6 @@
       "group_title": "FOOTBALL"
     },
     {
-      "event_time": "11:30PM",
-      "event_date": "10/07/25",
-      "channel_name": "SD",
-      "event_title": "Qatar Reserve League - Qatar Sc Doha U23 Vs Al-Shamal Sc  Reserves (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AI2CIJBAMQDTKNRXHEZTYEL6KZKVORKVCB7HKAJEEYSSO4AWCFVQCNSZKMJWCAQDCBDCA5IRFF7ROPJRFAZSOZIKOIJBGZSVINKUEJJQENSXQ3TVMFSXQYLFNIIRQGIUAQBASB3GM5SWK6DOOVRXK2T6ORXQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "12:00AM",
-      "event_date": "10/08/25",
-      "channel_name": "SDK A",
-      "event_title": "Champions Hockey League - Mountfield Hk Vs Kalpa (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CA6TCKBCFU5D4NTSAMVDUWSXJIKHYVKRK4TDA4DIOIETUJJLEYWSYPC5KYJXY6YQIZBXGHRRFEBCK5L2N5ZHU5DZDMMBGAQQDINBAYTMNF6GC7DCOBXXQ23XNYBQEBAD/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
-      "group_title": "HOCKEY"
-    },
-    {
       "event_time": "12:00AM",
       "event_date": "10/08/25",
       "channel_name": "SDK A",
@@ -328,16 +288,6 @@
       "channel_name": "SDK B",
       "event_title": "Kontinental Hockey League - Spartak Moscow Vs Kunlun Red Star Beijing (10/08/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/DA5D4MJ3FIYD4MJTE5SRCXSRLBIUSED4KUZDEJJAOJUXKAZVGM4TCOC2CJ7FWQ2TL5DXGIZDMUMTCOZ4GA6GWFZ4KUJGAQCRIIIHENR4HIWDYI3VPJXXE6TUPENRQEYCCANBUEDCNRUXYYL5MBYG66DLO5XAGAQKA4/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
-      "group_title": "HOCKEY"
-    },
-    {
-      "event_time": "11:00PM",
-      "event_date": "10/07/25",
-      "channel_name": "SDK A",
-      "event_title": "Kontinental Hockey League - Lada Togliatti Vs Hc Sochi (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DA5D4MJ3FIYD4MJTE5SRCXSRLBIUSED4KUZDEJJAOJUXKHBEGYVGKDK6KVPV2UKEIRMXGIZDMUNAO5IDFIYSGLDZDMMBGBIBCANBU43DOBXXQZDENF6GU7LXNMIRQGIUAIDQEADFMQ/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
       "group_title": "HOCKEY"
@@ -404,20 +354,6 @@
     }
   ],
   "grouped_events": {
-    "Usa: Ncaa - Iowa Vs State Football Press Conference (10/08/25)": {
-      "event_title": "Usa: Ncaa - Iowa Vs State Football Press Conference (10/08/25)",
-      "event_time": "12:50AM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AYDBC73SBILBCBDSMZSRAXSFKIKEMQYQMMTTIJBAOIBDUPZRGAVCSNIRMJAVCQ2DCBZTYOZWEAQCCOZTEBZGC33ZBAJBSHQQAYIBU6LVMJ2WE5DMMZ3XEYLPPEBQKAIFAABA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "Usa: Ncaa - Colorado Vs Weekly Football Presser (10/08/25)": {
       "event_title": "Usa: Ncaa - Colorado Vs Weekly Football Presser (10/08/25)",
       "event_time": "01:00AM",
@@ -546,12 +482,6 @@
       "event_date": "10/08/25",
       "category": null,
       "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFDYRCALKEIROEOEDCJFCDEJTQGMQWIBQ3MUPC4IRQKAJGIVKCINFFCJBUOBXXQZDHOBXXQ23TPENRQEYFBEEQSATBNVYG66DEM5TXOY32OA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        },
         {
           "channel_name": "SD",
           "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFDYRCALKEIROEOEDCJFCDEJTQGMQWIBQ3MUPC4IRQKAJGIVKCINFFCJBUOBXXQZDHOBXXQ23WPENRQEYFBEEQSATBNVYG66DEM5TXOY33OM/index.m3u8",
@@ -702,34 +632,6 @@
         }
       ]
     },
-    "Qatar Reserve League - Qatar Sc Doha U23 Vs Al-Shamal Sc  Reserves (10/07/25)": {
-      "event_title": "Qatar Reserve League - Qatar Sc Doha U23 Vs Al-Shamal Sc  Reserves (10/07/25)",
-      "event_time": "11:30PM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AI2CIJBAMQDTKNRXHEZTYEL6KZKVORKVCB7HKAJEEYSSO4AWCFVQCNSZKMJWCAQDCBDCA5IRFF7ROPJRFAZSOZIKOIJBGZSVINKUEJJQENSXQ3TVMFSXQYLFNIIRQGIUAQBASB3GM5SWK6DOOVRXK2T6ORXQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Champions Hockey League - Mountfield Hk Vs Kalpa (10/08/25)": {
-      "event_title": "Champions Hockey League - Mountfield Hk Vs Kalpa (10/08/25)",
-      "event_time": "12:00AM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SDK A",
-          "url": "https://world-proxifier.xyz/rbtv/p/CA6TCKBCFU5D4NTSAMVDUWSXJIKHYVKRK4TDA4DIOIETUJJLEYWSYPC5KYJXY6YQIZBXGHRRFEBCK5L2N5ZHU5DZDMMBGAQQDINBAYTMNF6GC7DCOBXXQ23XNYBQEBAD/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "Kontinental Hockey League - Ak Bars Kazan Vs Barys Astana (10/08/25)": {
       "event_title": "Kontinental Hockey League - Ak Bars Kazan Vs Barys Astana (10/08/25)",
       "event_time": "12:00AM",
@@ -781,20 +683,6 @@
         {
           "channel_name": "SDK B",
           "url": "https://world-proxifier.xyz/rbtv/p/DA5D4MJ3FIYD4MJTE5SRCXSRLBIUSED4KUZDEJJAOJUXKAZVGM4TCOC2CJ7FWQ2TL5DXGIZDMUMTCOZ4GA6GWFZ4KUJGAQCRIIIHENR4HIWDYI3VPJXXE6TUPENRQEYCCANBUEDCNRUXYYL5MBYG66DLO5XAGAQKA4/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Kontinental Hockey League - Lada Togliatti Vs Hc Sochi (10/07/25)": {
-      "event_title": "Kontinental Hockey League - Lada Togliatti Vs Hc Sochi (10/07/25)",
-      "event_time": "11:00PM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SDK A",
-          "url": "https://world-proxifier.xyz/rbtv/p/DA5D4MJ3FIYD4MJTE5SRCXSRLBIUSED4KUZDEJJAOJUXKHBEGYVGKDK6KVPV2UKEIRMXGIZDMUNAO5IDFIYSGLDZDMMBGBIBCANBU43DOBXXQZDENF6GU7LXNMIRQGIUAIDQEADFMQ/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
           "duration": null
         }
