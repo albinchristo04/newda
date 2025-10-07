@@ -1,62 +1,54 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-07T20:16:45.440562
+Extraction Time: 2025-10-07T20:38:51.510501
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 24
-- Total Channels: 36
+- Unique Events: 20
+- Total Channels: 66
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
 - Major League Baseball - Detroit Tigers Vs Seattle Mariners (...
-  Time: 04:08AM, Channels: 1
+  Time: 04:08AM, Channels: 6
 - Major League Baseball - Detroit Tigers Vs Seattle Mariners (...
-  Time: 04:08AM, Channels: 1
-- Basketball Champions League - Dkv Joventut Vs Cholet (10/08/...
-  Time: 02:30AM, Channels: 2
+  Time: 04:08AM, Channels: 2
 - Basketball Champions League - Lisboa E Benfica Vs Kalise Gra...
-  Time: 03:30AM, Channels: 1
-- English Football League Trophy - Barrow Vs Tranmere Rovers (...
-  Time: 02:30AM, Channels: 1
-- English Football League Trophy - Accrington Stanley Vs Port ...
-  Time: 02:45AM, Channels: 1
+  Time: 03:30AM, Channels: 2
 - English National League - Scunthorpe United Vs Morecambe (10...
-  Time: 02:45AM, Channels: 1
+  Time: 02:45AM, Channels: 2
 - Primera División Fútbol Sala - Osasuna Magna Vs Illes Balear...
-  Time: 02:50AM, Channels: 1
+  Time: 02:50AM, Channels: 2
 - Uefa Women'S Champions League - Arsenal Women Vs Ol Lyonnes ...
-  Time: 03:00AM, Channels: 5
+  Time: 03:00AM, Channels: 10
 - Uefa Women'S Champions League - Arsenal Women Vs Ol Lyonnes ...
-  Time: 03:00AM, Channels: 1
+  Time: 03:00AM, Channels: 2
 - Uefa Women'S Champions League - Arsenal Women Vs Ol Lyonnes ...
-  Time: 03:00AM, Channels: 1
+  Time: 03:00AM, Channels: 2
 - Uefa Women'S Champions League - Barcelona Women Vs Bayern Mu...
-  Time: 03:00AM, Channels: 4
+  Time: 03:00AM, Channels: 8
 - Uefa Women'S Champions League - Barcelona Women Vs Bayern Mu...
-  Time: 03:00AM, Channels: 1
+  Time: 03:00AM, Channels: 2
 - Uefa Women'S Champions League - Barcelona Women Vs Bayern Mu...
-  Time: 03:00AM, Channels: 1
+  Time: 03:00AM, Channels: 2
 - Uefa Women'S Champions League - Paris Fc Women Vs Oud Heverl...
-  Time: 03:00AM, Channels: 3
+  Time: 03:00AM, Channels: 6
 - Uefa Women'S Champions League - Paris Fc Women Vs Oud Heverl...
-  Time: 03:00AM, Channels: 1
+  Time: 03:00AM, Channels: 2
 - U20 World Cup - Ukraine U20 Vs Spain U20 (10/08/25)
-  Time: 03:30AM, Channels: 3
+  Time: 03:30AM, Channels: 6
 - U20 World Cup - Ukraine U20 Vs Spain U20 (10/08/25) [STREAM ...
-  Time: 03:30AM, Channels: 1
+  Time: 03:30AM, Channels: 2
 - Colombian Copa Betplay Dimayor - Envigado Fc Vs Deportivo Pe...
-  Time: 04:00AM, Channels: 1
+  Time: 04:00AM, Channels: 2
 - National Hockey League - Nhl Vs Tonight (10/08/25)
-  Time: 04:00AM, Channels: 1
-- Challenger Atp Challenger Roanne, France, Men Singles - Vikt...
-  Time: 03:10AM, Channels: 1
+  Time: 04:00AM, Channels: 2
 - Beach Pro Tour - Elite 16 | Newport Beach Vs Qualifying | Co...
-  Time: 10:55PM, Channels: 1
+  Time: 10:55PM, Channels: 2
 - Beach Pro Tour - Elite 16 | Newport Beach Vs Qualifying | Co...
-  Time: 10:55PM, Channels: 1
+  Time: 10:55PM, Channels: 2
 - Beach Pro Tour - Elite 16 | Newport Beach Vs Qualifying | Co...
-  Time: 10:55PM, Channels: 1
+  Time: 10:55PM, Channels: 2
