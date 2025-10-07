@@ -106,12 +106,6 @@
         "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TEJZZERZAQORFG43C4NTZOJJUCWCVCBDEG4Y3EU3TWJLVCI3TGJJGHBJFCWS3CANBUEDAOV5G64TWMVQHI4TBN54QACYKBUBQEBAQPF7XA43AOZTWC7I/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
-      },
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TEJZZERZAQORFG43C4NTZOJJUCWCVCBDEG4Y3EU3TWJLVCI3TGJJGHBJFCWS3CANBUEDAOV5G64TSOV5G64T2PRQAQAIBAAIBUGQQMFRGE5LAPU/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-        "duration": null
       }
     ]
   },
@@ -171,9 +165,23 @@
       }
     ]
   },
+  "Wta 125K Mallorca, Spain Women Singles - Mina Hodzic Vs Sara Bejlek (10/07/25)": {
+    "event_title": "Wta 125K Mallorca, Spain Women Singles - Mina Hodzic Vs Sara Bejlek (10/07/25)",
+    "event_time": "06:20PM",
+    "event_date": "10/07/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "MOVISTAR2",
+        "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TUOZRMUNCWMJKFQYWWMZKCFQVERSRCBZFKOJZGUXHE3T7OB3HEYLPPEBQEAYFCANBUEDCNRUXY2T4NRYG66DLONVQGAACBU/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      }
+    ]
+  },
   "Wta Wuhan, China Women Doubles - Guo H / Panova A Vs Olga Danilovic/Marta Kostyuk (10/07/25)": {
     "event_title": "Wta Wuhan, China Women Doubles - Guo H / Panova A Vs Olga Danilovic/Marta Kostyuk (10/07/25)",
-    "event_time": "05:50PM",
+    "event_time": "06:20PM",
     "event_date": "10/07/25",
     "category": null,
     "channels": [
@@ -181,6 +189,20 @@
         "channel_name": "HDD B",
         "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKHSELUJXYEA7CBQDEOZ7GMZWIFDQGMQWWCRVKZJRG4CRLZMVYPBDHETH2CJUEIYTG2YOGZBEMSSBLMIBUGTTMZYG66DEMNYG66DLORQAQCYCAUCRAGQ2ONTWO53CO5QQ/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Turkish Cup Women - Thy Women Vs Aras Kargo Women (10/07/25)": {
+    "event_title": "Turkish Cup Women - Thy Women Vs Aras Kargo Women (10/07/25)",
+    "event_time": "06:00PM",
+    "event_date": "10/07/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "VDO",
+        "url": "https://world-proxifier.xyz/rbtv/p/A4QCELR3G46XABRHHNSQ4XS7KZNBAHIQMQNQY4ASHUUTAPTFEQ4GKGCDKNABI62RIJLTY5IHFI7SCO3QN54GW5DKCEMBSFACAAAAC437PJSWG7LMNBZWM7LFOMNREBIGAIBAGBY/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
         "duration": null
       }
     ]
