@@ -1,12 +1,12 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Tue Oct  7 23:13:45 UTC 2025
+Last updated: Tue Oct  7 23:27:55 UTC 2025
 
-Workflow run: #1034
+Workflow run: #1035
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-10-07T23:13:45.006687
+Extracted at: 2025-10-07T23:27:54.527708
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -22,8 +22,8 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: National Basketball Association - Cleveland Cavaliers Vs Chicago Bulls (10/08/25)
-Time: 07:00AM
+EVENT: Major League Baseball - Detroit Tigers Vs Seattle Mariners (10/08/25)
+Time: 04:08AM
 Date: 10/08/25
 Category: None
 ```

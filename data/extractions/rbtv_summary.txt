@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-07T23:13:45.006687
+Extraction Time: 2025-10-07T23:27:54.527708
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 11
-- Total Channels: 15
+- Unique Events: 12
+- Total Channels: 16
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -14,6 +14,8 @@ STATISTICS:
 EVENT BREAKDOWN:
 - Usa: Ncaa - After Vs Further Review (10/08/25)
   Time: 07:00AM, Channels: 1
+- Major League Baseball - Detroit Tigers Vs Seattle Mariners (...
+  Time: 04:08AM, Channels: 1
 - National Basketball Association - Cleveland Cavaliers Vs Chi...
   Time: 07:00AM, Channels: 2
 - National Basketball Association - Cleveland Cavaliers Vs Chi...
