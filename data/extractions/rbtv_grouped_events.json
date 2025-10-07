@@ -128,6 +128,12 @@
     "category": null,
     "channels": [
       {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFDYRCALKEIROEOEDCJFCDEJTQGMQWIBQ3MUPC4IRQKAJGIVKCINFFCJBUOBXXQZDHOBXXQ23TPENRQEYFBEEQSATBNVYG66DEM5TXOY32OA/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+        "duration": null
+      },
+      {
         "channel_name": "SD",
         "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFDYRCALKEIROEOEDCJFCDEJTQGMQWIBQ3MUPC4IRQKAJGIVKCINFFCJBUOBXXQZDHOBXXQ23WPENRQEYFBEEQSATBNVYG66DEM5TXOY33OM/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
@@ -277,6 +283,20 @@
       }
     ]
   },
+  "Champions Hockey League - Mountfield Hk Vs Kalpa (10/08/25)": {
+    "event_title": "Champions Hockey League - Mountfield Hk Vs Kalpa (10/08/25)",
+    "event_time": "12:00AM",
+    "event_date": "10/08/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SDK A",
+        "url": "https://world-proxifier.xyz/rbtv/p/CA6TCKBCFU5D4NTSAMVDUWSXJIKHYVKRK4TDA4DIOIETUJJLEYWSYPC5KYJXY6YQIZBXGHRRFEBCK5L2N5ZHU5DZDMMBGAQQDINBAYTMNF6GC7DCOBXXQ23XNYBQEBAD/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+        "duration": null
+      }
+    ]
+  },
   "Kontinental Hockey League - Ak Bars Kazan Vs Barys Astana (10/08/25)": {
     "event_title": "Kontinental Hockey League - Ak Bars Kazan Vs Barys Astana (10/08/25)",
     "event_time": "12:00AM",
@@ -328,6 +348,34 @@
       {
         "channel_name": "SDK B",
         "url": "https://world-proxifier.xyz/rbtv/p/DA5D4MJ3FIYD4MJTE5SRCXSRLBIUSED4KUZDEJJAOJUXKAZVGM4TCOC2CJ7FWQ2TL5DXGIZDMUMTCOZ4GA6GWFZ4KUJGAQCRIIIHENR4HIWDYI3VPJXXE6TUPENRQEYCCANBUEDCNRUXYYL5MBYG66DLO5XAGAQKA4/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Champions Hockey League - Eisbaren Berlin Vs Frolunda Hc (10/08/25)": {
+    "event_title": "Champions Hockey League - Eisbaren Berlin Vs Frolunda Hc (10/08/25)",
+    "event_time": "01:30AM",
+    "event_date": "10/08/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SDK A",
+        "url": "https://world-proxifier.xyz/rbtv/p/CA6TCKBCFU5D4NTSAMVDUWSXJIKHYVKRK4TDA4DIOIATYIZHGM4SANYROBLEMXCZLYICKJTQAMQCWOJFFM3CUZIROIJBSHQQAEARA6L7OBZXE3T7OB2GW4T4NIEAUEY6DIIAEB3BMRQX2/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Champions Hockey League - Pinguins Bremerhaven Vs Lulea Hockey (10/08/25)": {
+    "event_title": "Champions Hockey League - Pinguins Bremerhaven Vs Lulea Hockey (10/08/25)",
+    "event_time": "01:30AM",
+    "event_date": "10/08/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SDK A",
+        "url": "https://world-proxifier.xyz/rbtv/p/CA6TCKBCFU5D4NTSAMVDUWSXJIKHYVKRK4TDA4DIOIKDYPRCE4RCWKQROBAVCXKVIJMDEIZVFNZDEJTQBETSOIBYCF5FYV23KVERA6L7OB2GGZD7PJSWI23POMIQGCQNBEBQSCLTP55GKYDTM5QXIZA/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
         "duration": null
       }

@@ -1,4 +1,4 @@
-Extracted at: 2025-10-07T17:31:23.029936
+Extracted at: 2025-10-07T17:49:22.105637
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -96,8 +96,11 @@ EVENT: Basketball Champions League - Lietuvos Rytas Vs Sk Legia Warszawa (10/08/
 Time: 01:00AM
 Date: 10/08/25
 Category: None
-Available Channels (1):
-  1. SD
+Available Channels (2):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFDYRCALKEIROEOEDCJFCDEJTQGMQWIBQ3MUPC4IRQKAJGIVKCINFFCJBUOBXXQZDHOBXXQ23TPENRQEYFBEEQSATBNVYG66DEM5TXOY32OA/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+  2. SD
      URL: https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFDYRCALKEIROEOEDCJFCDEJTQGMQWIBQ3MUPC4IRQKAJGIVKCINFFCJBUOBXXQZDHOBXXQ23WPENRQEYFBEEQSATBNVYG66DEM5TXOY33OM/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
 
@@ -206,6 +209,17 @@ Available Channels (1):
 
 ================================================================================
 
+EVENT: Champions Hockey League - Mountfield Hk Vs Kalpa (10/08/25)
+Time: 12:00AM
+Date: 10/08/25
+Category: None
+Available Channels (1):
+  1. SDK A
+     URL: https://world-proxifier.xyz/rbtv/p/CA6TCKBCFU5D4NTSAMVDUWSXJIKHYVKRK4TDA4DIOIETUJJLEYWSYPC5KYJXY6YQIZBXGHRRFEBCK5L2N5ZHU5DZDMMBGAQQDINBAYTMNF6GC7DCOBXXQ23XNYBQEBAD/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp
+
+================================================================================
+
 EVENT: Kontinental Hockey League - Ak Bars Kazan Vs Barys Astana (10/08/25)
 Time: 12:00AM
 Date: 10/08/25
@@ -246,6 +260,28 @@ Category: None
 Available Channels (1):
   1. SDK B
      URL: https://world-proxifier.xyz/rbtv/p/DA5D4MJ3FIYD4MJTE5SRCXSRLBIUSED4KUZDEJJAOJUXKAZVGM4TCOC2CJ7FWQ2TL5DXGIZDMUMTCOZ4GA6GWFZ4KUJGAQCRIIIHENR4HIWDYI3VPJXXE6TUPENRQEYCCANBUEDCNRUXYYL5MBYG66DLO5XAGAQKA4/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp
+
+================================================================================
+
+EVENT: Champions Hockey League - Eisbaren Berlin Vs Frolunda Hc (10/08/25)
+Time: 01:30AM
+Date: 10/08/25
+Category: None
+Available Channels (1):
+  1. SDK A
+     URL: https://world-proxifier.xyz/rbtv/p/CA6TCKBCFU5D4NTSAMVDUWSXJIKHYVKRK4TDA4DIOIATYIZHGM4SANYROBLEMXCZLYICKJTQAMQCWOJFFM3CUZIROIJBSHQQAEARA6L7OBZXE3T7OB2GW4T4NIEAUEY6DIIAEB3BMRQX2/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp
+
+================================================================================
+
+EVENT: Champions Hockey League - Pinguins Bremerhaven Vs Lulea Hockey (10/08/25)
+Time: 01:30AM
+Date: 10/08/25
+Category: None
+Available Channels (1):
+  1. SDK A
+     URL: https://world-proxifier.xyz/rbtv/p/CA6TCKBCFU5D4NTSAMVDUWSXJIKHYVKRK4TDA4DIOIKDYPRCE4RCWKQROBAVCXKVIJMDEIZVFNZDEJTQBETSOIBYCF5FYV23KVERA6L7OB2GGZD7PJSWI23POMIQGCQNBEBQSCLTP55GKYDTM5QXIZA/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp
 
 ================================================================================
