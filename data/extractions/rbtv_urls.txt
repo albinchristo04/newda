@@ -1,4 +1,4 @@
-Extracted at: 2025-10-07T10:16:24.551061
+Extracted at: 2025-10-07T10:41:21.263740
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -47,34 +47,6 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: Atp Shanghai, China Men Singles - Giovanni Mpetshi Perricard Vs Holger Rune (10/07/25)
-Time: 03:40PM
-Date: 10/07/25
-Category: None
-Available Channels (3):
-  1. SKA
-     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWLNOEEUK6LZMXGGBAEATDOPJZMUBC4NZLLBIVERSUCBDEG4Y5H4UTKIJHOALSOJJAPENRQEYHCANBUEDBMVQHI4TOP5YHI23SPVWAQAYTDYNBABQCMFSGQ7I/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
-  2. MOVISTAR2
-     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWLNOEEUK6LZMXGGBAEATDOPJZMUBC4NZLLBIVERSUCBDEG4Y5H4UTKIJHOALSOJJAPENRQEYHCANBUEDBMVQHI4TOP5YHI23SPVWAQAYTDYNBABQCMFTWI5I/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
-  3. HDD A
-     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWLNOEEUK6LZMXGGBAEATDOPJZMUBC4NZLLBIVERSUCBDEG4Y5H4UTKIJHOALSOJJAPENRQEYHCANBUEDFOV5G64TVNRUX2Z3SOR4RWGATAYDQEAABNI/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
-
-================================================================================
-
-EVENT: Atp Shanghai, China Men Singles - Giovanni Mpetshi Perricard Vs Holger Rune (10/07/25) [STREAM 23[HD]]
-Time: 03:40PM
-Date: 10/07/25
-Category: None
-Available Channels (1):
-  1. None
-     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWLNOEEUK6LZMXGGBAEATDOPJZMUBC4NZLLBIVERSUCBDEG4Y5H4UTKIJHOALSOJJAPENRQEYHCANBUEDBOV5G64TVNRUX2Z3SOR4RWGATAYDQCCIJNM/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
-
-================================================================================
-
 EVENT: Wta 125K Mallorca, Spain Women Singles - Maria Lourdes Carle Vs Nuria Brancaccio (10/07/25)
 Time: 04:00PM
 Date: 10/07/25
@@ -119,19 +91,44 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: Wta Wuhan, China Women Singles - Sorana Cirstea Vs Jeļena Ostapenko (10/07/25)
-Time: 05:20PM
+EVENT: Atp Shanghai, China Men Singles - Jaume Munar Vs Novak Djokovic (10/07/25)
+Time: 06:30PM
+Date: 10/07/25
+Category: None
+Available Channels (2):
+  1. SKA
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L3KNDFSVIQPVCT2NBCMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCDGNRQGK6DOOVTHOYD2PVXA/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  2. MOVISTAR
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L3KNDFSVIQPVCT2NBCMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCDGNRQGK6DOOVTHOYD2PRUQ/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Atp Shanghai, China Men Singles - Jaume Munar Vs Novak Djokovic (10/07/25) [STREAM 23[HD]]
+Time: 06:30PM
 Date: 10/07/25
 Category: None
 Available Channels (1):
-  1. HDD A
-     URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKCS6IBJFUUIQONMSCJREEAZWIIZDMUMC5APFKROFEFD7INCFCIZQHYXD2ZD7PJSWC23POMIQIEY6DIIACCLKNVUXMZTEP55GKYD4O5UQEBA/index.m3u8
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L3KNDFSVIQPVCT2NBCMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWA23POMIQGCQNBACQSADTP55GKYDTMRUXY2Y/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Premier Padel 2025  - Milan P1 Day 2 Match 3 (10/07/25)
+Time: 06:30PM
+Date: 10/07/25
+Category: None
+Available Channels (1):
+  1. SKA
+     URL: https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAAJVSUKEKNMHGZTQN54GIZTQN54GW53JAEBRGHQ2CABAAY3FNFZGIZD7PJSWI6LXNMBQM/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
 
 ================================================================================
 
 EVENT: Wta 125K Mallorca, Spain Women Singles - Mina Hodzic Vs Sara Bejlek (10/07/25)
-Time: 06:20PM
+Time: 06:40PM
 Date: 10/07/25
 Category: None
 Available Channels (1):
@@ -142,7 +139,7 @@ Available Channels (1):
 ================================================================================
 
 EVENT: Wta Wuhan, China Women Doubles - Guo H / Panova A Vs Olga Danilovic/Marta Kostyuk (10/07/25)
-Time: 06:20PM
+Time: 06:40PM
 Date: 10/07/25
 Category: None
 Available Channels (1):

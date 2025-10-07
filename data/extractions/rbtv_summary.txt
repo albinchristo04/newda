@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-07T10:16:24.551061
+Extraction Time: 2025-10-07T10:41:21.263740
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
 - Unique Events: 14
-- Total Channels: 16
+- Total Channels: 15
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -20,10 +20,6 @@ EVENT BREAKDOWN:
   Time: 05:00PM, Channels: 1
 - Premier Padel 2025  - Milan P1 Day 2 Match 1 (10/07/25)
   Time: 03:30PM, Channels: 1
-- Atp Shanghai, China Men Singles - Giovanni Mpetshi Perricard...
-  Time: 03:40PM, Channels: 3
-- Atp Shanghai, China Men Singles - Giovanni Mpetshi Perricard...
-  Time: 03:40PM, Channels: 1
 - Wta 125K Mallorca, Spain Women Singles - Maria Lourdes Carle...
   Time: 04:00PM, Channels: 1
 - Wta Wuhan, China Women Doubles - Andreescu B / Yuan Y Vs Tan...
@@ -32,11 +28,15 @@ EVENT BREAKDOWN:
   Time: 04:30PM, Channels: 1
 - Premier Padel 2025  - Milan P1 Day 2 Match 2 (10/07/25)
   Time: 05:00PM, Channels: 1
-- Wta Wuhan, China Women Singles - Sorana Cirstea Vs Jeļena Os...
-  Time: 05:20PM, Channels: 1
+- Atp Shanghai, China Men Singles - Jaume Munar Vs Novak Djoko...
+  Time: 06:30PM, Channels: 2
+- Atp Shanghai, China Men Singles - Jaume Munar Vs Novak Djoko...
+  Time: 06:30PM, Channels: 1
+- Premier Padel 2025  - Milan P1 Day 2 Match 3 (10/07/25)
+  Time: 06:30PM, Channels: 1
 - Wta 125K Mallorca, Spain Women Singles - Mina Hodzic Vs Sara...
-  Time: 06:20PM, Channels: 1
+  Time: 06:40PM, Channels: 1
 - Wta Wuhan, China Women Doubles - Guo H / Panova A Vs Olga Da...
-  Time: 06:20PM, Channels: 1
+  Time: 06:40PM, Channels: 1
 - Turkish Cup Women - Thy Women Vs Aras Kargo Women (10/07/25)
   Time: 06:00PM, Channels: 1
