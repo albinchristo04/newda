@@ -1,557 +1,493 @@
 {
-  "timestamp": "2025-10-07T13:17:05.635308",
+  "timestamp": "2025-10-07T13:44:37.262579",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
-  "segments": [],
-  "events": [
+  "segments": [
     {
-      "event_time": "05:30PM",
-      "event_date": "10/07/25",
-      "channel_name": "SKA",
-      "event_title": "World Cup, Women - England Women Vs Bangladesh Women (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNL6NMJDMXCXLUKB2EDVLY2DSMJLGZSAEPZIG4SWKL2CCJYVKXSXLRITOMBDFVZBGOR5EA6GW33TCECBGHQ2CABAAY3EOBXXQZDENF6GU7LVNYIRQGIUAYBAEATAMU/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
-      "group_title": "CRICKET"
+      "group_title": "CRICKET",
+      "title": "World Cup, Women - England Women Vs Bangladesh Women [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNL6NMJDMXCXLUKB2EDVLY2DSMJLGZSAEPZIG4SWKL2CCJYVKXSXLRITOMBDFVZBGOR5EA6GW33TCECBGHQ2CABAAY3EOBXXQZDENF6GU7LVNYIRQGIUAYBAEATAMU/index.m3u8"
     },
     {
-      "event_time": "05:30PM",
-      "event_date": "10/07/25",
-      "event_title": "World Cup, Women - England Women Vs Bangladesh Women (10/07/25) [STREAM 47[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNL6NMJDMXCXLUKB2EDVLY2DSMJLGZSAEPZIG4SWKL2CCJYVKXSXLRITOMBDFVZBGOR5EA6GW33TCECBGHQ2CABBA6L7OB2GW7LNMZ2WK23POMIQABAGAABQG/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
-      "group_title": "CRICKET"
+      "group_title": "CRICKET",
+      "title": "World Cup, Women - England Women Vs Bangladesh Women [STREAM 47[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNL6NMJDMXCXLUKB2EDVLY2DSMJLGZSAEPZIG4SWKL2CCJYVKXSXLRITOMBDFVZBGOR5EA6GW33TCECBGHQ2CABBA6L7OB2GW7LNMZ2WK23POMIQABAGAABQG/index.m3u8"
     },
     {
-      "event_time": "05:00PM",
-      "event_date": "10/07/25",
-      "channel_name": "MOVISTAR",
-      "event_title": "Uci Women\u00b4S Pro Series - Tre Valli Varesine | Women'S Race (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZIFFM4DKK4Q743HSYKALQKGGVKCLE3CM4DIOIICONLFAQVCSNKYCJSVKQSVINMT2MDQHFZBGOR5EA6GYNTZINJVAUIQDINBAYTAOBXXQZDHMB2WG23POMIQAAYEAAEQOADTP55GKZDWM5RHKZY/index.m3u8",
-      "duration": null,
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
+      "group_title": "CRICKET",
+      "title": "World Cup, Women - England Women Vs Bangladesh Women [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNL6NMJDMXCXLUKB2EDVLY2DSMJLGZSAEPZIG4SWKL2CCJYVKXSXLRITOMBDFVZBGOR5EA6GW33TCECBGHQ2CABAAY3EOBXXQZDENF6GU7LVNYIRQGIUAYBAEATAMU/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
+      "group_title": "CRICKET",
+      "title": "World Cup, Women - England Women Vs Bangladesh Women [STREAM 47[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNL6NMJDMXCXLUKB2EDVLY2DSMJLGZSAEPZIG4SWKL2CCJYVKXSXLRITOMBDFVZBGOR5EA6GW33TCECBGHQ2CABBA6L7OB2GW7LNMZ2WK23POMIQABAGAABQG/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
+      "group_title": "CRICKET",
+      "title": "World Cup, Women - England Women Vs Bangladesh Women [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNL6NMJDMXCXLUKB2EDVLY2DSMJLGZSAEPZIG4SWKL2CCJYVKXSXLRITOMBDFVZBGOR5EA6GW33TCECBGHQ2CABAAY3EOBXXQZDENF6GU7LVNYIRQGIUAYBAEATAMU/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
+      "group_title": "CRICKET",
+      "title": "World Cup, Women - England Women Vs Bangladesh Women [STREAM 47[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNL6NMJDMXCXLUKB2EDVLY2DSMJLGZSAEPZIG4SWKL2CCJYVKXSXLRITOMBDFVZBGOR5EA6GW33TCECBGHQ2CABBA6L7OB2GW7LNMZ2WK23POMIQABAGAABQG/index.m3u8"
+    },
+    {
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
-      "group_title": "CYCLING"
+      "group_title": "CYCLING",
+      "title": "Uci Pro Series - Es2, Tre Valli Varesine Men 2025 [HDD A ITALIANO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZICGY5HAFRXHEWDYQQSDYKHKYYCDRZQCIRAOIJDIPBJHNVRGOCDK5AF2XSVCB6TMO3QO5RHMYDQN54GW5DMCEMBSFAGCANBU43HMB2WE7LCMJSXQYLFNMDAAAYABE/index.m3u8"
     },
     {
-      "event_time": "07:00PM",
-      "event_date": "10/07/25",
-      "channel_name": "MOVISTAR",
-      "event_title": "Uci Women'S Europe Tour - Es2, Binche\u2013Chimay\u2013Binche (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZIFFM4DKK3VHBSRYRCALRCFKEDEL4TCO4DIOIAQMYTJOIESYN2SLJLNNMFDONMDUOBRHSYMJRQSFQ6CQLJ4CEMBSFABAUIBU6LVMJ2WE5LVPJXXE6LVNEAQWBAFCANBUEDFM5RHOYTS/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
-      "group_title": "CYCLING"
+      "group_title": "CYCLING",
+      "title": "Uci Pro Series - Es2, Tre Valli Varesine Men 2025 [STREAM 20[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZICGY5HAFRXHEWDYQQSDYKHKYYCDRZQCIRAOIJDIPBJHNVRGOCDK5AF2XSVCB6TMO3QO5RHMYDQN54GW5DMCEMBSFACCANBU43HMB2WE7LCMJSXQYLFNMDAAAYAAY/index.m3u8"
     },
     {
-      "event_time": "07:00PM",
-      "event_date": "10/07/25",
-      "event_title": "Uci Women'S Europe Tour - Es2, Binche\u2013Chimay\u2013Binche (10/07/25) [STREAM 45[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZIFFM4DKK3VHBSRYRCALRCFKEDEL4TCO4DIOIAQMYTJOIESYN2SLJLNNMFDONMDUOBRHSYMJRQSFQ6CQLJ4CEMBSFABAUIBU6LVMJSXQ3TVMJ2WE634NYABEGI6CABAOATDMZUA/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
-      "group_title": "CYCLING"
+      "group_title": "CYCLING",
+      "title": "Uci Pro Series - Es2, Tre Valli Varesine Men 2025 [HDD A ITALIANO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZICGY5HAFRXHEWDYQQSDYKHKYYCDRZQCIRAOIJDIPBJHNVRGOCDK5AF2XSVCB6TMO3QO5RHMYDQN54GW5DMCEMBSFAGCANBU43HMB2WE7LCMJSXQYLFNMDAAAYABE/index.m3u8"
     },
     {
-      "event_time": "08:15PM",
-      "event_date": "10/07/25",
-      "channel_name": "HDD A ITALIANO",
-      "event_title": "Uci Pro Series - Es2, Tre Valli Varesine Men 2025 (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZICGY5HAFRXHEWDYQQSDYKHKYYCDRZQCIRAOIJDIPBJHNVRGOCDK5AF2XSVCB6TMO3QO5RHMYDQN54GW5DMCEMBSFAGCANBU43HMB2WE7LCMJSXQYLFNMDAAAYABE/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
-      "group_title": "CYCLING"
+      "group_title": "CYCLING",
+      "title": "Uci Pro Series - Es2, Tre Valli Varesine Men 2025 [STREAM 20[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZICGY5HAFRXHEWDYQQSDYKHKYYCDRZQCIRAOIJDIPBJHNVRGOCDK5AF2XSVCB6TMO3QO5RHMYDQN54GW5DMCEMBSFACCANBU43HMB2WE7LCMJSXQYLFNMDAAAYAAY/index.m3u8"
     },
     {
-      "event_time": "08:15PM",
-      "event_date": "10/07/25",
-      "event_title": "Uci Pro Series - Es2, Tre Valli Varesine Men 2025 (10/07/25) [STREAM 20[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZICGY5HAFRXHEWDYQQSDYKHKYYCDRZQCIRAOIJDIPBJHNVRGOCDK5AF2XSVCB6TMO3QO5RHMYDQN54GW5DMCEMBSFACCANBU43HMB2WE7LCMJSXQYLFNMDAAAYAAY/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
-      "group_title": "CYCLING"
+      "group_title": "CYCLING",
+      "title": "Uci Pro Series - Es2, Tre Valli Varesine Men 2025 [HDD A ITALIANO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZICGY5HAFRXHEWDYQQSDYKHKYYCDRZQCIRAOIJDIPBJHNVRGOCDK5AF2XSVCB6TMO3QO5RHMYDQN54GW5DMCEMBSFAGCANBU43HMB2WE7LCMJSXQYLFNMDAAAYABE/index.m3u8"
     },
     {
-      "event_time": "07:35PM",
-      "event_date": "10/07/25",
-      "channel_name": "SD",
-      "event_title": "Jiangsu City Football League - Nantong Team Vs Huaian Team (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DE6DCKZVG4QHABR3H46HS525LRAFEUK4LRZRSNJEGUYTA4DIOICSIN2FLVOVGEDEKVIT45JGGZZAYIBRFQZSKZINKRJV4FA2DIIAC437PJSWCZD7PJSWM6L4NIBQWAQUDINBAA3DNVSXIYI/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
+      "group_title": "CYCLING",
+      "title": "Uci Pro Series - Es2, Tre Valli Varesine Men 2025 [STREAM 20[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZICGY5HAFRXHEWDYQQSDYKHKYYCDRZQCIRAOIJDIPBJHNVRGOCDK5AF2XSVCB6TMO3QO5RHMYDQN54GW5DMCEMBSFACCANBU43HMB2WE7LCMJSXQYLFNMDAAAYAAY/index.m3u8"
     },
     {
-      "event_time": "06:30PM",
-      "event_date": "10/07/25",
-      "channel_name": "SKA",
-      "event_title": "Premier Padel 2025  - Milan P1 Day 2 Match 3 (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAAJVSUKEKNMHGZTQN54GIZTQN54GW53JAEBRGHQ2CABAAY3FNFZGIZD7PJSWI6LXNMBQM/index.m3u8",
-      "duration": null,
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
+      "group_title": "CYCLING",
+      "title": "Uci Pro Series - Tre Valli Varesine | Men'S Race [MOVISTAR2]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZICGY5HAFRXHEWDYQQSDYKGIQSVCACTIPBJHNSAGMJXG44CYN2UCJHRI7KVLYLSA5JCEQYSC5L2N5ZHU4DZDMMBGBQAAAARA6L7OB3WE5DFNFZGC23POMIQIAIGAIAAQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
+      "group_title": "CYCLING",
+      "title": "Uci Pro Series - Tre Valli Varesine | Men'S Race [MOVISTAR2]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZICGY5HAFRXHEWDYQQSDYKGIQSVCACTIPBJHNSAGMJXG44CYN2UCJHRI7KVLYLSA5JCEQYSC5L2N5ZHU4DZDMMBGBQAAAARA6L7OB3WE5DFNFZGC23POMIQIAIGAIAAQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
+      "group_title": "CYCLING",
+      "title": "Uci Pro Series - Tre Valli Varesine | Men'S Race [MOVISTAR2]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZICGY5HAFRXHEWDYQQSDYKGIQSVCACTIPBJHNSAGMJXG44CYN2UCJHRI7KVLYLSA5JCEQYSC5L2N5ZHU4DZDMMBGBQAAAARA6L7OB3WE5DFNFZGC23POMIQIAIGAIAAQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
+      "group_title": "CYCLING",
+      "title": "Uci Women'S Europe Tour - Es2, Binche\u2013Chimay\u2013Binche [MOVISTAR]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZIFFM4DKK3VHBSRYRCALRCFKEDEL4TCO4DIOIAQMYTJOIESYN2SLJLNNMFDONMDUOBRHSYMJRQSFQ6CQLJ4CEMBSFABAUIBU6LVMJ2WE5LVPJXXE6LVNEAQWBAFCANBUEDFM5RHOYTS/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
+      "group_title": "CYCLING",
+      "title": "Uci Women'S Europe Tour - Es2, Binche\u2013Chimay\u2013Binche [STREAM 45[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZIFFM4DKK3VHBSRYRCALRCFKEDEL4TCO4DIOIAQMYTJOIESYN2SLJLNNMFDONMDUOBRHSYMJRQSFQ6CQLJ4CEMBSFABAUIBU6LVMJSXQ3TVMJ2WE634NYABEGI6CABAOATDMZUA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
+      "group_title": "CYCLING",
+      "title": "Uci Women'S Europe Tour - Es2, Binche\u2013Chimay\u2013Binche [MOVISTAR]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZIFFM4DKK3VHBSRYRCALRCFKEDEL4TCO4DIOIAQMYTJOIESYN2SLJLNNMFDONMDUOBRHSYMJRQSFQ6CQLJ4CEMBSFABAUIBU6LVMJ2WE5LVPJXXE6LVNEAQWBAFCANBUEDFM5RHOYTS/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
+      "group_title": "CYCLING",
+      "title": "Uci Women'S Europe Tour - Es2, Binche\u2013Chimay\u2013Binche [STREAM 45[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZIFFM4DKK3VHBSRYRCALRCFKEDEL4TCO4DIOIAQMYTJOIESYN2SLJLNNMFDONMDUOBRHSYMJRQSFQ6CQLJ4CEMBSFABAUIBU6LVMJSXQ3TVMJ2WE634NYABEGI6CABAOATDMZUA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
+      "group_title": "CYCLING",
+      "title": "Uci Women'S Europe Tour - Es2, Binche\u2013Chimay\u2013Binche [MOVISTAR]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZIFFM4DKK3VHBSRYRCALRCFKEDEL4TCO4DIOIAQMYTJOIESYN2SLJLNNMFDONMDUOBRHSYMJRQSFQ6CQLJ4CEMBSFABAUIBU6LVMJ2WE5LVPJXXE6LVNEAQWBAFCANBUEDFM5RHOYTS/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
+      "group_title": "CYCLING",
+      "title": "Uci Women'S Europe Tour - Es2, Binche\u2013Chimay\u2013Binche [STREAM 45[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZIFFM4DKK3VHBSRYRCALRCFKEDEL4TCO4DIOIAQMYTJOIESYN2SLJLNNMFDONMDUOBRHSYMJRQSFQ6CQLJ4CEMBSFABAUIBU6LVMJSXQ3TVMJ2WE634NYABEGI6CABAOATDMZUA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
+      "group_title": "CYCLING",
+      "title": "Uci Women\u00b4S Pro Series - Tre Valli Varesine | Women'S Race [MOVISTAR]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZIFFM4DKK4Q743HSYKALQKGGVKCLE3CM4DIOIICONLFAQVCSNKYCJSVKQSVINMT2MDQHFZBGOR5EA6GYNTZINJVAUIQDINBAYTAOBXXQZDHMB2WG23POMIQAAYEAAEQOADTP55GKZDWM5RHKZY/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
+      "group_title": "CYCLING",
+      "title": "Uci Women\u00b4S Pro Series - Tre Valli Varesine | Women'S Race [MOVISTAR]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZIFFM4DKK4Q743HSYKALQKGGVKCLE3CM4DIOIICONLFAQVCSNKYCJSVKQSVINMT2MDQHFZBGOR5EA6GYNTZINJVAUIQDINBAYTAOBXXQZDHMB2WG23POMIQAAYEAAEQOADTP55GKZDWM5RHKZY/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
+      "group_title": "CYCLING",
+      "title": "Uci Women\u00b4S Pro Series - Tre Valli Varesine | Women'S Race [MOVISTAR]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZIFFM4DKK4Q743HSYKALQKGGVKCLE3CM4DIOIICONLFAQVCSNKYCJSVKQSVINMT2MDQHFZBGOR5EA6GYNTZINJVAUIQDINBAYTAOBXXQZDHMB2WG23POMIQAAYEAAEQOADTP55GKZDWM5RHKZY/index.m3u8"
+    },
+    {
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Shanghai, China Men Singles - Jaume Munar Vs Novak Djokovic [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L3KNDFSVIQPVCT2NBCMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCDGNRQGK6DOOVTHOYD2PVXA/index.m3u8"
     },
     {
-      "event_time": "07:10PM",
-      "event_date": "10/07/25",
-      "channel_name": "SKA",
-      "event_title": "Atp Shanghai, China Men Singles - Jaume Munar Vs Novak Djokovic (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L3KNDFSVIQPVCT2NBCMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCDGNRQGK6DOOVTHOYD2PVXA/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Shanghai, China Men Singles - Jaume Munar Vs Novak Djokovic [MOVISTAR]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L3KNDFSVIQPVCT2NBCMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCDGNRQGK6DOOVTHOYD2PRUQ/index.m3u8"
     },
     {
-      "event_time": "07:10PM",
-      "event_date": "10/07/25",
-      "channel_name": "MOVISTAR",
-      "event_title": "Atp Shanghai, China Men Singles - Jaume Munar Vs Novak Djokovic (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L3KNDFSVIQPVCT2NBCMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCDGNRQGK6DOOVTHOYD2PRUQ/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Shanghai, China Men Singles - Jaume Munar Vs Novak Djokovic [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L3KNDFSVIQPVCT2NBCMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWI23POMIQGCQNBACQSADTP55GKYDTM5QHCYI/index.m3u8"
     },
     {
-      "event_time": "07:10PM",
-      "event_date": "10/07/25",
-      "channel_name": "HDD A",
-      "event_title": "Atp Shanghai, China Men Singles - Jaume Munar Vs Novak Djokovic (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L3KNDFSVIQPVCT2NBCMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWI23POMIQGCQNBACQSADTP55GKYDTM5QHCYI/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Shanghai, China Men Singles - Jaume Munar Vs Novak Djokovic [STREAM 23[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L3KNDFSVIQPVCT2NBCMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWA23POMIQGCQNBACQSADTP55GKYDTMRUXY2Y/index.m3u8"
     },
     {
-      "event_time": "07:10PM",
-      "event_date": "10/07/25",
-      "event_title": "Atp Shanghai, China Men Singles - Jaume Munar Vs Novak Djokovic (10/07/25) [STREAM 23[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L3KNDFSVIQPVCT2NBCMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWA23POMIQGCQNBACQSADTP55GKYDTMRUXY2Y/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Shanghai, China Men Singles - Jaume Munar Vs Novak Djokovic [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L3KNDFSVIQPVCT2NBCMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCDGNRQGK6DOOVTHOYD2PVXA/index.m3u8"
     },
     {
-      "event_time": "07:20PM",
-      "event_date": "10/07/25",
-      "channel_name": "MOVISTAR2",
-      "event_title": "Wta 125K Mallorca, Spain Women Singles - Mina Hodzic Vs Sara Bejlek (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TUOZRMUNCWMJKFQYWWMZKCFQVERSRCBZFKOJZGUXHE3T7OB3HEYLPPEBQEAYFCANBUEDCNRUXY2T4NRYG66DLONVQGAACBU/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Shanghai, China Men Singles - Jaume Munar Vs Novak Djokovic [MOVISTAR]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L3KNDFSVIQPVCT2NBCMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCDGNRQGK6DOOVTHOYD2PRUQ/index.m3u8"
     },
     {
-      "event_time": "07:20PM",
-      "event_date": "10/07/25",
-      "channel_name": "HDD A",
-      "event_title": "Wta 125K Mallorca, Spain Women Singles - Mina Hodzic Vs Sara Bejlek (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TUOZRMUNCWMJKFQYWWMZKCFQVERSRCBZFKOJZGUXHE3T7OB3HEYLPPEDREGI6CAAQSCLKNVUHY4TOP5YHOZLZOVWQI/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Shanghai, China Men Singles - Jaume Munar Vs Novak Djokovic [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L3KNDFSVIQPVCT2NBCMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWI23POMIQGCQNBACQSADTP55GKYDTM5QHCYI/index.m3u8"
     },
     {
-      "event_time": "08:00PM",
-      "event_date": "10/07/25",
-      "channel_name": "SKA",
-      "event_title": "Premier Padel 2025  - Milan P1 Day 2 Match 4 (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAAJVSUKEKNMHGYLQN54GIZTQN54GW53JAEBRGHQ2CABAAY3FNFZGKZD7PJSWI6LXNMBQO/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Shanghai, China Men Singles - Jaume Munar Vs Novak Djokovic [STREAM 23[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L3KNDFSVIQPVCT2NBCMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWA23POMIQGCQNBACQSADTP55GKYDTMRUXY2Y/index.m3u8"
     },
     {
-      "event_time": "08:30PM",
-      "event_date": "10/07/25",
-      "channel_name": "HDD A",
-      "event_title": "Challenger Atp Challenger Roanne, France, Men Singles - Mika Brunold Vs Justin Engel (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CA6TCKJ6EE5TOIBANMCA2YISOBOFCXC4KU6TENJXOILDUMJLHQXGS6LXIBJFUU2VDQIB4MB6MUAS2OZXFE3TQZLUCF7VUX2RCBZEEJR3H4UTMZBDENSRQPRWFVMFYE3RLZLVKXDTP55GKYLEP55GKZDLN5ZRCAADAQAAKBIION7XUZLAONTWA4DB/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Shanghai, China Men Singles - Jaume Munar Vs Novak Djokovic [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L3KNDFSVIQPVCT2NBCMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCDGNRQGK6DOOVTHOYD2PVXA/index.m3u8"
     },
     {
-      "event_time": "08:40PM",
-      "event_date": "10/07/25",
-      "channel_name": "VDO",
-      "event_title": "Wta Wuhan, China Women Singles - Mirra Andreeva Vs Laura Siegemund (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCYIBAVKEDRLZKCCMBVGMZWIIZDMUPCUMBLKAJGAXKVK5KV2JR3GRSXQ3TVMNSXQYLFNMAQEAQUDINBAATDMVQHCZL5OV5G64T5O5VQGAAK/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Shanghai, China Men Singles - Jaume Munar Vs Novak Djokovic [MOVISTAR]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L3KNDFSVIQPVCT2NBCMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCDGNRQGK6DOOVTHOYD2PRUQ/index.m3u8"
     },
     {
-      "event_time": "08:40PM",
-      "event_date": "10/07/25",
-      "channel_name": "HDD A",
-      "event_title": "Wta Wuhan, China Women Singles - Mirra Andreeva Vs Laura Siegemund (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCYIBAVKEDRLZKCCMBVGMZWIIZDMUPCUMBLKAJGAXKVK5KV2JR3GRSXQ3TVMNSXQYLFN4IRQGIUAIAAAADHMJUWK6DOOVRHEYD3OBWQ/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Shanghai, China Men Singles - Jaume Munar Vs Novak Djokovic [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L3KNDFSVIQPVCT2NBCMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWI23POMIQGCQNBACQSADTP55GKYDTM5QHCYI/index.m3u8"
     },
     {
-      "event_time": "08:40PM",
-      "event_date": "10/07/25",
-      "event_title": "Wta Wuhan, China Women Singles - Mirra Andreeva Vs Laura Siegemund (10/07/25) [STREAM 25[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCYIBAVKEDRLZKCCMBVGMZWIIZDMUPCUMBLKAJGAXKVK5KV2JR3GRSXQ3TVMNSXQYLFNMIRQGIUAIAAAADHMJUWK6DOOVRHEYD3OVWA/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Shanghai, China Men Singles - Jaume Munar Vs Novak Djokovic [STREAM 23[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L3KNDFSVIQPVCT2NBCMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWA23POMIQGCQNBACQSADTP55GKYDTMRUXY2Y/index.m3u8"
     },
     {
-      "event_time": "09:20PM",
-      "event_date": "10/07/25",
-      "channel_name": "SKA",
-      "event_title": "Atp Shanghai, China Men Singles - Valentin Vacherot Vs Tallon Griekspoor (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LHKNPVCXSELFPHGAZREY5CCJZ7GFZD2NTZMVJV6WC7LYIHOIJ4GUXCCNB2H43XEYLPPEBBEGI6CABAAADCOV5G64TVNRUX2Z3TPR4RWGATAIBAEAIINI/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Shanghai, China Men Singles - Valentin Vacherot Vs Tallon Griekspoor [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LHKNPVCXSELFPHGAZREY5CCJZ7GFZD2NTZMVJV6WC7LYIHOIJ4GUXCCNB2H43XEYLPPEBBEGI6CABAAADCOV5G64TVNRUX2Z3TPR4RWGATAIBAEAIINI/index.m3u8"
     },
     {
-      "event_time": "09:20PM",
-      "event_date": "10/07/25",
-      "channel_name": "MOVISTAR2",
-      "event_title": "Atp Shanghai, China Men Singles - Valentin Vacherot Vs Tallon Griekspoor (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LHKNPVCXSELFPHGAZREY5CCJZ7GFZD2NTZMVJV6WC7LYIHOIJ4GUXCCNB2H43XEYLPPEBBEGI6CABAAADCOV5G64TVNRUX2Z3TPR4RWGATAIBAEAQCMM/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Shanghai, China Men Singles - Valentin Vacherot Vs Tallon Griekspoor [MOVISTAR2]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LHKNPVCXSELFPHGAZREY5CCJZ7GFZD2NTZMVJV6WC7LYIHOIJ4GUXCCNB2H43XEYLPPEBBEGI6CABAAADCOV5G64TVNRUX2Z3TPR4RWGATAIBAEAQCMM/index.m3u8"
     },
     {
-      "event_time": "09:20PM",
-      "event_date": "10/07/25",
-      "channel_name": "HDD B",
-      "event_title": "Atp Shanghai, China Men Singles - Valentin Vacherot Vs Tallon Griekspoor (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LHKNPVCXSELFPHGAZREY5CCJZ7GFZD2NTZMVJV6WC7LYIHOIJ4GUXCCNB2H43XEYLPPEBBEGI6CADBAGTZOVQXY234MBUHY4TBN54QGBIBAQCQC/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Shanghai, China Men Singles - Valentin Vacherot Vs Tallon Griekspoor [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LHKNPVCXSELFPHGAZREY5CCJZ7GFZD2NTZMVJV6WC7LYIHOIJ4GUXCCNB2H43XEYLPPEBBEGI6CABAAADCOV5G64TVNRUX2Z3TPR4RWGATAIBAEAIINI/index.m3u8"
     },
     {
-      "event_time": "09:20PM",
-      "event_date": "10/07/25",
-      "event_title": "Atp Shanghai, China Men Singles - Valentin Vacherot Vs Tallon Griekspoor (10/07/25) [STREAM 23[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LHKNPVCXSELFPHGAZREY5CCJZ7GFZD2NTZMVJV6WC7LYIHOIJ4GUXCCNB2H43XEYLPPEBBEGI6CABBAGTZOVQXY234MBUHY4TBN54QGBIBAQAAA/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Shanghai, China Men Singles - Valentin Vacherot Vs Tallon Griekspoor [MOVISTAR2]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LHKNPVCXSELFPHGAZREY5CCJZ7GFZD2NTZMVJV6WC7LYIHOIJ4GUXCCNB2H43XEYLPPEBBEGI6CABAAADCOV5G64TVNRUX2Z3TPR4RWGATAIBAEAQCMM/index.m3u8"
     },
     {
-      "event_time": "08:30PM",
-      "event_date": "10/07/25",
-      "channel_name": "VDO",
-      "event_title": "Turkish Cup Women - Aydin Bld. Spor Women Vs Bahcelievler Women (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/A4QCELR3G46XABRHHNSQ4XS7KZNBAHIQOEVDCOJLOIDDSNDLOIMDKNSDCJSFWXKVLYICKJTQA4ZSYNRVFE5S4MZVKRABGY27LVKV4437PJSWG53VPJXXE6LVNEABEGI6CAAQSCLLMNSXK4TOP5YHGYDZO5VAS/index.m3u8",
-      "duration": null,
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Atp Shanghai, China Men Singles - Valentin Vacherot Vs Tallon Griekspoor [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LHKNPVCXSELFPHGAZREY5CCJZ7GFZD2NTZMVJV6WC7LYIHOIJ4GUXCCNB2H43XEYLPPEBBEGI6CABAAADCOV5G64TVNRUX2Z3TPR4RWGATAIBAEAIINI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Atp Shanghai, China Men Singles - Valentin Vacherot Vs Tallon Griekspoor [MOVISTAR2]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LHKNPVCXSELFPHGAZREY5CCJZ7GFZD2NTZMVJV6WC7LYIHOIJ4GUXCCNB2H43XEYLPPEBBEGI6CABAAADCOV5G64TVNRUX2Z3TPR4RWGATAIBAEAQCMM/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Challenger Atp Challenger Roanne, France, Men Singles - Mika Brunold Vs Justin Engel [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CA6TCKJ6EE5TOIBANMCA2YISOBOFCXC4KU6TENJXOILDUMJLHQXGS6LXIBJFUU2VDQIB4MB6MUAS2OZXFE3TQZLUCF7VUX2RCBZEEJR3H4UTMZBDENSRQPRWFVMFYE3RLZLVKXDTP55GKYLEP55GKZDLN5ZRCAADAQAAKBIION7XUZLAONTWA4DB/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Challenger Atp Challenger Roanne, France, Men Singles - Mika Brunold Vs Justin Engel [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CA6TCKJ6EE5TOIBANMCA2YISOBOFCXC4KU6TENJXOILDUMJLHQXGS6LXIBJFUU2VDQIB4MB6MUAS2OZXFE3TQZLUCF7VUX2RCBZEEJR3H4UTMZBDENSRQPRWFVMFYE3RLZLVKXDTP55GKYLEP55GKZDLN5ZRCAADAQAAKBIION7XUZLAONTWA4DB/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Challenger Atp Challenger Roanne, France, Men Singles - Mika Brunold Vs Justin Engel [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CA6TCKJ6EE5TOIBANMCA2YISOBOFCXC4KU6TENJXOILDUMJLHQXGS6LXIBJFUU2VDQIB4MB6MUAS2OZXFE3TQZLUCF7VUX2RCBZEEJR3H4UTMZBDENSRQPRWFVMFYE3RLZLVKXDTP55GKYLEP55GKZDLN5ZRCAADAQAAKBIION7XUZLAONTWA4DB/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Premier Padel 2025  - Milan P1 Day 2 Match 3 [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAAJVSUKEKNMHGZTQN54GIZTQN54GW53JAEBRGHQ2CABAAY3FNFZGIZD7PJSWI6LXNMBQM/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Premier Padel 2025  - Milan P1 Day 2 Match 3 [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAAJVSUKEKNMHGZTQN54GIZTQN54GW53JAEBRGHQ2CABAAY3FNFZGIZD7PJSWI6LXNMBQM/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Premier Padel 2025  - Milan P1 Day 2 Match 3 [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAAJVSUKEKNMHGZTQN54GIZTQN54GW53JAEBRGHQ2CABAAY3FNFZGIZD7PJSWI6LXNMBQM/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Premier Padel 2025  - Milan P1 Day 2 Match 4 [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAAJVSUKEKNMHGYLQN54GIZTQN54GW53JAEBRGHQ2CABAAY3FNFZGKZD7PJSWI6LXNMBQO/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Premier Padel 2025  - Milan P1 Day 2 Match 4 [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAAJVSUKEKNMHGYLQN54GIZTQN54GW53JAEBRGHQ2CABAAY3FNFZGKZD7PJSWI6LXNMBQO/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Premier Padel 2025  - Milan P1 Day 2 Match 4 [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAAJVSUKEKNMHGYLQN54GIZTQN54GW53JAEBRGHQ2CABAAY3FNFZGKZD7PJSWI6LXNMBQO/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Wta 125K Mallorca, Spain Women Singles - Mina Hodzic Vs Sara Bejlek [MOVISTAR2]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TUOZRMUNCWMJKFQYWWMZKCFQVERSRCBZFKOJZGUXHE3T7OB3HEYLPPEBQEAYFCANBUEDCNRUXY2T4NRYG66DLONVQGAACBU/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Wta 125K Mallorca, Spain Women Singles - Mina Hodzic Vs Sara Bejlek [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TUOZRMUNCWMJKFQYWWMZKCFQVERSRCBZFKOJZGUXHE3T7OB3HEYLPPEDREGI6CAAQSCLKNVUHY4TOP5YHOZLZOVWQI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Wta 125K Mallorca, Spain Women Singles - Mina Hodzic Vs Sara Bejlek [MOVISTAR2]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TUOZRMUNCWMJKFQYWWMZKCFQVERSRCBZFKOJZGUXHE3T7OB3HEYLPPEBQEAYFCANBUEDCNRUXY2T4NRYG66DLONVQGAACBU/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Wta 125K Mallorca, Spain Women Singles - Mina Hodzic Vs Sara Bejlek [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TUOZRMUNCWMJKFQYWWMZKCFQVERSRCBZFKOJZGUXHE3T7OB3HEYLPPEDREGI6CAAQSCLKNVUHY4TOP5YHOZLZOVWQI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Wta 125K Mallorca, Spain Women Singles - Mina Hodzic Vs Sara Bejlek [MOVISTAR2]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TUOZRMUNCWMJKFQYWWMZKCFQVERSRCBZFKOJZGUXHE3T7OB3HEYLPPEBQEAYFCANBUEDCNRUXY2T4NRYG66DLONVQGAACBU/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Wta 125K Mallorca, Spain Women Singles - Mina Hodzic Vs Sara Bejlek [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TUOZRMUNCWMJKFQYWWMZKCFQVERSRCBZFKOJZGUXHE3T7OB3HEYLPPEDREGI6CAAQSCLKNVUHY4TOP5YHOZLZOVWQI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Wta Wuhan, China Women Singles - Mirra Andreeva Vs Laura Siegemund [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCYIBAVKEDRLZKCCMBVGMZWIIZDMUPCUMBLKAJGAXKVK5KV2JR3GRSXQ3TVMNSXQYLFNMAQEAQUDINBAATDMVQHCZL5OV5G64T5O5VQGAAK/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Wta Wuhan, China Women Singles - Mirra Andreeva Vs Laura Siegemund [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCYIBAVKEDRLZKCCMBVGMZWIIZDMUPCUMBLKAJGAXKVK5KV2JR3GRSXQ3TVMNSXQYLFN4IRQGIUAIAAAADHMJUWK6DOOVRHEYD3OBWQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Wta Wuhan, China Women Singles - Mirra Andreeva Vs Laura Siegemund [STREAM 25[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCYIBAVKEDRLZKCCMBVGMZWIIZDMUPCUMBLKAJGAXKVK5KV2JR3GRSXQ3TVMNSXQYLFNMIRQGIUAIAAAADHMJUWK6DOOVRHEYD3OVWA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Wta Wuhan, China Women Singles - Mirra Andreeva Vs Laura Siegemund [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCYIBAVKEDRLZKCCMBVGMZWIIZDMUPCUMBLKAJGAXKVK5KV2JR3GRSXQ3TVMNSXQYLFNMAQEAQUDINBAATDMVQHCZL5OV5G64T5O5VQGAAK/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Wta Wuhan, China Women Singles - Mirra Andreeva Vs Laura Siegemund [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCYIBAVKEDRLZKCCMBVGMZWIIZDMUPCUMBLKAJGAXKVK5KV2JR3GRSXQ3TVMNSXQYLFN4IRQGIUAIAAAADHMJUWK6DOOVRHEYD3OBWQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Wta Wuhan, China Women Singles - Mirra Andreeva Vs Laura Siegemund [STREAM 25[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCYIBAVKEDRLZKCCMBVGMZWIIZDMUPCUMBLKAJGAXKVK5KV2JR3GRSXQ3TVMNSXQYLFNMIRQGIUAIAAAADHMJUWK6DOOVRHEYD3OVWA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Wta Wuhan, China Women Singles - Mirra Andreeva Vs Laura Siegemund [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCYIBAVKEDRLZKCCMBVGMZWIIZDMUPCUMBLKAJGAXKVK5KV2JR3GRSXQ3TVMNSXQYLFNMAQEAQUDINBAATDMVQHCZL5OV5G64T5O5VQGAAK/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Wta Wuhan, China Women Singles - Mirra Andreeva Vs Laura Siegemund [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCYIBAVKEDRLZKCCMBVGMZWIIZDMUPCUMBLKAJGAXKVK5KV2JR3GRSXQ3TVMNSXQYLFN4IRQGIUAIAAAADHMJUWK6DOOVRHEYD3OBWQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Wta Wuhan, China Women Singles - Mirra Andreeva Vs Laura Siegemund [STREAM 25[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCYIBAVKEDRLZKCCMBVGMZWIIZDMUPCUMBLKAJGAXKVK5KV2JR3GRSXQ3TVMNSXQYLFNMIRQGIUAIAAAADHMJUWK6DOOVRHEYD3OVWA/index.m3u8"
+    },
+    {
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
-      "group_title": "VOLLEYBALL"
+      "group_title": "VOLLEYBALL",
+      "title": "Turkish Cup Women - Aydin Bld. Spor Women Vs Bahcelievler Women [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/A4QCELR3G46XABRHHNSQ4XS7KZNBAHIQOEVDCOJLOIDDSNDLOIMDKNSDCJSFWXKVLYICKJTQA4ZSYNRVFE5S4MZVKRABGY27LVKV4437PJSWG53VPJXXE6LVNEABEGI6CAAQSCLLMNSXK4TOP5YHGYDZO5VAS/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
+      "group_title": "VOLLEYBALL",
+      "title": "Turkish Cup Women - Aydin Bld. Spor Women Vs Bahcelievler Women [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/A4QCELR3G46XABRHHNSQ4XS7KZNBAHIQOEVDCOJLOIDDSNDLOIMDKNSDCJSFWXKVLYICKJTQA4ZSYNRVFE5S4MZVKRABGY27LVKV4437PJSWG53VPJXXE6LVNEABEGI6CAAQSCLLMNSXK4TOP5YHGYDZO5VAS/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
+      "group_title": "VOLLEYBALL",
+      "title": "Turkish Cup Women - Aydin Bld. Spor Women Vs Bahcelievler Women [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/A4QCELR3G46XABRHHNSQ4XS7KZNBAHIQOEVDCOJLOIDDSNDLOIMDKNSDCJSFWXKVLYICKJTQA4ZSYNRVFE5S4MZVKRABGY27LVKV4437PJSWG53VPJXXE6LVNEABEGI6CAAQSCLLMNSXK4TOP5YHGYDZO5VAS/index.m3u8"
     }
   ],
-  "grouped_events": {
-    "World Cup, Women - England Women Vs Bangladesh Women (10/07/25)": {
-      "event_title": "World Cup, Women - England Women Vs Bangladesh Women (10/07/25)",
-      "event_time": "05:30PM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SKA",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNL6NMJDMXCXLUKB2EDVLY2DSMJLGZSAEPZIG4SWKL2CCJYVKXSXLRITOMBDFVZBGOR5EA6GW33TCECBGHQ2CABAAY3EOBXXQZDENF6GU7LVNYIRQGIUAYBAEATAMU/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "World Cup, Women - England Women Vs Bangladesh Women (10/07/25) [STREAM 47[HD]]": {
-      "event_title": "World Cup, Women - England Women Vs Bangladesh Women (10/07/25) [STREAM 47[HD]]",
-      "event_time": "05:30PM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNL6NMJDMXCXLUKB2EDVLY2DSMJLGZSAEPZIG4SWKL2CCJYVKXSXLRITOMBDFVZBGOR5EA6GW33TCECBGHQ2CABBA6L7OB2GW7LNMZ2WK23POMIQABAGAABQG/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Uci Women\u00b4S Pro Series - Tre Valli Varesine | Women'S Race (10/07/25)": {
-      "event_title": "Uci Women\u00b4S Pro Series - Tre Valli Varesine | Women'S Race (10/07/25)",
-      "event_time": "05:00PM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "MOVISTAR",
-          "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZIFFM4DKK4Q743HSYKALQKGGVKCLE3CM4DIOIICONLFAQVCSNKYCJSVKQSVINMT2MDQHFZBGOR5EA6GYNTZINJVAUIQDINBAYTAOBXXQZDHMB2WG23POMIQAAYEAAEQOADTP55GKZDWM5RHKZY/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Uci Women'S Europe Tour - Es2, Binche\u2013Chimay\u2013Binche (10/07/25)": {
-      "event_title": "Uci Women'S Europe Tour - Es2, Binche\u2013Chimay\u2013Binche (10/07/25)",
-      "event_time": "07:00PM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "MOVISTAR",
-          "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZIFFM4DKK3VHBSRYRCALRCFKEDEL4TCO4DIOIAQMYTJOIESYN2SLJLNNMFDONMDUOBRHSYMJRQSFQ6CQLJ4CEMBSFABAUIBU6LVMJ2WE5LVPJXXE6LVNEAQWBAFCANBUEDFM5RHOYTS/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Uci Women'S Europe Tour - Es2, Binche\u2013Chimay\u2013Binche (10/07/25) [STREAM 45[HD]]": {
-      "event_title": "Uci Women'S Europe Tour - Es2, Binche\u2013Chimay\u2013Binche (10/07/25) [STREAM 45[HD]]",
-      "event_time": "07:00PM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZIFFM4DKK3VHBSRYRCALRCFKEDEL4TCO4DIOIAQMYTJOIESYN2SLJLNNMFDONMDUOBRHSYMJRQSFQ6CQLJ4CEMBSFABAUIBU6LVMJSXQ3TVMJ2WE634NYABEGI6CABAOATDMZUA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Uci Pro Series - Es2, Tre Valli Varesine Men 2025 (10/07/25)": {
-      "event_title": "Uci Pro Series - Es2, Tre Valli Varesine Men 2025 (10/07/25)",
-      "event_time": "08:15PM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A ITALIANO",
-          "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZICGY5HAFRXHEWDYQQSDYKHKYYCDRZQCIRAOIJDIPBJHNVRGOCDK5AF2XSVCB6TMO3QO5RHMYDQN54GW5DMCEMBSFAGCANBU43HMB2WE7LCMJSXQYLFNMDAAAYABE/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Uci Pro Series - Es2, Tre Valli Varesine Men 2025 (10/07/25) [STREAM 20[HD]]": {
-      "event_title": "Uci Pro Series - Es2, Tre Valli Varesine Men 2025 (10/07/25) [STREAM 20[HD]]",
-      "event_time": "08:15PM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZICGY5HAFRXHEWDYQQSDYKHKYYCDRZQCIRAOIJDIPBJHNVRGOCDK5AF2XSVCB6TMO3QO5RHMYDQN54GW5DMCEMBSFACCANBU43HMB2WE7LCMJSXQYLFNMDAAAYAAY/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Jiangsu City Football League - Nantong Team Vs Huaian Team (10/07/25)": {
-      "event_title": "Jiangsu City Football League - Nantong Team Vs Huaian Team (10/07/25)",
-      "event_time": "07:35PM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/DE6DCKZVG4QHABR3H46HS525LRAFEUK4LRZRSNJEGUYTA4DIOICSIN2FLVOVGEDEKVIT45JGGZZAYIBRFQZSKZINKRJV4FA2DIIAC437PJSWCZD7PJSWM6L4NIBQWAQUDINBAA3DNVSXIYI/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Premier Padel 2025  - Milan P1 Day 2 Match 3 (10/07/25)": {
-      "event_title": "Premier Padel 2025  - Milan P1 Day 2 Match 3 (10/07/25)",
-      "event_time": "06:30PM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SKA",
-          "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAAJVSUKEKNMHGZTQN54GIZTQN54GW53JAEBRGHQ2CABAAY3FNFZGIZD7PJSWI6LXNMBQM/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Atp Shanghai, China Men Singles - Jaume Munar Vs Novak Djokovic (10/07/25)": {
-      "event_title": "Atp Shanghai, China Men Singles - Jaume Munar Vs Novak Djokovic (10/07/25)",
-      "event_time": "07:10PM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SKA",
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L3KNDFSVIQPVCT2NBCMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCDGNRQGK6DOOVTHOYD2PVXA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "MOVISTAR",
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L3KNDFSVIQPVCT2NBCMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCDGNRQGK6DOOVTHOYD2PRUQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L3KNDFSVIQPVCT2NBCMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWI23POMIQGCQNBACQSADTP55GKYDTM5QHCYI/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Atp Shanghai, China Men Singles - Jaume Munar Vs Novak Djokovic (10/07/25) [STREAM 23[HD]]": {
-      "event_title": "Atp Shanghai, China Men Singles - Jaume Munar Vs Novak Djokovic (10/07/25) [STREAM 23[HD]]",
-      "event_time": "07:10PM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L3KNDFSVIQPVCT2NBCMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWA23POMIQGCQNBACQSADTP55GKYDTMRUXY2Y/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Wta 125K Mallorca, Spain Women Singles - Mina Hodzic Vs Sara Bejlek (10/07/25)": {
-      "event_title": "Wta 125K Mallorca, Spain Women Singles - Mina Hodzic Vs Sara Bejlek (10/07/25)",
-      "event_time": "07:20PM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "MOVISTAR2",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TUOZRMUNCWMJKFQYWWMZKCFQVERSRCBZFKOJZGUXHE3T7OB3HEYLPPEBQEAYFCANBUEDCNRUXY2T4NRYG66DLONVQGAACBU/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TUOZRMUNCWMJKFQYWWMZKCFQVERSRCBZFKOJZGUXHE3T7OB3HEYLPPEDREGI6CAAQSCLKNVUHY4TOP5YHOZLZOVWQI/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Premier Padel 2025  - Milan P1 Day 2 Match 4 (10/07/25)": {
-      "event_title": "Premier Padel 2025  - Milan P1 Day 2 Match 4 (10/07/25)",
-      "event_time": "08:00PM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SKA",
-          "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAAJVSUKEKNMHGYLQN54GIZTQN54GW53JAEBRGHQ2CABAAY3FNFZGKZD7PJSWI6LXNMBQO/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Challenger Atp Challenger Roanne, France, Men Singles - Mika Brunold Vs Justin Engel (10/07/25)": {
-      "event_title": "Challenger Atp Challenger Roanne, France, Men Singles - Mika Brunold Vs Justin Engel (10/07/25)",
-      "event_time": "08:30PM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/CA6TCKJ6EE5TOIBANMCA2YISOBOFCXC4KU6TENJXOILDUMJLHQXGS6LXIBJFUU2VDQIB4MB6MUAS2OZXFE3TQZLUCF7VUX2RCBZEEJR3H4UTMZBDENSRQPRWFVMFYE3RLZLVKXDTP55GKYLEP55GKZDLN5ZRCAADAQAAKBIION7XUZLAONTWA4DB/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Wta Wuhan, China Women Singles - Mirra Andreeva Vs Laura Siegemund (10/07/25)": {
-      "event_title": "Wta Wuhan, China Women Singles - Mirra Andreeva Vs Laura Siegemund (10/07/25)",
-      "event_time": "08:40PM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCYIBAVKEDRLZKCCMBVGMZWIIZDMUPCUMBLKAJGAXKVK5KV2JR3GRSXQ3TVMNSXQYLFNMAQEAQUDINBAATDMVQHCZL5OV5G64T5O5VQGAAK/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCYIBAVKEDRLZKCCMBVGMZWIIZDMUPCUMBLKAJGAXKVK5KV2JR3GRSXQ3TVMNSXQYLFN4IRQGIUAIAAAADHMJUWK6DOOVRHEYD3OBWQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Wta Wuhan, China Women Singles - Mirra Andreeva Vs Laura Siegemund (10/07/25) [STREAM 25[HD]]": {
-      "event_title": "Wta Wuhan, China Women Singles - Mirra Andreeva Vs Laura Siegemund (10/07/25) [STREAM 25[HD]]",
-      "event_time": "08:40PM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCYIBAVKEDRLZKCCMBVGMZWIIZDMUPCUMBLKAJGAXKVK5KV2JR3GRSXQ3TVMNSXQYLFNMIRQGIUAIAAAADHMJUWK6DOOVRHEYD3OVWA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Atp Shanghai, China Men Singles - Valentin Vacherot Vs Tallon Griekspoor (10/07/25)": {
-      "event_title": "Atp Shanghai, China Men Singles - Valentin Vacherot Vs Tallon Griekspoor (10/07/25)",
-      "event_time": "09:20PM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SKA",
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LHKNPVCXSELFPHGAZREY5CCJZ7GFZD2NTZMVJV6WC7LYIHOIJ4GUXCCNB2H43XEYLPPEBBEGI6CABAAADCOV5G64TVNRUX2Z3TPR4RWGATAIBAEAIINI/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "MOVISTAR2",
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LHKNPVCXSELFPHGAZREY5CCJZ7GFZD2NTZMVJV6WC7LYIHOIJ4GUXCCNB2H43XEYLPPEBBEGI6CABAAADCOV5G64TVNRUX2Z3TPR4RWGATAIBAEAQCMM/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "HDD B",
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LHKNPVCXSELFPHGAZREY5CCJZ7GFZD2NTZMVJV6WC7LYIHOIJ4GUXCCNB2H43XEYLPPEBBEGI6CADBAGTZOVQXY234MBUHY4TBN54QGBIBAQCQC/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Atp Shanghai, China Men Singles - Valentin Vacherot Vs Tallon Griekspoor (10/07/25) [STREAM 23[HD]]": {
-      "event_title": "Atp Shanghai, China Men Singles - Valentin Vacherot Vs Tallon Griekspoor (10/07/25) [STREAM 23[HD]]",
-      "event_time": "09:20PM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LHKNPVCXSELFPHGAZREY5CCJZ7GFZD2NTZMVJV6WC7LYIHOIJ4GUXCCNB2H43XEYLPPEBBEGI6CABBAGTZOVQXY234MBUHY4TBN54QGBIBAQAAA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Turkish Cup Women - Aydin Bld. Spor Women Vs Bahcelievler Women (10/07/25)": {
-      "event_title": "Turkish Cup Women - Aydin Bld. Spor Women Vs Bahcelievler Women (10/07/25)",
-      "event_time": "08:30PM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/A4QCELR3G46XABRHHNSQ4XS7KZNBAHIQOEVDCOJLOIDDSNDLOIMDKNSDCJSFWXKVLYICKJTQA4ZSYNRVFE5S4MZVKRABGY27LVKV4437PJSWG53VPJXXE6LVNEABEGI6CAAQSCLLMNSXK4TOP5YHGYDZO5VAS/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
-          "duration": null
-        }
-      ]
-    }
-  },
+  "events": [],
+  "grouped_events": {},
   "metadata": {}
 }
