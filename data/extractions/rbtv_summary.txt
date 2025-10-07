@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-07T13:53:58.884240
+Extraction Time: 2025-10-07T14:16:39.095002
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 18
-- Total Channels: 23
+- Unique Events: 16
+- Total Channels: 20
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -30,21 +30,17 @@ EVENT BREAKDOWN:
   Time: 09:25PM, Channels: 1
 - Premier Padel 2025  - Milan P1 Day 2 Match 3 (10/07/25)
   Time: 06:30PM, Channels: 1
-- Atp Shanghai, China Men Singles - Jaume Munar Vs Novak Djoko...
-  Time: 07:10PM, Channels: 3
-- Atp Shanghai, China Men Singles - Jaume Munar Vs Novak Djoko...
-  Time: 07:10PM, Channels: 1
 - Wta 125K Mallorca, Spain Women Singles - Mina Hodzic Vs Sara...
   Time: 07:20PM, Channels: 2
 - Premier Padel 2025  - Milan P1 Day 2 Match 4 (10/07/25)
   Time: 08:00PM, Channels: 1
-- Challenger Atp Challenger Roanne, France, Men Singles - Mika...
-  Time: 08:30PM, Channels: 1
 - Wta Wuhan, China Women Singles - Mirra Andreeva Vs Laura Sie...
   Time: 08:40PM, Channels: 2
 - Wta Wuhan, China Women Singles - Mirra Andreeva Vs Laura Sie...
   Time: 08:40PM, Channels: 1
 - Atp Shanghai, China Men Singles - Valentin Vacherot Vs Tallo...
-  Time: 10:00PM, Channels: 2
+  Time: 10:10PM, Channels: 3
+- Atp Shanghai, China Men Singles - Valentin Vacherot Vs Tallo...
+  Time: 10:10PM, Channels: 1
 - Turkish Cup Women - Aydin Bld. Spor Women Vs Bahcelievler Wo...
   Time: 08:30PM, Channels: 1
