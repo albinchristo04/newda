@@ -1,13 +1,42 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-07T05:49:01.343074
+Extraction Time: 2025-10-07T06:23:25.683786
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 0
-- Total Channels: 0
+- Unique Events: 14
+- Total Channels: 19
 - Individual Streams: 0
-- Media Segments: 38
+- Media Segments: 0
 - Other Events: 0
 
+EVENT BREAKDOWN:
+- Usa: Nfl - Monday Vs Night Countdown (10/07/25)
+  Time: 06:00AM, Channels: 1
+- Korean Basketball League - Busan Ktf Sonicboom Vs Ulsan Mobi...
+  Time: 01:00PM, Channels: 1
+- Korean K League 2 - Seoul E-Land Fc Vs Hwaseong Fc (10/07/25...
+  Time: 01:00PM, Channels: 1
+- Atp Shanghai, China Men Singles - Gabriel Diallo Vs Zizou Be...
+  Time: 12:30PM, Channels: 3
+- Atp Shanghai, China Men Singles - Gabriel Diallo Vs Zizou Be...
+  Time: 12:30PM, Channels: 1
+- Wta Wuhan, China Women Singles - Marta Kostyuk Vs Karolina M...
+  Time: 12:55PM, Channels: 1
+- Wta Wuhan, China Women Doubles - Linette M / Tauson C Vs Tim...
+  Time: 01:10PM, Channels: 1
+- Wta Wuhan, China Women Singles - Magdalena Frech Vs Veronika...
+  Time: 01:35PM, Channels: 1
+- Atp Shanghai, China Men Double - Andreozzi G / Guinard M Vs ...
+  Time: 01:40PM, Channels: 1
+- Wta Wuhan, China Women Singles - Emma Raducanu Vs Ann Li (10...
+  Time: 01:50PM, Channels: 1
+- Wta Wuhan, China Women Singles - Emma Raducanu Vs Ann Li (10...
+  Time: 01:50PM, Channels: 1
+- Wta Wuhan, China Women Singles - Rebecca Sramkova Vs Anna Ka...
+  Time: 01:55PM, Channels: 2
+- Atp Shanghai, China Men Singles - Giovanni Mpetshi Perricard...
+  Time: 02:20PM, Channels: 3
+- Atp Shanghai, China Men Singles - Giovanni Mpetshi Perricard...
+  Time: 02:20PM, Channels: 1
