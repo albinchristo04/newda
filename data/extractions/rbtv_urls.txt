@@ -1,4 +1,4 @@
-Extracted at: 2025-10-07T04:40:48.574422
+Extracted at: 2025-10-07T04:49:52.662972
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -91,6 +91,17 @@ Available Channels (1):
 
 ================================================================================
 
+EVENT: Atp Shanghai, China Men Double - Cash R/Tracy J Vs Kevin Krawietz/Tim Puetz (10/07/25)
+Time: 12:30PM
+Date: 10/07/25
+Category: None
+Available Channels (1):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKGSQIFNRIYQ7MRBDENRJMUMGIIZDMUMS4MZQL4JHQRSRI5MVKJZPP4ITWKLVAAYDOPZ7PENRQEYHCANBUEDFOV5G64TVNRUXYYDSOJ4RWGATAYDQCCIJMA/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
 EVENT: Atp Shanghai, China Men Singles - Gabriel Diallo Vs Zizou Bergs (10/07/25)
 Time: 12:30PM
 Date: 10/07/25
@@ -105,19 +116,8 @@ Available Channels (2):
 
 ================================================================================
 
-EVENT: Wta Wuhan, China Women Singles - Emma Raducanu Vs Ann Li (10/07/25)
-Time: 12:40PM
-Date: 10/07/25
-Category: None
-Available Channels (1):
-  1. HDD B
-     URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKHC4L5JBIYSRKRCTANB6GBZDEJTQAQ6CKZIVLAJBSHQQAMIBU6LVMZSXQ3TVMF6GW434NUCREGI6CABAOALKNVTQ/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
-
-================================================================================
-
 EVENT: Wta Wuhan, China Women Singles - Magdalena Frech Vs Veronika Kudermetova (10/07/25)
-Time: 12:40PM
+Time: 12:50PM
 Date: 10/07/25
 Category: None
 Available Channels (1):
@@ -128,23 +128,12 @@ Available Channels (1):
 ================================================================================
 
 EVENT: Wta Wuhan, China Women Singles - Marta Kostyuk Vs Karolina Muchova (10/07/25)
-Time: 12:40PM
+Time: 12:50PM
 Date: 10/07/25
 Category: None
 Available Channels (1):
   1. HDD B
      URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQIBDVKED3L5BSOLBFFZZDEJTQBYZTSKRVLBOFEFD5IVJVQPBDGFSXQ3TVMNSXQYLFN4IRQGIUAEEQSCDKMFRWK6DOOVRHEY3SPVXQ/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
-
-================================================================================
-
-EVENT: Wta Wuhan, China Women Singles - Rebecca Sramkova Vs Anna Kalinskaya (10/07/25)
-Time: 12:40PM
-Date: 10/07/25
-Category: None
-Available Channels (1):
-  1. HDD B
-     URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKC2UKBLFOU2RCBRSCNB5FY6TENDQGMQWWBBXL5JRG72RLRMV4IB6GE6DGZD7PJSWC23POMIQIEY6DIIACCLKNVUXCY3EP55GKYD4ORQASBY/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
 
 ================================================================================

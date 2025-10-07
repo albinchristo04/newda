@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-07T04:40:48.574422",
+  "timestamp": "2025-10-07T04:49:52.662972",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -87,6 +87,16 @@
     {
       "event_time": "12:30PM",
       "event_date": "10/07/25",
+      "channel_name": "HDD A",
+      "event_title": "Atp Shanghai, China Men Double - Cash R/Tracy J Vs Kevin Krawietz/Tim Puetz (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKGSQIFNRIYQ7MRBDENRJMUMGIIZDMUMS4MZQL4JHQRSRI5MVKJZPP4ITWKLVAAYDOPZ7PENRQEYHCANBUEDFOV5G64TVNRUXYYDSOJ4RWGATAYDQCCIJMA/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "12:30PM",
+      "event_date": "10/07/25",
       "channel_name": "SKA",
       "event_title": "Atp Shanghai, China Men Singles - Gabriel Diallo Vs Zizou Bergs (10/07/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LWKNIUMWKVLQIBOPBRFE7CW5JGGZZBCLBDLZDRG5SVIJLUG437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCDGNVTGK6DOOVTHOYD2PVVQ/index.m3u8",
@@ -105,17 +115,7 @@
       "group_title": "TENNIS"
     },
     {
-      "event_time": "12:40PM",
-      "event_date": "10/07/25",
-      "channel_name": "HDD B",
-      "event_title": "Wta Wuhan, China Women Singles - Emma Raducanu Vs Ann Li (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKHC4L5JBIYSRKRCTANB6GBZDEJTQAQ6CKZIVLAJBSHQQAMIBU6LVMZSXQ3TVMF6GW434NUCREGI6CABAOALKNVTQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "12:40PM",
+      "event_time": "12:50PM",
       "event_date": "10/07/25",
       "channel_name": "HDD B",
       "event_title": "Wta Wuhan, China Women Singles - Magdalena Frech Vs Veronika Kudermetova (10/07/25)",
@@ -125,21 +125,11 @@
       "group_title": "TENNIS"
     },
     {
-      "event_time": "12:40PM",
+      "event_time": "12:50PM",
       "event_date": "10/07/25",
       "channel_name": "HDD B",
       "event_title": "Wta Wuhan, China Women Singles - Marta Kostyuk Vs Karolina Muchova (10/07/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQIBDVKED3L5BSOLBFFZZDEJTQBYZTSKRVLBOFEFD5IVJVQPBDGFSXQ3TVMNSXQYLFN4IRQGIUAEEQSCDKMFRWK6DOOVRHEY3SPVXQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "12:40PM",
-      "event_date": "10/07/25",
-      "channel_name": "HDD B",
-      "event_title": "Wta Wuhan, China Women Singles - Rebecca Sramkova Vs Anna Kalinskaya (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKC2UKBLFOU2RCBRSCNB5FY6TENDQGMQWWBBXL5JRG72RLRMV4IB6GE6DGZD7PJSWC23POMIQIEY6DIIACCLKNVUXCY3EP55GKYD4ORQASBY/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
@@ -258,6 +248,20 @@
         }
       ]
     },
+    "Atp Shanghai, China Men Double - Cash R/Tracy J Vs Kevin Krawietz/Tim Puetz (10/07/25)": {
+      "event_title": "Atp Shanghai, China Men Double - Cash R/Tracy J Vs Kevin Krawietz/Tim Puetz (10/07/25)",
+      "event_time": "12:30PM",
+      "event_date": "10/07/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKGSQIFNRIYQ7MRBDENRJMUMGIIZDMUMS4MZQL4JHQRSRI5MVKJZPP4ITWKLVAAYDOPZ7PENRQEYHCANBUEDFOV5G64TVNRUXYYDSOJ4RWGATAYDQCCIJMA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
     "Atp Shanghai, China Men Singles - Gabriel Diallo Vs Zizou Bergs (10/07/25)": {
       "event_title": "Atp Shanghai, China Men Singles - Gabriel Diallo Vs Zizou Bergs (10/07/25)",
       "event_time": "12:30PM",
@@ -278,23 +282,9 @@
         }
       ]
     },
-    "Wta Wuhan, China Women Singles - Emma Raducanu Vs Ann Li (10/07/25)": {
-      "event_title": "Wta Wuhan, China Women Singles - Emma Raducanu Vs Ann Li (10/07/25)",
-      "event_time": "12:40PM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD B",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKHC4L5JBIYSRKRCTANB6GBZDEJTQAQ6CKZIVLAJBSHQQAMIBU6LVMZSXQ3TVMF6GW434NUCREGI6CABAOALKNVTQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "Wta Wuhan, China Women Singles - Magdalena Frech Vs Veronika Kudermetova (10/07/25)": {
       "event_title": "Wta Wuhan, China Women Singles - Magdalena Frech Vs Veronika Kudermetova (10/07/25)",
-      "event_time": "12:40PM",
+      "event_time": "12:50PM",
       "event_date": "10/07/25",
       "category": null,
       "channels": [
@@ -308,27 +298,13 @@
     },
     "Wta Wuhan, China Women Singles - Marta Kostyuk Vs Karolina Muchova (10/07/25)": {
       "event_title": "Wta Wuhan, China Women Singles - Marta Kostyuk Vs Karolina Muchova (10/07/25)",
-      "event_time": "12:40PM",
+      "event_time": "12:50PM",
       "event_date": "10/07/25",
       "category": null,
       "channels": [
         {
           "channel_name": "HDD B",
           "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQIBDVKED3L5BSOLBFFZZDEJTQBYZTSKRVLBOFEFD5IVJVQPBDGFSXQ3TVMNSXQYLFN4IRQGIUAEEQSCDKMFRWK6DOOVRHEY3SPVXQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Wta Wuhan, China Women Singles - Rebecca Sramkova Vs Anna Kalinskaya (10/07/25)": {
-      "event_title": "Wta Wuhan, China Women Singles - Rebecca Sramkova Vs Anna Kalinskaya (10/07/25)",
-      "event_time": "12:40PM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD B",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKC2UKBLFOU2RCBRSCNB5FY6TENDQGMQWWBBXL5JRG72RLRMV4IB6GE6DGZD7PJSWC23POMIQIEY6DIIACCLKNVUXCY3EP55GKYD4ORQASBY/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
