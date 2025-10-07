@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-07T04:49:52.662972",
+  "timestamp": "2025-10-07T05:14:59.432266",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -15,11 +15,11 @@
       "group_title": "AMERICAN FOOTBALL"
     },
     {
-      "event_time": "10:00AM",
+      "event_time": "01:00PM",
       "event_date": "10/07/25",
-      "channel_name": "HDD A",
-      "event_title": "National Basketball Association - Toronto Raptors Vs Denver Nuggets (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LFLVAVWXSEL4IACNBAGE6TMJTQGMQWWAJ4L5CFMRQQPZCVONBQEQ3HE3T7OB3XEYLPPEDREGI6CAAQSCLLMBUHI4TOP5YHOZL2PRXAI/index.m3u8",
+      "channel_name": "SD",
+      "event_title": "Korean Basketball League - Busan Ktf Sonicboom Vs Ulsan Mobis Phoebus (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DA5CEIBTFJ2REJBBEAQC2U2TL5MBA7CVKE2CANLFP5SBOJJWGMSWKETFOQJWOX26LFJTCOR7FBZDEJTQCA7DQJBXCF7VYVSZIMIGAOZ2GUTSON3VPJXXE6LFOMNREAAUDINBAALKNRUHA2TWOV5G64TZOJUAQCYH/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
       "group_title": "BASKETBALL"
@@ -35,21 +35,21 @@
       "group_title": "FIGHTING"
     },
     {
-      "event_time": "11:00AM",
+      "event_time": "01:00PM",
       "event_date": "10/07/25",
-      "channel_name": "HDD A",
-      "event_title": "Wta Wuhan, China Women Singles - Anastasia Zakharova Vs Sofia Kenin (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGC7KNAEAUKDLFIXGDZRFY5CKJZ7GMZWWMZKCFQVYUSZKEIHWNR3HEVXE3T7OB3HEYLPPEDREGI6CAAQSCLKNVSHY4TOP5YHOZL2PRQQA/index.m3u8",
+      "channel_name": "SD",
+      "event_title": "Korean K League 2 - Seoul E-Land Fc Vs Hwaseong Fc (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DA5CEIBTFJ2RWZI6FYSD4RCXCMDBAHIQMM3DUJJJOIAXQHBEHQXWKH3SCJCUOEDYI5ISAMB7FM2WIEYTMV4GCZLICEMBSFADCANBU43BMF3GK5LFMZSXQYLFNIAQUBQFAA/index.m3u8",
       "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
     },
     {
       "event_time": "11:00AM",
       "event_date": "10/07/25",
       "channel_name": "HDD A",
-      "event_title": "Wta Wuhan, China Women Singles - Emiliana Arango Vs Liudmila Samsonova (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKHC4LNPV2UK6KEIBEJZRFM2SW5JGGZZAOLBMKVPVUWCRCBRVCPRGH4VT2MRUOBXXQ23WPENRQEYCCANBUEDCNRUXY2TQNVYG66DLO5XAACYLAY/index.m3u8",
+      "event_title": "Wta Wuhan, China Women Singles - Anastasia Zakharova Vs Sofia Kenin (10/07/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGC7KNAEAUKDLFIXGDZRFY5CKJZ7GMZWWMZKCFQVYUSZKEIHWNR3HEVXE3T7OB3HEYLPPEDREGI6CAAQSCLKNVSHY4TOP5YHOZL2PRQQA/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
@@ -70,16 +70,6 @@
       "channel_name": "HDD A",
       "event_title": "Wta Wuhan, China Women Singles - Naomi Osaka Vs Leylah Fernandez (10/07/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKF2QLVPF2ED7INITQNDQGMQWIGJVHQ7CULLZO5LUCWSRLZKFKKLVPJXXE53VPJXXE7LFOMNREAQNBEEASBDDOV5G64TWMJQXYZLS/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "12:00PM",
-      "event_date": "10/07/25",
-      "channel_name": "HDD A",
-      "event_title": "Wta Wuhan, China Women Doubles - Storm Sanders/Katerina Siniakova Vs Krueger A / Pegula J (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKCSFLVAVSEDDKFPDOMBCGZ6Q6NBEEAQCEKZYCFQVUWSZKFNV6JJUOAZSCZA6EIYDOLBAFMIXGEY3CBQFKVZGHEYWKGDEP55GKYLLN5ZRCBATDYNBAAIJNJWGC5DGMR7XUZLAPR2GACIK/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
@@ -115,21 +105,11 @@
       "group_title": "TENNIS"
     },
     {
-      "event_time": "12:50PM",
+      "event_time": "12:55PM",
       "event_date": "10/07/25",
-      "channel_name": "HDD B",
-      "event_title": "Wta Wuhan, China Women Singles - Magdalena Frech Vs Veronika Kudermetova (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQKVLVKXCVLZIXGEZCEAYSY5JGGZZB2IBLLZOFUX2RCB5UKNZQEIUDOMB2EYSHEYLPPEBBEGI6CADBAGTZOVQXY234NRRXG4TBN54QGBICBUEAI/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "12:50PM",
-      "event_date": "10/07/25",
-      "channel_name": "HDD B",
+      "channel_name": "HDD A",
       "event_title": "Wta Wuhan, China Women Singles - Marta Kostyuk Vs Karolina Muchova (10/07/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQIBDVKED3L5BSOLBFFZZDEJTQBYZTSKRVLBOFEFD5IVJVQPBDGFSXQ3TVMNSXQYLFN4IRQGIUAEEQSCDKMFRWK6DOOVRHEY3SPVXQ/index.m3u8",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQIBDVKED3L5BSOLBFFZZDEJTQBYZTSKRVLBOFEFD5IVJVQPBDGFSXQ3TVMNSXQYLFN4IRQGIUAEEQSCDKMFRWK6DOOVRHEY3SPRWA/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
@@ -150,15 +130,15 @@
         }
       ]
     },
-    "National Basketball Association - Toronto Raptors Vs Denver Nuggets (10/07/25)": {
-      "event_title": "National Basketball Association - Toronto Raptors Vs Denver Nuggets (10/07/25)",
-      "event_time": "10:00AM",
+    "Korean Basketball League - Busan Ktf Sonicboom Vs Ulsan Mobis Phoebus (10/07/25)": {
+      "event_title": "Korean Basketball League - Busan Ktf Sonicboom Vs Ulsan Mobis Phoebus (10/07/25)",
+      "event_time": "01:00PM",
       "event_date": "10/07/25",
       "category": null,
       "channels": [
         {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LFLVAVWXSEL4IACNBAGE6TMJTQGMQWWAJ4L5CFMRQQPZCVONBQEQ3HE3T7OB3XEYLPPEDREGI6CAAQSCLLMBUHI4TOP5YHOZL2PRXAI/index.m3u8",
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/DA5CEIBTFJ2REJBBEAQC2U2TL5MBA7CVKE2CANLFP5SBOJJWGMSWKETFOQJWOX26LFJTCOR7FBZDEJTQCA7DQJBXCF7VYVSZIMIGAOZ2GUTSON3VPJXXE6LFOMNREAAUDINBAALKNRUHA2TWOV5G64TZOJUAQCYH/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
           "duration": null
         }
@@ -178,6 +158,20 @@
         }
       ]
     },
+    "Korean K League 2 - Seoul E-Land Fc Vs Hwaseong Fc (10/07/25)": {
+      "event_title": "Korean K League 2 - Seoul E-Land Fc Vs Hwaseong Fc (10/07/25)",
+      "event_time": "01:00PM",
+      "event_date": "10/07/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/DA5CEIBTFJ2RWZI6FYSD4RCXCMDBAHIQMM3DUJJJOIAXQHBEHQXWKH3SCJCUOEDYI5ISAMB7FM2WIEYTMV4GCZLICEMBSFADCANBU43BMF3GK5LFMZSXQYLFNIAQUBQFAA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
     "Wta Wuhan, China Women Singles - Anastasia Zakharova Vs Sofia Kenin (10/07/25)": {
       "event_title": "Wta Wuhan, China Women Singles - Anastasia Zakharova Vs Sofia Kenin (10/07/25)",
       "event_time": "11:00AM",
@@ -187,20 +181,6 @@
         {
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGC7KNAEAUKDLFIXGDZRFY5CKJZ7GMZWWMZKCFQVYUSZKEIHWNR3HEVXE3T7OB3HEYLPPEDREGI6CAAQSCLKNVSHY4TOP5YHOZL2PRQQA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Wta Wuhan, China Women Singles - Emiliana Arango Vs Liudmila Samsonova (10/07/25)": {
-      "event_title": "Wta Wuhan, China Women Singles - Emiliana Arango Vs Liudmila Samsonova (10/07/25)",
-      "event_time": "11:00AM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKHC4LNPV2UK6KEIBEJZRFM2SW5JGGZZAOLBMKVPVUWCRCBRVCPRGH4VT2MRUOBXXQ23WPENRQEYCCANBUEDCNRUXY2TQNVYG66DLO5XAACYLAY/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
@@ -229,20 +209,6 @@
         {
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKF2QLVPF2ED7INITQNDQGMQWIGJVHQ7CULLZO5LUCWSRLZKFKKLVPJXXE53VPJXXE7LFOMNREAQNBEEASBDDOV5G64TWMJQXYZLS/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Wta Wuhan, China Women Doubles - Storm Sanders/Katerina Siniakova Vs Krueger A / Pegula J (10/07/25)": {
-      "event_title": "Wta Wuhan, China Women Doubles - Storm Sanders/Katerina Siniakova Vs Krueger A / Pegula J (10/07/25)",
-      "event_time": "12:00PM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKCSFLVAVSEDDKFPDOMBCGZ6Q6NBEEAQCEKZYCFQVUWSZKFNV6JJUOAZSCZA6EIYDOLBAFMIXGEY3CBQFKVZGHEYWKGDEP55GKYLLN5ZRCBATDYNBAAIJNJWGC5DGMR7XUZLAPR2GACIK/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
@@ -282,29 +248,15 @@
         }
       ]
     },
-    "Wta Wuhan, China Women Singles - Magdalena Frech Vs Veronika Kudermetova (10/07/25)": {
-      "event_title": "Wta Wuhan, China Women Singles - Magdalena Frech Vs Veronika Kudermetova (10/07/25)",
-      "event_time": "12:50PM",
-      "event_date": "10/07/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD B",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQKVLVKXCVLZIXGEZCEAYSY5JGGZZB2IBLLZOFUX2RCB5UKNZQEIUDOMB2EYSHEYLPPEBBEGI6CADBAGTZOVQXY234NRRXG4TBN54QGBICBUEAI/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "Wta Wuhan, China Women Singles - Marta Kostyuk Vs Karolina Muchova (10/07/25)": {
       "event_title": "Wta Wuhan, China Women Singles - Marta Kostyuk Vs Karolina Muchova (10/07/25)",
-      "event_time": "12:50PM",
+      "event_time": "12:55PM",
       "event_date": "10/07/25",
       "category": null,
       "channels": [
         {
-          "channel_name": "HDD B",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQIBDVKED3L5BSOLBFFZZDEJTQBYZTSKRVLBOFEFD5IVJVQPBDGFSXQ3TVMNSXQYLFN4IRQGIUAEEQSCDKMFRWK6DOOVRHEY3SPVXQ/index.m3u8",
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFCQIBDVKED3L5BSOLBFFZZDEJTQBYZTSKRVLBOFEFD5IVJVQPBDGFSXQ3TVMNSXQYLFN4IRQGIUAEEQSCDKMFRWK6DOOVRHEY3SPRWA/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }

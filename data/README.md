@@ -1,12 +1,12 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Tue Oct  7 04:49:53 UTC 2025
+Last updated: Tue Oct  7 05:15:00 UTC 2025
 
-Workflow run: #980
+Workflow run: #981
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-10-07T04:49:52.662972
+Extracted at: 2025-10-07T05:14:59.432266
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -22,8 +22,8 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: National Basketball Association - Toronto Raptors Vs Denver Nuggets (10/07/25)
-Time: 10:00AM
+EVENT: Korean Basketball League - Busan Ktf Sonicboom Vs Ulsan Mobis Phoebus (10/07/25)
+Time: 01:00PM
 Date: 10/07/25
 Category: None
 ```
