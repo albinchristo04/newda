@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-07T05:14:59.432266
+Extraction Time: 2025-10-07T05:32:34.833985
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 10
-- Total Channels: 11
+- Unique Events: 11
+- Total Channels: 12
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -32,3 +32,5 @@ EVENT BREAKDOWN:
   Time: 12:30PM, Channels: 2
 - Wta Wuhan, China Women Singles - Marta Kostyuk Vs Karolina M...
   Time: 12:55PM, Channels: 1
+- Wta Wuhan, China Women Doubles - Linette M / Tauson C Vs Tim...
+  Time: 01:10PM, Channels: 1
