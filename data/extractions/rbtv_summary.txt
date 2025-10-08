@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-08T20:39:06.754897
+Extraction Time: 2025-10-08T20:49:31.122585
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 31
-- Total Channels: 47
+- Unique Events: 30
+- Total Channels: 46
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -18,8 +18,6 @@ EVENT BREAKDOWN:
   Time: 03:08AM, Channels: 1
 - Basketball Champions League - Telindus Oostende Vs As Kardit...
   Time: 02:30AM, Channels: 2
-- Serie A2 Basket - Mec-Energy Roseto Vs Victoria Libertas Pes...
-  Time: 02:30AM, Channels: 1
 - Serie A2 Basket - Urania Milano Vs Biancoblu Basket Bologna ...
   Time: 02:30AM, Channels: 1
 - Eurocup Basketball - La Bruixa D'Or Manresa Vs Slask Wroclaw...

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-08T20:39:06.754897",
+  "timestamp": "2025-10-08T20:49:31.122585",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -39,16 +39,6 @@
       "channel_name": "SD",
       "event_title": "Basketball Champions League - Telindus Oostende Vs As Karditsas (10/09/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFAYXCSMC7KZDEOED7L5BSOMB6EE3WIIZDMUJRQZISKBAFOXKEINIUG437PJSWAZD7PJSWC23POMIQGCQNBEEQMCLTP55GKYDTM5RXCYQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
-    },
-    {
-      "event_time": "02:30AM",
-      "event_date": "10/09/25",
-      "channel_name": "SD",
-      "event_title": "Serie A2 Basket - Mec-Energy Roseto Vs Victoria Libertas Pesaro (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGEZIQFI3DEVCGCMMRA7KVKN7BAPRAEARSY4AXHU4CALK6CJCUOEDGLFJSOORCFQZWIGJZE43TSMJYIIJGGUKDKFBF6437PJSWAZD7PJSWC23POMIQGCQNBEEQQADTP55GKYDTM5RXAYI/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
       "group_title": "BASKETBALL"
@@ -509,20 +499,6 @@
         {
           "channel_name": "SD",
           "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFAYXCSMC7KZDEOED7L5BSOMB6EE3WIIZDMUJRQZISKBAFOXKEINIUG437PJSWAZD7PJSWC23POMIQGCQNBEEQMCLTP55GKYDTM5RXCYQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Serie A2 Basket - Mec-Energy Roseto Vs Victoria Libertas Pesaro (10/09/25)": {
-      "event_title": "Serie A2 Basket - Mec-Energy Roseto Vs Victoria Libertas Pesaro (10/09/25)",
-      "event_time": "02:30AM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGEZIQFI3DEVCGCMMRA7KVKN7BAPRAEARSY4AXHU4CALK6CJCUOEDGLFJSOORCFQZWIGJZE43TSMJYIIJGGUKDKFBF6437PJSWAZD7PJSWC23POMIQGCQNBEEQQADTP55GKYDTM5RXAYI/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
           "duration": null
         }
