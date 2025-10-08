@@ -1,29 +1,29 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Wed Oct  8 11:49:36 UTC 2025
+Last updated: Wed Oct  8 12:33:08 UTC 2025
 
-Workflow run: #1065
+Workflow run: #1066
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-10-08T11:49:35.356995
+Extracted at: 2025-10-08T12:33:07.078087
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
 
-EVENT: East Asia Super League - Alvark Tokyo Vs Ulaanbaatar Xac Broncos (10/08/25)
-Time: 06:10PM
+EVENT: East Asia Super League - Fubon Braves Vs Utsunomiya Brex (10/08/25)
+Time: 06:40PM
 Date: 10/08/25
 Category: None
 Available Channels (2):
   1. SKA
-     URL: https://world-proxifier.xyz/rbtv/p/CY2CGMLSAUTDSJDSDAYCSVCACN4FKUKXIU3HK7LFCMUCGMJXHFVRCNS2JNOBIRSDCBST6NBRFMYCKNBEEQQGWHJYKIJHCRS7LZJV6IDVPJXXE5TVPJXXE6LVNEABEGI6CAAQSCLKM5TH24TOP5YHGYDZORXAO/index.m3u8
+     URL: https://world-proxifier.xyz/rbtv/p/CY2CGMLSAUTDSJDSDAYCSVCACN4FKUKXIU3HK7LFCQYTOPZLOIETOOCHK5ABIRSDCBSSOJRFFM6SSPBJERZASNZ4JEJBSHQQAIIBU6LVMJ2WE5LVPJXXE6T4MAEAABAECANBUEDFM5RHOZDQ/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
   2. SD
-     URL: https://world-proxifier.xyz/rbtv/p/CY2CGMLSAUTDSJDSDAYCSVCACN4FKUKXIU3HK7LFCMUCGMJXHFVRCNS2JNOBIRSDCBST6NBRFMYCKNBEEQQGWHJYKIJHCRS7LZJV6IDVPJXXE5TVPJXXE6DFOMNREAQNBEEQEBTLOV5G64TWMJRHOZTY/index.m3u8
+     URL: https://world-proxifier.xyz/rbtv/p/CY2CGMLSAUTDSJDSDAYCSVCACN4FKUKXIU3HK7LFCQYTOPZLOIETOOCHK5ABIRSDCBSSOJRFFM6SSPBJERZASNZ4JEJBSHQQAIIBU6LVMNSXQ3TVMF6GW4TXNYAREGI6CABAOATBMBQQ/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
 
 ================================================================================
 
-EVENT: Philippines Mpbl - Ilagan Isabela Cowboys Vs Bataan Risers (10/08/25)
+EVENT: East Asia Super League - Taoyuan Pilots Vs Ryukyu Golden Kings (10/08/25)
 ```
