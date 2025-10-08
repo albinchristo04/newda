@@ -1,17 +1,19 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-08T05:15:14.087070
+Extraction Time: 2025-10-08T05:33:29.698281
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 13
-- Total Channels: 16
+- Unique Events: 14
+- Total Channels: 17
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
+- Korean Basketball League - Wonju Dongbu Promy Vs Anyang Kgc ...
+  Time: 01:00PM, Channels: 1
 - Santino Bros Wrestling - Aew Dynamite (10/08/25)
   Time: 08:00AM, Channels: 1
 - Korean K League 2 - Cheonan City Vs Busan I Park (10/08/25)
@@ -37,4 +39,4 @@ EVENT BREAKDOWN:
 - Wta Wuhan, China Women Singles - Sofia Kenin Vs Liudmila Sam...
   Time: 12:40PM, Channels: 1
 - Wta Wuhan, China Women Singles - Moyuka Uchijima Vs Coco Gau...
-  Time: 01:20PM, Channels: 1
+  Time: 01:40PM, Channels: 1

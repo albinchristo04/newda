@@ -1,4 +1,18 @@
 {
+  "Korean Basketball League - Wonju Dongbu Promy Vs Anyang Kgc (10/08/25)": {
+    "event_title": "Korean Basketball League - Wonju Dongbu Promy Vs Anyang Kgc (10/08/25)",
+    "event_time": "01:00PM",
+    "event_date": "10/08/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/DA5CEIBTFJ2REJBBEAQC2U2TL5MBA7CVKE2CANLFP5SAEPZLHA7GKHK6LRKFMRIQMBBDYOBJMUSDO5IRFMVSUKZ6CF4XI5YQDINBAYLVPJXXE53VPJXXE6T4MAEAABIACANBUEDBMJRHOY3X/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+        "duration": null
+      }
+    ]
+  },
   "Santino Bros Wrestling - Aew Dynamite (10/08/25)": {
     "event_title": "Santino Bros Wrestling - Aew Dynamite (10/08/25)",
     "event_time": "08:00AM",
@@ -187,7 +201,7 @@
   },
   "Wta Wuhan, China Women Singles - Moyuka Uchijima Vs Coco Gauff (10/08/25)": {
     "event_title": "Wta Wuhan, China Women Singles - Moyuka Uchijima Vs Coco Gauff (10/08/25)",
-    "event_time": "01:20PM",
+    "event_time": "01:40PM",
     "event_date": "10/08/25",
     "category": null,
     "channels": [
