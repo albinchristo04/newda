@@ -1,27 +1,29 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-08T10:16:23.468347
+Extraction Time: 2025-10-08T10:41:31.120244
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 12
-- Total Channels: 14
+- Unique Events: 16
+- Total Channels: 20
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
-- National Basketball League - Sydney Kings Vs Melbourne Unite...
-  Time: 04:30PM, Channels: 2
 - East Asia Super League - Alvark Tokyo Vs Ulaanbaatar Xac Bro...
   Time: 06:10PM, Channels: 2
 - Philippines Mpbl - Ilagan Isabela Cowboys Vs Bataan Risers (...
   Time: 06:10PM, Channels: 1
+- East Asia Super League - Fubon Braves Vs Utsunomiya Brex (10...
+  Time: 06:40PM, Channels: 2
 - World Cup, Women - Australia Women Vs Pakistan Women (10/08/...
   Time: 05:30PM, Channels: 1
 - World Cup, Women - Australia Women Vs Pakistan Women (10/08/...
   Time: 05:30PM, Channels: 1
+- T20 World Cup, Asia-Eap Qualifier, Regional Final - United A...
+  Time: 06:30PM, Channels: 1
 - Ukrainian First League - Fc Inhulets Petrove Vs Ahrobiznes V...
   Time: 06:00PM, Channels: 1
 - Ybc Levain Cup - Kawasaki Frontale Vs Kashiwa Reysol (10/08/...
@@ -34,5 +36,11 @@ EVENT BREAKDOWN:
   Time: 04:55PM, Channels: 1
 - Premier Padel 2025  - Milan P1 Day 3 Match 2 (10/08/25)
   Time: 05:00PM, Channels: 1
+- Atp Shanghai, China Men Singles - Felix Auger-Aliassime Vs L...
+  Time: 06:30PM, Channels: 3
+- Atp Shanghai, China Men Singles - Felix Auger-Aliassime Vs L...
+  Time: 06:30PM, Channels: 1
+- Premier Padel 2025  - Milan P1 Day 3 Match 3 (10/08/25)
+  Time: 06:30PM, Channels: 1
 - Turkish Cup Women - Ilbank Women Vs Kuzey Boru Genclik Women...
   Time: 06:00PM, Channels: 1

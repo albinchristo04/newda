@@ -1,24 +1,4 @@
 {
-  "National Basketball League - Sydney Kings Vs Melbourne United (10/08/25)": {
-    "event_title": "National Basketball League - Sydney Kings Vs Melbourne United (10/08/25)",
-    "event_time": "04:30PM",
-    "event_date": "10/08/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQPQ3DINZQG5SHQ4AWFMXSWPCICJ4F2XSXIMICKJTQBA3SQNZ7GAQCKIDZMROFUQCVKQIBU6LVMJSXQ3TVMZSXQYLFNAEAWCQGAYDRAGTZOVRHEYDWMZUQ/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQPQ3DINZQG5SHQ4AWFMXSWPCICJ4F2XSXIMICKJTQBA3SQNZ7GAQCKIDZMROFUQCVKQIBU6LVMJSXQ3TVMNSXQYLFNAEAWCQGAYDRAGTZOVRHEYDWMZTA/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-        "duration": null
-      }
-    ]
-  },
   "East Asia Super League - Alvark Tokyo Vs Ulaanbaatar Xac Broncos (10/08/25)": {
     "event_title": "East Asia Super League - Alvark Tokyo Vs Ulaanbaatar Xac Broncos (10/08/25)",
     "event_time": "06:10PM",
@@ -53,6 +33,26 @@
       }
     ]
   },
+  "East Asia Super League - Fubon Braves Vs Utsunomiya Brex (10/08/25)": {
+    "event_title": "East Asia Super League - Fubon Braves Vs Utsunomiya Brex (10/08/25)",
+    "event_time": "06:40PM",
+    "event_date": "10/08/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SKA",
+        "url": "https://world-proxifier.xyz/rbtv/p/CY2CGMLSAUTDSJDSDAYCSVCACN4FKUKXIU3HK7LFCQYTOPZLOIETOOCHK5ABIRSDCBSSOJRFFM6SSPBJERZASNZ4JEJBSHQQAIIBU6LVMJ2WE5LVPJXXE6T4MAEAABAECANBUEDFM5RHOZDQ/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/CY2CGMLSAUTDSJDSDAYCSVCACN4FKUKXIU3HK7LFCQYTOPZLOIETOOCHK5ABIRSDCBSSOJRFFM6SSPBJERZASNZ4JEJBSHQQAIIBU6LVMNSXQ3TVMF6GW4TXNYAREGI6CABAOATBMBQQ/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+        "duration": null
+      }
+    ]
+  },
   "World Cup, Women - Australia Women Vs Pakistan Women (10/08/25)": {
     "event_title": "World Cup, Women - Australia Women Vs Pakistan Women (10/08/25)",
     "event_time": "05:30PM",
@@ -76,6 +76,20 @@
       {
         "channel_name": null,
         "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNL6NMJDMXCXLUKB2EDRIUQCCIREHYWTI4ASHUTCANYRIRABIYCRLNMSAIJRFNZBGOR5EA6GW33TCECBGHQ2CABBA6L7OB2GW7LMMNZGW23POMIQABAGAICAK/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "T20 World Cup, Asia-Eap Qualifier, Regional Final - United Arab Emirates Vs Qatar (10/08/25) [STREAM 22[HD]]": {
+    "event_title": "T20 World Cup, Asia-Eap Qualifier, Regional Final - United Arab Emirates Vs Qatar (10/08/25) [STREAM 22[HD]]",
+    "event_time": "06:30PM",
+    "event_date": "10/08/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": null,
+        "url": "https://world-proxifier.xyz/rbtv/p/A5TWAZIFFMTTYILSBAYCSHISOJDVSUI5OUJAK4AUE4STSOJDHMXDO5IRMBLFGWK7LZIT65IWFQ6CKOLQNBZB4KZQIVLVOFDRIJIVE4YQHUWCAJJBGU3HEPJWPFQFGR2VIIIBUGTTMNYG66DEM5YG66DLORQAQCYABQARAGQ2ONTWO53AOFSQ/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
         "duration": null
       }
@@ -160,6 +174,60 @@
       {
         "channel_name": "SKA",
         "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAEJVSUKEKNMHGZ3QN54GIZTQN54GW53JAEBRGHQ2CABAAY3EMBZGAZD7PJSWI6LXNMEAK/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Atp Shanghai, China Men Singles - Felix Auger-Aliassime Vs Lorenzo Musetti (10/08/25)": {
+    "event_title": "Atp Shanghai, China Men Singles - Felix Auger-Aliassime Vs Lorenzo Musetti (10/08/25)",
+    "event_time": "06:30PM",
+    "event_date": "10/08/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SKA",
+        "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LXK5PV2SAQOFCTIMBCNAJSQPBRGYQSEKB4CFCEAFD4L5BFKPJPH5SR6MJGGUYSMITFOMNREAAUDINBAATDMVQWK6DOOVQXY23TOBQQIEQZDYIAMAQCMFWWO/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "MOVISTAR",
+        "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LXK5PV2SAQOFCTIMBCNAJSQPBRGYQSEKB4CFCEAFD4L5BFKPJPH5SR6MJGGUYSMITFOMNREAAUDINBAATDMVQWK6DOOVQXY23TOBQQIEQZDYIAMAQCMFWGG/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LXK5PV2SAQOFCTIMBCNAJSQPBRGYQSEKB4CFCEAFD4L5BFKPJPH5SR6MJGGUYSMITFOMNREAAUDINBABTTP55GKY35NRUHA2T6MVZRWEQBAMBAEBAJ/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Atp Shanghai, China Men Singles - Felix Auger-Aliassime Vs Lorenzo Musetti (10/08/25) [STREAM 23[HD]]": {
+    "event_title": "Atp Shanghai, China Men Singles - Felix Auger-Aliassime Vs Lorenzo Musetti (10/08/25) [STREAM 23[HD]]",
+    "event_time": "06:30PM",
+    "event_date": "10/08/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": null,
+        "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LXK5PV2SAQOFCTIMBCNAJSQPBRGYQSEKB4CFCEAFD4L5BFKPJPH5SR6MJGGUYSMITFOMNREAAUDINBAATTP55GKY35NRUHA2T6MVZRWEQBAMBAEAAG/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Premier Padel 2025  - Milan P1 Day 3 Match 3 (10/08/25)": {
+    "event_title": "Premier Padel 2025  - Milan P1 Day 3 Match 3 (10/08/25)",
+    "event_time": "06:30PM",
+    "event_date": "10/08/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SKA",
+        "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAEJVSUKEKNMHGZTQN54GIZTQN54GW53JAEBRGHQ2CABAAY3EMBZGCZD7PJSWI6LXNMEAU/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
       }
