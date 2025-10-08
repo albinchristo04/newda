@@ -1,25 +1,25 @@
 {
-  "timestamp": "2025-10-08T08:21:24.098427",
+  "timestamp": "2025-10-08T08:45:24.268972",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
   "events": [
     {
-      "event_time": "02:30PM",
+      "event_time": "04:30PM",
       "event_date": "10/08/25",
       "channel_name": "HDD A",
-      "event_title": "National Basketball League - New Zealand Breakers Vs Illawarra Hawks (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQPQ3DINZQG5SHQ4ALG46GKA2UKNPVKXSUCBZCCMBRFY3TMJTQGMQWWDBVLVJUIVKCIJIRAGZUE4XCCZD7PJSWA23POMIQIEY6DIIACCLKNRRHGZ3EP55GKYD4O5VQGAQ/index.m3u8",
+      "event_title": "National Basketball League - Sydney Kings Vs Melbourne United (10/08/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQPQ3DINZQG5SHQ4AWFMXSWPCICJ4F2XSXIMICKJTQBA3SQNZ7GAQCKIDZMROFUQCVKQIBU6LVMJSXQ3TVMZSXQYLFNAEAWCQGAYDRAGTZOVRHEYDWMZUQ/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
       "group_title": "BASKETBALL"
     },
     {
-      "event_time": "02:30PM",
+      "event_time": "04:30PM",
       "event_date": "10/08/25",
       "channel_name": "SD",
-      "event_title": "National Basketball League - New Zealand Breakers Vs Illawarra Hawks (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQPQ3DINZQG5SHQ4ALG46GKA2UKNPVKXSUCBZCCMBRFY3TMJTQGMQWWDBVLVJUIVKCIJIRAGZUE4XCCZD7PJSWA23POMIQCEY6DIIACCLKNRRHGZ3EP55GKYD4O5VQACQ/index.m3u8",
+      "event_title": "National Basketball League - Sydney Kings Vs Melbourne United (10/08/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQPQ3DINZQG5SHQ4AWFMXSWPCICJ4F2XSXIMICKJTQBA3SQNZ7GAQCKIDZMROFUQCVKQIBU6LVMJSXQ3TVMNSXQYLFNAEAWCQGAYDRAGTZOVRHEYDWMZTA/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
       "group_title": "BASKETBALL"
@@ -64,45 +64,6 @@
       "group_title": "FOOTBALL"
     },
     {
-      "event_time": "02:20PM",
-      "event_date": "10/08/25",
-      "channel_name": "SKA",
-      "event_title": "Atp Shanghai, China Men Singles - Nuno Borges Vs Alex De Minaur (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L7I5OVWEDSL5BDIMBDMUSDO5IRFE3TGZJ5KQJH4XK6KFCUE437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCDGNVTWK6DOOVTHOYDZPVXQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "02:20PM",
-      "event_date": "10/08/25",
-      "channel_name": "MOVISTAR2",
-      "event_title": "Atp Shanghai, China Men Singles - Nuno Borges Vs Alex De Minaur (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L7I5OVWEDSL5BDIMBDMUSDO5IRFE3TGZJ5KQJH4XK6KFCUE437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCDGNVTWK6DOOVTHOYDYOFQA/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "02:20PM",
-      "event_date": "10/08/25",
-      "channel_name": "HDD A",
-      "event_title": "Atp Shanghai, China Men Singles - Nuno Borges Vs Alex De Minaur (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L7I5OVWEDSL5BDIMBDMUSDO5IRFE3TGZJ5KQJH4XK6KFCUE437PJSWCZD7PJSWI23POMIQGCQNBACQQB3TP55GKYDTM5RHOYA/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "02:20PM",
-      "event_date": "10/08/25",
-      "event_title": "Atp Shanghai, China Men Singles - Nuno Borges Vs Alex De Minaur (10/08/25) [STREAM 23[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L7I5OVWEDSL5BDIMBDMUSDO5IRFE3TGZJ5KQJH4XK6KFCUE437PJSWCZD7PJSWA23POMIQGCQNBACQQB3TP55GKYDTM5RHKZY/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
       "event_time": "02:30PM",
       "event_date": "10/08/25",
       "channel_name": "HDD A",
@@ -113,31 +74,11 @@
       "group_title": "TENNIS"
     },
     {
-      "event_time": "02:45PM",
-      "event_date": "10/08/25",
-      "channel_name": "HDD A",
-      "event_title": "Wta Wuhan, China Women Doubles - Jovic I / Olmos G Vs Timea Babos/Luisa Stefani (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKE26IRNFOEDZCAPXGGR4FA6TO5IXMUSDQZINLBPVMVIQOJIVEPBGP4ESOLJGGFSQCPZAH5IFYWQUDINBAA3TP55GKZDEP55GKYD3OVUQQCYCCQNBUEACMRTWE53F/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
       "event_time": "02:55PM",
       "event_date": "10/08/25",
       "channel_name": "HDD A",
       "event_title": "Wta Wuhan, China Women Doubles - Kichenok L / Perez E Vs Mihalikova T / Nicholls O (10/08/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKESYKFNVCXS7LMIB65L7MUBCCJZVH5ZA4ZJPIIJH4XKYKFOFSOB2EYSHEEDVP5SRYIRGGFPF4X2HCB7RAGTZOVRWK6DOOVTGK6DBMVVQCAQCAQAQCEA2PF2WE4TAOZTWQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "03:00PM",
-      "event_date": "10/08/25",
-      "channel_name": "HDD A",
-      "event_title": "Atp Shanghai, China Men Double - Arevalo M / Pavic M Vs A.Krajicek/N.Mektic (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKGCDK5CVKXC7CB6XG6TQCUZTEPBTMUPWWMZKCFZR272CKFNFSMBQHNVBY2QYGUXCMIRGPENRQEYHCANBUEDFOV5G64TWMVQHKYTZO54RWGATAYDQEAQCNI/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
@@ -192,17 +133,17 @@
       "group_title": "TENNIS"
     },
     {
-      "event_time": "04:20PM",
+      "event_time": "04:25PM",
       "event_date": "10/08/25",
-      "channel_name": "HDD B",
+      "channel_name": "HDD A",
       "event_title": "Wta Wuhan, China Women Doubles - Guo H / Panova A Vs Chan H-C / Jiang X (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKHSELUJXYEA7CBQDEOZ7GMZWIFDQGMQWWBRRKBOBG7A5OMIB64Y7HESDYI3VBBSXQYLFNIIRQGIUAYIBUGTTM5QHKY3UMBUGK6DBMVVQMAABA4CQ/index.m3u8",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKHSELUJXYEA7CBQDEOZ7GMZWIFDQGMQWWBRRKBOBG7A5OMIB64Y7HESDYI3VBBSXQYLFNIIRQGIUAYIBUGTTM5QHKY3UMBUGK6DBMVVQMAABAAAA/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
     },
     {
-      "event_time": "04:20PM",
+      "event_time": "04:50PM",
       "event_date": "10/08/25",
       "channel_name": "HDD B",
       "event_title": "Wta Wuhan, China Women Singles - Naomi Osaka Vs Linda Noskova (10/08/25)",
@@ -213,21 +154,21 @@
     }
   ],
   "grouped_events": {
-    "National Basketball League - New Zealand Breakers Vs Illawarra Hawks (10/08/25)": {
-      "event_title": "National Basketball League - New Zealand Breakers Vs Illawarra Hawks (10/08/25)",
-      "event_time": "02:30PM",
+    "National Basketball League - Sydney Kings Vs Melbourne United (10/08/25)": {
+      "event_title": "National Basketball League - Sydney Kings Vs Melbourne United (10/08/25)",
+      "event_time": "04:30PM",
       "event_date": "10/08/25",
       "category": null,
       "channels": [
         {
           "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQPQ3DINZQG5SHQ4ALG46GKA2UKNPVKXSUCBZCCMBRFY3TMJTQGMQWWDBVLVJUIVKCIJIRAGZUE4XCCZD7PJSWA23POMIQIEY6DIIACCLKNRRHGZ3EP55GKYD4O5VQGAQ/index.m3u8",
+          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQPQ3DINZQG5SHQ4AWFMXSWPCICJ4F2XSXIMICKJTQBA3SQNZ7GAQCKIDZMROFUQCVKQIBU6LVMJSXQ3TVMZSXQYLFNAEAWCQGAYDRAGTZOVRHEYDWMZUQ/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
           "duration": null
         },
         {
           "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQPQ3DINZQG5SHQ4ALG46GKA2UKNPVKXSUCBZCCMBRFY3TMJTQGMQWWDBVLVJUIVKCIJIRAGZUE4XCCZD7PJSWA23POMIQCEY6DIIACCLKNRRHGZ3EP55GKYD4O5VQACQ/index.m3u8",
+          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQPQ3DINZQG5SHQ4AWFMXSWPCICJ4F2XSXIMICKJTQBA3SQNZ7GAQCKIDZMROFUQCVKQIBU6LVMJSXQ3TVMNSXQYLFNAEAWCQGAYDRAGTZOVRHEYDWMZTA/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
           "duration": null
         }
@@ -289,46 +230,6 @@
         }
       ]
     },
-    "Atp Shanghai, China Men Singles - Nuno Borges Vs Alex De Minaur (10/08/25)": {
-      "event_title": "Atp Shanghai, China Men Singles - Nuno Borges Vs Alex De Minaur (10/08/25)",
-      "event_time": "02:20PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SKA",
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L7I5OVWEDSL5BDIMBDMUSDO5IRFE3TGZJ5KQJH4XK6KFCUE437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCDGNVTWK6DOOVTHOYDZPVXQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "MOVISTAR2",
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L7I5OVWEDSL5BDIMBDMUSDO5IRFE3TGZJ5KQJH4XK6KFCUE437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCDGNVTWK6DOOVTHOYDYOFQA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L7I5OVWEDSL5BDIMBDMUSDO5IRFE3TGZJ5KQJH4XK6KFCUE437PJSWCZD7PJSWI23POMIQGCQNBACQQB3TP55GKYDTM5RHOYA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Atp Shanghai, China Men Singles - Nuno Borges Vs Alex De Minaur (10/08/25) [STREAM 23[HD]]": {
-      "event_title": "Atp Shanghai, China Men Singles - Nuno Borges Vs Alex De Minaur (10/08/25) [STREAM 23[HD]]",
-      "event_time": "02:20PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L7I5OVWEDSL5BDIMBDMUSDO5IRFE3TGZJ5KQJH4XK6KFCUE437PJSWCZD7PJSWA23POMIQGCQNBACQQB3TP55GKYDTM5RHKZY/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "Wta Wuhan, China Women Singles - Zhang Shuai Vs Sorana Cirstea (10/08/25)": {
       "event_title": "Wta Wuhan, China Women Singles - Zhang Shuai Vs Sorana Cirstea (10/08/25)",
       "event_time": "02:30PM",
@@ -343,20 +244,6 @@
         }
       ]
     },
-    "Wta Wuhan, China Women Doubles - Jovic I / Olmos G Vs Timea Babos/Luisa Stefani (10/08/25)": {
-      "event_title": "Wta Wuhan, China Women Doubles - Jovic I / Olmos G Vs Timea Babos/Luisa Stefani (10/08/25)",
-      "event_time": "02:45PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKE26IRNFOEDZCAPXGGR4FA6TO5IXMUSDQZINLBPVMVIQOJIVEPBGP4ESOLJGGFSQCPZAH5IFYWQUDINBAA3TP55GKZDEP55GKYD3OVUQQCYCCQNBUEACMRTWE53F/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "Wta Wuhan, China Women Doubles - Kichenok L / Perez E Vs Mihalikova T / Nicholls O (10/08/25)": {
       "event_title": "Wta Wuhan, China Women Doubles - Kichenok L / Perez E Vs Mihalikova T / Nicholls O (10/08/25)",
       "event_time": "02:55PM",
@@ -366,20 +253,6 @@
         {
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKESYKFNVCXS7LMIB65L7MUBCCJZVH5ZA4ZJPIIJH4XKYKFOFSOB2EYSHEEDVP5SRYIRGGFPF4X2HCB7RAGTZOVRWK6DOOVTGK6DBMVVQCAQCAQAQCEA2PF2WE4TAOZTWQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Atp Shanghai, China Men Double - Arevalo M / Pavic M Vs A.Krajicek/N.Mektic (10/08/25)": {
-      "event_title": "Atp Shanghai, China Men Double - Arevalo M / Pavic M Vs A.Krajicek/N.Mektic (10/08/25)",
-      "event_time": "03:00PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKGCDK5CVKXC7CB6XG6TQCUZTEPBTMUPWWMZKCFZR272CKFNFSMBQHNVBY2QYGUXCMIRGPENRQEYHCANBUEDFOV5G64TWMVQHKYTZO54RWGATAYDQEAQCNI/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
@@ -449,13 +322,13 @@
     },
     "Wta Wuhan, China Women Doubles - Guo H / Panova A Vs Chan H-C / Jiang X (10/08/25)": {
       "event_title": "Wta Wuhan, China Women Doubles - Guo H / Panova A Vs Chan H-C / Jiang X (10/08/25)",
-      "event_time": "04:20PM",
+      "event_time": "04:25PM",
       "event_date": "10/08/25",
       "category": null,
       "channels": [
         {
-          "channel_name": "HDD B",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKHSELUJXYEA7CBQDEOZ7GMZWIFDQGMQWWBRRKBOBG7A5OMIB64Y7HESDYI3VBBSXQYLFNIIRQGIUAYIBUGTTM5QHKY3UMBUGK6DBMVVQMAABA4CQ/index.m3u8",
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKHSELUJXYEA7CBQDEOZ7GMZWIFDQGMQWWBRRKBOBG7A5OMIB64Y7HESDYI3VBBSXQYLFNIIRQGIUAYIBUGTTM5QHKY3UMBUGK6DBMVVQMAABAAAA/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
@@ -463,7 +336,7 @@
     },
     "Wta Wuhan, China Women Singles - Naomi Osaka Vs Linda Noskova (10/08/25)": {
       "event_title": "Wta Wuhan, China Women Singles - Naomi Osaka Vs Linda Noskova (10/08/25)",
-      "event_time": "04:20PM",
+      "event_time": "04:50PM",
       "event_date": "10/08/25",
       "category": null,
       "channels": [
