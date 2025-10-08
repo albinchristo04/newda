@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-08T17:14:05.013112
+Extraction Time: 2025-10-08T17:31:24.082957
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 60
-- Total Channels: 79
+- Unique Events: 62
+- Total Channels: 81
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -50,10 +50,14 @@ EVENT BREAKDOWN:
   Time: 01:00AM, Channels: 1
 - Superettan Basket - Eskilstuna Bbk Vs Kfum Fryshuset (10/09/...
   Time: 01:00AM, Channels: 1
-- Russia Woman'S Cup - Sbsk Bc Samara Women Vs Dynamo Kursk Wo...
-  Time: 10:50PM, Channels: 1
+- Euroleague Women - Basket Landes Vs Zaragoza Women (10/09/25...
+  Time: 01:30AM, Channels: 2
+- Europe Women’S Challenge Basketball - Elfic Fribourg Women V...
+  Time: 01:30AM, Channels: 1
+- Liga Nationala De Baschet Masculin - Csm Oradea Vs Csu Aseso...
+  Time: 01:30AM, Channels: 1
 - Basketball Champions League - Hapoel Holon Vs Bursaspor (10/...
-  Time: 11:00PM, Channels: 2
+  Time: 11:00PM, Channels: 1
 - Baloncesto Euroliga Femenina - Olympiacos Piraeus Vs Valenci...
   Time: 11:25PM, Channels: 1
 - Euroleague Women - Olympiakos Women Vs Valencia Women (10/08...
@@ -116,8 +120,8 @@ EVENT BREAKDOWN:
   Time: 01:00AM, Channels: 1
 - World Cup Qualification (Afc) - Indonesia Vs Saudi Arabia (1...
   Time: 01:15AM, Channels: 4
-- International Club Friendly - Fc Augsburg Vs Ssv Ulm 1846 (1...
-  Time: 11:30PM, Channels: 1
+- World Cup Qualification (Afc) - Indonesia Vs Saudi Arabia (1...
+  Time: 01:15AM, Channels: 1
 - Ehf Champions League - Gog Vs Magdeburg (10/09/25)
   Time: 12:45AM, Channels: 1
 - Challenger Atp Challenger Roanne, France, Men Singles - Pabl...

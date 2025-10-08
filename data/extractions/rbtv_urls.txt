@@ -1,4 +1,4 @@
-Extracted at: 2025-10-08T17:14:05.013112
+Extracted at: 2025-10-08T17:31:24.082957
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -218,13 +218,38 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: Russia Woman'S Cup - Sbsk Bc Samara Women Vs Dynamo Kursk Women (10/08/25)
-Time: 10:50PM
-Date: 10/08/25
+EVENT: Euroleague Women - Basket Landes Vs Zaragoza Women (10/09/25)
+Time: 01:30AM
+Date: 10/09/25
+Category: None
+Available Channels (2):
+  1. MOVISTAR
+     URL: https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNMJDMXCXLUKB2EDSKEQD4NJROIEDIPRBG44GKL2CCJUVKQSRK5PSSNDQCI6SSMB6MV4GCZLLCEMBSFACAAAAC437PJSWG7LMNF6GO73FOMNREBIGAIBQGAI/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNMJDMXCXLUKB2EDSKEQD4NJROIEDIPRBG44GKL2CCJUVKQSRK5PSSNDQCI6SSMB6MV4GCZLLCEMBSFADCANBU43ENF6GW7LAMRSXQYLFNMDAAAAFBE/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+
+================================================================================
+
+EVENT: Europe Women’S Challenge Basketball - Elfic Fribourg Women Vs Esb Villeneuve-D'Ascq Women (10/09/25)
+Time: 01:30AM
+Date: 10/09/25
 Category: None
 Available Channels (1):
   1. SD
-     URL: https://world-proxifier.xyz/rbtv/p/AEQCGNR3EV2QOKR7FIVX4QQSKBAUAEA5CAABOAYOOIDBM4AWGMTCIK2QCJSFWXKVLYICKJTQAEVSUNB5FJZAAMBLIJMRGY27LVKV4437PJSWAZD7PJSWC23POMIQAAYEAIAAEA3TP55GKYDTM5RHEYY/index.m3u8
+     URL: https://world-proxifier.xyz/rbtv/p/CYQCEKRCEF2QOKR7FYV3XMNLIAKHGWCRLQ7TAPRCG5SBOMJWHEXDCO2QLZPRIHIQOVODKPBTMUKDMPBSFITTSITZMZOV4UK6CBDEG4YQAMDXEER4HQUTOJJAFRDVOHSQC5YUGUZCOUDSUPZBHNYG66DLO54RWGATA4IBUGQQMFSWA5LHOVWHA33YNN3W4AYBAIGA/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+
+================================================================================
+
+EVENT: Liga Nationala De Baschet Masculin - Csm Oradea Vs Csu Asesoft Ploiesti (10/09/25)
+Time: 01:30AM
+Date: 10/09/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/D46DOJDSBI2CILB5EUSDKUASK5IRA4SRIMYD2NJROIETIIZGE4TSYNYRD4JXOY35CB7SCNBUEAZWIIZDMUIRQEDZOBAVMR27KZCBAAZZH4WDONZBHFSXQYLFNMIRQGIUAMIBUGTTMRUXY235MBRWK6DBMVVQMAAAAYAA/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
 
 ================================================================================
@@ -233,12 +258,9 @@ EVENT: Basketball Champions League - Hapoel Holon Vs Bursaspor (10/08/25)
 Time: 11:00PM
 Date: 10/08/25
 Category: None
-Available Channels (2):
+Available Channels (1):
   1. HDD A
      URL: https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFDIVDKNSULYJXYX24L5PHGIZDMUIDCJZDEQQTWKRLCEMBSFACCANBU43DOBXXQZDENF6GW6L5NUIRQGIUAIDQEATEMM/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
-  2. SD
-     URL: https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFDIVDKNSULYJXYX24L5PHGIZDMUIDCJZDEQQTWKRLCEMBSFACCANBU43GOBXXQZDENF6GW6L5NUIRQGIUAIDQEATEM4/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
 
 ================================================================================
@@ -632,13 +654,13 @@ Available Channels (4):
 
 ================================================================================
 
-EVENT: International Club Friendly - Fc Augsburg Vs Ssv Ulm 1846 (10/08/25)
-Time: 11:30PM
-Date: 10/08/25
+EVENT: World Cup Qualification (Afc) - Indonesia Vs Saudi Arabia (10/09/25) [STREAM 24[HD]]
+Time: 01:15AM
+Date: 10/09/25
 Category: None
 Available Channels (1):
-  1. SD
-     URL: https://world-proxifier.xyz/rbtv/p/DI5SIIBAFI2CILB5EUSDKELRL5AVEEDWII5DAPRBHY6XK7LFCQEGKGCEKVAFMRKCK4ICKJTQCYARE5IFFE7WW5DBAUCBGHQ2CAARA6L7OB3HE3T7OBYWA4TSMEBQUEY6DIIAGADLMNQHM/index.m3u8
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCMBBM6LFP5VQYN2VLVOVCQ2ZKEICKJTQCYZTCMJZMUJTSJB3LBJRGHQ2CAARA6L7OB3XE3T7OBYWA7DUNMDQCEY6DIIAGADLMNSXA/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
 ================================================================================
