@@ -1,4 +1,4 @@
-Extracted at: 2025-10-08T23:28:11.756516
+Extracted at: 2025-10-08T23:38:43.228169
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -69,6 +69,28 @@ Available Channels (1):
 
 ================================================================================
 
+EVENT: Argentinian Liga Nacional De Bosquetbol - Penarol De Mar Del Plata Vs Quimsa (10/09/25)
+Time: 07:00AM
+Date: 10/09/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/CITTOIB4GA6D4LBTEVSRKWCVKIKH4UKTLE6DWMJJOIQDA4AHHU4DILCUIZIVWXAQDUIAGMB6EQQCWOLQEE3WWCBYIMJFOUK4CBQFYMRBGFSSIN3VAEYDWJRWHAIRQGIUAIIBUGTTMZYG66DEMRUXY23SPVUBCGAZCQBAOAQDNNWA/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+
+================================================================================
+
+EVENT: Argentinian Liga Nacional De Bosquetbol - Obras Sanitarias Buenos Aires Vs Ciclista Olimpico (10/09/25)
+Time: 07:30AM
+Date: 10/09/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/CITTOIB4GA6D4LBTEVSRKWCVKIKH4UKTLE6DWMJJOIQDA4AHHU4DILCUIZIVWXAQDUIBYNZCEQQWIBRRFM5T6JBLLBJUAFDSIVKV4PBGOACDWNRQENSSIODFDJMFCX25INCFCEA4HE4SQIRNGY7WK6DBMVVRCGAZCQBRAGQ2ONSGS7DLPVWWGZLYMFSWWBQAAAGAI/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+
+================================================================================
+
 EVENT: National Basketball Association - Miami Heat Vs San Antonio Spurs (10/09/25)
 Time: 07:30AM
 Date: 10/09/25
@@ -79,6 +101,17 @@ Available Channels (2):
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
   2. SD
      URL: https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L4LNJFSWIQPBKTEILQGMQWIBRRFNZAUKZNLZOFUWYQMNAEKIJGOBXXQZDHOBXXQ23WPENRQEYFBEEQSCLLM5YG66DEM5TXOYLTOY/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+
+================================================================================
+
+EVENT: National Basketball Association - Miami Heat Vs San Antonio Spurs (10/09/25) [STREAM 15[HD]]
+Time: 07:30AM
+Date: 10/09/25
+Category: None
+Available Channels (1):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L4LNJFSWIQPBKTEILQGMQWIBRRFNZAUKZNLZOFUWYQMNAEKIJGOBXXQZDHOBXXQ23XPENRQEYFBEEQSCLLM5YG66DEM5TXOYLSOU/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
 
 ================================================================================
@@ -221,8 +254,8 @@ Time: 07:30AM
 Date: 10/09/25
 Category: None
 Available Channels (1):
-  1. HDD B
-     URL: https://world-proxifier.xyz/rbtv/p/CA2D4JBWFU2D4ZICHEQDIWCXIEKHYVKRK4TDA4DIOIFSCJBEEUVGKC2QIJNFAEDWOMIHWATZMUSDO5IGEQ6CQKRMI5LUCFDCLFBVK4YTCNSXUE34OBXXQ23UPENRQEYCCANBUEDHM5UX2YTTMNYG66DLOZUQSBIDAU/index.m3u8
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/CA2D4JBWFU2D4ZICHEQDIWCXIEKHYVKRK4TDA4DIOIFSCJBEEUVGKC2QIJNFAEDWOMIHWATZMUSDO5IGEQ6CQKRMI5LUCFDCLFBVK4YTCNSXUE34OBXXQ23UPENRQEYCCANBUEDHM5UX2YTTMNYG66DLOZUQSBIDA4/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
 ================================================================================
