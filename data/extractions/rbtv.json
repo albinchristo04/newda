@@ -1,596 +1,206 @@
 {
-  "timestamp": "2025-10-08T14:16:03.406330",
+  "timestamp": "2025-10-08T14:43:36.717945",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
-  "segments": [],
-  "events": [
+  "segments": [
     {
-      "event_time": "09:15PM",
-      "event_date": "10/08/25",
-      "channel_name": "SKA",
-      "event_title": "East Asia Super League - Taoyuan Pilots Vs Ryukyu Golden Kings (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CY2CGMLSAUTDSJDSDAYCSVCACN4FKUKXIU3HK7LFAYSTUKJQGMSWKCKYLZOEAQYQIZBXGBZJGA4T2IDQAI6SOIJ4L4JHQXK6K5BRA6L7OB3XE3T7OB3WE63UPENRQEYFBEEQSATEM5YG66DEMNRHOY34OY/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
+      "group_title": "BASKETBALL",
+      "title": "East Asia Super League - Taoyuan Pilots Vs Ryukyu Golden Kings [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CY2CGMLSAUTDSJDSDAYCSVCACN4FKUKXIU3HK7LFAYSTUKJQGMSWKCKYLZOEAQYQIZBXGBZJGA4T2IDQAI6SOIJ4L4JHQXK6K5BRA6L7OB3XE3T7OB3WE63UPENRQEYFBEEQSATEM5YG66DEMNRHOY34OY/index.m3u8"
     },
     {
-      "event_time": "09:15PM",
-      "event_date": "10/08/25",
-      "channel_name": "SD",
-      "event_title": "East Asia Super League - Taoyuan Pilots Vs Ryukyu Golden Kings (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CY2CGMLSAUTDSJDSDAYCSVCACN4FKUKXIU3HK7LFAYSTUKJQGMSWKCKYLZOEAQYQIZBXGBZJGA4T2IDQAI6SOIJ4L4JHQXK6K5BRA6L7OB3XE3T7OB3HEYLPPEAAWCQNAIDQEEDZP5YHOZLWM5SX2/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
+      "group_title": "BASKETBALL",
+      "title": "East Asia Super League - Taoyuan Pilots Vs Ryukyu Golden Kings [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CY2CGMLSAUTDSJDSDAYCSVCACN4FKUKXIU3HK7LFAYSTUKJQGMSWKCKYLZOEAQYQIZBXGBZJGA4T2IDQAI6SOIJ4L4JHQXK6K5BRA6L7OB3XE3T7OB3HEYLPPEAAWCQNAIDQEEDZP5YHOZLWM5SX2/index.m3u8"
     },
     {
-      "event_time": "10:00PM",
-      "event_date": "10/08/25",
-      "channel_name": "SD",
-      "event_title": "Liga Nationala De Baschet Masculin - Corona Brasov Vs Phoenix Galati (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/D46DOJDSBI2CILB5EUSDKUASK5IRA4SRIMYD2NJROIETIIZGE4TSYNYRD4JXOX2CL5PDE5ISG4ZTOORGMUSDQZIJLFOVMWSZJAIHOMRZGEYTWZD7PJSWA23POMIQCEY6DIIACCLKNRRHEZ3EP55GKYD4O5VQOCY/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
+      "group_title": "BASKETBALL",
+      "title": "Liga Nationala De Baschet Masculin - Corona Brasov Vs Phoenix Galati [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/D46DOJDSBI2CILB5EUSDKUASK5IRA4SRIMYD2NJROIETIIZGE4TSYNYRD4JXOX2CL5PDE5ISG4ZTOORGMUSDQZIJLFOVMWSZJAIHOMRZGEYTWZD7PJSWA23POMIQCEY6DIIACCLKNRRHEZ3EP55GKYD4O5VQOCY/index.m3u8"
     },
     {
-      "event_time": "08:00PM",
-      "event_date": "10/08/25",
-      "event_title": "Odi Series Afghanistan Vs Bangladesh - Afghanistan Vs Bangladesh (10/08/25) [STREAM 32[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DQIRSZIBEETTSIBBNMCD6VS2KJNFSQ2EKE6XKJRWOIDDIPRCHYVCCPCCLIJRSEDRKZLTWNB6FQQTANB6MUSDQZI3KBOFIWCRKRKUGO3VPJXXE4TVPJXXE6LFOMNREAQNBEEQGCDDOV5G64TWMJRHOZ36/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
-      "group_title": "CRICKET"
+      "group_title": "CRICKET",
+      "title": "Odi Series Afghanistan Vs Bangladesh - Afghanistan Vs Bangladesh [STREAM 32[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DQIRSZIBEETTSIBBNMCD6VS2KJNFSQ2EKE6XKJRWOIDDIPRCHYVCCPCCLIJRSEDRKZLTWNB6FQQTANB6MUSDQZI3KBOFIWCRKRKUGO3VPJXXE4TVPJXXE6LFOMNREAQNBEEQGCDDOV5G64TWMJRHOZ36/index.m3u8"
     },
     {
-      "event_time": "09:00PM",
-      "event_date": "10/08/25",
-      "event_title": "World Cup Qualification (Caf) - Eswatini Vs Angola (10/08/25) [STREAM 17[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQAKSGKNDV2XSZCBDCA5IRFM2SWOJRMV4GCZLICEMBSFACCANBU43GNBYGI5LNM5SXQYLFNIAQUBQMAU/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Czech Third League - Frydek-Mistek Vs Polanka [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CAXTKJR2MQATQLBAF5SRKVCTKRAVKEA5CAKSOKJBG4XXQHJMEE7SAMQRIRABIYC7LRIT2PRRMV4G45LBMV4GCZLKCEMBSFAEAIAQEYDEMNSXQ3TVMN2WU7T4NM/index.m3u8"
     },
     {
-      "event_time": "09:00PM",
-      "event_date": "10/08/25",
-      "channel_name": "SD",
-      "event_title": "World Cup Qualification (Caf) - Eswatini Vs Angola (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQAKSGKNDV2XSZCBDCA5IRFM2SWOJRMV4GCZLICEMBSFADCANBU43GNBYGI5LNM5SXQYLFNIAQUBQMAE/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Portuguese U23 League - Farense U23 Vs Portimonense U23 [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AM5CEMJHEMQDKNRXNMIGWAQSP5IVCV2FKVZXQ4ADGM3DAPRWG5VRA2YCCJCUOEDAL5BCOPB5FI6CCOZDEBZB453KCEMBSFABCANBU43GOBXXQZDBMJYGA73WMAIRQGIUAMAAQBLKMI/index.m3u8"
     },
     {
-      "event_time": "09:00PM",
-      "event_date": "10/08/25",
-      "channel_name": "HDD A",
-      "event_title": "World Cup Qualification (Caf) - Ethiopia Vs Guinea Bissau (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQALKZLNOEIWKRCBDCA5IXGA5SUMBRMUICENRKKBDRGHQ2CAARA6L7OBZXE3T7OB3GU7TTNAEAGEY6DIIAGADLMBUXK/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "World Cup Qualification (Caf) - Eswatini Vs Angola [STREAM 17[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQAKSGKNDV2XSZCBDCA5IRFM2SWOJRMV4GCZLICEMBSFACCANBU43GNBYGI5LNM5SXQYLFNIAQUBQMAU/index.m3u8"
     },
     {
-      "event_time": "09:00PM",
-      "event_date": "10/08/25",
-      "event_title": "World Cup Qualification (Caf) - Ethiopia Vs Guinea Bissau (10/08/25) [STREAM 20[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQALKZLNOEIWKRCBDCA5IXGA5SUMBRMUICENRKKBDRGHQ2CAARA6L7OB3XE3T7OB3GU7TTNAEAGEY6DIIAGADLMBUHC/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "World Cup Qualification (Caf) - Eswatini Vs Angola [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQAKSGKNDV2XSZCBDCA5IRFM2SWOJRMV4GCZLICEMBSFADCANBU43GNBYGI5LNM5SXQYLFNIAQUBQMAE/index.m3u8"
     },
     {
-      "event_time": "09:00PM",
-      "event_date": "10/08/25",
-      "channel_name": "SD",
-      "event_title": "World Cup Qualification (Caf) - Ethiopia Vs Guinea Bissau (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQALKZLNOEIWKRCBDCA5IXGA5SUMBRMUICENRKKBDRGHQ2CAARA6L7OB3HE3T7OB3GU7TTNAEAGEY6DIIAGADLMBUHM/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "World Cup Qualification (Caf) - Ethiopia Vs Guinea Bissau [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQALKZLNOEIWKRCBDCA5IXGA5SUMBRMUICENRKKBDRGHQ2CAARA6L7OBZXE3T7OB3GU7TTNAEAGEY6DIIAGADLMBUXK/index.m3u8"
     },
     {
-      "event_time": "09:00PM",
-      "event_date": "10/08/25",
-      "channel_name": "HDD A",
-      "event_title": "World Cup Qualification (Caf) - Libya Vs Cape Verde (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQSMCTJNJBIRSDCBZTEJJVMUCCCJZUEBZGC33ZAAJBSHQQAYIBU6LVMN6WO4TENBYHEYLPPEBAECYBBEAQ/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "World Cup Qualification (Caf) - Ethiopia Vs Guinea Bissau [STREAM 20[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQALKZLNOEIWKRCBDCA5IXGA5SUMBRMUICENRKKBDRGHQ2CAARA6L7OB3XE3T7OB3GU7TTNAEAGEY6DIIAGADLMBUHC/index.m3u8"
     },
     {
-      "event_time": "09:00PM",
-      "event_date": "10/08/25",
-      "event_title": "World Cup Qualification (Caf) - Libya Vs Cape Verde (10/08/25) [STREAM 15[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQSMCTJNJBIRSDCBZTEJJVMUCCCJZUEBZGC33ZAAJBSHQQAIIBU6LVMN6WO4TENBYHEYLPPEBAECYBBADA/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "World Cup Qualification (Caf) - Ethiopia Vs Guinea Bissau [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQALKZLNOEIWKRCBDCA5IXGA5SUMBRMUICENRKKBDRGHQ2CAARA6L7OB3HE3T7OB3GU7TTNAEAGEY6DIIAGADLMBUHM/index.m3u8"
     },
     {
-      "event_time": "09:00PM",
-      "event_date": "10/08/25",
-      "channel_name": "SD",
-      "event_title": "World Cup Qualification (Caf) - Libya Vs Cape Verde (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQSMCTJNJBIRSDCBZTEJJVMUCCCJZUEBZGC33ZAAJBSHQQAMIBU6LVMN6WO4TENBYHEYLPPEBAECYBBABA/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "World Cup Qualification (Caf) - Libya Vs Cape Verde [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQSMCTJNJBIRSDCBZTEJJVMUCCCJZUEBZGC33ZAAJBSHQQAYIBU6LVMN6WO4TENBYHEYLPPEBAECYBBEAQ/index.m3u8"
     },
     {
-      "event_time": "09:00PM",
-      "event_date": "10/08/25",
-      "channel_name": "HDD A",
-      "event_title": "World Cup Qualification (Caf) - Mauritius Vs Cameroon (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQQOCEIBNEAWKFIMICKJTQAYZSSMBCFI6SKZLTDMJAEFA2DIIAM437PJSWC7DAMZ2GU7LFOMNREAAEBACQSBA/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "World Cup Qualification (Caf) - Libya Vs Cape Verde [STREAM 15[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQSMCTJNJBIRSDCBZTEJJVMUCCCJZUEBZGC33ZAAJBSHQQAIIBU6LVMN6WO4TENBYHEYLPPEBAECYBBADA/index.m3u8"
     },
     {
-      "event_time": "09:00PM",
-      "event_date": "10/08/25",
-      "event_title": "World Cup Qualification (Caf) - Mauritius Vs Cameroon (10/08/25) [STREAM 9[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQQOCEIBNEAWKFIMICKJTQAYZSSMBCFI6SKZLTDMJAEFA2DIIAE437PJSWC7DAMZ2GU7LFOMNREAAEBACQQBY/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "World Cup Qualification (Caf) - Libya Vs Cape Verde [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQSMCTJNJBIRSDCBZTEJJVMUCCCJZUEBZGC33ZAAJBSHQQAMIBU6LVMN6WO4TENBYHEYLPPEBAECYBBABA/index.m3u8"
     },
     {
-      "event_time": "09:00PM",
-      "event_date": "10/08/25",
-      "channel_name": "SD",
-      "event_title": "World Cup Qualification (Caf) - Mauritius Vs Cameroon (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQQOCEIBNEAWKFIMICKJTQAYZSSMBCFI6SKZLTDMJAEFA2DIIAG437PJSWC7DAMZ2GU7LFOMNREAAEBACQQAA/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "World Cup Qualification (Caf) - Mauritius Vs Cameroon [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQQOCEIBNEAWKFIMICKJTQAYZSSMBCFI6SKZLTDMJAEFA2DIIAM437PJSWC7DAMZ2GU7LFOMNREAAEBACQSBA/index.m3u8"
     },
     {
-      "event_time": "09:30PM",
-      "event_date": "10/08/25",
-      "channel_name": "SD",
-      "event_title": "Czech Third League - Frydek-Mistek Vs Polanka (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CAXTKJR2MQATQLBAF5SRKVCTKRAVKEA5CAKSOKJBG4XXQHJMEE7SAMQRIRABIYC7LRIT2PRRMV4G45LBMV4GCZLKCEMBSFAEAIAQEYDEMNSXQ3TVMN2WU7T4NM/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "World Cup Qualification (Caf) - Mauritius Vs Cameroon [STREAM 9[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQQOCEIBNEAWKFIMICKJTQAYZSSMBCFI6SKZLTDMJAEFA2DIIAE437PJSWC7DAMZ2GU7LFOMNREAAEBACQQBY/index.m3u8"
     },
     {
-      "event_time": "10:00PM",
-      "event_date": "10/08/25",
-      "channel_name": "SD",
-      "event_title": "Portuguese U23 League - Farense U23 Vs Portimonense U23 (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AM5CEMJHEMQDKNRXNMIGWAQSP5IVCV2FKVZXQ4ADGM3DAPRWG5VRA2YCCJCUOEDAL5BCOPB5FI6CCOZDEBZB453KCEMBSFABCANBU43GOBXXQZDBMJYGA73WMAIRQGIUAMAAQBLKMI/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "World Cup Qualification (Caf) - Mauritius Vs Cameroon [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQQOCEIBNEAWKFIMICKJTQAYZSSMBCFI6SKZLTDMJAEFA2DIIAG437PJSWC7DAMZ2GU7LFOMNREAAEBACQQAA/index.m3u8"
     },
     {
-      "event_time": "08:00PM",
-      "event_date": "10/08/25",
-      "channel_name": "SKA",
-      "event_title": "Premier Padel 2025  - Milan P1 Day 3 Match 4 (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAEJVSUKEKNMHGYLQN54GIZTQN54GW53JAEBRGHQ2CABAAY3EMBZGMZD7PJSWI6LXNMEAW/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Shanghai, China Men Singles - Learner Tien Vs Daniil Medvedev [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L5K5JEMXSVIIIAOPBVFNZDEJTQAEZSKLBQLUJH4UKUIZKVINRDOBXXQZDGOBXXQ23XNEAQGEY6DIIACCLKNVSX2ZTEP55GKZDZO5VQSCQ/index.m3u8"
     },
     {
-      "event_time": "08:15PM",
-      "event_date": "10/08/25",
-      "channel_name": "SKA",
-      "event_title": "Atp Shanghai, China Men Singles - Learner Tien Vs Daniil Medvedev (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L5K5JEMXSVIIIAOPBVFNZDEJTQAEZSKLBQLUJH4UKUIZKVINRDOBXXQZDGOBXXQ23XNEAQGEY6DIIACCLKNVSX2ZTEP55GKZDZO5VQSCQ/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Shanghai, China Men Singles - Learner Tien Vs Daniil Medvedev [MOVISTAR2]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L5K5JEMXSVIIIAOPBVFNZDEJTQAEZSKLBQLUJH4UKUIZKVINRDOBXXQZDGOBXXQ23XNEAQGEY6DIIACCLKNVSX2ZTEP55GKZDZO5VAEBQ/index.m3u8"
     },
     {
-      "event_time": "08:15PM",
-      "event_date": "10/08/25",
-      "channel_name": "MOVISTAR2",
-      "event_title": "Atp Shanghai, China Men Singles - Learner Tien Vs Daniil Medvedev (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L5K5JEMXSVIIIAOPBVFNZDEJTQAEZSKLBQLUJH4UKUIZKVINRDOBXXQZDGOBXXQ23XNEAQGEY6DIIACCLKNVSX2ZTEP55GKZDZO5VAEBQ/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Shanghai, China Men Singles - Learner Tien Vs Daniil Medvedev [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L5K5JEMXSVIIIAOPBVFNZDEJTQAEZSKLBQLUJH4UKUIZKVINRDOBXXQZDGOBXXQ23TPENRQEYFBEEQQBLLMFYG66DEM5TXOYD6OI/index.m3u8"
     },
     {
-      "event_time": "08:15PM",
-      "event_date": "10/08/25",
-      "channel_name": "HDD A",
-      "event_title": "Atp Shanghai, China Men Singles - Learner Tien Vs Daniil Medvedev (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L5K5JEMXSVIIIAOPBVFNZDEJTQAEZSKLBQLUJH4UKUIZKVINRDOBXXQZDGOBXXQ23TPENRQEYFBEEQQBLLMFYG66DEM5TXOYD6OI/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Shanghai, China Men Singles - Learner Tien Vs Daniil Medvedev [STREAM 23[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L5K5JEMXSVIIIAOPBVFNZDEJTQAEZSKLBQLUJH4UKUIZKVINRDOBXXQZDGOBXXQ23XPENRQEYFBEEQQBLLMFYG66DEM5TXOYD3OI/index.m3u8"
     },
     {
-      "event_time": "08:15PM",
-      "event_date": "10/08/25",
-      "event_title": "Atp Shanghai, China Men Singles - Learner Tien Vs Daniil Medvedev (10/08/25) [STREAM 23[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L5K5JEMXSVIIIAOPBVFNZDEJTQAEZSKLBQLUJH4UKUIZKVINRDOBXXQZDGOBXXQ23XPENRQEYFBEEQQBLLMFYG66DEM5TXOYD3OI/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Challenger Atp Challenger Roanne, France, Men Singles - Stefanos Sakellaridis Vs Jan-Lennard Struff [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CA6TCKJ6EE5TOIBANMCA2YISOBOFCXC4KU6TENJXOILDUMJLHQXGS6LXIBJFUU2VDQIB4MB6MUAS2OZXFE3TQZLUCFQUOUKWKFPF6IDVAMSDSIJZHQSCAIRBGBBBERKHCB5FCXT6DE2SWPBFE42GKAJ7G4WFOVATDYNBAAYQPF7XA43SNZ7XA53CPN2WYBAFCMPBUEACA5QWOZ3V/index.m3u8"
     },
     {
-      "event_time": "09:25PM",
-      "event_date": "10/08/25",
-      "channel_name": "VDO",
-      "event_title": "Wta Wuhan, China Women Singles - Jaqueline Adina Cristian Vs Elena Rybakina (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKE2QINDFCXCZLZKXGFBUFQ6CK5ITG45TQMJQKBOBGQSDCB2VYNR3GFSQAPJXGEXDWJJEPENRQEYHCANBUEDBMVQHI4TOP5YHOYT3OVQAMCYTDYNBABQCMFTGK5A/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Premier Padel 2025  - Milan P1 Day 3 Match 4 [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAEJVSUKEKNMHGYLQN54GIZTQN54GW53JAEBRGHQ2CABAAY3EMBZGMZD7PJSWI6LXNMEAW/index.m3u8"
     },
     {
-      "event_time": "09:25PM",
-      "event_date": "10/08/25",
-      "channel_name": "HDD A",
-      "event_title": "Wta Wuhan, China Women Singles - Jaqueline Adina Cristian Vs Elena Rybakina (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKE2QINDFCXCZLZKXGFBUFQ6CK5ITG45TQMJQKBOBGQSDCB2VYNR3GFSQAPJXGEXDWJJEPENRQEYHCANBUEDFOV5G64TWMVQHK234PR4RWGATAYDQEAQGMA/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Wta 125K Mallorca, Spain Women Singles - Teodora Kostovic Vs Mayar Sherif [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CBSDMORUFIQCK5I3FIQT6KRPLBIRGQSDCB6VCKRUEJSQCLBQEIWDI23POMIQCEY6DIIAMEDZP5YHI235NRRXOY3LN5ZRCAAEAYBAMBI/index.m3u8"
     },
     {
-      "event_time": "09:25PM",
-      "event_date": "10/08/25",
-      "event_title": "Wta Wuhan, China Women Singles - Jaqueline Adina Cristian Vs Elena Rybakina (10/08/25) [STREAM 23[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKE2QINDFCXCZLZKXGFBUFQ6CK5ITG45TQMJQKBOBGQSDCB2VYNR3GFSQAPJXGEXDWJJEPENRQEYHCANBUEDBOV5G64TWMVQHK234PR4RWGATAYDQEAQAMA/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Wta Wuhan, China Women Singles - Jaqueline Adina Cristian Vs Elena Rybakina [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKE2QINDFCXCZLZKXGFBUFQ6CK5ITG45TQMJQKBOBGQSDCB2VYNR3GFSQAPJXGEXDWJJEPENRQEYHCANBUEDBMVQHI4TOP5YHOYT3OVQAMCYTDYNBABQCMFTGK5A/index.m3u8"
     },
     {
-      "event_time": "09:40PM",
-      "event_date": "10/08/25",
-      "channel_name": "HDD A",
-      "event_title": "Wta 125K Mallorca, Spain Women Singles - Teodora Kostovic Vs Mayar Sherif (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CBSDMORUFIQCK5I3FIQT6KRPLBIRGQSDCB6VCKRUEJSQCLBQEIWDI23POMIQCEY6DIIAMEDZP5YHI235NRRXOY3LN5ZRCAAEAYBAMBI/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Wta Wuhan, China Women Singles - Jaqueline Adina Cristian Vs Elena Rybakina [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKE2QINDFCXCZLZKXGFBUFQ6CK5ITG45TQMJQKBOBGQSDCB2VYNR3GFSQAPJXGEXDWJJEPENRQEYHCANBUEDFOV5G64TWMVQHK234PR4RWGATAYDQEAQGMA/index.m3u8"
     },
     {
-      "event_time": "10:00PM",
-      "event_date": "10/08/25",
-      "channel_name": "HDD A",
-      "event_title": "Challenger Atp Challenger Roanne, France, Men Singles - Stefanos Sakellaridis Vs Jan-Lennard Struff (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CA6TCKJ6EE5TOIBANMCA2YISOBOFCXC4KU6TENJXOILDUMJLHQXGS6LXIBJFUU2VDQIB4MB6MUAS2OZXFE3TQZLUCFQUOUKWKFPF6IDVAMSDSIJZHQSCAIRBGBBBERKHCB5FCXT6DE2SWPBFE42GKAJ7G4WFOVATDYNBAAYQPF7XA43SNZ7XA53CPN2WYBAFCMPBUEACA5QWOZ3V/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Wta Wuhan, China Women Singles - Jaqueline Adina Cristian Vs Elena Rybakina [STREAM 23[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKE2QINDFCXCZLZKXGFBUFQ6CK5ITG45TQMJQKBOBGQSDCB2VYNR3GFSQAPJXGEXDWJJEPENRQEYHCANBUEDBOV5G64TWMVQHK234PR4RWGATAYDQEAQAMA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
+      "group_title": "VOLLEYBALL",
+      "title": "Turkish Cup Women - Nilufer Bld. Women Vs Thy Women [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/A4QCELR3G46XABRHHNSQ4XS7KZNBAHIQPY5DSJJDG43HKERJGZSWKDS6L5LFUECGIMIAOHIJMUCSWOBVFNZGC33ZAAARGHQ2CABAAY3EOBXXQZDENF6GW73TMEIRQGIUAYBAEA3HMI/index.m3u8"
     }
   ],
-  "grouped_events": {
-    "East Asia Super League - Taoyuan Pilots Vs Ryukyu Golden Kings (10/08/25)": {
-      "event_title": "East Asia Super League - Taoyuan Pilots Vs Ryukyu Golden Kings (10/08/25)",
-      "event_time": "09:15PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SKA",
-          "url": "https://world-proxifier.xyz/rbtv/p/CY2CGMLSAUTDSJDSDAYCSVCACN4FKUKXIU3HK7LFAYSTUKJQGMSWKCKYLZOEAQYQIZBXGBZJGA4T2IDQAI6SOIJ4L4JHQXK6K5BRA6L7OB3XE3T7OB3WE63UPENRQEYFBEEQSATEM5YG66DEMNRHOY34OY/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CY2CGMLSAUTDSJDSDAYCSVCACN4FKUKXIU3HK7LFAYSTUKJQGMSWKCKYLZOEAQYQIZBXGBZJGA4T2IDQAI6SOIJ4L4JHQXK6K5BRA6L7OB3XE3T7OB3HEYLPPEAAWCQNAIDQEEDZP5YHOZLWM5SX2/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Liga Nationala De Baschet Masculin - Corona Brasov Vs Phoenix Galati (10/08/25)": {
-      "event_title": "Liga Nationala De Baschet Masculin - Corona Brasov Vs Phoenix Galati (10/08/25)",
-      "event_time": "10:00PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/D46DOJDSBI2CILB5EUSDKUASK5IRA4SRIMYD2NJROIETIIZGE4TSYNYRD4JXOX2CL5PDE5ISG4ZTOORGMUSDQZIJLFOVMWSZJAIHOMRZGEYTWZD7PJSWA23POMIQCEY6DIIACCLKNRRHEZ3EP55GKYD4O5VQOCY/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Odi Series Afghanistan Vs Bangladesh - Afghanistan Vs Bangladesh (10/08/25) [STREAM 32[HD]]": {
-      "event_title": "Odi Series Afghanistan Vs Bangladesh - Afghanistan Vs Bangladesh (10/08/25) [STREAM 32[HD]]",
-      "event_time": "08:00PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/DQIRSZIBEETTSIBBNMCD6VS2KJNFSQ2EKE6XKJRWOIDDIPRCHYVCCPCCLIJRSEDRKZLTWNB6FQQTANB6MUSDQZI3KBOFIWCRKRKUGO3VPJXXE4TVPJXXE6LFOMNREAQNBEEQGCDDOV5G64TWMJRHOZ36/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "World Cup Qualification (Caf) - Eswatini Vs Angola (10/08/25) [STREAM 17[HD]]": {
-      "event_title": "World Cup Qualification (Caf) - Eswatini Vs Angola (10/08/25) [STREAM 17[HD]]",
-      "event_time": "09:00PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQAKSGKNDV2XSZCBDCA5IRFM2SWOJRMV4GCZLICEMBSFACCANBU43GNBYGI5LNM5SXQYLFNIAQUBQMAU/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "World Cup Qualification (Caf) - Eswatini Vs Angola (10/08/25)": {
-      "event_title": "World Cup Qualification (Caf) - Eswatini Vs Angola (10/08/25)",
-      "event_time": "09:00PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQAKSGKNDV2XSZCBDCA5IRFM2SWOJRMV4GCZLICEMBSFADCANBU43GNBYGI5LNM5SXQYLFNIAQUBQMAE/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "World Cup Qualification (Caf) - Ethiopia Vs Guinea Bissau (10/08/25)": {
-      "event_title": "World Cup Qualification (Caf) - Ethiopia Vs Guinea Bissau (10/08/25)",
-      "event_time": "09:00PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQALKZLNOEIWKRCBDCA5IXGA5SUMBRMUICENRKKBDRGHQ2CAARA6L7OBZXE3T7OB3GU7TTNAEAGEY6DIIAGADLMBUXK/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQALKZLNOEIWKRCBDCA5IXGA5SUMBRMUICENRKKBDRGHQ2CAARA6L7OB3HE3T7OB3GU7TTNAEAGEY6DIIAGADLMBUHM/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "World Cup Qualification (Caf) - Ethiopia Vs Guinea Bissau (10/08/25) [STREAM 20[HD]]": {
-      "event_title": "World Cup Qualification (Caf) - Ethiopia Vs Guinea Bissau (10/08/25) [STREAM 20[HD]]",
-      "event_time": "09:00PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQALKZLNOEIWKRCBDCA5IXGA5SUMBRMUICENRKKBDRGHQ2CAARA6L7OB3XE3T7OB3GU7TTNAEAGEY6DIIAGADLMBUHC/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "World Cup Qualification (Caf) - Libya Vs Cape Verde (10/08/25)": {
-      "event_title": "World Cup Qualification (Caf) - Libya Vs Cape Verde (10/08/25)",
-      "event_time": "09:00PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQSMCTJNJBIRSDCBZTEJJVMUCCCJZUEBZGC33ZAAJBSHQQAYIBU6LVMN6WO4TENBYHEYLPPEBAECYBBEAQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQSMCTJNJBIRSDCBZTEJJVMUCCCJZUEBZGC33ZAAJBSHQQAMIBU6LVMN6WO4TENBYHEYLPPEBAECYBBABA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "World Cup Qualification (Caf) - Libya Vs Cape Verde (10/08/25) [STREAM 15[HD]]": {
-      "event_title": "World Cup Qualification (Caf) - Libya Vs Cape Verde (10/08/25) [STREAM 15[HD]]",
-      "event_time": "09:00PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQSMCTJNJBIRSDCBZTEJJVMUCCCJZUEBZGC33ZAAJBSHQQAIIBU6LVMN6WO4TENBYHEYLPPEBAECYBBADA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "World Cup Qualification (Caf) - Mauritius Vs Cameroon (10/08/25)": {
-      "event_title": "World Cup Qualification (Caf) - Mauritius Vs Cameroon (10/08/25)",
-      "event_time": "09:00PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQQOCEIBNEAWKFIMICKJTQAYZSSMBCFI6SKZLTDMJAEFA2DIIAM437PJSWC7DAMZ2GU7LFOMNREAAEBACQSBA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQQOCEIBNEAWKFIMICKJTQAYZSSMBCFI6SKZLTDMJAEFA2DIIAG437PJSWC7DAMZ2GU7LFOMNREAAEBACQQAA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "World Cup Qualification (Caf) - Mauritius Vs Cameroon (10/08/25) [STREAM 9[HD]]": {
-      "event_title": "World Cup Qualification (Caf) - Mauritius Vs Cameroon (10/08/25) [STREAM 9[HD]]",
-      "event_time": "09:00PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQQOCEIBNEAWKFIMICKJTQAYZSSMBCFI6SKZLTDMJAEFA2DIIAE437PJSWC7DAMZ2GU7LFOMNREAAEBACQQBY/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Czech Third League - Frydek-Mistek Vs Polanka (10/08/25)": {
-      "event_title": "Czech Third League - Frydek-Mistek Vs Polanka (10/08/25)",
-      "event_time": "09:30PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CAXTKJR2MQATQLBAF5SRKVCTKRAVKEA5CAKSOKJBG4XXQHJMEE7SAMQRIRABIYC7LRIT2PRRMV4G45LBMV4GCZLKCEMBSFAEAIAQEYDEMNSXQ3TVMN2WU7T4NM/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Portuguese U23 League - Farense U23 Vs Portimonense U23 (10/08/25)": {
-      "event_title": "Portuguese U23 League - Farense U23 Vs Portimonense U23 (10/08/25)",
-      "event_time": "10:00PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AM5CEMJHEMQDKNRXNMIGWAQSP5IVCV2FKVZXQ4ADGM3DAPRWG5VRA2YCCJCUOEDAL5BCOPB5FI6CCOZDEBZB453KCEMBSFABCANBU43GOBXXQZDBMJYGA73WMAIRQGIUAMAAQBLKMI/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Premier Padel 2025  - Milan P1 Day 3 Match 4 (10/08/25)": {
-      "event_title": "Premier Padel 2025  - Milan P1 Day 3 Match 4 (10/08/25)",
-      "event_time": "08:00PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SKA",
-          "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAEJVSUKEKNMHGYLQN54GIZTQN54GW53JAEBRGHQ2CABAAY3EMBZGMZD7PJSWI6LXNMEAW/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Atp Shanghai, China Men Singles - Learner Tien Vs Daniil Medvedev (10/08/25)": {
-      "event_title": "Atp Shanghai, China Men Singles - Learner Tien Vs Daniil Medvedev (10/08/25)",
-      "event_time": "08:15PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SKA",
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L5K5JEMXSVIIIAOPBVFNZDEJTQAEZSKLBQLUJH4UKUIZKVINRDOBXXQZDGOBXXQ23XNEAQGEY6DIIACCLKNVSX2ZTEP55GKZDZO5VQSCQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "MOVISTAR2",
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L5K5JEMXSVIIIAOPBVFNZDEJTQAEZSKLBQLUJH4UKUIZKVINRDOBXXQZDGOBXXQ23XNEAQGEY6DIIACCLKNVSX2ZTEP55GKZDZO5VAEBQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L5K5JEMXSVIIIAOPBVFNZDEJTQAEZSKLBQLUJH4UKUIZKVINRDOBXXQZDGOBXXQ23TPENRQEYFBEEQQBLLMFYG66DEM5TXOYD6OI/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Atp Shanghai, China Men Singles - Learner Tien Vs Daniil Medvedev (10/08/25) [STREAM 23[HD]]": {
-      "event_title": "Atp Shanghai, China Men Singles - Learner Tien Vs Daniil Medvedev (10/08/25) [STREAM 23[HD]]",
-      "event_time": "08:15PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L5K5JEMXSVIIIAOPBVFNZDEJTQAEZSKLBQLUJH4UKUIZKVINRDOBXXQZDGOBXXQ23XPENRQEYFBEEQQBLLMFYG66DEM5TXOYD3OI/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Wta Wuhan, China Women Singles - Jaqueline Adina Cristian Vs Elena Rybakina (10/08/25)": {
-      "event_title": "Wta Wuhan, China Women Singles - Jaqueline Adina Cristian Vs Elena Rybakina (10/08/25)",
-      "event_time": "09:25PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKE2QINDFCXCZLZKXGFBUFQ6CK5ITG45TQMJQKBOBGQSDCB2VYNR3GFSQAPJXGEXDWJJEPENRQEYHCANBUEDBMVQHI4TOP5YHOYT3OVQAMCYTDYNBABQCMFTGK5A/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKE2QINDFCXCZLZKXGFBUFQ6CK5ITG45TQMJQKBOBGQSDCB2VYNR3GFSQAPJXGEXDWJJEPENRQEYHCANBUEDFOV5G64TWMVQHK234PR4RWGATAYDQEAQGMA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Wta Wuhan, China Women Singles - Jaqueline Adina Cristian Vs Elena Rybakina (10/08/25) [STREAM 23[HD]]": {
-      "event_title": "Wta Wuhan, China Women Singles - Jaqueline Adina Cristian Vs Elena Rybakina (10/08/25) [STREAM 23[HD]]",
-      "event_time": "09:25PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKE2QINDFCXCZLZKXGFBUFQ6CK5ITG45TQMJQKBOBGQSDCB2VYNR3GFSQAPJXGEXDWJJEPENRQEYHCANBUEDBOV5G64TWMVQHK234PR4RWGATAYDQEAQAMA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Wta 125K Mallorca, Spain Women Singles - Teodora Kostovic Vs Mayar Sherif (10/08/25)": {
-      "event_title": "Wta 125K Mallorca, Spain Women Singles - Teodora Kostovic Vs Mayar Sherif (10/08/25)",
-      "event_time": "09:40PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CBSDMORUFIQCK5I3FIQT6KRPLBIRGQSDCB6VCKRUEJSQCLBQEIWDI23POMIQCEY6DIIAMEDZP5YHI235NRRXOY3LN5ZRCAAEAYBAMBI/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Challenger Atp Challenger Roanne, France, Men Singles - Stefanos Sakellaridis Vs Jan-Lennard Struff (10/08/25)": {
-      "event_title": "Challenger Atp Challenger Roanne, France, Men Singles - Stefanos Sakellaridis Vs Jan-Lennard Struff (10/08/25)",
-      "event_time": "10:00PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/CA6TCKJ6EE5TOIBANMCA2YISOBOFCXC4KU6TENJXOILDUMJLHQXGS6LXIBJFUU2VDQIB4MB6MUAS2OZXFE3TQZLUCFQUOUKWKFPF6IDVAMSDSIJZHQSCAIRBGBBBERKHCB5FCXT6DE2SWPBFE42GKAJ7G4WFOVATDYNBAAYQPF7XA43SNZ7XA53CPN2WYBAFCMPBUEACA5QWOZ3V/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    }
-  },
+  "events": [],
+  "grouped_events": {},
   "metadata": {}
 }
