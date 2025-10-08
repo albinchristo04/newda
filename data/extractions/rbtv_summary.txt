@@ -1,58 +1,50 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-08T13:17:25.864573
+Extraction Time: 2025-10-08T13:44:42.731043
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 22
-- Total Channels: 60
+- Unique Events: 18
+- Total Channels: 25
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
 - East Asia Super League - Taoyuan Pilots Vs Ryukyu Golden Kin...
-  Time: 09:15PM, Channels: 4
-- World Cup, Women - Australia Women Vs Pakistan Women (10/08/...
-  Time: 05:30PM, Channels: 2
-- World Cup, Women - Australia Women Vs Pakistan Women (10/08/...
-  Time: 05:30PM, Channels: 2
+  Time: 09:15PM, Channels: 2
 - T20 World Cup, Asia-Eap Qualifier, Regional Final - United A...
-  Time: 06:30PM, Channels: 2
+  Time: 06:30PM, Channels: 1
 - Odi Series Afghanistan Vs Bangladesh - Afghanistan Vs Bangla...
-  Time: 08:00PM, Channels: 2
+  Time: 08:00PM, Channels: 1
 - Uefa El W - Young Boys Women Vs Sfk 2000 Sarajevo Women (10/...
-  Time: 08:00PM, Channels: 2
-- World Cup Qualification (Caf) - Eswatini Vs Angola (10/08/25...
-  Time: 09:00PM, Channels: 4
+  Time: 08:00PM, Channels: 1
 - World Cup Qualification (Caf) - Eswatini Vs Angola (10/08/25...
   Time: 09:00PM, Channels: 2
+- World Cup Qualification (Caf) - Eswatini Vs Angola (10/08/25...
+  Time: 09:00PM, Channels: 1
 - World Cup Qualification (Caf) - Ethiopia Vs Guinea Bissau (1...
-  Time: 09:00PM, Channels: 4
+  Time: 09:00PM, Channels: 2
 - World Cup Qualification (Caf) - Ethiopia Vs Guinea Bissau (1...
+  Time: 09:00PM, Channels: 1
+- World Cup Qualification (Caf) - Libya Vs Cape Verde (10/08/2...
   Time: 09:00PM, Channels: 2
 - World Cup Qualification (Caf) - Libya Vs Cape Verde (10/08/2...
-  Time: 09:00PM, Channels: 4
-- World Cup Qualification (Caf) - Libya Vs Cape Verde (10/08/2...
-  Time: 09:00PM, Channels: 2
+  Time: 09:00PM, Channels: 1
 - World Cup Qualification (Caf) - Mauritius Vs Cameroon (10/08...
-  Time: 09:00PM, Channels: 2
+  Time: 09:00PM, Channels: 1
 - World Cup Qualification (Caf) - Mauritius Vs Cameroon (10/08...
-  Time: 09:00PM, Channels: 2
-- Wta Wuhan, China Women Singles - Jasmine Paolini Vs Yuan Yue...
-  Time: 07:00PM, Channels: 4
-- Wta Wuhan, China Women Singles - Jasmine Paolini Vs Yuan Yue...
-  Time: 07:00PM, Channels: 2
-- Wta 125K Mallorca, Spain Women Singles - Ekaterine Gorgodze ...
-  Time: 07:10PM, Channels: 2
+  Time: 09:00PM, Channels: 1
+- Czech Third League - Frydek-Mistek Vs Polanka (10/08/25)
+  Time: 09:30PM, Channels: 1
 - Premier Padel 2025  - Milan P1 Day 3 Match 4 (10/08/25)
-  Time: 08:00PM, Channels: 2
+  Time: 08:00PM, Channels: 1
 - Atp Shanghai, China Men Singles - Learner Tien Vs Daniil Med...
-  Time: 08:15PM, Channels: 6
+  Time: 08:15PM, Channels: 3
 - Atp Shanghai, China Men Singles - Learner Tien Vs Daniil Med...
-  Time: 08:15PM, Channels: 2
+  Time: 08:15PM, Channels: 1
 - Wta Wuhan, China Women Singles - Jaqueline Adina Cristian Vs...
-  Time: 09:20PM, Channels: 4
+  Time: 09:25PM, Channels: 2
 - Wta Wuhan, China Women Singles - Jaqueline Adina Cristian Vs...
-  Time: 09:20PM, Channels: 2
+  Time: 09:25PM, Channels: 1
