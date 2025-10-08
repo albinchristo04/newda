@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-08T22:33:02.847245",
+  "timestamp": "2025-10-08T22:49:29.299581",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -22,6 +22,16 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
       "group_title": "BASEBALL"
+    },
+    {
+      "event_time": "06:30AM",
+      "event_date": "10/09/25",
+      "channel_name": "HDD A",
+      "event_title": "Santino Bros Wrestling - 1Fw: Episode 2 (10/09/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AA2D4MJ3FI5HABZAEQ3HSZSAKZDUIXCZLY2HK7LFMMBAE2TFC45SYKS6KZLBIAQQDINHGZDEMV4G45LGMV4GCZLLAEBAEBAHAAIBU6LVMJZGA53DM4/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
+      "group_title": "FIGHTING"
     },
     {
       "event_time": "06:00AM",
@@ -137,6 +147,20 @@
           "channel_name": null,
           "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4AGHIWTMMJCHVVQMLCTIEJUEQYQPVMT6IRRGA4SCMDQA4QC4MR4INARGHQ2CACBA6L7OB3XE3T7OB3WE63VNEDAIEY6DIIAEB3BMZTHO/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Santino Bros Wrestling - 1Fw: Episode 2 (10/09/25)": {
+      "event_title": "Santino Bros Wrestling - 1Fw: Episode 2 (10/09/25)",
+      "event_time": "06:30AM",
+      "event_date": "10/09/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AA2D4MJ3FI5HABZAEQ3HSZSAKZDUIXCZLY2HK7LFMMBAE2TFC45SYKS6KZLBIAQQDINHGZDEMV4G45LGMV4GCZLLAEBAEBAHAAIBU6LVMJZGA53DM4/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
           "duration": null
         }
       ]

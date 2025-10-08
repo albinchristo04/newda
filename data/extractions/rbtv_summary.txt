@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-08T22:33:02.847245
+Extraction Time: 2025-10-08T22:49:29.299581
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 9
-- Total Channels: 11
+- Unique Events: 10
+- Total Channels: 12
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -16,6 +16,8 @@ EVENT BREAKDOWN:
   Time: 05:08AM, Channels: 1
 - Major League Baseball - Chicago Cubs Vs Milwaukee Brewers (1...
   Time: 05:08AM, Channels: 1
+- Santino Bros Wrestling - 1Fw: Episode 2 (10/09/25)
+  Time: 06:30AM, Channels: 1
 - Argentine Reserve League - Boca Juniors Reserve Vs Belgrano ...
   Time: 06:00AM, Channels: 1
 - Brazilian Serie A - Atletico Mineiro Vs Sport Club Do Recife...
