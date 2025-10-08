@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-08T09:39:44.548219",
+  "timestamp": "2025-10-08T09:49:36.744853",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -62,35 +62,6 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "03:20PM",
-      "event_date": "10/08/25",
-      "channel_name": "HDD A",
-      "event_title": "Wta Wuhan, China Women Singles - Aryna Sabalenka Vs Rebecca Sramkova (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGCDJNOVKEDDKFJDEOJVFM4SK5JGGZZBSIB3KRIVAVIQMNBFCPR6H4ZTGZD7PJSWC23POMIQIEY6DIIAEADDMVUXYYDEP55GKYD4O5VQEAA/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "03:20PM",
-      "event_date": "10/08/25",
-      "event_title": "Wta Wuhan, China Women Singles - Aryna Sabalenka Vs Rebecca Sramkova (10/08/25) [STREAM 25[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGCDJNOVKEDDKFJDEOJVFM4SK5JGGZZBSIB3KRIVAVIQMNBFCPR6H4ZTGZD7PJSWC23POMIQAEY6DIIAEADDMVUXYYDEP55GKYD4O5UASCQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "03:30PM",
-      "event_date": "10/08/25",
-      "channel_name": "SKA",
-      "event_title": "Premier Padel 2025  - Milan P1 Day 3 Match 1 (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAEJVSUKEKNMHGZDQN54GIZTQN54GW53JAEBRGHQ2CABAAY3EMBZGGZD7PJSWI6LXNMEAI/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
     },
     {
       "event_time": "04:00PM",
@@ -216,48 +187,6 @@
           "channel_name": "SD",
           "url": "https://world-proxifier.xyz/rbtv/p/AQ5D2IB4MMTHABR2FIUCSWC5LVDRA42FIBZXQ4ASE4WDIPTFDARCIN2WLJJFUEDHL5OTMO3QGMQWIFBFEY4SOJBXKUJHK4QQDBDRS437PJSWGZD7PJSWC23POMIQMAQMBADQSB3TP55GKYLUNVSXEYI/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Wta Wuhan, China Women Singles - Aryna Sabalenka Vs Rebecca Sramkova (10/08/25)": {
-      "event_title": "Wta Wuhan, China Women Singles - Aryna Sabalenka Vs Rebecca Sramkova (10/08/25)",
-      "event_time": "03:20PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGCDJNOVKEDDKFJDEOJVFM4SK5JGGZZBSIB3KRIVAVIQMNBFCPR6H4ZTGZD7PJSWC23POMIQIEY6DIIAEADDMVUXYYDEP55GKYD4O5VQEAA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Wta Wuhan, China Women Singles - Aryna Sabalenka Vs Rebecca Sramkova (10/08/25) [STREAM 25[HD]]": {
-      "event_title": "Wta Wuhan, China Women Singles - Aryna Sabalenka Vs Rebecca Sramkova (10/08/25) [STREAM 25[HD]]",
-      "event_time": "03:20PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGCDJNOVKEDDKFJDEOJVFM4SK5JGGZZBSIB3KRIVAVIQMNBFCPR6H4ZTGZD7PJSWC23POMIQAEY6DIIAEADDMVUXYYDEP55GKYD4O5UASCQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Premier Padel 2025  - Milan P1 Day 3 Match 1 (10/08/25)": {
-      "event_title": "Premier Padel 2025  - Milan P1 Day 3 Match 1 (10/08/25)",
-      "event_time": "03:30PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SKA",
-          "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAEJVSUKEKNMHGZDQN54GIZTQN54GW53JAEBRGHQ2CABAAY3EMBZGGZD7PJSWI6LXNMEAI/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
       ]
