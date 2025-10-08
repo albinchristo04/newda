@@ -1,12 +1,12 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Wed Oct  8 04:18:19 UTC 2025
+Last updated: Wed Oct  8 04:41:03 UTC 2025
 
-Workflow run: #1042
+Workflow run: #1043
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-10-08T04:18:18.473766
+Extracted at: 2025-10-08T04:41:02.493145
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -22,8 +22,8 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: Wwe - Wwe Nxt (10/08/25)
-Time: 08:00AM
+EVENT: National Hockey League - Los Angeles Kings Vs Colorado Avalanche (10/08/25)
+Time: 10:30AM
 Date: 10/08/25
 Category: None
 ```

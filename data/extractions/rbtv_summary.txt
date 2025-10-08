@@ -1,20 +1,18 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-08T04:18:18.473766
+Extraction Time: 2025-10-08T04:41:02.493145
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 11
-- Total Channels: 12
+- Unique Events: 10
+- Total Channels: 13
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
 - Santino Bros Wrestling - Aew Dynamite (10/08/25)
-  Time: 08:00AM, Channels: 1
-- Wwe - Wwe Nxt (10/08/25)
   Time: 08:00AM, Channels: 1
 - National Hockey League - Los Angeles Kings Vs Colorado Avala...
   Time: 10:30AM, Channels: 1
@@ -28,9 +26,9 @@ EVENT BREAKDOWN:
   Time: 11:00AM, Channels: 2
 - Wta Wuhan, China Women Singles - Hailey Baptiste Vs Jessica ...
   Time: 11:00AM, Channels: 1
-- Wta Wuhan, China Women Singles - Iva Jovic Vs Jessica Bouzas...
-  Time: 11:00AM, Channels: 1
-- Wta Wuhan, China Women Singles - Joint Maya Vs Katerina Sini...
-  Time: 11:00AM, Channels: 1
-- Wta Wuhan, China Women Singles - Moyuka Uchijima Vs Coco Gau...
+- Atp Shanghai, China Men Singles - Arthur Rinderknech Vs Jiri...
+  Time: 12:30PM, Channels: 3
+- Atp Shanghai, China Men Singles - Arthur Rinderknech Vs Jiri...
   Time: 12:30PM, Channels: 1
+- Wta Wuhan, China Women Singles - Moyuka Uchijima Vs Coco Gau...
+  Time: 12:50PM, Channels: 1

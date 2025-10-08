@@ -1,4 +1,4 @@
-Extracted at: 2025-10-08T04:18:18.473766
+Extracted at: 2025-10-08T04:41:02.493145
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -10,17 +10,6 @@ Category: None
 Available Channels (1):
   1. HDD A
      URL: https://world-proxifier.xyz/rbtv/p/AA2D4MJ3FI5HABZAEQ3HSZSAKZDUIXCZLY2HK7LFCMAQE4ABFMSSINCYIZLBIGQ2CAAWO5L2N5ZHE5L2N5ZHS5LJAEFQKAQQDINBAYLCMJ2GO7I/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp
-
-================================================================================
-
-EVENT: Wwe - Wwe Nxt (10/08/25)
-Time: 08:00AM
-Date: 10/08/25
-Category: None
-Available Channels (1):
-  1. HDD A
-     URL: https://world-proxifier.xyz/rbtv/p/AQBBKZL7MQBAOADSAUOQ2EIYDEKACBAQDJ4XKZTFPBXHKYTVMJ5XY3YGCIMR4EACA4BGEY3A/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp
 
 ================================================================================
@@ -94,30 +83,36 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: Wta Wuhan, China Women Singles - Iva Jovic Vs Jessica Bouzas Maneiro (10/08/25)
-Time: 11:00AM
+EVENT: Atp Shanghai, China Men Singles - Arthur Rinderknech Vs Jiri Lehecka (10/08/25)
+Time: 12:30PM
 Date: 10/08/25
 Category: None
-Available Channels (1):
-  1. HDD A
-     URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKECHKMJX4X2GLFJXGIZDMUMCCJRDFQYSUZI3LZDUSVKDCB6VCPJQHE3T2ZD7PJSWC23POMIQIEY6DIIAEADDMVSXG23EP55GKYD4O5UAQAA/index.m3u8
+Available Channels (3):
+  1. SKA
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LQIBDVYRKCCBRDUOZUEAQC6OZVEY5GWMZKCF4FURSZCB6FKOZQGMXDGZD7PJSWC23POMIQAAYEAEIBUGTTMRUXY2TRNVUGK6DBMVXQGAABBQCQ/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  2. MOVISTAR2
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LQIBDVYRKCCBRDUOZUEAQC6OZVEY5GWMZKCF4FURSZCB6FKOZQGMXDGZD7PJSWC23POMIQAAYEAEIBUGTTMRUXY2TRNVUGK6DBMVXQGAABBUCA/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  3. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LQIBDVYRKCCBRDUOZUEAQC6OZVEY5GWMZKCF4FURSZCB6FKOZQGMXDGZD7PJSWC23POMIQIEY6DIIACCLKNVSX22TEP55GKYD4O5VQCCY/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
 
 ================================================================================
 
-EVENT: Wta Wuhan, China Women Singles - Joint Maya Vs Katerina Siniakova (10/08/25)
-Time: 11:00AM
+EVENT: Atp Shanghai, China Men Singles - Arthur Rinderknech Vs Jiri Lehecka (10/08/25) [STREAM 23[HD]]
+Time: 12:30PM
 Date: 10/08/25
 Category: None
 Available Channels (1):
-  1. HDD A
-     URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKE26LNOUAED5KFETE5JGGZZA6NBEEAQCEKZYCFQVUWSZKFNV6JJUOBXXQZDGOBXXQ23TPENRQEYGAAAAABLCMBYG66DEM5TXOY3SOA/index.m3u8
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LQIBDVYRKCCBRDUOZUEAQC6OZVEY5GWMZKCF4FURSZCB6FKOZQGMXDGZD7PJSWC23POMIQAEY6DIIACCLKNVSX22TEP55GKYD4O5VQCBQ/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
 
 ================================================================================
 
 EVENT: Wta Wuhan, China Women Singles - Moyuka Uchijima Vs Coco Gauff (10/08/25)
-Time: 12:30PM
+Time: 12:50PM
 Date: 10/08/25
 Category: None
 Available Channels (1):

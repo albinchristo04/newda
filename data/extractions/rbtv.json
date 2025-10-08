@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-08T04:18:18.473766",
+  "timestamp": "2025-10-08T04:41:02.493145",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -10,16 +10,6 @@
       "channel_name": "HDD A",
       "event_title": "Santino Bros Wrestling - Aew Dynamite (10/08/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/AA2D4MJ3FI5HABZAEQ3HSZSAKZDUIXCZLY2HK7LFCMAQE4ABFMSSINCYIZLBIGQ2CAAWO5L2N5ZHE5L2N5ZHS5LJAEFQKAQQDINBAYLCMJ2GO7I/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
-      "group_title": "FIGHTING"
-    },
-    {
-      "event_time": "08:00AM",
-      "event_date": "10/08/25",
-      "channel_name": "HDD A",
-      "event_title": "Wwe - Wwe Nxt (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQBBKZL7MQBAOADSAUOQ2EIYDEKACBAQDJ4XKZTFPBXHKYTVMJ5XY3YGCIMR4EACA4BGEY3A/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
       "group_title": "FIGHTING"
@@ -93,27 +83,46 @@
       "group_title": "TENNIS"
     },
     {
-      "event_time": "11:00AM",
+      "event_time": "12:30PM",
       "event_date": "10/08/25",
-      "channel_name": "HDD A",
-      "event_title": "Wta Wuhan, China Women Singles - Iva Jovic Vs Jessica Bouzas Maneiro (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKECHKMJX4X2GLFJXGIZDMUMCCJRDFQYSUZI3LZDUSVKDCB6VCPJQHE3T2ZD7PJSWC23POMIQIEY6DIIAEADDMVSXG23EP55GKYD4O5UAQAA/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "11:00AM",
-      "event_date": "10/08/25",
-      "channel_name": "HDD A",
-      "event_title": "Wta Wuhan, China Women Singles - Joint Maya Vs Katerina Siniakova (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKE26LNOUAED5KFETE5JGGZZA6NBEEAQCEKZYCFQVUWSZKFNV6JJUOBXXQZDGOBXXQ23TPENRQEYGAAAAABLCMBYG66DEM5TXOY3SOA/index.m3u8",
+      "channel_name": "SKA",
+      "event_title": "Atp Shanghai, China Men Singles - Arthur Rinderknech Vs Jiri Lehecka (10/08/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LQIBDVYRKCCBRDUOZUEAQC6OZVEY5GWMZKCF4FURSZCB6FKOZQGMXDGZD7PJSWC23POMIQAAYEAEIBUGTTMRUXY2TRNVUGK6DBMVXQGAABBQCQ/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
     },
     {
       "event_time": "12:30PM",
+      "event_date": "10/08/25",
+      "channel_name": "MOVISTAR2",
+      "event_title": "Atp Shanghai, China Men Singles - Arthur Rinderknech Vs Jiri Lehecka (10/08/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LQIBDVYRKCCBRDUOZUEAQC6OZVEY5GWMZKCF4FURSZCB6FKOZQGMXDGZD7PJSWC23POMIQAAYEAEIBUGTTMRUXY2TRNVUGK6DBMVXQGAABBUCA/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "12:30PM",
+      "event_date": "10/08/25",
+      "channel_name": "HDD A",
+      "event_title": "Atp Shanghai, China Men Singles - Arthur Rinderknech Vs Jiri Lehecka (10/08/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LQIBDVYRKCCBRDUOZUEAQC6OZVEY5GWMZKCF4FURSZCB6FKOZQGMXDGZD7PJSWC23POMIQIEY6DIIACCLKNVSX22TEP55GKYD4O5VQCCY/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "12:30PM",
+      "event_date": "10/08/25",
+      "event_title": "Atp Shanghai, China Men Singles - Arthur Rinderknech Vs Jiri Lehecka (10/08/25) [STREAM 23[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LQIBDVYRKCCBRDUOZUEAQC6OZVEY5GWMZKCF4FURSZCB6FKOZQGMXDGZD7PJSWC23POMIQAEY6DIIACCLKNVSX22TEP55GKYD4O5VQCBQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "12:50PM",
       "event_date": "10/08/25",
       "channel_name": "VDO",
       "event_title": "Wta Wuhan, China Women Singles - Moyuka Uchijima Vs Coco Gauff (10/08/25)",
@@ -133,20 +142,6 @@
         {
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/AA2D4MJ3FI5HABZAEQ3HSZSAKZDUIXCZLY2HK7LFCMAQE4ABFMSSINCYIZLBIGQ2CAAWO5L2N5ZHE5L2N5ZHS5LJAEFQKAQQDINBAYLCMJ2GO7I/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Wwe - Wwe Nxt (10/08/25)": {
-      "event_title": "Wwe - Wwe Nxt (10/08/25)",
-      "event_time": "08:00AM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQBBKZL7MQBAOADSAUOQ2EIYDEKACBAQDJ4XKZTFPBXHKYTVMJ5XY3YGCIMR4EACA4BGEY3A/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
           "duration": null
         }
@@ -242,29 +237,41 @@
         }
       ]
     },
-    "Wta Wuhan, China Women Singles - Iva Jovic Vs Jessica Bouzas Maneiro (10/08/25)": {
-      "event_title": "Wta Wuhan, China Women Singles - Iva Jovic Vs Jessica Bouzas Maneiro (10/08/25)",
-      "event_time": "11:00AM",
+    "Atp Shanghai, China Men Singles - Arthur Rinderknech Vs Jiri Lehecka (10/08/25)": {
+      "event_title": "Atp Shanghai, China Men Singles - Arthur Rinderknech Vs Jiri Lehecka (10/08/25)",
+      "event_time": "12:30PM",
       "event_date": "10/08/25",
       "category": null,
       "channels": [
         {
+          "channel_name": "SKA",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LQIBDVYRKCCBRDUOZUEAQC6OZVEY5GWMZKCF4FURSZCB6FKOZQGMXDGZD7PJSWC23POMIQAAYEAEIBUGTTMRUXY2TRNVUGK6DBMVXQGAABBQCQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "MOVISTAR2",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LQIBDVYRKCCBRDUOZUEAQC6OZVEY5GWMZKCF4FURSZCB6FKOZQGMXDGZD7PJSWC23POMIQAAYEAEIBUGTTMRUXY2TRNVUGK6DBMVXQGAABBUCA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
           "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKECHKMJX4X2GLFJXGIZDMUMCCJRDFQYSUZI3LZDUSVKDCB6VCPJQHE3T2ZD7PJSWC23POMIQIEY6DIIAEADDMVSXG23EP55GKYD4O5UAQAA/index.m3u8",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LQIBDVYRKCCBRDUOZUEAQC6OZVEY5GWMZKCF4FURSZCB6FKOZQGMXDGZD7PJSWC23POMIQIEY6DIIACCLKNVSX22TEP55GKYD4O5VQCCY/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
       ]
     },
-    "Wta Wuhan, China Women Singles - Joint Maya Vs Katerina Siniakova (10/08/25)": {
-      "event_title": "Wta Wuhan, China Women Singles - Joint Maya Vs Katerina Siniakova (10/08/25)",
-      "event_time": "11:00AM",
+    "Atp Shanghai, China Men Singles - Arthur Rinderknech Vs Jiri Lehecka (10/08/25) [STREAM 23[HD]]": {
+      "event_title": "Atp Shanghai, China Men Singles - Arthur Rinderknech Vs Jiri Lehecka (10/08/25) [STREAM 23[HD]]",
+      "event_time": "12:30PM",
       "event_date": "10/08/25",
       "category": null,
       "channels": [
         {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKE26LNOUAED5KFETE5JGGZZA6NBEEAQCEKZYCFQVUWSZKFNV6JJUOBXXQZDGOBXXQ23TPENRQEYGAAAAABLCMBYG66DEM5TXOY3SOA/index.m3u8",
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LQIBDVYRKCCBRDUOZUEAQC6OZVEY5GWMZKCF4FURSZCB6FKOZQGMXDGZD7PJSWC23POMIQAEY6DIIACCLKNVSX22TEP55GKYD4O5VQCBQ/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
@@ -272,7 +279,7 @@
     },
     "Wta Wuhan, China Women Singles - Moyuka Uchijima Vs Coco Gauff (10/08/25)": {
       "event_title": "Wta Wuhan, China Women Singles - Moyuka Uchijima Vs Coco Gauff (10/08/25)",
-      "event_time": "12:30PM",
+      "event_time": "12:50PM",
       "event_date": "10/08/25",
       "category": null,
       "channels": [
