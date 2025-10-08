@@ -1,8 +1,989 @@
 {
-  "timestamp": "2025-10-08T19:36:24.965793",
+  "timestamp": "2025-10-08T19:49:21.897417",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
-  "segments": [],
+  "segments": [
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Detroit Tigers Vs Seattle Mariners [HDK A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4ABG4YCOPZMEZVRCMCWK5AUOECGIMIAAMBRGETCQMDQBAZTSLBXKRAEAFA2DIIAI437PJSWIZD7PJSWA63VNECQOCYUDINBAATEM5RXAZA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Detroit Tigers Vs Seattle Mariners [STREAM 23[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4ABG4YCOPZMEZVRCMCWK5AUOECGIMIAAMBRGETCQMDQBAZTSLBXKRAEAFA2DIIAI437PJSWAZD7PJSWA63VNECQOCYUDINBAATEM5RXAZY/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Detroit Tigers Vs Seattle Mariners [HDK A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4ABG4YCOPZMEZVRCMCWK5AUOECGIMIAAMBRGETCQMDQBAZTSLBXKRAEAFA2DIIAI437PJSWIZD7PJSWA63VNECQOCYUDINBAATEM5RXAZA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL",
+      "title": "Major League Baseball - Detroit Tigers Vs Seattle Mariners [STREAM 23[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4ABG4YCOPZMEZVRCMCWK5AUOECGIMIAAMBRGETCQMDQBAZTSLBXKRAEAFA2DIIAI437PJSWAZD7PJSWA63VNECQOCYUDINBAATEM5RXAZY/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Adriatic Basketball D2 - Helios Suns Vs Sloboda [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIYSELBTGA6DGZIQFI3DEVCGKFKVYXAQORQXK7LFDIQTSOJKEFVRMLC7IEJUEQYQMNODYNZ7EEZWI732MVQGW33TCEARGHQ2CAAQS2TMNFZWOZD7PJSWA7DXNIBQI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Adriatic Basketball D2 - Helios Suns Vs Sloboda [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIYSELBTGA6DGZIQFI3DEVCGKFKVYXAQORQXK7LFDIQTSOJKEFVRMLC7IEJUEQYQMNODYNZ7EEZWI732MVQGW33TCEARGHQ2CAAQS2TMNFZWOZD7PJSWA7DXNIBQI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Baloncesto Euroliga Femenina - Olympiacos Piraeus Vs Valencia Basket [MOVISTAR]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CE2DYKR4E4YCGMJ5NMACYQ25L5OVOUIQKY3DQNJLHMVDI4DIOICCSIC4IJNFKU27IMIAGPBCEQ3TCJTQGMQWWEZYLVLV2V2ZKEIHEMRGHMQCMZD7PJSWA23POMIQAAYEAEIBUGTTM5QHKYDUNRSGK6DBMVXQGAAAA4BQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Baloncesto Euroliga Femenina - Olympiacos Piraeus Vs Valencia Basket [MOVISTAR]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CE2DYKR4E4YCGMJ5NMACYQ25L5OVOUIQKY3DQNJLHMVDI4DIOICCSIC4IJNFKU27IMIAGPBCEQ3TCJTQGMQWWEZYLVLV2V2ZKEIHEMRGHMQCMZD7PJSWA23POMIQAAYEAEIBUGTTM5QHKYDUNRSGK6DBMVXQGAAAA4BQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Basketball Champions League - Alba Berlin Vs Elan Chalon-Saone [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFCMTSOOAROBLEMXCZLYICKJTQAA7CKO3QAY5CUKJWL4PWAVK7LZKRA6L7OB3XE3T7OBZXEYLPPEAAWCQNBEDAIEDZP5YHOZLWMZRXA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Basketball Champions League - Alba Berlin Vs Elan Chalon-Saone [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFCMTSOOAROBLEMXCZLYICKJTQAA7CKO3QAY5CUKJWL4PWAVK7LZKRA6L7OB3XE3T7OB3HEYLPPEAAWCQNBEDAIEDZP5YHOZLWMZRHE/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Basketball Champions League - Alba Berlin Vs Elan Chalon-Saone [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFCMTSOOAROBLEMXCZLYICKJTQAA7CKO3QAY5CUKJWL4PWAVK7LZKRA6L7OB3XE3T7OBZXEYLPPEAAWCQNBEDAIEDZP5YHOZLWMZRXA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Basketball Champions League - Alba Berlin Vs Elan Chalon-Saone [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFCMTSOOAROBLEMXCZLYICKJTQAA7CKO3QAY5CUKJWL4PWAVK7LZKRA6L7OB3XE3T7OB3HEYLPPEAAWCQNBEDAIEDZP5YHOZLWMZRHE/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Basketball Champions League - Lighthouse Trapani Vs Isla De Tenerife Canarias [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFDYRCEMKFLJOECQ2VCBSCCNBAEQ6C25JGGZZAENRVKAJHOUIQMRKV4NRHHERTOZAWGEVTGOJMHBBBEGI6CABBAGTZOVTGK6DOOVQXY23SPRXQMEQZDYIAEBYCMBQGI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Basketball Champions League - Lighthouse Trapani Vs Isla De Tenerife Canarias [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFDYRCEMKFLJOECQ2VCBSCCNBAEQ6C25JGGZZAENRVKAJHOUIQMRKV4NRHHERTOZAWGEVTGOJMHBBBEGI6CABBAGTZOVRWK6DOOVQXY23SPRXQMEQZDYIAEBYCMBTGM/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Basketball Champions League - Lighthouse Trapani Vs Isla De Tenerife Canarias [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFDYRCEMKFLJOECQ2VCBSCCNBAEQ6C25JGGZZAENRVKAJHOUIQMRKV4NRHHERTOZAWGEVTGOJMHBBBEGI6CABBAGTZOVTGK6DOOVQXY23SPRXQMEQZDYIAEBYCMBQGI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Basketball Champions League - Lighthouse Trapani Vs Isla De Tenerife Canarias [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFDYRCEMKFLJOECQ2VCBSCCNBAEQ6C25JGGZZAENRVKAJHOUIQMRKV4NRHHERTOZAWGEVTGOJMHBBBEGI6CABBAGTZOVRWK6DOOVQXY23SPRXQMEQZDYIAEBYCMBTGM/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Basketball Champions League - Subotica Spartak Vs Le Mans Sarthe [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFAE7CONSFLNIFKEDDIBISCIJRFZZDEJTQBE3WWCBYL5ARGZ2RIJCFQNTVPJXXE5TVPJXXE7LFOMNREAQNBEEQSBLGOV5G64TWMJRHMYLY/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Basketball Champions League - Subotica Spartak Vs Le Mans Sarthe [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFAE7CONSFLNIFKEDDIBISCIJRFZZDEJTQBE3WWCBYL5ARGZ2RIJCFQNTVPJXXE5TVPJXXE6DFOMNREAQNBEEQSBLGOV5G64TWMJRHMYD2/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Basketball Champions League - Subotica Spartak Vs Le Mans Sarthe [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFAE7CONSFLNIFKEDDIBISCIJRFZZDEJTQBE3WWCBYL5ARGZ2RIJCFQNTVPJXXE5TVPJXXE7LFOMNREAQNBEEQSBLGOV5G64TWMJRHMYLY/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Basketball Champions League - Subotica Spartak Vs Le Mans Sarthe [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFAE7CONSFLNIFKEDDIBISCIJRFZZDEJTQBE3WWCBYL5ARGZ2RIJCFQNTVPJXXE5TVPJXXE6DFOMNREAQNBEEQSBLGOV5G64TWMJRHMYD2/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Basketball Champions League - Telindus Oostende Vs As Karditsas [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFAYXCSMC7KZDEOED7L5BSOMB6EE3WIIZDMUJRQZISKBAFOXKEINIUG437PJSWAZD7PJSWI23POMIQGCQNBEEQMCLTP55GKYDTM5RXAYA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Basketball Champions League - Telindus Oostende Vs As Karditsas [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFAYXCSMC7KZDEOED7L5BSOMB6EE3WIIZDMUJRQZISKBAFOXKEINIUG437PJSWAZD7PJSWC23POMIQGCQNBEEQMCLTP55GKYDTM5RXCYQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Basketball Champions League - Telindus Oostende Vs As Karditsas [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFAYXCSMC7KZDEOED7L5BSOMB6EE3WIIZDMUJRQZISKBAFOXKEINIUG437PJSWAZD7PJSWI23POMIQGCQNBEEQMCLTP55GKYDTM5RXAYA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Basketball Champions League - Telindus Oostende Vs As Karditsas [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFAYXCSMC7KZDEOED7L5BSOMB6EE3WIIZDMUJRQZISKBAFOXKEINIUG437PJSWAZD7PJSWC23POMIQGCQNBEEQMCLTP55GKYDTM5RXCYQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Basketball Champions League - Unicaja Malaga Vs Mersin Metropolitan Municipality Sports Club [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFA4SSYOSQLBJBI7KRLRITINDQGMQWIGBVG4QSEK3ZPRLUORS7IBPVYORBGEVXECJAHYWDCIRVHBOVWR2NCBRUAXZBEERWKEJIEAZGK6DBMVVRCGAZCQDBAGQ2ONSGS7DLPVRWQZLYMFSWWBQAAAAQC/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Basketball Champions League - Unicaja Malaga Vs Mersin Metropolitan Municipality Sports Club [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFA4SSYOSQLBJBI7KRLRITINDQGMQWIGBVG4QSEK3ZPRLUORS7IBPVYORBGEVXECJAHYWDCIRVHBOVWR2NCBRUAXZBEERWKEJIEAZGK6DBMVVRCGAZCQBRAGQ2ONSGS7DLPVRWQZLYMFSWWBQAAADQQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Basketball Champions League - Unicaja Malaga Vs Mersin Metropolitan Municipality Sports Club [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFA4SSYOSQLBJBI7KRLRITINDQGMQWIGBVG4QSEK3ZPRLUORS7IBPVYORBGEVXECJAHYWDCIRVHBOVWR2NCBRUAXZBEERWKEJIEAZGK6DBMVVRCGAZCQDBAGQ2ONSGS7DLPVRWQZLYMFSWWBQAAAAQC/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Basketball Champions League - Unicaja Malaga Vs Mersin Metropolitan Municipality Sports Club [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFA4SSYOSQLBJBI7KRLRITINDQGMQWIGBVG4QSEK3ZPRLUORS7IBPVYORBGEVXECJAHYWDCIRVHBOVWR2NCBRUAXZBEERWKEJIEAZGK6DBMVVRCGAZCQBRAGQ2ONSGS7DLPVRWQZLYMFSWWBQAAADQQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Eurocup Basketball - La Bruixa D'Or Manresa Vs Slask Wroclaw [MOVISTAR]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQRGESXABZTHAXDYRKQKJMFYEA5CAPTI4AHEAYTYKBEOIXWEFSDCJ7FKXSCKVBTE5JGGZZBOOJRGY4WWERLLZIV6VKHCANBU43HOBXXQZDHMB2WG23POMIQGCQNBEEQOCLTP55GKZDWM5RHEYA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Eurocup Basketball - La Bruixa D'Or Manresa Vs Slask Wroclaw [MOVISTAR]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQRGESXABZTHAXDYRKQKJMFYEA5CAPTI4AHEAYTYKBEOIXWEFSDCJ7FKXSCKVBTE5JGGZZBOOJRGY4WWERLLZIV6VKHCANBU43HOBXXQZDHMB2WG23POMIQGCQNBEEQOCLTP55GKZDWM5RHEYA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Euroleague - Hapoel Tel-Aviv Vs Maccabi Tel Aviv [MOVISTAR2]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNNUHS6KTINNVKXAQMQ3DS7IEEQWSG4BTEFVQQOCSKFJFMWIQMRKT65IRGM5TE5L2N5ZHSZLTDMJACBAAAEIBU6LVMF6GW7LMMV6XEYLPPEDQAAIGAAAQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Euroleague - Hapoel Tel-Aviv Vs Maccabi Tel Aviv [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNNUHS6KTINNVKXAQMQ3DS7IEEQWSG4BTEFVQQOCSKFJFMWIQMRKT65IRGM5TE5L2N5ZHSZLTDMJAKFA2DIIAC2TMNF6GO7DVPJXXE6LSNMBACAI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Euroleague - Hapoel Tel-Aviv Vs Maccabi Tel Aviv [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNNUHS6KTINNVKXAQMQ3DS7IEEQWSG4BTEFVQQOCSKFJFMWIQMRKT65IRGM5TE5L2N5ZHSZLTDMJAAFA2DIIAC2TMNF6GO7DVPJXXE6LSNMBACAY/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Euroleague - Hapoel Tel-Aviv Vs Maccabi Tel Aviv [MOVISTAR2]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNNUHS6KTINNVKXAQMQ3DS7IEEQWSG4BTEFVQQOCSKFJFMWIQMRKT65IRGM5TE5L2N5ZHSZLTDMJACBAAAEIBU6LVMF6GW7LMMV6XEYLPPEDQAAIGAAAQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Euroleague - Hapoel Tel-Aviv Vs Maccabi Tel Aviv [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNNUHS6KTINNVKXAQMQ3DS7IEEQWSG4BTEFVQQOCSKFJFMWIQMRKT65IRGM5TE5L2N5ZHSZLTDMJAKFA2DIIAC2TMNF6GO7DVPJXXE6LSNMBACAI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Euroleague - Hapoel Tel-Aviv Vs Maccabi Tel Aviv [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNNUHS6KTINNVKXAQMQ3DS7IEEQWSG4BTEFVQQOCSKFJFMWIQMRKT65IRGM5TE5L2N5ZHSZLTDMJAAFA2DIIAC2TMNF6GO7DVPJXXE6LSNMBACAY/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Euroleague Women - Cercle Jean Mace Bourges Women Vs Zvvz Usk Prague Women [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNMJDMXCXLUKB2EDTKUQTMPBAOIHDAMJLOIDCIOSUCJYVWRKCK5KSA5IHFI7SCO3QGMQWWHYPM5UBGYLDPMIGAIJUG4YDOZACH4UDOJLFOMNREAIUDINBAA3TP55GKY35NRUXYZDYMVZRWEQBAMBAGAQE/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Euroleague Women - Cercle Jean Mace Bourges Women Vs Zvvz Usk Prague Women [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNMJDMXCXLUKB2EDTKUQTMPBAOIHDAMJLOIDCIOSUCJYVWRKCK5KSA5IHFI7SCO3QGMQWWHYPM5UBGYLDPMIGAIJUG4YDOZACH4UDOJLFOMNREAIUDINBAA3TP55GKY35NRUXYZDYMVZRWEQBAMBAGAQE/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Euroleague Women - Spar Girona Women Vs Lotos Gdynia Women [MOVISTAR2]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNMJDMXCXLUKB2EDDIAZCO4ACHM3DUPREOIOCUNCULQJUEQYQPRPSOORDMUKSALB6FQZWWERWLRLV2FA2DIIAE437PJSWA5DFMFSXQYLFNAEAWCQNAYBBAGTZOVTHOYDWMJQQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Euroleague Women - Spar Girona Women Vs Lotos Gdynia Women [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNMJDMXCXLUKB2EDDIAZCO4ACHM3DUPREOIOCUNCULQJUEQYQPRPSOORDMUKSALB6FQZWWERWLRLV2FA2DIIAE437PJSWCZD7PJSWG4T4MAEAIAIUDINBAATEM5RXOYI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Euroleague Women - Spar Girona Women Vs Lotos Gdynia Women [MOVISTAR2]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNMJDMXCXLUKB2EDDIAZCO4ACHM3DUPREOIOCUNCULQJUEQYQPRPSOORDMUKSALB6FQZWWERWLRLV2FA2DIIAE437PJSWA5DFMFSXQYLFNAEAWCQNAYBBAGTZOVTHOYDWMJQQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Euroleague Women - Spar Girona Women Vs Lotos Gdynia Women [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNMJDMXCXLUKB2EDDIAZCO4ACHM3DUPREOIOCUNCULQJUEQYQPRPSOORDMUKSALB6FQZWWERWLRLV2FA2DIIAE437PJSWCZD7PJSWG4T4MAEAIAIUDINBAATEM5RXOYI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Europe Women\u2019S Challenge Basketball - Castors Braine Women Vs Frisco Sika Brno Women [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKRCEF2QOKR7FYV3XMNLIAKHGWCRLQ7TAPRCG5SBOMJWHEXDCO2QLZPRIHIQONISAIJ7G4QWIFZCEQ5SKIDZMZOV4UK6CBDEG4YTEIWCCJZ2OALDWIBEPFZUAXK3CBTV6XJWHNYG66DEM5YG66DLOZ4RWGATAYAAAAIAMJQHA33YMRTWO53BPF6Q/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Europe Women\u2019S Challenge Basketball - Castors Braine Women Vs Frisco Sika Brno Women [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKRCEF2QOKR7FYV3XMNLIAKHGWCRLQ7TAPRCG5SBOMJWHEXDCO2QLZPRIHIQONISAIJ7G4QWIFZCEQ5SKIDZMZOV4UK6CBDEG4YTEIWCCJZ2OALDWIBEPFZUAXK3CBTV6XJWHNYG66DEM5YG66DLOZ4RWGATAYAAAAIAMJQHA33YMRTWO53BPF6Q/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Europe Women\u2019S Challenge Basketball - Estudiantes Women Vs Angers Women [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKRCEF2QOKR7FYV3XMNLIAKHGWCRLQ7TAPRCG5SBOMJWHEXDCO2QLZPRIHIQOVBSOIBUFQZSUIJVGZZBYKRUKROBGQSDCBYV4NBQEI3HEEZ2HUQDY23POMIQAEY6DIIAGEDZP5YHI235NRUXA23LN5ZRCAAEAYBQEAQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Europe Women\u2019S Challenge Basketball - Estudiantes Women Vs Angers Women [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKRCEF2QOKR7FYV3XMNLIAKHGWCRLQ7TAPRCG5SBOMJWHEXDCO2QLZPRIHIQOVBSOIBUFQZSUIJVGZZBYKRUKROBGQSDCBYV4NBQEI3HEEZ2HUQDY23POMIQAEY6DIIAGEDZP5YHI235NRUXA23LN5ZRCAAEAYBQEAQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Europe Women\u2019S Challenge Basketball - Gernika Bizkaia Women Vs Sportiva Azores Airlines Women [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKRCEF2QOKR7FYV3XMNLIAKHGWCRLQ7TAPRCG5SBOMJWHEXDCO2QLZPRIHIQO5KSCOZZFYZWIFZZH44SULBYCFSVYWKVLYIEMIDVAM2T2NRBHEZTG2YEENPEAVSHCBYVSQR7HQ7CAILEAI7SQNZFMVZRWEQBCQNBUEADON7XUZLAORSWC5LDPVSXGGYSAEBQEAYCBE/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Europe Women\u2019S Challenge Basketball - Gernika Bizkaia Women Vs Sportiva Azores Airlines Women [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKRCEF2QOKR7FYV3XMNLIAKHGWCRLQ7TAPRCG5SBOMJWHEXDCO2QLZPRIHIQO5KSCOZZFYZWIFZZH44SULBYCFSVYWKVLYIEMIDVAM2T2NRBHEZTG2YEENPEAVSHCBYVSQR7HQ7CAILEAI7SQNZFMVZRWEQBCQNBUEADON7XUZLAORSWC5LDPVSXGGYSAEBQEAYCBE/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Serie A2 Basket - Carmatic Pistoia Vs Lib.Basketlivorno [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGEZIQFI3DEVCGCMMRA42RII7DIJBMGFSAKOJWEYSCYOARIRABI7CZKIPBCNBDFY3TAGJZGM6TSKZWCEMBSFACCANBU43GOBXXQZDENF6GW4TSNIIRQGIUAIDQEA3HNU/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Serie A2 Basket - Carmatic Pistoia Vs Lib.Basketlivorno [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGEZIQFI3DEVCGCMMRA42RII7DIJBMGFSAKOJWEYSCYOARIRABI7CZKIPBCNBDFY3TAGJZGM6TSKZWCEMBSFACCANBU43GOBXXQZDENF6GW4TSNIIRQGIUAIDQEA3HNU/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Serie A2 Basket - Edilizia Moderna Rimini Vs Remer Treviglio [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGEZIQFI3DEVCGCMMRA5KULE7TYKRMGNSBQPZBG44SWOARMBNFSWK6LEICKJTQC43SSMBCMUDDSIBPLBKV6XK7CANBU43HOBXXQZDGOBXXQ23UMAEAWCQDAIIBUGTTM5TXOYLQM4/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Serie A2 Basket - Edilizia Moderna Rimini Vs Remer Treviglio [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGEZIQFI3DEVCGCMMRA5KULE7TYKRMGNSBQPZBG44SWOARMBNFSWK6LEICKJTQC43SSMBCMUDDSIBPLBKV6XK7CANBU43HOBXXQZDGOBXXQ23UMAEAWCQDAIIBUGTTM5TXOYLQM4/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Serie A2 Basket - Juvi Ferraroni Cremona 1952 Vs Avellino Basket [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGEZIQFI3DEVCGCMMRA6SFIY5HKFRAEA3DIIRKHQRGKGSDK5PFWXSRCAAWUYDCMUSDO5JRGM3SOKJQL5ORGVSRINNVKJ3VPJXXE5TVPJXXE6DFOMNREAQNBEEQSB3HOV5G64TWMJRHMYLS/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Serie A2 Basket - Juvi Ferraroni Cremona 1952 Vs Avellino Basket [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGEZIQFI3DEVCGCMMRA6SFIY5HKFRAEA3DIIRKHQRGKGSDK5PFWXSRCAAWUYDCMUSDO5JRGM3SOKJQL5ORGVSRINNVKJ3VPJXXE5TVPJXXE6DFOMNREAQNBEEQSB3HOV5G64TWMJRHMYLS/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Serie A2 Basket - Mec-Energy Roseto Vs Victoria Libertas Pesaro [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGEZIQFI3DEVCGCMMRA7KVKN7BAPRAEARSY4AXHU4CALK6CJCUOEDGLFJSOORCFQZWIGJZE43TSMJYIIJGGUKDKFBF6437PJSWAZD7PJSWC23POMIQGCQNBEEQQADTP55GKYDTM5RXAYI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Serie A2 Basket - Mec-Energy Roseto Vs Victoria Libertas Pesaro [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGEZIQFI3DEVCGCMMRA7KVKN7BAPRAEARSY4AXHU4CALK6CJCUOEDGLFJSOORCFQZWIGJZE43TSMJYIIJGGUKDKFBF6437PJSWAZD7PJSWC23POMIQGCQNBEEQQADTP55GKYDTM5RXAYI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Serie A2 Basket - New Basket Brindisi Vs Scafati Basket [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGEZIQFI3DEVCGCMMRA7SVI5ZROMJWHEQSC4AHEARCWPKYIFNBIRSDCBRTANBWEQTC25ISEQQSAIBNCEMBSFACCANBU43GOBXXQZDENF6GW4TSNYIRQGIUAIDQEA3HMI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Serie A2 Basket - New Basket Brindisi Vs Scafati Basket [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGEZIQFI3DEVCGCMMRA7SVI5ZROMJWHEQSC4AHEARCWPKYIFNBIRSDCBRTANBWEQTC25ISEQQSAIBNCEMBSFACCANBU43GOBXXQZDENF6GW4TSNYIRQGIUAIDQEA3HMI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Serie A2 Basket - Ravenna Vs Power Basket Nocera [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGEZIQFI3DEVCGCMMRAYSRIY3DWPREOIZCM4AVHU6CAKYROBJEOW2VIQIB2ORTEAQCK5L2N5ZHSZLTDMJAAFA2DIIAEY3FMJ2WO4TVPJXXE6LSNMBAMBQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Serie A2 Basket - Ravenna Vs Power Basket Nocera [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGEZIQFI3DEVCGCMMRAYSRIY3DWPREOIZCM4AVHU6CAKYROBJEOW2VIQIB2ORTEAQCK5L2N5ZHSZLTDMJAAFA2DIIAEY3FMJ2WO4TVPJXXE6LSNMBAMBQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Serie A2 Basket - Scaligera Basket Verona Vs Pms Torino [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGEZIQFI3DEVCGCMMRAY2TKE7TYNZAEASXKEREEEQCALIRMRLEMX26KEICKJTQCUPRO5IEFIQCEKZWCEMBSFACCANBU43GOBXXQZDENF6GW4TSNEIRQGIUAIDQEA3HMQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Serie A2 Basket - Scaligera Basket Verona Vs Pms Torino [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGEZIQFI3DEVCGCMMRAY2TKE7TYNZAEASXKEREEEQCALIRMRLEMX26KEICKJTQCUPRO5IEFIQCEKZWCEMBSFACCANBU43GOBXXQZDENF6GW4TSNEIRQGIUAIDQEA3HMQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Serie A2 Basket - Tramec Cento Vs Fulgor Libertas Forli [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGEZIQFI3DEVCGCMMRAZCCKE7DAM3FCEQTWJBKOI6TM6LXI5PVGX2CCB6DUNZVG4TCKJTQAM6TSKJQCEMBSFACCANBU43GOBXXQZDENF6GW4TSN4IRQGIUAIDQEA3HMY/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Serie A2 Basket - Tramec Cento Vs Fulgor Libertas Forli [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGEZIQFI3DEVCGCMMRAZCCKE7DAM3FCEQTWJBKOI6TM6LXI5PVGX2CCB6DUNZVG4TCKJTQAM6TSKJQCEMBSFACCANBU43GOBXXQZDENF6GW4TSN4IRQGIUAIDQEA3HMY/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Serie A2 Basket - Ueb Gesteco Cividale Vs Real Sebastiani Rieti [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGEZIQFI3DEVCGCMMRAZLVOJZRENJWEYQTMP3FCERDGMCVKNPVCECGIMIACMBRFFZBOMBSEQQT6LBYL5NRGZSZKVCFS437PJSWAZD7PJSWC23POMIQGCQNBEEQOBLTP55GKYDTM5RXCZA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Serie A2 Basket - Ueb Gesteco Cividale Vs Real Sebastiani Rieti [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGEZIQFI3DEVCGCMMRAZLVOJZRENJWEYQTMP3FCERDGMCVKNPVCECGIMIACMBRFFZBOMBSEQQT6LBYL5NRGZSZKVCFS437PJSWAZD7PJSWC23POMIQGCQNBEEQOBLTP55GKYDTM5RXCZA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Serie A2 Basket - Urania Milano Vs Biancoblu Basket Bologna [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGEZIQFI3DEVCGCMMRAZKCKE6TYMLFD4WTSMJLHVVTGKQROBNFKXSTL5JD6IDQA4ZTOPRVGFZASKRVLZKV2VIQDINBAYLVPJXXE53VPJXXE6T4MAEAWBAFCANBUEDBMJRHMZTQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL",
+      "title": "Serie A2 Basket - Urania Milano Vs Biancoblu Basket Bologna [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AAYCELBXMQKGEZIQFI3DEVCGCMMRAZKCKE6TYMLFD4WTSMJLHVVTGKQROBNFKXSTL5JD6IDQA4ZTOPRVGFZASKRVLZKV2VIQDINBAYLVPJXXE53VPJXXE6T4MAEAWBAFCANBUEDBMJRHMZTQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "C - 9 Benjamin - Cd El Pilar Vs Ad Nervi\u00f3n  - Cd Antonio Puerta [VFC]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CB2X2ZLLMQLRKCYYBIEBA7YSDYKHG5AQOU7XKABMHYSSO4BTEFVQIHIRPRLEMRSZ6OBT25LQNBZAOELQAQ6D6KRXLBORGZCFKVBEIMTVPJXXE5LVPJXXE6LVNEABEGI6CACAECLLMRUXA4TOP5YHGYDZOZWAO/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "C - 9 Benjamin - Cd El Pilar Vs Ad Nervi\u00f3n  - Cd Antonio Puerta [VFC]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CB2X2ZLLMQLRKCYYBIEBA7YSDYKHG5AQOU7XKABMHYSSO4BTEFVQIHIRPRLEMRSZ6OBT25LQNBZAOELQAQ6D6KRXLBORGZCFKVBEIMTVPJXXE5LVPJXXE6LVNEABEGI6CACAECLLMRUXA4TOP5YHGYDZOZWAO/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Libertadores Femenino - Alianza Lima W Vs Adiffem Women [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CANB4CAXAYNBYZIREQ2TQEL6LJLFKQSEKE3TUIRAEFSBGNJIG4SSYN26CIPBI4K4LFIT2LZRMUPC2OBRMUCWWMZKCFZXO7LWOZ2X24YCH4UDOKTVPJXXE6TFOMNREAAUDINBABDBNRRXK2TVOV5G64TYOVQQOBAA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Libertadores Femenino - Alianza Lima W Vs Adiffem Women [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CANB4CAXAYNBYZIREQ2TQEL6LJLFKQSEKE3TUIRAEFSBGNJIG4SSYN26CIPBI4K4LFIT2LZRMUPC2OBRMUCWWMZKCFZXO7LWOZ2X24YCH4UDOKTVPJXXE6TFOMNREAAUDINBABDBNRRXK2TVOV5G64TYOVQQOBAA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Libertadores Femenino - Ferroviaria Sp Women Vs Boca Juniors Women [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CANB4CAXAYNBYZIREQ2TQEL6LJLFKQSEKE3TUIRAEFSBGNJIG4SSYN26CIPBI5SVIJBDYIZZEQQC2NDQCYBGWERWLRLV2FCGIMIHEPBWGFSRQMJ3HEVCAODFBZPF6VS2CANBUEDCOV5G64TXOV5G64T7O5QAEAQLAYIBUGQQMBSWQ43HPU/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Conmebol Copa Libertadores Femenino - Ferroviaria Sp Women Vs Boca Juniors Women [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CANB4CAXAYNBYZIREQ2TQEL6LJLFKQSEKE3TUIRAEFSBGNJIG4SSYN26CIPBI5SVIJBDYIZZEQQC2NDQCYBGWERWLRLV2FCGIMIHEPBWGFSRQMJ3HEVCAODFBZPF6VS2CANBUEDCOV5G64TXOV5G64T7O5QAEAQLAYIBUGQQMBSWQ43HPU/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Costa Rica 2.Liga - Escorpiones Belen Vs Ad Carmelita [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CA5CGMJTMQDTSJRTNN3XO7K3KRKRAHIQOUQDMPZXEIWTUPRAEFVQOPC5K5ORIRSDCBYRO5ITEQQCSMB4FQTCUZLTDMJAEFA2DIIAG437PJSWM5TAMZYWC7DFOMNREAAEBADAMAQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Costa Rica 2.Liga - Escorpiones Belen Vs Ad Carmelita [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CA5CGMJTMQDTSJRTNN3XO7K3KRKRAHIQOUQDMPZXEIWTUPRAEFVQOPC5K5ORIRSDCBYRO5ITEQQCSMB4FQTCUZLTDMJAEFA2DIIAG437PJSWM5TAMZYWC7DFOMNREAAEBADAMAQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "U20 World Cup - Argentina U20 Vs Nigeria U20 [MOVISTAR]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN2UEV2VLYTTYPREOIIWOYDFEQ4GKF2YKVLEMWKRCBSWCZLQN54GIZDQN54GW53JAEBRGHQ2CACAE2TCMNZWUZD7PJSWI6LXNMDQA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "U20 World Cup - Argentina U20 Vs Nigeria U20 [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN2UEV2VLYTTYPREOIIWOYDFEQ4GKF2YKVLEMWKRCBSWCZLQN54GIZDQN54GW43ZDMMBGAACBEDQGZLNOBXXQZDGMB6WI43V/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "U20 World Cup - Argentina U20 Vs Nigeria U20 [STREAM 6[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN2UEV2VLYTTYPREOIIWOYDFEQ4GKF2YKVLEMWKRCBSWCZLQN54GIZDQN54GW53ZDMMBGAACBEDQGZLNOBXXQZDGMB6WI43W/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "U20 World Cup - Argentina U20 Vs Nigeria U20 [MOVISTAR]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN2UEV2VLYTTYPREOIIWOYDFEQ4GKF2YKVLEMWKRCBSWCZLQN54GIZDQN54GW53JAEBRGHQ2CACAE2TCMNZWUZD7PJSWI6LXNMDQA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "U20 World Cup - Argentina U20 Vs Nigeria U20 [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN2UEV2VLYTTYPREOIIWOYDFEQ4GKF2YKVLEMWKRCBSWCZLQN54GIZDQN54GW43ZDMMBGAACBEDQGZLNOBXXQZDGMB6WI43V/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "U20 World Cup - Argentina U20 Vs Nigeria U20 [STREAM 6[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN2UEV2VLYTTYPREOIIWOYDFEQ4GKF2YKVLEMWKRCBSWCZLQN54GIZDQN54GW53ZDMMBGAACBEDQGZLNOBXXQZDGMB6WI43W/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "U20 World Cup - Colombia U20 Vs South Africa U20 [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN3V6XC7LUYTYMLFA53GK4BTEFVRMNSEIZNRI4KWIJMTANDQCBQHI5L2N5ZHUZLTDMJAKFA2DIIAIYLMM53GI7LVPJXXE6DVMEDQUAQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "U20 World Cup - Colombia U20 Vs South Africa U20 [HDD B ESPA\u00d1OL]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN3V6XC7LUYTYMLFA53GK4BTEFVRMNSEIZNRI4KWIJMTANDQCBQHI5L2N5ZHUZLTDMJAKFA2DIIAIYLMM53GI7LVPJXXE6DVMEDQUAI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "U20 World Cup - Colombia U20 Vs South Africa U20 [STREAM 9[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN3V6XC7LUYTYMLFA53GK4BTEFVRMNSEIZNRI4KWIJMTANDQCBQHI5L2N5ZHUZLTDMJACFA2DIIAIYLMM53GI7LVPJXXE6DVMEDQUBY/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "U20 World Cup - Colombia U20 Vs South Africa U20 [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN3V6XC7LUYTYMLFA53GK4BTEFVRMNSEIZNRI4KWIJMTANDQCBQHI5L2N5ZHUZLTDMJAAFA2DIIAIYLMM53GI7LVPJXXE6DVMEDQKCQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "U20 World Cup - Colombia U20 Vs South Africa U20 [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN3V6XC7LUYTYMLFA53GK4BTEFVRMNSEIZNRI4KWIJMTANDQCBQHI5L2N5ZHUZLTDMJAKFA2DIIAIYLMM53GI7LVPJXXE6DVMEDQUAQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "U20 World Cup - Colombia U20 Vs South Africa U20 [HDD B ESPA\u00d1OL]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN3V6XC7LUYTYMLFA53GK4BTEFVRMNSEIZNRI4KWIJMTANDQCBQHI5L2N5ZHUZLTDMJAKFA2DIIAIYLMM53GI7LVPJXXE6DVMEDQUAI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "U20 World Cup - Colombia U20 Vs South Africa U20 [STREAM 9[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN3V6XC7LUYTYMLFA53GK4BTEFVRMNSEIZNRI4KWIJMTANDQCBQHI5L2N5ZHUZLTDMJACFA2DIIAIYLMM53GI7LVPJXXE6DVMEDQUBY/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "U20 World Cup - Colombia U20 Vs South Africa U20 [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN3V6XC7LUYTYMLFA53GK4BTEFVRMNSEIZNRI4KWIJMTANDQCBQHI5L2N5ZHUZLTDMJAAFA2DIIAIYLMM53GI7LVPJXXE6DVMEDQKCQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Uefa Women'S Champions League - Manchester United Women Vs Valerenga Women [VUS]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSCM5D2IB4NQ3HS4S2KJMUAWK7LYQHKHBAGMRSANLFP5VQQOC7KFNVCQ2EKVBHGAB6FQTCCMLQCI6SMIBXCFCEAFDGKFOFKIJQHYRDGZACH4UDOJLFOMNREAQUDINBAATDMVQWK6DOOVSHO233ORUQIEQZDYIAMAQCMFQGM/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Uefa Women'S Champions League - Manchester United Women Vs Valerenga Women [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSCM5D2IB4NQ3HS4S2KJMUAWK7LYQHKHBAGMRSANLFP5VQQOC7KFNVCQ2EKVBHGAB6FQTCCMLQCI6SMIBXCFCEAFDGKFOFKIJQHYRDGZACH4UDOJLFOMNREAQUDINBABTTP55GKZTWNRQHIYT6MVZRWEQAAQEAMBQE/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Uefa Women'S Champions League - Manchester United Women Vs Valerenga Women [STREAM 25[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSCM5D2IB4NQ3HS4S2KJMUAWK7LYQHKHBAGMRSANLFP5VQQOC7KFNVCQ2EKVBHGAB6FQTCCMLQCI6SMIBXCFCEAFDGKFOFKIJQHYRDGZACH4UDOJLFOMNREAQUDINBAATTP55GKZTWNRQHIYT6MVZRWEQAAQEAMBYB/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Uefa Women'S Champions League - Manchester United Women Vs Valerenga Women [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSCM5D2IB4NQ3HS4S2KJMUAWK7LYQHKHBAGMRSANLFP5VQQOC7KFNVCQ2EKVBHGAB6FQTCCMLQCI6SMIBXCFCEAFDGKFOFKIJQHYRDGZACH4UDOJLFOMNREAQUDINBAA3TP55GKZTWNRQHIYT6MVZRWEQAAQEAMBII/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Uefa Women'S Champions League - Manchester United Women Vs Valerenga Women [VUS]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSCM5D2IB4NQ3HS4S2KJMUAWK7LYQHKHBAGMRSANLFP5VQQOC7KFNVCQ2EKVBHGAB6FQTCCMLQCI6SMIBXCFCEAFDGKFOFKIJQHYRDGZACH4UDOJLFOMNREAQUDINBAATDMVQWK6DOOVSHO233ORUQIEQZDYIAMAQCMFQGM/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Uefa Women'S Champions League - Manchester United Women Vs Valerenga Women [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSCM5D2IB4NQ3HS4S2KJMUAWK7LYQHKHBAGMRSANLFP5VQQOC7KFNVCQ2EKVBHGAB6FQTCCMLQCI6SMIBXCFCEAFDGKFOFKIJQHYRDGZACH4UDOJLFOMNREAQUDINBABTTP55GKZTWNRQHIYT6MVZRWEQAAQEAMBQE/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Uefa Women'S Champions League - Manchester United Women Vs Valerenga Women [STREAM 25[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSCM5D2IB4NQ3HS4S2KJMUAWK7LYQHKHBAGMRSANLFP5VQQOC7KFNVCQ2EKVBHGAB6FQTCCMLQCI6SMIBXCFCEAFDGKFOFKIJQHYRDGZACH4UDOJLFOMNREAQUDINBAATTP55GKZTWNRQHIYT6MVZRWEQAAQEAMBYB/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Uefa Women'S Champions League - Manchester United Women Vs Valerenga Women [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSCM5D2IB4NQ3HS4S2KJMUAWK7LYQHKHBAGMRSANLFP5VQQOC7KFNVCQ2EKVBHGAB6FQTCCMLQCI6SMIBXCFCEAFDGKFOFKIJQHYRDGZACH4UDOJLFOMNREAQUDINBAA3TP55GKZTWNRQHIYT6MVZRWEQAAQEAMBII/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Uefa Women'S Champions League - St. Polten Women Vs Atletico De Madrid Women [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSCM5D2IB4NQ3HS4S2KJMUAWK7LYQHKHBAGMRSANLFP5VRMLI7CJRVWXCEKVPHGAR7FA3SU5JGGZZAUMJVKRDFUV27CBKFK4YYGEQSALJROAJD2JRAG4IRQGIUAEIBUGTTM5QHKY3EP55GKZTZPRUQCAAFCQNBUEAGMFTWE4DL/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Uefa Women'S Champions League - St. Polten Women Vs Atletico De Madrid Women [VUS]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSCM5D2IB4NQ3HS4S2KJMUAWK7LYQHKHBAGMRSANLFP5VRMLI7CJRVWXCEKVPHGAR7FA3SU5JGGZZAUMJVKRDFUV27CBKFK4YYGEQSALJROAJD2JRAG4IRQGIUAEIBUGTTM5QHKY3EP55GKZTZPRUQCAAFCQNBUEAGMFTWG4DH/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Uefa Women'S Champions League - St. Polten Women Vs Atletico De Madrid Women [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSCM5D2IB4NQ3HS4S2KJMUAWK7LYQHKHBAGMRSANLFP5VRMLI7CJRVWXCEKVPHGAR7FA3SU5JGGZZAUMJVKRDFUV27CBKFK4YYGEQSALJROAJD2JRAG4IRQGIUAEIBUGTTMNYG66DEMFRHYYT3O5XRCGAZCQBQACAGMVQA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Uefa Women'S Champions League - St. Polten Women Vs Atletico De Madrid Women [HDD B ESPA\u00d1OL]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSCM5D2IB4NQ3HS4S2KJMUAWK7LYQHKHBAGMRSANLFP5VRMLI7CJRVWXCEKVPHGAR7FA3SU5JGGZZAUMJVKRDFUV27CBKFK4YYGEQSALJROAJD2JRAG4IRQGIUAEIBUGTTMNYG66DEMFRHYYT3O5XRCGAZCQBQACAGMRRA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Uefa Women'S Champions League - St. Polten Women Vs Atletico De Madrid Women [STREAM 31[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSCM5D2IB4NQ3HS4S2KJMUAWK7LYQHKHBAGMRSANLFP5VRMLI7CJRVWXCEKVPHGAR7FA3SU5JGGZZAUMJVKRDFUV27CBKFK4YYGEQSALJROAJD2JRAG4IRQGIUAEIBUGTTM5YG66DEMFRHYYT3O5XRCGAZCQBQACAGMRSQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Uefa Women'S Champions League - St. Polten Women Vs Atletico De Madrid Women [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSCM5D2IB4NQ3HS4S2KJMUAWK7LYQHKHBAGMRSANLFP5VRMLI7CJRVWXCEKVPHGAR7FA3SU5JGGZZAUMJVKRDFUV27CBKFK4YYGEQSALJROAJD2JRAG4IRQGIUAEIBUGTTMZYG66DEMFRHYYT3O5XRCGAZCQBQACAGMVSA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Uefa Women'S Champions League - St. Polten Women Vs Atletico De Madrid Women [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSCM5D2IB4NQ3HS4S2KJMUAWK7LYQHKHBAGMRSANLFP5VRMLI7CJRVWXCEKVPHGAR7FA3SU5JGGZZAUMJVKRDFUV27CBKFK4YYGEQSALJROAJD2JRAG4IRQGIUAEIBUGTTM5QHKY3EP55GKZTZPRUQCAAFCQNBUEAGMFTWE4DL/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Uefa Women'S Champions League - St. Polten Women Vs Atletico De Madrid Women [VUS]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSCM5D2IB4NQ3HS4S2KJMUAWK7LYQHKHBAGMRSANLFP5VRMLI7CJRVWXCEKVPHGAR7FA3SU5JGGZZAUMJVKRDFUV27CBKFK4YYGEQSALJROAJD2JRAG4IRQGIUAEIBUGTTM5QHKY3EP55GKZTZPRUQCAAFCQNBUEAGMFTWG4DH/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Uefa Women'S Champions League - St. Polten Women Vs Atletico De Madrid Women [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSCM5D2IB4NQ3HS4S2KJMUAWK7LYQHKHBAGMRSANLFP5VRMLI7CJRVWXCEKVPHGAR7FA3SU5JGGZZAUMJVKRDFUV27CBKFK4YYGEQSALJROAJD2JRAG4IRQGIUAEIBUGTTMNYG66DEMFRHYYT3O5XRCGAZCQBQACAGMVQA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Uefa Women'S Champions League - St. Polten Women Vs Atletico De Madrid Women [HDD B ESPA\u00d1OL]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSCM5D2IB4NQ3HS4S2KJMUAWK7LYQHKHBAGMRSANLFP5VRMLI7CJRVWXCEKVPHGAR7FA3SU5JGGZZAUMJVKRDFUV27CBKFK4YYGEQSALJROAJD2JRAG4IRQGIUAEIBUGTTMNYG66DEMFRHYYT3O5XRCGAZCQBQACAGMRRA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Uefa Women'S Champions League - St. Polten Women Vs Atletico De Madrid Women [STREAM 31[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSCM5D2IB4NQ3HS4S2KJMUAWK7LYQHKHBAGMRSANLFP5VRMLI7CJRVWXCEKVPHGAR7FA3SU5JGGZZAUMJVKRDFUV27CBKFK4YYGEQSALJROAJD2JRAG4IRQGIUAEIBUGTTM5YG66DEMFRHYYT3O5XRCGAZCQBQACAGMRSQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Uefa Women'S Champions League - St. Polten Women Vs Atletico De Madrid Women [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSCM5D2IB4NQ3HS4S2KJMUAWK7LYQHKHBAGMRSANLFP5VRMLI7CJRVWXCEKVPHGAR7FA3SU5JGGZZAUMJVKRDFUV27CBKFK4YYGEQSALJROAJD2JRAG4IRQGIUAEIBUGTTMZYG66DEMFRHYYT3O5XRCGAZCQBQACAGMVSA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Uefa Women'S Champions League - Vfl Wolfsburg Women Vs Paris Saint Germain Women [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSCM5D2IB4NQ3HS4S2KJMUAWK7LYQHKHBAGMRSANLFP5VRGP35CJSFWXCWINJCMJZXMUCSWOBVFNZD2NTZMFJUCXKDCBRVCOR3ERSRKIJHHUSDWJLFBZPF6VS2CANBUEDCOV5G64TWMVQHI4TBN54QKAALAMEAEBAQPF7XA43AOZTWK4I/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Uefa Women'S Champions League - Vfl Wolfsburg Women Vs Paris Saint Germain Women [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSCM5D2IB4NQ3HS4S2KJMUAWK7LYQHKHBAGMRSANLFP5VRGP35CJSFWXCWINJCMJZXMUCSWOBVFNZD2NTZMFJUCXKDCBRVCOR3ERSRKIJHHUSDWJLFBZPF6VS2CANBUEDCOV5G64TSOV5G64T7O5QQMCQBAAIBUGQQMBSWQ43EOI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Uefa Women'S Champions League - Vfl Wolfsburg Women Vs Paris Saint Germain Women [HDD B ESPA\u00d1OL]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSCM5D2IB4NQ3HS4S2KJMUAWK7LYQHKHBAGMRSANLFP5VRGP35CJSFWXCWINJCMJZXMUCSWOBVFNZD2NTZMFJUCXKDCBRVCOR3ERSRKIJHHUSDWJLFBZPF6VS2CANBUEDCOV5G64TSOV5G64T7O5QQMCQBAAIBUGQQMBSWQ43FO4/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Uefa Women'S Champions League - Vfl Wolfsburg Women Vs Paris Saint Germain Women [STREAM 3[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSCM5D2IB4NQ3HS4S2KJMUAWK7LYQHKHBAGMRSANLFP5VRGP35CJSFWXCWINJCMJZXMUCSWOBVFNZD2NTZMFJUCXKDCBRVCOR3ERSRKIJHHUSDWJLFBZPF6VS2CANBUEDCOV5G64TWOV5G64T7O5QQMCQBAAIBUGQQMBSWQ43EPU/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Uefa Women'S Champions League - Vfl Wolfsburg Women Vs Paris Saint Germain Women [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSCM5D2IB4NQ3HS4S2KJMUAWK7LYQHKHBAGMRSANLFP5VRGP35CJSFWXCWINJCMJZXMUCSWOBVFNZD2NTZMFJUCXKDCBRVCOR3ERSRKIJHHUSDWJLFBZPF6VS2CANBUEDCOV5G64TXOV5G64T7O5QQMCQBAAIBUGQQMBSWQ43EOQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Uefa Women'S Champions League - Vfl Wolfsburg Women Vs Paris Saint Germain Women [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSCM5D2IB4NQ3HS4S2KJMUAWK7LYQHKHBAGMRSANLFP5VRGP35CJSFWXCWINJCMJZXMUCSWOBVFNZD2NTZMFJUCXKDCBRVCOR3ERSRKIJHHUSDWJLFBZPF6VS2CANBUEDCOV5G64TWMVQHI4TBN54QKAALAMEAEBAQPF7XA43AOZTWK4I/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Uefa Women'S Champions League - Vfl Wolfsburg Women Vs Paris Saint Germain Women [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSCM5D2IB4NQ3HS4S2KJMUAWK7LYQHKHBAGMRSANLFP5VRGP35CJSFWXCWINJCMJZXMUCSWOBVFNZD2NTZMFJUCXKDCBRVCOR3ERSRKIJHHUSDWJLFBZPF6VS2CANBUEDCOV5G64TSOV5G64T7O5QQMCQBAAIBUGQQMBSWQ43EOI/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Uefa Women'S Champions League - Vfl Wolfsburg Women Vs Paris Saint Germain Women [HDD B ESPA\u00d1OL]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSCM5D2IB4NQ3HS4S2KJMUAWK7LYQHKHBAGMRSANLFP5VRGP35CJSFWXCWINJCMJZXMUCSWOBVFNZD2NTZMFJUCXKDCBRVCOR3ERSRKIJHHUSDWJLFBZPF6VS2CANBUEDCOV5G64TSOV5G64T7O5QQMCQBAAIBUGQQMBSWQ43FO4/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Uefa Women'S Champions League - Vfl Wolfsburg Women Vs Paris Saint Germain Women [STREAM 3[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSCM5D2IB4NQ3HS4S2KJMUAWK7LYQHKHBAGMRSANLFP5VRGP35CJSFWXCWINJCMJZXMUCSWOBVFNZD2NTZMFJUCXKDCBRVCOR3ERSRKIJHHUSDWJLFBZPF6VS2CANBUEDCOV5G64TWOV5G64T7O5QQMCQBAAIBUGQQMBSWQ43EPU/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Uefa Women'S Champions League - Vfl Wolfsburg Women Vs Paris Saint Germain Women [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSCM5D2IB4NQ3HS4S2KJMUAWK7LYQHKHBAGMRSANLFP5VRGP35CJSFWXCWINJCMJZXMUCSWOBVFNZD2NTZMFJUCXKDCBRVCOR3ERSRKIJHHUSDWJLFBZPF6VS2CANBUEDCOV5G64TXOV5G64T7O5QQMCQBAAIBUGQQMBSWQ43EOQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "World Cup Qualification (Caf) - Niger Vs Republic Of The Congo [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQWMCWK5ARIRSDCBRDMJJFE47C2NTQFI2GWMJRKQJHAW26K5PRA6L7OB2HE3T7OBZXEYLPPEBAUBQCAEDAAEDZP5YHMYT4MNTXO/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "World Cup Qualification (Caf) - Niger Vs Republic Of The Congo [STREAM 5[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQWMCWK5ARIRSDCBRDMJJFE47C2NTQFI2GWMJRKQJHAW26K5PRA6L7OB2HE3T7OB3XEYLPPEBAUBQCAEDAAEDZP5YHMYT4MNTH2/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "World Cup Qualification (Caf) - Niger Vs Republic Of The Congo [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQWMCWK5ARIRSDCBRDMJJFE47C2NTQFI2GWMJRKQJHAW26K5PRA6L7OB2HE3T7OB3HEYLPPEBAUBQCAEDAAEDZP5YHMYT4MNSXE/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "World Cup Qualification (Caf) - Niger Vs Republic Of The Congo [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQWMCWK5ARIRSDCBRDMJJFE47C2NTQFI2GWMJRKQJHAW26K5PRA6L7OB2HE3T7OBZXEYLPPEBAUBQCAEDAAEDZP5YHMYT4MNTXO/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "World Cup Qualification (Caf) - Niger Vs Republic Of The Congo [STREAM 5[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQWMCWK5ARIRSDCBRDMJJFE47C2NTQFI2GWMJRKQJHAW26K5PRA6L7OB2HE3T7OB3XEYLPPEBAUBQCAEDAAEDZP5YHMYT4MNTH2/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "World Cup Qualification (Caf) - Niger Vs Republic Of The Congo [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQWMCWK5ARIRSDCBRDMJJFE47C2NTQFI2GWMJRKQJHAW26K5PRA6L7OB2HE3T7OB3HEYLPPEBAUBQCAEDAAEDZP5YHMYT4MNSXE/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "World Cup Qualification (Caf) - Tanzania Vs Zambia [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VRCOC7JBJFUWKRCBDCA5IKEQ7SMPBRMV4GCZLICEMBSFAGCANBU43GNBYGI5LANFSXQYLFNIAQUBIDBA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "World Cup Qualification (Caf) - Tanzania Vs Zambia [STREAM 2[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VRCOC7JBJFUWKRCBDCA5IKEQ7SMPBRMV4GCZLICEMBSFACCANBU43GNBYGI5LANFSXQYLFNIAQUBICA4/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "World Cup Qualification (Caf) - Tanzania Vs Zambia [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VRCOC7JBJFUWKRCBDCA5IKEQ7SMPBRMV4GCZLICEMBSFADCANBU43GNBYGI5LANFSXQYLFNIAQUBIBAY/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "World Cup Qualification (Caf) - Tanzania Vs Zambia [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VRCOC7JBJFUWKRCBDCA5IKEQ7SMPBRMV4GCZLICEMBSFAGCANBU43GNBYGI5LANFSXQYLFNIAQUBIDBA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "World Cup Qualification (Caf) - Tanzania Vs Zambia [STREAM 2[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VRCOC7JBJFUWKRCBDCA5IKEQ7SMPBRMV4GCZLICEMBSFACCANBU43GNBYGI5LANFSXQYLFNIAQUBICA4/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "World Cup Qualification (Caf) - Tanzania Vs Zambia [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VRCOC7JBJFUWKRCBDCA5IKEQ7SMPBRMV4GCZLICEMBSFADCANBU43GNBYGI5LANFSXQYLFNIAQUBIBAY/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Challenger Atp Challenger Roanne, France, Men Singles - Jacob Fearnley Vs Dominic Stephan Stricker [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CA6TCKJ6EE5TOIBANMCA2YISOBOFCXC4KU6TENJXOILDUMJLHQXGS6LXIBJFUU2VDQIB4MB6MUAS2OZXFE3TQZLUCF4FEV27KIIHMNRUEIVT4IJMOAZSC2YBGZOFWXK5KMIGGRBWEU4CIPDEAYSDOOZIFY6EGEQZDYIAGEA2PF2WMZLYNZ2WC7DLOJ3GWBYSDEPBAAQHAJQGGYA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Challenger Atp Challenger Roanne, France, Men Singles - Jacob Fearnley Vs Dominic Stephan Stricker [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CA6TCKJ6EE5TOIBANMCA2YISOBOFCXC4KU6TENJXOILDUMJLHQXGS6LXIBJFUU2VDQIB4MB6MUAS2OZXFE3TQZLUCF4FEV27KIIHMNRUEIVT4IJMOAZSC2YBGZOFWXK5KMIGGRBWEU4CIPDEAYSDOOZIFY6EGEQZDYIAGEA2PF2WMZLYNZ2WC7DLOJ3GWBYSDEPBAAQHAJQGGYA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
+      "group_title": "VOLLEYBALL",
+      "title": "Beach Pro Tour - Elite16 | Newport Beach Vs Group Stage 1 | Court 1 [LALIGA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CEYDCJR2MQCSEKTSD4VCYQYSDYKHKXCZIQ3GIZTFFZSBWNJSEISDOLIROBLFKU2YCBDCA5IXG46TCJLQGYTCUIR4CEBRGSAQONPUKIJBOB2HE3T7OB2GC23POMIQAAYEAEIBUGTTM5QHKY3UMJUWK6DBMVXQGAAAAUCA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
+      "group_title": "VOLLEYBALL",
+      "title": "Beach Pro Tour - Elite16 | Newport Beach Vs Group Stage 1 | Court 1 [LALIGA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CEYDCJR2MQCSEKTSD4VCYQYSDYKHKXCZIQ3GIZTFFZSBWNJSEISDOLIROBLFKU2YCBDCA5IXG46TCJLQGYTCUIR4CEBRGSAQONPUKIJBOB2HE3T7OB2GC23POMIQAAYEAEIBUGTTM5QHKY3UMJUWK6DBMVXQGAAAAUCA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
+      "group_title": "VOLLEYBALL",
+      "title": "Beach Pro Tour - Elite16 | Newport Beach Vs Group Stage 1 | Court 2 [LALIGA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CEYDCJR2MQCSEKTSD4VCYQYSDYKHKXCZIQ3GIZTFFZSBWNJSEISDOLIROBLFKU2YCBDCA5IXG46TCJLQGYTCUIR4CEBRGSAQONPUKIJBOB3XE3T7OB2GC23POMIQAAYEAEIBUGTTM5QHKY3UNVQGK6DBMVXQGAAAAUDQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
+      "group_title": "VOLLEYBALL",
+      "title": "Beach Pro Tour - Elite16 | Newport Beach Vs Group Stage 1 | Court 2 [LALIGA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CEYDCJR2MQCSEKTSD4VCYQYSDYKHKXCZIQ3GIZTFFZSBWNJSEISDOLIROBLFKU2YCBDCA5IXG46TCJLQGYTCUIR4CEBRGSAQONPUKIJBOB3XE3T7OB2GC23POMIQAAYEAEIBUGTTM5QHKY3UNVQGK6DBMVXQGAAAAUDQ/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
+      "group_title": "VOLLEYBALL",
+      "title": "Beach Pro Tour - Elite16 | Newport Beach Vs Group Stage 1 | Court 3 [LALIGA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CEYDCJR2MQCSEKTSD4VCYQYSDYKHKXCZIQ3GIZTFFZSBWNJSEISDOLIROBLFKU2YCBDCA5IXG46TCJLQGYTCUIR4CEBRGSAQONPUKIJBOB3HE3T7OB2GC23POMIQAAYEAEIBUGTTM5QHKY3UNVQWK6DBMVXQGAAAAUDA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
+      "group_title": "VOLLEYBALL",
+      "title": "Beach Pro Tour - Elite16 | Newport Beach Vs Group Stage 1 | Court 3 [LALIGA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CEYDCJR2MQCSEKTSD4VCYQYSDYKHKXCZIQ3GIZTFFZSBWNJSEISDOLIROBLFKU2YCBDCA5IXG46TCJLQGYTCUIR4CEBRGSAQONPUKIJBOB3HE3T7OB2GC23POMIQAAYEAEIBUGTTM5QHKY3UNVQWK6DBMVXQGAAAAUDA/index.m3u8"
+    }
+  ],
   "events": [],
   "grouped_events": {},
   "metadata": {}
