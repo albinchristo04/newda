@@ -1,12 +1,12 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Tue Oct  7 23:49:25 UTC 2025
+Last updated: Wed Oct  8 01:09:48 UTC 2025
 
-Workflow run: #1037
+Workflow run: #1038
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-10-07T23:49:24.890491
+Extracted at: 2025-10-08T01:09:47.883436
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -22,8 +22,8 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: Major League Baseball - Detroit Tigers Vs Seattle Mariners (10/08/25)
-Time: 04:08AM
+EVENT: Usa: Ncaa - Sitake Vs Show (10/08/25)
+Time: 08:30AM
 Date: 10/08/25
 Category: None
 ```
