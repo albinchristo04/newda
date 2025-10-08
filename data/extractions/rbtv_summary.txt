@@ -1,29 +1,27 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-08T07:14:54.629395
+Extraction Time: 2025-10-08T07:30:08.186971
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 12
-- Total Channels: 16
+- Unique Events: 14
+- Total Channels: 17
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
-- Korean Basketball League - Wonju Dongbu Promy Vs Anyang Kgc ...
-  Time: 01:00PM, Channels: 1
 - National Basketball League - New Zealand Breakers Vs Illawar...
   Time: 02:30PM, Channels: 2
 - T20 World Cup, Asia-Eap Qualifier, Regional Final - Oman Vs ...
   Time: 02:00PM, Channels: 1
+- Korean K League 2 - Ansan Greeners Fc Vs Chungnam Asan (10/0...
+  Time: 03:30PM, Channels: 1
+- Korean K League 2 - Bucheon Fc 1995 Vs Seongnam Fc (10/08/25...
+  Time: 03:30PM, Channels: 1
 - Supercars Championship - Supercars: Street Party (10/08/25)
   Time: 02:30PM, Channels: 1
-- Wta Wuhan, China Women Singles - Moyuka Uchijima Vs Coco Gau...
-  Time: 02:10PM, Channels: 2
-- Wta Wuhan, China Women Singles - Moyuka Uchijima Vs Coco Gau...
-  Time: 02:10PM, Channels: 1
 - Atp Shanghai, China Men Singles - Nuno Borges Vs Alex De Min...
   Time: 02:20PM, Channels: 3
 - Atp Shanghai, China Men Singles - Nuno Borges Vs Alex De Min...
@@ -36,3 +34,9 @@ EVENT BREAKDOWN:
   Time: 02:55PM, Channels: 1
 - Atp Shanghai, China Men Double - Arevalo M / Pavic M Vs A.Kr...
   Time: 03:00PM, Channels: 1
+- Wta Wuhan, China Women Singles - Aryna Sabalenka Vs Rebecca ...
+  Time: 03:20PM, Channels: 1
+- Wta Wuhan, China Women Singles - Aryna Sabalenka Vs Rebecca ...
+  Time: 03:20PM, Channels: 1
+- Premier Padel 2025  - Milan P1 Day 3 Match 1 (10/08/25)
+  Time: 03:30PM, Channels: 1

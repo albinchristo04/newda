@@ -1,29 +1,29 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Wed Oct  8 07:14:55 UTC 2025
+Last updated: Wed Oct  8 07:30:08 UTC 2025
 
-Workflow run: #1050
+Workflow run: #1051
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-10-08T07:14:54.629395
+Extracted at: 2025-10-08T07:30:08.186971
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
-
-EVENT: Korean Basketball League - Wonju Dongbu Promy Vs Anyang Kgc (10/08/25)
-Time: 01:00PM
-Date: 10/08/25
-Category: None
-Available Channels (1):
-  1. SD
-     URL: https://world-proxifier.xyz/rbtv/p/DA5CEIBTFJ2REJBBEAQC2U2TL5MBA7CVKE2CANLFP5SAEPZLHA7GKHK6LRKFMRIQMBBDYOBJMUSDO5IRFMVSUKZ6CF4XI5YQDINBAYLVPJXXE53VPJXXE6T4MAEAABIACANBUEDBMJRHOY3X/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
-
-================================================================================
 
 EVENT: National Basketball League - New Zealand Breakers Vs Illawarra Hawks (10/08/25)
 Time: 02:30PM
 Date: 10/08/25
 Category: None
+Available Channels (2):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQPQ3DINZQG5SHQ4ALG46GKA2UKNPVKXSUCBZCCMBRFY3TMJTQGMQWWDBVLVJUIVKCIJIRAGZUE4XCCZD7PJSWA23POMIQIEY6DIIACCLKNRRHGZ3EP55GKYD4O5VQGAQ/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQPQ3DINZQG5SHQ4ALG46GKA2UKNPVKXSUCBZCCMBRFY3TMJTQGMQWWDBVLVJUIVKCIJIRAGZUE4XCCZD7PJSWA23POMIQCEY6DIIACCLKNRRHGZ3EP55GKYD4O5VQACQ/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+
+================================================================================
+
+EVENT: T20 World Cup, Asia-Eap Qualifier, Regional Final - Oman Vs Samoa (10/08/25) [STREAM 22[HD]]
 ```

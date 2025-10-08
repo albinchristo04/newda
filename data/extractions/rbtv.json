@@ -1,19 +1,9 @@
 {
-  "timestamp": "2025-10-08T07:14:54.629395",
+  "timestamp": "2025-10-08T07:30:08.186971",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
   "events": [
-    {
-      "event_time": "01:00PM",
-      "event_date": "10/08/25",
-      "channel_name": "SD",
-      "event_title": "Korean Basketball League - Wonju Dongbu Promy Vs Anyang Kgc (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DA5CEIBTFJ2REJBBEAQC2U2TL5MBA7CVKE2CANLFP5SAEPZLHA7GKHK6LRKFMRIQMBBDYOBJMUSDO5IRFMVSUKZ6CF4XI5YQDINBAYLVPJXXE53VPJXXE6T4MAEAABIACANBUEDBMJRHOY3X/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
-    },
     {
       "event_time": "02:30PM",
       "event_date": "10/08/25",
@@ -44,6 +34,26 @@
       "group_title": "CRICKET"
     },
     {
+      "event_time": "03:30PM",
+      "event_date": "10/08/25",
+      "channel_name": "SD",
+      "event_title": "Korean K League 2 - Ansan Greeners Fc Vs Chungnam Asan (10/08/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DA5CEIBTFJ2RWZI6FYSD4RCXCMDBAHIQOE6SMMJLOIBSONJAHQXDOKQRORYBIRSDCBZTWIB6EI6CKODQAQQSUK3ZDMMBGBIQDINBAYDVPJXXE4DEMNZGE7T4PENRQEYHAAEAKB3C/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "03:30PM",
+      "event_date": "10/08/25",
+      "channel_name": "SD",
+      "event_title": "Korean K League 2 - Bucheon Fc 1995 Vs Seongnam Fc (10/08/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DA5CEIBTFJ2RWZI6FYSD4RCXCMDBAHIQOITDMOBAHUVHKFQGOJ5HYYAECJCUOEDDKVPT2MR6EQ7WIEYTMV4GCZLICEMBSFADCANBU43BMF3GK5DMNFSXQYLFNIAQUBQDAI/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
       "event_time": "02:30PM",
       "event_date": "10/08/25",
       "channel_name": "HDD A",
@@ -52,35 +62,6 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
       "group_title": "MOTORSPORT"
-    },
-    {
-      "event_time": "02:10PM",
-      "event_date": "10/08/25",
-      "channel_name": "VDO",
-      "event_title": "Wta Wuhan, China Women Singles - Moyuka Uchijima Vs Coco Gauff (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFC6JNDF6UIQMVJTWPB2FQ7SK5JGGZZAQKR2LYJHIVKFKZLBA6L7OB3HE3T7OB3WE63UPENRQEYGAAAAABLFNVYG66DEMNRHOYD4OI/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "02:10PM",
-      "event_date": "10/08/25",
-      "channel_name": "HDD A",
-      "event_title": "Wta Wuhan, China Women Singles - Moyuka Uchijima Vs Coco Gauff (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFC6JNDF6UIQMVJTWPB2FQ7SK5JGGZZAQKR2LYJHIVKFKZLBA6L7OB3HE3T7OBZXEYLPPEBQEAYEAUDAQEDZP5YHOZLWM5QXE/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "02:10PM",
-      "event_date": "10/08/25",
-      "event_title": "Wta Wuhan, China Women Singles - Moyuka Uchijima Vs Coco Gauff (10/08/25) [STREAM 25[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFC6JNDF6UIQMVJTWPB2FQ7SK5JGGZZAQKR2LYJHIVKFKZLBA6L7OB3HE3T7OB3XEYLPPEBQEAYEAUDAQEDZP5YHOZLWMRUHE/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
     },
     {
       "event_time": "02:20PM",
@@ -160,23 +141,38 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
+    },
+    {
+      "event_time": "03:20PM",
+      "event_date": "10/08/25",
+      "channel_name": "VDO",
+      "event_title": "Wta Wuhan, China Women Singles - Aryna Sabalenka Vs Rebecca Sramkova (10/08/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGCDJNOVKEDDKFJDEOJVFM4SK5JGGZZBSIB3KRIVAVIQMNBFCPR6H4ZTGZD7PJSWC23POMIQAAYEAEIBUGTTM5QHKYT5NRRGK6DBMVXQGAABAMEA/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "03:20PM",
+      "event_date": "10/08/25",
+      "event_title": "Wta Wuhan, China Women Singles - Aryna Sabalenka Vs Rebecca Sramkova (10/08/25) [STREAM 25[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGCDJNOVKEDDKFJDEOJVFM4SK5JGGZZBSIB3KRIVAVIQMNBFCPR6H4ZTGZD7PJSWC23POMIQAEY6DIIAEADDMVUXYYDEP55GKYD4O5UASCQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "03:30PM",
+      "event_date": "10/08/25",
+      "channel_name": "SKA",
+      "event_title": "Premier Padel 2025  - Milan P1 Day 3 Match 1 (10/08/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAEJVSUKEKNMHGZDQN54GIZTQN54GW53JAEBRGHQ2CABAAY3EMBZGGZD7PJSWI6LXNMEAI/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
     }
   ],
   "grouped_events": {
-    "Korean Basketball League - Wonju Dongbu Promy Vs Anyang Kgc (10/08/25)": {
-      "event_title": "Korean Basketball League - Wonju Dongbu Promy Vs Anyang Kgc (10/08/25)",
-      "event_time": "01:00PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/DA5CEIBTFJ2REJBBEAQC2U2TL5MBA7CVKE2CANLFP5SAEPZLHA7GKHK6LRKFMRIQMBBDYOBJMUSDO5IRFMVSUKZ6CF4XI5YQDINBAYLVPJXXE53VPJXXE6T4MAEAABIACANBUEDBMJRHOY3X/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "National Basketball League - New Zealand Breakers Vs Illawarra Hawks (10/08/25)": {
       "event_title": "National Basketball League - New Zealand Breakers Vs Illawarra Hawks (10/08/25)",
       "event_time": "02:30PM",
@@ -211,6 +207,34 @@
         }
       ]
     },
+    "Korean K League 2 - Ansan Greeners Fc Vs Chungnam Asan (10/08/25)": {
+      "event_title": "Korean K League 2 - Ansan Greeners Fc Vs Chungnam Asan (10/08/25)",
+      "event_time": "03:30PM",
+      "event_date": "10/08/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/DA5CEIBTFJ2RWZI6FYSD4RCXCMDBAHIQOE6SMMJLOIBSONJAHQXDOKQRORYBIRSDCBZTWIB6EI6CKODQAQQSUK3ZDMMBGBIQDINBAYDVPJXXE4DEMNZGE7T4PENRQEYHAAEAKB3C/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Korean K League 2 - Bucheon Fc 1995 Vs Seongnam Fc (10/08/25)": {
+      "event_title": "Korean K League 2 - Bucheon Fc 1995 Vs Seongnam Fc (10/08/25)",
+      "event_time": "03:30PM",
+      "event_date": "10/08/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/DA5CEIBTFJ2RWZI6FYSD4RCXCMDBAHIQOITDMOBAHUVHKFQGOJ5HYYAECJCUOEDDKVPT2MR6EQ7WIEYTMV4GCZLICEMBSFADCANBU43BMF3GK5DMNFSXQYLFNIAQUBQDAI/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
     "Supercars Championship - Supercars: Street Party (10/08/25)": {
       "event_title": "Supercars Championship - Supercars: Street Party (10/08/25)",
       "event_time": "02:30PM",
@@ -221,40 +245,6 @@
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/AAQCAIBAE42CENTSBAWTQXCCLJNV4Q2YLERXK7LFAEYSKNJXGEVDOKQLCJQEAQSVKVCHGBJRG4TD25L2N5ZHYZLTDMJAKFA2DIIAEY3FMB6GO4TVPJXXE6LSNMBQAAQ/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Wta Wuhan, China Women Singles - Moyuka Uchijima Vs Coco Gauff (10/08/25)": {
-      "event_title": "Wta Wuhan, China Women Singles - Moyuka Uchijima Vs Coco Gauff (10/08/25)",
-      "event_time": "02:10PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFC6JNDF6UIQMVJTWPB2FQ7SK5JGGZZAQKR2LYJHIVKFKZLBA6L7OB3HE3T7OB3WE63UPENRQEYGAAAAABLFNVYG66DEMNRHOYD4OI/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFC6JNDF6UIQMVJTWPB2FQ7SK5JGGZZAQKR2LYJHIVKFKZLBA6L7OB3HE3T7OBZXEYLPPEBQEAYEAUDAQEDZP5YHOZLWM5QXE/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Wta Wuhan, China Women Singles - Moyuka Uchijima Vs Coco Gauff (10/08/25) [STREAM 25[HD]]": {
-      "event_title": "Wta Wuhan, China Women Singles - Moyuka Uchijima Vs Coco Gauff (10/08/25) [STREAM 25[HD]]",
-      "event_time": "02:10PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFC6JNDF6UIQMVJTWPB2FQ7SK5JGGZZAQKR2LYJHIVKFKZLBA6L7OB3HE3T7OB3XEYLPPEBQEAYEAUDAQEDZP5YHOZLWMRUHE/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
       ]
@@ -350,6 +340,48 @@
         {
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKGCDK5CVKXC7CB6XG6TQCUZTEPBTMUPWWMZKCFZR272CKFNFSMBQHNVBY2QYGUXCMIRGPENRQEYHCANBUEDFOV5G64TWMVQHKYTZO54RWGATAYDQEAQCNI/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Wuhan, China Women Singles - Aryna Sabalenka Vs Rebecca Sramkova (10/08/25)": {
+      "event_title": "Wta Wuhan, China Women Singles - Aryna Sabalenka Vs Rebecca Sramkova (10/08/25)",
+      "event_time": "03:20PM",
+      "event_date": "10/08/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGCDJNOVKEDDKFJDEOJVFM4SK5JGGZZBSIB3KRIVAVIQMNBFCPR6H4ZTGZD7PJSWC23POMIQAAYEAEIBUGTTM5QHKYT5NRRGK6DBMVXQGAABAMEA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Wuhan, China Women Singles - Aryna Sabalenka Vs Rebecca Sramkova (10/08/25) [STREAM 25[HD]]": {
+      "event_title": "Wta Wuhan, China Women Singles - Aryna Sabalenka Vs Rebecca Sramkova (10/08/25) [STREAM 25[HD]]",
+      "event_time": "03:20PM",
+      "event_date": "10/08/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGCDJNOVKEDDKFJDEOJVFM4SK5JGGZZBSIB3KRIVAVIQMNBFCPR6H4ZTGZD7PJSWC23POMIQAEY6DIIAEADDMVUXYYDEP55GKYD4O5UASCQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Premier Padel 2025  - Milan P1 Day 3 Match 1 (10/08/25)": {
+      "event_title": "Premier Padel 2025  - Milan P1 Day 3 Match 1 (10/08/25)",
+      "event_time": "03:30PM",
+      "event_date": "10/08/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SKA",
+          "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAEJVSUKEKNMHGZDQN54GIZTQN54GW53JAEBRGHQ2CABAAY3EMBZGGZD7PJSWI6LXNMEAI/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
