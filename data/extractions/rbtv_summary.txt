@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-08T21:13:51.221783
+Extraction Time: 2025-10-08T21:28:35.902423
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
 - Unique Events: 12
-- Total Channels: 16
+- Total Channels: 15
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -27,7 +27,7 @@ EVENT BREAKDOWN:
 - U20 World Cup - Argentina U20 Vs Nigeria U20 (10/09/25) [STR...
   Time: 03:30AM, Channels: 1
 - U20 World Cup - Colombia U20 Vs South Africa U20 (10/09/25)
-  Time: 03:30AM, Channels: 3
+  Time: 03:30AM, Channels: 2
 - U20 World Cup - Colombia U20 Vs South Africa U20 (10/09/25) ...
   Time: 03:30AM, Channels: 1
 - Ecuadorian Campeonato Serie B - Chacaritas Sc Vs 22 De Julio...
