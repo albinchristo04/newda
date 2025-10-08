@@ -1,35 +1,25 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-08T06:48:16.110348
+Extraction Time: 2025-10-08T07:14:54.629395
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 14
-- Total Channels: 18
+- Unique Events: 12
+- Total Channels: 16
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
-- Arctic Open, Singles - Kunlavut Vitidsarn Vs Ayush Shetty (1...
-  Time: 02:00PM, Channels: 1
 - Korean Basketball League - Wonju Dongbu Promy Vs Anyang Kgc ...
   Time: 01:00PM, Channels: 1
 - National Basketball League - New Zealand Breakers Vs Illawar...
   Time: 02:30PM, Channels: 2
 - T20 World Cup, Asia-Eap Qualifier, Regional Final - Oman Vs ...
   Time: 02:00PM, Channels: 1
-- Korean K League 2 - Cheonan City Vs Busan I Park (10/08/25)
-  Time: 01:00PM, Channels: 1
-- Korean K League 2 - Gyeongnam Fc Vs Jeonnam Dragons (10/08/2...
-  Time: 01:00PM, Channels: 1
-- Korean K League 2 - Incheon United Club Vs Suwon Samsung Blu...
-  Time: 01:00PM, Channels: 1
 - Supercars Championship - Supercars: Street Party (10/08/25)
   Time: 02:30PM, Channels: 1
-- Wta Wuhan, China Women Singles - Sofia Kenin Vs Liudmila Sam...
-  Time: 12:40PM, Channels: 1
 - Wta Wuhan, China Women Singles - Moyuka Uchijima Vs Coco Gau...
   Time: 02:10PM, Channels: 2
 - Wta Wuhan, China Women Singles - Moyuka Uchijima Vs Coco Gau...
@@ -40,3 +30,9 @@ EVENT BREAKDOWN:
   Time: 02:20PM, Channels: 1
 - Wta Wuhan, China Women Singles - Zhang Shuai Vs Sorana Cirst...
   Time: 02:30PM, Channels: 1
+- Wta Wuhan, China Women Doubles - Jovic I / Olmos G Vs Timea ...
+  Time: 02:45PM, Channels: 1
+- Wta Wuhan, China Women Doubles - Kichenok L / Perez E Vs Mih...
+  Time: 02:55PM, Channels: 1
+- Atp Shanghai, China Men Double - Arevalo M / Pavic M Vs A.Kr...
+  Time: 03:00PM, Channels: 1

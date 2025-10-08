@@ -1,19 +1,9 @@
 {
-  "timestamp": "2025-10-08T06:48:16.110348",
+  "timestamp": "2025-10-08T07:14:54.629395",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
   "events": [
-    {
-      "event_time": "02:00PM",
-      "event_date": "10/08/25",
-      "channel_name": "VDO",
-      "event_title": "Arctic Open, Singles - Kunlavut Vitidsarn Vs Ayush Shetty (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXSYS3LVJVYVKDCB7HKGZQHQUDIJRQEZVRGMCFLNLUOUKCLYICKJTQAQVTCJRYMUASGIBNIVFRGHQ2CAAQE437PJSWA5DFMFSXQYLFNMAQEAQEBACRAGTZOVTHOYDXMFRQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-      "group_title": "BADMINTON"
-    },
     {
       "event_time": "01:00PM",
       "event_date": "10/08/25",
@@ -54,36 +44,6 @@
       "group_title": "CRICKET"
     },
     {
-      "event_time": "01:00PM",
-      "event_date": "10/08/25",
-      "channel_name": "SD",
-      "event_title": "Korean K League 2 - Cheonan City Vs Busan I Park (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DA5CEIBTFJ2RWZI6FYSD4RCXCMDBAHIQOM5TAPZLGMVHKEZMEYZGKL2CCJYUCQ2RLYIBU5IAEQQC65L2N5ZHUZLTDMJAAFA2DIIAIYTGMZ6GU43VPJXXE6DVMECAICY/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "01:00PM",
-      "event_date": "10/08/25",
-      "channel_name": "SD",
-      "event_title": "Korean K League 2 - Gyeongnam Fc Vs Jeonnam Dragons (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DA5CEIBTFJ2RWZI6FYSD4RCXCMDBAHIQO4VDAPZLGUVDIPLFCQEGKL2CCJ4VCX26LZIT45IUG4ZSGOR6GZZGC33ZAAJBSHQQAMIBU6LVMR2GC4TMNB6HEYLPPEBAECYBA4AA/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "01:00PM",
-      "event_date": "10/08/25",
-      "channel_name": "SD",
-      "event_title": "Korean K League 2 - Incheon United Club Vs Suwon Samsung Bluewings (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DA5CEIBTFJ2RWZI6FYSD4RCXCMDBAHIQPE6TMOBAHUVHKBJLHM7SAPIROFPUCUQQIZBXGBRFGI6SU5IDEQ7TQMBXKYJHCWCFKVDVSPJSENSXQ3TVMFSXQYLFNIIRQGIUAQAQGB3CMFTGK6DOOVRXK2T6ONQA/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
       "event_time": "02:30PM",
       "event_date": "10/08/25",
       "channel_name": "HDD A",
@@ -92,16 +52,6 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
       "group_title": "MOTORSPORT"
-    },
-    {
-      "event_time": "12:40PM",
-      "event_date": "10/08/25",
-      "channel_name": "HDD A",
-      "event_title": "Wta Wuhan, China Women Singles - Sofia Kenin Vs Liudmila Samsonova (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKCS6KRNFKED3KVPDUO3QGMQWIGJZGA3CMLBVKAJGAVK5INPV4PBDGFSXQ3TVMNSXQYLFN4IRQGIUAIAAAADKNVQGK6DOOVRHEYDZORVQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
     },
     {
       "event_time": "02:10PM",
@@ -180,23 +130,39 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
+    },
+    {
+      "event_time": "02:45PM",
+      "event_date": "10/08/25",
+      "channel_name": "HDD A",
+      "event_title": "Wta Wuhan, China Women Doubles - Jovic I / Olmos G Vs Timea Babos/Luisa Stefani (10/08/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKE26IRNFOEDZCAPXGGR4FA6TO5IXMUSDQZINLBPVMVIQOJIVEPBGP4ESOLJGGFSQCPZAH5IFYWQUDINBAA3TP55GKZDEP55GKYD3OVUQQCYCCQNBUEACMRTWE53F/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "02:55PM",
+      "event_date": "10/08/25",
+      "channel_name": "HDD A",
+      "event_title": "Wta Wuhan, China Women Doubles - Kichenok L / Perez E Vs Mihalikova T / Nicholls O (10/08/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKESYKFNVCXS7LMIB65L7MUBCCJZVH5ZA4ZJPIIJH4XKYKFOFSOB2EYSHEEDVP5SRYIRGGFPF4X2HCB7RAGTZOVRWK6DOOVTGK6DBMVVQCAQCAQAQCEA2PF2WE4TAOZTWQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "03:00PM",
+      "event_date": "10/08/25",
+      "channel_name": "HDD A",
+      "event_title": "Atp Shanghai, China Men Double - Arevalo M / Pavic M Vs A.Krajicek/N.Mektic (10/08/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKGCDK5CVKXC7CB6XG6TQCUZTEPBTMUPWWMZKCFZR272CKFNFSMBQHNVBY2QYGUXCMIRGPENRQEYHCANBUEDFOV5G64TWMVQHKYTZO54RWGATAYDQEAQCNI/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
     }
   ],
   "grouped_events": {
-    "Arctic Open, Singles - Kunlavut Vitidsarn Vs Ayush Shetty (10/08/25)": {
-      "event_title": "Arctic Open, Singles - Kunlavut Vitidsarn Vs Ayush Shetty (10/08/25)",
-      "event_time": "02:00PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXSYS3LVJVYVKDCB7HKGZQHQUDIJRQEZVRGMCFLNLUOUKCLYICKJTQAQVTCJRYMUASGIBNIVFRGHQ2CAAQE437PJSWA5DFMFSXQYLFNMAQEAQEBACRAGTZOVTHOYDXMFRQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "Korean Basketball League - Wonju Dongbu Promy Vs Anyang Kgc (10/08/25)": {
       "event_title": "Korean Basketball League - Wonju Dongbu Promy Vs Anyang Kgc (10/08/25)",
       "event_time": "01:00PM",
@@ -245,48 +211,6 @@
         }
       ]
     },
-    "Korean K League 2 - Cheonan City Vs Busan I Park (10/08/25)": {
-      "event_title": "Korean K League 2 - Cheonan City Vs Busan I Park (10/08/25)",
-      "event_time": "01:00PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/DA5CEIBTFJ2RWZI6FYSD4RCXCMDBAHIQOM5TAPZLGMVHKEZMEYZGKL2CCJYUCQ2RLYIBU5IAEQQC65L2N5ZHUZLTDMJAAFA2DIIAIYTGMZ6GU43VPJXXE6DVMECAICY/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Korean K League 2 - Gyeongnam Fc Vs Jeonnam Dragons (10/08/25)": {
-      "event_title": "Korean K League 2 - Gyeongnam Fc Vs Jeonnam Dragons (10/08/25)",
-      "event_time": "01:00PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/DA5CEIBTFJ2RWZI6FYSD4RCXCMDBAHIQO4VDAPZLGUVDIPLFCQEGKL2CCJ4VCX26LZIT45IUG4ZSGOR6GZZGC33ZAAJBSHQQAMIBU6LVMR2GC4TMNB6HEYLPPEBAECYBA4AA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Korean K League 2 - Incheon United Club Vs Suwon Samsung Bluewings (10/08/25)": {
-      "event_title": "Korean K League 2 - Incheon United Club Vs Suwon Samsung Bluewings (10/08/25)",
-      "event_time": "01:00PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/DA5CEIBTFJ2RWZI6FYSD4RCXCMDBAHIQPE6TMOBAHUVHKBJLHM7SAPIROFPUCUQQIZBXGBRFGI6SU5IDEQ7TQMBXKYJHCWCFKVDVSPJSENSXQ3TVMFSXQYLFNIIRQGIUAQAQGB3CMFTGK6DOOVRXK2T6ONQA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "Supercars Championship - Supercars: Street Party (10/08/25)": {
       "event_title": "Supercars Championship - Supercars: Street Party (10/08/25)",
       "event_time": "02:30PM",
@@ -297,20 +221,6 @@
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/AAQCAIBAE42CENTSBAWTQXCCLJNV4Q2YLERXK7LFAEYSKNJXGEVDOKQLCJQEAQSVKVCHGBJRG4TD25L2N5ZHYZLTDMJAKFA2DIIAEY3FMB6GO4TVPJXXE6LSNMBQAAQ/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Wta Wuhan, China Women Singles - Sofia Kenin Vs Liudmila Samsonova (10/08/25)": {
-      "event_title": "Wta Wuhan, China Women Singles - Sofia Kenin Vs Liudmila Samsonova (10/08/25)",
-      "event_time": "12:40PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKCS6KRNFKED3KVPDUO3QGMQWIGJZGA3CMLBVKAJGAVK5INPV4PBDGFSXQ3TVMNSXQYLFN4IRQGIUAIAAAADKNVQGK6DOOVRHEYDZORVQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
       ]
@@ -398,6 +308,48 @@
         {
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKA2ZKNOVGEDDLBCTEPDQGMQWIBR7G4ZSKJDZOJNUCR2EKVIRA6L7OB3HE3T7OBZXEYLPPEBQEAYFAACAEEDZP5YHOZLWM5QXY/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Wuhan, China Women Doubles - Jovic I / Olmos G Vs Timea Babos/Luisa Stefani (10/08/25)": {
+      "event_title": "Wta Wuhan, China Women Doubles - Jovic I / Olmos G Vs Timea Babos/Luisa Stefani (10/08/25)",
+      "event_time": "02:45PM",
+      "event_date": "10/08/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKE26IRNFOEDZCAPXGGR4FA6TO5IXMUSDQZINLBPVMVIQOJIVEPBGP4ESOLJGGFSQCPZAH5IFYWQUDINBAA3TP55GKZDEP55GKYD3OVUQQCYCCQNBUEACMRTWE53F/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Wuhan, China Women Doubles - Kichenok L / Perez E Vs Mihalikova T / Nicholls O (10/08/25)": {
+      "event_title": "Wta Wuhan, China Women Doubles - Kichenok L / Perez E Vs Mihalikova T / Nicholls O (10/08/25)",
+      "event_time": "02:55PM",
+      "event_date": "10/08/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKESYKFNVCXS7LMIB65L7MUBCCJZVH5ZA4ZJPIIJH4XKYKFOFSOB2EYSHEEDVP5SRYIRGGFPF4X2HCB7RAGTZOVRWK6DOOVTGK6DBMVVQCAQCAQAQCEA2PF2WE4TAOZTWQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Atp Shanghai, China Men Double - Arevalo M / Pavic M Vs A.Krajicek/N.Mektic (10/08/25)": {
+      "event_title": "Atp Shanghai, China Men Double - Arevalo M / Pavic M Vs A.Krajicek/N.Mektic (10/08/25)",
+      "event_time": "03:00PM",
+      "event_date": "10/08/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKGCDK5CVKXC7CB6XG6TQCUZTEPBTMUPWWMZKCFZR272CKFNFSMBQHNVBY2QYGUXCMIRGPENRQEYHCANBUEDFOV5G64TWMVQHKYTZO54RWGATAYDQEAQCNI/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
