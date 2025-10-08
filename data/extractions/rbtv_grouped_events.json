@@ -1,18 +1,4 @@
 {
-  "East Asia Super League - Taoyuan Pilots Vs Ryukyu Golden Kings (10/08/25)": {
-    "event_title": "East Asia Super League - Taoyuan Pilots Vs Ryukyu Golden Kings (10/08/25)",
-    "event_time": "09:15PM",
-    "event_date": "10/08/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "SKA",
-        "url": "https://world-proxifier.xyz/rbtv/p/CY2CGMLSAUTDSJDSDAYCSVCACN4FKUKXIU3HK7LFAYSTUKJQGMSWKCKYLZOEAQYQIZBXGBZJGA4T2IDQAI6SOIJ4L4JHQXK6K5BRA6L7OB3XE3T7OB3WE63UPENRQEYFBEEQSATEM5YG66DEMNRHOY34OY/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-        "duration": null
-      }
-    ]
-  },
   "Liga Nationala De Baschet Masculin - Corona Brasov Vs Phoenix Galati (10/08/25)": {
     "event_title": "Liga Nationala De Baschet Masculin - Corona Brasov Vs Phoenix Galati (10/08/25)",
     "event_time": "10:00PM",
@@ -61,6 +47,110 @@
       }
     ]
   },
+  "Baloncesto Euroliga Femenina - Olympiacos Piraeus Vs Valencia Basket (10/08/25)": {
+    "event_title": "Baloncesto Euroliga Femenina - Olympiacos Piraeus Vs Valencia Basket (10/08/25)",
+    "event_time": "11:25PM",
+    "event_date": "10/08/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "MOVISTAR",
+        "url": "https://world-proxifier.xyz/rbtv/p/CE2DYKR4E4YCGMJ5NMACYQ25L5OVOUIQKY3DQNJLHMVDI4DIOICCSIC4IJNFKU27IMIAGPBCEQ3TCJTQGMQWWEZYLVLV2V2ZKEIHEMRGHMQCMZD7PJSWA23POMIQAAYEAEIBUGTTM5QHKYDUNRSGK6DBMVXQGAAAA4BQ/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Euroleague Women - Olympiakos Women Vs Valencia Women (10/08/25)": {
+    "event_title": "Euroleague Women - Olympiakos Women Vs Valencia Women (10/08/25)",
+    "event_time": "11:30PM",
+    "event_date": "10/08/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "MOVISTAR",
+        "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNMJDMXCXLUKB2ED7LQVDQIBMGMXTUI3FAUSCQPC7CJCUOEDGKFODMOZTFQZWIAR7FA3SKZLTDMJACFA2DIIAEY3FMFSXQ3TVMF6GW4TXMECBEGI6CADAEATBMNSQ/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNMJDMXCXLUKB2ED7LQVDQIBMGMXTUI3FAUSCQPC7CJCUOEDGKFODMOZTFQZWIAR7FA3SKZLTDMJACFA2DIIAG437PJSWG7LMNF3WU7TFOMNREAIDAIBAOCA/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Korisliiga - Joensuun Kataja Vs Kouvot (10/08/25)": {
+    "event_title": "Korisliiga - Joensuun Kataja Vs Kouvot (10/08/25)",
+    "event_time": "11:30PM",
+    "event_date": "10/08/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/DA5CELBBFA6DSIRTNNUHS625KZNEGRKFLZZR4MJRGMXDI4BTEFVQ4NSEIROEAEA2DIIGC5L2N5ZHO5L2N5ZHU7DABAAAWDAQDINBAYLCMJ3WU5Q/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Korisliiga - Nilan Bisons Vs Kauhajoen Karhu (10/08/25)": {
+    "event_title": "Korisliiga - Nilan Bisons Vs Kauhajoen Karhu (10/08/25)",
+    "event_time": "11:30PM",
+    "event_date": "10/08/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/DA5CELBBFA6DSIRTNNUHS723L5KV4EDSLEQDUPRWOIZCM4AOGM7C2OC3LVLFUED3KFBDWIDQN54GIZ3QN54GW5TZDMMBGBIJBEEQE23MOBXXQZDHM53WA43U/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Korisliiga - Tampereen Pyrinto Vs Namika Lahti (10/08/25)": {
+    "event_title": "Korisliiga - Tampereen Pyrinto Vs Namika Lahti (10/08/25)",
+    "event_time": "11:30PM",
+    "event_date": "10/08/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/DA5CELBBFA6DSIRTNNUHSZKTLZCFKQSVKU6XKAB4EAWTWJBKOI6TM6L7KNPF2W2RCB6DEPJEFRZG473QO5ZGC33ZAIJBSHQQAEEQS2THNBZHE3T7OB3WK6LXMEAQ/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Korisliiga - Uu-Korihait Vs Lapuan Korikobrat (10/08/25)": {
+    "event_title": "Korisliiga - Uu-Korihait Vs Lapuan Korikobrat (10/08/25)",
+    "event_time": "11:30PM",
+    "event_date": "10/08/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/DA5CELBBFA6DSIRTNNUHSZDHDZ7V6QSZLAZDYJDFEQ3XKHBEEI7CINYRPFOEMWK3L5JCCNBEMV4G45LCMV4GCZLKCEMBSFABBEEQSYLNMZSXQ3TVMJZGA6LSMA/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Lithuania Cup - Nevezis Kedainiai Vs Gargzdu Sc (10/08/25)": {
+    "event_title": "Lithuania Cup - Nevezis Kedainiai Vs Gargzdu Sc (10/08/25)",
+    "event_time": "11:30PM",
+    "event_date": "10/08/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/D46CILJHEU5TSJDSBAYCSEI7CN5FKRSVJI5CM4AOG4QDIOJLHMVCY6KHIEJXGUKCK5FDOIDQCYIWI732MVQGW33TCEARGHQ2CAAQS2TMMJ6GEZD7PJSWA7DXNMDAK/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+        "duration": null
+      }
+    ]
+  },
   "Odi Series Afghanistan Vs Bangladesh - Afghanistan Vs Bangladesh (10/08/25) [STREAM 32[HD]]": {
     "event_title": "Odi Series Afghanistan Vs Bangladesh - Afghanistan Vs Bangladesh (10/08/25) [STREAM 32[HD]]",
     "event_time": "08:00PM",
@@ -85,20 +175,6 @@
         "channel_name": null,
         "url": "https://world-proxifier.xyz/rbtv/p/A5TWAZIFFMTTYILSBAYCSHISOJDVSUI5OUJAK4AUE4STSOJDHMXDO5IRMBLFGWK7LZIT65IWFQ6CKOLQNBZAKIBJKBPBGQSDCB5UKJBUHEYXE3T7OBZXEYLPPEBREGI6CAAQSCLKMZUHG4TOP5YHOZLZO5XAE/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Czech Third League - Frydek-Mistek Vs Polanka (10/08/25)": {
-    "event_title": "Czech Third League - Frydek-Mistek Vs Polanka (10/08/25)",
-    "event_time": "09:30PM",
-    "event_date": "10/08/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/CAXTKJR2MQATQLBAF5SRKVCTKRAVKEA5CAKSOKJBG4XXQHJMEE7SAMQRIRABIYC7LRIT2PRRMV4G45LBMV4GCZLKCEMBSFAEAIAQEYDEMNSXQ3TVMN2WU7T4NM/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
       }
     ]
@@ -163,6 +239,20 @@
       }
     ]
   },
+  "International Club Friendly - Fc Augsburg Vs Ssv Ulm 1846 (10/08/25)": {
+    "event_title": "International Club Friendly - Fc Augsburg Vs Ssv Ulm 1846 (10/08/25)",
+    "event_time": "11:30PM",
+    "event_date": "10/08/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/DI5SIIBAFI2CILB5EUSDKELRL5AVEEDWII5DAPRBHY6XK7LFCQEGKGCEKVAFMRKCK4ICKJTQCYARE5IFFE7WW5DBAUCBGHQ2CAARA6L7OB3HE3T7OBYWA4TSMEBQUEY6DIIAGADLMNQHM/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
   "Premier Padel 2025  - Milan P1 Day 3 Match 4 (10/08/25)": {
     "event_title": "Premier Padel 2025  - Milan P1 Day 3 Match 4 (10/08/25)",
     "event_time": "08:00PM",
@@ -172,60 +262,6 @@
       {
         "channel_name": "SKA",
         "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAEJVSUKEKNMHGYLQN54GIZTQN54GW53JAEBRGHQ2CABAAY3EMBZGMZD7PJSWI6LXNMEAW/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Atp Shanghai, China Men Singles - Learner Tien Vs Daniil Medvedev (10/08/25)": {
-    "event_title": "Atp Shanghai, China Men Singles - Learner Tien Vs Daniil Medvedev (10/08/25)",
-    "event_time": "08:15PM",
-    "event_date": "10/08/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "SKA",
-        "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L5K5JEMXSVIIIAOPBVFNZDEJTQAEZSKLBQLUJH4UKUIZKVINRDOBXXQZDGOBXXQ23XNEAQGEY6DIIACCLKNVSX2ZTEP55GKZDZO5VQSCQ/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "MOVISTAR2",
-        "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L5K5JEMXSVIIIAOPBVFNZDEJTQAEZSKLBQLUJH4UKUIZKVINRDOBXXQZDGOBXXQ23XNEAQGEY6DIIACCLKNVSX2ZTEP55GKZDZO5VAEBQ/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L5K5JEMXSVIIIAOPBVFNZDEJTQAEZSKLBQLUJH4UKUIZKVINRDOBXXQZDGOBXXQ23TPENRQEYFBEEQQBLLMFYG66DEM5TXOYD6OI/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Atp Shanghai, China Men Singles - Learner Tien Vs Daniil Medvedev (10/08/25) [STREAM 23[HD]]": {
-    "event_title": "Atp Shanghai, China Men Singles - Learner Tien Vs Daniil Medvedev (10/08/25) [STREAM 23[HD]]",
-    "event_time": "08:15PM",
-    "event_date": "10/08/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": null,
-        "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L5K5JEMXSVIIIAOPBVFNZDEJTQAEZSKLBQLUJH4UKUIZKVINRDOBXXQZDGOBXXQ23XPENRQEYFBEEQQBLLMFYG66DEM5TXOYD3OI/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Wta 125K Mallorca, Spain Women Singles - Teodora Kostovic Vs Mayar Sherif (10/08/25)": {
-    "event_title": "Wta 125K Mallorca, Spain Women Singles - Teodora Kostovic Vs Mayar Sherif (10/08/25)",
-    "event_time": "09:40PM",
-    "event_date": "10/08/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CBSDMORUFIQCK5I3FIQT6KRPLBIRGQSDCB6VCKRUEJSQCLBQEIWDI23POMIQCEY6DIIAMEDZP5YHI235NRRXOY3LN5ZRCAAEAYBAMBI/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
       }
