@@ -1,19 +1,17 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-08T11:37:28.327677
+Extraction Time: 2025-10-08T11:49:35.356995
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 18
-- Total Channels: 23
+- Unique Events: 17
+- Total Channels: 22
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
-- Arctic Open, Doubles - Eliel Melleri/Nella Nyqvist Vs Hao Na...
-  Time: 07:00PM, Channels: 1
 - East Asia Super League - Alvark Tokyo Vs Ulaanbaatar Xac Bro...
   Time: 06:10PM, Channels: 2
 - Philippines Mpbl - Ilagan Isabela Cowboys Vs Bataan Risers (...

@@ -1,19 +1,9 @@
 {
-  "timestamp": "2025-10-08T11:37:28.327677",
+  "timestamp": "2025-10-08T11:49:35.356995",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
   "events": [
-    {
-      "event_time": "07:00PM",
-      "event_date": "10/08/25",
-      "channel_name": "VDO",
-      "event_title": "Arctic Open, Doubles - Eliel Melleri/Nella Nyqvist Vs Hao Nan Xie / Wei Han Zeng (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXS5K5IZLFYVKDCB7HKFJJHMQTS4AIG4TSSPCDLMOHUVK4LRIXGGZJGQSC2JREMUSDQZIRKBORG6SRLYIGQORQOBVHEEZQHFSRUKRLPFVVOXKTCANBUEDCM5YG66DEM5QHKY3LN5ZRCAADAQAQCAQFON7XUZLEOZTWG4LG/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-      "group_title": "BADMINTON"
-    },
     {
       "event_time": "06:10PM",
       "event_date": "10/08/25",
@@ -232,20 +222,6 @@
     }
   ],
   "grouped_events": {
-    "Arctic Open, Doubles - Eliel Melleri/Nella Nyqvist Vs Hao Nan Xie / Wei Han Zeng (10/08/25)": {
-      "event_title": "Arctic Open, Doubles - Eliel Melleri/Nella Nyqvist Vs Hao Nan Xie / Wei Han Zeng (10/08/25)",
-      "event_time": "07:00PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXS5K5IZLFYVKDCB7HKFJJHMQTS4AIG4TSSPCDLMOHUVK4LRIXGGZJGQSC2JREMUSDQZIRKBORG6SRLYIGQORQOBVHEEZQHFSRUKRLPFVVOXKTCANBUEDCM5YG66DEM5QHKY3LN5ZRCAADAQAQCAQFON7XUZLEOZTWG4LG/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "East Asia Super League - Alvark Tokyo Vs Ulaanbaatar Xac Broncos (10/08/25)": {
       "event_title": "East Asia Super League - Alvark Tokyo Vs Ulaanbaatar Xac Broncos (10/08/25)",
       "event_time": "06:10PM",
