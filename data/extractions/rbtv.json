@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-08T09:17:06.566297",
+  "timestamp": "2025-10-08T09:39:44.548219",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -25,7 +25,7 @@
       "group_title": "BASKETBALL"
     },
     {
-      "event_time": "05:00PM",
+      "event_time": "06:10PM",
       "event_date": "10/08/25",
       "channel_name": "SKA",
       "event_title": "East Asia Super League - Alvark Tokyo Vs Ulaanbaatar Xac Broncos (10/08/25)",
@@ -35,33 +35,23 @@
       "group_title": "BASKETBALL"
     },
     {
-      "event_time": "02:00PM",
+      "event_time": "05:30PM",
       "event_date": "10/08/25",
-      "event_title": "T20 World Cup, Asia-Eap Qualifier, Regional Final - Oman Vs Samoa (10/08/25) [STREAM 22[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/A5TWAZIFFMTTYILSBAYCSHISOJDVSUI5OUJAK4AUE4STSOJDHMXDO5IRMBLFGWK7LZIT65IWFQ6CKOLQNBZAIKBYL4JEKRYQMNIV2PBUOBXXQZDDOBXXQ23XPENRQEYFBEEQSA3EMZYG66DEM5TXOYD2OE/index.m3u8",
+      "channel_name": "SKA",
+      "event_title": "World Cup, Women - Australia Women Vs Pakistan Women (10/08/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNL6NMJDMXCXLUKB2EDRIUQCCIREHYWTI4ASHUTCANYRIRABIYCRLNMSAIJRFNZBGOR5EA6GW33TCECBGHQ2CABAAY3EOBXXQZDENF6GW6DSMAIRQGIUAYBAEA3CMU/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
       "group_title": "CRICKET"
     },
     {
-      "event_time": "03:30PM",
+      "event_time": "05:30PM",
       "event_date": "10/08/25",
-      "channel_name": "SD",
-      "event_title": "Korean K League 2 - Ansan Greeners Fc Vs Chungnam Asan (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DA5CEIBTFJ2RWZI6FYSD4RCXCMDBAHIQOE6SMMJLOIBSONJAHQXDOKQRORYBIRSDCBZTWIB6EI6CKODQAQQSUK3ZDMMBGBIQDINBAYDVPJXXE4DEMNZGE7T4PENRQEYHAAEAKB3C/index.m3u8",
+      "event_title": "World Cup, Women - Australia Women Vs Pakistan Women (10/08/25) [STREAM 47[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNL6NMJDMXCXLUKB2EDRIUQCCIREHYWTI4ASHUTCANYRIRABIYCRLNMSAIJRFNZBGOR5EA6GW33TCECBGHQ2CABBA6L7OB2GW7LMMNZGW23POMIQABAGAICAK/index.m3u8",
       "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "03:30PM",
-      "event_date": "10/08/25",
-      "channel_name": "SD",
-      "event_title": "Korean K League 2 - Bucheon Fc 1995 Vs Seongnam Fc (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DA5CEIBTFJ2RWZI6FYSD4RCXCMDBAHIQOITDMOBAHUVHKFQGOJ5HYYAECJCUOEDDKVPT2MR6EQ7WIEYTMV4GCZLICEMBSFADCANBU43BMF3GK5DMNFSXQYLFNIAQUBQDAI/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
+      "group_title": "CRICKET"
     },
     {
       "event_time": "04:00PM",
@@ -72,16 +62,6 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "03:20PM",
-      "event_date": "10/08/25",
-      "channel_name": "VDO",
-      "event_title": "Wta Wuhan, China Women Singles - Aryna Sabalenka Vs Rebecca Sramkova (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGCDJNOVKEDDKFJDEOJVFM4SK5JGGZZBSIB3KRIVAVIQMNBFCPR6H4ZTGZD7PJSWC23POMIQAAYEAEIBUGTTM5QHKYT5NRRGK6DBMVXQGAABAMEA/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
     },
     {
       "event_time": "03:20PM",
@@ -186,7 +166,7 @@
     },
     "East Asia Super League - Alvark Tokyo Vs Ulaanbaatar Xac Broncos (10/08/25)": {
       "event_title": "East Asia Super League - Alvark Tokyo Vs Ulaanbaatar Xac Broncos (10/08/25)",
-      "event_time": "05:00PM",
+      "event_time": "06:10PM",
       "event_date": "10/08/25",
       "category": null,
       "channels": [
@@ -198,44 +178,30 @@
         }
       ]
     },
-    "T20 World Cup, Asia-Eap Qualifier, Regional Final - Oman Vs Samoa (10/08/25) [STREAM 22[HD]]": {
-      "event_title": "T20 World Cup, Asia-Eap Qualifier, Regional Final - Oman Vs Samoa (10/08/25) [STREAM 22[HD]]",
-      "event_time": "02:00PM",
+    "World Cup, Women - Australia Women Vs Pakistan Women (10/08/25)": {
+      "event_title": "World Cup, Women - Australia Women Vs Pakistan Women (10/08/25)",
+      "event_time": "05:30PM",
       "event_date": "10/08/25",
       "category": null,
       "channels": [
         {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/A5TWAZIFFMTTYILSBAYCSHISOJDVSUI5OUJAK4AUE4STSOJDHMXDO5IRMBLFGWK7LZIT65IWFQ6CKOLQNBZAIKBYL4JEKRYQMNIV2PBUOBXXQZDDOBXXQ23XPENRQEYFBEEQSA3EMZYG66DEM5TXOYD2OE/index.m3u8",
+          "channel_name": "SKA",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNL6NMJDMXCXLUKB2EDRIUQCCIREHYWTI4ASHUTCANYRIRABIYCRLNMSAIJRFNZBGOR5EA6GW33TCECBGHQ2CABAAY3EOBXXQZDENF6GW6DSMAIRQGIUAYBAEA3CMU/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
           "duration": null
         }
       ]
     },
-    "Korean K League 2 - Ansan Greeners Fc Vs Chungnam Asan (10/08/25)": {
-      "event_title": "Korean K League 2 - Ansan Greeners Fc Vs Chungnam Asan (10/08/25)",
-      "event_time": "03:30PM",
+    "World Cup, Women - Australia Women Vs Pakistan Women (10/08/25) [STREAM 47[HD]]": {
+      "event_title": "World Cup, Women - Australia Women Vs Pakistan Women (10/08/25) [STREAM 47[HD]]",
+      "event_time": "05:30PM",
       "event_date": "10/08/25",
       "category": null,
       "channels": [
         {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/DA5CEIBTFJ2RWZI6FYSD4RCXCMDBAHIQOE6SMMJLOIBSONJAHQXDOKQRORYBIRSDCBZTWIB6EI6CKODQAQQSUK3ZDMMBGBIQDINBAYDVPJXXE4DEMNZGE7T4PENRQEYHAAEAKB3C/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Korean K League 2 - Bucheon Fc 1995 Vs Seongnam Fc (10/08/25)": {
-      "event_title": "Korean K League 2 - Bucheon Fc 1995 Vs Seongnam Fc (10/08/25)",
-      "event_time": "03:30PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/DA5CEIBTFJ2RWZI6FYSD4RCXCMDBAHIQOITDMOBAHUVHKFQGOJ5HYYAECJCUOEDDKVPT2MR6EQ7WIEYTMV4GCZLICEMBSFADCANBU43BMF3GK5DMNFSXQYLFNIAQUBQDAI/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNL6NMJDMXCXLUKB2EDRIUQCCIREHYWTI4ASHUTCANYRIRABIYCRLNMSAIJRFNZBGOR5EA6GW33TCECBGHQ2CABBA6L7OB2GW7LMMNZGW23POMIQABAGAICAK/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
           "duration": null
         }
       ]
@@ -260,12 +226,6 @@
       "event_date": "10/08/25",
       "category": null,
       "channels": [
-        {
-          "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGCDJNOVKEDDKFJDEOJVFM4SK5JGGZZBSIB3KRIVAVIQMNBFCPR6H4ZTGZD7PJSWC23POMIQAAYEAEIBUGTTM5QHKYT5NRRGK6DBMVXQGAABAMEA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
         {
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGCDJNOVKEDDKFJDEOJVFM4SK5JGGZZBSIB3KRIVAVIQMNBFCPR6H4ZTGZD7PJSWC23POMIQIEY6DIIAEADDMVUXYYDEP55GKYD4O5VQEAA/index.m3u8",

@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-08T09:17:06.566297
+Extraction Time: 2025-10-08T09:39:44.548219
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 14
-- Total Channels: 16
+- Unique Events: 13
+- Total Channels: 14
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -15,17 +15,15 @@ EVENT BREAKDOWN:
 - National Basketball League - Sydney Kings Vs Melbourne Unite...
   Time: 04:30PM, Channels: 2
 - East Asia Super League - Alvark Tokyo Vs Ulaanbaatar Xac Bro...
-  Time: 05:00PM, Channels: 1
-- T20 World Cup, Asia-Eap Qualifier, Regional Final - Oman Vs ...
-  Time: 02:00PM, Channels: 1
-- Korean K League 2 - Ansan Greeners Fc Vs Chungnam Asan (10/0...
-  Time: 03:30PM, Channels: 1
-- Korean K League 2 - Bucheon Fc 1995 Vs Seongnam Fc (10/08/25...
-  Time: 03:30PM, Channels: 1
+  Time: 06:10PM, Channels: 1
+- World Cup, Women - Australia Women Vs Pakistan Women (10/08/...
+  Time: 05:30PM, Channels: 1
+- World Cup, Women - Australia Women Vs Pakistan Women (10/08/...
+  Time: 05:30PM, Channels: 1
 - Women'S Champions Cup - Wuhan Jianghan Women Vs Auckland Ff ...
   Time: 04:00PM, Channels: 1
 - Wta Wuhan, China Women Singles - Aryna Sabalenka Vs Rebecca ...
-  Time: 03:20PM, Channels: 2
+  Time: 03:20PM, Channels: 1
 - Wta Wuhan, China Women Singles - Aryna Sabalenka Vs Rebecca ...
   Time: 03:20PM, Channels: 1
 - Premier Padel 2025  - Milan P1 Day 3 Match 1 (10/08/25)
