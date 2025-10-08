@@ -1,12 +1,12 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Wed Oct  8 08:45:24 UTC 2025
+Last updated: Wed Oct  8 09:17:07 UTC 2025
 
-Workflow run: #1055
+Workflow run: #1056
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-10-08T08:45:24.268972
+Extracted at: 2025-10-08T09:17:06.566297
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -25,5 +25,5 @@ Available Channels (2):
 
 ================================================================================
 
-EVENT: T20 World Cup, Asia-Eap Qualifier, Regional Final - Oman Vs Samoa (10/08/25) [STREAM 22[HD]]
+EVENT: East Asia Super League - Alvark Tokyo Vs Ulaanbaatar Xac Broncos (10/08/25)
 ```

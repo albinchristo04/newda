@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-08T08:45:24.268972
+Extraction Time: 2025-10-08T09:17:06.566297
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 13
-- Total Channels: 15
+- Unique Events: 14
+- Total Channels: 16
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -14,6 +14,8 @@ STATISTICS:
 EVENT BREAKDOWN:
 - National Basketball League - Sydney Kings Vs Melbourne Unite...
   Time: 04:30PM, Channels: 2
+- East Asia Super League - Alvark Tokyo Vs Ulaanbaatar Xac Bro...
+  Time: 05:00PM, Channels: 1
 - T20 World Cup, Asia-Eap Qualifier, Regional Final - Oman Vs ...
   Time: 02:00PM, Channels: 1
 - Korean K League 2 - Ansan Greeners Fc Vs Chungnam Asan (10/0...
@@ -22,10 +24,6 @@ EVENT BREAKDOWN:
   Time: 03:30PM, Channels: 1
 - Women'S Champions Cup - Wuhan Jianghan Women Vs Auckland Ff ...
   Time: 04:00PM, Channels: 1
-- Wta Wuhan, China Women Singles - Zhang Shuai Vs Sorana Cirst...
-  Time: 02:30PM, Channels: 1
-- Wta Wuhan, China Women Doubles - Kichenok L / Perez E Vs Mih...
-  Time: 02:55PM, Channels: 1
 - Wta Wuhan, China Women Singles - Aryna Sabalenka Vs Rebecca ...
   Time: 03:20PM, Channels: 2
 - Wta Wuhan, China Women Singles - Aryna Sabalenka Vs Rebecca ...
@@ -36,5 +34,9 @@ EVENT BREAKDOWN:
   Time: 04:00PM, Channels: 1
 - Wta Wuhan, China Women Doubles - Guo H / Panova A Vs Chan H-...
   Time: 04:25PM, Channels: 1
+- Atp Shanghai, China Men Double - Schnaitter J / Wallner M Vs...
+  Time: 04:40PM, Channels: 1
 - Wta Wuhan, China Women Singles - Naomi Osaka Vs Linda Noskov...
-  Time: 04:50PM, Channels: 1
+  Time: 04:55PM, Channels: 1
+- Premier Padel 2025  - Milan P1 Day 3 Match 2 (10/08/25)
+  Time: 05:00PM, Channels: 1
