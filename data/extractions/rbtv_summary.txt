@@ -1,38 +1,42 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-08T02:36:35.168655
+Extraction Time: 2025-10-08T03:20:00.644126
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 12
-- Total Channels: 26
+- Unique Events: 14
+- Total Channels: 15
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
 - Major League Baseball - New York Yankees Vs Toronto Blue Jay...
-  Time: 08:08AM, Channels: 2
+  Time: 08:08AM, Channels: 1
 - Major League Baseball - New York Yankees Vs Toronto Blue Jay...
-  Time: 08:08AM, Channels: 2
-- National Basketball Association - Minnesota Timberwolves Vs ...
-  Time: 08:00AM, Channels: 2
+  Time: 08:08AM, Channels: 1
 - Santino Bros Wrestling - Aew Dynamite (10/08/25)
-  Time: 08:00AM, Channels: 2
+  Time: 08:00AM, Channels: 1
 - Wwe - Wwe Nxt (10/08/25)
-  Time: 08:00AM, Channels: 2
-- Brazilian Serie B - Botafogo Sp Vs Sc Paysandu Para (10/08/2...
-  Time: 08:35AM, Channels: 2
+  Time: 08:00AM, Channels: 1
 - Usl Championship - Oakland Roots Vs Hartford Athletic (10/08...
-  Time: 10:00AM, Channels: 2
+  Time: 10:00AM, Channels: 1
 - Usl Championship - Oakland Roots Vs Hartford Athletic (10/08...
-  Time: 10:00AM, Channels: 2
-- National Hockey League - New York Rangers Vs Pittsburgh Peng...
-  Time: 08:00AM, Channels: 2
-- National Hockey League - New York Rangers Vs Pittsburgh Peng...
-  Time: 08:00AM, Channels: 2
+  Time: 10:00AM, Channels: 1
 - National Hockey League - Los Angeles Kings Vs Colorado Avala...
-  Time: 10:30AM, Channels: 4
+  Time: 10:30AM, Channels: 1
 - National Hockey League - Los Angeles Kings Vs Colorado Avala...
-  Time: 10:30AM, Channels: 2
+  Time: 10:30AM, Channels: 1
+- Wta Wuhan, China Women Doubles - Aoyama S / Bucsa C Vs Anna ...
+  Time: 11:00AM, Channels: 1
+- Wta Wuhan, China Women Singles - Ekaterina Alexandrova Vs An...
+  Time: 11:00AM, Channels: 1
+- Wta Wuhan, China Women Singles - Hailey Baptiste Vs Jessica ...
+  Time: 11:00AM, Channels: 2
+- Wta Wuhan, China Women Singles - Hailey Baptiste Vs Jessica ...
+  Time: 11:00AM, Channels: 1
+- Wta Wuhan, China Women Singles - Iva Jovic Vs Jessica Bouzas...
+  Time: 11:00AM, Channels: 1
+- Wta Wuhan, China Women Singles - Joint Maya Vs Katerina Sini...
+  Time: 11:00AM, Channels: 1
