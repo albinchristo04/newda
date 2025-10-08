@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-08T23:38:43.228169",
+  "timestamp": "2025-10-08T23:49:26.413385",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -316,6 +316,15 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
       "group_title": "MOTORSPORT"
+    },
+    {
+      "event_time": "04:30AM",
+      "event_date": "10/09/25",
+      "event_title": "College Golf - 2025 Nb3 Collegiate Match Play, Final Day (10/09/25) [STREAM 38[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CA5DYKJXEMYHAAR5E4RXSHASAECAEBIQPYIWM4AGHUUDSNJCHMVDCPARP5JEAU2YCBQD6NBJNFZAEPB6EQ7GWAJYJAJBSHQQBEABA6L7OB3XE3T7OB6GM73TNAIRQGIUBABQGADB/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ots_active.webp",
+      "group_title": "OTHERS"
     },
     {
       "event_time": "04:30AM",
@@ -751,6 +760,12 @@
       "event_date": "10/09/25",
       "category": null,
       "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/CA5DYKJXEMYHAAR5E4RXSHASAECAEBIQPYIWM4AGHUUDSNJCHMVDCPARP5JEAU2YCBQD6NBJNFZAEPB6EQ7GWAJYJAJBSHQQBEABA6L7OB3XE3T7OB6GM73TNAIRQGIUBABQGADB/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ots_active.webp",
+          "duration": null
+        },
         {
           "channel_name": null,
           "url": "https://world-proxifier.xyz/rbtv/p/CA5DYKJXEMYHAAR5E4RXSHASAECAEBIQPYIWM4AGHUUDSNJCHMVDCPARP5JEAU2YCBQD6NBJNFZAEPB6EQ7GWAJYJAJBSHQQBEABA6L7OB3XE3T7OB6GM73TNAIRQGIUBABQGADB/index.m3u8",

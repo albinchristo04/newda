@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-08T23:38:43.228169
+Extraction Time: 2025-10-08T23:49:26.413385
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
 - Unique Events: 28
-- Total Channels: 34
+- Total Channels: 35
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -67,4 +67,4 @@ EVENT BREAKDOWN:
 - Fia European Truck Racing Championship - Supercars (10/09/25...
   Time: 04:30AM, Channels: 1
 - College Golf - 2025 Nb3 Collegiate Match Play, Final Day (10...
-  Time: 04:30AM, Channels: 2
+  Time: 04:30AM, Channels: 3
