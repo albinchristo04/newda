@@ -1,29 +1,7 @@
-Extracted at: 2025-10-08T03:45:25.526385
+Extracted at: 2025-10-08T04:18:18.473766
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
-
-EVENT: Major League Baseball - New York Yankees Vs Toronto Blue Jays (10/08/25)
-Time: 08:08AM
-Date: 10/08/25
-Category: None
-Available Channels (1):
-  1. HDK A
-     URL: https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4ALG4ZXKCJKEAQGKACQLRMFCVKDCBDCA5IEFIQCWOZEFJZASKJMKQJHSVKJIMIBU6LVMRSXQ3TVMZSXQYLFNAEAWCQHAUERAGTZOVRHEYDVMNTQ/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
-
-================================================================================
-
-EVENT: Major League Baseball - New York Yankees Vs Toronto Blue Jays (10/08/25) [STREAM 35[HD]]
-Time: 08:08AM
-Date: 10/08/25
-Category: None
-Available Channels (1):
-  1. None
-     URL: https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4ALG4ZXKCJKEAQGKACQLRMFCVKDCBDCA5IEFIQCWOZEFJZASKJMKQJHSVKJIMIBU6LVMRSXQ3TVMJSXQYLFNAEAWCQHAUERAGTZOVRHEYDVMNRA/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
-
-================================================================================
 
 EVENT: Santino Bros Wrestling - Aew Dynamite (10/08/25)
 Time: 08:00AM
@@ -44,28 +22,6 @@ Available Channels (1):
   1. HDD A
      URL: https://world-proxifier.xyz/rbtv/p/AQBBKZL7MQBAOADSAUOQ2EIYDEKACBAQDJ4XKZTFPBXHKYTVMJ5XY3YGCIMR4EACA4BGEY3A/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp
-
-================================================================================
-
-EVENT: Usl Championship - Oakland Roots Vs Hartford Athletic (10/08/25) [STREAM 39[HD]]
-Time: 10:00AM
-Date: 10/08/25
-Category: None
-Available Channels (1):
-  1. None
-     URL: https://world-proxifier.xyz/rbtv/p/AYDBYZIRFQ2D2NJ3EQVSUWK3IMKB2ED7KE4DSMJLGZSAOPZKEY4GKL2CCJ5VKQSEKZPSCMLQAQTCYOJVGE5SQZLTDMJAEFA2DIIAE437PJSWM5LHMZ6GM43FOMNREAAEBACQMBY/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-
-================================================================================
-
-EVENT: Usl Championship - Oakland Roots Vs Hartford Athletic (10/08/25)
-Time: 10:00AM
-Date: 10/08/25
-Category: None
-Available Channels (1):
-  1. SD
-     URL: https://world-proxifier.xyz/rbtv/p/AYDBYZIRFQ2D2NJ3EQVSUWK3IMKB2ED7KE4DSMJLGZSAOPZKEY4GKL2CCJ5VKQSEKZPSCMLQAQTCYOJVGE5SQZLTDMJAEFA2DIIAG437PJSWM5LHMZ6GM43FOMNREAAEBACQMBQ/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
 ================================================================================
 
@@ -156,6 +112,17 @@ Category: None
 Available Channels (1):
   1. HDD A
      URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKE26LNOUAED5KFETE5JGGZZA6NBEEAQCEKZYCFQVUWSZKFNV6JJUOBXXQZDGOBXXQ23TPENRQEYGAAAAABLCMBYG66DEM5TXOY3SOA/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Wta Wuhan, China Women Singles - Moyuka Uchijima Vs Coco Gauff (10/08/25)
+Time: 12:30PM
+Date: 10/08/25
+Category: None
+Available Channels (1):
+  1. VDO
+     URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFC6JNDF6UIQMVJTWPB2FQ7SK5JGGZZAQKR2LYJHIVKFKZLBA6L7OB3HE3T7OB3WE63UPENRQEYGAAAAABLFNVYG66DEMNRHOYD4OI/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
 
 ================================================================================
