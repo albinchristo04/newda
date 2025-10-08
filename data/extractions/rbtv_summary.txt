@@ -1,11 +1,11 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-08T05:33:29.698281
+Extraction Time: 2025-10-08T05:49:29.622018
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 14
+- Unique Events: 13
 - Total Channels: 17
 - Individual Streams: 0
 - Media Segments: 0
@@ -22,10 +22,6 @@ EVENT BREAKDOWN:
   Time: 01:00PM, Channels: 1
 - Korean K League 2 - Incheon United Club Vs Suwon Samsung Blu...
   Time: 01:00PM, Channels: 1
-- National Hockey League - Los Angeles Kings Vs Colorado Avala...
-  Time: 10:30AM, Channels: 1
-- National Hockey League - Los Angeles Kings Vs Colorado Avala...
-  Time: 10:30AM, Channels: 1
 - Wta Wuhan, China Women Singles - Hailey Baptiste Vs Jessica ...
   Time: 11:00AM, Channels: 2
 - Wta Wuhan, China Women Singles - Hailey Baptiste Vs Jessica ...
@@ -39,4 +35,6 @@ EVENT BREAKDOWN:
 - Wta Wuhan, China Women Singles - Sofia Kenin Vs Liudmila Sam...
   Time: 12:40PM, Channels: 1
 - Wta Wuhan, China Women Singles - Moyuka Uchijima Vs Coco Gau...
-  Time: 01:40PM, Channels: 1
+  Time: 01:50PM, Channels: 2
+- Wta Wuhan, China Women Singles - Moyuka Uchijima Vs Coco Gau...
+  Time: 01:50PM, Channels: 1
