@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-08T10:41:31.120244",
+  "timestamp": "2025-10-08T10:50:48.985935",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -118,16 +118,6 @@
       "channel_name": "HDD A",
       "event_title": "Wta 125K Mallorca, Spain Women Singles - Darja Semenistaja Vs Andrea Lazaro Garcia (10/08/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB2DEJZ2ERZBOMB5EA6CENRNKBMFEFCGIMIHCPJREIQDGZAZGE7TGOJKPF3FGQKXLFIRAGTZOVRWK6DOOVTGK6DBMVUAQCYKA4BAGEA2PF2WE4TAOZTGG/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "04:55PM",
-      "event_date": "10/08/25",
-      "channel_name": "HDD A",
-      "event_title": "Wta Wuhan, China Women Singles - Naomi Osaka Vs Linda Noskova (10/08/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKF2QLVPF2ED7INITQNDQGMQWIGJZFM3CUZIXLZAVQW2GKEIBU6LVMNSXQ3TVMZSXQYLFNMAQEAQEAQCBAGTZOVRHEYDWMFSA/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
@@ -350,20 +340,6 @@
         {
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB2DEJZ2ERZBOMB5EA6CENRNKBMFEFCGIMIHCPJREIQDGZAZGE7TGOJKPF3FGQKXLFIRAGTZOVRWK6DOOVTGK6DBMVUAQCYKA4BAGEA2PF2WE4TAOZTGG/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Wta Wuhan, China Women Singles - Naomi Osaka Vs Linda Noskova (10/08/25)": {
-      "event_title": "Wta Wuhan, China Women Singles - Naomi Osaka Vs Linda Noskova (10/08/25)",
-      "event_time": "04:55PM",
-      "event_date": "10/08/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKF2QLVPF2ED7INITQNDQGMQWIGJZFM3CUZIXLZAVQW2GKEIBU6LVMNSXQ3TVMZSXQYLFNMAQEAQEAQCBAGTZOVRHEYDWMFSA/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
