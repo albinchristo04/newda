@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-08T17:31:24.082957",
+  "timestamp": "2025-10-08T17:49:31.775290",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -40,26 +40,6 @@
       "channel_name": "SD",
       "event_title": "Estonia And Latvia Basketball League - Bc Kalev Cramo Vs Latvijas Universitate (10/09/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/CYTCIKR4FU2HAJB4F5SRKUCGIVOVCEDSKEQD4NJRGASTSPDFDYXCIPSEK4JRSEDSOMIBQNB4EASGIFRCEQ7SIZJPIIJH6VKEIZMVUMRGOAIDYLJDGU3SCIRRHBCVOEY6DIIAEEDZP5YHM4TOP5YHOYT3ORUQIAQTDYNBAAQHMFTWS4I/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
-    },
-    {
-      "event_time": "12:00AM",
-      "event_date": "10/09/25",
-      "channel_name": "HDD A",
-      "event_title": "Eurocup Basketball - Bahcesehir Koleji Vs Reyer Venezia (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQRGESXABZTHAXDYRKQKJMFYEA5CAITIOBGG43TAOBMEBVQ4NS5K5MV2ECGIMIACMBJEAQGIAZVFM3TCLBYCEMBSFACCANBU43DOBXXQZDENF6GW4TXNAIRQGIUAIDQEATKNQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
-    },
-    {
-      "event_time": "12:00AM",
-      "event_date": "10/09/25",
-      "channel_name": "SD",
-      "event_title": "Euroleague Women - Mkb Euroleasing Women Vs Flammes Carolo Basket Women (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNMJDMXCXLUKB2ED5PMIXKFJQEAVTSNJEEERCWPQRMVOFSVK6CBDCA5IWFEZSSOBVGZZAQJBLLZPFYFDSKFBVWNRBOAJD2KJQHZSXQYLFNMIRQGIUAMIBUGTTMRUXY235M5RGK6DBMVVQMAABBQDQ/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
       "group_title": "BASKETBALL"
@@ -228,16 +208,6 @@
       "event_time": "01:30AM",
       "event_date": "10/09/25",
       "channel_name": "SD",
-      "event_title": "Euroleague Women - Basket Landes Vs Zaragoza Women (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNMJDMXCXLUKB2EDSKEQD4NJROIEDIPRBG44GKL2CCJUVKQSRK5PSSNDQCI6SSMB6MV4GCZLLCEMBSFADCANBU43ENF6GW7LAMRSXQYLFNMDAAAAFBE/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
-    },
-    {
-      "event_time": "01:30AM",
-      "event_date": "10/09/25",
-      "channel_name": "SD",
       "event_title": "Europe Women\u2019S Challenge Basketball - Elfic Fribourg Women Vs Esb Villeneuve-D'Ascq Women (10/09/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKRCEF2QOKR7FYV3XMNLIAKHGWCRLQ7TAPRCG5SBOMJWHEXDCO2QLZPRIHIQOVODKPBTMUKDMPBSFITTSITZMZOV4UK6CBDEG4YQAMDXEER4HQUTOJJAFRDVOHSQC5YUGUZCOUDSUPZBHNYG66DLO54RWGATA4IBUGQQMFSWA5LHOVWHA33YNN3W4AYBAIGA/index.m3u8",
       "duration": null,
@@ -371,16 +341,6 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
       "group_title": "CRICKET"
-    },
-    {
-      "event_time": "12:00AM",
-      "event_date": "10/09/25",
-      "channel_name": "SD",
-      "event_title": "Uefa El W - Inter Milan Women Vs Vllaznia Shkoder Women (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSAEMXAETSMZSRAX2GKZDBA7KZLQZDW4ASHUUTAPTFEQ4GKD25LZJE4XSZKEIAAPJ3FI3CCJ3QCI6SMIBXCEMBSFABCANBU43GOBXXQZDBMJ6WK63WNAIRQGIUAMAAQBTDNQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
     },
     {
       "event_time": "12:00AM",
@@ -734,6 +694,16 @@
       "group_title": "FOOTBALL"
     },
     {
+      "event_time": "01:45AM",
+      "event_date": "10/09/25",
+      "channel_name": "VFC",
+      "event_title": "C - 9 Benjamin - Cd El Pilar Vs Ad Nervi\u00f3n  - Cd Antonio Puerta (10/09/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CB2X2ZLLMQLRKCYYBIEBA7YSDYKHG5AQOU7XKABMHYSSO4BTEFVQIHIRPRLEMRSZ6OBT25LQNBZAOELQAQ6D6KRXLBORGZCFKVBEIMTVPJXXE5LVPJXXE6LVNEABEGI6CACAECLLMRUXA4TOP5YHGYDZOZWAO/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
       "event_time": "12:45AM",
       "event_date": "10/09/25",
       "channel_name": "HDD A DEUTSCH",
@@ -848,34 +818,6 @@
         {
           "channel_name": "SD",
           "url": "https://world-proxifier.xyz/rbtv/p/CYTCIKR4FU2HAJB4F5SRKUCGIVOVCEDSKEQD4NJRGASTSPDFDYXCIPSEK4JRSEDSOMIBQNB4EASGIFRCEQ7SIZJPIIJH6VKEIZMVUMRGOAIDYLJDGU3SCIRRHBCVOEY6DIIAEEDZP5YHM4TOP5YHOYT3ORUQIAQTDYNBAAQHMFTWS4I/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Eurocup Basketball - Bahcesehir Koleji Vs Reyer Venezia (10/09/25)": {
-      "event_title": "Eurocup Basketball - Bahcesehir Koleji Vs Reyer Venezia (10/09/25)",
-      "event_time": "12:00AM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQRGESXABZTHAXDYRKQKJMFYEA5CAITIOBGG43TAOBMEBVQ4NS5K5MV2ECGIMIACMBJEAQGIAZVFM3TCLBYCEMBSFACCANBU43DOBXXQZDENF6GW4TXNAIRQGIUAIDQEATKNQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Euroleague Women - Mkb Euroleasing Women Vs Flammes Carolo Basket Women (10/09/25)": {
-      "event_title": "Euroleague Women - Mkb Euroleasing Women Vs Flammes Carolo Basket Women (10/09/25)",
-      "event_time": "12:00AM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNMJDMXCXLUKB2ED5PMIXKFJQEAVTSNJEEERCWPQRMVOFSVK6CBDCA5IWFEZSSOBVGZZAQJBLLZPFYFDSKFBVWNRBOAJD2KJQHZSXQYLFNMIRQGIUAMIBUGTTMRUXY235M5RGK6DBMVVQMAABBQDQ/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
           "duration": null
         }
@@ -1094,12 +1036,6 @@
           "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNMJDMXCXLUKB2EDSKEQD4NJROIEDIPRBG44GKL2CCJUVKQSRK5PSSNDQCI6SSMB6MV4GCZLLCEMBSFACAAAAC437PJSWG7LMNF6GO73FOMNREBIGAIBQGAI/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
           "duration": null
-        },
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNMJDMXCXLUKB2EDSKEQD4NJROIEDIPRBG44GKL2CCJUVKQSRK5PSSNDQCI6SSMB6MV4GCZLLCEMBSFADCANBU43ENF6GW7LAMRSXQYLFNMDAAAAFBE/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
         }
       ]
     },
@@ -1287,20 +1223,6 @@
           "channel_name": null,
           "url": "https://world-proxifier.xyz/rbtv/p/A5TWAZIFFMTTYILSBAYCSHISOJDVSUI5OUJAK4AUE4STSOJDHMXDO5IRMBLFGWK7LZIT65IWFQ6CKOLQNBZAKIBJKBPBGQSDCB5UKJBUHEYXE3T7OBZXEYLPPEBREGI6CAAQSCLKMZUHG4TOP5YHOZLZO5XAE/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Uefa El W - Inter Milan Women Vs Vllaznia Shkoder Women (10/09/25)": {
-      "event_title": "Uefa El W - Inter Milan Women Vs Vllaznia Shkoder Women (10/09/25)",
-      "event_time": "12:00AM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSAEMXAETSMZSRAX2GKZDBA7KZLQZDW4ASHUUTAPTFEQ4GKD25LZJE4XSZKEIAAPJ3FI3CCJ3QCI6SMIBXCEMBSFABCANBU43GOBXXQZDBMJ6WK63WNAIRQGIUAMAAQBTDNQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }
       ]
@@ -1684,6 +1606,20 @@
         {
           "channel_name": null,
           "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCMBBM6LFP5VQYN2VLVOVCQ2ZKEICKJTQCYZTCMJZMUJTSJB3LBJRGHQ2CAARA6L7OB3XE3T7OBYWA7DUNMDQCEY6DIIAGADLMNSXA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "C - 9 Benjamin - Cd El Pilar Vs Ad Nervi\u00f3n  - Cd Antonio Puerta (10/09/25)": {
+      "event_title": "C - 9 Benjamin - Cd El Pilar Vs Ad Nervi\u00f3n  - Cd Antonio Puerta (10/09/25)",
+      "event_time": "01:45AM",
+      "event_date": "10/09/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "VFC",
+          "url": "https://world-proxifier.xyz/rbtv/p/CB2X2ZLLMQLRKCYYBIEBA7YSDYKHG5AQOU7XKABMHYSSO4BTEFVQIHIRPRLEMRSZ6OBT25LQNBZAOELQAQ6D6KRXLBORGZCFKVBEIMTVPJXXE5LVPJXXE6LVNEABEGI6CACAECLLMRUXA4TOP5YHGYDZOZWAO/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }

@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-08T17:31:24.082957
+Extraction Time: 2025-10-08T17:49:31.775290
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 62
-- Total Channels: 81
+- Unique Events: 60
+- Total Channels: 78
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -17,10 +17,6 @@ EVENT BREAKDOWN:
 - Basketball Champions League - Szolnoki Olajbanyasz Vs Onyx L...
   Time: 12:00AM, Channels: 2
 - Estonia And Latvia Basketball League - Bc Kalev Cramo Vs Lat...
-  Time: 12:00AM, Channels: 1
-- Eurocup Basketball - Bahcesehir Koleji Vs Reyer Venezia (10/...
-  Time: 12:00AM, Channels: 1
-- Euroleague Women - Mkb Euroleasing Women Vs Flammes Carolo B...
   Time: 12:00AM, Channels: 1
 - Europe Women’S Challenge Basketball - Royals Tv Saarlouis Wo...
   Time: 12:00AM, Channels: 1
@@ -51,7 +47,7 @@ EVENT BREAKDOWN:
 - Superettan Basket - Eskilstuna Bbk Vs Kfum Fryshuset (10/09/...
   Time: 01:00AM, Channels: 1
 - Euroleague Women - Basket Landes Vs Zaragoza Women (10/09/25...
-  Time: 01:30AM, Channels: 2
+  Time: 01:30AM, Channels: 1
 - Europe Women’S Challenge Basketball - Elfic Fribourg Women V...
   Time: 01:30AM, Channels: 1
 - Liga Nationala De Baschet Masculin - Csm Oradea Vs Csu Aseso...
@@ -78,8 +74,6 @@ EVENT BREAKDOWN:
   Time: 08:00PM, Channels: 1
 - T20 World Cup, Asia-Eap Qualifier, Regional Final - Nepal Vs...
   Time: 11:00PM, Channels: 1
-- Uefa El W - Inter Milan Women Vs Vllaznia Shkoder Women (10/...
-  Time: 12:00AM, Channels: 1
 - World Cup Qualification (Caf) - Central African Republic Vs ...
   Time: 12:00AM, Channels: 2
 - World Cup Qualification (Caf) - Central African Republic Vs ...
@@ -122,6 +116,8 @@ EVENT BREAKDOWN:
   Time: 01:15AM, Channels: 4
 - World Cup Qualification (Afc) - Indonesia Vs Saudi Arabia (1...
   Time: 01:15AM, Channels: 1
+- C - 9 Benjamin - Cd El Pilar Vs Ad Nervión  - Cd Antonio Pue...
+  Time: 01:45AM, Channels: 1
 - Ehf Champions League - Gog Vs Magdeburg (10/09/25)
   Time: 12:45AM, Channels: 1
 - Challenger Atp Challenger Roanne, France, Men Singles - Pabl...
