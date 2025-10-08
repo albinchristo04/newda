@@ -1,4 +1,4 @@
-Extracted at: 2025-10-08T07:50:44.274426
+Extracted at: 2025-10-08T08:21:24.098427
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -50,14 +50,14 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: Supercars Championship - Supercars: Street Party (10/08/25)
-Time: 02:30PM
+EVENT: Women'S Champions Cup - Wuhan Jianghan Women Vs Auckland Ff (W) (10/08/25)
+Time: 04:00PM
 Date: 10/08/25
 Category: None
 Available Channels (1):
-  1. HDD A
-     URL: https://world-proxifier.xyz/rbtv/p/AAQCAIBAE42CENTSBAWTQXCCLJNV4Q2YLERXK7LFAEYSKNJXGEVDOKQLCJQEAQSVKVCHGBJRG4TD25L2N5ZHYZLTDMJAKFA2DIIAEY3FMB6GO4TVPJXXE6LSNMBQAAQ/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/AQ5D2IB4MMTHABR2FIUCSWC5LVDRA42FIBZXQ4ASE4WDIPTFDARCIN2WLJJFUEDHL5OTMO3QGMQWIFBFEY4SOJBXKUJHK4QQDBDRS437PJSWGZD7PJSWC23POMIQMAQMBADQSB3TP55GKYLUNVSXEYI/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
 ================================================================================
 
@@ -70,7 +70,7 @@ Available Channels (3):
      URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L7I5OVWEDSL5BDIMBDMUSDO5IRFE3TGZJ5KQJH4XK6KFCUE437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCDGNVTWK6DOOVTHOYDZPVXQ/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
   2. MOVISTAR2
-     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L7I5OVWEDSL5BDIMBDMUSDO5IRFE3TGZJ5KQJH4XK6KFCUE437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCDGNVTWK6DOOVTHOYDZPRWA/index.m3u8
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L7I5OVWEDSL5BDIMBDMUSDO5IRFE3TGZJ5KQJH4XK6KFCUE437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCDGNVTWK6DOOVTHOYDYOFQA/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
   3. HDD A
      URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6L7I5OVWEDSL5BDIMBDMUSDO5IRFE3TGZJ5KQJH4XK6KFCUE437PJSWCZD7PJSWI23POMIQGCQNBACQQB3TP55GKYDTM5RHOYA/index.m3u8
@@ -165,6 +165,39 @@ Category: None
 Available Channels (1):
   1. SKA
      URL: https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAEJVSUKEKNMHGZDQN54GIZTQN54GW53JAEBRGHQ2CABAAY3EMBZGGZD7PJSWI6LXNMEAI/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Wta 125K Mallorca, Spain Women Singles - Darja Semenistaja Vs Andrea Lazaro Garcia (10/08/25)
+Time: 04:00PM
+Date: 10/08/25
+Category: None
+Available Channels (1):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB2DEJZ2ERZBOMB5EA6CENRNKBMFEFCGIMIHCPJREIQDGZAZGE7TGOJKPF3FGQKXLFIRAGTZOVRWK6DOOVTGK6DBMVUAQCYKA4BAGEA2PF2WE4TAOZTGG/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Wta Wuhan, China Women Doubles - Guo H / Panova A Vs Chan H-C / Jiang X (10/08/25)
+Time: 04:20PM
+Date: 10/08/25
+Category: None
+Available Channels (1):
+  1. HDD B
+     URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKHSELUJXYEA7CBQDEOZ7GMZWIFDQGMQWWBRRKBOBG7A5OMIB64Y7HESDYI3VBBSXQYLFNIIRQGIUAYIBUGTTM5QHKY3UMBUGK6DBMVVQMAABA4CQ/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Wta Wuhan, China Women Singles - Naomi Osaka Vs Linda Noskova (10/08/25)
+Time: 04:20PM
+Date: 10/08/25
+Category: None
+Available Channels (1):
+  1. HDD B
+     URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKF2QLVPF2ED7INITQNDQGMQWIGJZFM3CUZIXLZAVQW2GKEIBU6LVMNSXQ3TVMZSXQYLFNMAQEAQEAQCBAGTZOVRHEYDWMZSA/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
 
 ================================================================================
