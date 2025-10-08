@@ -1,11 +1,11 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-08T05:49:29.622018
+Extraction Time: 2025-10-08T06:23:49.726406
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 13
+- Unique Events: 14
 - Total Channels: 17
 - Individual Streams: 0
 - Media Segments: 0
@@ -14,6 +14,8 @@ STATISTICS:
 EVENT BREAKDOWN:
 - Korean Basketball League - Wonju Dongbu Promy Vs Anyang Kgc ...
   Time: 01:00PM, Channels: 1
+- T20 World Cup, Asia-Eap Qualifier, Regional Final - Oman Vs ...
+  Time: 02:00PM, Channels: 1
 - Santino Bros Wrestling - Aew Dynamite (10/08/25)
   Time: 08:00AM, Channels: 1
 - Korean K League 2 - Cheonan City Vs Busan I Park (10/08/25)
@@ -22,12 +24,8 @@ EVENT BREAKDOWN:
   Time: 01:00PM, Channels: 1
 - Korean K League 2 - Incheon United Club Vs Suwon Samsung Blu...
   Time: 01:00PM, Channels: 1
-- Wta Wuhan, China Women Singles - Hailey Baptiste Vs Jessica ...
-  Time: 11:00AM, Channels: 2
-- Wta Wuhan, China Women Singles - Hailey Baptiste Vs Jessica ...
-  Time: 11:00AM, Channels: 1
-- Atp Shanghai, China Men Singles - Arthur Rinderknech Vs Jiri...
-  Time: 12:30PM, Channels: 3
+- Supercars Championship - Supercars: Street Party (10/08/25)
+  Time: 02:30PM, Channels: 1
 - Atp Shanghai, China Men Singles - Arthur Rinderknech Vs Jiri...
   Time: 12:30PM, Channels: 1
 - Wta Wuhan, China Women Singles - Magdalena Frech Vs Karolina...
@@ -35,6 +33,10 @@ EVENT BREAKDOWN:
 - Wta Wuhan, China Women Singles - Sofia Kenin Vs Liudmila Sam...
   Time: 12:40PM, Channels: 1
 - Wta Wuhan, China Women Singles - Moyuka Uchijima Vs Coco Gau...
-  Time: 01:50PM, Channels: 2
+  Time: 02:10PM, Channels: 2
 - Wta Wuhan, China Women Singles - Moyuka Uchijima Vs Coco Gau...
-  Time: 01:50PM, Channels: 1
+  Time: 02:10PM, Channels: 1
+- Atp Shanghai, China Men Singles - Nuno Borges Vs Alex De Min...
+  Time: 02:20PM, Channels: 3
+- Atp Shanghai, China Men Singles - Nuno Borges Vs Alex De Min...
+  Time: 02:20PM, Channels: 1
