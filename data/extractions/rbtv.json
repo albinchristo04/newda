@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-08T07:30:08.186971",
+  "timestamp": "2025-10-08T07:41:24.799005",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -148,6 +148,16 @@
       "channel_name": "VDO",
       "event_title": "Wta Wuhan, China Women Singles - Aryna Sabalenka Vs Rebecca Sramkova (10/08/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGCDJNOVKEDDKFJDEOJVFM4SK5JGGZZBSIB3KRIVAVIQMNBFCPR6H4ZTGZD7PJSWC23POMIQAAYEAEIBUGTTM5QHKYT5NRRGK6DBMVXQGAABAMEA/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "03:20PM",
+      "event_date": "10/08/25",
+      "channel_name": "HDD A",
+      "event_title": "Wta Wuhan, China Women Singles - Aryna Sabalenka Vs Rebecca Sramkova (10/08/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGCDJNOVKEDDKFJDEOJVFM4SK5JGGZZBSIB3KRIVAVIQMNBFCPR6H4ZTGZD7PJSWC23POMIQIEY6DIIAEADDMVUXYYDEP55GKYD4O5VQEAA/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
@@ -354,6 +364,12 @@
         {
           "channel_name": "VDO",
           "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGCDJNOVKEDDKFJDEOJVFM4SK5JGGZZBSIB3KRIVAVIQMNBFCPR6H4ZTGZD7PJSWC23POMIQAAYEAEIBUGTTM5QHKYT5NRRGK6DBMVXQGAABAMEA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKGCDJNOVKEDDKFJDEOJVFM4SK5JGGZZBSIB3KRIVAVIQMNBFCPR6H4ZTGZD7PJSWC23POMIQIEY6DIIAEADDMVUXYYDEP55GKYD4O5VQEAA/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
