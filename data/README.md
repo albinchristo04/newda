@@ -1,29 +1,29 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Wed Oct  8 17:49:32 UTC 2025
+Last updated: Wed Oct  8 18:23:18 UTC 2025
 
-Workflow run: #1081
+Workflow run: #1082
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-10-08T17:49:31.775290
+Extracted at: 2025-10-08T18:23:18.216977
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
 
-EVENT: Adriatic Basketball D2 - Siroki Prima Pivo Vs Sutjeska (10/09/25)
-Time: 12:00AM
+EVENT: Basketball Champions League - Tofas Spor Kulübü Vs Bnei Herzliya (10/09/25)
+Time: 01:00AM
 Date: 10/09/25
 Category: None
-Available Channels (1):
-  1. SD
-     URL: https://world-proxifier.xyz/rbtv/p/CIYSELBTGA6DGZIQFI3DEVCGKFKVYXAQORQXK7LFAEWSOPZOHNVRKK2YL5JBIYCZIZPXGIZDMUATCIJ2EAQSAJDZDMMBGBQQDINBAYDVPJXXE5LMNF6GW6DWPENRQEYGA4BAECDL/index.m3u8
+Available Channels (2):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFAYSCGOCCCJQEIX2CCB5SMOMT7EYIP2LQGMQWWBZXKRNRG7CVIJFFYORMGFSXQ3TVMJSXQYLFN4IRQGIUAEEQSCLKMFRWK6DOOVRHEYDYORWA/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/CE2CGLRXGA3TCKJ6NMDDCUC7INOV6XSDCAPTAMJCE4QXK7LFAYSCGOCCCJQEIX2CCB5SMOMT7EYIP2LQGMQWWBZXKRNRG7CVIJFFYORMGFSXQ3TVMJSXQYLFNIIRQGIUAEEQSCLKMFRWK6DOOVRHEYDYOVQA/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
 
 ================================================================================
 
-EVENT: Basketball Champions League - Szolnoki Olajbanyasz Vs Onyx Levice (10/09/25)
-Time: 12:00AM
-Date: 10/09/25
-Category: None
+EVENT: Eurocup Basketball - Aris Tt Bank Vs Hamburg (10/09/25)
 ```
