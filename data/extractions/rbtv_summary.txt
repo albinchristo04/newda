@@ -1,13 +1,50 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-08T11:13:03.885006
+Extraction Time: 2025-10-08T11:26:52.502525
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 0
-- Total Channels: 0
+- Unique Events: 18
+- Total Channels: 46
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
+EVENT BREAKDOWN:
+- Arctic Open, Doubles - Eliel Melleri/Nella Nyqvist Vs Hao Na...
+  Time: 07:00PM, Channels: 2
+- East Asia Super League - Alvark Tokyo Vs Ulaanbaatar Xac Bro...
+  Time: 06:10PM, Channels: 4
+- Philippines Mpbl - Ilagan Isabela Cowboys Vs Bataan Risers (...
+  Time: 06:10PM, Channels: 2
+- East Asia Super League - Fubon Braves Vs Utsunomiya Brex (10...
+  Time: 06:40PM, Channels: 4
+- World Cup, Women - Australia Women Vs Pakistan Women (10/08/...
+  Time: 05:30PM, Channels: 2
+- World Cup, Women - Australia Women Vs Pakistan Women (10/08/...
+  Time: 05:30PM, Channels: 2
+- T20 World Cup, Asia-Eap Qualifier, Regional Final - United A...
+  Time: 06:30PM, Channels: 2
+- Ukrainian First League - Fc Inhulets Petrove Vs Ahrobiznes V...
+  Time: 06:00PM, Channels: 2
+- Ybc Levain Cup - Kawasaki Frontale Vs Kashiwa Reysol (10/08/...
+  Time: 06:00PM, Channels: 2
+- Ybc Levain Cup - Yokohama Fc Vs Sanfrecce Hiroshima (10/08/2...
+  Time: 06:00PM, Channels: 2
+- Premier Padel 2025  - Milan P1 Day 3 Match 2 (10/08/25)
+  Time: 05:00PM, Channels: 2
+- Atp Shanghai, China Men Singles - Felix Auger-Aliassime Vs L...
+  Time: 06:30PM, Channels: 6
+- Atp Shanghai, China Men Singles - Felix Auger-Aliassime Vs L...
+  Time: 06:30PM, Channels: 2
+- Premier Padel 2025  - Milan P1 Day 3 Match 3 (10/08/25)
+  Time: 06:30PM, Channels: 2
+- Wta Wuhan, China Women Singles - Jasmine Paolini Vs Yuan Yue...
+  Time: 07:00PM, Channels: 4
+- Wta Wuhan, China Women Singles - Jasmine Paolini Vs Yuan Yue...
+  Time: 07:00PM, Channels: 2
+- Wta 125K Mallorca, Spain Women Singles - Ekaterine Gorgodze ...
+  Time: 07:10PM, Channels: 2
+- Turkish Cup Women - Ilbank Women Vs Kuzey Boru Genclik Women...
+  Time: 06:00PM, Channels: 2
