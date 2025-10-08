@@ -1,9 +1,19 @@
 {
-  "timestamp": "2025-10-08T22:49:29.299581",
+  "timestamp": "2025-10-08T23:13:44.012109",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
   "events": [
+    {
+      "event_time": "04:00AM",
+      "event_date": "10/09/25",
+      "channel_name": "HDK A",
+      "event_title": "Major League Baseball - Detroit Tigers Vs Seattle Mariners (10/09/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4ABG4YCOPZMEZVRCMCWK5AUOECGIMIAAMBRGETCQMDQBAZTSLBXKRAEAFA2DIIAI437PJSWIZD7PJSWA63VNECQOBAUDINBAATEM5RXEYI/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL"
+    },
     {
       "event_time": "05:08AM",
       "event_date": "10/09/25",
@@ -24,6 +34,25 @@
       "group_title": "BASEBALL"
     },
     {
+      "event_time": "07:08AM",
+      "event_date": "10/09/25",
+      "channel_name": "HDK A",
+      "event_title": "Major League Baseball - New York Yankees Vs Toronto Blue Jays (10/09/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4ALG4ZXKCJKEAQGKACQLRMFCVKDCBDCA5IEFIQCWOZEFJZASKJMKQJHSVKJIMIBU6LVMRSXQ3TVMZSXQYLFNMAQEAIEAYEBAGTZOVRHEYDXMJTQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL"
+    },
+    {
+      "event_time": "07:08AM",
+      "event_date": "10/09/25",
+      "event_title": "Major League Baseball - New York Yankees Vs Toronto Blue Jays (10/09/25) [STREAM 23[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4ALG4ZXKCJKEAQGKACQLRMFCVKDCBDCA5IEFIQCWOZEFJZASKJMKQJHSVKJIMIBU6LVMRSXQ3TVMJSXQYLFNMAQEAIEAYEBAGTZOVRHEYDXMNUA/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL"
+    },
+    {
       "event_time": "06:30AM",
       "event_date": "10/09/25",
       "channel_name": "HDD A",
@@ -32,16 +61,6 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
       "group_title": "FIGHTING"
-    },
-    {
-      "event_time": "06:00AM",
-      "event_date": "10/09/25",
-      "channel_name": "SD",
-      "event_title": "Argentine Reserve League - Boca Juniors Reserve Vs Belgrano Reserves (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CITTOIB4GA6D4IDSDEQCUVCAIVIRA7CVKE2CANLFP5SBOPZGGNVQ6LC7LNOEMQYQMJKSAMBCGM3WIIZDMUIC4KJ6INJV2WYQMJKUGNRHEYQCCZD7PJSWG23POMIQCEY6DIIAIATKMBUHC23EP55GKYL3PVXQSCY/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
     },
     {
       "event_time": "06:00AM",
@@ -94,6 +113,113 @@
       "group_title": "FOOTBALL"
     },
     {
+      "event_time": "07:00AM",
+      "event_date": "10/09/25",
+      "channel_name": "SD",
+      "event_title": "Conmebol Copa Libertadores Femenino - Independiente Del Valle Women Vs Always Ready Women (10/09/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CANB4CAXAYNBYZIREQ2TQEL6LJLFKQSEKE3TUIRAEFSBGNJIG4SSYN26CIPBI6K6KRKSGMB6EE5SCOZEEBZC6IBVCFSFEWC4KUIGOPBYGUVXEMRGOACD4PBEEBBBEYKRKFKESEAEHI6SAPDEP55GKY3LN5ZRCAITDYNBABACNJTGE5TGMR7XUZLBPN6W6CAG/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "07:00AM",
+      "event_date": "10/09/25",
+      "channel_name": "SD",
+      "event_title": "Conmebol Copa Libertadores Femenino - Independiente Santa Fe (W) Vs Sc Corinthians Paulista Women (10/09/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CANB4CAXAYNBYZIREQ2TQEL6LJLFKQSEKE3TUIRAEFSBGNJIG4SSYN26CIPBI6K6KRKSGMB6EE5SCOZEEBZBQJBXIVJRG4SVCAMGO6TVEY3HEFYWOADD2OJMG5CVUWSVLZBRAYBSEA6CYIJQGRYBEPJGEA3RCGAZCQARAGQ2ONTHA33YMRQWE7DBPF3GUEIYDEKAGAAIAZVGM/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "07:00AM",
+      "event_date": "10/09/25",
+      "channel_name": "HDD A",
+      "event_title": "U20 World Cup - Japan U20 Vs France U20 (10/09/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN7FCQCRLZZQAYTVOIZCM4ADEAVCWOSUCJTAMAAQDINHGZDQN54GIY3QN54GW4LLBACQAAQGCANBU43GMB6WI7LN/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "07:00AM",
+      "event_date": "10/09/25",
+      "event_title": "U20 World Cup - Japan U20 Vs France U20 (10/09/25) [STREAM 20[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN7FCQCRLZZQAYTVOIZCM4ADEAVCWOSUCJTAMAAQDINHGZDQN54GIZ3QN54GW4LLBACQAAQGCANBU43GMB6WI7LC/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "07:00AM",
+      "event_date": "10/09/25",
+      "channel_name": "SD",
+      "event_title": "U20 World Cup - Japan U20 Vs France U20 (10/09/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN7FCQCRLZZQAYTVOIZCM4ADEAVCWOSUCJTAMAAQDINHGZDQN54GIZTQN54GW4LLBACQAAQGCANBU43GMB6WI7LA/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "07:00AM",
+      "event_date": "10/09/25",
+      "channel_name": "HDD A",
+      "event_title": "U20 World Cup - Paraguay U20 Vs Norway U20 (10/09/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CNSFCQSRK4TDIKLFA53GK4BTEFVQWNSDIVJE2EDFAIAHG732MVRWI732MVSGW33TCEDACDIHAMDAO437PJSWC5DNMZ6GW/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "07:00AM",
+      "event_date": "10/09/25",
+      "channel_name": "HDD B ESPA\u00d1OL",
+      "event_title": "U20 World Cup - Paraguay U20 Vs Norway U20 (10/09/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CNSFCQSRK4TDIKLFA53GK4BTEFVQWNSDIVJE2EDFAIAHG732MVRWI732MVSGW33TCEDACDIHAMDAO437PJSWC5DNM52WE/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "07:00AM",
+      "event_date": "10/09/25",
+      "event_title": "U20 World Cup - Paraguay U20 Vs Norway U20 (10/09/25) [STREAM 6[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CNSFCQSRK4TDIKLFA53GK4BTEFVQWNSDIVJE2EDFAIAHG732MVRWI732MVQGW33TCEDACDIHAMDAO437PJSWC5DNMZ6GI/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "07:00AM",
+      "event_date": "10/09/25",
+      "channel_name": "SD",
+      "event_title": "U20 World Cup - Paraguay U20 Vs Norway U20 (10/09/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CNSFCQSRK4TDIKLFA53GK4BTEFVQWNSDIVJE2EDFAIAHG732MVRWI732MVQWW33TCEDACDIHAMDAO437PJSWC5DNMZ6GA/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "07:00AM",
+      "event_date": "10/09/25",
+      "channel_name": "HDD A",
+      "event_title": "National Hockey League - Toronto Maple Leafs Vs Montreal Canadiens (10/09/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFAYVSOPZLEYSGKFCQIJPVCED4KVITKJTQGMQWIGB7FMTDSIBYLUJHAVK6KFKFSNR3ENSXQ3TVMF2HEYLPPEDREGI6CABAAADDMRUH24TOP5YHOZLZOZXAC/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+      "group_title": "HOCKEY"
+    },
+    {
+      "event_time": "07:00AM",
+      "event_date": "10/09/25",
+      "event_title": "National Hockey League - Toronto Maple Leafs Vs Montreal Canadiens (10/09/25) [STREAM 3[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFAYVSOPZLEYSGKFCQIJPVCED4KVITKJTQGMQWIGB7FMTDSIBYLUJHAVK6KFKFSNR3ENSXQ3TVMF2HEYLPPEBREGI6CABAAADDMRUH24TOP5YHOZLZOZXAG/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+      "group_title": "HOCKEY"
+    },
+    {
       "event_time": "04:30AM",
       "event_date": "10/09/25",
       "channel_name": "HDD A",
@@ -123,6 +249,20 @@
     }
   ],
   "grouped_events": {
+    "Major League Baseball - Detroit Tigers Vs Seattle Mariners (10/09/25)": {
+      "event_title": "Major League Baseball - Detroit Tigers Vs Seattle Mariners (10/09/25)",
+      "event_time": "04:00AM",
+      "event_date": "10/09/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDK A",
+          "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4ABG4YCOPZMEZVRCMCWK5AUOECGIMIAAMBRGETCQMDQBAZTSLBXKRAEAFA2DIIAI437PJSWIZD7PJSWA63VNECQOBAUDINBAATEM5RXEYI/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+          "duration": null
+        }
+      ]
+    },
     "Major League Baseball - Chicago Cubs Vs Milwaukee Brewers (10/09/25)": {
       "event_title": "Major League Baseball - Chicago Cubs Vs Milwaukee Brewers (10/09/25)",
       "event_time": "05:08AM",
@@ -151,6 +291,34 @@
         }
       ]
     },
+    "Major League Baseball - New York Yankees Vs Toronto Blue Jays (10/09/25)": {
+      "event_title": "Major League Baseball - New York Yankees Vs Toronto Blue Jays (10/09/25)",
+      "event_time": "07:08AM",
+      "event_date": "10/09/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDK A",
+          "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4ALG4ZXKCJKEAQGKACQLRMFCVKDCBDCA5IEFIQCWOZEFJZASKJMKQJHSVKJIMIBU6LVMRSXQ3TVMZSXQYLFNMAQEAIEAYEBAGTZOVRHEYDXMJTQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Major League Baseball - New York Yankees Vs Toronto Blue Jays (10/09/25) [STREAM 23[HD]]": {
+      "event_title": "Major League Baseball - New York Yankees Vs Toronto Blue Jays (10/09/25) [STREAM 23[HD]]",
+      "event_time": "07:08AM",
+      "event_date": "10/09/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4ALG4ZXKCJKEAQGKACQLRMFCVKDCBDCA5IEFIQCWOZEFJZASKJMKQJHSVKJIMIBU6LVMRSXQ3TVMJSXQYLFNMAQEAIEAYEBAGTZOVRHEYDXMNUA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+          "duration": null
+        }
+      ]
+    },
     "Santino Bros Wrestling - 1Fw: Episode 2 (10/09/25)": {
       "event_title": "Santino Bros Wrestling - 1Fw: Episode 2 (10/09/25)",
       "event_time": "06:30AM",
@@ -161,20 +329,6 @@
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/AA2D4MJ3FI5HABZAEQ3HSZSAKZDUIXCZLY2HK7LFMMBAE2TFC45SYKS6KZLBIAQQDINHGZDEMV4G45LGMV4GCZLLAEBAEBAHAAIBU6LVMJZGA53DM4/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Argentine Reserve League - Boca Juniors Reserve Vs Belgrano Reserves (10/09/25)": {
-      "event_title": "Argentine Reserve League - Boca Juniors Reserve Vs Belgrano Reserves (10/09/25)",
-      "event_time": "06:00AM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CITTOIB4GA6D4IDSDEQCUVCAIVIRA7CVKE2CANLFP5SBOPZGGNVQ6LC7LNOEMQYQMJKSAMBCGM3WIIZDMUIC4KJ6INJV2WYQMJKUGNRHEYQCCZD7PJSWG23POMIQCEY6DIIAIATKMBUHC23EP55GKYL3PVXQSCY/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }
       ]
@@ -237,6 +391,136 @@
           "channel_name": "SD",
           "url": "https://world-proxifier.xyz/rbtv/p/DI5SIIBAFI2CILB5EUSDKELUIFOVKXSULQVHK7LFCU3DAPREGYVGKL2CCJYUMWKELFBTW5IGFQQCGPB6MUNTQKJYL5LEAFA2DIIAC437PJSWCZD7PJSWM6L4NQEQOAYUDINBAA3DNVTHYYQ/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Conmebol Copa Libertadores Femenino - Independiente Del Valle Women Vs Always Ready Women (10/09/25)": {
+      "event_title": "Conmebol Copa Libertadores Femenino - Independiente Del Valle Women Vs Always Ready Women (10/09/25)",
+      "event_time": "07:00AM",
+      "event_date": "10/09/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CANB4CAXAYNBYZIREQ2TQEL6LJLFKQSEKE3TUIRAEFSBGNJIG4SSYN26CIPBI6K6KRKSGMB6EE5SCOZEEBZC6IBVCFSFEWC4KUIGOPBYGUVXEMRGOACD4PBEEBBBEYKRKFKESEAEHI6SAPDEP55GKY3LN5ZRCAITDYNBABACNJTGE5TGMR7XUZLBPN6W6CAG/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Conmebol Copa Libertadores Femenino - Independiente Santa Fe (W) Vs Sc Corinthians Paulista Women (10/09/25)": {
+      "event_title": "Conmebol Copa Libertadores Femenino - Independiente Santa Fe (W) Vs Sc Corinthians Paulista Women (10/09/25)",
+      "event_time": "07:00AM",
+      "event_date": "10/09/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CANB4CAXAYNBYZIREQ2TQEL6LJLFKQSEKE3TUIRAEFSBGNJIG4SSYN26CIPBI6K6KRKSGMB6EE5SCOZEEBZBQJBXIVJRG4SVCAMGO6TVEY3HEFYWOADD2OJMG5CVUWSVLZBRAYBSEA6CYIJQGRYBEPJGEA3RCGAZCQARAGQ2ONTHA33YMRQWE7DBPF3GUEIYDEKAGAAIAZVGM/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "U20 World Cup - Japan U20 Vs France U20 (10/09/25)": {
+      "event_title": "U20 World Cup - Japan U20 Vs France U20 (10/09/25)",
+      "event_time": "07:00AM",
+      "event_date": "10/09/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN7FCQCRLZZQAYTVOIZCM4ADEAVCWOSUCJTAMAAQDINHGZDQN54GIY3QN54GW4LLBACQAAQGCANBU43GMB6WI7LN/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN7FCQCRLZZQAYTVOIZCM4ADEAVCWOSUCJTAMAAQDINHGZDQN54GIZTQN54GW4LLBACQAAQGCANBU43GMB6WI7LA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "U20 World Cup - Japan U20 Vs France U20 (10/09/25) [STREAM 20[HD]]": {
+      "event_title": "U20 World Cup - Japan U20 Vs France U20 (10/09/25) [STREAM 20[HD]]",
+      "event_time": "07:00AM",
+      "event_date": "10/09/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN7FCQCRLZZQAYTVOIZCM4ADEAVCWOSUCJTAMAAQDINHGZDQN54GIZ3QN54GW4LLBACQAAQGCANBU43GMB6WI7LC/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "U20 World Cup - Paraguay U20 Vs Norway U20 (10/09/25)": {
+      "event_title": "U20 World Cup - Paraguay U20 Vs Norway U20 (10/09/25)",
+      "event_time": "07:00AM",
+      "event_date": "10/09/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CNSFCQSRK4TDIKLFA53GK4BTEFVQWNSDIVJE2EDFAIAHG732MVRWI732MVSGW33TCEDACDIHAMDAO437PJSWC5DNMZ6GW/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD B ESPA\u00d1OL",
+          "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CNSFCQSRK4TDIKLFA53GK4BTEFVQWNSDIVJE2EDFAIAHG732MVRWI732MVSGW33TCEDACDIHAMDAO437PJSWC5DNM52WE/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CNSFCQSRK4TDIKLFA53GK4BTEFVQWNSDIVJE2EDFAIAHG732MVRWI732MVQWW33TCEDACDIHAMDAO437PJSWC5DNMZ6GA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "U20 World Cup - Paraguay U20 Vs Norway U20 (10/09/25) [STREAM 6[HD]]": {
+      "event_title": "U20 World Cup - Paraguay U20 Vs Norway U20 (10/09/25) [STREAM 6[HD]]",
+      "event_time": "07:00AM",
+      "event_date": "10/09/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CNSFCQSRK4TDIKLFA53GK4BTEFVQWNSDIVJE2EDFAIAHG732MVRWI732MVQGW33TCEDACDIHAMDAO437PJSWC5DNMZ6GI/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "National Hockey League - Toronto Maple Leafs Vs Montreal Canadiens (10/09/25)": {
+      "event_title": "National Hockey League - Toronto Maple Leafs Vs Montreal Canadiens (10/09/25)",
+      "event_time": "07:00AM",
+      "event_date": "10/09/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFAYVSOPZLEYSGKFCQIJPVCED4KVITKJTQGMQWIGB7FMTDSIBYLUJHAVK6KFKFSNR3ENSXQ3TVMF2HEYLPPEDREGI6CABAAADDMRUH24TOP5YHOZLZOZXAC/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "National Hockey League - Toronto Maple Leafs Vs Montreal Canadiens (10/09/25) [STREAM 3[HD]]": {
+      "event_title": "National Hockey League - Toronto Maple Leafs Vs Montreal Canadiens (10/09/25) [STREAM 3[HD]]",
+      "event_time": "07:00AM",
+      "event_date": "10/09/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFAYVSOPZLEYSGKFCQIJPVCED4KVITKJTQGMQWIGB7FMTDSIBYLUJHAVK6KFKFSNR3ENSXQ3TVMF2HEYLPPEBREGI6CABAAADDMRUH24TOP5YHOZLZOZXAG/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
           "duration": null
         }
       ]
