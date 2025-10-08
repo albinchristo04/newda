@@ -1,28 +1,9 @@
 {
-  "timestamp": "2025-10-08T21:49:35.653870",
+  "timestamp": "2025-10-08T22:14:39.765106",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
   "events": [
-    {
-      "event_time": "03:08AM",
-      "event_date": "10/09/25",
-      "channel_name": "HDK A",
-      "event_title": "Major League Baseball - Detroit Tigers Vs Seattle Mariners (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4ABG4YCOPZMEZVRCMCWK5AUOECGIMIAAMBRGETCQMDQBAZTSLBXKRAEAFA2DIIAI437PJSWIZD7PJSWA63VNECQOCYUDINBAATEM5RXAZA/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-      "group_title": "BASEBALL"
-    },
-    {
-      "event_time": "03:08AM",
-      "event_date": "10/09/25",
-      "event_title": "Major League Baseball - Detroit Tigers Vs Seattle Mariners (10/09/25) [STREAM 23[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4ABG4YCOPZMEZVRCMCWK5AUOECGIMIAAMBRGETCQMDQBAZTSLBXKRAEAFA2DIIAI437PJSWAZD7PJSWA63VNECQOCYUDINBAATEM5RXAZY/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-      "group_title": "BASEBALL"
-    },
     {
       "event_time": "05:08AM",
       "event_date": "10/09/25",
@@ -43,11 +24,61 @@
       "group_title": "BASEBALL"
     },
     {
-      "event_time": "04:00AM",
+      "event_time": "06:00AM",
       "event_date": "10/09/25",
       "channel_name": "SD",
-      "event_title": "Ecuadorian Campeonato Serie B - Chacaritas Sc Vs 22 De Julio (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CY3CKJBWFMTTSJB4NMDDQXCCKZNV4UKEL5ZQMNJXHMQXKETFP5VQMMKQKFJEMWKEKFBXGBQTMUSDO5LCO5ZC6IDZPNDV6XK7CANBU43EOBXXQZDGOBXXQ23RNMDQOBYHA4IBUGTTMZQH2ZD4MA/index.m3u8",
+      "event_title": "Argentine Reserve League - Boca Juniors Reserve Vs Belgrano Reserves (10/09/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CITTOIB4GA6D4IDSDEQCUVCAIVIRA7CVKE2CANLFP5SBOPZGGNVQ6LC7LNOEMQYQMJKSAMBCGM3WIIZDMUIC4KJ6INJV2WYQMJKUGNRHEYQCCZD7PJSWG23POMIQCEY6DIIAIATKMBUHC23EP55GKYL3PVXQSCY/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:00AM",
+      "event_date": "10/09/25",
+      "channel_name": "HDD A",
+      "event_title": "Brazilian Serie A - Atletico Mineiro Vs Sport Club Do Recife (10/09/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CETTCPZ3FA6DCK3SDAQCWWCXCN2RAHIQOETTSNJRHMTTU4AIHMSSAMCDLUJUEQYQMNADYJZEMUISQIBSMU3CIZILKRIVUUSVCANBU43EOBXXQZDDOBXXQ23RNACQGBAFBAIBUGTTMZQH2ZD5MQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:00AM",
+      "event_date": "10/09/25",
+      "channel_name": "SD",
+      "event_title": "Brazilian Serie A - Atletico Mineiro Vs Sport Club Do Recife (10/09/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CETTCPZ3FA6DCK3SDAQCWWCXCN2RAHIQOETTSNJRHMTTU4AIHMSSAMCDLUJUEQYQMNADYJZEMUISQIBSMU3CIZILKRIVUUSVCANBU43EOBXXQZDGOBXXQ23RNACQGBAFBAIBUGTTMZQH2ZD4MI/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:00AM",
+      "event_date": "10/09/25",
+      "channel_name": "SD",
+      "event_title": "Brazilian Serie B - Cuiaba Vs Gremio Novorizontino (10/09/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CETTCPZ3FA6DCK3SDAQCWWCXCN3BAHIQOMTDYMJHGNSCGI3FCU4SANCYLUJXUX2GL5BDULZ7FMTC2OZ7MV4GCZLICEMBSFADCANBU43BMFYGG4TDMNSXQYLFNIAQUBIMBA/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:00AM",
+      "event_date": "10/09/25",
+      "channel_name": "SD",
+      "event_title": "Brazilian Serie B - Operario Ferroviario Pr Vs Athletic Club (10/09/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CETTCPZ3FA6DCK3SDAQCWWCXCN3BAHIQP4RTAIREEAWTU4ADG44TONSHLNJEMWK7CBQAC5JGGZZAKIJYFE3T6LB2CFYV6QKSCANBU43EOBXXQZDGOBXXQ23RNACAGBICAQIBUGTTMZQH2ZD4MM/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:00AM",
+      "event_date": "10/09/25",
+      "channel_name": "SD",
+      "event_title": "International Friendly - Grenada Vs British Virgin Islands (10/09/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DI5SIIBAFI2CILB5EUSDKELUIFOVKXSULQVHK7LFCU3DAPREGYVGKL2CCJYUMWKELFBTW5IGFQQCGPB6MUNTQKJYL5LEAFA2DIIAC437PJSWCZD7PJSWM6L4NQEQOAYUDINBAA3DNVTHYYQ/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
@@ -82,34 +113,6 @@
     }
   ],
   "grouped_events": {
-    "Major League Baseball - Detroit Tigers Vs Seattle Mariners (10/09/25)": {
-      "event_title": "Major League Baseball - Detroit Tigers Vs Seattle Mariners (10/09/25)",
-      "event_time": "03:08AM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDK A",
-          "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4ABG4YCOPZMEZVRCMCWK5AUOECGIMIAAMBRGETCQMDQBAZTSLBXKRAEAFA2DIIAI437PJSWIZD7PJSWA63VNECQOCYUDINBAATEM5RXAZA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Major League Baseball - Detroit Tigers Vs Seattle Mariners (10/09/25) [STREAM 23[HD]]": {
-      "event_title": "Major League Baseball - Detroit Tigers Vs Seattle Mariners (10/09/25) [STREAM 23[HD]]",
-      "event_time": "03:08AM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4ABG4YCOPZMEZVRCMCWK5AUOECGIMIAAMBRGETCQMDQBAZTSLBXKRAEAFA2DIIAI437PJSWAZD7PJSWA63VNECQOCYUDINBAATEM5RXAZY/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "Major League Baseball - Chicago Cubs Vs Milwaukee Brewers (10/09/25)": {
       "event_title": "Major League Baseball - Chicago Cubs Vs Milwaukee Brewers (10/09/25)",
       "event_time": "05:08AM",
@@ -138,15 +141,77 @@
         }
       ]
     },
-    "Ecuadorian Campeonato Serie B - Chacaritas Sc Vs 22 De Julio (10/09/25)": {
-      "event_title": "Ecuadorian Campeonato Serie B - Chacaritas Sc Vs 22 De Julio (10/09/25)",
-      "event_time": "04:00AM",
+    "Argentine Reserve League - Boca Juniors Reserve Vs Belgrano Reserves (10/09/25)": {
+      "event_title": "Argentine Reserve League - Boca Juniors Reserve Vs Belgrano Reserves (10/09/25)",
+      "event_time": "06:00AM",
       "event_date": "10/09/25",
       "category": null,
       "channels": [
         {
           "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CY3CKJBWFMTTSJB4NMDDQXCCKZNV4UKEL5ZQMNJXHMQXKETFP5VQMMKQKFJEMWKEKFBXGBQTMUSDO5LCO5ZC6IDZPNDV6XK7CANBU43EOBXXQZDGOBXXQ23RNMDQOBYHA4IBUGTTMZQH2ZD4MA/index.m3u8",
+          "url": "https://world-proxifier.xyz/rbtv/p/CITTOIB4GA6D4IDSDEQCUVCAIVIRA7CVKE2CANLFP5SBOPZGGNVQ6LC7LNOEMQYQMJKSAMBCGM3WIIZDMUIC4KJ6INJV2WYQMJKUGNRHEYQCCZD7PJSWG23POMIQCEY6DIIAIATKMBUHC23EP55GKYL3PVXQSCY/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Brazilian Serie A - Atletico Mineiro Vs Sport Club Do Recife (10/09/25)": {
+      "event_title": "Brazilian Serie A - Atletico Mineiro Vs Sport Club Do Recife (10/09/25)",
+      "event_time": "06:00AM",
+      "event_date": "10/09/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/CETTCPZ3FA6DCK3SDAQCWWCXCN2RAHIQOETTSNJRHMTTU4AIHMSSAMCDLUJUEQYQMNADYJZEMUISQIBSMU3CIZILKRIVUUSVCANBU43EOBXXQZDDOBXXQ23RNACQGBAFBAIBUGTTMZQH2ZD5MQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CETTCPZ3FA6DCK3SDAQCWWCXCN2RAHIQOETTSNJRHMTTU4AIHMSSAMCDLUJUEQYQMNADYJZEMUISQIBSMU3CIZILKRIVUUSVCANBU43EOBXXQZDGOBXXQ23RNACQGBAFBAIBUGTTMZQH2ZD4MI/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Brazilian Serie B - Cuiaba Vs Gremio Novorizontino (10/09/25)": {
+      "event_title": "Brazilian Serie B - Cuiaba Vs Gremio Novorizontino (10/09/25)",
+      "event_time": "06:00AM",
+      "event_date": "10/09/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CETTCPZ3FA6DCK3SDAQCWWCXCN3BAHIQOMTDYMJHGNSCGI3FCU4SANCYLUJXUX2GL5BDULZ7FMTC2OZ7MV4GCZLICEMBSFADCANBU43BMFYGG4TDMNSXQYLFNIAQUBIMBA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Brazilian Serie B - Operario Ferroviario Pr Vs Athletic Club (10/09/25)": {
+      "event_title": "Brazilian Serie B - Operario Ferroviario Pr Vs Athletic Club (10/09/25)",
+      "event_time": "06:00AM",
+      "event_date": "10/09/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CETTCPZ3FA6DCK3SDAQCWWCXCN3BAHIQP4RTAIREEAWTU4ADG44TONSHLNJEMWK7CBQAC5JGGZZAKIJYFE3T6LB2CFYV6QKSCANBU43EOBXXQZDGOBXXQ23RNACAGBICAQIBUGTTMZQH2ZD4MM/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "International Friendly - Grenada Vs British Virgin Islands (10/09/25)": {
+      "event_title": "International Friendly - Grenada Vs British Virgin Islands (10/09/25)",
+      "event_time": "06:00AM",
+      "event_date": "10/09/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/DI5SIIBAFI2CILB5EUSDKELUIFOVKXSULQVHK7LFCU3DAPREGYVGKL2CCJYUMWKELFBTW5IGFQQCGPB6MUNTQKJYL5LEAFA2DIIAC437PJSWCZD7PJSWM6L4NQEQOAYUDINBAA3DNVTHYYQ/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }
