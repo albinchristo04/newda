@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-09T11:27:13.803007
+Extraction Time: 2025-10-09T11:38:10.559319
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 17
-- Total Channels: 19
+- Unique Events: 23
+- Total Channels: 25
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -16,6 +16,8 @@ EVENT BREAKDOWN:
   Time: 06:45PM, Channels: 1
 - Arctic Open, Mixed Doubles - Teeraratsakul Pak / Taerattanac...
   Time: 07:20PM, Channels: 1
+- China Women'S National Championship Basketball - Shanxi Tian...
+  Time: 07:30PM, Channels: 1
 - World Cup, Women - India Women Vs South Africa Women (10/09/...
   Time: 05:30PM, Channels: 1
 - T20 World Cup, Asia-Eap Qualifier, Regional Final - Kuwait V...
@@ -25,6 +27,8 @@ EVENT BREAKDOWN:
 - Ukrainian First League - Fenix Mariupol Vs Metalist Kharkiv ...
   Time: 06:15PM, Channels: 1
 - Afc Asian Cup - Singapore Vs India (10/09/25)
+  Time: 07:30PM, Channels: 1
+- Snooker Grand Prix De Xi'An De Snooker - Tercera Ronda Vs Se...
   Time: 07:30PM, Channels: 1
 - Premier Padel 2025  - Milan P1 Day 4 Match 1 (10/09/25)
   Time: 03:30PM, Channels: 1
@@ -42,7 +46,15 @@ EVENT BREAKDOWN:
   Time: 07:00PM, Channels: 1
 - Wta Wuhan, China Women Singles - Belinda Bencic Vs Iga Swiat...
   Time: 07:00PM, Channels: 1
+- Wta Wuhan, China Women Doubles - Andreeva M / Shnaider D Vs ...
+  Time: 07:30PM, Channels: 1
 - Wta 125K Mallorca, Spain Women Doubles - Noha Akugue N / Tha...
+  Time: 07:35PM, Channels: 1
+- Atp Shanghai, China Men Double - Andreozzi G / Guinard M Vs ...
+  Time: 07:40PM, Channels: 1
+- Atp Shanghai, China Men Double - Andreozzi G / Guinard M Vs ...
+  Time: 07:40PM, Channels: 1
+- Atp Shanghai, China Men Double - Andreozzi G / Guinard M Vs ...
   Time: 07:40PM, Channels: 1
 - Turkish Cup Women - Aras Kargo Women Vs Nilufer Bld. Women (...
   Time: 06:00PM, Channels: 1
