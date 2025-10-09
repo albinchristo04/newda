@@ -1,40 +1,38 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-09T04:50:09.102409
+Extraction Time: 2025-10-09T05:15:28.383686
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 13
-- Total Channels: 14
+- Unique Events: 12
+- Total Channels: 28
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
 - Pga Tour 2025 - Baycurrent Classic 2025 Tournament Held At Y...
-  Time: 11:00AM, Channels: 1
-- National Basketball Association - Sacramento Kings Vs Toront...
-  Time: 10:00AM, Channels: 1
-- National Basketball Association - Sacramento Kings Vs Toront...
-  Time: 10:00AM, Channels: 1
+  Time: 11:00AM, Channels: 2
 - National Hockey League - Edmonton Oilers Vs Calgary Flames (...
-  Time: 10:00AM, Channels: 1
+  Time: 10:00AM, Channels: 2
 - National Hockey League - Edmonton Oilers Vs Calgary Flames (...
-  Time: 10:00AM, Channels: 1
+  Time: 10:00AM, Channels: 2
 - National Hockey League - Vegas Golden Knights Vs Los Angeles...
-  Time: 10:00AM, Channels: 1
+  Time: 10:00AM, Channels: 2
 - National Hockey League - Vegas Golden Knights Vs Los Angeles...
-  Time: 10:00AM, Channels: 1
+  Time: 10:00AM, Channels: 2
 - Fia European Truck Racing Championship - Supercars (10/09/25...
-  Time: 04:30AM, Channels: 1
+  Time: 04:30AM, Channels: 2
 - Pga Tour - Es2, Japan Championship | Day 1 (10/09/25) [STREA...
+  Time: 11:00AM, Channels: 4
+- Wta Wuhan, China Women Singles - Ekaterina Alexandrova Vs Je...
   Time: 11:00AM, Channels: 2
 - Wta Wuhan, China Women Singles - Ekaterina Alexandrova Vs Je...
-  Time: 11:00AM, Channels: 1
-- Wta Wuhan, China Women Singles - Ekaterina Alexandrova Vs Je...
-  Time: 11:00AM, Channels: 1
+  Time: 11:00AM, Channels: 2
 - Atp Shanghai, China Men Double - Gonzalez S / Pel D Vs Kevin...
-  Time: 12:30PM, Channels: 1
+  Time: 12:30PM, Channels: 2
 - Wta Wuhan, China Women Singles - Aryna Sabalenka Vs Liudmila...
-  Time: 01:00PM, Channels: 1
+  Time: 01:20PM, Channels: 4
+- Wta Wuhan, China Women Singles - Aryna Sabalenka Vs Liudmila...
+  Time: 01:20PM, Channels: 2
