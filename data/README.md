@@ -1,12 +1,12 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Thu Oct  9 03:46:52 UTC 2025
+Last updated: Thu Oct  9 04:19:02 UTC 2025
 
-Workflow run: #1105
+Workflow run: #1106
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-10-09T03:46:51.716834
+Extracted at: 2025-10-09T04:19:01.601449
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -22,8 +22,8 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: Major League Baseball - Los Angeles Dodgers Vs Philadelphia Phillies (10/09/25)
-Time: 09:08AM
+EVENT: National Basketball Association - Golden State Warriors Vs Portland Trail Blazers (10/09/25)
+Time: 10:00AM
 Date: 10/09/25
 Category: None
 ```

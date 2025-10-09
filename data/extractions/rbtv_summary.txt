@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-09T03:46:51.716834
+Extraction Time: 2025-10-09T04:19:01.601449
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 17
-- Total Channels: 21
+- Unique Events: 15
+- Total Channels: 19
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -14,10 +14,6 @@ STATISTICS:
 EVENT BREAKDOWN:
 - Pga Tour 2025 - Baycurrent Classic 2025 Tournament Held At Y...
   Time: 11:00AM, Channels: 1
-- Major League Baseball - Los Angeles Dodgers Vs Philadelphia ...
-  Time: 09:08AM, Channels: 1
-- Major League Baseball - Los Angeles Dodgers Vs Philadelphia ...
-  Time: 09:08AM, Channels: 1
 - National Basketball Association - Golden State Warriors Vs P...
   Time: 10:00AM, Channels: 2
 - National Basketball Association - Golden State Warriors Vs P...

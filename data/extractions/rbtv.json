@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-09T03:46:51.716834",
+  "timestamp": "2025-10-09T04:19:01.601449",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -13,25 +13,6 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
       "group_title": "BADMINTON"
-    },
-    {
-      "event_time": "09:08AM",
-      "event_date": "10/09/25",
-      "channel_name": "HDK A",
-      "event_title": "Major League Baseball - Los Angeles Dodgers Vs Philadelphia Phillies (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4AJHU3XKEJLGUXCSPCCCJ3VWVCXKVBCA5JGGZZBIPJZFEZS6IBVIFNFUVIQMBMFSPZZHEQCCZD7PJSWM23POMIQIEY6DIIAEADDMVQHEZLEP55GKYD4O5WQCBI/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-      "group_title": "BASEBALL"
-    },
-    {
-      "event_time": "09:08AM",
-      "event_date": "10/09/25",
-      "event_title": "Major League Baseball - Los Angeles Dodgers Vs Philadelphia Phillies (10/09/25) [STREAM 27[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4AJHU3XKEJLGUXCSPCCCJ3VWVCXKVBCA5JGGZZBIPJZFEZS6IBVIFNFUVIQMBMFSPZZHEQCCZD7PJSWM23POMIQAEY6DIIAEADDMVQHEZLEP55GKYD4O5WQCBA/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-      "group_title": "BASEBALL"
     },
     {
       "event_time": "10:00AM",
@@ -217,34 +198,6 @@
           "channel_name": "SKA",
           "url": "https://world-proxifier.xyz/rbtv/p/EMZDCZJGFMQCEZLAPN3WYEI7CNLFCSKTIUQSONJLEZSDMPBEEE4CYOQRAABQMBIQIRPSMJZ6EQ7SCOZEMU5C4KJ5CFJUOFCJL5NV6OZUHUSHEJZ2EUVSMOJ4PFJF4RSWDQIESXZYHI4CIPZFPFYC6MZ3EQ3R6EQZDYIACAQQPF7XA53CORSHA33YNN3WSAIDAMBQMEA2DJZWGYTXMF2WO/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Major League Baseball - Los Angeles Dodgers Vs Philadelphia Phillies (10/09/25)": {
-      "event_title": "Major League Baseball - Los Angeles Dodgers Vs Philadelphia Phillies (10/09/25)",
-      "event_time": "09:08AM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDK A",
-          "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4AJHU3XKEJLGUXCSPCCCJ3VWVCXKVBCA5JGGZZBIPJZFEZS6IBVIFNFUVIQMBMFSPZZHEQCCZD7PJSWM23POMIQIEY6DIIAEADDMVQHEZLEP55GKYD4O5WQCBI/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Major League Baseball - Los Angeles Dodgers Vs Philadelphia Phillies (10/09/25) [STREAM 27[HD]]": {
-      "event_title": "Major League Baseball - Los Angeles Dodgers Vs Philadelphia Phillies (10/09/25) [STREAM 27[HD]]",
-      "event_time": "09:08AM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4AJHU3XKEJLGUXCSPCCCJ3VWVCXKVBCA5JGGZZBIPJZFEZS6IBVIFNFUVIQMBMFSPZZHEQCCZD7PJSWM23POMIQAEY6DIIAEADDMVQHEZLEP55GKYD4O5WQCBA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
           "duration": null
         }
       ]
