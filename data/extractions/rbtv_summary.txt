@@ -1,30 +1,13 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-09T05:39:30.521544
+Extraction Time: 2025-10-09T05:48:50.104526
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 8
-- Total Channels: 11
+- Unique Events: 0
+- Total Channels: 0
 - Individual Streams: 0
-- Media Segments: 0
+- Media Segments: 2
 - Other Events: 0
 
-EVENT BREAKDOWN:
-- Pga Tour 2025 - Baycurrent Classic 2025 Tournament Held At Y...
-  Time: 11:00AM, Channels: 1
-- Fia European Truck Racing Championship - Supercars (10/09/25...
-  Time: 04:30AM, Channels: 1
-- Pga Tour - Es2, Japan Championship | Day 1 (10/09/25) [STREA...
-  Time: 11:00AM, Channels: 2
-- Atp Shanghai, China Men Double - Gonzalez S / Pel D Vs Kevin...
-  Time: 12:30PM, Channels: 1
-- Wta Wuhan, China Women Singles - Aryna Sabalenka Vs Liudmila...
-  Time: 01:30PM, Channels: 3
-- Wta Wuhan, China Women Singles - Aryna Sabalenka Vs Liudmila...
-  Time: 01:30PM, Channels: 1
-- Wta Wuhan, China Women Singles - Iva Jovic Vs Katerina Sinia...
-  Time: 01:30PM, Channels: 1
-- Wta Wuhan, China Women Singles - Laura Siegemund Vs Magdalen...
-  Time: 01:30PM, Channels: 1
