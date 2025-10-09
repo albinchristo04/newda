@@ -1,11 +1,11 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-09T02:39:00.865792
+Extraction Time: 2025-10-09T03:22:42.559469
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 20
+- Unique Events: 19
 - Total Channels: 23
 - Individual Streams: 0
 - Media Segments: 0
@@ -16,18 +16,12 @@ EVENT BREAKDOWN:
   Time: 07:30AM, Channels: 1
 - Usa: Ncaa - Utep Vs Liberty Flames (10/09/25)
   Time: 08:00AM, Channels: 1
-- Major League Baseball - New York Yankees Vs Toronto Blue Jay...
-  Time: 07:08AM, Channels: 1
-- Major League Baseball - New York Yankees Vs Toronto Blue Jay...
-  Time: 07:08AM, Channels: 1
+- Pga Tour 2025 - Baycurrent Classic 2025 Tournament Held At Y...
+  Time: 11:00AM, Channels: 1
 - Major League Baseball - Los Angeles Dodgers Vs Philadelphia ...
   Time: 09:08AM, Channels: 1
 - Major League Baseball - Los Angeles Dodgers Vs Philadelphia ...
   Time: 09:08AM, Channels: 1
-- National Basketball Association - Memphis Grizzlies Vs Bosto...
-  Time: 08:00AM, Channels: 1
-- National Basketball Association - Memphis Grizzlies Vs Bosto...
-  Time: 08:00AM, Channels: 1
 - National Basketball Association - Golden State Warriors Vs P...
   Time: 10:00AM, Channels: 2
 - National Basketball Association - Golden State Warriors Vs P...
@@ -36,8 +30,6 @@ EVENT BREAKDOWN:
   Time: 10:00AM, Channels: 1
 - National Basketball Association - Sacramento Kings Vs Toront...
   Time: 10:00AM, Channels: 1
-- Santino Bros Wrestling - 1Fw: Episode 2 (10/09/25)
-  Time: 06:30AM, Channels: 1
 - United States Major League Soccer - Los Angeles Fc Vs Toront...
   Time: 10:30AM, Channels: 3
 - United States Major League Soccer - Los Angeles Fc Vs Toront...
@@ -52,3 +44,9 @@ EVENT BREAKDOWN:
   Time: 10:00AM, Channels: 1
 - Fia European Truck Racing Championship - Supercars (10/09/25...
   Time: 04:30AM, Channels: 1
+- Wta Wuhan, China Women Singles - Ekaterina Alexandrova Vs Je...
+  Time: 11:00AM, Channels: 2
+- Wta Wuhan, China Women Singles - Ekaterina Alexandrova Vs Je...
+  Time: 11:00AM, Channels: 1
+- Wta Wuhan, China Women Singles - Iva Jovic Vs Katerina Sinia...
+  Time: 11:00AM, Channels: 1
