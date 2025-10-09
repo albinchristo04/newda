@@ -1,12 +1,12 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Thu Oct  9 23:13:48 UTC 2025
+Last updated: Thu Oct  9 23:27:58 UTC 2025
 
-Workflow run: #1158
+Workflow run: #1159
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-10-09T23:13:47.925080
+Extracted at: 2025-10-09T23:27:57.037229
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -22,8 +22,8 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: Major League Baseball - Los Angeles Dodgers Vs Philadelphia Phillies (10/10/25)
-Time: 06:08AM
+EVENT: Usa: Ncaa - Tulane Vs East Carolina (10/10/25)
+Time: 07:30AM
 Date: 10/10/25
 Category: None
 ```

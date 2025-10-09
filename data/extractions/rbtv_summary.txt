@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-09T23:13:47.925080
+Extraction Time: 2025-10-09T23:27:57.037229
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 25
-- Total Channels: 26
+- Unique Events: 31
+- Total Channels: 32
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -14,6 +14,8 @@ STATISTICS:
 EVENT BREAKDOWN:
 - Usa: Ncaa - Kennesaw State Vs Louisiana Tech (10/10/25)
   Time: 07:00AM, Channels: 1
+- Usa: Ncaa - Tulane Vs East Carolina (10/10/25)
+  Time: 07:30AM, Channels: 1
 - Major League Baseball - Los Angeles Dodgers Vs Philadelphia ...
   Time: 06:08AM, Channels: 1
 - Major League Baseball - Los Angeles Dodgers Vs Philadelphia ...
@@ -22,11 +24,11 @@ EVENT BREAKDOWN:
   Time: 06:30AM, Channels: 1
 - Chile Liga Nacional Basketball - Colegio Los Leones Vs Unive...
   Time: 07:00AM, Channels: 1
-- One Championship - Extreme Fighting Championship 128 (10/10/...
-  Time: 01:00AM, Channels: 1
+- National Basketball Association - New York Knicks Vs Minneso...
+  Time: 07:30AM, Channels: 1
+- National Basketball Association - New York Knicks Vs Minneso...
+  Time: 07:30AM, Channels: 1
 - Argentine Reserve League - Atletico Tucuman Reserve Vs San L...
-  Time: 06:00AM, Channels: 1
-- Brazilian Serie B - Ferroviaria Sp Vs Chapecoense Sc (10/10/...
   Time: 06:00AM, Channels: 1
 - Conmebol Copa Libertadores Femenino - Club Olimpia Women Vs ...
   Time: 07:00AM, Channels: 1
@@ -35,6 +37,12 @@ EVENT BREAKDOWN:
 - U20 World Cup - Morocco U20 Vs South Korea U20 (10/10/25)
   Time: 07:00AM, Channels: 2
 - U20 World Cup - Morocco U20 Vs South Korea U20 (10/10/25) [S...
+  Time: 07:00AM, Channels: 1
+- Canadian Premier League - York United Fc Vs Pacific Fc (10/1...
+  Time: 07:30AM, Channels: 1
+- Canadian Premier League - York United Fc Vs Pacific Fc (10/1...
+  Time: 07:30AM, Channels: 1
+- National Hockey League - Boston Bruins Vs Chicago Blackhawks...
   Time: 07:00AM, Channels: 1
 - National Hockey League - Boston Bruins Vs Chicago Blackhawks...
   Time: 07:00AM, Channels: 1
@@ -48,6 +56,8 @@ EVENT BREAKDOWN:
   Time: 07:00AM, Channels: 1
 - National Hockey League - Florida Panthers Vs Philadelphia Fl...
   Time: 07:00AM, Channels: 1
+- National Hockey League - Florida Panthers Vs Philadelphia Fl...
+  Time: 07:00AM, Channels: 1
 - National Hockey League - Pittsburgh Penguins Vs New York Isl...
   Time: 07:00AM, Channels: 1
 - National Hockey League - Pittsburgh Penguins Vs New York Isl...
@@ -56,6 +66,8 @@ EVENT BREAKDOWN:
   Time: 07:00AM, Channels: 1
 - National Hockey League - Tampa Bay Lightning Vs Ottawa Senat...
   Time: 07:00AM, Channels: 1
+- National Hockey League - Carolina Hurricanes Vs New Jersey D...
+  Time: 07:30AM, Channels: 1
 - Fia European Truck Racing Championship - Supercars (10/10/25...
   Time: 04:30AM, Channels: 1
 - Premier Padel 2025  - Milan P1 Day 4 Match 6 (10/10/25)
