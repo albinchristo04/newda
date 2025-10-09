@@ -1,33 +1,39 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-09T12:32:38.462803
+Extraction Time: 2025-10-09T13:18:20.924092
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 32
-- Total Channels: 37
+- Unique Events: 38
+- Total Channels: 44
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
-- Arctic Open, Women, Doubles - Osawa K / Tanabe M Vs Arisa Hi...
-  Time: 07:55PM, Channels: 1
 - Dp World Tour - Open De Espana 2025 Presented By Madrid Tour...
   Time: 08:00PM, Channels: 1
 - Golf Dp World Tour - Open De España Presented By Madrid. Jor...
   Time: 08:00PM, Channels: 1
-- Arctic Open, Women, Singles - Akane Yamaguchi Vs Riko Gunji ...
-  Time: 08:10PM, Channels: 1
 - Arctic Open, Singles - Tharun Mannepalli Vs Koki Watanabe (1...
-  Time: 08:30PM, Channels: 1
+  Time: 08:45PM, Channels: 1
+- Arctic Open, Doubles - William Kryger Boe/Christian Faust Kj...
+  Time: 09:00PM, Channels: 1
+- Arctic Open, Women, Doubles - Yeung Nga Ting/Yeung Pui Lam V...
+  Time: 09:20PM, Channels: 1
 - China Women'S National Championship Basketball - Shanxi Tian...
   Time: 07:30PM, Channels: 1
+- Russia Woman'S Cup - Dynamo Moscow Women Vs Enisey Krasnoyar...
+  Time: 08:50PM, Channels: 1
 - World Cup, Women - India Women Vs South Africa Women (10/09/...
   Time: 05:30PM, Channels: 1
 - T20 World Cup, Asia-Eap Qualifier, Regional Final - Kuwait V...
   Time: 06:30PM, Channels: 1
+- Uci Pro Series - Gran Piemonte (10/09/25)
+  Time: 08:50PM, Channels: 1
+- Uci Pro Series - Gran Piemonte (10/09/25) [STREAM 35[HD]]
+  Time: 08:50PM, Channels: 1
 - Matchroom Boxing - Allen Vs Makhmudov: Press Conference (10/...
   Time: 08:30PM, Channels: 1
 - Afc Asian Cup - Singapore Vs India (10/09/25)
@@ -36,43 +42,49 @@ EVENT BREAKDOWN:
   Time: 07:30PM, Channels: 1
 - Afc Asian Cup - Laos Vs Malaysia (10/09/25)
   Time: 08:00PM, Channels: 2
-- Ukrainian Second League - Nyva Ternopil B Vs Niva Vinica (10...
-  Time: 08:00PM, Channels: 1
 - Afc Asian Cup - Thailand Vs Chinese Taipei (10/09/25)
   Time: 08:30PM, Channels: 1
 - Afc Asian Cup - Vietnam Vs Nepal (10/09/25)
   Time: 08:30PM, Channels: 1
+- Afc Asian Cup - Tajikistan Vs Maldives (10/09/25)
+  Time: 09:00PM, Channels: 1
+- International Friendly - Uzbekistan Vs Kuwait (10/09/25)
+  Time: 09:00PM, Channels: 1
+- World Cup Qualification (Caf) - Burundi Vs Kenya (10/09/25)
+  Time: 09:00PM, Channels: 2
+- World Cup Qualification (Caf) - Burundi Vs Kenya (10/09/25) ...
+  Time: 09:00PM, Channels: 1
 - Snooker Grand Prix De Xi'An De Snooker - Tercera Ronda Vs Se...
   Time: 07:30PM, Channels: 1
+- Fia European Truck Racing Championship - Fia Extreme H World...
+  Time: 09:00PM, Channels: 2
 - European Pga Tour - Acciona Open De España, First Round (10/...
   Time: 08:00PM, Channels: 2
 - Premier Padel 2025  - Milan P1 Day 4 Match 1 (10/09/25)
   Time: 03:30PM, Channels: 1
 - Premier Padel 2025  - Milan P1 Day 4 Match 2 (10/09/25)
   Time: 05:00PM, Channels: 1
-- Atp Shanghai, China Men Singles - Zizou Bergs Vs Novak Djoko...
-  Time: 06:30PM, Channels: 3
-- Atp Shanghai, China Men Singles - Zizou Bergs Vs Novak Djoko...
-  Time: 06:30PM, Channels: 1
-- Atp Shanghai, China Men Singles - Zizou Bergs Vs Novak Djoko...
-  Time: 06:30PM, Channels: 1
 - Premier Padel 2025  - Milan P1 Day 4 Match 3 (10/09/25)
   Time: 06:30PM, Channels: 1
 - Wta Wuhan, China Women Singles - Belinda Bencic Vs Iga Swiat...
   Time: 07:00PM, Channels: 2
 - Wta Wuhan, China Women Singles - Belinda Bencic Vs Iga Swiat...
   Time: 07:00PM, Channels: 1
-- Wta Wuhan, China Women Doubles - Andreeva M / Shnaider D Vs ...
-  Time: 07:30PM, Channels: 1
 - Wta 125K Mallorca, Spain Women Doubles - Miriam Kolodziejova...
   Time: 07:35PM, Channels: 1
 - Premier Padel 2025  - Milan P1 Day 4 Match 4 (10/09/25)
   Time: 08:00PM, Channels: 1
 - Wta Wuhan, China Women Doubles - Leylah Fernandez/Erin Routl...
   Time: 08:00PM, Channels: 1
+- Challenger Atp Challenger Roanne, France, Men Singles - Milo...
+  Time: 08:30PM, Channels: 1
 - Atp Shanghai, China Men Double - Andreozzi G / Guinard M Vs ...
-  Time: 08:40PM, Channels: 1
+  Time: 08:45PM, Channels: 2
+- Atp Shanghai, China Men Double - Andreozzi G / Guinard M Vs ...
+  Time: 08:45PM, Channels: 1
+- Atp Shanghai, China Men Double - Andreozzi G / Guinard M Vs ...
+  Time: 08:45PM, Channels: 1
 - Wta Wuhan, China Women Singles - Zhang Shuai Vs Coco Gauff (...
-  Time: 08:40PM, Channels: 1
+  Time: 09:30PM, Channels: 1
 - Turkish Cup Women - Bahcelievler Women Vs Goztepe Women (10/...
   Time: 08:30PM, Channels: 1

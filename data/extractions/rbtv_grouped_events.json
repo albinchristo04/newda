@@ -1,18 +1,4 @@
 {
-  "Arctic Open, Women, Doubles - Osawa K / Tanabe M Vs Arisa Higashino/Chiharu Shida (10/09/25)": {
-    "event_title": "Arctic Open, Women, Doubles - Osawa K / Tanabe M Vs Arisa Higashino/Chiharu Shida (10/09/25)",
-    "event_time": "07:55PM",
-    "event_date": "10/09/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "VDO",
-        "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXSZS5LZIV4HAQOQ6CAMRJG43XK7LFDU4CILSQCJ4BIHYQMRIT2NBSEBZAS5JGGZZAUNZQIJJRG7CZK5IUGOZ4HYVH2BZ5HEWTGOJQPFRFUWSQKEIBUGTTMRRGK6DOOVRHKYT2MVZRWEQBAQAAEAQANJ2XU33SOJTWE4LBPA/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-        "duration": null
-      }
-    ]
-  },
   "Dp World Tour - Open De Espana 2025 Presented By Madrid Tournament From Club De Campo Villa De Madrid, Madrid, Spain. (10/09/25)": {
     "event_title": "Dp World Tour - Open De Espana 2025 Presented By Madrid Tournament From Club De Campo Villa De Madrid, Madrid, Spain. (10/09/25)",
     "event_time": "08:00PM",
@@ -41,29 +27,43 @@
       }
     ]
   },
-  "Arctic Open, Women, Singles - Akane Yamaguchi Vs Riko Gunji (10/09/25)": {
-    "event_title": "Arctic Open, Women, Singles - Akane Yamaguchi Vs Riko Gunji (10/09/25)",
-    "event_time": "08:10PM",
-    "event_date": "10/09/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "VDO",
-        "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXSZS5LZIV4HAQMM5DWNZJG43XK7LFCMQCIN2UCJVFKXKRK5CTAPJZMUSDO5ICFQ4SIZI6IROFSXIQDINBAYTHOBXXQZDHMB2WG23POMIQAAYEAIAAGBDTP55GKZDWM5SHOZI/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-        "duration": null
-      }
-    ]
-  },
   "Arctic Open, Singles - Tharun Mannepalli Vs Koki Watanabe (10/09/25)": {
     "event_title": "Arctic Open, Singles - Tharun Mannepalli Vs Koki Watanabe (10/09/25)",
-    "event_time": "08:30PM",
+    "event_time": "08:45PM",
     "event_date": "10/09/25",
     "category": null,
     "channels": [
       {
         "channel_name": "VDO",
         "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXSYS3LVJVYVKDCB7HKBBNGM3CAPTFD4VCWN2UIJJFQXCZCBDCA5I3FI4S25IHEQTCUKZYKNLRGHQ2CAAQE437PJSWA5DFMFSXQYLFNMAQEAIFAQDRAGTZOVTHOYDQMZSA/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Arctic Open, Doubles - William Kryger Boe/Christian Faust Kjaer Vs Ben Lane/Sean Vendy (10/09/25)": {
+    "event_title": "Arctic Open, Doubles - William Kryger Boe/Christian Faust Kjaer Vs Ben Lane/Sean Vendy (10/09/25)",
+    "event_time": "09:00PM",
+    "event_date": "10/09/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "VDO",
+        "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXS5K5IZLFYVKDCB7HKBZMHYUDYMJIOIADOICWK5ARI4S7KUPRAPJCFQQTAPBRFNZA2JBMIJDBG722KFKUE4ZDENSRAIJ3OAETGJJAOZRFOUS2CBTFKXRXFRYG66DEMRRGK6DBMVVQCAQCCQNBUEACMNSWG53GOV2XU33SPV3WWBIABM/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Arctic Open, Women, Doubles - Yeung Nga Ting/Yeung Pui Lam Vs Pilgaard S / Schulz S (10/09/25)": {
+    "event_title": "Arctic Open, Women, Doubles - Yeung Nga Ting/Yeung Pui Lam Vs Pilgaard S / Schulz S (10/09/25)",
+    "event_time": "09:20PM",
+    "event_date": "10/09/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "VDO",
+        "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXSZS5LZIV4HAQOQ6CAMRJG43XK7LFBMXDAN2WCJ6VGUIQMRMT2MT7DQ3TCOZXMUBD4LDZPVJV4FCGIMIGAORZG4SDGNRROALHEZDFBJJFURSYJIIGGEDZP5YHIYDEP55GKYD3OVUBCGAZCQBAAAADMFQWEZLYNZ2WM53AP53GY/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
         "duration": null
       }
@@ -78,6 +78,20 @@
       {
         "channel_name": "SD",
         "url": "https://world-proxifier.xyz/rbtv/p/CA6TSKZTMQBD6KBXEVRCUEL4KJAFSX26KE7XKEZNGMUSKOJKHQ4C2MCBCJYVKQ23KVCDCNB4FFZGS5IDFUZSKPJQCFTFUVK6NJKRABB2HUQDYZBDENSQUIRLGNMFGXKTCBTV6WR2GQ7CE4QTHI6SAPDLN5ZRCAATDYNBAAYQPF7XA5DLPVWGS7DENNXXGEIAAQDAIBYD/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Russia Woman'S Cup - Dynamo Moscow Women Vs Enisey Krasnoyarsk Women (10/09/25)": {
+    "event_title": "Russia Woman'S Cup - Dynamo Moscow Women Vs Enisey Krasnoyarsk Women (10/09/25)",
+    "event_time": "08:50PM",
+    "event_date": "10/09/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/AEQCGNR3EV2QOKR7FIVX4QQSKBAUAEA5CALSYPREH4VXKHJKEEUCULQRMVOFSVK6CBDCA5IVFM5TOMBJMUMTSJBKL5OUUVKCINNRABB2HUQDYZD7PJSWA23POMIQCEY6DIIAEADDMVQHKYTEP55GKYD4O5WQSBQ/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
         "duration": null
       }
@@ -107,6 +121,34 @@
         "channel_name": null,
         "url": "https://world-proxifier.xyz/rbtv/p/A5TWAZIFFMTTYILSBAYCSHISOJDVSUI5OUJAK4AUE4STSOJDHMXDO5IRMBLFGWK7LZIT65IWFQ6CKOLQNBZAAMBOKBNUOFCGIMIHUMRFGEVXE3T7OBZXEYLPPEBREGI6CABAAADDMRRHC4TOP5YHOZLZOFXQQ/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Uci Pro Series - Gran Piemonte (10/09/25)": {
+    "event_title": "Uci Pro Series - Gran Piemonte (10/09/25)",
+    "event_time": "08:50PM",
+    "event_date": "10/09/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "MOVISTAR2",
+        "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZICGY5HAFRXHEWDYQQSDYKHOQSRLZZQKOJAH4VTWJBAOJQW66IAA4JR4GQQAIAGGZDQN54GIZ3AOVQXQ5DNCEMBSFAGAIBAIZTB/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Uci Pro Series - Gran Piemonte (10/09/25) [STREAM 35[HD]]": {
+    "event_title": "Uci Pro Series - Gran Piemonte (10/09/25) [STREAM 35[HD]]",
+    "event_time": "08:50PM",
+    "event_date": "10/09/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": null,
+        "url": "https://world-proxifier.xyz/rbtv/p/AYLBSZICGY5HAFRXHEWDYQQSDYKHOQSRLZZQKOJAH4VTWJBAOJQW66IAA4JR4GQQAIIHS73QO5RHIZTDORTGW33TCEAAIBQEBABQ/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ccl_active.webp",
         "duration": null
       }
     ]
@@ -173,20 +215,6 @@
       }
     ]
   },
-  "Ukrainian Second League - Nyva Ternopil B Vs Niva Vinica (10/09/25)": {
-    "event_title": "Ukrainian Second League - Nyva Ternopil B Vs Niva Vinica (10/09/25)",
-    "event_time": "08:00PM",
-    "event_date": "10/09/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/AY7CEJB3FI6DCK3SDAQDUXS4K4KHYVKRK4TDA4DIOIFCYJREOIPSAK27LVBV2XAQOIICKJTQBM5TENDQCM5SKLB2KAJBSHQQAEIBU6LVMNSXQ3TVMR3WO6LSN4ABEGI6CABQACDEM5SA/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      }
-    ]
-  },
   "Afc Asian Cup - Thailand Vs Chinese Taipei (10/09/25)": {
     "event_title": "Afc Asian Cup - Thailand Vs Chinese Taipei (10/09/25)",
     "event_time": "08:30PM",
@@ -215,6 +243,68 @@
       }
     ]
   },
+  "Afc Asian Cup - Tajikistan Vs Maldives (10/09/25)": {
+    "event_title": "Afc Asian Cup - Tajikistan Vs Maldives (10/09/25)",
+    "event_time": "09:00PM",
+    "event_date": "10/09/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/CIJRGZITG46DCK3SBAYCSEI7CNQFCWSZLM5CMJBEHRSCGI3FD4VCSPKYIRLEOEA2DIIGE5L2N5ZHO5L2N5ZH65LABADQWAIQDINBAYDFNBZGA7A/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "International Friendly - Uzbekistan Vs Kuwait (10/09/25)": {
+    "event_title": "International Friendly - Uzbekistan Vs Kuwait (10/09/25)",
+    "event_time": "09:00PM",
+    "event_date": "10/09/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/DI5SIIBAFI2CILB5EUSDKELUIFOVKXSULQVHK7LFA47DONJOHM4DCOC7CJCUOED3IVDTEPBEMV4G45LBMV4GCZLKCEMBSFAEAIEQMZLCMJSXQ3TVMN2WU7DXMA/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "World Cup Qualification (Caf) - Burundi Vs Kenya (10/09/25)": {
+    "event_title": "World Cup Qualification (Caf) - Burundi Vs Kenya (10/09/25)",
+    "event_time": "09:00PM",
+    "event_date": "10/09/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQOLCDI5OVAWIQIZBXGHRVFMVSK5L2N5ZHUZLTDMJAKFA2DIIAG23AM52WW4LVPJXXE6DVMEDACAQ/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQOLCDI5OVAWIQIZBXGHRVFMVSK5L2N5ZHUZLTDMJAAFA2DIIAG23AM52WW4LVPJXXE6DVMEDAABA/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "World Cup Qualification (Caf) - Burundi Vs Kenya (10/09/25) [STREAM 20[HD]]": {
+    "event_title": "World Cup Qualification (Caf) - Burundi Vs Kenya (10/09/25) [STREAM 20[HD]]",
+    "event_time": "09:00PM",
+    "event_date": "10/09/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": null,
+        "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCECRG6LFP5VQOLCDI5OVAWIQIZBXGHRVFMVSK5L2N5ZHUZLTDMJACFA2DIIAG23AM52WW4LVPJXXE6DVMEDACAY/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
   "Snooker Grand Prix De Xi'An De Snooker - Tercera Ronda Vs Sesi\u00f3n 2 (10/09/25)": {
     "event_title": "Snooker Grand Prix De Xi'An De Snooker - Tercera Ronda Vs Sesi\u00f3n 2 (10/09/25)",
     "event_time": "07:30PM",
@@ -224,6 +314,26 @@
       {
         "channel_name": "MOVISTAR",
         "url": "https://world-proxifier.xyz/rbtv/p/AA5T6KRZEETXAARAFIVT2ELCIFOUQECUKVZQ2OLCGMVHKNBAOI4CWNS6LFLEMEA5CBSDMJZTEAQCK5JCFI6C6JDZI5ARGZ2VINM7HYB3OB3XE3T7OBZHEYLPPEBQEAYFCANBUEDBMVQHMYD5MJYG66DLONVQGBQCAA/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Fia European Truck Racing Championship - Fia Extreme H World Cup (10/09/25)": {
+    "event_title": "Fia European Truck Racing Championship - Fia Extreme H World Cup (10/09/25)",
+    "event_time": "09:00PM",
+    "event_date": "10/09/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "DAZN ES",
+        "url": "https://world-proxifier.xyz/rbtv/p/CUOBCZIXGETT6NJXFIVXSZKAIZLVWEDCKEYDYPRCOIDT2MJIEIRCUN2CLJNEIEA5CB3BUFDQAAVDAJZVFA3WWDLZMZOUCWCUCBZUKI3VPJXXE43VPJXXE6LVNEABEGI6CABAAADAM5UXC4TOP5YHGYDZOFUAI/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/CUOBCZIXGETT6NJXFIVXSZKAIZLVWEDCKEYDYPRCOIDT2MJIEIRCUN2CLJNEIEA5CB3BUFDQAAVDAJZVFA3WWDLZMZOUCWCUCBZUKI3VPJXXE43VPJXXE7LFOMNREAIEAABQECLHOV5G64TWMJRHC2TT/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
         "duration": null
       }
@@ -277,60 +387,6 @@
       }
     ]
   },
-  "Atp Shanghai, China Men Singles - Zizou Bergs Vs Novak Djokovic (10/09/25)": {
-    "event_title": "Atp Shanghai, China Men Singles - Zizou Bergs Vs Novak Djokovic (10/09/25)",
-    "event_time": "06:30PM",
-    "event_date": "10/09/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "SKA",
-        "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LLLNEVWRIQOJKSCMRDMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCLBNRSGK6DOOVTHOYDYPRXQ/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "MOVISTAR",
-        "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LLLNEVWRIQOJKSCMRDMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCLBNRSGK6DOOVTHOYDYPRQQ/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "HDD B",
-        "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LLLNEVWRIQOJKSCMRDMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWI23POMIQGCQNBEBASBDTP55GKYDTM5SHG2Q/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Atp Shanghai, China Men Singles - Zizou Bergs Vs Novak Djokovic (10/09/25) [STREAM 3[HD]]": {
-    "event_title": "Atp Shanghai, China Men Singles - Zizou Bergs Vs Novak Djokovic (10/09/25) [STREAM 3[HD]]",
-    "event_time": "06:30PM",
-    "event_date": "10/09/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": null,
-        "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LLLNEVWRIQOJKSCMRDMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWA23POMIQGCQNBEBASBDTP55GKYDTM5SHAYQ/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Atp Shanghai, China Men Singles - Zizou Bergs Vs Novak Djokovic (10/09/25) [STREAM 3_FHD[FULL HD]]": {
-    "event_title": "Atp Shanghai, China Men Singles - Zizou Bergs Vs Novak Djokovic (10/09/25) [STREAM 3_FHD[FULL HD]]",
-    "event_time": "06:30PM",
-    "event_date": "10/09/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": null,
-        "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LLLNEVWRIQOJKSCMRDMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWA23POMIQGCQNBEBASBDTP55GKYDTM5SHAZQ/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-        "duration": null
-      }
-    ]
-  },
   "Premier Padel 2025  - Milan P1 Day 4 Match 3 (10/09/25)": {
     "event_title": "Premier Padel 2025  - Milan P1 Day 4 Match 3 (10/09/25)",
     "event_time": "06:30PM",
@@ -379,20 +435,6 @@
       }
     ]
   },
-  "Wta Wuhan, China Women Doubles - Andreeva M / Shnaider D Vs Siegemund L / Stollar F (10/09/25)": {
-    "event_title": "Wta Wuhan, China Women Doubles - Andreeva M / Shnaider D Vs Siegemund L / Stollar F (10/09/25)",
-    "event_time": "07:30PM",
-    "event_date": "10/09/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKGC7KZAVCVKGKEIB45L7MUASYOZRFQ3C4N3ZOUJEKRYQMNMVKNBQHUYDYIDVDRSX22YWFVPF4X2VIIIHMEDZP5YHM4TOP5YHG4TBN54QGAQDAYAQKCIQPF7XA53FOZQWO4I/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-        "duration": null
-      }
-    ]
-  },
   "Wta 125K Mallorca, Spain Women Doubles - Miriam Kolodziejova/Jesika Maleckova Vs Jakupovic D / Radisic N (10/09/25)": {
     "event_title": "Wta 125K Mallorca, Spain Women Doubles - Miriam Kolodziejova/Jesika Maleckova Vs Jakupovic D / Radisic N (10/09/25)",
     "event_time": "07:35PM",
@@ -435,9 +477,23 @@
       }
     ]
   },
+  "Challenger Atp Challenger Roanne, France, Men Singles - Milos Karol Vs Matteo Martineau (10/09/25)": {
+    "event_title": "Challenger Atp Challenger Roanne, France, Men Singles - Milos Karol Vs Matteo Martineau (10/09/25)",
+    "event_time": "08:30PM",
+    "event_date": "10/09/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/CA6TCKJ6EE5TOIBANMCA2YISOBOFCXC4KU6TENJXOILDUMJLHQXGS6LXIBJFUU2VDQIB4MB6MUAS2OZXFE3TQZLUCF7VUWC7IMIHWMRHH4UXEMRGOAEDGPZRHRPBE7SVIJCFSXRWGQSWK6DOOVRWK6DBMVXRCGAZCQAQSCIJMBTWOZLYNZ2WE4TAP56WW/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      }
+    ]
+  },
   "Atp Shanghai, China Men Double - Andreozzi G / Guinard M Vs Heliovaara H / Patten H (10/09/25)": {
     "event_title": "Atp Shanghai, China Men Double - Andreozzi G / Guinard M Vs Heliovaara H / Patten H (10/09/25)",
-    "event_time": "08:40PM",
+    "event_time": "08:45PM",
     "event_date": "10/09/25",
     "category": null,
     "channels": [
@@ -446,12 +502,46 @@
         "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKGC7KZAVCX2KJJMXGETQNJZAGIBZFMZTSILZPQJEKRYQPBKVYOR2EYSDGNRUOAGXEZDFBFIEMR2RLYIHQEDZP5YHM4TOP5YHOYT3OR4RWGATAYAAAAAAMFSHA33YMRRWE53BOJZA/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
+      },
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKGC7KZAVCX2KJJMXGETQNJZAGIBZFMZTSILZPQJEKRYQPBKVYOR2EYSDGNRUOAGXEZDFBFIEMR2RLYIHQEDZP5YHM4TOP5YHG4TBN54QGAQDAQAAEAIQPF7XA53FOZQWQ4Q/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Atp Shanghai, China Men Double - Andreozzi G / Guinard M Vs Heliovaara H / Patten H (10/09/25) [STREAM 3[HD]]": {
+    "event_title": "Atp Shanghai, China Men Double - Andreozzi G / Guinard M Vs Heliovaara H / Patten H (10/09/25) [STREAM 3[HD]]",
+    "event_time": "08:45PM",
+    "event_date": "10/09/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": null,
+        "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKGC7KZAVCX2KJJMXGETQNJZAGIBZFMZTSILZPQJEKRYQPBKVYOR2EYSDGNRUOAGXEZDFBFIEMR2RLYIHQEDZP5YHM4TOP5YHO4TBN54QGAQDAQAAEAIQPF7XA53FOZQWK5A/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Atp Shanghai, China Men Double - Andreozzi G / Guinard M Vs Heliovaara H / Patten H (10/09/25) [STREAM 3_FHD[FULL HD]]": {
+    "event_title": "Atp Shanghai, China Men Double - Andreozzi G / Guinard M Vs Heliovaara H / Patten H (10/09/25) [STREAM 3_FHD[FULL HD]]",
+    "event_time": "08:45PM",
+    "event_date": "10/09/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": null,
+        "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKGC7KZAVCX2KJJMXGETQNJZAGIBZFMZTSILZPQJEKRYQPBKVYOR2EYSDGNRUOAGXEZDFBFIEMR2RLYIHQEDZP5YHM4TOP5YHO4TBN54QGAQDAQAAEAIQPF7XA53FOZQWK4A/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
       }
     ]
   },
   "Wta Wuhan, China Women Singles - Zhang Shuai Vs Coco Gauff (10/09/25)": {
     "event_title": "Wta Wuhan, China Women Singles - Zhang Shuai Vs Coco Gauff (10/09/25)",
-    "event_time": "08:40PM",
+    "event_time": "09:30PM",
     "event_date": "10/09/25",
     "category": null,
     "channels": [

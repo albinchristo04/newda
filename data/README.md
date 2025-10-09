@@ -1,28 +1,28 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Thu Oct  9 12:32:39 UTC 2025
+Last updated: Thu Oct  9 13:18:21 UTC 2025
 
-Workflow run: #1129
+Workflow run: #1130
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-10-09T12:32:38.462803
+Extracted at: 2025-10-09T13:18:20.924092
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
 
-EVENT: Arctic Open, Women, Doubles - Osawa K / Tanabe M Vs Arisa Higashino/Chiharu Shida (10/09/25)
-Time: 07:55PM
+EVENT: Dp World Tour - Open De Espana 2025 Presented By Madrid Tournament From Club De Campo Villa De Madrid, Madrid, Spain. (10/09/25)
+Time: 08:00PM
 Date: 10/09/25
 Category: None
 Available Channels (1):
-  1. VDO
-     URL: https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXSZS5LZIV4HAQOQ6CAMRJG43XK7LFDU4CILSQCJ4BIHYQMRIT2NBSEBZAS5JGGZZAUNZQIJJRG7CZK5IUGOZ4HYVH2BZ5HEWTGOJQPFRFUWSQKEIBUGTTMRRGK6DOOVRHKYT2MVZRWEQBAQAAEAQANJ2XU33SOJTWE4LBPA/index.m3u8
+  1. SKA
+     URL: https://world-proxifier.xyz/rbtv/p/G4SXAMR5GY4TIZJGEQYCWEI7CNNUAVK6CA3TA4BAEE2DIPREOJ4XK2YECJBUMVKDKVPCOMBUMUYD25J5EQ3DSLB5CFDFYQKCLZIV2NR3ERSTINR2HVSTCJZQHMIVMVQUKNIV2QB4OUTCYPRIGRYCCN3LFA4FKQC2KAOBAXKRG4TTSIL6MQTCAJB3EVVXSGYYCMCQEEA2DJZWOYDVMNSH66TFMB5XK2ABAUCBIGQ2CADGCZ3DORQQ/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp
 
 ================================================================================
 
-EVENT: Dp World Tour - Open De Espana 2025 Presented By Madrid Tournament From Club De Campo Villa De Madrid, Madrid, Spain. (10/09/25)
+EVENT: Golf Dp World Tour - Open De España Presented By Madrid. Jornada 1 (10/09/25)
 Time: 08:00PM
 Date: 10/09/25
 Category: None
