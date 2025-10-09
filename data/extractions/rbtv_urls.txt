@@ -1,18 +1,7 @@
-Extracted at: 2025-10-09T18:47:09.607664
+Extracted at: 2025-10-09T19:13:09.601958
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
-
-EVENT: Arctic Open, Doubles - Eloi Adam/Leo Rossi  Vs Choong Hon Jian/Muhammad Haikal (10/10/25)
-Time: 01:00AM
-Date: 10/10/25
-Category: None
-Available Channels (1):
-  1. VDO
-     URL: https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXS5K5IZLFYVKDCB7HKFJJHUWXKEJBGMTGUFKULUJWMX2DINMXG5JGGZZAOPJ7FI6CYZIRLZOBG7SZKFPB6HRAHASD6KJUGRSRUKRMGJIF4EY6DIIACATTP55GKYDUMVQWK6DBMVVQCAQBAYAQCEA2PF2WM53AOBSGQ/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp
-
-================================================================================
 
 EVENT: Arctic Open, Singles - Takuma Obayashi Vs Lu Guangzu (10/10/25)
 Time: 02:20AM
@@ -22,17 +11,6 @@ Available Channels (1):
   1. VDO
      URL: https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXSYS3LVJVYVKDCB7HKBBEHEYTQMLFDUUSIICQIFNV2ECGIMIB6IDQAITSKOZXH4TWW33TCEBQCFA2DIIAEY3FMFSXQ3TVMJ2WE6DXNIEBEGI6CADAEATHMFQQ/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp
-
-================================================================================
-
-EVENT: Euroleague Women - Galatasaray Women Vs Famila Wuber Schio Women (10/10/25)
-Time: 12:50AM
-Date: 10/10/25
-Category: None
-Available Channels (1):
-  1. SD
-     URL: https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNMJDMXCXLUKB2EDXKE7TIJBEEESSOMJ4OIOCUNCULQJUEQYQOZIT4PB4ERZBGIBSEAQGWFR2LFNVYFDHL5OVKPLVPJXXE5TVPJXXE6DFOMNREAIEAAAAMADHOV5G64TWMJRHAY3Z/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
 
 ================================================================================
 
@@ -100,6 +78,20 @@ Available Channels (1):
 
 ================================================================================
 
+EVENT: Euroleague - Paris Basketball Vs Virtus Pallacanestro Bologna (10/10/25)
+Time: 02:30AM
+Date: 10/10/25
+Category: None
+Available Channels (2):
+  1. MOVISTAR2
+     URL: https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNNUHSYKTIFOUGEDSKEQD4NJRGASTSPDFEQ4GKD2YIBDUCQYQMBIT6OJREYZSUMBDGEQCIZI3LZPFYU26KEIBU6LVMJSXQ3TVMJ2WE6TFOMNREAIEAAAAMALBOV5G64TSM5RHMYL5/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNNUHSYKTIFOUGEDSKEQD4NJRGASTSPDFEQ4GKD2YIBDUCQYQMBIT6OJREYZSUMBDGEQCIZI3LZPFYU26KEIBU6LVMJSXQ3TVMNSXQYLFNMAQEAYCAEBBAGTZOVRHEYDRMZSA/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+
+================================================================================
+
 EVENT: Euroleague - Saski Baskonia Vs Panathinaikos (10/10/25)
 Time: 02:30AM
 Date: 10/10/25
@@ -136,16 +128,19 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: Euroleague - Paris Basketball Vs Virtus Pallacanestro Bologna (10/10/25)
-Time: 02:45AM
+EVENT: Euroleague - Real Madrid Teka Vs Asvel Villeurbanne Lyon (10/10/25)
+Time: 03:00AM
 Date: 10/10/25
 Category: None
-Available Channels (2):
+Available Channels (3):
   1. MOVISTAR2
-     URL: https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNNUHSYKTIFOUGEDSKEQD4NJRGASTSPDFEQ4GKD2YIBDUCQYQMBIT6OJREYZSUMBDGEQCIZI3LZPFYU26KEIBU6LVMJSXQ3TVMJ2WE6TFOMNREAIEAAAAMALBOV5G64TSM5RHMYL5/index.m3u8
+     URL: https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNNUHSY2XKJMBA7KRKQQTYNDFAYQT4MLFEQ4GKGCCIRLFQEDGLFOD6MBFG4YCKOZ6EBZAOPBWL4JBSHQQAIIBU6LVMJ2WE5LVPJXXE6LVNEAQIAQHCANBUEDFM5RHMYLT/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
-  2. SD
-     URL: https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNNUHSYKTIFOUGEDSKEQD4NJRGASTSPDFEQ4GKD2YIBDUCQYQMBIT6OJREYZSUMBDGEQCIZI3LZPFYU26KEIBU6LVMJSXQ3TVMNSXQYLFNMAQEAYCAEBBAGTZOVRHEYDRMZSA/index.m3u8
+  2. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNNUHSY2XKJMBA7KRKQQTYNDFAYQT4MLFEQ4GKGCCIRLFQEDGLFOD6MBFG4YCKOZ6EBZAOPBWL4JBSHQQAIIBU6LVMZSXQ3TVMJ2WE63TNABBEGI6CABAOATGMZTQ/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+  3. SD
+     URL: https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNNUHSY2XKJMBA7KRKQQTYNDFAYQT4MLFEQ4GKGCCIRLFQEDGLFOD6MBFG4YCKOZ6EBZAOPBWL4JBSHQQAIIBU6LVMNSXQ3TVMJ2WE63TNABBEGI6CABAOATGMZSQ/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
 
 ================================================================================
@@ -283,24 +278,27 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: International Friendly - Poland Vs New Zealand (10/10/25) [STREAM 34[HD]]
+EVENT: International Friendly - Poland Vs New Zealand (10/10/25)
+Time: 02:45AM
+Date: 10/10/25
+Category: None
+Available Channels (2):
+  1. HDD A 日本語
+     URL: https://world-proxifier.xyz/rbtv/p/DI5SIIBAFI2CILB5EUSDKELUIFOVKXSULQVHK7LFAIVTSMJLGZVTGKQRPRLEGEDKKVIT6NB6EFZG473QORZGC33ZA4JBSHQQAQBASZLDMZZXE3T7OB3GE435NAEQ/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/DI5SIIBAFI2CILB5EUSDKELUIFOVKXSULQVHK7LFAIVTSMJLGZVTGKQRPRLEGEDKKVIT6NB6EFZG473QORZGC33ZAIJBSHQQAQBASZLDMZZXE3T7OB3GE43SNYDQ/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: International Friendly - Poland Vs New Zealand (10/10/25) [STREAM 40[HD]]
 Time: 02:45AM
 Date: 10/10/25
 Category: None
 Available Channels (1):
   1. None
-     URL: https://world-proxifier.xyz/rbtv/p/DI5SIIBAFI2CILB5EUSDKELUIFOVKXSULQVHK7LFAIVTSMJLGZVTGKQRPRLEGEDKKVIT6NB6EFZG473QORZGC33ZAMJBSHQQAQBASZLDMZZXE3T7OB3GE43SMABA/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-
-================================================================================
-
-EVENT: International Friendly - Poland Vs New Zealand (10/10/25)
-Time: 02:45AM
-Date: 10/10/25
-Category: None
-Available Channels (1):
-  1. SD
-     URL: https://world-proxifier.xyz/rbtv/p/DI5SIIBAFI2CILB5EUSDKELUIFOVKXSULQVHK7LFAIVTSMJLGZVTGKQRPRLEGEDKKVIT6NB6EFZG473QORZGC33ZAIJBSHQQAQBASZLDMZZXE3T7OB3GE43SNYDQ/index.m3u8
+     URL: https://world-proxifier.xyz/rbtv/p/DI5SIIBAFI2CILB5EUSDKELUIFOVKXSULQVHK7LFAIVTSMJLGZVTGKQRPRLEGEDKKVIT6NB6EFZG473QORZGC33ZAMJBSHQQAQBASZLDMZZXE3T7OB3GE435NIAQ/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
 ================================================================================
@@ -320,20 +318,17 @@ EVENT: World Cup Qualification (Uefa) - Austria Vs San Marino (10/10/25)
 Time: 02:45AM
 Date: 10/10/25
 Category: None
-Available Channels (5):
+Available Channels (4):
   1. UFA
      URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGCEIFDUMWKRCBDCA5IDEQ6GIGBRG45SKKTZDMMBGBIQDINBAYLFMB2HE3T7OBYWG7TQNQDAOEY6DIIAMATBMZTH2/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
   2. HDD A
      URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGCEIFDUMWKRCBDCA5IDEQ6GIGBRG45SKKTZDMMBGBIQDINBAZLVPJXXE4DEMVYGO7DQPENRQEYHAAEAOB3E/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-  3. HDD D 日本語
-     URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGCEIFDUMWKRCBDCA5IDEQ6GIGBRG45SKKTZDMMBGBIQDINBAZLVPJXXE4DEMVYGO7DQPENRQEYHAAEAQADD/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-  4. HDD C 日本語
+  3. HDD C 日本語
      URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGCEIFDUMWKRCBDCA5IDEQ6GIGBRG45SKKTZDMMBGBIQDINBAZLVPJXXE4DEMVYGO7DQPENRQEYHAAEAQADE/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-  5. SD
+  4. SD
      URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGCEIFDUMWKRCBDCA5IDEQ6GIGBRG45SKKTZDMMBGBIQDINBAYDVPJXXE4DEMVYGO7DQPENRQEYHAAEAOBTL/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
@@ -354,14 +349,17 @@ EVENT: World Cup Qualification (Uefa) - Belarus Vs Denmark (10/10/25)
 Time: 02:45AM
 Date: 10/10/25
 Category: None
-Available Channels (3):
+Available Channels (4):
   1. UFA
      URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKG2ULZJEMRKDCBDCA5IUEA6CSNBCFZZGC33ZAAJBSHQQAIAAAYTVPJXXE4DEMVYGO734PENRQEYCAIBAGBTG/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
   2. HDD A
      URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKG2ULZJEMRKDCBDCA5IUEA6CSNBCFZZGC33ZAAJBSHQQAYIBU6LVMR2GO4LAMR6HEYLPPEBAECYDA4EQ/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-  3. SD
+  3. HDD C 日本語
+     URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKG2ULZJEMRKDCBDCA5IUEA6CSNBCFZZGC33ZAAJBSHQQAYIBU6LVMR2GO4LAMR6HEYLPPEBAECYMAEBQ/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+  4. SD
      URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKG2ULZJEMRKDCBDCA5IUEA6CSNBCFZZGC33ZAAJBSHQQAMIBU6LVMR2GO4LAMR6HEYLPPEBAECYDA4AQ/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
@@ -398,6 +396,17 @@ Available Channels (4):
 
 ================================================================================
 
+EVENT: World Cup Qualification (Uefa) - Cyprus Vs Bosnia-Herzegovina (10/10/25) [STREAM 9[HD]]
+Time: 02:45AM
+Date: 10/10/25
+Category: None
+Available Channels (1):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGSIIJAUCQYQIZBXGFZ7GY6C2ND5BU3TSPZ4KZOUKXK6KEIBU6LVMFSXQ3TVMJSXQYLFNUAAOBQBBACBAGTZOVRXK2T4MZQQ/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
 EVENT: World Cup Qualification (Uefa) - Czechia Vs Croatia (10/10/25)
 Time: 02:45AM
 Date: 10/10/25
@@ -409,14 +418,14 @@ Available Channels (6):
   2. HDD A
      URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGSLK5IFYWKRCBDCA5ITG46SKIJZERZGC33ZAAJBSHQQAYIBU6LVMR2GO4LMM52HEYLPPEBAECYDBAAQ/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-  3. HDD D FRANÇAIS
-     URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGSLK5IFYWKRCBDCA5ITG46SKIJZERZGC33ZAAJBSHQQAYIBU6LVMR2GO4LMM52HEYLPPEBAECYDBABA/index.m3u8
+  3. HDD C FRANÇAIS
+     URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGSLK5IFYWKRCBDCA5ITG46SKIJZERZGC33ZAAJBSHQQAYIBU6LVMR2GO4LMM52HEYLPPEBAECYMAECQ/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-  4. HDD E ITALIANO
-     URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGSLK5IFYWKRCBDCA5ITG46SKIJZERZGC33ZAAJBSHQQAYIBU6LVMR2GO4LMM52HEYLPPEBAECYDBABQ/index.m3u8
+  4. HDD D ITALIANO
+     URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGSLK5IFYWKRCBDCA5ITG46SKIJZERZGC33ZAAJBSHQQAYIBU6LVMR2GO4LMM52HEYLPPEBAECYMAEDA/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-  5. HDD F 日本語
-     URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGSLK5IFYWKRCBDCA5ITG46SKIJZERZGC33ZAAJBSHQQAYIBU6LVMR2GO4LMM52HEYLPPEBAECYMAADA/index.m3u8
+  5. HDD E 日本語
+     URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGSLK5IFYWKRCBDCA5ITG46SKIJZERZGC33ZAAJBSHQQAYIBU6LVMR2GO4LMM52HEYLPPEBAECYMAEDQ/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
   6. SD
      URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGSLK5IFYWKRCBDCA5ITG46SKIJZERZGC33ZAAJBSHQQAMIBU6LVMR2GO4LMM52HEYLPPEBAECYDA4AA/index.m3u8
@@ -439,20 +448,17 @@ EVENT: World Cup Qualification (Uefa) - Faroe Islands Vs Montenegro (10/10/25)
 Time: 02:45AM
 Date: 10/10/25
 Category: None
-Available Channels (5):
+Available Channels (4):
   1. UFA
      URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKH2QIBOFCEDZINODEOZUGZZDEJTQBA6SKMJ4L5LVIRS7CANBU43EOBXXQZDHMB2WG23POMIQMAQBAUEQOBLTP55GKZDWM5RXGZI/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
   2. HDD A
      URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKH2QIBOFCEDZINODEOZUGZZDEJTQBA6SKMJ4L5LVIRS7CANBU43EOBXXQZDDOBXXQ23RNACAOCQDAUIBUGTTMZQH2ZL4ME/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-  3. HDD D 日本語
-     URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKH2QIBOFCEDZINODEOZUGZZDEJTQBA6SKMJ4L5LVIRS7CANBU43EOBXXQZDDOBXXQ23RNACAOCQDAUIBUGTTMZQH2ZL5NQ/index.m3u8
+  3. HDD C 日本語
+     URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKH2QIBOFCEDZINODEOZUGZZDEJTQBA6SKMJ4L5LVIRS7CANBU43EOBXXQZDDOBXXQ23RNACAOCQDAUIBUGTTMZQH22TVME/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-  4. HDD C DEUTSCH
-     URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKH2QIBOFCEDZINODEOZUGZZDEJTQBA6SKMJ4L5LVIRS7CANBU43EOBXXQZDDOBXXQ23RNACAOCQDAUIBUGTTMZQH22TUNU/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-  5. SD
+  4. SD
      URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKH2QIBOFCEDZINODEOZUGZZDEJTQBA6SKMJ4L5LVIRS7CANBU43EOBXXQZDGOBXXQ23RNACAOCQDAUIBUGTTMZQH2ZLSNQ/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
@@ -480,11 +486,11 @@ Available Channels (5):
   2. HDD A
      URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKFCQLZDVKECGIMIB2MBEFU3TMOJRFM3DQZLTDMJAEFA2DIIAM437PJSWM5LAMV6GI7TFOMNREAAEBADQQBI/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-  3. HDD E DUTCH
-     URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKFCQLZDVKECGIMIB2MBEFU3TMOJRFM3DQZLTDMJAEFA2DIIAM437PJSWM5LAMV6GI7TFOMNREAAEBADQQBQ/index.m3u8
+  3. HDD D DUTCH
+     URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKFCQLZDVKECGIMIB2MBEFU3TMOJRFM3DQZLTDMJAEFA2DIIAM437PJSWM5LAMV6GI7TFOMNREAAEBAEAEAI/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-  4. HDD D 日本語
-     URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKFCQLZDVKECGIMIB2MBEFU3TMOJRFM3DQZLTDMJAEFA2DIIAM437PJSWM5LAMV6GI7TFOMNREAAEBAEACAI/index.m3u8
+  4. HDD C 日本語
+     URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKFCQLZDVKECGIMIB2MBEFU3TMOJRFM3DQZLTDMJAEFA2DIIAM437PJSWM5LAMV6GI7TFOMNREAAEBAEAEAY/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
   5. SD
      URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKFCQLZDVKECGIMIB2MBEFU3TMOJRFM3DQZLTDMJAEFA2DIIAG437PJSWM5LAMV6GI7TFOMNREAAEBADQOAY/index.m3u8
@@ -514,11 +520,11 @@ Available Channels (5):
   2. HDD A
      URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKCSSLVDVQUK6KQICKJTQAIQCCMBTEBZGC33ZAAJBSHQQAYIBU6LVMR2GO4LAMB3XEYLPPEBAECYDBADQ/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-  3. HDD E DUTCH
-     URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKCSSLVDVQUK6KQICKJTQAIQCCMBTEBZGC33ZAAJBSHQQAYIBU6LVMR2GO4LAMB3XEYLPPEBAECYDBAEA/index.m3u8
+  3. HDD D DUTCH
+     URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKCSSLVDVQUK6KQICKJTQAIQCCMBTEBZGC33ZAAJBSHQQAYIBU6LVMR2GO4LAMB3XEYLPPEBAECYMAIBA/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-  4. HDD D 日本語
-     URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKCSSLVDVQUK6KQICKJTQAIQCCMBTEBZGC33ZAAJBSHQQAYIBU6LVMR2GO4LAMB3XEYLPPEBAECYMAEBA/index.m3u8
+  4. HDD C 日本語
+     URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKCSSLVDVQUK6KQICKJTQAIQCCMBTEBZGC33ZAAJBSHQQAYIBU6LVMR2GO4LAMB3XEYLPPEBAECYMAICA/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
   5. SD
      URL: https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKCSSLVDVQUK6KQICKJTQAIQCCMBTEBZGC33ZAAJBSHQQAMIBU6LVMR2GO4LAMB3XEYLPPEBAECYDA4BA/index.m3u8
@@ -537,13 +543,24 @@ Available Channels (1):
 
 ================================================================================
 
+EVENT: Conmebol Copa Libertadores Femenino - Universidad De Chile Women Vs Deportivo Cali Women (10/10/25)
+Time: 03:00AM
+Date: 10/10/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/CANB4CAXAYNBYZIREQ2TQEL6LJLFKQSEKE3TUIRAEFSBGNJIG4SSYN26CIPBIZK6LFDDMJZDFQ3CKMLQEE3WWBRRLBPFMFDHL5OVKPLVEY3HEABQEAVCAPZMF5PBE4CVLRMRAZZ4HA2SW4TOP5YHI4TBN54QEEQZDYIAIAQJMBRGC5DSNZ7XA5TCON6WWCA/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
 EVENT: Iwf World Championship - Putri 86 Kg - Grup A (10/09/25)
 Time: 11:00PM
 Date: 10/09/25
 Category: None
 Available Channels (1):
   1. VDO
-     URL: https://world-proxifier.xyz/rbtv/p/DIBBMZIFFMTTYILSBAWTQXCCLJNV4Q2YLERXK7LFAIYSCIRMOJZXG6L2KUJRSEDXIJCSG5IRMV4G45LBMV4GCZLLAEBAEFA2DIIAIYLMNB3GA7LVPJXXE7LXNMBAWAI/index.m3u8
+     URL: https://world-proxifier.xyz/rbtv/p/DIBBMZIFFMTTYILSBAWTQXCCLJNV4Q2YLERXK7LFAIYSCIRMOJZXG6L2KUJRSEDXIJCSG5IRMV4G45LBMV4GCZLLAEBAEFA2DIIAIYLMNB3GA7LVPJXXE7LXNMCACAY/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
 ================================================================================
@@ -592,6 +609,20 @@ Available Channels (1):
 
 ================================================================================
 
+EVENT: Pga Korn Ferry Tour - Korn Ferry Tour Championship, First Round (10/10/25) [STREAM 38[HD]]
+Time: 03:00AM
+Date: 10/10/25
+Category: None
+Available Channels (2):
+  1. None
+     URL: https://world-proxifier.xyz/rbtv/p/AMJBCZIZFMTT4ZIUFY3SWSASM5NUKQQQDVZR4PZXHRSBGNJXEAZGKDK6I5ARI42YKFOSGPB7FMQSYPBANFZA2LBLIJDBGZS7IVPFI437PJSWW5DVPJXXE6LFOMNRECQAAQDAKEDZP5YH2YLXMVSQ/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ots_active.webp
+  2. None
+     URL: https://world-proxifier.xyz/rbtv/p/AMJBCZIZFMTT4ZIUFY3SWSASM5NUKQQQDVZR4PZXHRSBGNJXEAZGKDK6I5ARI42YKFOSGPB7FMQSYPBANFZA2LBLIJDBGZS7IVPFI437PJSWW5DVPJXXE6LFOMNRECQAAQDAKEDZP5YH2YLXMVSQ/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ots_active.webp
+
+================================================================================
+
 EVENT: Premier Padel 2025  - Milan P1 Day 4 Match 5 (10/10/25)
 Time: 12:00AM
 Date: 10/10/25
@@ -610,6 +641,17 @@ Category: None
 Available Channels (1):
   1. SKA
      URL: https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGY3QN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6WWZD7PJSWI6LXNUAQK/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Premier Padel 2025  - Milan P1 Day 4 Match 7 (10/10/25)
+Time: 03:00AM
+Date: 10/10/25
+Category: None
+Available Channels (1):
+  1. SKA
+     URL: https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGYTQN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6GEZD7PJSWI6LXNUAQU/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
 
 ================================================================================

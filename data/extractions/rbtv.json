@@ -1,19 +1,9 @@
 {
-  "timestamp": "2025-10-09T18:47:09.607664",
+  "timestamp": "2025-10-09T19:13:09.601958",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
   "events": [
-    {
-      "event_time": "01:00AM",
-      "event_date": "10/10/25",
-      "channel_name": "VDO",
-      "event_title": "Arctic Open, Doubles - Eloi Adam/Leo Rossi  Vs Choong Hon Jian/Muhammad Haikal (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXS5K5IZLFYVKDCB7HKFJJHUWXKEJBGMTGUFKULUJWMX2DINMXG5JGGZZAOPJ7FI6CYZIRLZOBG7SZKFPB6HRAHASD6KJUGRSRUKRMGJIF4EY6DIIACATTP55GKYDUMVQWK6DBMVVQCAQBAYAQCEA2PF2WM53AOBSGQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-      "group_title": "BADMINTON"
-    },
     {
       "event_time": "02:20AM",
       "event_date": "10/10/25",
@@ -23,16 +13,6 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
       "group_title": "BADMINTON"
-    },
-    {
-      "event_time": "12:50AM",
-      "event_date": "10/10/25",
-      "channel_name": "SD",
-      "event_title": "Euroleague Women - Galatasaray Women Vs Famila Wuber Schio Women (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNMJDMXCXLUKB2EDXKE7TIJBEEESSOMJ4OIOCUNCULQJUEQYQOZIT4PB4ERZBGIBSEAQGWFR2LFNVYFDHL5OVKPLVPJXXE5TVPJXXE6DFOMNREAIEAAAAMADHOV5G64TWMJRHAY3Z/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
     },
     {
       "event_time": "01:30AM",
@@ -115,6 +95,26 @@
     {
       "event_time": "02:30AM",
       "event_date": "10/10/25",
+      "channel_name": "MOVISTAR2",
+      "event_title": "Euroleague - Paris Basketball Vs Virtus Pallacanestro Bologna (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNNUHSYKTIFOUGEDSKEQD4NJRGASTSPDFEQ4GKD2YIBDUCQYQMBIT6OJREYZSUMBDGEQCIZI3LZPFYU26KEIBU6LVMJSXQ3TVMJ2WE6TFOMNREAIEAAAAMALBOV5G64TSM5RHMYL5/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL"
+    },
+    {
+      "event_time": "02:30AM",
+      "event_date": "10/10/25",
+      "channel_name": "SD",
+      "event_title": "Euroleague - Paris Basketball Vs Virtus Pallacanestro Bologna (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNNUHSYKTIFOUGEDSKEQD4NJRGASTSPDFEQ4GKD2YIBDUCQYQMBIT6OJREYZSUMBDGEQCIZI3LZPFYU26KEIBU6LVMJSXQ3TVMNSXQYLFNMAQEAYCAEBBAGTZOVRHEYDRMZSA/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL"
+    },
+    {
+      "event_time": "02:30AM",
+      "event_date": "10/10/25",
       "channel_name": "MOVISTAR",
       "event_title": "Euroleague - Saski Baskonia Vs Panathinaikos (10/10/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNNUHSYSTIBPVSEDSKEQD4PZLHMSXKJRWOINSIN2QIZNV2XSRLFNTYJTQN54GIZ3QN54GW53JAEBRGHQ2CABAAY3FMZ2WWZD7PJSWI6LXNIBQI/index.m3u8",
@@ -152,21 +152,31 @@
       "group_title": "BASKETBALL"
     },
     {
-      "event_time": "02:45AM",
+      "event_time": "03:00AM",
       "event_date": "10/10/25",
       "channel_name": "MOVISTAR2",
-      "event_title": "Euroleague - Paris Basketball Vs Virtus Pallacanestro Bologna (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNNUHSYKTIFOUGEDSKEQD4NJRGASTSPDFEQ4GKD2YIBDUCQYQMBIT6OJREYZSUMBDGEQCIZI3LZPFYU26KEIBU6LVMJSXQ3TVMJ2WE6TFOMNREAIEAAAAMALBOV5G64TSM5RHMYL5/index.m3u8",
+      "event_title": "Euroleague - Real Madrid Teka Vs Asvel Villeurbanne Lyon (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNNUHSY2XKJMBA7KRKQQTYNDFAYQT4MLFEQ4GKGCCIRLFQEDGLFOD6MBFG4YCKOZ6EBZAOPBWL4JBSHQQAIIBU6LVMJ2WE5LVPJXXE6LVNEAQIAQHCANBUEDFM5RHMYLT/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
       "group_title": "BASKETBALL"
     },
     {
-      "event_time": "02:45AM",
+      "event_time": "03:00AM",
+      "event_date": "10/10/25",
+      "channel_name": "HDD A",
+      "event_title": "Euroleague - Real Madrid Teka Vs Asvel Villeurbanne Lyon (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNNUHSY2XKJMBA7KRKQQTYNDFAYQT4MLFEQ4GKGCCIRLFQEDGLFOD6MBFG4YCKOZ6EBZAOPBWL4JBSHQQAIIBU6LVMZSXQ3TVMJ2WE63TNABBEGI6CABAOATGMZTQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL"
+    },
+    {
+      "event_time": "03:00AM",
       "event_date": "10/10/25",
       "channel_name": "SD",
-      "event_title": "Euroleague - Paris Basketball Vs Virtus Pallacanestro Bologna (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNNUHSYKTIFOUGEDSKEQD4NJRGASTSPDFEQ4GKD2YIBDUCQYQMBIT6OJREYZSUMBDGEQCIZI3LZPFYU26KEIBU6LVMJSXQ3TVMNSXQYLFNMAQEAYCAEBBAGTZOVRHEYDRMZSA/index.m3u8",
+      "event_title": "Euroleague - Real Madrid Teka Vs Asvel Villeurbanne Lyon (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNNUHSY2XKJMBA7KRKQQTYNDFAYQT4MLFEQ4GKGCCIRLFQEDGLFOD6MBFG4YCKOZ6EBZAOPBWL4JBSHQQAIIBU6LVMNSXQ3TVMJ2WE63TNABBEGI6CABAOATGMZSQ/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
       "group_title": "BASKETBALL"
@@ -321,8 +331,18 @@
     {
       "event_time": "02:45AM",
       "event_date": "10/10/25",
-      "event_title": "International Friendly - Poland Vs New Zealand (10/10/25) [STREAM 34[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DI5SIIBAFI2CILB5EUSDKELUIFOVKXSULQVHK7LFAIVTSMJLGZVTGKQRPRLEGEDKKVIT6NB6EFZG473QORZGC33ZAMJBSHQQAQBASZLDMZZXE3T7OB3GE43SMABA/index.m3u8",
+      "channel_name": "HDD A \u65e5\u672c\u8a9e",
+      "event_title": "International Friendly - Poland Vs New Zealand (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DI5SIIBAFI2CILB5EUSDKELUIFOVKXSULQVHK7LFAIVTSMJLGZVTGKQRPRLEGEDKKVIT6NB6EFZG473QORZGC33ZA4JBSHQQAQBASZLDMZZXE3T7OB3GE435NAEQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "02:45AM",
+      "event_date": "10/10/25",
+      "event_title": "International Friendly - Poland Vs New Zealand (10/10/25) [STREAM 40[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DI5SIIBAFI2CILB5EUSDKELUIFOVKXSULQVHK7LFAIVTSMJLGZVTGKQRPRLEGEDKKVIT6NB6EFZG473QORZGC33ZAMJBSHQQAQBASZLDMZZXE3T7OB3GE435NIAQ/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
@@ -363,16 +383,6 @@
       "channel_name": "HDD A",
       "event_title": "World Cup Qualification (Uefa) - Austria Vs San Marino (10/10/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGCEIFDUMWKRCBDCA5IDEQ6GIGBRG45SKKTZDMMBGBIQDINBAZLVPJXXE4DEMVYGO7DQPENRQEYHAAEAOB3E/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "02:45AM",
-      "event_date": "10/10/25",
-      "channel_name": "HDD D \u65e5\u672c\u8a9e",
-      "event_title": "World Cup Qualification (Uefa) - Austria Vs San Marino (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGCEIFDUMWKRCBDCA5IDEQ6GIGBRG45SKKTZDMMBGBIQDINBAZLVPJXXE4DEMVYGO7DQPENRQEYHAAEAQADD/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
@@ -429,6 +439,16 @@
     {
       "event_time": "02:45AM",
       "event_date": "10/10/25",
+      "channel_name": "HDD C \u65e5\u672c\u8a9e",
+      "event_title": "World Cup Qualification (Uefa) - Belarus Vs Denmark (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKG2ULZJEMRKDCBDCA5IUEA6CSNBCFZZGC33ZAAJBSHQQAYIBU6LVMR2GO4LAMR6HEYLPPEBAECYMAEBQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "02:45AM",
+      "event_date": "10/10/25",
       "event_title": "World Cup Qualification (Uefa) - Belarus Vs Denmark (10/10/25) [STREAM 43[HD]]",
       "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKG2ULZJEMRKDCBDCA5IUEA6CSNBCFZZGC33ZAAJBSHQQAIIBU6LVMR2GO4LAMR6HEYLPPEBAECYMAACA/index.m3u8",
       "duration": null,
@@ -478,6 +498,15 @@
     {
       "event_time": "02:45AM",
       "event_date": "10/10/25",
+      "event_title": "World Cup Qualification (Uefa) - Cyprus Vs Bosnia-Herzegovina (10/10/25) [STREAM 9[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGSIIJAUCQYQIZBXGFZ7GY6C2ND5BU3TSPZ4KZOUKXK6KEIBU6LVMFSXQ3TVMJSXQYLFNUAAOBQBBACBAGTZOVRXK2T4MZQQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "02:45AM",
+      "event_date": "10/10/25",
       "channel_name": "SD",
       "event_title": "World Cup Qualification (Uefa) - Cyprus Vs Bosnia-Herzegovina (10/10/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGSIIJAUCQYQIZBXGFZ7GY6C2ND5BU3TSPZ4KZOUKXK6KEIBU6LVMFSXQ3TVMNSXQYLFNUAAOBQBBACBAGTZOVRXK2TTMNTQ/index.m3u8",
@@ -508,9 +537,9 @@
     {
       "event_time": "02:45AM",
       "event_date": "10/10/25",
-      "channel_name": "HDD D FRAN\u00c7AIS",
+      "channel_name": "HDD C FRAN\u00c7AIS",
       "event_title": "World Cup Qualification (Uefa) - Czechia Vs Croatia (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGSLK5IFYWKRCBDCA5ITG46SKIJZERZGC33ZAAJBSHQQAYIBU6LVMR2GO4LMM52HEYLPPEBAECYDBABA/index.m3u8",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGSLK5IFYWKRCBDCA5ITG46SKIJZERZGC33ZAAJBSHQQAYIBU6LVMR2GO4LMM52HEYLPPEBAECYMAECQ/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
@@ -518,9 +547,9 @@
     {
       "event_time": "02:45AM",
       "event_date": "10/10/25",
-      "channel_name": "HDD E ITALIANO",
+      "channel_name": "HDD D ITALIANO",
       "event_title": "World Cup Qualification (Uefa) - Czechia Vs Croatia (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGSLK5IFYWKRCBDCA5ITG46SKIJZERZGC33ZAAJBSHQQAYIBU6LVMR2GO4LMM52HEYLPPEBAECYDBABQ/index.m3u8",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGSLK5IFYWKRCBDCA5ITG46SKIJZERZGC33ZAAJBSHQQAYIBU6LVMR2GO4LMM52HEYLPPEBAECYMAEDA/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
@@ -528,9 +557,9 @@
     {
       "event_time": "02:45AM",
       "event_date": "10/10/25",
-      "channel_name": "HDD F \u65e5\u672c\u8a9e",
+      "channel_name": "HDD E \u65e5\u672c\u8a9e",
       "event_title": "World Cup Qualification (Uefa) - Czechia Vs Croatia (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGSLK5IFYWKRCBDCA5ITG46SKIJZERZGC33ZAAJBSHQQAYIBU6LVMR2GO4LMM52HEYLPPEBAECYMAADA/index.m3u8",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGSLK5IFYWKRCBDCA5ITG46SKIJZERZGC33ZAAJBSHQQAYIBU6LVMR2GO4LMM52HEYLPPEBAECYMAEDQ/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
@@ -577,19 +606,9 @@
     {
       "event_time": "02:45AM",
       "event_date": "10/10/25",
-      "channel_name": "HDD D \u65e5\u672c\u8a9e",
+      "channel_name": "HDD C \u65e5\u672c\u8a9e",
       "event_title": "World Cup Qualification (Uefa) - Faroe Islands Vs Montenegro (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKH2QIBOFCEDZINODEOZUGZZDEJTQBA6SKMJ4L5LVIRS7CANBU43EOBXXQZDDOBXXQ23RNACAOCQDAUIBUGTTMZQH2ZL5NQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "02:45AM",
-      "event_date": "10/10/25",
-      "channel_name": "HDD C DEUTSCH",
-      "event_title": "World Cup Qualification (Uefa) - Faroe Islands Vs Montenegro (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKH2QIBOFCEDZINODEOZUGZZDEJTQBA6SKMJ4L5LVIRS7CANBU43EOBXXQZDDOBXXQ23RNACAOCQDAUIBUGTTMZQH22TUNU/index.m3u8",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKH2QIBOFCEDZINODEOZUGZZDEJTQBA6SKMJ4L5LVIRS7CANBU43EOBXXQZDDOBXXQ23RNACAOCQDAUIBUGTTMZQH22TVME/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
@@ -636,9 +655,9 @@
     {
       "event_time": "02:45AM",
       "event_date": "10/10/25",
-      "channel_name": "HDD E DUTCH",
+      "channel_name": "HDD D DUTCH",
       "event_title": "World Cup Qualification (Uefa) - Malta Vs Netherlands (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKFCQLZDVKECGIMIB2MBEFU3TMOJRFM3DQZLTDMJAEFA2DIIAM437PJSWM5LAMV6GI7TFOMNREAAEBADQQBQ/index.m3u8",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKFCQLZDVKECGIMIB2MBEFU3TMOJRFM3DQZLTDMJAEFA2DIIAM437PJSWM5LAMV6GI7TFOMNREAAEBAEAEAI/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
@@ -646,9 +665,9 @@
     {
       "event_time": "02:45AM",
       "event_date": "10/10/25",
-      "channel_name": "HDD D \u65e5\u672c\u8a9e",
+      "channel_name": "HDD C \u65e5\u672c\u8a9e",
       "event_title": "World Cup Qualification (Uefa) - Malta Vs Netherlands (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKFCQLZDVKECGIMIB2MBEFU3TMOJRFM3DQZLTDMJAEFA2DIIAM437PJSWM5LAMV6GI7TFOMNREAAEBAEACAI/index.m3u8",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKFCQLZDVKECGIMIB2MBEFU3TMOJRFM3DQZLTDMJAEFA2DIIAM437PJSWM5LAMV6GI7TFOMNREAAEBAEAEAY/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
@@ -695,9 +714,9 @@
     {
       "event_time": "02:45AM",
       "event_date": "10/10/25",
-      "channel_name": "HDD E DUTCH",
+      "channel_name": "HDD D DUTCH",
       "event_title": "World Cup Qualification (Uefa) - Scotland Vs Greece (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKCSSLVDVQUK6KQICKJTQAIQCCMBTEBZGC33ZAAJBSHQQAYIBU6LVMR2GO4LAMB3XEYLPPEBAECYDBAEA/index.m3u8",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKCSSLVDVQUK6KQICKJTQAIQCCMBTEBZGC33ZAAJBSHQQAYIBU6LVMR2GO4LAMB3XEYLPPEBAECYMAIBA/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
@@ -705,9 +724,9 @@
     {
       "event_time": "02:45AM",
       "event_date": "10/10/25",
-      "channel_name": "HDD D \u65e5\u672c\u8a9e",
+      "channel_name": "HDD C \u65e5\u672c\u8a9e",
       "event_title": "World Cup Qualification (Uefa) - Scotland Vs Greece (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKCSSLVDVQUK6KQICKJTQAIQCCMBTEBZGC33ZAAJBSHQQAYIBU6LVMR2GO4LAMB3XEYLPPEBAECYMAEBA/index.m3u8",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKCSSLVDVQUK6KQICKJTQAIQCCMBTEBZGC33ZAAJBSHQQAYIBU6LVMR2GO4LAMB3XEYLPPEBAECYMAICA/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
@@ -732,11 +751,21 @@
       "group_title": "FOOTBALL"
     },
     {
+      "event_time": "03:00AM",
+      "event_date": "10/10/25",
+      "channel_name": "SD",
+      "event_title": "Conmebol Copa Libertadores Femenino - Universidad De Chile Women Vs Deportivo Cali Women (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CANB4CAXAYNBYZIREQ2TQEL6LJLFKQSEKE3TUIRAEFSBGNJIG4SSYN26CIPBIZK6LFDDMJZDFQ3CKMLQEE3WWBRRLBPFMFDHL5OVKPLVEY3HEABQEAVCAPZMF5PBE4CVLRMRAZZ4HA2SW4TOP5YHI4TBN54QEEQZDYIAIAQJMBRGC5DSNZ7XA5TCON6WWCA/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
       "event_time": "11:00PM",
       "event_date": "10/09/25",
       "channel_name": "VDO",
       "event_title": "Iwf World Championship - Putri 86 Kg - Grup A (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DIBBMZIFFMTTYILSBAWTQXCCLJNV4Q2YLERXK7LFAIYSCIRMOJZXG6L2KUJRSEDXIJCSG5IRMV4G45LBMV4GCZLLAEBAEFA2DIIAIYLMNB3GA7LVPJXXE7LXNMBAWAI/index.m3u8",
+      "url": "https://world-proxifier.xyz/rbtv/p/DIBBMZIFFMTTYILSBAWTQXCCLJNV4Q2YLERXK7LFAIYSCIRMOJZXG6L2KUJRSEDXIJCSG5IRMV4G45LBMV4GCZLLAEBAEFA2DIIAIYLMNB3GA7LVPJXXE7LXNMCACAY/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
@@ -781,6 +810,24 @@
       "group_title": "MOTORSPORT"
     },
     {
+      "event_time": "03:00AM",
+      "event_date": "10/10/25",
+      "event_title": "Pga Korn Ferry Tour - Korn Ferry Tour Championship, First Round (10/10/25) [STREAM 38[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AMJBCZIZFMTT4ZIUFY3SWSASM5NUKQQQDVZR4PZXHRSBGNJXEAZGKDK6I5ARI42YKFOSGPB7FMQSYPBANFZA2LBLIJDBGZS7IVPFI437PJSWW5DVPJXXE6LFOMNRECQAAQDAKEDZP5YH2YLXMVSQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ots_active.webp",
+      "group_title": "OTHERS"
+    },
+    {
+      "event_time": "03:00AM",
+      "event_date": "10/10/25",
+      "event_title": "Pga Korn Ferry Tour - Korn Ferry Tour Championship, First Round (10/10/25) [STREAM 38[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AMJBCZIZFMTT4ZIUFY3SWSASM5NUKQQQDVZR4PZXHRSBGNJXEAZGKDK6I5ARI42YKFOSGPB7FMQSYPBANFZA2LBLIJDBGZS7IVPFI437PJSWW5DVPJXXE6LFOMNRECQAAQDAKEDZP5YH2YLXMVSQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ots_active.webp",
+      "group_title": "OTHERS"
+    },
+    {
       "event_time": "12:00AM",
       "event_date": "10/10/25",
       "channel_name": "SKA",
@@ -796,6 +843,16 @@
       "channel_name": "SKA",
       "event_title": "Premier Padel 2025  - Milan P1 Day 4 Match 6 (10/10/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGY3QN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6WWZD7PJSWI6LXNUAQK/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "03:00AM",
+      "event_date": "10/10/25",
+      "channel_name": "SKA",
+      "event_title": "Premier Padel 2025  - Milan P1 Day 4 Match 7 (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGYTQN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6GEZD7PJSWI6LXNUAQU/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
@@ -842,20 +899,6 @@
     }
   ],
   "grouped_events": {
-    "Arctic Open, Doubles - Eloi Adam/Leo Rossi  Vs Choong Hon Jian/Muhammad Haikal (10/10/25)": {
-      "event_title": "Arctic Open, Doubles - Eloi Adam/Leo Rossi  Vs Choong Hon Jian/Muhammad Haikal (10/10/25)",
-      "event_time": "01:00AM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXS5K5IZLFYVKDCB7HKFJJHUWXKEJBGMTGUFKULUJWMX2DINMXG5JGGZZAOPJ7FI6CYZIRLZOBG7SZKFPB6HRAHASD6KJUGRSRUKRMGJIF4EY6DIIACATTP55GKYDUMVQWK6DBMVVQCAQBAYAQCEA2PF2WM53AOBSGQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "Arctic Open, Singles - Takuma Obayashi Vs Lu Guangzu (10/10/25)": {
       "event_title": "Arctic Open, Singles - Takuma Obayashi Vs Lu Guangzu (10/10/25)",
       "event_time": "02:20AM",
@@ -866,20 +909,6 @@
           "channel_name": "VDO",
           "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXSYS3LVJVYVKDCB7HKBBEHEYTQMLFDUUSIICQIFNV2ECGIMIB6IDQAITSKOZXH4TWW33TCEBQCFA2DIIAEY3FMFSXQ3TVMJ2WE6DXNIEBEGI6CADAEATHMFQQ/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Euroleague Women - Galatasaray Women Vs Famila Wuber Schio Women (10/10/25)": {
-      "event_title": "Euroleague Women - Galatasaray Women Vs Famila Wuber Schio Women (10/10/25)",
-      "event_time": "12:50AM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNMJDMXCXLUKB2EDXKE7TIJBEEESSOMJ4OIOCUNCULQJUEQYQOZIT4PB4ERZBGIBSEAQGWFR2LFNVYFDHL5OVKPLVPJXXE5TVPJXXE6DFOMNREAIEAAAAMADHOV5G64TWMJRHAY3Z/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
           "duration": null
         }
       ]
@@ -972,6 +1001,26 @@
         }
       ]
     },
+    "Euroleague - Paris Basketball Vs Virtus Pallacanestro Bologna (10/10/25)": {
+      "event_title": "Euroleague - Paris Basketball Vs Virtus Pallacanestro Bologna (10/10/25)",
+      "event_time": "02:30AM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "MOVISTAR2",
+          "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNNUHSYKTIFOUGEDSKEQD4NJRGASTSPDFEQ4GKD2YIBDUCQYQMBIT6OJREYZSUMBDGEQCIZI3LZPFYU26KEIBU6LVMJSXQ3TVMJ2WE6TFOMNREAIEAAAAMALBOV5G64TSM5RHMYL5/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNNUHSYKTIFOUGEDSKEQD4NJRGASTSPDFEQ4GKD2YIBDUCQYQMBIT6OJREYZSUMBDGEQCIZI3LZPFYU26KEIBU6LVMJSXQ3TVMNSXQYLFNMAQEAYCAEBBAGTZOVRHEYDRMZSA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+          "duration": null
+        }
+      ]
+    },
     "Euroleague - Saski Baskonia Vs Panathinaikos (10/10/25)": {
       "event_title": "Euroleague - Saski Baskonia Vs Panathinaikos (10/10/25)",
       "event_time": "02:30AM",
@@ -1020,21 +1069,27 @@
         }
       ]
     },
-    "Euroleague - Paris Basketball Vs Virtus Pallacanestro Bologna (10/10/25)": {
-      "event_title": "Euroleague - Paris Basketball Vs Virtus Pallacanestro Bologna (10/10/25)",
-      "event_time": "02:45AM",
+    "Euroleague - Real Madrid Teka Vs Asvel Villeurbanne Lyon (10/10/25)": {
+      "event_title": "Euroleague - Real Madrid Teka Vs Asvel Villeurbanne Lyon (10/10/25)",
+      "event_time": "03:00AM",
       "event_date": "10/10/25",
       "category": null,
       "channels": [
         {
           "channel_name": "MOVISTAR2",
-          "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNNUHSYKTIFOUGEDSKEQD4NJRGASTSPDFEQ4GKD2YIBDUCQYQMBIT6OJREYZSUMBDGEQCIZI3LZPFYU26KEIBU6LVMJSXQ3TVMJ2WE6TFOMNREAIEAAAAMALBOV5G64TSM5RHMYL5/index.m3u8",
+          "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNNUHSY2XKJMBA7KRKQQTYNDFAYQT4MLFEQ4GKGCCIRLFQEDGLFOD6MBFG4YCKOZ6EBZAOPBWL4JBSHQQAIIBU6LVMJ2WE5LVPJXXE6LVNEAQIAQHCANBUEDFM5RHMYLT/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNNUHSY2XKJMBA7KRKQQTYNDFAYQT4MLFEQ4GKGCCIRLFQEDGLFOD6MBFG4YCKOZ6EBZAOPBWL4JBSHQQAIIBU6LVMZSXQ3TVMJ2WE63TNABBEGI6CABAOATGMZTQ/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
           "duration": null
         },
         {
           "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNNUHSYKTIFOUGEDSKEQD4NJRGASTSPDFEQ4GKD2YIBDUCQYQMBIT6OJREYZSUMBDGEQCIZI3LZPFYU26KEIBU6LVMJSXQ3TVMNSXQYLFNMAQEAYCAEBBAGTZOVRHEYDRMZSA/index.m3u8",
+          "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNNUHSY2XKJMBA7KRKQQTYNDFAYQT4MLFEQ4GKGCCIRLFQEDGLFOD6MBFG4YCKOZ6EBZAOPBWL4JBSHQQAIIBU6LVMNSXQ3TVMJ2WE63TNABBEGI6CABAOATGMZSQ/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
           "duration": null
         }
@@ -1218,20 +1273,6 @@
         }
       ]
     },
-    "International Friendly - Poland Vs New Zealand (10/10/25) [STREAM 34[HD]]": {
-      "event_title": "International Friendly - Poland Vs New Zealand (10/10/25) [STREAM 34[HD]]",
-      "event_time": "02:45AM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/DI5SIIBAFI2CILB5EUSDKELUIFOVKXSULQVHK7LFAIVTSMJLGZVTGKQRPRLEGEDKKVIT6NB6EFZG473QORZGC33ZAMJBSHQQAQBASZLDMZZXE3T7OB3GE43SMABA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "International Friendly - Poland Vs New Zealand (10/10/25)": {
       "event_title": "International Friendly - Poland Vs New Zealand (10/10/25)",
       "event_time": "02:45AM",
@@ -1239,8 +1280,28 @@
       "category": null,
       "channels": [
         {
+          "channel_name": "HDD A \u65e5\u672c\u8a9e",
+          "url": "https://world-proxifier.xyz/rbtv/p/DI5SIIBAFI2CILB5EUSDKELUIFOVKXSULQVHK7LFAIVTSMJLGZVTGKQRPRLEGEDKKVIT6NB6EFZG473QORZGC33ZA4JBSHQQAQBASZLDMZZXE3T7OB3GE435NAEQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
           "channel_name": "SD",
           "url": "https://world-proxifier.xyz/rbtv/p/DI5SIIBAFI2CILB5EUSDKELUIFOVKXSULQVHK7LFAIVTSMJLGZVTGKQRPRLEGEDKKVIT6NB6EFZG473QORZGC33ZAIJBSHQQAQBASZLDMZZXE3T7OB3GE43SNYDQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "International Friendly - Poland Vs New Zealand (10/10/25) [STREAM 40[HD]]": {
+      "event_title": "International Friendly - Poland Vs New Zealand (10/10/25) [STREAM 40[HD]]",
+      "event_time": "02:45AM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/DI5SIIBAFI2CILB5EUSDKELUIFOVKXSULQVHK7LFAIVTSMJLGZVTGKQRPRLEGEDKKVIT6NB6EFZG473QORZGC33ZAMJBSHQQAQBASZLDMZZXE3T7OB3GE435NIAQ/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }
@@ -1275,12 +1336,6 @@
         {
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGCEIFDUMWKRCBDCA5IDEQ6GIGBRG45SKKTZDMMBGBIQDINBAZLVPJXXE4DEMVYGO7DQPENRQEYHAAEAOB3E/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "HDD D \u65e5\u672c\u8a9e",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGCEIFDUMWKRCBDCA5IDEQ6GIGBRG45SKKTZDMMBGBIQDINBAZLVPJXXE4DEMVYGO7DQPENRQEYHAAEAQADD/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         },
@@ -1327,6 +1382,12 @@
         {
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKG2ULZJEMRKDCBDCA5IUEA6CSNBCFZZGC33ZAAJBSHQQAYIBU6LVMR2GO4LAMR6HEYLPPEBAECYDA4EQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD C \u65e5\u672c\u8a9e",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKG2ULZJEMRKDCBDCA5IUEA6CSNBCFZZGC33ZAAJBSHQQAYIBU6LVMR2GO4LAMR6HEYLPPEBAECYMAEBQ/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         },
@@ -1384,6 +1445,20 @@
         }
       ]
     },
+    "World Cup Qualification (Uefa) - Cyprus Vs Bosnia-Herzegovina (10/10/25) [STREAM 9[HD]]": {
+      "event_title": "World Cup Qualification (Uefa) - Cyprus Vs Bosnia-Herzegovina (10/10/25) [STREAM 9[HD]]",
+      "event_time": "02:45AM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGSIIJAUCQYQIZBXGFZ7GY6C2ND5BU3TSPZ4KZOUKXK6KEIBU6LVMFSXQ3TVMJSXQYLFNUAAOBQBBACBAGTZOVRXK2T4MZQQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
     "World Cup Qualification (Uefa) - Czechia Vs Croatia (10/10/25)": {
       "event_title": "World Cup Qualification (Uefa) - Czechia Vs Croatia (10/10/25)",
       "event_time": "02:45AM",
@@ -1403,20 +1478,20 @@
           "duration": null
         },
         {
-          "channel_name": "HDD D FRAN\u00c7AIS",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGSLK5IFYWKRCBDCA5ITG46SKIJZERZGC33ZAAJBSHQQAYIBU6LVMR2GO4LMM52HEYLPPEBAECYDBABA/index.m3u8",
+          "channel_name": "HDD C FRAN\u00c7AIS",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGSLK5IFYWKRCBDCA5ITG46SKIJZERZGC33ZAAJBSHQQAYIBU6LVMR2GO4LMM52HEYLPPEBAECYMAECQ/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         },
         {
-          "channel_name": "HDD E ITALIANO",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGSLK5IFYWKRCBDCA5ITG46SKIJZERZGC33ZAAJBSHQQAYIBU6LVMR2GO4LMM52HEYLPPEBAECYDBABQ/index.m3u8",
+          "channel_name": "HDD D ITALIANO",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGSLK5IFYWKRCBDCA5ITG46SKIJZERZGC33ZAAJBSHQQAYIBU6LVMR2GO4LMM52HEYLPPEBAECYMAEDA/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         },
         {
-          "channel_name": "HDD F \u65e5\u672c\u8a9e",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGSLK5IFYWKRCBDCA5ITG46SKIJZERZGC33ZAAJBSHQQAYIBU6LVMR2GO4LMM52HEYLPPEBAECYMAADA/index.m3u8",
+          "channel_name": "HDD E \u65e5\u672c\u8a9e",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKGSLK5IFYWKRCBDCA5ITG46SKIJZERZGC33ZAAJBSHQQAYIBU6LVMR2GO4LMM52HEYLPPEBAECYMAEDQ/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         },
@@ -1461,14 +1536,8 @@
           "duration": null
         },
         {
-          "channel_name": "HDD D \u65e5\u672c\u8a9e",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKH2QIBOFCEDZINODEOZUGZZDEJTQBA6SKMJ4L5LVIRS7CANBU43EOBXXQZDDOBXXQ23RNACAOCQDAUIBUGTTMZQH2ZL5NQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "HDD C DEUTSCH",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKH2QIBOFCEDZINODEOZUGZZDEJTQBA6SKMJ4L5LVIRS7CANBU43EOBXXQZDDOBXXQ23RNACAOCQDAUIBUGTTMZQH22TUNU/index.m3u8",
+          "channel_name": "HDD C \u65e5\u672c\u8a9e",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKH2QIBOFCEDZINODEOZUGZZDEJTQBA6SKMJ4L5LVIRS7CANBU43EOBXXQZDDOBXXQ23RNACAOCQDAUIBUGTTMZQH22TVME/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         },
@@ -1513,14 +1582,14 @@
           "duration": null
         },
         {
-          "channel_name": "HDD E DUTCH",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKFCQLZDVKECGIMIB2MBEFU3TMOJRFM3DQZLTDMJAEFA2DIIAM437PJSWM5LAMV6GI7TFOMNREAAEBADQQBQ/index.m3u8",
+          "channel_name": "HDD D DUTCH",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKFCQLZDVKECGIMIB2MBEFU3TMOJRFM3DQZLTDMJAEFA2DIIAM437PJSWM5LAMV6GI7TFOMNREAAEBAEAEAI/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         },
         {
-          "channel_name": "HDD D \u65e5\u672c\u8a9e",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKFCQLZDVKECGIMIB2MBEFU3TMOJRFM3DQZLTDMJAEFA2DIIAM437PJSWM5LAMV6GI7TFOMNREAAEBAEACAI/index.m3u8",
+          "channel_name": "HDD C \u65e5\u672c\u8a9e",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKFCQLZDVKECGIMIB2MBEFU3TMOJRFM3DQZLTDMJAEFA2DIIAM437PJSWM5LAMV6GI7TFOMNREAAEBAEAEAY/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         },
@@ -1565,14 +1634,14 @@
           "duration": null
         },
         {
-          "channel_name": "HDD E DUTCH",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKCSSLVDVQUK6KQICKJTQAIQCCMBTEBZGC33ZAAJBSHQQAYIBU6LVMR2GO4LAMB3XEYLPPEBAECYDBAEA/index.m3u8",
+          "channel_name": "HDD D DUTCH",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKCSSLVDVQUK6KQICKJTQAIQCCMBTEBZGC33ZAAJBSHQQAYIBU6LVMR2GO4LAMB3XEYLPPEBAECYMAIBA/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         },
         {
-          "channel_name": "HDD D \u65e5\u672c\u8a9e",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKCSSLVDVQUK6KQICKJTQAIQCCMBTEBZGC33ZAAJBSHQQAYIBU6LVMR2GO4LAMB3XEYLPPEBAECYMAEBA/index.m3u8",
+          "channel_name": "HDD C \u65e5\u672c\u8a9e",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKCSSLVDVQUK6KQICKJTQAIQCCMBTEBZGC33ZAAJBSHQQAYIBU6LVMR2GO4LAMB3XEYLPPEBAECYMAICA/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         },
@@ -1598,6 +1667,20 @@
         }
       ]
     },
+    "Conmebol Copa Libertadores Femenino - Universidad De Chile Women Vs Deportivo Cali Women (10/10/25)": {
+      "event_title": "Conmebol Copa Libertadores Femenino - Universidad De Chile Women Vs Deportivo Cali Women (10/10/25)",
+      "event_time": "03:00AM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CANB4CAXAYNBYZIREQ2TQEL6LJLFKQSEKE3TUIRAEFSBGNJIG4SSYN26CIPBIZK6LFDDMJZDFQ3CKMLQEE3WWBRRLBPFMFDHL5OVKPLVEY3HEABQEAVCAPZMF5PBE4CVLRMRAZZ4HA2SW4TOP5YHI4TBN54QEEQZDYIAIAQJMBRGC5DSNZ7XA5TCON6WWCA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
     "Iwf World Championship - Putri 86 Kg - Grup A (10/09/25)": {
       "event_title": "Iwf World Championship - Putri 86 Kg - Grup A (10/09/25)",
       "event_time": "11:00PM",
@@ -1606,7 +1689,7 @@
       "channels": [
         {
           "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/DIBBMZIFFMTTYILSBAWTQXCCLJNV4Q2YLERXK7LFAIYSCIRMOJZXG6L2KUJRSEDXIJCSG5IRMV4G45LBMV4GCZLLAEBAEFA2DIIAIYLMNB3GA7LVPJXXE7LXNMBAWAI/index.m3u8",
+          "url": "https://world-proxifier.xyz/rbtv/p/DIBBMZIFFMTTYILSBAWTQXCCLJNV4Q2YLERXK7LFAIYSCIRMOJZXG6L2KUJRSEDXIJCSG5IRMV4G45LBMV4GCZLLAEBAEFA2DIIAIYLMNB3GA7LVPJXXE7LXNMCACAY/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }
@@ -1668,6 +1751,26 @@
         }
       ]
     },
+    "Pga Korn Ferry Tour - Korn Ferry Tour Championship, First Round (10/10/25) [STREAM 38[HD]]": {
+      "event_title": "Pga Korn Ferry Tour - Korn Ferry Tour Championship, First Round (10/10/25) [STREAM 38[HD]]",
+      "event_time": "03:00AM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/AMJBCZIZFMTT4ZIUFY3SWSASM5NUKQQQDVZR4PZXHRSBGNJXEAZGKDK6I5ARI42YKFOSGPB7FMQSYPBANFZA2LBLIJDBGZS7IVPFI437PJSWW5DVPJXXE6LFOMNRECQAAQDAKEDZP5YH2YLXMVSQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ots_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/AMJBCZIZFMTT4ZIUFY3SWSASM5NUKQQQDVZR4PZXHRSBGNJXEAZGKDK6I5ARI42YKFOSGPB7FMQSYPBANFZA2LBLIJDBGZS7IVPFI437PJSWW5DVPJXXE6LFOMNRECQAAQDAKEDZP5YH2YLXMVSQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ots_active.webp",
+          "duration": null
+        }
+      ]
+    },
     "Premier Padel 2025  - Milan P1 Day 4 Match 5 (10/10/25)": {
       "event_title": "Premier Padel 2025  - Milan P1 Day 4 Match 5 (10/10/25)",
       "event_time": "12:00AM",
@@ -1691,6 +1794,20 @@
         {
           "channel_name": "SKA",
           "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGY3QN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6WWZD7PJSWI6LXNUAQK/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Premier Padel 2025  - Milan P1 Day 4 Match 7 (10/10/25)": {
+      "event_title": "Premier Padel 2025  - Milan P1 Day 4 Match 7 (10/10/25)",
+      "event_time": "03:00AM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SKA",
+          "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGYTQN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6GEZD7PJSWI6LXNUAQU/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
