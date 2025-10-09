@@ -1,21 +1,17 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-09T03:22:42.559469
+Extraction Time: 2025-10-09T03:46:51.716834
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 19
-- Total Channels: 23
+- Unique Events: 17
+- Total Channels: 21
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
-- Usa: Ncaa - Middle Tennessee St Vs Missouri State (10/09/25)
-  Time: 07:30AM, Channels: 1
-- Usa: Ncaa - Utep Vs Liberty Flames (10/09/25)
-  Time: 08:00AM, Channels: 1
 - Pga Tour 2025 - Baycurrent Classic 2025 Tournament Held At Y...
   Time: 11:00AM, Channels: 1
 - Major League Baseball - Los Angeles Dodgers Vs Philadelphia ...
@@ -44,9 +40,9 @@ EVENT BREAKDOWN:
   Time: 10:00AM, Channels: 1
 - Fia European Truck Racing Championship - Supercars (10/09/25...
   Time: 04:30AM, Channels: 1
-- Wta Wuhan, China Women Singles - Ekaterina Alexandrova Vs Je...
+- Pga Tour - Es2, Japan Championship | Day 1 (10/09/25) [STREA...
   Time: 11:00AM, Channels: 2
 - Wta Wuhan, China Women Singles - Ekaterina Alexandrova Vs Je...
   Time: 11:00AM, Channels: 1
-- Wta Wuhan, China Women Singles - Iva Jovic Vs Katerina Sinia...
+- Wta Wuhan, China Women Singles - Ekaterina Alexandrova Vs Je...
   Time: 11:00AM, Channels: 1
