@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-09T07:36:57.224638",
+  "timestamp": "2025-10-09T07:49:37.540514",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -10,16 +10,6 @@
       "channel_name": "SKA",
       "event_title": "Pga Tour 2025 - Baycurrent Classic 2025 Tournament Held At Yokohama Country Club, Yokohama, Japan. (10/09/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/EMZDCZJGFMQCEZLAPN3WYEI7CNLFCSKTIUQSONJLEZSDMPBEEE4CYOQRAABQMBIQIRPSMJZ6EQ7SCOZEMU5C4KJ5CFJUOFCJL5NV6OZUHUSHEJZ2EUVSMOJ4PFJF4RSWDQIESXZYHI4CIPZFPFYC6MZ3EQ3R6EQZDYIACAQQPF7XA53CORSHA33YNN3WSAIDAMBQMEA2DJZWGYTXMF2WO/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-      "group_title": "BADMINTON"
-    },
-    {
-      "event_time": "03:00PM",
-      "event_date": "10/09/25",
-      "channel_name": "VDO",
-      "event_title": "Arctic Open, Mixed Doubles - Jiang Zhenbang/Wei Yaxin Vs Ye H W / Chan N G (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXS7C3JNIVIEDUL4TDOPBAEFSHQ4APHMVCWPQRNBNVCXSSKFPDI6QHEA5WIDBRHU5SKZJPIIJGUUIQPAIGO432OADDUJJ3OAFXEDDFOMNREAQGCANBUEDBMVQHI4TOP5YHOYT3ORUQKAITDYNBABQCMFQWE5I/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
       "group_title": "BADMINTON"
@@ -170,20 +160,6 @@
         {
           "channel_name": "SKA",
           "url": "https://world-proxifier.xyz/rbtv/p/EMZDCZJGFMQCEZLAPN3WYEI7CNLFCSKTIUQSONJLEZSDMPBEEE4CYOQRAABQMBIQIRPSMJZ6EQ7SCOZEMU5C4KJ5CFJUOFCJL5NV6OZUHUSHEJZ2EUVSMOJ4PFJF4RSWDQIESXZYHI4CIPZFPFYC6MZ3EQ3R6EQZDYIACAQQPF7XA53CORSHA33YNN3WSAIDAMBQMEA2DJZWGYTXMF2WO/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Arctic Open, Mixed Doubles - Jiang Zhenbang/Wei Yaxin Vs Ye H W / Chan N G (10/09/25)": {
-      "event_title": "Arctic Open, Mixed Doubles - Jiang Zhenbang/Wei Yaxin Vs Ye H W / Chan N G (10/09/25)",
-      "event_time": "03:00PM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXS7C3JNIVIEDUL4TDOPBAEFSHQ4APHMVCWPQRNBNVCXSSKFPDI6QHEA5WIDBRHU5SKZJPIIJGUUIQPAIGO432OADDUJJ3OAFXEDDFOMNREAQGCANBUEDBMVQHI4TOP5YHOYT3ORUQKAITDYNBABQCMFQWE5I/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
           "duration": null
         }
