@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-09T05:48:50.104526",
+  "timestamp": "2025-10-09T06:24:03.507082",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [
@@ -9,13 +9,6 @@
       "group_title": "OTHERS",
       "title": "Pga Tour - Es2, Japan Championship | Day 1 [STREAM 38[HD]]",
       "url": "https://world-proxifier.xyz/rbtv/p/AMJBCZIGFMQCEZL7NMAAUAY6CN7FCQCRLZZRMOBEH42DYPZLEERSYKIRJYJXAUKJCAAXG732MVVXI5L2N5ZHSZLTDMJAUAAEAYBRA6L7OB6WC53FMM/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS",
-      "title": "Wta Wuhan, China Women Singles - Iva Jovic Vs Katerina Siniakova [HDD B]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKECHKMJX4X2GLFJXGIZDMUMSKIJVG45SKJDZMJNV2XKRLNPUMMTVPJXXE53VPJXXE7LFOMNREAIEAABAACLEOV5G64TWMJRHCYL6/index.m3u8"
     }
   ],
   "events": [],
