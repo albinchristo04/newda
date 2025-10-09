@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-09T19:26:13.319333",
+  "timestamp": "2025-10-09T19:36:49.956133",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -157,6 +157,16 @@
       "channel_name": "SD",
       "event_title": "Euroleague - Real Madrid Teka Vs Asvel Villeurbanne Lyon (10/10/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNNUHSY2XKJMBA7KRKQQTYNDFAYQT4MLFEQ4GKGCCIRLFQEDGLFOD6MBFG4YCKOZ6EBZAOPBWL4JBSHQQAIIBU6LVMNSXQ3TVMJ2WE63TNABBEGI6CABAOATGMZSQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL"
+    },
+    {
+      "event_time": "03:30AM",
+      "event_date": "10/10/25",
+      "channel_name": "SD",
+      "event_title": "Europe Women\u2019S Challenge Basketball - Lisboa E Benfica Women Vs Universitario De Ferrol Women (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKRCEF2QOKR7FYV3XMNLIAKHGWCRLQ7TAPRCG5SBOMJWHEXDCO2QLZPRIHIQPRMSANZ7ERZCC5ISEA6C2LB2KAJGIW25KVPBAJJGOAIDYLJDGU3SCIRRHBBVWXAUORKRA5RWE4RCUPTEAI7SQNZFMVZRWEQBCQNBUEADON7XUZLAORSWC5LBPFSXGGYSAEBQEBIDBA/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
       "group_title": "BASKETBALL"
@@ -625,16 +635,6 @@
     {
       "event_time": "02:45AM",
       "event_date": "10/10/25",
-      "channel_name": "HDD D DUTCH",
-      "event_title": "World Cup Qualification (Uefa) - Malta Vs Netherlands (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKFCQLZDVKECGIMIB2MBEFU3TMOJRFM3DQZLTDMJAEFA2DIIAM437PJSWM5LAMV6GI7TFOMNREAAEBAEAEAI/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "02:45AM",
-      "event_date": "10/10/25",
       "channel_name": "HDD C \u65e5\u672c\u8a9e",
       "event_title": "World Cup Qualification (Uefa) - Malta Vs Netherlands (10/10/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKFCQLZDVKECGIMIB2MBEFU3TMOJRFM3DQZLTDMJAEFA2DIIAM437PJSWM5LAMV6GI7TFOMNREAAEBAEAEAY/index.m3u8",
@@ -743,6 +743,16 @@
     {
       "event_time": "03:30AM",
       "event_date": "10/10/25",
+      "channel_name": "MOVISTAR2",
+      "event_title": "U20 World Cup - Usa U20 Vs Italy U20 (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CNQWG4IQMVQWK4BTEFSBYJBEHYZGKDADAIJR4GQQAEIHS73QO5RHIZDQN54GW4LLBACQCBAACANBU43DMJ3WC7LB/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "03:30AM",
+      "event_date": "10/10/25",
       "channel_name": "HDD A ESPA\u00d1OL",
       "event_title": "U20 World Cup - Usa U20 Vs Italy U20 (10/10/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CNQWG4IQMVQWK4BTEFSBYJBEHYZGKDADAIJR4GQQAEIHS73QONZG473QOFQHE4TLAEBBGHQ2CABQA23NMNYA/index.m3u8",
@@ -799,16 +809,6 @@
       "group_title": "MOTORSPORT"
     },
     {
-      "event_time": "07:30PM",
-      "event_date": "10/09/25",
-      "channel_name": "MOVISTAR",
-      "event_title": "Snooker Grand Prix De Xi'An De Snooker - Tercera Ronda Vs Sesi\u00f3n 2 (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AA5T6KRZEETXAARAFIVT2ELCIFOUQECUKVZQ2OLCGMVHKNBAOI4CWNS6LFLEMEA5CBSDMJZTEAQCK5JCFI6C6JDZI5ARGZ2VINM7HYB3OB3XE3T7OBZHEYLPPEBQEAYFCANBUEDBMVQHMYD5MJYG66DLONVQGBQCAA/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT"
-    },
-    {
       "event_time": "03:00AM",
       "event_date": "10/10/25",
       "event_title": "Pga Korn Ferry Tour - Korn Ferry Tour Championship, First Round (10/10/25) [STREAM 38[HD]]",
@@ -852,6 +852,16 @@
       "channel_name": "SKA",
       "event_title": "Premier Padel 2025  - Milan P1 Day 4 Match 7 (10/10/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGYTQN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6GEZD7PJSWI6LXNUAQU/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "03:25AM",
+      "event_date": "10/10/25",
+      "channel_name": "HDD A",
+      "event_title": "Challenger Atp Challenger Roanne, France, Men Singles - Henry Bernet Vs Nicolai Budkov Kjaer (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CA6TCKJ6EE5TOIBANMCA2YISOBOFCXC4KU6TENJXOILDUMJLHQXGS6LXIBJFUU2VDQIB4MB6MUAS2OZXFE3TQZLUCF5FMWSCJEIHENRHHYQCMZBDENSRYIRGGZOVGWQUOJCVIWZ4ENYA4OBFGARGK6DBMVVBCGAZCQDBAGQ2ONSGS7DLO5TGAZLYMFSWWBQAAYDQS/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
@@ -1061,6 +1071,20 @@
         {
           "channel_name": "SD",
           "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNNUHSY2XKJMBA7KRKQQTYNDFAYQT4MLFEQ4GKGCCIRLFQEDGLFOD6MBFG4YCKOZ6EBZAOPBWL4JBSHQQAIIBU6LVMNSXQ3TVMJ2WE63TNABBEGI6CABAOATGMZSQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Europe Women\u2019S Challenge Basketball - Lisboa E Benfica Women Vs Universitario De Ferrol Women (10/10/25)": {
+      "event_title": "Europe Women\u2019S Challenge Basketball - Lisboa E Benfica Women Vs Universitario De Ferrol Women (10/10/25)",
+      "event_time": "03:30AM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKRCEF2QOKR7FYV3XMNLIAKHGWCRLQ7TAPRCG5SBOMJWHEXDCO2QLZPRIHIQPRMSANZ7ERZCC5ISEA6C2LB2KAJGIW25KVPBAJJGOAIDYLJDGU3SCIRRHBBVWXAUORKRA5RWE4RCUPTEAI7SQNZFMVZRWEQBCQNBUEADON7XUZLAORSWC5LBPFSXGGYSAEBQEBIDBA/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
           "duration": null
         }
@@ -1539,12 +1563,6 @@
           "duration": null
         },
         {
-          "channel_name": "HDD D DUTCH",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKFCQLZDVKECGIMIB2MBEFU3TMOJRFM3DQZLTDMJAEFA2DIIAM437PJSWM5LAMV6GI7TFOMNREAAEBAEAEAI/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        },
-        {
           "channel_name": "HDD C \u65e5\u672c\u8a9e",
           "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKFCQLZDVKECGIMIB2MBEFU3TMOJRFM3DQZLTDMJAEFA2DIIAM437PJSWM5LAMV6GI7TFOMNREAAEBAEAEAY/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
@@ -1659,6 +1677,12 @@
       "category": null,
       "channels": [
         {
+          "channel_name": "MOVISTAR2",
+          "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CNQWG4IQMVQWK4BTEFSBYJBEHYZGKDADAIJR4GQQAEIHS73QO5RHIZDQN54GW4LLBACQCBAACANBU43DMJ3WC7LB/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
           "channel_name": "HDD A ESPA\u00d1OL",
           "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CNQWG4IQMVQWK4BTEFSBYJBEHYZGKDADAIJR4GQQAEIHS73QONZG473QOFQHE4TLAEBBGHQ2CABQA23NMNYA/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
@@ -1736,20 +1760,6 @@
         }
       ]
     },
-    "Snooker Grand Prix De Xi'An De Snooker - Tercera Ronda Vs Sesi\u00f3n 2 (10/09/25)": {
-      "event_title": "Snooker Grand Prix De Xi'An De Snooker - Tercera Ronda Vs Sesi\u00f3n 2 (10/09/25)",
-      "event_time": "07:30PM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "MOVISTAR",
-          "url": "https://world-proxifier.xyz/rbtv/p/AA5T6KRZEETXAARAFIVT2ELCIFOUQECUKVZQ2OLCGMVHKNBAOI4CWNS6LFLEMEA5CBSDMJZTEAQCK5JCFI6C6JDZI5ARGZ2VINM7HYB3OB3XE3T7OBZHEYLPPEBQEAYFCANBUEDBMVQHMYD5MJYG66DLONVQGBQCAA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "Pga Korn Ferry Tour - Korn Ferry Tour Championship, First Round (10/10/25) [STREAM 38[HD]]": {
       "event_title": "Pga Korn Ferry Tour - Korn Ferry Tour Championship, First Round (10/10/25) [STREAM 38[HD]]",
       "event_time": "03:00AM",
@@ -1807,6 +1817,20 @@
         {
           "channel_name": "SKA",
           "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGYTQN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6GEZD7PJSWI6LXNUAQU/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Challenger Atp Challenger Roanne, France, Men Singles - Henry Bernet Vs Nicolai Budkov Kjaer (10/10/25)": {
+      "event_title": "Challenger Atp Challenger Roanne, France, Men Singles - Henry Bernet Vs Nicolai Budkov Kjaer (10/10/25)",
+      "event_time": "03:25AM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/CA6TCKJ6EE5TOIBANMCA2YISOBOFCXC4KU6TENJXOILDUMJLHQXGS6LXIBJFUU2VDQIB4MB6MUAS2OZXFE3TQZLUCF5FMWSCJEIHENRHHYQCMZBDENSRYIRGGZOVGWQUOJCVIWZ4ENYA4OBFGARGK6DBMVVBCGAZCQDBAGQ2ONSGS7DLO5TGAZLYMFSWWBQAAYDQS/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }

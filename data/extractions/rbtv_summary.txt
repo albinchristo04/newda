@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-09T19:26:13.319333
+Extraction Time: 2025-10-09T19:36:49.956133
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 53
-- Total Channels: 91
+- Unique Events: 54
+- Total Channels: 92
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -30,6 +30,8 @@ EVENT BREAKDOWN:
   Time: 02:30AM, Channels: 1
 - Euroleague - Real Madrid Teka Vs Asvel Villeurbanne Lyon (10...
   Time: 03:00AM, Channels: 3
+- Europe Women’S Challenge Basketball - Lisboa E Benfica Women...
+  Time: 03:30AM, Channels: 1
 - T20 World Cup, Asia-Eap Qualifier, Regional Final - Papua Ne...
   Time: 11:00PM, Channels: 1
 - One Championship - Extreme Fighting Championship 128 (10/10/...
@@ -77,7 +79,7 @@ EVENT BREAKDOWN:
 - World Cup Qualification (Uefa) - Faroe Islands Vs Montenegro...
   Time: 02:45AM, Channels: 1
 - World Cup Qualification (Uefa) - Malta Vs Netherlands (10/10...
-  Time: 02:45AM, Channels: 5
+  Time: 02:45AM, Channels: 4
 - World Cup Qualification (Uefa) - Malta Vs Netherlands (10/10...
   Time: 02:45AM, Channels: 1
 - World Cup Qualification (Uefa) - Scotland Vs Greece (10/10/2...
@@ -89,7 +91,7 @@ EVENT BREAKDOWN:
 - Conmebol Copa Libertadores Femenino - Universidad De Chile W...
   Time: 03:00AM, Channels: 1
 - U20 World Cup - Usa U20 Vs Italy U20 (10/10/25)
-  Time: 03:30AM, Channels: 1
+  Time: 03:30AM, Channels: 2
 - U20 World Cup - Usa U20 Vs Italy U20 (10/10/25) [STREAM 46[H...
   Time: 03:30AM, Channels: 1
 - Iwf World Championship - Putri 86 Kg - Grup A (10/09/25)
@@ -100,8 +102,6 @@ EVENT BREAKDOWN:
   Time: 01:00AM, Channels: 1
 - Motogp - British Speedway (10/10/25)
   Time: 02:30AM, Channels: 1
-- Snooker Grand Prix De Xi'An De Snooker - Tercera Ronda Vs Se...
-  Time: 07:30PM, Channels: 1
 - Pga Korn Ferry Tour - Korn Ferry Tour Championship, First Ro...
   Time: 03:00AM, Channels: 2
 - Premier Padel 2025  - Milan P1 Day 4 Match 5 (10/10/25)
@@ -110,6 +110,8 @@ EVENT BREAKDOWN:
   Time: 01:30AM, Channels: 1
 - Premier Padel 2025  - Milan P1 Day 4 Match 7 (10/10/25)
   Time: 03:00AM, Channels: 1
+- Challenger Atp Challenger Roanne, France, Men Singles - Henr...
+  Time: 03:25AM, Channels: 1
 - Iwf World Championship - Putra 94 Kg - Grup A (10/10/25)
   Time: 01:30AM, Channels: 1
 - Beach Pro Tour - Elite16 | Newport Beach Vs Group Stage 2 | ...
