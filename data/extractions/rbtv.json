@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-09T22:13:52.867058",
+  "timestamp": "2025-10-09T22:31:38.033814",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -24,6 +24,16 @@
       "group_title": "BASEBALL"
     },
     {
+      "event_time": "06:30AM",
+      "event_date": "10/10/25",
+      "channel_name": "SD",
+      "event_title": "Chile Liga Nacional Basketball - Puente Alto Vs Chile Boston College (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CA6TSKJXMQMTSIRTNMFTQUS3LRNFCXAQOIZCMOZAEYTDIPBJOJTGKCKEK5OUAVIQOFOCOOTQGMQWIFRYFQ7C4ZI3LZAUOW26CBZV6PZZGURDOZD7PJSWA23POMIQCEY6DIIAEADDMVTHOY3EP55GKYD4O5WAKCQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL"
+    },
+    {
       "event_time": "01:00AM",
       "event_date": "10/10/25",
       "channel_name": "SKA",
@@ -39,6 +49,16 @@
       "channel_name": "SD",
       "event_title": "Argentine Reserve League - Atletico Tucuman Reserve Vs San Lorenzo Reserves (10/10/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/CITTOIB4GA6D4IDSDEQCUVCAIVIRA7CVKE2CANLFP5SBIJBJG47SYOS6CJTUCU2FLVIT25ICEAQSCJZGEBZD2NTZMJJV2FD4L5BFKPJPH5SQAIJGGU3SILRWPENRQEYFCANBUEDAOV5G64TQM5UXGZL4ON4RWGATA4AAQCAEMM/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "06:00AM",
+      "event_date": "10/10/25",
+      "channel_name": "SD",
+      "event_title": "Brazilian Serie B - Ferroviaria Sp Vs Chapecoense Sc (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CETTCPZ3FA6DCK3SDAQCWWCXCN3BAHIQOY3COIRKEQWTIIRMGNVRMCIRIRABI42YKFADMNR7EA6DOMDQCYIWW33TCEBRGHQ2CABRA6L7OBYWG4LEMZZWE23POMIQCAYMBABQS/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
@@ -70,16 +90,6 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ots_active.webp",
       "group_title": "OTHERS"
-    },
-    {
-      "event_time": "12:00AM",
-      "event_date": "10/10/25",
-      "channel_name": "SKA",
-      "event_title": "Premier Padel 2025  - Milan P1 Day 4 Match 5 (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGYDQN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6WUZD7PJSWI6LXNQBAC/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
     },
     {
       "event_time": "01:30AM",
@@ -131,6 +141,20 @@
         }
       ]
     },
+    "Chile Liga Nacional Basketball - Puente Alto Vs Chile Boston College (10/10/25)": {
+      "event_title": "Chile Liga Nacional Basketball - Puente Alto Vs Chile Boston College (10/10/25)",
+      "event_time": "06:30AM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CA6TSKJXMQMTSIRTNMFTQUS3LRNFCXAQOIZCMOZAEYTDIPBJOJTGKCKEK5OUAVIQOFOCOOTQGMQWIFRYFQ7C4ZI3LZAUOW26CBZV6PZZGURDOZD7PJSWA23POMIQCEY6DIIAEADDMVTHOY3EP55GKYD4O5WAKCQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+          "duration": null
+        }
+      ]
+    },
     "One Championship - Extreme Fighting Championship 128 (10/10/25)": {
       "event_title": "One Championship - Extreme Fighting Championship 128 (10/10/25)",
       "event_time": "01:00AM",
@@ -154,6 +178,20 @@
         {
           "channel_name": "SD",
           "url": "https://world-proxifier.xyz/rbtv/p/CITTOIB4GA6D4IDSDEQCUVCAIVIRA7CVKE2CANLFP5SBIJBJG47SYOS6CJTUCU2FLVIT25ICEAQSCJZGEBZD2NTZMJJV2FD4L5BFKPJPH5SQAIJGGU3SILRWPENRQEYFCANBUEDAOV5G64TQM5UXGZL4ON4RWGATA4AAQCAEMM/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Brazilian Serie B - Ferroviaria Sp Vs Chapecoense Sc (10/10/25)": {
+      "event_title": "Brazilian Serie B - Ferroviaria Sp Vs Chapecoense Sc (10/10/25)",
+      "event_time": "06:00AM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CETTCPZ3FA6DCK3SDAQCWWCXCN3BAHIQOY3COIRKEQWTIIRMGNVRMCIRIRABI42YKFADMNR7EA6DOMDQCYIWW33TCEBRGHQ2CABRA6L7OBYWG4LEMZZWE23POMIQCAYMBABQS/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }
@@ -189,20 +227,6 @@
           "channel_name": null,
           "url": "https://world-proxifier.xyz/rbtv/p/AMJBCZIZFMTT4ZIUFY3SWSASM5NUKQQQDVZR4PZXHRSBGNJXEAZGKDK6I5ARI42YKFOSGPB7FMQSYPBANFZA2LBLIJDBGZS7IVPFI437PJSWW5DVPJXXE6LFOMNRECQAAQDAKEDZP5YH2YLXMVSQ/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ots_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Premier Padel 2025  - Milan P1 Day 4 Match 5 (10/10/25)": {
-      "event_title": "Premier Padel 2025  - Milan P1 Day 4 Match 5 (10/10/25)",
-      "event_time": "12:00AM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SKA",
-          "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGYDQN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6WUZD7PJSWI6LXNQBAC/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
       ]
