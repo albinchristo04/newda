@@ -1,321 +1,129 @@
 {
-  "timestamp": "2025-10-09T09:49:41.774036",
+  "timestamp": "2025-10-09T10:17:15.513946",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
-  "segments": [],
-  "events": [
+  "segments": [
     {
-      "event_time": "04:50PM",
-      "event_date": "10/09/25",
-      "channel_name": "VDO",
-      "event_title": "Arctic Open, Mixed Doubles - Yang Po-Hsuan/Hu Ling-Fang Vs Gao J X / Wu M Y (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXS7C3JNIVIEDUL4TDOPBAEFSHQ4A4GMSSE6LBLUPFYQ2FKFPHYHJFMUPC2OZXNA2CUKZ6CFCEAFDXKFPRAGLVBBSX2ZACEVSR62Y4PENRQEYFAIIBUGTTM5QHKY3EP55GKYD3OVUACCQBCQNBUEAGMFTWI5TC/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-      "group_title": "BADMINTON"
+      "group_title": "BADMINTON",
+      "title": "Arctic Open, Singles - Kodai Naraoka Vs Lee Chia-Hao [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXSYS3LVJVYVKDCB7HKGZKGYSTY4ALGM4SINS2KMJUEQYQPRKTM5ITFU5SK6BYEQ6WW33TCEBQCFA2DIIAEY3FMFSXQ3TVMJ2WE6LUNUEREGI6CADAEATHMZQQ/index.m3u8"
     },
     {
-      "event_time": "05:05PM",
-      "event_date": "10/09/25",
-      "channel_name": "VDO",
-      "event_title": "Arctic Open, Mixed Doubles - Dhruv Kapila/Tanisha Crasto Vs Oleksii Titov/Yevheniia Kantemyr (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXS7C3JNIVIEDUL4TDOPBAEFSHQ4ABHI4TALYRPFJEIWK4KEPQONB6FQQSYNDQAYQCUNRNLYJEKRYQP5OFKOBGHEWHEEB4EQVCIZA4HRDVUVS2LFMVCEAYGQ7DCNZJFQRGK6DBMVUAGEQZDYIAEAAAMJ2XU33SOZSWA5DCP5YHSGYYCMBAEAQEAJTQ/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-      "group_title": "BADMINTON"
+      "group_title": "BADMINTON",
+      "title": "Arctic Open, Singles - Kunlavut Vitidsarn Vs Yushi Tanaka [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXSYS3LVJVYVKDCB7HKGZQHQUDIJRQEZVRGMCFLNLUOUKCLYICKJTQDQTTOPJZMUDCUKZYLJJRGHQ2CAAQE437PJSWA5DFMFSXQYLFNMAQEAIFAEABAGTZOVTHOYDQM5SQ/index.m3u8"
     },
     {
-      "event_time": "06:00PM",
-      "event_date": "10/09/25",
-      "channel_name": "VDO",
-      "event_title": "Arctic Open, Singles - Kodai Naraoka Vs Lee Chia-Hao (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXSYS3LVJVYVKDCB7HKGZKGYSTY4ALGM4SINS2KMJUEQYQPRKTM5ITFU5SK6BYEQ6WW33TCEBQCFA2DIIAEY3FMFSXQ3TVMJ2WE6LUNUEREGI6CADAEATHMZQQ/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-      "group_title": "BADMINTON"
+      "group_title": "BADMINTON",
+      "title": "Arctic Open, Women, Doubles - Lambert M / Pognante C Vs Hsu Yin-Hui/Lin Jhih Yun [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXSZS5LZIV4HAQOQ6CAMRJG43XK7LFDYVCQO2UIBDRI7IQD4IAGORXFMZSUIJVMUIWWMZKCF5EAQIQNFMV47Q5EUWH2CB4HZSRQIZMGEIWWRS2CANBUEDCM5YG66DEM5QHKY3LN5ZRCAADAQBACAIDON7XUZLEOZTWI5TA/index.m3u8"
     },
     {
-      "event_time": "04:30PM",
-      "event_date": "10/09/25",
-      "channel_name": "HDD A",
-      "event_title": "National Basketball League - Adelaide 36Ers Vs Tasmania Jackjumpers (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQPQ3DINZQG5SHQ4AEGYXCSOCYKZLBIAYGKVBCA5JGGZZBANBDFAZSKLBYCF4FEV23PJCV2IZQEI3HE3T7OB3XEYLPPEDREGI6CAAQSCLKNRUXC4TOP5YHOZLZOFXQG/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
+      "group_title": "BASKETBALL",
+      "title": "China Women'S National Championship Basketball - Henan Yichuan Women Vs Fujian Women [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CA6TSKZTMQBD6KBXEVRCUEL4KJAFSX26KE7XKEZNGMUSKOJKHQ4C2MCBCJYVKQ23KVCDCNB4FFZGS5IYEAOCUK3ZNBNXAXCFKFPBABB2HUQDYZBDENSRIPRPGBIFYE3DL5OVKXTTP55GKYDEP55GKYLLN5ZRCAADAQBAACAEON7XUZLAONTWI43G/index.m3u8"
     },
     {
-      "event_time": "04:30PM",
-      "event_date": "10/09/25",
-      "channel_name": "SD",
-      "event_title": "National Basketball League - Adelaide 36Ers Vs Tasmania Jackjumpers (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQPQ3DINZQG5SHQ4AEGYXCSOCYKZLBIAYGKVBCA5JGGZZBANBDFAZSKLBYCF4FEV23PJCV2IZQEI3HE3T7OB3XEYLPPEBBEGI6CAAQSCLKNRUXC4TOP5YHOZLZOFXQA/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
+      "group_title": "BASKETBALL",
+      "title": "National Basketball League - Adelaide 36Ers Vs Tasmania Jackjumpers [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQPQ3DINZQG5SHQ4AEGYXCSOCYKZLBIAYGKVBCA5JGGZZBANBDFAZSKLBYCF4FEV23PJCV2IZQEI3HE3T7OB3XEYLPPEDREGI6CAAQSCLKNRUXC4TOP5YHOZLZOFXQG/index.m3u8"
     },
     {
-      "event_time": "05:00PM",
-      "event_date": "10/09/25",
-      "channel_name": "SD",
-      "event_title": "China Women'S National Championship Basketball - Henan Yichuan Women Vs Fujian Women (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CA6TSKZTMQBD6KBXEVRCUEL4KJAFSX26KE7XKEZNGMUSKOJKHQ4C2MCBCJYVKQ23KVCDCNB4FFZGS5IYEAOCUK3ZNBNXAXCFKFPBABB2HUQDYZBDENSRIPRPGBIFYE3DL5OVKXTTP55GKYDEP55GKYLLN5ZRCAADAQBAACAEON7XUZLAONTWI43G/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
+      "group_title": "BASKETBALL",
+      "title": "National Basketball League - Adelaide 36Ers Vs Tasmania Jackjumpers [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQPQ3DINZQG5SHQ4AEGYXCSOCYKZLBIAYGKVBCA5JGGZZBANBDFAZSKLBYCF4FEV23PJCV2IZQEI3HE3T7OB3XEYLPPEBBEGI6CAAQSCLKNRUXC4TOP5YHOZLZOFXQA/index.m3u8"
     },
     {
-      "event_time": "05:00PM",
-      "event_date": "10/09/25",
-      "channel_name": "SD",
-      "event_title": "Afc Asian Cup - Pakistan Vs Afghanistan (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIJRGZITG46DCK3SBAYCSEI7CNSFCW2ZIMTTIPTFEQ3XKEJDGURSIN2YIFDVKXQQDINHGZDQN54GIZTQN54GW4LJBAFQWAYBCANBU43GMB6WK5LN/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "group_title": "FOOTBALL",
+      "title": "Afc Asian Cup - Pakistan Vs Afghanistan [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIJRGZITG46DCK3SBAYCSEI7CNSFCW2ZIMTTIPTFEQ3XKEJDGURSIN2YIFDVKXQQDINHGZDQN54GIZTQN54GW4LJBAFQWAYBCANBU43GMB6WK5LN/index.m3u8"
     },
     {
-      "event_time": "03:00PM",
-      "event_date": "10/09/25",
-      "channel_name": "SKA",
-      "event_title": "Atp Shanghai, China Men Singles - Holger Rune Vs Valentin Vacherot (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LZLVPVGVKCCBRCMOZVMUSDO5IGEQ7C4KZNLBOBGYSRKNMFKIJ2ERSXQ3TVMNSXQYLFNMAQEAQUDINBAALKNRUXO23XOV5G64T5O5VQECYG/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Afc Asian Cup - Sri Lanka Vs Turkmenistan [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIJRGZITG46DCK3SBAYCSEI7CNTUEWIQPQZDWOZEOIZCM4ARE44S4NCULRNEORCRLYIHS73QORZG473QOZZGC33ZAUBAUDIGAAEBA6L7OB3GE7DCMJ2Q/index.m3u8"
     },
     {
-      "event_time": "03:00PM",
-      "event_date": "10/09/25",
-      "channel_name": "MOVISTAR2",
-      "event_title": "Atp Shanghai, China Men Singles - Holger Rune Vs Valentin Vacherot (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LZLVPVGVKCCBRCMOZVMUSDO5IGEQ7C4KZNLBOBGYSRKNMFKIJ2ERSXQ3TVMNSXQYLFNMAQEAQUDINBAALKNRUXO23XOV5G64T5O5VQKBYE/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL",
+      "title": "Ukrainian First League - Fenix Mariupol Vs Metalist Kharkiv [SD]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AY7CEJB3FI6DCK3SBUWCWQSGCN4FKUKXIU3HK7LFCQQTWOJ5OIDCIK2YI5BVWXAQIZBXGGBVGEZSQPBDGFZAALJYINMVUQQQDINBAYTVPJXXE53VPJXXE73XNQAAGCQACANBUEDAMVUHEY35/index.m3u8"
     },
     {
-      "event_time": "03:00PM",
-      "event_date": "10/09/25",
-      "channel_name": "HDD A",
-      "event_title": "Atp Shanghai, China Men Singles - Holger Rune Vs Valentin Vacherot (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LZLVPVGVKCCBRCMOZVMUSDO5IGEQ7C4KZNLBOBGYSRKNMFKIJ2ERSXQ3TVMNSXQYLFN4IRQGIUAEEQSCLBNRRWK6DOOVRHEYD7OFXA/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Shanghai, China Men Singles - Holger Rune Vs Valentin Vacherot [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LZLVPVGVKCCBRCMOZVMUSDO5IGEQ7C4KZNLBOBGYSRKNMFKIJ2ERSXQ3TVMNSXQYLFNMAQEAQUDINBAALKNRUXO23XOV5G64T5O5VQECYG/index.m3u8"
     },
     {
-      "event_time": "03:00PM",
-      "event_date": "10/09/25",
-      "event_title": "Atp Shanghai, China Men Singles - Holger Rune Vs Valentin Vacherot (10/09/25) [STREAM 3[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LZLVPVGVKCCBRCMOZVMUSDO5IGEQ7C4KZNLBOBGYSRKNMFKIJ2ERSXQ3TVMNSXQYLFNMIRQGIUAEEQSCLBNRRWK6DOOVRHEYD7OFQA/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Shanghai, China Men Singles - Holger Rune Vs Valentin Vacherot [MOVISTAR2]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LZLVPVGVKCCBRCMOZVMUSDO5IGEQ7C4KZNLBOBGYSRKNMFKIJ2ERSXQ3TVMNSXQYLFNMAQEAQUDINBAALKNRUXO23XOV5G64T5O5VQKBYE/index.m3u8"
     },
     {
-      "event_time": "03:00PM",
-      "event_date": "10/09/25",
-      "event_title": "Atp Shanghai, China Men Singles - Holger Rune Vs Valentin Vacherot (10/09/25) [STREAM 3_FHD[FULL HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LZLVPVGVKCCBRCMOZVMUSDO5IGEQ7C4KZNLBOBGYSRKNMFKIJ2ERSXQ3TVMNSXQYLFNMIRQGIUAEEQSCLBNRRWK6DOOVRHEYD7OBVA/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Shanghai, China Men Singles - Holger Rune Vs Valentin Vacherot [HDD A]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LZLVPVGVKCCBRCMOZVMUSDO5IGEQ7C4KZNLBOBGYSRKNMFKIJ2ERSXQ3TVMNSXQYLFN4IRQGIUAEEQSCLBNRRWK6DOOVRHEYD7OFXA/index.m3u8"
     },
     {
-      "event_time": "03:30PM",
-      "event_date": "10/09/25",
-      "channel_name": "SKA",
-      "event_title": "Premier Padel 2025  - Milan P1 Day 4 Match 1 (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGZDQN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6WMZD7PJSWI6LXNUAQA/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Shanghai, China Men Singles - Holger Rune Vs Valentin Vacherot [STREAM 3[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LZLVPVGVKCCBRCMOZVMUSDO5IGEQ7C4KZNLBOBGYSRKNMFKIJ2ERSXQ3TVMNSXQYLFNMIRQGIUAEEQSCLBNRRWK6DOOVRHEYD7OFQA/index.m3u8"
     },
     {
-      "event_time": "05:00PM",
-      "event_date": "10/09/25",
-      "channel_name": "SKA",
-      "event_title": "Premier Padel 2025  - Milan P1 Day 4 Match 2 (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGZ3QN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6WOZD7PJSWI6LXNUAQC/index.m3u8",
-      "duration": null,
+      "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "group_title": "TENNIS",
+      "title": "Atp Shanghai, China Men Singles - Holger Rune Vs Valentin Vacherot [STREAM 3_FHD[FULL HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LZLVPVGVKCCBRCMOZVMUSDO5IGEQ7C4KZNLBOBGYSRKNMFKIJ2ERSXQ3TVMNSXQYLFNMIRQGIUAEEQSCLBNRRWK6DOOVRHEYD7OBVA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Premier Padel 2025  - Milan P1 Day 4 Match 1 [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGZDQN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6WMZD7PJSWI6LXNUAQA/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS",
+      "title": "Premier Padel 2025  - Milan P1 Day 4 Match 2 [SKA]",
+      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGZ3QN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6WOZD7PJSWI6LXNUAQC/index.m3u8"
+    },
+    {
+      "type": "segment",
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
+      "group_title": "VOLLEYBALL",
+      "title": "Turkish Cup Women - Aras Kargo Women Vs Nilufer Bld. Women [VDO]",
+      "url": "https://world-proxifier.xyz/rbtv/p/A4QCELR3G46XABRHHNSQ4XS7KZNBAHIQOEQTII3FDESSONZKOIOCUNCULQJUEQYQPZMT6IBWEAQGIFZ4EF6GWERWLRLV2FA2DIIACYDVPJXXE5TFMB2HEYLPPEBQEAYEAMAAEEDZP5YHGYDWMFSHC/index.m3u8"
     }
   ],
-  "grouped_events": {
-    "Arctic Open, Mixed Doubles - Yang Po-Hsuan/Hu Ling-Fang Vs Gao J X / Wu M Y (10/09/25)": {
-      "event_title": "Arctic Open, Mixed Doubles - Yang Po-Hsuan/Hu Ling-Fang Vs Gao J X / Wu M Y (10/09/25)",
-      "event_time": "04:50PM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXS7C3JNIVIEDUL4TDOPBAEFSHQ4A4GMSSE6LBLUPFYQ2FKFPHYHJFMUPC2OZXNA2CUKZ6CFCEAFDXKFPRAGLVBBSX2ZACEVSR62Y4PENRQEYFAIIBUGTTM5QHKY3EP55GKYD3OVUACCQBCQNBUEAGMFTWI5TC/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Arctic Open, Mixed Doubles - Dhruv Kapila/Tanisha Crasto Vs Oleksii Titov/Yevheniia Kantemyr (10/09/25)": {
-      "event_title": "Arctic Open, Mixed Doubles - Dhruv Kapila/Tanisha Crasto Vs Oleksii Titov/Yevheniia Kantemyr (10/09/25)",
-      "event_time": "05:05PM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXS7C3JNIVIEDUL4TDOPBAEFSHQ4ABHI4TALYRPFJEIWK4KEPQONB6FQQSYNDQAYQCUNRNLYJEKRYQP5OFKOBGHEWHEEB4EQVCIZA4HRDVUVS2LFMVCEAYGQ7DCNZJFQRGK6DBMVUAGEQZDYIAEAAAMJ2XU33SOZSWA5DCP5YHSGYYCMBAEAQEAJTQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Arctic Open, Singles - Kodai Naraoka Vs Lee Chia-Hao (10/09/25)": {
-      "event_title": "Arctic Open, Singles - Kodai Naraoka Vs Lee Chia-Hao (10/09/25)",
-      "event_time": "06:00PM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXSYS3LVJVYVKDCB7HKGZKGYSTY4ALGM4SINS2KMJUEQYQPRKTM5ITFU5SK6BYEQ6WW33TCEBQCFA2DIIAEY3FMFSXQ3TVMJ2WE6LUNUEREGI6CADAEATHMZQQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "National Basketball League - Adelaide 36Ers Vs Tasmania Jackjumpers (10/09/25)": {
-      "event_title": "National Basketball League - Adelaide 36Ers Vs Tasmania Jackjumpers (10/09/25)",
-      "event_time": "04:30PM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQPQ3DINZQG5SHQ4AEGYXCSOCYKZLBIAYGKVBCA5JGGZZBANBDFAZSKLBYCF4FEV23PJCV2IZQEI3HE3T7OB3XEYLPPEDREGI6CAAQSCLKNRUXC4TOP5YHOZLZOFXQG/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQPQ3DINZQG5SHQ4AEGYXCSOCYKZLBIAYGKVBCA5JGGZZBANBDFAZSKLBYCF4FEV23PJCV2IZQEI3HE3T7OB3XEYLPPEBBEGI6CAAQSCLKNRUXC4TOP5YHOZLZOFXQA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "China Women'S National Championship Basketball - Henan Yichuan Women Vs Fujian Women (10/09/25)": {
-      "event_title": "China Women'S National Championship Basketball - Henan Yichuan Women Vs Fujian Women (10/09/25)",
-      "event_time": "05:00PM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CA6TSKZTMQBD6KBXEVRCUEL4KJAFSX26KE7XKEZNGMUSKOJKHQ4C2MCBCJYVKQ23KVCDCNB4FFZGS5IYEAOCUK3ZNBNXAXCFKFPBABB2HUQDYZBDENSRIPRPGBIFYE3DL5OVKXTTP55GKYDEP55GKYLLN5ZRCAADAQBAACAEON7XUZLAONTWI43G/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Afc Asian Cup - Pakistan Vs Afghanistan (10/09/25)": {
-      "event_title": "Afc Asian Cup - Pakistan Vs Afghanistan (10/09/25)",
-      "event_time": "05:00PM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CIJRGZITG46DCK3SBAYCSEI7CNSFCW2ZIMTTIPTFEQ3XKEJDGURSIN2YIFDVKXQQDINHGZDQN54GIZTQN54GW4LJBAFQWAYBCANBU43GMB6WK5LN/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Atp Shanghai, China Men Singles - Holger Rune Vs Valentin Vacherot (10/09/25)": {
-      "event_title": "Atp Shanghai, China Men Singles - Holger Rune Vs Valentin Vacherot (10/09/25)",
-      "event_time": "03:00PM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SKA",
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LZLVPVGVKCCBRCMOZVMUSDO5IGEQ7C4KZNLBOBGYSRKNMFKIJ2ERSXQ3TVMNSXQYLFNMAQEAQUDINBAALKNRUXO23XOV5G64T5O5VQECYG/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "MOVISTAR2",
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LZLVPVGVKCCBRCMOZVMUSDO5IGEQ7C4KZNLBOBGYSRKNMFKIJ2ERSXQ3TVMNSXQYLFNMAQEAQUDINBAALKNRUXO23XOV5G64T5O5VQKBYE/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LZLVPVGVKCCBRCMOZVMUSDO5IGEQ7C4KZNLBOBGYSRKNMFKIJ2ERSXQ3TVMNSXQYLFN4IRQGIUAEEQSCLBNRRWK6DOOVRHEYD7OFXA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Atp Shanghai, China Men Singles - Holger Rune Vs Valentin Vacherot (10/09/25) [STREAM 3[HD]]": {
-      "event_title": "Atp Shanghai, China Men Singles - Holger Rune Vs Valentin Vacherot (10/09/25) [STREAM 3[HD]]",
-      "event_time": "03:00PM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LZLVPVGVKCCBRCMOZVMUSDO5IGEQ7C4KZNLBOBGYSRKNMFKIJ2ERSXQ3TVMNSXQYLFNMIRQGIUAEEQSCLBNRRWK6DOOVRHEYD7OFQA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Atp Shanghai, China Men Singles - Holger Rune Vs Valentin Vacherot (10/09/25) [STREAM 3_FHD[FULL HD]]": {
-      "event_title": "Atp Shanghai, China Men Singles - Holger Rune Vs Valentin Vacherot (10/09/25) [STREAM 3_FHD[FULL HD]]",
-      "event_time": "03:00PM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LZLVPVGVKCCBRCMOZVMUSDO5IGEQ7C4KZNLBOBGYSRKNMFKIJ2ERSXQ3TVMNSXQYLFNMIRQGIUAEEQSCLBNRRWK6DOOVRHEYD7OBVA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Premier Padel 2025  - Milan P1 Day 4 Match 1 (10/09/25)": {
-      "event_title": "Premier Padel 2025  - Milan P1 Day 4 Match 1 (10/09/25)",
-      "event_time": "03:30PM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SKA",
-          "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGZDQN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6WMZD7PJSWI6LXNUAQA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Premier Padel 2025  - Milan P1 Day 4 Match 2 (10/09/25)": {
-      "event_title": "Premier Padel 2025  - Milan P1 Day 4 Match 2 (10/09/25)",
-      "event_time": "05:00PM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SKA",
-          "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGZ3QN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6WOZD7PJSWI6LXNUAQC/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    }
-  },
+  "events": [],
+  "grouped_events": {},
   "metadata": {}
 }
