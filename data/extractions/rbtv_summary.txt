@@ -1,31 +1,29 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-09T09:16:28.739624
+Extraction Time: 2025-10-09T09:39:09.758758
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 13
-- Total Channels: 17
+- Unique Events: 11
+- Total Channels: 14
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
-- Pga Tour 2025 - Baycurrent Classic 2025 Tournament Held At Y...
-  Time: 11:00AM, Channels: 1
 - Arctic Open, Mixed Doubles - Yang Po-Hsuan/Hu Ling-Fang Vs G...
   Time: 04:50PM, Channels: 1
 - Arctic Open, Mixed Doubles - Dhruv Kapila/Tanisha Crasto Vs ...
   Time: 05:05PM, Channels: 1
+- Arctic Open, Singles - Kodai Naraoka Vs Lee Chia-Hao (10/09/...
+  Time: 05:40PM, Channels: 1
 - National Basketball League - Adelaide 36Ers Vs Tasmania Jack...
   Time: 04:30PM, Channels: 2
 - China Women'S National Championship Basketball - Henan Yichu...
   Time: 05:00PM, Channels: 1
 - Afc Asian Cup - Pakistan Vs Afghanistan (10/09/25)
   Time: 05:00PM, Channels: 1
-- Wta Wuhan, China Women Singles - Laura Siegemund Vs Magdalen...
-  Time: 02:30PM, Channels: 1
 - Atp Shanghai, China Men Singles - Holger Rune Vs Valentin Va...
   Time: 03:00PM, Channels: 3
 - Atp Shanghai, China Men Singles - Holger Rune Vs Valentin Va...
@@ -34,7 +32,5 @@ EVENT BREAKDOWN:
   Time: 03:00PM, Channels: 1
 - Premier Padel 2025  - Milan P1 Day 4 Match 1 (10/09/25)
   Time: 03:30PM, Channels: 1
-- Wta 125K Mallorca, Spain Women Singles - Aneta Kladivova Vs ...
-  Time: 04:00PM, Channels: 2
 - Premier Padel 2025  - Milan P1 Day 4 Match 2 (10/09/25)
   Time: 05:00PM, Channels: 1

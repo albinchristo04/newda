@@ -1,18 +1,4 @@
 {
-  "Pga Tour 2025 - Baycurrent Classic 2025 Tournament Held At Yokohama Country Club, Yokohama, Japan. (10/09/25)": {
-    "event_title": "Pga Tour 2025 - Baycurrent Classic 2025 Tournament Held At Yokohama Country Club, Yokohama, Japan. (10/09/25)",
-    "event_time": "11:00AM",
-    "event_date": "10/09/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "SKA",
-        "url": "https://world-proxifier.xyz/rbtv/p/EMZDCZJGFMQCEZLAPN3WYEI7CNLFCSKTIUQSONJLEZSDMPBEEE4CYOQRAABQMBIQIRPSMJZ6EQ7SCOZEMU5C4KJ5CFJUOFCJL5NV6OZUHUSHEJZ2EUVSMOJ4PFJF4RSWDQIESXZYHI4CIPZFPFYC6MZ3EQ3R6EQZDYIACAQQPF7XA53CORSHA33YNN3WSAIDAMBQMEA2DJZWGYTXMF2WO/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-        "duration": null
-      }
-    ]
-  },
   "Arctic Open, Mixed Doubles - Yang Po-Hsuan/Hu Ling-Fang Vs Gao J X / Wu M Y (10/09/25)": {
     "event_title": "Arctic Open, Mixed Doubles - Yang Po-Hsuan/Hu Ling-Fang Vs Gao J X / Wu M Y (10/09/25)",
     "event_time": "04:50PM",
@@ -36,6 +22,20 @@
       {
         "channel_name": "VDO",
         "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXS7C3JNIVIEDUL4TDOPBAEFSHQ4ABHI4TALYRPFJEIWK4KEPQONB6FQQSYNDQAYQCUNRNLYJEKRYQP5OFKOBGHEWHEEB4EQVCIZA4HRDVUVS2LFMVCEAYGQ7DCNZJFQRGK6DBMVUAGEQZDYIAEAAAMJ2XU33SOZSWA5DCP5YHSGYYCMBAEAQEAJTQ/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Arctic Open, Singles - Kodai Naraoka Vs Lee Chia-Hao (10/09/25)": {
+    "event_title": "Arctic Open, Singles - Kodai Naraoka Vs Lee Chia-Hao (10/09/25)",
+    "event_time": "05:40PM",
+    "event_date": "10/09/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "VDO",
+        "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXSYS3LVJVYVKDCB7HKGZKGYSTY4ALGM4SINS2KMJUEQYQPRKTM5ITFU5SK6BYEQ6WW33TCEBQCFA2DIIAEY3FMFSXQ3TVMJ2WE6LUNUEREGI6CADAEATHMZQQ/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
         "duration": null
       }
@@ -85,20 +85,6 @@
         "channel_name": "SD",
         "url": "https://world-proxifier.xyz/rbtv/p/CIJRGZITG46DCK3SBAYCSEI7CNSFCW2ZIMTTIPTFEQ3XKEJDGURSIN2YIFDVKXQQDINHGZDQN54GIZTQN54GW4LJBAFQWAYBCANBU43GMB6WK5LN/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Wta Wuhan, China Women Singles - Laura Siegemund Vs Magdalena Frech (10/09/25)": {
-    "event_title": "Wta Wuhan, China Women Singles - Laura Siegemund Vs Magdalena Frech (10/09/25)",
-    "event_time": "02:30PM",
-    "event_date": "10/09/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFKQI5AVKEDDLFKTIMB5GA6CA5JGGZZAMJB6KVJV6UK6KEIHMIJQGMWXE3T7OB3HEYLPPEDREGI6CABAAADBMRQHI4TOP5YHOZLZOFWQO/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
       }
     ]
@@ -166,26 +152,6 @@
       {
         "channel_name": "SKA",
         "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGZDQN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6WMZD7PJSWI6LXNUAQA/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Wta 125K Mallorca, Spain Women Singles - Aneta Kladivova Vs Sara Bejlek (10/09/25)": {
-    "event_title": "Wta 125K Mallorca, Spain Women Singles - Aneta Kladivova Vs Sara Bejlek (10/09/25)",
-    "event_time": "04:00PM",
-    "event_date": "10/09/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "MOVISTAR2",
-        "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CBYT2MBEERZA6OJREE5T2KRPKAJEKRYQMNIUEMTVCIQDQKBQHNSXQYLFNIIRQGIUAIAAAALTP55GKY35NRUXMY3TMVZRWEQFAYBAIAAJ/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CBYT2MBEERZA6OJREE5T2KRPKAJEKRYQMNIUEMTVCIQDQKBQHNSXQYLFNIIRQGIUAYIBUGTTMRUXY23XMRUGK6DBMVVQMAAHAIAA/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
       }
