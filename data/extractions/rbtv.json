@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-09T21:39:53.296018",
+  "timestamp": "2025-10-09T21:49:17.360203",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -10,16 +10,6 @@
       "channel_name": "SKA",
       "event_title": "One Championship - Extreme Fighting Championship 128 (10/10/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/DQNRKZIRFQ2D2NJ3EQVSUWK3IMKB2EDVJATSONJIG5SBGOJCHI7SYN2WCJYFYUK5IBMTYOZDFU5TI5LBO5VGW33TCEBQOFA2DIIAEY3FMFSXQ3TVMJ2WE6DWNABBEGI6CADAEATGMVSA/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
-      "group_title": "FIGHTING"
-    },
-    {
-      "event_time": "04:00AM",
-      "event_date": "10/10/25",
-      "channel_name": "HDD A",
-      "event_title": "Inside The Ring - Ennis - Lima: Press Conference (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DI5SGLBWEF2QILJXNMLTAX2VCMMRA5K6LY5CM4DIOIEDYPJENBVRKK2UIFABI427LZLDMJZVFMYSC5L2N5ZHU4LZDMMBGAQQDINBAYLFMB3GM53EOBXXQ23XNYBQOBYE/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
       "group_title": "FIGHTING"
@@ -103,20 +93,6 @@
         {
           "channel_name": "SKA",
           "url": "https://world-proxifier.xyz/rbtv/p/DQNRKZIRFQ2D2NJ3EQVSUWK3IMKB2EDVJATSONJIG5SBGOJCHI7SYN2WCJYFYUK5IBMTYOZDFU5TI5LBO5VGW33TCEBQOFA2DIIAEY3FMFSXQ3TVMJ2WE6DWNABBEGI6CADAEATGMVSA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Inside The Ring - Ennis - Lima: Press Conference (10/10/25)": {
-      "event_title": "Inside The Ring - Ennis - Lima: Press Conference (10/10/25)",
-      "event_time": "04:00AM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/DI5SGLBWEF2QILJXNMLTAX2VCMMRA5K6LY5CM4DIOIEDYPJENBVRKK2UIFABI427LZLDMJZVFMYSC5L2N5ZHU4LZDMMBGAQQDINBAYLFMB3GM53EOBXXQ23XNYBQOBYE/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
           "duration": null
         }

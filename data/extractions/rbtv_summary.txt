@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-09T21:39:53.296018
+Extraction Time: 2025-10-09T21:49:17.360203
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 8
-- Total Channels: 9
+- Unique Events: 7
+- Total Channels: 8
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -14,8 +14,6 @@ STATISTICS:
 EVENT BREAKDOWN:
 - One Championship - Extreme Fighting Championship 128 (10/10/...
   Time: 01:00AM, Channels: 1
-- Inside The Ring - Ennis - Lima: Press Conference (10/10/25)
-  Time: 04:00AM, Channels: 1
 - Fia European Truck Racing Championship - Supercars (10/10/25...
   Time: 04:30AM, Channels: 1
 - Carrera Cup - Carrera Cup: Road Atlanta 1 (10/10/25)

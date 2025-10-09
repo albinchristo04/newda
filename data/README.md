@@ -1,12 +1,12 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Thu Oct  9 21:39:54 UTC 2025
+Last updated: Thu Oct  9 21:49:18 UTC 2025
 
-Workflow run: #1153
+Workflow run: #1154
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-10-09T21:39:53.296018
+Extracted at: 2025-10-09T21:49:17.360203
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -22,8 +22,8 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: Inside The Ring - Ennis - Lima: Press Conference (10/10/25)
-Time: 04:00AM
+EVENT: Fia European Truck Racing Championship - Supercars (10/10/25)
+Time: 04:30AM
 Date: 10/10/25
 Category: None
 ```
