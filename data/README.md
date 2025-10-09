@@ -1,12 +1,12 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Thu Oct  9 08:45:32 UTC 2025
+Last updated: Thu Oct  9 09:16:29 UTC 2025
 
-Workflow run: #1118
+Workflow run: #1119
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-10-09T08:45:31.762708
+Extracted at: 2025-10-09T09:16:28.739624
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -22,8 +22,8 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: National Basketball League - Adelaide 36Ers Vs Tasmania Jackjumpers (10/09/25)
-Time: 04:30PM
+EVENT: Arctic Open, Mixed Doubles - Yang Po-Hsuan/Hu Ling-Fang Vs Gao J X / Wu M Y (10/09/25)
+Time: 04:50PM
 Date: 10/09/25
 Category: None
 ```
