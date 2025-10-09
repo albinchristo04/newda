@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-09T16:46:44.045471",
+  "timestamp": "2025-10-09T17:14:03.747691",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -15,21 +15,11 @@
       "group_title": "BADMINTON"
     },
     {
-      "event_time": "12:20AM",
+      "event_time": "01:00AM",
       "event_date": "10/10/25",
       "channel_name": "VDO",
-      "event_title": "Arctic Open, Women, Doubles - Li Wenmei/Wang Ting Ge Vs Bao Li Jing/Zhang Shu Xian (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXSZS5LZIV4HAQOQ6CAMRJG43XK7LFDYRGKDSULRPFCWI7M5IT2MTQCE5SUMTQAI3WWMZKCFYFEWYQPRMRAGJ4HYRH2HR5GEVTK2YWGFCBE225KFPBAGTZOVQXO4TOP5YHOYT3OR4RWGATAYAAAAYCM5THA33YMRRWE53GPJZA/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-      "group_title": "BADMINTON"
-    },
-    {
-      "event_time": "12:40AM",
-      "event_date": "10/10/25",
-      "channel_name": "VDO",
-      "event_title": "Arctic Open, Singles - Wang Tzu-Wei Vs Chou Tien-Chen (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXSYS3LVJVYVKDCB7HKBZEHQRXKBB7E5TDEPCYCJCUOEDTLBPSM5IEFQ3SU6BTFU3SKZLTDMJAEBQQDINBAYLFMB2HE3T7OB3WE63XNADQEEY6DIIAMATBMFRXY/index.m3u8",
+      "event_title": "Arctic Open, Doubles - Eloi Adam/Leo Rossi  Vs Choong Hon Jian/Muhammad Haikal (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXS5K5IZLFYVKDCB7HKFJJHUWXKEJBGMTGUFKULUJWMX2DINMXG5JGGZZAOPJ7FI6CYZIRLZOBG7SZKFPB6HRAHASD6KJUGRSRUKRMGJIF4EY6DIIACATTP55GKYDUMVQWK6DBMVVQCAQBAYAQCEA2PF2WM53AOBSGQ/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
       "group_title": "BADMINTON"
@@ -43,16 +33,6 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
       "group_title": "BADMINTON"
-    },
-    {
-      "event_time": "12:00AM",
-      "event_date": "10/10/25",
-      "channel_name": "SD",
-      "event_title": "Euroleague Women - Miskolc Women Vs Fenerbahce Women (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNMJDMXCXLUKB2ED5LEQD4PZJGFSAEPZIG4SWKL2CCJ2VCXSVIJJDEPJTEBZBGOR5EA6GW33TCEABGHQ2CABRA6L7OB3WE5DFMV6GW23POMIQABAGAUAAO/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
     },
     {
       "event_time": "12:00AM",
@@ -90,6 +70,26 @@
       "channel_name": "SD",
       "event_title": "Liga Nova Kbm - Ilirija Vs Kk Krka (10/10/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/D46DOJDSBI5CMJDSAADRIEI7CN6VYWKCLE4TI4BTEFSB4G3FDE4S4OARDAMRIAQQDINHGZTQN54GIZ3AOVRH47DOCEMBSFACA4BAKYTF/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL"
+    },
+    {
+      "event_time": "12:50AM",
+      "event_date": "10/10/25",
+      "channel_name": "SD",
+      "event_title": "Euroleague Women - Galatasaray Women Vs Famila Wuber Schio Women (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNMJDMXCXLUKB2EDXKE7TIJBEEESSOMJ4OIOCUNCULQJUEQYQOZIT4PB4ERZBGIBSEAQGWFR2LFNVYFDHL5OVKPLVPJXXE5TVPJXXE6DFOMNREAIEAAAAMADHOV5G64TWMJRHAY3Z/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL"
+    },
+    {
+      "event_time": "12:50AM",
+      "event_date": "10/10/25",
+      "channel_name": "SD",
+      "event_title": "Europe Women\u2019S Challenge Basketball - Kssse Azs-Pwsz Gorzow Women Vs Besiktas Jk Women (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKRCEF2QOKR7FYV3XMNLIAKHGWCRLQ7TAPRCG5SBOMJWHEXDCO2QLZPRIHIQPNRQABQVMUJR4BT5CUCRQH3ZOZOUCTS7I4IGOPBYGUVXEMRGOADTOOBMGJCVGQAUPJ5RAZZ4HA2SW4TOP5YHO4TBN54QEEQZDYIAEAAAMJSWE4TSNZ7XA53FPFYGQAA/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
       "group_title": "BASKETBALL"
@@ -162,6 +162,26 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
       "group_title": "CRICKET"
+    },
+    {
+      "event_time": "01:00AM",
+      "event_date": "10/10/25",
+      "channel_name": "SKA",
+      "event_title": "One Championship - Extreme Fighting Championship 128 (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DQNRKZIRFQ2D2NJ3EQVSUWK3IMKB2EDVJATSONJIG5SBGOJCHI7SYN2WCJYFYUK5IBMTYOZDFU5TI5LBO5VGW33TCEBQOFA2DIIAEY3FMFSXQ3TVMJ2WE6DWNABBEGI6CADAEATGMVSA/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
+      "group_title": "FIGHTING"
+    },
+    {
+      "event_time": "01:00AM",
+      "event_date": "10/10/25",
+      "channel_name": "HDD B",
+      "event_title": "One Championship - Extreme Fighting Championship 128 (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DQNRKZIRFQ2D2NJ3EQVSUWK3IMKB2EDVJATSONJIG5SBGOJCHI7SYN2WCJYFYUK5IBMTYOZDFU5TI5LBO5VGW33TCEBQOFA2DIIAM437PJSWA5DFMN3GG6DFOMNREAIDAICQCCI/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
+      "group_title": "FIGHTING"
     },
     {
       "event_time": "12:00AM",
@@ -359,6 +379,25 @@
       "group_title": "HANDBALL"
     },
     {
+      "event_time": "12:45AM",
+      "event_date": "10/10/25",
+      "channel_name": "HDD A",
+      "event_title": "Ehf Champions League - Veszprem Vs Vive Tauron Kielce (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CYORMZIRFQ2D2NJ3EQVSUEL6KZKVORKVCB7HKBRAEE7CKIRAH5VTGKQRMRNEEVIQMRISMJZ7FNZA6PBVFEYS4ZLTDMJAEAQQDINBAZLVPJXXE5TFMB2WU6LQPENRQEYGA4BAKALL/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hnb_active.webp",
+      "group_title": "HANDBALL"
+    },
+    {
+      "event_time": "01:00AM",
+      "event_date": "10/10/25",
+      "event_title": "Horse Racing - America'S Day At The Races (10/10/25) [STREAM 22[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DM5CENRXMQDTCJR3EURHSHASOJMVKQSZKMZHEI3FCYSSY4AEEZVTCMKUCJQVKU2VIMIHS73QOJZG473QO5ZGC33ZAMBAGBYCBEARA6L7OB3WK5TAMFZQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+      "group_title": "MOTORSPORT"
+    },
+    {
       "event_time": "07:30PM",
       "event_date": "10/09/25",
       "channel_name": "MOVISTAR",
@@ -367,24 +406,6 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
       "group_title": "MOTORSPORT"
-    },
-    {
-      "event_time": "08:00PM",
-      "event_date": "10/09/25",
-      "event_title": "European Pga Tour - Acciona Open De Espa\u00f1a, First Round (10/09/25) [STREAM 38[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKRCEE2D4ZICBQCHSZK5IZDBAHIQOEYDMOJKHQSXKHZVG4SWKPKUCJ3EOQCR6OATE6LQAM5TMJREMUACIMBXKUJBSHQQBEABA6L7OB3XE3T7OB6GM73TNUIRQGIUBABQGADH/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ots_active.webp",
-      "group_title": "OTHERS"
-    },
-    {
-      "event_time": "08:00PM",
-      "event_date": "10/09/25",
-      "event_title": "European Pga Tour - Acciona Open De Espa\u00f1a, First Round (10/09/25) [STREAM 38[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKRCEE2D4ZICBQCHSZK5IZDBAHIQOEYDMOJKHQSXKHZVG4SWKPKUCJ3EOQCR6OATE6LQAM5TMJREMUACIMBXKUJBSHQQBEABA6L7OB3XE3T7OB6GM73TNUIRQGIUBABQGADH/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ots_active.webp",
-      "group_title": "OTHERS"
     },
     {
       "event_time": "12:00AM",
@@ -442,29 +463,15 @@
         }
       ]
     },
-    "Arctic Open, Women, Doubles - Li Wenmei/Wang Ting Ge Vs Bao Li Jing/Zhang Shu Xian (10/10/25)": {
-      "event_title": "Arctic Open, Women, Doubles - Li Wenmei/Wang Ting Ge Vs Bao Li Jing/Zhang Shu Xian (10/10/25)",
-      "event_time": "12:20AM",
+    "Arctic Open, Doubles - Eloi Adam/Leo Rossi  Vs Choong Hon Jian/Muhammad Haikal (10/10/25)": {
+      "event_title": "Arctic Open, Doubles - Eloi Adam/Leo Rossi  Vs Choong Hon Jian/Muhammad Haikal (10/10/25)",
+      "event_time": "01:00AM",
       "event_date": "10/10/25",
       "category": null,
       "channels": [
         {
           "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXSZS5LZIV4HAQOQ6CAMRJG43XK7LFDYRGKDSULRPFCWI7M5IT2MTQCE5SUMTQAI3WWMZKCFYFEWYQPRMRAGJ4HYRH2HR5GEVTK2YWGFCBE225KFPBAGTZOVQXO4TOP5YHOYT3OR4RWGATAYAAAAYCM5THA33YMRRWE53GPJZA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Arctic Open, Singles - Wang Tzu-Wei Vs Chou Tien-Chen (10/10/25)": {
-      "event_title": "Arctic Open, Singles - Wang Tzu-Wei Vs Chou Tien-Chen (10/10/25)",
-      "event_time": "12:40AM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXSYS3LVJVYVKDCB7HKBZEHQRXKBB7E5TDEPCYCJCUOEDTLBPSM5IEFQ3SU6BTFU3SKZLTDMJAEBQQDINBAYLFMB2HE3T7OB3WE63XNADQEEY6DIIAMATBMFRXY/index.m3u8",
+          "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXS5K5IZLFYVKDCB7HKFJJHUWXKEJBGMTGUFKULUJWMX2DINMXG5JGGZZAOPJ7FI6CYZIRLZOBG7SZKFPB6HRAHASD6KJUGRSRUKRMGJIF4EY6DIIACATTP55GKYDUMVQWK6DBMVVQCAQBAYAQCEA2PF2WM53AOBSGQ/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
           "duration": null
         }
@@ -480,20 +487,6 @@
           "channel_name": "SKA",
           "url": "https://world-proxifier.xyz/rbtv/p/G4SXAMR5GY4TIZJGEQYCWEI7CNNUAVK6CA3TA4BAEE2DIPREOJ4XK2YECJBUMVKDKVPCOMBUMUYD25J5EQ3DSLB5CFDFYQKCLZIV2NR3ERSTINR2HVSTCJZQHMIVMVQUKNIV2QB4OUTCYPRIGRYCCN3LFA4FKQC2KAOBAXKRG4TTSIL6MQTCAJB3EVVXSGYYCMCQEEA2DJZWOYDVMNSH66TFMB5XK2ABAUCBIGQ2CADGCZ3DORQQ/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Euroleague Women - Miskolc Women Vs Fenerbahce Women (10/10/25)": {
-      "event_title": "Euroleague Women - Miskolc Women Vs Fenerbahce Women (10/10/25)",
-      "event_time": "12:00AM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNMJDMXCXLUKB2ED5LEQD4PZJGFSAEPZIG4SWKL2CCJ2VCXSVIJJDEPJTEBZBGOR5EA6GW33TCEABGHQ2CABRA6L7OB3WE5DFMV6GW23POMIQABAGAUAAO/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
           "duration": null
         }
       ]
@@ -549,6 +542,34 @@
         {
           "channel_name": "SD",
           "url": "https://world-proxifier.xyz/rbtv/p/D46DOJDSBI5CMJDSAADRIEI7CN6VYWKCLE4TI4BTEFSB4G3FDE4S4OARDAMRIAQQDINHGZTQN54GIZ3AOVRH47DOCEMBSFACA4BAKYTF/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Euroleague Women - Galatasaray Women Vs Famila Wuber Schio Women (10/10/25)": {
+      "event_title": "Euroleague Women - Galatasaray Women Vs Famila Wuber Schio Women (10/10/25)",
+      "event_time": "12:50AM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNMJDMXCXLUKB2EDXKE7TIJBEEESSOMJ4OIOCUNCULQJUEQYQOZIT4PB4ERZBGIBSEAQGWFR2LFNVYFDHL5OVKPLVPJXXE5TVPJXXE6DFOMNREAIEAAAAMADHOV5G64TWMJRHAY3Z/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Europe Women\u2019S Challenge Basketball - Kssse Azs-Pwsz Gorzow Women Vs Besiktas Jk Women (10/10/25)": {
+      "event_title": "Europe Women\u2019S Challenge Basketball - Kssse Azs-Pwsz Gorzow Women Vs Besiktas Jk Women (10/10/25)",
+      "event_time": "12:50AM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKRCEF2QOKR7FYV3XMNLIAKHGWCRLQ7TAPRCG5SBOMJWHEXDCO2QLZPRIHIQPNRQABQVMUJR4BT5CUCRQH3ZOZOUCTS7I4IGOPBYGUVXEMRGOADTOOBMGJCVGQAUPJ5RAZZ4HA2SW4TOP5YHO4TBN54QEEQZDYIAEAAAMJSWE4TSNZ7XA53FPFYGQAA/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
           "duration": null
         }
@@ -648,6 +669,26 @@
           "channel_name": null,
           "url": "https://world-proxifier.xyz/rbtv/p/A5TWAZIFFMTTYILSBAYCSHISOJDVSUI5OUJAK4AUE4STSOJDHMXDO5IRMBLFGWK7LZIT65IWFQ6CKOLQNBZBWJBJIRJRG6SVI4IHOJR4HYQDGZBDENSQCKRIGZIBEGI6CADBAGTZOVRGK6DOOVRHKYT3ORVQQEQZDYIAEBYCM5WGM/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "One Championship - Extreme Fighting Championship 128 (10/10/25)": {
+      "event_title": "One Championship - Extreme Fighting Championship 128 (10/10/25)",
+      "event_time": "01:00AM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SKA",
+          "url": "https://world-proxifier.xyz/rbtv/p/DQNRKZIRFQ2D2NJ3EQVSUWK3IMKB2EDVJATSONJIG5SBGOJCHI7SYN2WCJYFYUK5IBMTYOZDFU5TI5LBO5VGW33TCEBQOFA2DIIAEY3FMFSXQ3TVMJ2WE6DWNABBEGI6CADAEATGMVSA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD B",
+          "url": "https://world-proxifier.xyz/rbtv/p/DQNRKZIRFQ2D2NJ3EQVSUWK3IMKB2EDVJATSONJIG5SBGOJCHI7SYN2WCJYFYUK5IBMTYOZDFU5TI5LBO5VGW33TCEBQOFA2DIIAM437PJSWA5DFMN3GG6DFOMNREAIDAICQCCI/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
           "duration": null
         }
       ]
@@ -881,6 +922,26 @@
           "url": "https://world-proxifier.xyz/rbtv/p/CYORMZIRFQ2D2NJ3EQVSUEL6KZKVORKVCB7HKBRAEE7CKIRAH5VTGKQRMRNEEVIQMRISMJZ7FNZA6PBVFEYS4ZLTDMJAEAQQDINBAYLFMB2HE3T7OB3WE63VMEBQOEY6DIIAMATBMZTXO/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hnb_active.webp",
           "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/CYORMZIRFQ2D2NJ3EQVSUEL6KZKVORKVCB7HKBRAEE7CKIRAH5VTGKQRMRNEEVIQMRISMJZ7FNZA6PBVFEYS4ZLTDMJAEAQQDINBAZLVPJXXE5TFMB2WU6LQPENRQEYGA4BAKALL/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hnb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Horse Racing - America'S Day At The Races (10/10/25) [STREAM 22[HD]]": {
+      "event_title": "Horse Racing - America'S Day At The Races (10/10/25) [STREAM 22[HD]]",
+      "event_time": "01:00AM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/DM5CENRXMQDTCJR3EURHSHASOJMVKQSZKMZHEI3FCYSSY4AEEZVTCMKUCJQVKU2VIMIHS73QOJZG473QO5ZGC33ZAMBAGBYCBEARA6L7OB3WK5TAMFZQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
         }
       ]
     },
@@ -894,26 +955,6 @@
           "channel_name": "MOVISTAR",
           "url": "https://world-proxifier.xyz/rbtv/p/AA5T6KRZEETXAARAFIVT2ELCIFOUQECUKVZQ2OLCGMVHKNBAOI4CWNS6LFLEMEA5CBSDMJZTEAQCK5JCFI6C6JDZI5ARGZ2VINM7HYB3OB3XE3T7OBZHEYLPPEBQEAYFCANBUEDBMVQHMYD5MJYG66DLONVQGBQCAA/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "European Pga Tour - Acciona Open De Espa\u00f1a, First Round (10/09/25) [STREAM 38[HD]]": {
-      "event_title": "European Pga Tour - Acciona Open De Espa\u00f1a, First Round (10/09/25) [STREAM 38[HD]]",
-      "event_time": "08:00PM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKRCEE2D4ZICBQCHSZK5IZDBAHIQOEYDMOJKHQSXKHZVG4SWKPKUCJ3EOQCR6OATE6LQAM5TMJREMUACIMBXKUJBSHQQBEABA6L7OB3XE3T7OB6GM73TNUIRQGIUBABQGADH/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ots_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKRCEE2D4ZICBQCHSZK5IZDBAHIQOEYDMOJKHQSXKHZVG4SWKPKUCJ3EOQCR6OATE6LQAM5TMJREMUACIMBXKUJBSHQQBEABA6L7OB3XE3T7OB6GM73TNUIRQGIUBABQGADH/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ots_active.webp",
           "duration": null
         }
       ]

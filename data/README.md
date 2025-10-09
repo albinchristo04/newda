@@ -1,12 +1,12 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Thu Oct  9 16:46:44 UTC 2025
+Last updated: Thu Oct  9 17:14:05 UTC 2025
 
-Workflow run: #1138
+Workflow run: #1139
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-10-09T16:46:44.045471
+Extracted at: 2025-10-09T17:14:03.747691
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -22,8 +22,8 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: Arctic Open, Women, Doubles - Li Wenmei/Wang Ting Ge Vs Bao Li Jing/Zhang Shu Xian (10/10/25)
-Time: 12:20AM
+EVENT: Arctic Open, Doubles - Eloi Adam/Leo Rossi  Vs Choong Hon Jian/Muhammad Haikal (10/10/25)
+Time: 01:00AM
 Date: 10/10/25
 Category: None
 ```
