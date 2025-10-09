@@ -1,12 +1,12 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Wed Oct  8 23:49:27 UTC 2025
+Last updated: Thu Oct  9 01:10:48 UTC 2025
 
-Workflow run: #1101
+Workflow run: #1102
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-10-08T23:49:26.413385
+Extracted at: 2025-10-09T01:10:47.832286
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -22,8 +22,8 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: Major League Baseball - Detroit Tigers Vs Seattle Mariners (10/09/25)
-Time: 04:00AM
+EVENT: Usa: Ncaa - Utep Vs Liberty Flames (10/09/25)
+Time: 08:00AM
 Date: 10/09/25
 Category: None
 ```
