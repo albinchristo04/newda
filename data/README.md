@@ -1,29 +1,29 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Thu Oct  9 21:49:18 UTC 2025
+Last updated: Thu Oct  9 22:13:53 UTC 2025
 
-Workflow run: #1154
+Workflow run: #1155
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-10-09T21:49:17.360203
+Extracted at: 2025-10-09T22:13:52.867058
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
 
-EVENT: One Championship - Extreme Fighting Championship 128 (10/10/25)
-Time: 01:00AM
+EVENT: Major League Baseball - Los Angeles Dodgers Vs Philadelphia Phillies (10/10/25)
+Time: 06:08AM
 Date: 10/10/25
 Category: None
 Available Channels (1):
-  1. SKA
-     URL: https://world-proxifier.xyz/rbtv/p/DQNRKZIRFQ2D2NJ3EQVSUWK3IMKB2EDVJATSONJIG5SBGOJCHI7SYN2WCJYFYUK5IBMTYOZDFU5TI5LBO5VGW33TCEBQOFA2DIIAEY3FMFSXQ3TVMJ2WE6DWNABBEGI6CADAEATGMVSA/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp
+  1. HDK A
+     URL: https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4AJHU3XKEJLGUXCSPCCCJ3VWVCXKVBCA5JGGZZBIPJZFEZS6IBVIFNFUVIQMBMFSPZZHEQCCZD7PJSWM23POMIQIEY6DIIAEADDMZRXI23EP55GKYD4O5WAKAI/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp
 
 ================================================================================
 
-EVENT: Fia European Truck Racing Championship - Supercars (10/10/25)
-Time: 04:30AM
+EVENT: Major League Baseball - Los Angeles Dodgers Vs Philadelphia Phillies (10/10/25) [STREAM 45[HD]]
+Time: 06:08AM
 Date: 10/10/25
 Category: None
 ```

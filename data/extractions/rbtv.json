@@ -1,18 +1,47 @@
 {
-  "timestamp": "2025-10-09T21:49:17.360203",
+  "timestamp": "2025-10-09T22:13:52.867058",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
   "events": [
     {
+      "event_time": "06:08AM",
+      "event_date": "10/10/25",
+      "channel_name": "HDK A",
+      "event_title": "Major League Baseball - Los Angeles Dodgers Vs Philadelphia Phillies (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4AJHU3XKEJLGUXCSPCCCJ3VWVCXKVBCA5JGGZZBIPJZFEZS6IBVIFNFUVIQMBMFSPZZHEQCCZD7PJSWM23POMIQIEY6DIIAEADDMZRXI23EP55GKYD4O5WAKAI/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL"
+    },
+    {
+      "event_time": "06:08AM",
+      "event_date": "10/10/25",
+      "event_title": "Major League Baseball - Los Angeles Dodgers Vs Philadelphia Phillies (10/10/25) [STREAM 45[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4AJHU3XKEJLGUXCSPCCCJ3VWVCXKVBCA5JGGZZBIPJZFEZS6IBVIFNFUVIQMBMFSPZZHEQCCZD7PJSWM23POMIQAEY6DIIAEADDMZRXI23EP55GKYD4O5WAKBI/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+      "group_title": "BASEBALL"
+    },
+    {
       "event_time": "01:00AM",
       "event_date": "10/10/25",
       "channel_name": "SKA",
       "event_title": "One Championship - Extreme Fighting Championship 128 (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DQNRKZIRFQ2D2NJ3EQVSUWK3IMKB2EDVJATSONJIG5SBGOJCHI7SYN2WCJYFYUK5IBMTYOZDFU5TI5LBO5VGW33TCEBQOFA2DIIAEY3FMFSXQ3TVMJ2WE6DWNABBEGI6CADAEATGMVSA/index.m3u8",
+      "url": "https://world-proxifier.xyz/rbtv/p/DQNRKZIRFQ2D2NJ3EQVSUWK3IMKB2EDVJATSONJIG5SBGOJCHI7SYN2WCJYFYUK5IBMTYOZDFU5TI5LBO5VGW33TCEBQOFA2DIIAEY3FMFSXQ3TVMJ2WE6DWNABBEGI6CADAEATGMZSA/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
       "group_title": "FIGHTING"
+    },
+    {
+      "event_time": "06:00AM",
+      "event_date": "10/10/25",
+      "channel_name": "SD",
+      "event_title": "Argentine Reserve League - Atletico Tucuman Reserve Vs San Lorenzo Reserves (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CITTOIB4GA6D4IDSDEQCUVCAIVIRA7CVKE2CANLFP5SBIJBJG47SYOS6CJTUCU2FLVIT25ICEAQSCJZGEBZD2NTZMJJV2FD4L5BFKPJPH5SQAIJGGU3SILRWPENRQEYFCANBUEDAOV5G64TQM5UXGZL4ON4RWGATA4AAQCAEMM/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
     },
     {
       "event_time": "04:30AM",
@@ -20,16 +49,6 @@
       "channel_name": "HDD A",
       "event_title": "Fia European Truck Racing Championship - Supercars (10/10/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/CUOBCZIXGETT6NJXFIVXSZKAIZLVWEDCKEYDYPRCOIDT2MJIEIRCUN2CLJNEIEA5CBRSMJJVG4YSKJZDMV4GCZLOCEMBSFAGCANBU43HMB2WC5TMMNSXQYLFNMDAABQAAE/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT"
-    },
-    {
-      "event_time": "05:00AM",
-      "event_date": "10/10/25",
-      "channel_name": "HDD A",
-      "event_title": "Carrera Cup - Carrera Cup: Road Atlanta 1 (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CA2CENZXGY2HABRHHNSXIELRKJDEEVKCKFZRMJJVNBSAOPZEGZVQILK5KNOUAUIQAEIHS73QOJZG473QONZGC33ZAMBAGBYCBEBBA6L7OB3WK5TAMR3Q/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
       "group_title": "MOTORSPORT"
@@ -57,7 +76,7 @@
       "event_date": "10/10/25",
       "channel_name": "SKA",
       "event_title": "Premier Padel 2025  - Milan P1 Day 4 Match 5 (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGYDQN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6WUZD7PJSWI6LXNUAQI/index.m3u8",
+      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGYDQN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6WUZD7PJSWI6LXNQBAC/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
@@ -67,7 +86,7 @@
       "event_date": "10/10/25",
       "channel_name": "SKA",
       "event_title": "Premier Padel 2025  - Milan P1 Day 4 Match 6 (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGY3QN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6WWZD7PJSWI6LXNUAQK/index.m3u8",
+      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGY3QN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6WWZD7PJSWI6LXNQBAO/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
@@ -77,13 +96,41 @@
       "event_date": "10/10/25",
       "channel_name": "SKA",
       "event_title": "Premier Padel 2025  - Milan P1 Day 4 Match 7 (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGYTQN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6GEZD7PJSWI6LXNUAQU/index.m3u8",
+      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGYTQN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6GEZD7PJSWI6LXNQBAI/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
     }
   ],
   "grouped_events": {
+    "Major League Baseball - Los Angeles Dodgers Vs Philadelphia Phillies (10/10/25)": {
+      "event_title": "Major League Baseball - Los Angeles Dodgers Vs Philadelphia Phillies (10/10/25)",
+      "event_time": "06:08AM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDK A",
+          "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4AJHU3XKEJLGUXCSPCCCJ3VWVCXKVBCA5JGGZZBIPJZFEZS6IBVIFNFUVIQMBMFSPZZHEQCCZD7PJSWM23POMIQIEY6DIIAEADDMZRXI23EP55GKYD4O5WAKAI/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Major League Baseball - Los Angeles Dodgers Vs Philadelphia Phillies (10/10/25) [STREAM 45[HD]]": {
+      "event_title": "Major League Baseball - Los Angeles Dodgers Vs Philadelphia Phillies (10/10/25) [STREAM 45[HD]]",
+      "event_time": "06:08AM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4AJHU3XKEJLGUXCSPCCCJ3VWVCXKVBCA5JGGZZBIPJZFEZS6IBVIFNFUVIQMBMFSPZZHEQCCZD7PJSWM23POMIQAEY6DIIAEADDMZRXI23EP55GKYD4O5WAKBI/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
+          "duration": null
+        }
+      ]
+    },
     "One Championship - Extreme Fighting Championship 128 (10/10/25)": {
       "event_title": "One Championship - Extreme Fighting Championship 128 (10/10/25)",
       "event_time": "01:00AM",
@@ -92,8 +139,22 @@
       "channels": [
         {
           "channel_name": "SKA",
-          "url": "https://world-proxifier.xyz/rbtv/p/DQNRKZIRFQ2D2NJ3EQVSUWK3IMKB2EDVJATSONJIG5SBGOJCHI7SYN2WCJYFYUK5IBMTYOZDFU5TI5LBO5VGW33TCEBQOFA2DIIAEY3FMFSXQ3TVMJ2WE6DWNABBEGI6CADAEATGMVSA/index.m3u8",
+          "url": "https://world-proxifier.xyz/rbtv/p/DQNRKZIRFQ2D2NJ3EQVSUWK3IMKB2EDVJATSONJIG5SBGOJCHI7SYN2WCJYFYUK5IBMTYOZDFU5TI5LBO5VGW33TCEBQOFA2DIIAEY3FMFSXQ3TVMJ2WE6DWNABBEGI6CADAEATGMZSA/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Argentine Reserve League - Atletico Tucuman Reserve Vs San Lorenzo Reserves (10/10/25)": {
+      "event_title": "Argentine Reserve League - Atletico Tucuman Reserve Vs San Lorenzo Reserves (10/10/25)",
+      "event_time": "06:00AM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CITTOIB4GA6D4IDSDEQCUVCAIVIRA7CVKE2CANLFP5SBIJBJG47SYOS6CJTUCU2FLVIT25ICEAQSCJZGEBZD2NTZMJJV2FD4L5BFKPJPH5SQAIJGGU3SILRWPENRQEYFCANBUEDAOV5G64TQM5UXGZL4ON4RWGATA4AAQCAEMM/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }
       ]
@@ -107,20 +168,6 @@
         {
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/CUOBCZIXGETT6NJXFIVXSZKAIZLVWEDCKEYDYPRCOIDT2MJIEIRCUN2CLJNEIEA5CBRSMJJVG4YSKJZDMV4GCZLOCEMBSFAGCANBU43HMB2WC5TMMNSXQYLFNMDAABQAAE/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Carrera Cup - Carrera Cup: Road Atlanta 1 (10/10/25)": {
-      "event_title": "Carrera Cup - Carrera Cup: Road Atlanta 1 (10/10/25)",
-      "event_time": "05:00AM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/CA2CENZXGY2HABRHHNSXIELRKJDEEVKCKFZRMJJVNBSAOPZEGZVQILK5KNOUAUIQAEIHS73QOJZG473QONZGC33ZAMBAGBYCBEBBA6L7OB3WK5TAMR3Q/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
           "duration": null
         }
@@ -154,7 +201,7 @@
       "channels": [
         {
           "channel_name": "SKA",
-          "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGYDQN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6WUZD7PJSWI6LXNUAQI/index.m3u8",
+          "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGYDQN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6WUZD7PJSWI6LXNQBAC/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
@@ -168,7 +215,7 @@
       "channels": [
         {
           "channel_name": "SKA",
-          "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGY3QN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6WWZD7PJSWI6LXNUAQK/index.m3u8",
+          "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGY3QN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6WWZD7PJSWI6LXNQBAO/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
@@ -182,7 +229,7 @@
       "channels": [
         {
           "channel_name": "SKA",
-          "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGYTQN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6GEZD7PJSWI6LXNUAQU/index.m3u8",
+          "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGYTQN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6GEZD7PJSWI6LXNQBAI/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
