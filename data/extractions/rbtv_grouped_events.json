@@ -206,101 +206,19 @@
         "url": "https://world-proxifier.xyz/rbtv/p/DQNRKZIRFQ2D2NJ3EQVSUWK3IMKB2EDVJATSONJIG5SBGOJCHI7SYN2WCJYFYUK5IBMTYOZDFU5TI5LBO5VGW33TCEBQOFA2DIIAEY3FMFSXQ3TVMJ2WE6DWNABBEGI6CADAEATGMVSA/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
         "duration": null
-      },
-      {
-        "channel_name": "HDD B",
-        "url": "https://world-proxifier.xyz/rbtv/p/DQNRKZIRFQ2D2NJ3EQVSUWK3IMKB2EDVJATSONJIG5SBGOJCHI7SYN2WCJYFYUK5IBMTYOZDFU5TI5LBO5VGW33TCEBQOFA2DIIAM437PJSWA5DFMN3GG6DFOMNREAIDAICQCCI/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
-        "duration": null
       }
     ]
   },
-  "Argentine Reserve League - Argentinos Jrs Reserves Vs Newell'S Reserves (10/10/25)": {
-    "event_title": "Argentine Reserve League - Argentinos Jrs Reserves Vs Newell'S Reserves (10/10/25)",
-    "event_time": "02:00AM",
-    "event_date": "10/10/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/CITTOIB4GA6D4IDSDEQCUVCAIVIRA7CVKE2CANLFP5SBIIRCG4STCMC7LVABI6SCIMIACMBDEAQDEMBDMUSDQZIXKRCVMWC4C5BRAAJQEMQCAMRQENSXQYLFNAIRQGIUAMIBUGTTMFRHYZDTMJQGK6DBMVVACCQEAIAA/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Argentine Reserve League - Huracan Reserves Vs Central Cordoba Sde Reserves (10/10/25)": {
-    "event_title": "Argentine Reserve League - Huracan Reserves Vs Central Cordoba Sde Reserves (10/10/25)",
-    "event_time": "02:00AM",
-    "event_date": "10/10/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/CITTOIB4GA6D4IDSDEQCUVCAIVIRA7CVKE2CANLFP5SB2JJXGMUCINYRMBLEOVKCIZKSA5JGGZZAOMB6GEQCUKLZOJOUCUC7KJIRAABRCVSQAIJGGU3SILRWPENRQEYFCANBUEDAOV5G64TQM5UXGZL4OR4RWGATA4AAQBYGM4/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Argentine Reserve League - Lanus Reserves Vs Godoy Cruz Reserves (10/10/25)": {
-    "event_title": "Argentine Reserve League - Lanus Reserves Vs Godoy Cruz Reserves (10/10/25)",
-    "event_time": "02:00AM",
-    "event_date": "10/10/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/CITTOIB4GA6D4IDSDEQCUVCAIVIRA7CVKE2CANLFP5SBSMJLE44GKC2UIFLEMRSVIMICKJTQAI6SAORJMUITSMBDCFQFMR2VIJDFKIDVPJXXE5LVPJXXE6DFOMNREBYGBEDAOB3BOV5G64TXMVUHEZD2/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Argentine Reserve League - San Martin De San Juan Reserves Vs Ca Independiente Reserves (10/10/25)": {
-    "event_title": "Argentine Reserve League - San Martin De San Juan Reserves Vs Ca Independiente Reserves (10/10/25)",
-    "event_time": "02:00AM",
-    "event_date": "10/10/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/CITTOIB4GA6D4IDSDEQCUVCAIVIRA7CVKE2CANLFP5SAMMJLOIDCIK2FLNORIVCVCBRTEO3QB4TSKO3QC43TQIBLI5LUAFCGIMIHGETVDEVTMIJFGUVTMIRAG5CVOE3GKVBVKQRFGARWK6DOOVQWK6DBMVVBCGAZCQCAECIGMRRGGZLYNZ2WG5LKPRZWU/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "International Friendly - Romania Vs Moldova (10/10/25)": {
-    "event_title": "International Friendly - Romania Vs Moldova (10/10/25)",
-    "event_time": "02:00AM",
+  "Inside The Ring - Ennis - Lima: Press Conference (10/10/25)": {
+    "event_title": "Inside The Ring - Ennis - Lima: Press Conference (10/10/25)",
+    "event_time": "04:00AM",
     "event_date": "10/10/25",
     "category": null,
     "channels": [
       {
         "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/DI5SIIBAFI2CILB5EUSDKELUIFOVKXSULQVHK7LFAAVTQMJLHMVGKL2CCJ7FWXCUL5DDE5L2N5ZHK5L2N5ZH2ZLTDMJAOBQJAYDAMZDVPJXXE53FNBZGI7Q/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      },
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/DI5SIIBAFI2CILB5EUSDKELUIFOVKXSULQVHK7LFAAVTQMJLHMVGKL2CCJ7FWXCUL5DDE5L2N5ZHK5L2N5ZHQZLTDMJAOBQJAYDAMZDVPJXXE53FNBZGI6I/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "International Friendly - Romania Vs Moldova (10/10/25) [STREAM 17[HD]]": {
-    "event_title": "International Friendly - Romania Vs Moldova (10/10/25) [STREAM 17[HD]]",
-    "event_time": "02:00AM",
-    "event_date": "10/10/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": null,
-        "url": "https://world-proxifier.xyz/rbtv/p/DI5SIIBAFI2CILB5EUSDKELUIFOVKXSULQVHK7LFAAVTQMJLHMVGKL2CCJ7FWXCUL5DDE5L2N5ZHK5L2N5ZHSZLTDMJAOBQJAYDAMZDVPJXXE53FNBZGI7I/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "url": "https://world-proxifier.xyz/rbtv/p/DI5SGLBWEF2QILJXNMLTAX2VCMMRA5K6LY5CM4DIOIEDYPJENBVRKK2UIFABI427LZLDMJZVFMYSC5L2N5ZHU4LZDMMBGAQQDINBAYLFMB3GM53EOBXXQ23XNYBQOBYE/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
         "duration": null
       }
     ]

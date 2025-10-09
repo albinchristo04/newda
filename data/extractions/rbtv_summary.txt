@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-09T19:49:40.009140
+Extraction Time: 2025-10-09T20:17:35.024052
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 54
-- Total Channels: 94
+- Unique Events: 49
+- Total Channels: 87
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -35,19 +35,9 @@ EVENT BREAKDOWN:
 - T20 World Cup, Asia-Eap Qualifier, Regional Final - Papua Ne...
   Time: 11:00PM, Channels: 1
 - One Championship - Extreme Fighting Championship 128 (10/10/...
-  Time: 01:00AM, Channels: 2
-- Argentine Reserve League - Argentinos Jrs Reserves Vs Newell...
-  Time: 02:00AM, Channels: 1
-- Argentine Reserve League - Huracan Reserves Vs Central Cordo...
-  Time: 02:00AM, Channels: 1
-- Argentine Reserve League - Lanus Reserves Vs Godoy Cruz Rese...
-  Time: 02:00AM, Channels: 1
-- Argentine Reserve League - San Martin De San Juan Reserves V...
-  Time: 02:00AM, Channels: 1
-- International Friendly - Romania Vs Moldova (10/10/25)
-  Time: 02:00AM, Channels: 2
-- International Friendly - Romania Vs Moldova (10/10/25) [STRE...
-  Time: 02:00AM, Channels: 1
+  Time: 01:00AM, Channels: 1
+- Inside The Ring - Ennis - Lima: Press Conference (10/10/25)
+  Time: 04:00AM, Channels: 1
 - International Friendly - England Vs Wales (10/10/25)
   Time: 02:45AM, Channels: 3
 - International Friendly - England Vs Wales (10/10/25) [STREAM...
