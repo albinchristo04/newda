@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-09T16:20:08.397153",
+  "timestamp": "2025-10-09T16:46:44.045471",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -20,6 +20,16 @@
       "channel_name": "VDO",
       "event_title": "Arctic Open, Women, Doubles - Li Wenmei/Wang Ting Ge Vs Bao Li Jing/Zhang Shu Xian (10/10/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXSZS5LZIV4HAQOQ6CAMRJG43XK7LFDYRGKDSULRPFCWI7M5IT2MTQCE5SUMTQAI3WWMZKCFYFEWYQPRMRAGJ4HYRH2HR5GEVTK2YWGFCBE225KFPBAGTZOVQXO4TOP5YHOYT3OR4RWGATAYAAAAYCM5THA33YMRRWE53GPJZA/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+      "group_title": "BADMINTON"
+    },
+    {
+      "event_time": "12:40AM",
+      "event_date": "10/10/25",
+      "channel_name": "VDO",
+      "event_title": "Arctic Open, Singles - Wang Tzu-Wei Vs Chou Tien-Chen (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXSYS3LVJVYVKDCB7HKBZEHQRXKBB7E5TDEPCYCJCUOEDTLBPSM5IEFQ3SU6BTFU3SKZLTDMJAEBQQDINBAYLFMB2HE3T7OB3WE63XNADQEEY6DIIAMATBMFRXY/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
       "group_title": "BADMINTON"
@@ -143,15 +153,6 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
       "group_title": "BASKETBALL"
-    },
-    {
-      "event_time": "06:30PM",
-      "event_date": "10/09/25",
-      "event_title": "T20 World Cup, Asia-Eap Qualifier, Regional Final - Kuwait Vs Japan (10/09/25) [STREAM 32[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/A5TWAZIFFMTTYILSBAYCSHISOJDVSUI5OUJAK4AUE4STSOJDHMXDO5IRMBLFGWK7LZIT65IWFQ6CKOLQNBZAAMBOKBNUOFCGIMIHUMRFGEVXE3T7OBZXEYLPPEBREGI6CABAAADDMRRHC4TOP5YHOZLZOFXQQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
-      "group_title": "CRICKET"
     },
     {
       "event_time": "11:00PM",
@@ -318,6 +319,16 @@
       "group_title": "FOOTBALL"
     },
     {
+      "event_time": "12:30AM",
+      "event_date": "10/10/25",
+      "channel_name": "SD",
+      "event_title": "Uefa European U21 Championship Qualification - Scotland U21 Vs Gibraltar U21 (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSAEQCEKRCFYSDOELHAECRA42YKE7CKOJKHQ3T2OJVOI5DAOC5LNKV2U2RIRMTYO3QNBZBONR7GE7CUKZ5CFTQCBIQIZBRAFB4GI3TGKBBGE3XEHTXNAIRQGIUAEIBUGTTMZYG66DEMFQX22T7OJWBCGAZCQBQACAHMZTQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
       "event_time": "11:00PM",
       "event_date": "10/09/25",
       "channel_name": "VDO",
@@ -336,6 +347,16 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "12:45AM",
+      "event_date": "10/10/25",
+      "channel_name": "DAZN ES",
+      "event_title": "Ehf Champions League - Veszprem Vs Vive Tauron Kielce (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CYORMZIRFQ2D2NJ3EQVSUEL6KZKVORKVCB7HKBRAEE7CKIRAH5VTGKQRMRNEEVIQMRISMJZ7FNZA6PBVFEYS4ZLTDMJAEAQQDINBAYLFMB2HE3T7OB3WE63VMEBQOEY6DIIAMATBMZTXO/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hnb_active.webp",
+      "group_title": "HANDBALL"
     },
     {
       "event_time": "07:30PM",
@@ -371,16 +392,6 @@
       "channel_name": "SKA",
       "event_title": "Premier Padel 2025  - Milan P1 Day 4 Match 5 (10/10/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGYDQN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6WUZD7PJSWI6LXNUAQI/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "08:00PM",
-      "event_date": "10/09/25",
-      "channel_name": "SKA",
-      "event_title": "Premier Padel 2025  - Milan P1 Day 4 Match 4 (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGYLQN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6WKZD7PJSWI6LXNUAQO/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
@@ -440,6 +451,20 @@
         {
           "channel_name": "VDO",
           "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXSZS5LZIV4HAQOQ6CAMRJG43XK7LFDYRGKDSULRPFCWI7M5IT2MTQCE5SUMTQAI3WWMZKCFYFEWYQPRMRAGJ4HYRH2HR5GEVTK2YWGFCBE225KFPBAGTZOVQXO4TOP5YHOYT3OR4RWGATAYAAAAYCM5THA33YMRRWE53GPJZA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Arctic Open, Singles - Wang Tzu-Wei Vs Chou Tien-Chen (10/10/25)": {
+      "event_title": "Arctic Open, Singles - Wang Tzu-Wei Vs Chou Tien-Chen (10/10/25)",
+      "event_time": "12:40AM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXSYS3LVJVYVKDCB7HKBZEHQRXKBB7E5TDEPCYCJCUOEDTLBPSM5IEFQ3SU6BTFU3SKZLTDMJAEBQQDINBAYLFMB2HE3T7OB3WE63XNADQEEY6DIIAMATBMFRXY/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
           "duration": null
         }
@@ -609,20 +634,6 @@
           "channel_name": "SD",
           "url": "https://world-proxifier.xyz/rbtv/p/AUAREZIHFI6CIIBWNMETYUCVIZIRAHIQOIIHKHRMFAWDWKLFDQSDGPS6IBOFAECGIMIB4FYRMUPSWJRTFISWW33TCEABGHQ2CABRA6L7OB3WE5DFMV6GU23POMIQABAGAUAAM/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "T20 World Cup, Asia-Eap Qualifier, Regional Final - Kuwait Vs Japan (10/09/25) [STREAM 32[HD]]": {
-      "event_title": "T20 World Cup, Asia-Eap Qualifier, Regional Final - Kuwait Vs Japan (10/09/25) [STREAM 32[HD]]",
-      "event_time": "06:30PM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/A5TWAZIFFMTTYILSBAYCSHISOJDVSUI5OUJAK4AUE4STSOJDHMXDO5IRMBLFGWK7LZIT65IWFQ6CKOLQNBZAAMBOKBNUOFCGIMIHUMRFGEVXE3T7OBZXEYLPPEBREGI6CABAAADDMRRHC4TOP5YHOZLZOFXQQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
           "duration": null
         }
       ]
@@ -817,6 +828,20 @@
         }
       ]
     },
+    "Uefa European U21 Championship Qualification - Scotland U21 Vs Gibraltar U21 (10/10/25)": {
+      "event_title": "Uefa European U21 Championship Qualification - Scotland U21 Vs Gibraltar U21 (10/10/25)",
+      "event_time": "12:30AM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSAEQCEKRCFYSDOELHAECRA42YKE7CKOJKHQ3T2OJVOI5DAOC5LNKV2U2RIRMTYO3QNBZBONR7GE7CUKZ5CFTQCBIQIZBRAFB4GI3TGKBBGE3XEHTXNAIRQGIUAEIBUGTTMZYG66DEMFQX22T7OJWBCGAZCQBQACAHMZTQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
     "Iwf World Championship - Putri 86 Kg - Grup A (10/09/25)": {
       "event_title": "Iwf World Championship - Putri 86 Kg - Grup A (10/09/25)",
       "event_time": "11:00PM",
@@ -841,6 +866,20 @@
           "channel_name": "SD",
           "url": "https://world-proxifier.xyz/rbtv/p/DE5CEIJTFJ2QGLLSBAYCSEI7CN2VYEDWKE5CMMJJFNSCGI3FCMTWQE2QJBLFCQSRCANHS5LBMV4G45LDMV4GCZLNAMCAWDIIAMIBU6LVMN2WU43GMQ/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Ehf Champions League - Veszprem Vs Vive Tauron Kielce (10/10/25)": {
+      "event_title": "Ehf Champions League - Veszprem Vs Vive Tauron Kielce (10/10/25)",
+      "event_time": "12:45AM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "DAZN ES",
+          "url": "https://world-proxifier.xyz/rbtv/p/CYORMZIRFQ2D2NJ3EQVSUEL6KZKVORKVCB7HKBRAEE7CKIRAH5VTGKQRMRNEEVIQMRISMJZ7FNZA6PBVFEYS4ZLTDMJAEAQQDINBAYLFMB2HE3T7OB3WE63VMEBQOEY6DIIAMATBMZTXO/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hnb_active.webp",
           "duration": null
         }
       ]
@@ -888,20 +927,6 @@
         {
           "channel_name": "SKA",
           "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGYDQN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6WUZD7PJSWI6LXNUAQI/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Premier Padel 2025  - Milan P1 Day 4 Match 4 (10/09/25)": {
-      "event_title": "Premier Padel 2025  - Milan P1 Day 4 Match 4 (10/09/25)",
-      "event_time": "08:00PM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SKA",
-          "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARAYJVSUKEKNMHGYLQN54GIZTQN54GW53JAEBRGHQ2CABAAY3GMJ6WKZD7PJSWI6LXNUAQO/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
