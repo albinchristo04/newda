@@ -1,4 +1,4 @@
-Extracted at: 2025-10-09T04:19:01.601449
+Extracted at: 2025-10-09T04:41:37.070194
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -18,12 +18,9 @@ EVENT: National Basketball Association - Golden State Warriors Vs Portland Trail
 Time: 10:00AM
 Date: 10/09/25
 Category: None
-Available Channels (2):
+Available Channels (1):
   1. HDD A
      URL: https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LWLVPVAVK6CBRSONBEEBZBGNBCG45SINZKCFCEAFDAL5BEIPZUHYQXEEBHGEWD42YHGVIEQVSGIMIBUGTTM5YG66DEMNYG66DLORQAQCYKBQERAGQ2ONTWO53GOVTQ/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
-  2. SD
-     URL: https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LWLVPVAVK6CBRSONBEEBZBGNBCG45SINZKCFCEAFDAL5BEIPZUHYQXEEBHGEWD42YHGVIEQVSGIMIBUGTTM5YG66DEMZYG66DLORQAQCYKBQERAGQ2ONTWO53GOVSA/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
 
 ================================================================================
@@ -65,15 +62,12 @@ EVENT: United States Major League Soccer - Los Angeles Fc Vs Toronto Fc (10/09/2
 Time: 10:30AM
 Date: 10/09/25
 Category: None
-Available Channels (3):
+Available Channels (2):
   1. HDD A
      URL: https://world-proxifier.xyz/rbtv/p/AY5TSMJXEB2QGMJTH4QCUEL7KJPF6QQQPQ3DINZQG5SAMPZGGEXDO6I4CJ7VWQYQOFPDIMB4EAQWIEYTMUSDQZINLZAFYWSEL4IHMEDVPJXXE5LVPJXXE7LFOMNREBYGBEDQABLFOV5G64TXMVUHEY3Y/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
   2. HDD B ESPAÑOL
      URL: https://world-proxifier.xyz/rbtv/p/AY5TSMJXEB2QGMJTH4QCUEL7KJPF6QQQPQ3DINZQG5SAMPZGGEXDO6I4CJ7VWQYQOFPDIMB4EAQWIEYTMUSDQZINLZAFYWSEL4IHMEDVPJXXE5LVPJXXE7LFOMNREBYGBEDQABLFOV5G64TXMVUHEY37/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-  3. SD
-     URL: https://world-proxifier.xyz/rbtv/p/AY5TSMJXEB2QGMJTH4QCUEL7KJPF6QQQPQ3DINZQG5SAMPZGGEXDO6I4CJ7VWQYQOFPDIMB4EAQWIEYTMUSDQZINLZAFYWSEL4IHMEDVPJXXE5LVPJXXE6DFOMNREBYGBEDQABLFOV5G64TXMVUHEY3Z/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
 ================================================================================
@@ -176,6 +170,17 @@ Category: None
 Available Channels (1):
   1. None
      URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKHC2KNDVCQSZLZIXGFB4EAVCKOZUG46T2JDZI5ARG7SVINBVSMBUOAKTOIZAHQSHEYLPPEBBEGI6CABBAGTZOVRHKYTWMRQHK4TBN54QGBIBAABQC/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Atp Shanghai, China Men Double - Gonzalez S / Pel D Vs Kevin Krawietz/Tim Puetz (10/09/25)
+Time: 12:30PM
+Date: 10/09/25
+Category: None
+Available Channels (1):
+  1. HDD B
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKHS6LREVKXCVJIIAA5L7MUBCCOLQAFZD2NTZPJLUKXK6CB5UEMRCHEQCMPT2AQWD62YVFRKEMSIUDINBAA3TP55GKZDEP55GKYD3OVUQCAADCQNBUEACMRTWI5TK/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
 
 ================================================================================

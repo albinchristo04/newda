@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-09T04:19:01.601449
+Extraction Time: 2025-10-09T04:41:37.070194
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 15
-- Total Channels: 19
+- Unique Events: 16
+- Total Channels: 18
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -15,7 +15,7 @@ EVENT BREAKDOWN:
 - Pga Tour 2025 - Baycurrent Classic 2025 Tournament Held At Y...
   Time: 11:00AM, Channels: 1
 - National Basketball Association - Golden State Warriors Vs P...
-  Time: 10:00AM, Channels: 2
+  Time: 10:00AM, Channels: 1
 - National Basketball Association - Golden State Warriors Vs P...
   Time: 10:00AM, Channels: 1
 - National Basketball Association - Sacramento Kings Vs Toront...
@@ -23,7 +23,7 @@ EVENT BREAKDOWN:
 - National Basketball Association - Sacramento Kings Vs Toront...
   Time: 10:00AM, Channels: 1
 - United States Major League Soccer - Los Angeles Fc Vs Toront...
-  Time: 10:30AM, Channels: 3
+  Time: 10:30AM, Channels: 2
 - United States Major League Soccer - Los Angeles Fc Vs Toront...
   Time: 10:30AM, Channels: 1
 - National Hockey League - Edmonton Oilers Vs Calgary Flames (...
@@ -42,3 +42,5 @@ EVENT BREAKDOWN:
   Time: 11:00AM, Channels: 1
 - Wta Wuhan, China Women Singles - Ekaterina Alexandrova Vs Je...
   Time: 11:00AM, Channels: 1
+- Atp Shanghai, China Men Double - Gonzalez S / Pel D Vs Kevin...
+  Time: 12:30PM, Channels: 1

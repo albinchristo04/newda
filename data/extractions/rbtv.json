@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-09T04:19:01.601449",
+  "timestamp": "2025-10-09T04:41:37.070194",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -29,16 +29,6 @@
       "event_date": "10/09/25",
       "event_title": "National Basketball Association - Golden State Warriors Vs Portland Trail Blazers (10/09/25) [STREAM 15[HD]]",
       "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LWLVPVAVK6CBRSONBEEBZBGNBCG45SINZKCFCEAFDAL5BEIPZUHYQXEEBHGEWD42YHGVIEQVSGIMIBUGTTM5YG66DEM5YG66DLORQAQCYKBQERAGQ2ONTWO53GOVRA/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
-    },
-    {
-      "event_time": "10:00AM",
-      "event_date": "10/09/25",
-      "channel_name": "SD",
-      "event_title": "National Basketball Association - Golden State Warriors Vs Portland Trail Blazers (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LWLVPVAVK6CBRSONBEEBZBGNBCG45SINZKCFCEAFDAL5BEIPZUHYQXEEBHGEWD42YHGVIEQVSGIMIBUGTTM5YG66DEMZYG66DLORQAQCYKBQERAGQ2ONTWO53GOVSA/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
       "group_title": "BASKETBALL"
@@ -87,16 +77,6 @@
       "event_date": "10/09/25",
       "event_title": "United States Major League Soccer - Los Angeles Fc Vs Toronto Fc (10/09/25) [STREAM 6[HD]]",
       "url": "https://world-proxifier.xyz/rbtv/p/AY5TSMJXEB2QGMJTH4QCUEL7KJPF6QQQPQ3DINZQG5SAMPZGGEXDO6I4CJ7VWQYQOFPDIMB4EAQWIEYTMUSDQZINLZAFYWSEL4IHMEDVPJXXE5LVPJXXE6LFOMNREBYGBEDQABLFOV5G64TXMVUHEY35/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "10:30AM",
-      "event_date": "10/09/25",
-      "channel_name": "SD",
-      "event_title": "United States Major League Soccer - Los Angeles Fc Vs Toronto Fc (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AY5TSMJXEB2QGMJTH4QCUEL7KJPF6QQQPQ3DINZQG5SAMPZGGEXDO6I4CJ7VWQYQOFPDIMB4EAQWIEYTMUSDQZINLZAFYWSEL4IHMEDVPJXXE5LVPJXXE6DFOMNREBYGBEDQABLFOV5G64TXMVUHEY3Z/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
@@ -185,6 +165,16 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
+    },
+    {
+      "event_time": "12:30PM",
+      "event_date": "10/09/25",
+      "channel_name": "HDD B",
+      "event_title": "Atp Shanghai, China Men Double - Gonzalez S / Pel D Vs Kevin Krawietz/Tim Puetz (10/09/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKHS6LREVKXCVJIIAA5L7MUBCCOLQAFZD2NTZPJLUKXK6CB5UEMRCHEQCMPT2AQWD62YVFRKEMSIUDINBAA3TP55GKZDEP55GKYD3OVUQCAADCQNBUEACMRTWI5TK/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
     }
   ],
   "grouped_events": {
@@ -211,12 +201,6 @@
         {
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LWLVPVAVK6CBRSONBEEBZBGNBCG45SINZKCFCEAFDAL5BEIPZUHYQXEEBHGEWD42YHGVIEQVSGIMIBUGTTM5YG66DEMNYG66DLORQAQCYKBQERAGQ2ONTWO53GOVTQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LWLVPVAVK6CBRSONBEEBZBGNBCG45SINZKCFCEAFDAL5BEIPZUHYQXEEBHGEWD42YHGVIEQVSGIMIBUGTTM5YG66DEMZYG66DLORQAQCYKBQERAGQ2ONTWO53GOVSA/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
           "duration": null
         }
@@ -279,12 +263,6 @@
         {
           "channel_name": "HDD B ESPA\u00d1OL",
           "url": "https://world-proxifier.xyz/rbtv/p/AY5TSMJXEB2QGMJTH4QCUEL7KJPF6QQQPQ3DINZQG5SAMPZGGEXDO6I4CJ7VWQYQOFPDIMB4EAQWIEYTMUSDQZINLZAFYWSEL4IHMEDVPJXXE5LVPJXXE7LFOMNREBYGBEDQABLFOV5G64TXMVUHEY37/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AY5TSMJXEB2QGMJTH4QCUEL7KJPF6QQQPQ3DINZQG5SAMPZGGEXDO6I4CJ7VWQYQOFPDIMB4EAQWIEYTMUSDQZINLZAFYWSEL4IHMEDVPJXXE5LVPJXXE6DFOMNREBYGBEDQABLFOV5G64TXMVUHEY3Z/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }
@@ -417,6 +395,20 @@
         {
           "channel_name": null,
           "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKHC2KNDVCQSZLZIXGFB4EAVCKOZUG46T2JDZI5ARG7SVINBVSMBUOAKTOIZAHQSHEYLPPEBBEGI6CABBAGTZOVRHKYTWMRQHK4TBN54QGBIBAABQC/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Atp Shanghai, China Men Double - Gonzalez S / Pel D Vs Kevin Krawietz/Tim Puetz (10/09/25)": {
+      "event_title": "Atp Shanghai, China Men Double - Gonzalez S / Pel D Vs Kevin Krawietz/Tim Puetz (10/09/25)",
+      "event_time": "12:30PM",
+      "event_date": "10/09/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD B",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4ABHUYTOPBAOJTGKHS6LREVKXCVJIIAA5L7MUBCCOLQAFZD2NTZPJLUKXK6CB5UEMRCHEQCMPT2AQWD62YVFRKEMSIUDINBAA3TP55GKZDEP55GKYD3OVUQCAADCQNBUEACMRTWI5TK/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
