@@ -1,12 +1,12 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Thu Oct  9 14:56:47 UTC 2025
+Last updated: Thu Oct  9 15:18:52 UTC 2025
 
-Workflow run: #1133
+Workflow run: #1134
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-10-09T14:56:47.089403
+Extracted at: 2025-10-09T15:18:50.961694
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -22,8 +22,8 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: Golf Dp World Tour - Open De España Presented By Madrid. Jornada 1 (10/09/25)
-Time: 08:00PM
+EVENT: Arctic Open, Doubles - Lee Jhe-Huei/Yang Po-Hsuan Vs Liu Kuang Heng/Yang Po Han (10/09/25)
+Time: 11:14PM
 Date: 10/09/25
 Category: None
 ```
