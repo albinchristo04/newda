@@ -1,12 +1,12 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Thu Oct  9 06:49:23 UTC 2025
+Last updated: Thu Oct  9 07:15:18 UTC 2025
 
-Workflow run: #1113
+Workflow run: #1114
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-10-09T06:49:22.714975
+Extracted at: 2025-10-09T07:15:17.249489
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -22,8 +22,8 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: China Women'S National Championship Basketball - Hefei Culture And Tourism Women’S Vs Heilongjiang Daqing Nongshang Bank Women (10/09/25)
-Time: 02:30PM
+EVENT: Arctic Open, Mixed Doubles - Jiang Zhenbang/Wei Yaxin Vs Ye H W / Chan N G (10/09/25)
+Time: 03:00PM
 Date: 10/09/25
 Category: None
 ```

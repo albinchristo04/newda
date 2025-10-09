@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-09T06:49:22.714975
+Extraction Time: 2025-10-09T07:15:17.249489
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 8
-- Total Channels: 10
+- Unique Events: 12
+- Total Channels: 15
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -14,6 +14,10 @@ STATISTICS:
 EVENT BREAKDOWN:
 - Pga Tour 2025 - Baycurrent Classic 2025 Tournament Held At Y...
   Time: 11:00AM, Channels: 1
+- Arctic Open, Mixed Doubles - Jiang Zhenbang/Wei Yaxin Vs Ye ...
+  Time: 03:00PM, Channels: 1
+- Arctic Open, Mixed Doubles - Kral O / Svabikova T Vs Puavara...
+  Time: 03:10PM, Channels: 1
 - China Women'S National Championship Basketball - Hefei Cultu...
   Time: 02:30PM, Channels: 1
 - T20 World Cup, Asia-Eap Qualifier, Regional Final - Malaysia...
@@ -22,9 +26,13 @@ EVENT BREAKDOWN:
   Time: 04:30AM, Channels: 1
 - Pga Tour - Es2, Japan Championship | Day 1 (10/09/25) [STREA...
   Time: 11:00AM, Channels: 2
-- Wta Wuhan, China Women Singles - Aryna Sabalenka Vs Liudmila...
-  Time: 01:30PM, Channels: 2
-- Wta Wuhan, China Women Singles - Aryna Sabalenka Vs Liudmila...
-  Time: 01:30PM, Channels: 1
 - Wta Wuhan, China Women Singles - Laura Siegemund Vs Magdalen...
   Time: 02:30PM, Channels: 1
+- Atp Shanghai, China Men Singles - Holger Rune Vs Valentin Va...
+  Time: 03:00PM, Channels: 3
+- Atp Shanghai, China Men Singles - Holger Rune Vs Valentin Va...
+  Time: 03:00PM, Channels: 1
+- Atp Shanghai, China Men Singles - Holger Rune Vs Valentin Va...
+  Time: 03:00PM, Channels: 1
+- Wta Wuhan, China Women Singles - Jasmine Paolini Vs Clara Ta...
+  Time: 03:00PM, Channels: 1
