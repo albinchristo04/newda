@@ -1,19 +1,9 @@
 {
-  "timestamp": "2025-10-09T10:42:26.161516",
+  "timestamp": "2025-10-09T10:51:08.966316",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
   "events": [
-    {
-      "event_time": "06:00PM",
-      "event_date": "10/09/25",
-      "channel_name": "VDO",
-      "event_title": "Arctic Open, Singles - Kodai Naraoka Vs Lee Chia-Hao (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXSYS3LVJVYVKDCB7HKGZKGYSTY4ALGM4SINS2KMJUEQYQPRKTM5ITFU5SK6BYEQ6WW33TCEBQCFA2DIIAEY3FMFSXQ3TVMJ2WE6LUNUEREGI6CADAEATHMZQQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-      "group_title": "BADMINTON"
-    },
     {
       "event_time": "06:10PM",
       "event_date": "10/09/25",
@@ -136,6 +126,16 @@
     {
       "event_time": "06:30PM",
       "event_date": "10/09/25",
+      "channel_name": "HDD B",
+      "event_title": "Atp Shanghai, China Men Singles - Zizou Bergs Vs Novak Djokovic (10/09/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LLLNEVWRIQOJKSCMRDMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWI23POMIQGCQNBEBASBDTP55GKYDTM5SHG2Q/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "06:30PM",
+      "event_date": "10/09/25",
       "channel_name": "HDD A",
       "event_title": "Atp Shanghai, China Men Singles - Zizou Bergs Vs Novak Djokovic (10/09/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LLLNEVWRIQOJKSCMRDMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWI23POMIQGCQNBEBASBDTP55GKYDTM5SHEYA/index.m3u8",
@@ -172,7 +172,7 @@
       "group_title": "TENNIS"
     },
     {
-      "event_time": "06:50PM",
+      "event_time": "07:00PM",
       "event_date": "10/09/25",
       "channel_name": "MOVISTAR2",
       "event_title": "Wta 125K Mallorca, Spain Women Doubles - Noha Akugue N / Thamm M Vs Mayar Sherif/Tamara Zidansek (10/09/25)",
@@ -193,20 +193,6 @@
     }
   ],
   "grouped_events": {
-    "Arctic Open, Singles - Kodai Naraoka Vs Lee Chia-Hao (10/09/25)": {
-      "event_title": "Arctic Open, Singles - Kodai Naraoka Vs Lee Chia-Hao (10/09/25)",
-      "event_time": "06:00PM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXSYS3LVJVYVKDCB7HKGZKGYSTY4ALGM4SINS2KMJUEQYQPRKTM5ITFU5SK6BYEQ6WW33TCEBQCFA2DIIAEY3FMFSXQ3TVMJ2WE6LUNUEREGI6CADAEATHMZQQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "Arctic Open, Singles - Kunlavut Vitidsarn Vs Yushi Tanaka (10/09/25)": {
       "event_title": "Arctic Open, Singles - Kunlavut Vitidsarn Vs Yushi Tanaka (10/09/25)",
       "event_time": "06:10PM",
@@ -366,6 +352,12 @@
           "duration": null
         },
         {
+          "channel_name": "HDD B",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LLLNEVWRIQOJKSCMRDMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWI23POMIQGCQNBEBASBDTP55GKYDTM5SHG2Q/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LLLNEVWRIQOJKSCMRDMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWI23POMIQGCQNBEBASBDTP55GKYDTM5SHEYA/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
@@ -417,7 +409,7 @@
     },
     "Wta 125K Mallorca, Spain Women Doubles - Noha Akugue N / Thamm M Vs Mayar Sherif/Tamara Zidansek (10/09/25)": {
       "event_title": "Wta 125K Mallorca, Spain Women Doubles - Noha Akugue N / Thamm M Vs Mayar Sherif/Tamara Zidansek (10/09/25)",
-      "event_time": "06:50PM",
+      "event_time": "07:00PM",
       "event_date": "10/09/25",
       "category": null,
       "channels": [

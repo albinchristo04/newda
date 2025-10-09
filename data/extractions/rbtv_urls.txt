@@ -1,18 +1,7 @@
-Extracted at: 2025-10-09T10:42:26.161516
+Extracted at: 2025-10-09T10:51:08.966316
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
-
-EVENT: Arctic Open, Singles - Kodai Naraoka Vs Lee Chia-Hao (10/09/25)
-Time: 06:00PM
-Date: 10/09/25
-Category: None
-Available Channels (1):
-  1. VDO
-     URL: https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXSYS3LVJVYVKDCB7HKGZKGYSTY4ALGM4SINS2KMJUEQYQPRKTM5ITFU5SK6BYEQ6WW33TCEBQCFA2DIIAEY3FMFSXQ3TVMJ2WE6LUNUEREGI6CADAEATHMZQQ/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp
-
-================================================================================
 
 EVENT: Arctic Open, Singles - Kunlavut Vitidsarn Vs Yushi Tanaka (10/09/25)
 Time: 06:10PM
@@ -128,14 +117,17 @@ EVENT: Atp Shanghai, China Men Singles - Zizou Bergs Vs Novak Djokovic (10/09/25
 Time: 06:30PM
 Date: 10/09/25
 Category: None
-Available Channels (3):
+Available Channels (4):
   1. SKA
      URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LLLNEVWRIQOJKSCMRDMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCLBNRSGK6DOOVTHOYDYPRXQ/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
   2. MOVISTAR
      URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LLLNEVWRIQOJKSCMRDMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWA63VNAIRQGIUAEEQSCLBNRSGK6DOOVTHOYDYPRQQ/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
-  3. HDD A
+  3. HDD B
+     URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LLLNEVWRIQOJKSCMRDMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWI23POMIQGCQNBEBASBDTP55GKYDTM5SHG2Q/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+  4. HDD A
      URL: https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LLLNEVWRIQOJKSCMRDMUSDO5I6FISCULTZOVMFYX27IZMVG437PJSWCZD7PJSWI23POMIQGCQNBEBASBDTP55GKYDTM5SHEYA/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
 
@@ -175,7 +167,7 @@ Available Channels (1):
 ================================================================================
 
 EVENT: Wta 125K Mallorca, Spain Women Doubles - Noha Akugue N / Thamm M Vs Mayar Sherif/Tamara Zidansek (10/09/25)
-Time: 06:50PM
+Time: 07:00PM
 Date: 10/09/25
 Category: None
 Available Channels (1):
