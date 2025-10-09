@@ -1,4 +1,4 @@
-Extracted at: 2025-10-09T23:27:57.037229
+Extracted at: 2025-10-09T23:38:08.987514
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -73,9 +73,12 @@ EVENT: National Basketball Association - New York Knicks Vs Minnesota Timberwolv
 Time: 07:30AM
 Date: 10/10/25
 Category: None
-Available Channels (1):
-  1. HDD C
-     URL: https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L7K5CBI2K7IJNXGHR6FQYS6JTQGMQWWCBQL5OFMR27IRIRABZ4HUTTONRCH4USILRWPENRQEYGCANBUEDFOV5G64TWMVQHKZDZOZ4RWGATAYDQEBIIMM/index.m3u8
+Available Channels (2):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L7K5CBI2K7IJNXGHR6FQYS6JTQGMQWWCBQL5OFMR27IRIRABZ4HUTTONRCH4USILRWPENRQEYGCANBUEDFOV5G64TWMVQHKZDZOZ4RWGATAYDQEBIJMI/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
+  2. SD
+     URL: https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L7K5CBI2K7IJNXGHR6FQYS6JTQGMQWWCBQL5OFMR27IRIRABZ4HUTTONRCH4USILRWPENRQEYGCANBUEDAOV5G64TWMVQHKZDZOZ4RWGATAYDQEBIHMU/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp
 
 ================================================================================
@@ -167,6 +170,17 @@ Category: None
 Available Channels (1):
   1. None
      URL: https://world-proxifier.xyz/rbtv/p/CA2D4JBWFU2D4ZICHEQDIWCXIEKHYVKRK4TDA4DIOIOTUIROOIPCWMCFK5LRI5TTCBDCA5IAEQYS2MZZEZZA2BTZDMMBGBIQDINBAYLVPJXXE4DEMZ3GI6L4PENRQEYHAAEAQBLD/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Chi Liga De Primera - Univ Catolica Vs Nublense (10/10/25)
+Time: 07:30AM
+Date: 10/10/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/CAORSZI6FUZDCZJWFZSQSQ23LZIUEUIQDVZQAPRMERSBMMJRHUTSYOSQCJCUOED6IVJD6MB6GY3WI732MVRWW33TCEARGHQ2CACACYLBMJ6GOZD7PJSWC635MECQU/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
 ================================================================================
@@ -299,6 +313,17 @@ Category: None
 Available Channels (1):
   1. None
      URL: https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFAYSTQIBEOIESIIARPZNFGWCELZMT2MTQGMQWIGREGEZTYJDZMJLV2VKEL5BEG437PJSWG5LVPJXXE6LFOMNREAIEAAAAOBDBOV5G64TWMJRHAZ32/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp
+
+================================================================================
+
+EVENT: National Hockey League - Carolina Hurricanes Vs New Jersey Devils (10/10/25)
+Time: 07:30AM
+Date: 10/10/25
+Category: None
+Available Channels (1):
+  1. HDD A
+     URL: https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFCESSOPZJHMSSI6LZI5AUMWKTKFPDMJTQGMQWIGZVGJZACIBLIJLUUFDUKVDFSPZGOBXXQZDEMFSXQYLFN4IRQGIUAIAAAADEMFUWK6DOOVRHEYD6PVXQ/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp
 
 ================================================================================

@@ -90,8 +90,14 @@
     "category": null,
     "channels": [
       {
-        "channel_name": "HDD C",
-        "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L7K5CBI2K7IJNXGHR6FQYS6JTQGMQWWCBQL5OFMR27IRIRABZ4HUTTONRCH4USILRWPENRQEYGCANBUEDFOV5G64TWMVQHKZDZOZ4RWGATAYDQEBIIMM/index.m3u8",
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L7K5CBI2K7IJNXGHR6FQYS6JTQGMQWWCBQL5OFMR27IRIRABZ4HUTTONRCH4USILRWPENRQEYGCANBUEDFOV5G64TWMVQHKZDZOZ4RWGATAYDQEBIJMI/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+        "duration": null
+      },
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L7K5CBI2K7IJNXGHR6FQYS6JTQGMQWWCBQL5OFMR27IRIRABZ4HUTTONRCH4USILRWPENRQEYGCANBUEDAOV5G64TWMVQHKZDZOZ4RWGATAYDQEBIHMU/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
         "duration": null
       }
@@ -210,6 +216,20 @@
       {
         "channel_name": null,
         "url": "https://world-proxifier.xyz/rbtv/p/CA2D4JBWFU2D4ZICHEQDIWCXIEKHYVKRK4TDA4DIOIOTUIROOIPCWMCFK5LRI5TTCBDCA5IAEQYS2MZZEZZA2BTZDMMBGBIQDINBAYLVPJXXE4DEMZ3GI6L4PENRQEYHAAEAQBLD/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Chi Liga De Primera - Univ Catolica Vs Nublense (10/10/25)": {
+    "event_title": "Chi Liga De Primera - Univ Catolica Vs Nublense (10/10/25)",
+    "event_time": "07:30AM",
+    "event_date": "10/10/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/CAORSZI6FUZDCZJWFZSQSQ23LZIUEUIQDVZQAPRMERSBMMJRHUTSYOSQCJCUOED6IVJD6MB6GY3WI732MVRWW33TCEARGHQ2CACACYLBMJ6GOZD7PJSWC635MECQU/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
         "duration": null
       }
@@ -378,6 +398,20 @@
       {
         "channel_name": null,
         "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFAYSTQIBEOIESIIARPZNFGWCELZMT2MTQGMQWIGREGEZTYJDZMJLV2VKEL5BEG437PJSWG5LVPJXXE6LFOMNREAIEAAAAOBDBOV5G64TWMJRHAZ32/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "National Hockey League - Carolina Hurricanes Vs New Jersey Devils (10/10/25)": {
+    "event_title": "National Hockey League - Carolina Hurricanes Vs New Jersey Devils (10/10/25)",
+    "event_time": "07:30AM",
+    "event_date": "10/10/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFCESSOPZJHMSSI6LZI5AUMWKTKFPDMJTQGMQWIGZVGJZACIBLIJLUUFDUKVDFSPZGOBXXQZDEMFSXQYLFN4IRQGIUAIAAAADEMFUWK6DOOVRHEYD6PVXQ/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
         "duration": null
       }

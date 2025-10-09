@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-09T23:27:57.037229
+Extraction Time: 2025-10-09T23:38:08.987514
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 31
-- Total Channels: 32
+- Unique Events: 33
+- Total Channels: 35
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -25,7 +25,7 @@ EVENT BREAKDOWN:
 - Chile Liga Nacional Basketball - Colegio Los Leones Vs Unive...
   Time: 07:00AM, Channels: 1
 - National Basketball Association - New York Knicks Vs Minneso...
-  Time: 07:30AM, Channels: 1
+  Time: 07:30AM, Channels: 2
 - National Basketball Association - New York Knicks Vs Minneso...
   Time: 07:30AM, Channels: 1
 - Argentine Reserve League - Atletico Tucuman Reserve Vs San L...
@@ -42,6 +42,8 @@ EVENT BREAKDOWN:
   Time: 07:30AM, Channels: 1
 - Canadian Premier League - York United Fc Vs Pacific Fc (10/1...
   Time: 07:30AM, Channels: 1
+- Chi Liga De Primera - Univ Catolica Vs Nublense (10/10/25)
+  Time: 07:30AM, Channels: 1
 - National Hockey League - Boston Bruins Vs Chicago Blackhawks...
   Time: 07:00AM, Channels: 1
 - National Hockey League - Boston Bruins Vs Chicago Blackhawks...
@@ -66,6 +68,8 @@ EVENT BREAKDOWN:
   Time: 07:00AM, Channels: 1
 - National Hockey League - Tampa Bay Lightning Vs Ottawa Senat...
   Time: 07:00AM, Channels: 1
+- National Hockey League - Carolina Hurricanes Vs New Jersey D...
+  Time: 07:30AM, Channels: 1
 - National Hockey League - Carolina Hurricanes Vs New Jersey D...
   Time: 07:30AM, Channels: 1
 - Fia European Truck Racing Championship - Supercars (10/10/25...

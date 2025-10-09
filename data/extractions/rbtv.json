@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-09T23:27:57.037229",
+  "timestamp": "2025-10-09T23:38:08.987514",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -66,9 +66,9 @@
     {
       "event_time": "07:30AM",
       "event_date": "10/10/25",
-      "channel_name": "HDD C",
+      "channel_name": "HDD A",
       "event_title": "National Basketball Association - New York Knicks Vs Minnesota Timberwolves (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L7K5CBI2K7IJNXGHR6FQYS6JTQGMQWWCBQL5OFMR27IRIRABZ4HUTTONRCH4USILRWPENRQEYGCANBUEDFOV5G64TWMVQHKZDZOZ4RWGATAYDQEBIIMM/index.m3u8",
+      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L7K5CBI2K7IJNXGHR6FQYS6JTQGMQWWCBQL5OFMR27IRIRABZ4HUTTONRCH4USILRWPENRQEYGCANBUEDFOV5G64TWMVQHKZDZOZ4RWGATAYDQEBIJMI/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
       "group_title": "BASKETBALL"
@@ -78,6 +78,16 @@
       "event_date": "10/10/25",
       "event_title": "National Basketball Association - New York Knicks Vs Minnesota Timberwolves (10/10/25) [STREAM 22[HD]]",
       "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L7K5CBI2K7IJNXGHR6FQYS6JTQGMQWWCBQL5OFMR27IRIRABZ4HUTTONRCH4USILRWPENRQEYGCANBUEDBOV5G64TWMVQHKZDZOZ4RWGATAYDQEBIIME/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL"
+    },
+    {
+      "event_time": "07:30AM",
+      "event_date": "10/10/25",
+      "channel_name": "SD",
+      "event_title": "National Basketball Association - New York Knicks Vs Minnesota Timberwolves (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L7K5CBI2K7IJNXGHR6FQYS6JTQGMQWWCBQL5OFMR27IRIRABZ4HUTTONRCH4USILRWPENRQEYGCANBUEDAOV5G64TWMVQHKZDZOZ4RWGATAYDQEBIHMU/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
       "group_title": "BASKETBALL"
@@ -156,6 +166,16 @@
       "event_date": "10/10/25",
       "event_title": "Canadian Premier League - York United Fc Vs Pacific Fc (10/10/25) [STREAM 40[HD]]",
       "url": "https://world-proxifier.xyz/rbtv/p/CA2D4JBWFU2D4ZICHEQDIWCXIEKHYVKRK4TDA4DIOIOTUIROOIPCWMCFK5LRI5TTCBDCA5IAEQYS2MZZEZZA2BTZDMMBGBIQDINBAYLVPJXXE4DEMZ3GI6L4PENRQEYHAAEAQBLD/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "07:30AM",
+      "event_date": "10/10/25",
+      "channel_name": "SD",
+      "event_title": "Chi Liga De Primera - Univ Catolica Vs Nublense (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CAORSZI6FUZDCZJWFZSQSQ23LZIUEUIQDVZQAPRMERSBMMJRHUTSYOSQCJCUOED6IVJD6MB6GY3WI732MVRWW33TCEARGHQ2CACACYLBMJ6GOZD7PJSWC635MECQU/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
@@ -270,6 +290,16 @@
       "event_date": "10/10/25",
       "event_title": "National Hockey League - Tampa Bay Lightning Vs Ottawa Senators (10/10/25) [STREAM 9[HD]]",
       "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFAYSTQIBEOIESIIARPZNFGWCELZMT2MTQGMQWIGREGEZTYJDZMJLV2VKEL5BEG437PJSWG5LVPJXXE6LFOMNREAIEAAAAOBDBOV5G64TWMJRHAZ32/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+      "group_title": "HOCKEY"
+    },
+    {
+      "event_time": "07:30AM",
+      "event_date": "10/10/25",
+      "channel_name": "HDD A",
+      "event_title": "National Hockey League - Carolina Hurricanes Vs New Jersey Devils (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFCESSOPZJHMSSI6LZI5AUMWKTKFPDMJTQGMQWIGZVGJZACIBLIJLUUFDUKVDFSPZGOBXXQZDEMFSXQYLFN4IRQGIUAIAAAADEMFUWK6DOOVRHEYD6PVXQ/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
       "group_title": "HOCKEY"
@@ -406,8 +436,14 @@
       "category": null,
       "channels": [
         {
-          "channel_name": "HDD C",
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L7K5CBI2K7IJNXGHR6FQYS6JTQGMQWWCBQL5OFMR27IRIRABZ4HUTTONRCH4USILRWPENRQEYGCANBUEDFOV5G64TWMVQHKZDZOZ4RWGATAYDQEBIIMM/index.m3u8",
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L7K5CBI2K7IJNXGHR6FQYS6JTQGMQWWCBQL5OFMR27IRIRABZ4HUTTONRCH4USILRWPENRQEYGCANBUEDFOV5G64TWMVQHKZDZOZ4RWGATAYDQEBIJMI/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L7K5CBI2K7IJNXGHR6FQYS6JTQGMQWWCBQL5OFMR27IRIRABZ4HUTTONRCH4USILRWPENRQEYGCANBUEDAOV5G64TWMVQHKZDZOZ4RWGATAYDQEBIHMU/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
           "duration": null
         }
@@ -526,6 +562,20 @@
         {
           "channel_name": null,
           "url": "https://world-proxifier.xyz/rbtv/p/CA2D4JBWFU2D4ZICHEQDIWCXIEKHYVKRK4TDA4DIOIOTUIROOIPCWMCFK5LRI5TTCBDCA5IAEQYS2MZZEZZA2BTZDMMBGBIQDINBAYLVPJXXE4DEMZ3GI6L4PENRQEYHAAEAQBLD/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Chi Liga De Primera - Univ Catolica Vs Nublense (10/10/25)": {
+      "event_title": "Chi Liga De Primera - Univ Catolica Vs Nublense (10/10/25)",
+      "event_time": "07:30AM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CAORSZI6FUZDCZJWFZSQSQ23LZIUEUIQDVZQAPRMERSBMMJRHUTSYOSQCJCUOED6IVJD6MB6GY3WI732MVRWW33TCEARGHQ2CACACYLBMJ6GOZD7PJSWC635MECQU/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }
@@ -694,6 +744,20 @@
         {
           "channel_name": null,
           "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFAYSTQIBEOIESIIARPZNFGWCELZMT2MTQGMQWIGREGEZTYJDZMJLV2VKEL5BEG437PJSWG5LVPJXXE6LFOMNREAIEAAAAOBDBOV5G64TWMJRHAZ32/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "National Hockey League - Carolina Hurricanes Vs New Jersey Devils (10/10/25)": {
+      "event_title": "National Hockey League - Carolina Hurricanes Vs New Jersey Devils (10/10/25)",
+      "event_time": "07:30AM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFCESSOPZJHMSSI6LZI5AUMWKTKFPDMJTQGMQWIGZVGJZACIBLIJLUUFDUKVDFSPZGOBXXQZDEMFSXQYLFN4IRQGIUAIAAAADEMFUWK6DOOVRHEYD6PVXQ/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
           "duration": null
         }
