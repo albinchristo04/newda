@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-09T01:10:47.832286",
+  "timestamp": "2025-10-09T02:39:00.865792",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -23,16 +23,6 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
       "group_title": "AMERICAN FOOTBALL"
-    },
-    {
-      "event_time": "04:00AM",
-      "event_date": "10/09/25",
-      "channel_name": "HDK A",
-      "event_title": "Major League Baseball - Detroit Tigers Vs Seattle Mariners (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4ABG4YCOPZMEZVRCMCWK5AUOECGIMIAAMBRGETCQMDQBAZTSLBXKRAEAFA2DIIAI437PJSWIZD7PJSWA63VNECQOBAUDINBAATEM5RXEYI/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-      "group_title": "BASEBALL"
     },
     {
       "event_time": "07:08AM",
@@ -66,129 +56,11 @@
     {
       "event_time": "09:08AM",
       "event_date": "10/09/25",
-      "channel_name": "HDK B",
-      "event_title": "Major League Baseball - Los Angeles Dodgers Vs Philadelphia Phillies (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4AJHU3XKEJLGUXCSPCCCJ3VWVCXKVBCA5JGGZZBIPJZFEZS6IBVIFNFUVIQMBMFSPZZHEQCCZD7PJSWM23POMIQIEY6DIIAEADDMVQHEZLEP55GKYD4O5WQCCQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-      "group_title": "BASEBALL"
-    },
-    {
-      "event_time": "09:08AM",
-      "event_date": "10/09/25",
-      "channel_name": "HDK C",
-      "event_title": "Major League Baseball - Los Angeles Dodgers Vs Philadelphia Phillies (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4AJHU3XKEJLGUXCSPCCCJ3VWVCXKVBCA5JGGZZBIPJZFEZS6IBVIFNFUVIQMBMFSPZZHEQCCZD7PJSWM23POMIQIEY6DIIAEADDMVQHEZLEP55GKYD4O5WQCCY/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-      "group_title": "BASEBALL"
-    },
-    {
-      "event_time": "09:08AM",
-      "event_date": "10/09/25",
-      "channel_name": "HDK D",
-      "event_title": "Major League Baseball - Los Angeles Dodgers Vs Philadelphia Phillies (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4AJHU3XKEJLGUXCSPCCCJ3VWVCXKVBCA5JGGZZBIPJZFEZS6IBVIFNFUVIQMBMFSPZZHEQCCZD7PJSWM23POMIQIEY6DIIAEADDMVQHEZLEP55GKYD4O5WQAAQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-      "group_title": "BASEBALL"
-    },
-    {
-      "event_time": "09:08AM",
-      "event_date": "10/09/25",
       "event_title": "Major League Baseball - Los Angeles Dodgers Vs Philadelphia Phillies (10/09/25) [STREAM 27[HD]]",
       "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4AJHU3XKEJLGUXCSPCCCJ3VWVCXKVBCA5JGGZZBIPJZFEZS6IBVIFNFUVIQMBMFSPZZHEQCCZD7PJSWM23POMIQAEY6DIIAEADDMVQHEZLEP55GKYD4O5WQCBA/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
       "group_title": "BASEBALL"
-    },
-    {
-      "event_time": "07:00AM",
-      "event_date": "10/09/25",
-      "channel_name": "SD",
-      "event_title": "Argentinian Liga Nacional De Bosquetbol - Penarol De Mar Del Plata Vs Quimsa (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CITTOIB4GA6D4LBTEVSRKWCVKIKH4UKTLE6DWMJJOIQDA4AHHU4DILCUIZIVWXAQDUIAGMB6EQQCWOLQEE3WWCBYIMJFOUK4CBQFYMRBGFSSIN3VAEYDWJRWHAIRQGIUAIIBUGTTMZYG66DEMRUXY23SPVUBCGAZCQBAOAQDNNWA/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
-    },
-    {
-      "event_time": "07:30AM",
-      "event_date": "10/09/25",
-      "channel_name": "SD",
-      "event_title": "Argentinian Liga Nacional De Bosquetbol - Obras Sanitarias Buenos Aires Vs Ciclista Olimpico (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CITTOIB4GA6D4LBTEVSRKWCVKIKH4UKTLE6DWMJJOIQDA4AHHU4DILCUIZIVWXAQDUIBYNZCEQQWIBRRFM5T6JBLLBJUAFDSIVKV4PBGOACDWNRQENSSIODFDJMFCX25INCFCEA4HE4SQIRNGY7WK6DBMVVRCGAZCQBRAGQ2ONSGS7DLPVWWGZLYMFSWWBQAAAGAI/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
-    },
-    {
-      "event_time": "07:30AM",
-      "event_date": "10/09/25",
-      "channel_name": "HDD A",
-      "event_title": "National Basketball Association - Miami Heat Vs San Antonio Spurs (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L4LNJFSWIQPBKTEILQGMQWIBRRFNZAUKZNLZOFUWYQMNAEKIJGOBXXQZDHOBXXQ23TPENRQEYFBEEQSCLLM5YG66DEM5TXOYLTOM/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
-    },
-    {
-      "event_time": "07:30AM",
-      "event_date": "10/09/25",
-      "event_title": "National Basketball Association - Miami Heat Vs San Antonio Spurs (10/09/25) [STREAM 15[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L4LNJFSWIQPBKTEILQGMQWIBRRFNZAUKZNLZOFUWYQMNAEKIJGOBXXQZDHOBXXQ23XPENRQEYFBEEQSCLLM5YG66DEM5TXOYLSOU/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
-    },
-    {
-      "event_time": "07:30AM",
-      "event_date": "10/09/25",
-      "channel_name": "SD",
-      "event_title": "National Basketball Association - Miami Heat Vs San Antonio Spurs (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L4LNJFSWIQPBKTEILQGMQWIBRRFNZAUKZNLZOFUWYQMNAEKIJGOBXXQZDHOBXXQ23WPENRQEYFBEEQSCLLM5YG66DEM5TXOYLTOY/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
-    },
-    {
-      "event_time": "08:00AM",
-      "event_date": "10/09/25",
-      "channel_name": "SD",
-      "event_title": "Argentinian Liga Nacional De Bosquetbol - Obera Tc Vs Union De Formosa (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CITTOIB4GA6D4LBTEVSRKWCVKIKH4UKTLE6DWMJJOIQDA4AHHU4DILCUIZIVWXAQDUIBYNZVG4ZWIAITMUSDQZIML5NVYWQQKRKRAFJ2EIUD2NZUOBXXQ23XPENRQEYHCANBUEDCNRUXY234MNYG66DLO5XAGAIKBQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
-    },
-    {
-      "event_time": "08:00AM",
-      "event_date": "10/09/25",
-      "channel_name": "HDD A",
-      "event_title": "National Basketball Association - Houston Rockets Vs Utah Jazz (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LZLVDEORC7LYIACORTFY3TAJTQGMQWWEBNKBNBG7SRJJFBA6L7OB3XE3T7OBZXEYLPPEAAWCQNBEEAIEDZP5YHOZLWMZUXY/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
-    },
-    {
-      "event_time": "08:00AM",
-      "event_date": "10/09/25",
-      "event_title": "National Basketball Association - Houston Rockets Vs Utah Jazz (10/09/25) [STREAM 22[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LZLVDEORC7LYIACORTFY3TAJTQGMQWWEBNKBNBG7SRJJFBA6L7OB3XE3T7OB3XEYLPPEAAWCQNBEEAIEDZP5YHOZLWMFQHO/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
-    },
-    {
-      "event_time": "08:00AM",
-      "event_date": "10/09/25",
-      "channel_name": "SD",
-      "event_title": "National Basketball Association - Houston Rockets Vs Utah Jazz (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LZLVDEORC7LYIACORTFY3TAJTQGMQWWEBNKBNBG7SRJJFBA6L7OB3XE3T7OB3HEYLPPEAAWCQNBEEAIEDZP5YHOZLWMZUXA/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
     },
     {
       "event_time": "08:00AM",
@@ -210,50 +82,49 @@
       "group_title": "BASKETBALL"
     },
     {
-      "event_time": "08:00AM",
-      "event_date": "10/09/25",
-      "channel_name": "SD",
-      "event_title": "National Basketball Association - Memphis Grizzlies Vs Boston Celtics (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L4K5PEIWCZIMIBIJZZH4UCQPBVGZZD2NTZONOUAQC7LYIHGNRZEQWDCN3VPJXXE6LFOMNREAAUDINBAALKNRUXY2TROV5G64TZOJVQECYF/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
-    },
-    {
-      "event_time": "08:00AM",
+      "event_time": "10:00AM",
       "event_date": "10/09/25",
       "channel_name": "HDD A",
-      "event_title": "Women'S National Basketball Association - Phoenix Mercury Vs Las Vegas Aces (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQ5D2IB4MMTHACZTH4WDMX2TL4KHEUKDLM3CCMREHYUHKEJWEESCMMCQIZNFWXQQDUIAGPJ7EA6C2LLQBA3TSJRMINFRGQSDCB6FCIDVAYQDKJJGOACDCLRWPENRQEYGCANBUEDFOV5G64TVNRUXY23TOJ4RWGATAYDQEAYJM4/index.m3u8",
+      "event_title": "National Basketball Association - Golden State Warriors Vs Portland Trail Blazers (10/09/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LWLVPVAVK6CBRSONBEEBZBGNBCG45SINZKCFCEAFDAL5BEIPZUHYQXEEBHGEWD42YHGVIEQVSGIMIBUGTTM5YG66DEMNYG66DLORQAQCYKBQERAGQ2ONTWO53GOVTQ/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
       "group_title": "BASKETBALL"
     },
     {
-      "event_time": "08:00AM",
+      "event_time": "10:00AM",
       "event_date": "10/09/25",
-      "event_title": "Women'S National Basketball Association - Phoenix Mercury Vs Las Vegas Aces (10/09/25) [STREAM 33[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQ5D2IB4MMTHACZTH4WDMX2TL4KHEUKDLM3CCMREHYUHKEJWEESCMMCQIZNFWXQQDUIAGPJ7EA6C2LLQBA3TSJRMINFRGQSDCB6FCIDVAYQDKJJGOACDCLRWPENRQEYGCANBUEDBOV5G64TVNRUXY23TOJ4RWGATAYDQEBAAM4/index.m3u8",
+      "event_title": "National Basketball Association - Golden State Warriors Vs Portland Trail Blazers (10/09/25) [STREAM 15[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LWLVPVAVK6CBRSONBEEBZBGNBCG45SINZKCFCEAFDAL5BEIPZUHYQXEEBHGEWD42YHGVIEQVSGIMIBUGTTM5YG66DEM5YG66DLORQAQCYKBQERAGQ2ONTWO53GOVRA/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
       "group_title": "BASKETBALL"
     },
     {
-      "event_time": "08:00AM",
-      "event_date": "10/09/25",
-      "channel_name": "SD",
-      "event_title": "Women'S National Basketball Association - Phoenix Mercury Vs Las Vegas Aces (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQ5D2IB4MMTHACZTH4WDMX2TL4KHEUKDLM3CCMREHYUHKEJWEESCMMCQIZNFWXQQDUIAGPJ7EA6C2LLQBA3TSJRMINFRGQSDCB6FCIDVAYQDKJJGOACDCLRWPENRQEYGCANBUEDAOV5G64TVNRUXY23TOJ4RWGATAYDQEAYJMQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
-    },
-    {
-      "event_time": "08:30AM",
+      "event_time": "10:00AM",
       "event_date": "10/09/25",
       "channel_name": "SD",
-      "event_title": "Argentinian Liga Nacional De Bosquetbol - Atletico Argentino Junin Vs Atenas Cordoba (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CITTOIB4GA6D4LBTEVSRKWCVKIKH4UKTLE6DWMJJOIQDA4AHHU4DILCUIZIVWXAQDUIBEIJ4EATC2NR7MUJTSIR4L5DFUWS7CB5EKPJ4HZSSIN3VCEYTOJJEFIIXCXCGKRPVEULTP55GKYDEP55GKYLLN5ZRCAYKBUEQSCAION7XUZLAONTWI5LH/index.m3u8",
+      "event_title": "National Basketball Association - Golden State Warriors Vs Portland Trail Blazers (10/09/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LWLVPVAVK6CBRSONBEEBZBGNBCG45SINZKCFCEAFDAL5BEIPZUHYQXEEBHGEWD42YHGVIEQVSGIMIBUGTTM5YG66DEMZYG66DLORQAQCYKBQERAGQ2ONTWO53GOVSA/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL"
+    },
+    {
+      "event_time": "10:00AM",
+      "event_date": "10/09/25",
+      "channel_name": "HDD A",
+      "event_title": "National Basketball Association - Sacramento Kings Vs Toronto Raptors (10/09/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LCKNIEMUK5KVPCOOTQBY5SUMRDMUSDQZINLZAFYWSEL4IGEMRFEQVCAN3VPJXXE6LFOMNREBIUDINBAALKNRUXY23UOV5G64TZOJVQKAYL/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL"
+    },
+    {
+      "event_time": "10:00AM",
+      "event_date": "10/09/25",
+      "event_title": "National Basketball Association - Sacramento Kings Vs Toronto Raptors (10/09/25) [STREAM 34[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LCKNIEMUK5KVPCOOTQBY5SUMRDMUSDQZINLZAFYWSEL4IGEMRFEQVCAN3VPJXXE6LFOMNREAIUDINBAALKNRUXY23UOV5G64TZOJVQKAAH/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
       "group_title": "BASKETBALL"
@@ -269,157 +140,78 @@
       "group_title": "FIGHTING"
     },
     {
-      "event_time": "07:00AM",
+      "event_time": "10:30AM",
       "event_date": "10/09/25",
       "channel_name": "HDD A",
-      "event_title": "U20 World Cup - Japan U20 Vs France U20 (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN7FCQCRLZZQAYTVOIZCM4ADEAVCWOSUCJTAMAAQDINHGZDQN54GIY3QN54GW4LLBACQAAQGCANBU43GMB6WI7LN/index.m3u8",
+      "event_title": "United States Major League Soccer - Los Angeles Fc Vs Toronto Fc (10/09/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AY5TSMJXEB2QGMJTH4QCUEL7KJPF6QQQPQ3DINZQG5SAMPZGGEXDO6I4CJ7VWQYQOFPDIMB4EAQWIEYTMUSDQZINLZAFYWSEL4IHMEDVPJXXE5LVPJXXE7LFOMNREBYGBEDQABLFOV5G64TXMVUHEY3Y/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
     },
     {
-      "event_time": "07:00AM",
-      "event_date": "10/09/25",
-      "event_title": "U20 World Cup - Japan U20 Vs France U20 (10/09/25) [STREAM 20[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN7FCQCRLZZQAYTVOIZCM4ADEAVCWOSUCJTAMAAQDINHGZDQN54GIZ3QN54GW4LLBACQAAQGCANBU43GMB6WI7LC/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "07:00AM",
-      "event_date": "10/09/25",
-      "channel_name": "HDD A",
-      "event_title": "U20 World Cup - Paraguay U20 Vs Norway U20 (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CNSFCQSRK4TDIKLFA53GK4BTEFVQWNSDIVJE2EDFAIAHG732MVRWI732MVSGW33TCEDACDIHAMDAO437PJSWC5DNMZ6GW/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "07:00AM",
+      "event_time": "10:30AM",
       "event_date": "10/09/25",
       "channel_name": "HDD B ESPA\u00d1OL",
-      "event_title": "U20 World Cup - Paraguay U20 Vs Norway U20 (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CNSFCQSRK4TDIKLFA53GK4BTEFVQWNSDIVJE2EDFAIAHG732MVRWI732MVSGW33TCEDACDIHAMDAO437PJSWC5DNM52WE/index.m3u8",
+      "event_title": "United States Major League Soccer - Los Angeles Fc Vs Toronto Fc (10/09/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AY5TSMJXEB2QGMJTH4QCUEL7KJPF6QQQPQ3DINZQG5SAMPZGGEXDO6I4CJ7VWQYQOFPDIMB4EAQWIEYTMUSDQZINLZAFYWSEL4IHMEDVPJXXE5LVPJXXE7LFOMNREBYGBEDQABLFOV5G64TXMVUHEY37/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
     },
     {
-      "event_time": "07:00AM",
+      "event_time": "10:30AM",
       "event_date": "10/09/25",
-      "event_title": "U20 World Cup - Paraguay U20 Vs Norway U20 (10/09/25) [STREAM 6[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CNSFCQSRK4TDIKLFA53GK4BTEFVQWNSDIVJE2EDFAIAHG732MVRWI732MVQGW33TCEDACDIHAMDAO437PJSWC5DNMZ6GI/index.m3u8",
+      "event_title": "United States Major League Soccer - Los Angeles Fc Vs Toronto Fc (10/09/25) [STREAM 6[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AY5TSMJXEB2QGMJTH4QCUEL7KJPF6QQQPQ3DINZQG5SAMPZGGEXDO6I4CJ7VWQYQOFPDIMB4EAQWIEYTMUSDQZINLZAFYWSEL4IHMEDVPJXXE5LVPJXXE6LFOMNREBYGBEDQABLFOV5G64TXMVUHEY35/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
     },
     {
-      "event_time": "07:30AM",
-      "event_date": "10/09/25",
-      "channel_name": "HDD A",
-      "event_title": "Canadian Premier League - Ottawa Rapid Fc (W) Vs Vancouver Rise Fc (W) (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CA2D4JBWFU2D4ZICHEQDIWCXIEKHYVKRK4TDA4DIOIFSCJBEEUVGKC2QIJNFAEDWOMIHWATZMUSDO5IGEQ6CQKRMI5LUCFDCLFBVK4YTCNSXUE34OBXXQ23UPENRQEYCCANBUEDHM5UX2YTTMNYG66DLOZUQSBIDA4/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "08:00AM",
-      "event_date": "10/09/25",
-      "channel_name": "HDD A",
-      "event_title": "Brazilian Serie A - Mirassol Vs Fluminense Rj (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CETTCPZ3FA6DCK3SDAQCWWCXCN2RAHIQPU5COMJWEEVTS4BTEFVQGNKEL5NFUVK6INKXGBY2MV4G45LBMV4GCZLPCEMBSFAEAECACZDFMNSXQ3TVMN2WU7DVME/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "08:00AM",
+      "event_time": "10:30AM",
       "event_date": "10/09/25",
       "channel_name": "SD",
-      "event_title": "Brazilian Serie A - Mirassol Vs Fluminense Rj (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CETTCPZ3FA6DCK3SDAQCWWCXCN2RAHIQPU5COMJWEEVTS4BTEFVQGNKEL5NFUVK6INKXGBY2MV4G45LBMV4GCZLKCEMBSFAEAECACZDFMNSXQ3TVMN2WU7DVNQ/index.m3u8",
+      "event_title": "United States Major League Soccer - Los Angeles Fc Vs Toronto Fc (10/09/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AY5TSMJXEB2QGMJTH4QCUEL7KJPF6QQQPQ3DINZQG5SAMPZGGEXDO6I4CJ7VWQYQOFPDIMB4EAQWIEYTMUSDQZINLZAFYWSEL4IHMEDVPJXXE5LVPJXXE6DFOMNREBYGBEDQABLFOV5G64TXMVUHEY3Z/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
     },
     {
-      "event_time": "08:00AM",
+      "event_time": "10:00AM",
       "event_date": "10/09/25",
-      "channel_name": "SD",
-      "event_title": "Brazilian Serie B - Ava\u00ed Fc Vs Volta Redonda (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CETTCPZ3FA6DCK3SDAQCWWCXCN3BAHIQOESTJE7IOIBBM4BTEFVRGNS5IZJBIYSVKRPT2MJRMV4G45LBMV4GCZLKCEMBSFAEAECQCZLAM5SXQ3TVMN2WU7DVNY/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "08:00AM",
-      "event_date": "10/09/25",
-      "channel_name": "SD",
-      "event_title": "Ecuadorian Campeonato Serie B - Cd Vargas Torres Vs Atletico Vinotinto (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CY3CKJBWFMTTSJB4NMDDQXCCKZNV4UKEL5ZQMNJXHMQXKETFP5VQMHIRMRJEMV2RIMIAOORCG43TO5JGGZZAUMJVKRDFUV27CBTFSPJ2EQWDYMB2OBXXQ23UPENRQEYHCANBUEDHM5THAZTXMZYG66DLOZUQSBIDAA/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "08:00AM",
-      "event_date": "10/09/25",
-      "channel_name": "SD",
-      "event_title": "International Friendly - St. Vincent   Grenadines Vs Cuba (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DI5SIIBAFI2CILB5EUSDKELUIFOVKXSULQVHK7LFAEYHW4ATHMSSMPC7IYJRIEDXIJKT2NBUFQ6CCJTQGMQWWBRMKNJRGHQ2CAARA6L7OB3HE3T7OBYWA4TSNYCQEEY6DIIAGADLMJQHG/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "08:30AM",
-      "event_date": "10/09/25",
-      "channel_name": "SD",
-      "event_title": "Brazilian Serie B - America Mg Vs Vila Nova (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CETTCPZ3FA6DCK3SDAQCWWCXCN3BAHIQOE7DAIRMGESXKHICOI6TM6LHLNPVKED6L5DDE5L2N5ZHK5L2N5ZHQZLTDMJAOBIFAEDAK23VPJXXE53FNBZGG6Q/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "07:00AM",
-      "event_date": "10/09/25",
-      "channel_name": "HDD A",
-      "event_title": "National Hockey League - Toronto Maple Leafs Vs Montreal Canadiens (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFAYVSOPZLEYSGKFCQIJPVCED4KVITKJTQGMQWIGB7FMTDSIBYLUJHAVK6KFKFSNR3ENSXQ3TVMF2HEYLPPEDREGI6CABAAADDMRUH24TOP5YHOZLZOZXAC/index.m3u8",
+      "channel_name": "HDD B",
+      "event_title": "National Hockey League - Edmonton Oilers Vs Calgary Flames (10/09/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFC4QDQPZLEYSCW6L6LNPVCQSDCBDCA5ITEQ7CGNBCHRZA2KJYLRLUAFA2DIIACYTVPJXXE4TVPJXXE6LVNEAQGCQHCANBUEDBMJRHCYDV/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
       "group_title": "HOCKEY"
     },
     {
-      "event_time": "07:00AM",
+      "event_time": "10:00AM",
       "event_date": "10/09/25",
-      "event_title": "National Hockey League - Toronto Maple Leafs Vs Montreal Canadiens (10/09/25) [STREAM 3[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFAYVSOPZLEYSGKFCQIJPVCED4KVITKJTQGMQWIGB7FMTDSIBYLUJHAVK6KFKFSNR3ENSXQ3TVMF2HEYLPPEBREGI6CABAAADDMRUH24TOP5YHOZLZOZXAG/index.m3u8",
+      "event_title": "National Hockey League - Edmonton Oilers Vs Calgary Flames (10/09/25) [STREAM 17[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFC4QDQPZLEYSCW6L6LNPVCQSDCBDCA5ITEQ7CGNBCHRZA2KJYLRLUAFA2DIIACYTVPJXXE5TVPJXXE6LVNEAQGCQHCANBUEDBMJRHCY35/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
       "group_title": "HOCKEY"
     },
     {
-      "event_time": "07:30AM",
+      "event_time": "10:00AM",
       "event_date": "10/09/25",
       "channel_name": "HDD A",
-      "event_title": "National Hockey League - Washington Capitals Vs Boston Bruins (10/09/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFAUSSMOBMHQWDCNS7CJYFKQCZIRIT6JTQGMQWIFZ7GYTCIK3ZONAEMXK6IMIBU6LVMF2HE3T7OBZXEYLPPEBQEAYEAEEASEDZP5YHOZLWMZUHO/index.m3u8",
+      "event_title": "National Hockey League - Vegas Golden Knights Vs Los Angeles Kings (10/09/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFAQQTEMJWOIGCUNKVK5ORI626LFLTWIJDMUSDO5I4FIQWWBBXKZLV6UKDCB5VSPJSENSXQ3TVMF2HEYLPPEDREGI6CABAAADDMRUXC4TOP5YHOZLZOFUAO/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
       "group_title": "HOCKEY"
     },
     {
-      "event_time": "07:30AM",
+      "event_time": "10:00AM",
       "event_date": "10/09/25",
-      "event_title": "National Hockey League - Washington Capitals Vs Boston Bruins (10/09/25) [STREAM 18[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFAUSSMOBMHQWDCNS7CJYFKQCZIRIT6JTQGMQWIFZ7GYTCIK3ZONAEMXK6IMIBU6LVMF2HE3T7OB3XEYLPPEBQEAYEAEEASEDZP5YHOZLWMZUHE/index.m3u8",
+      "event_title": "National Hockey League - Vegas Golden Knights Vs Los Angeles Kings (10/09/25) [STREAM 18[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFAQQTEMJWOIGCUNKVK5ORI626LFLTWIJDMUSDO5I4FIQWWBBXKZLV6UKDCB5VSPJSENSXQ3TVMF2HEYLPPEBREGI6CABAAADDMRUXC4TOP5YHOZLZOFVQI/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
       "group_title": "HOCKEY"
@@ -464,20 +256,6 @@
         }
       ]
     },
-    "Major League Baseball - Detroit Tigers Vs Seattle Mariners (10/09/25)": {
-      "event_title": "Major League Baseball - Detroit Tigers Vs Seattle Mariners (10/09/25)",
-      "event_time": "04:00AM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDK A",
-          "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4ABG4YCOPZMEZVRCMCWK5AUOECGIMIAAMBRGETCQMDQBAZTSLBXKRAEAFA2DIIAI437PJSWIZD7PJSWA63VNECQOBAUDINBAATEM5RXEYI/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "Major League Baseball - New York Yankees Vs Toronto Blue Jays (10/09/25)": {
       "event_title": "Major League Baseball - New York Yankees Vs Toronto Blue Jays (10/09/25)",
       "event_time": "07:08AM",
@@ -517,24 +295,6 @@
           "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4AJHU3XKEJLGUXCSPCCCJ3VWVCXKVBCA5JGGZZBIPJZFEZS6IBVIFNFUVIQMBMFSPZZHEQCCZD7PJSWM23POMIQIEY6DIIAEADDMVQHEZLEP55GKYD4O5WQCBI/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
           "duration": null
-        },
-        {
-          "channel_name": "HDK B",
-          "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4AJHU3XKEJLGUXCSPCCCJ3VWVCXKVBCA5JGGZZBIPJZFEZS6IBVIFNFUVIQMBMFSPZZHEQCCZD7PJSWM23POMIQIEY6DIIAEADDMVQHEZLEP55GKYD4O5WQCCQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "HDK C",
-          "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4AJHU3XKEJLGUXCSPCCCJ3VWVCXKVBCA5JGGZZBIPJZFEZS6IBVIFNFUVIQMBMFSPZZHEQCCZD7PJSWM23POMIQIEY6DIIAEADDMVQHEZLEP55GKYD4O5WQCCY/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "HDK D",
-          "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4AJHU3XKEJLGUXCSPCCCJ3VWVCXKVBCA5JGGZZBIPJZFEZS6IBVIFNFUVIQMBMFSPZZHEQCCZD7PJSWM23POMIQIEY6DIIAEADDMVQHEZLEP55GKYD4O5WQAAQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-          "duration": null
         }
       ]
     },
@@ -552,116 +312,6 @@
         }
       ]
     },
-    "Argentinian Liga Nacional De Bosquetbol - Penarol De Mar Del Plata Vs Quimsa (10/09/25)": {
-      "event_title": "Argentinian Liga Nacional De Bosquetbol - Penarol De Mar Del Plata Vs Quimsa (10/09/25)",
-      "event_time": "07:00AM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CITTOIB4GA6D4LBTEVSRKWCVKIKH4UKTLE6DWMJJOIQDA4AHHU4DILCUIZIVWXAQDUIAGMB6EQQCWOLQEE3WWCBYIMJFOUK4CBQFYMRBGFSSIN3VAEYDWJRWHAIRQGIUAIIBUGTTMZYG66DEMRUXY23SPVUBCGAZCQBAOAQDNNWA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Argentinian Liga Nacional De Bosquetbol - Obras Sanitarias Buenos Aires Vs Ciclista Olimpico (10/09/25)": {
-      "event_title": "Argentinian Liga Nacional De Bosquetbol - Obras Sanitarias Buenos Aires Vs Ciclista Olimpico (10/09/25)",
-      "event_time": "07:30AM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CITTOIB4GA6D4LBTEVSRKWCVKIKH4UKTLE6DWMJJOIQDA4AHHU4DILCUIZIVWXAQDUIBYNZCEQQWIBRRFM5T6JBLLBJUAFDSIVKV4PBGOACDWNRQENSSIODFDJMFCX25INCFCEA4HE4SQIRNGY7WK6DBMVVRCGAZCQBRAGQ2ONSGS7DLPVWWGZLYMFSWWBQAAAGAI/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "National Basketball Association - Miami Heat Vs San Antonio Spurs (10/09/25)": {
-      "event_title": "National Basketball Association - Miami Heat Vs San Antonio Spurs (10/09/25)",
-      "event_time": "07:30AM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L4LNJFSWIQPBKTEILQGMQWIBRRFNZAUKZNLZOFUWYQMNAEKIJGOBXXQZDHOBXXQ23TPENRQEYFBEEQSCLLM5YG66DEM5TXOYLTOM/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L4LNJFSWIQPBKTEILQGMQWIBRRFNZAUKZNLZOFUWYQMNAEKIJGOBXXQZDHOBXXQ23WPENRQEYFBEEQSCLLM5YG66DEM5TXOYLTOY/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "National Basketball Association - Miami Heat Vs San Antonio Spurs (10/09/25) [STREAM 15[HD]]": {
-      "event_title": "National Basketball Association - Miami Heat Vs San Antonio Spurs (10/09/25) [STREAM 15[HD]]",
-      "event_time": "07:30AM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L4LNJFSWIQPBKTEILQGMQWIBRRFNZAUKZNLZOFUWYQMNAEKIJGOBXXQZDHOBXXQ23XPENRQEYFBEEQSCLLM5YG66DEM5TXOYLSOU/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Argentinian Liga Nacional De Bosquetbol - Obera Tc Vs Union De Formosa (10/09/25)": {
-      "event_title": "Argentinian Liga Nacional De Bosquetbol - Obera Tc Vs Union De Formosa (10/09/25)",
-      "event_time": "08:00AM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CITTOIB4GA6D4LBTEVSRKWCVKIKH4UKTLE6DWMJJOIQDA4AHHU4DILCUIZIVWXAQDUIBYNZVG4ZWIAITMUSDQZIML5NVYWQQKRKRAFJ2EIUD2NZUOBXXQ23XPENRQEYHCANBUEDCNRUXY234MNYG66DLO5XAGAIKBQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "National Basketball Association - Houston Rockets Vs Utah Jazz (10/09/25)": {
-      "event_title": "National Basketball Association - Houston Rockets Vs Utah Jazz (10/09/25)",
-      "event_time": "08:00AM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LZLVDEORC7LYIACORTFY3TAJTQGMQWWEBNKBNBG7SRJJFBA6L7OB3XE3T7OBZXEYLPPEAAWCQNBEEAIEDZP5YHOZLWMZUXY/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LZLVDEORC7LYIACORTFY3TAJTQGMQWWEBNKBNBG7SRJJFBA6L7OB3XE3T7OB3HEYLPPEAAWCQNBEEAIEDZP5YHOZLWMZUXA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "National Basketball Association - Houston Rockets Vs Utah Jazz (10/09/25) [STREAM 22[HD]]": {
-      "event_title": "National Basketball Association - Houston Rockets Vs Utah Jazz (10/09/25) [STREAM 22[HD]]",
-      "event_time": "08:00AM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LZLVDEORC7LYIACORTFY3TAJTQGMQWWEBNKBNBG7SRJJFBA6L7OB3XE3T7OB3XEYLPPEAAWCQNBEEAIEDZP5YHOZLWMFQHO/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "National Basketball Association - Memphis Grizzlies Vs Boston Celtics (10/09/25)": {
       "event_title": "National Basketball Association - Memphis Grizzlies Vs Boston Celtics (10/09/25)",
       "event_time": "08:00AM",
@@ -671,12 +321,6 @@
         {
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L4K5PEIWCZIMIBIJZZH4UCQPBVGZZD2NTZONOUAQC7LYIHGNRZEQWDCN3VPJXXE6LFOMNREBIUDINBAALKNRUXY2TROV5G64TZOJVQKAQD/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L4K5PEIWCZIMIBIJZZH4UCQPBVGZZD2NTZONOUAQC7LYIHGNRZEQWDCN3VPJXXE6LFOMNREAAUDINBAALKNRUXY2TROV5G64TZOJVQECYF/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
           "duration": null
         }
@@ -696,49 +340,63 @@
         }
       ]
     },
-    "Women'S National Basketball Association - Phoenix Mercury Vs Las Vegas Aces (10/09/25)": {
-      "event_title": "Women'S National Basketball Association - Phoenix Mercury Vs Las Vegas Aces (10/09/25)",
-      "event_time": "08:00AM",
+    "National Basketball Association - Golden State Warriors Vs Portland Trail Blazers (10/09/25)": {
+      "event_title": "National Basketball Association - Golden State Warriors Vs Portland Trail Blazers (10/09/25)",
+      "event_time": "10:00AM",
       "event_date": "10/09/25",
       "category": null,
       "channels": [
         {
           "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQ5D2IB4MMTHACZTH4WDMX2TL4KHEUKDLM3CCMREHYUHKEJWEESCMMCQIZNFWXQQDUIAGPJ7EA6C2LLQBA3TSJRMINFRGQSDCB6FCIDVAYQDKJJGOACDCLRWPENRQEYGCANBUEDFOV5G64TVNRUXY23TOJ4RWGATAYDQEAYJM4/index.m3u8",
+          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LWLVPVAVK6CBRSONBEEBZBGNBCG45SINZKCFCEAFDAL5BEIPZUHYQXEEBHGEWD42YHGVIEQVSGIMIBUGTTM5YG66DEMNYG66DLORQAQCYKBQERAGQ2ONTWO53GOVTQ/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
           "duration": null
         },
         {
           "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQ5D2IB4MMTHACZTH4WDMX2TL4KHEUKDLM3CCMREHYUHKEJWEESCMMCQIZNFWXQQDUIAGPJ7EA6C2LLQBA3TSJRMINFRGQSDCB6FCIDVAYQDKJJGOACDCLRWPENRQEYGCANBUEDAOV5G64TVNRUXY23TOJ4RWGATAYDQEAYJMQ/index.m3u8",
+          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LWLVPVAVK6CBRSONBEEBZBGNBCG45SINZKCFCEAFDAL5BEIPZUHYQXEEBHGEWD42YHGVIEQVSGIMIBUGTTM5YG66DEMZYG66DLORQAQCYKBQERAGQ2ONTWO53GOVSA/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
           "duration": null
         }
       ]
     },
-    "Women'S National Basketball Association - Phoenix Mercury Vs Las Vegas Aces (10/09/25) [STREAM 33[HD]]": {
-      "event_title": "Women'S National Basketball Association - Phoenix Mercury Vs Las Vegas Aces (10/09/25) [STREAM 33[HD]]",
-      "event_time": "08:00AM",
+    "National Basketball Association - Golden State Warriors Vs Portland Trail Blazers (10/09/25) [STREAM 15[HD]]": {
+      "event_title": "National Basketball Association - Golden State Warriors Vs Portland Trail Blazers (10/09/25) [STREAM 15[HD]]",
+      "event_time": "10:00AM",
       "event_date": "10/09/25",
       "category": null,
       "channels": [
         {
           "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/AQ5D2IB4MMTHACZTH4WDMX2TL4KHEUKDLM3CCMREHYUHKEJWEESCMMCQIZNFWXQQDUIAGPJ7EA6C2LLQBA3TSJRMINFRGQSDCB6FCIDVAYQDKJJGOACDCLRWPENRQEYGCANBUEDBOV5G64TVNRUXY23TOJ4RWGATAYDQEBAAM4/index.m3u8",
+          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LWLVPVAVK6CBRSONBEEBZBGNBCG45SINZKCFCEAFDAL5BEIPZUHYQXEEBHGEWD42YHGVIEQVSGIMIBUGTTM5YG66DEM5YG66DLORQAQCYKBQERAGQ2ONTWO53GOVRA/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
           "duration": null
         }
       ]
     },
-    "Argentinian Liga Nacional De Bosquetbol - Atletico Argentino Junin Vs Atenas Cordoba (10/09/25)": {
-      "event_title": "Argentinian Liga Nacional De Bosquetbol - Atletico Argentino Junin Vs Atenas Cordoba (10/09/25)",
-      "event_time": "08:30AM",
+    "National Basketball Association - Sacramento Kings Vs Toronto Raptors (10/09/25)": {
+      "event_title": "National Basketball Association - Sacramento Kings Vs Toronto Raptors (10/09/25)",
+      "event_time": "10:00AM",
       "event_date": "10/09/25",
       "category": null,
       "channels": [
         {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CITTOIB4GA6D4LBTEVSRKWCVKIKH4UKTLE6DWMJJOIQDA4AHHU4DILCUIZIVWXAQDUIBEIJ4EATC2NR7MUJTSIR4L5DFUWS7CB5EKPJ4HZSSIN3VCEYTOJJEFIIXCXCGKRPVEULTP55GKYDEP55GKYLLN5ZRCAYKBUEQSCAION7XUZLAONTWI5LH/index.m3u8",
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LCKNIEMUK5KVPCOOTQBY5SUMRDMUSDQZINLZAFYWSEL4IGEMRFEQVCAN3VPJXXE6LFOMNREBIUDINBAALKNRUXY23UOV5G64TZOJVQKAYL/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "National Basketball Association - Sacramento Kings Vs Toronto Raptors (10/09/25) [STREAM 34[HD]]": {
+      "event_title": "National Basketball Association - Sacramento Kings Vs Toronto Raptors (10/09/25) [STREAM 34[HD]]",
+      "event_time": "10:00AM",
+      "event_date": "10/09/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LCKNIEMUK5KVPCOOTQBY5SUMRDMUSDQZINLZAFYWSEL4IGEMRFEQVCAN3VPJXXE6LFOMNREAIUDINBAALKNRUXY23UOV5G64TZOJVQKAAH/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
           "duration": null
         }
@@ -758,209 +416,97 @@
         }
       ]
     },
-    "U20 World Cup - Japan U20 Vs France U20 (10/09/25)": {
-      "event_title": "U20 World Cup - Japan U20 Vs France U20 (10/09/25)",
-      "event_time": "07:00AM",
+    "United States Major League Soccer - Los Angeles Fc Vs Toronto Fc (10/09/25)": {
+      "event_title": "United States Major League Soccer - Los Angeles Fc Vs Toronto Fc (10/09/25)",
+      "event_time": "10:30AM",
       "event_date": "10/09/25",
       "category": null,
       "channels": [
         {
           "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN7FCQCRLZZQAYTVOIZCM4ADEAVCWOSUCJTAMAAQDINHGZDQN54GIY3QN54GW4LLBACQAAQGCANBU43GMB6WI7LN/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "U20 World Cup - Japan U20 Vs France U20 (10/09/25) [STREAM 20[HD]]": {
-      "event_title": "U20 World Cup - Japan U20 Vs France U20 (10/09/25) [STREAM 20[HD]]",
-      "event_time": "07:00AM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CN7FCQCRLZZQAYTVOIZCM4ADEAVCWOSUCJTAMAAQDINHGZDQN54GIZ3QN54GW4LLBACQAAQGCANBU43GMB6WI7LC/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "U20 World Cup - Paraguay U20 Vs Norway U20 (10/09/25)": {
-      "event_title": "U20 World Cup - Paraguay U20 Vs Norway U20 (10/09/25)",
-      "event_time": "07:00AM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CNSFCQSRK4TDIKLFA53GK4BTEFVQWNSDIVJE2EDFAIAHG732MVRWI732MVSGW33TCEDACDIHAMDAO437PJSWC5DNMZ6GW/index.m3u8",
+          "url": "https://world-proxifier.xyz/rbtv/p/AY5TSMJXEB2QGMJTH4QCUEL7KJPF6QQQPQ3DINZQG5SAMPZGGEXDO6I4CJ7VWQYQOFPDIMB4EAQWIEYTMUSDQZINLZAFYWSEL4IHMEDVPJXXE5LVPJXXE7LFOMNREBYGBEDQABLFOV5G64TXMVUHEY3Y/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         },
         {
           "channel_name": "HDD B ESPA\u00d1OL",
-          "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CNSFCQSRK4TDIKLFA53GK4BTEFVQWNSDIVJE2EDFAIAHG732MVRWI732MVSGW33TCEDACDIHAMDAO437PJSWC5DNM52WE/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "U20 World Cup - Paraguay U20 Vs Norway U20 (10/09/25) [STREAM 6[HD]]": {
-      "event_title": "U20 World Cup - Paraguay U20 Vs Norway U20 (10/09/25) [STREAM 6[HD]]",
-      "event_time": "07:00AM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CNSFCQSRK4TDIKLFA53GK4BTEFVQWNSDIVJE2EDFAIAHG732MVRWI732MVQGW33TCEDACDIHAMDAO437PJSWC5DNMZ6GI/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Canadian Premier League - Ottawa Rapid Fc (W) Vs Vancouver Rise Fc (W) (10/09/25)": {
-      "event_title": "Canadian Premier League - Ottawa Rapid Fc (W) Vs Vancouver Rise Fc (W) (10/09/25)",
-      "event_time": "07:30AM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/CA2D4JBWFU2D4ZICHEQDIWCXIEKHYVKRK4TDA4DIOIFSCJBEEUVGKC2QIJNFAEDWOMIHWATZMUSDO5IGEQ6CQKRMI5LUCFDCLFBVK4YTCNSXUE34OBXXQ23UPENRQEYCCANBUEDHM5UX2YTTMNYG66DLOZUQSBIDA4/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Brazilian Serie A - Mirassol Vs Fluminense Rj (10/09/25)": {
-      "event_title": "Brazilian Serie A - Mirassol Vs Fluminense Rj (10/09/25)",
-      "event_time": "08:00AM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/CETTCPZ3FA6DCK3SDAQCWWCXCN2RAHIQPU5COMJWEEVTS4BTEFVQGNKEL5NFUVK6INKXGBY2MV4G45LBMV4GCZLPCEMBSFAEAECACZDFMNSXQ3TVMN2WU7DVME/index.m3u8",
+          "url": "https://world-proxifier.xyz/rbtv/p/AY5TSMJXEB2QGMJTH4QCUEL7KJPF6QQQPQ3DINZQG5SAMPZGGEXDO6I4CJ7VWQYQOFPDIMB4EAQWIEYTMUSDQZINLZAFYWSEL4IHMEDVPJXXE5LVPJXXE7LFOMNREBYGBEDQABLFOV5G64TXMVUHEY37/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         },
         {
           "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CETTCPZ3FA6DCK3SDAQCWWCXCN2RAHIQPU5COMJWEEVTS4BTEFVQGNKEL5NFUVK6INKXGBY2MV4G45LBMV4GCZLKCEMBSFAEAECACZDFMNSXQ3TVMN2WU7DVNQ/index.m3u8",
+          "url": "https://world-proxifier.xyz/rbtv/p/AY5TSMJXEB2QGMJTH4QCUEL7KJPF6QQQPQ3DINZQG5SAMPZGGEXDO6I4CJ7VWQYQOFPDIMB4EAQWIEYTMUSDQZINLZAFYWSEL4IHMEDVPJXXE5LVPJXXE6DFOMNREBYGBEDQABLFOV5G64TXMVUHEY3Z/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }
       ]
     },
-    "Brazilian Serie B - Ava\u00ed Fc Vs Volta Redonda (10/09/25)": {
-      "event_title": "Brazilian Serie B - Ava\u00ed Fc Vs Volta Redonda (10/09/25)",
-      "event_time": "08:00AM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CETTCPZ3FA6DCK3SDAQCWWCXCN3BAHIQOESTJE7IOIBBM4BTEFVRGNS5IZJBIYSVKRPT2MJRMV4G45LBMV4GCZLKCEMBSFAEAECQCZLAM5SXQ3TVMN2WU7DVNY/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Ecuadorian Campeonato Serie B - Cd Vargas Torres Vs Atletico Vinotinto (10/09/25)": {
-      "event_title": "Ecuadorian Campeonato Serie B - Cd Vargas Torres Vs Atletico Vinotinto (10/09/25)",
-      "event_time": "08:00AM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CY3CKJBWFMTTSJB4NMDDQXCCKZNV4UKEL5ZQMNJXHMQXKETFP5VQMHIRMRJEMV2RIMIAOORCG43TO5JGGZZAUMJVKRDFUV27CBTFSPJ2EQWDYMB2OBXXQ23UPENRQEYHCANBUEDHM5THAZTXMZYG66DLOZUQSBIDAA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "International Friendly - St. Vincent   Grenadines Vs Cuba (10/09/25)": {
-      "event_title": "International Friendly - St. Vincent   Grenadines Vs Cuba (10/09/25)",
-      "event_time": "08:00AM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/DI5SIIBAFI2CILB5EUSDKELUIFOVKXSULQVHK7LFAEYHW4ATHMSSMPC7IYJRIEDXIJKT2NBUFQ6CCJTQGMQWWBRMKNJRGHQ2CAARA6L7OB3HE3T7OBYWA4TSNYCQEEY6DIIAGADLMJQHG/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Brazilian Serie B - America Mg Vs Vila Nova (10/09/25)": {
-      "event_title": "Brazilian Serie B - America Mg Vs Vila Nova (10/09/25)",
-      "event_time": "08:30AM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CETTCPZ3FA6DCK3SDAQCWWCXCN3BAHIQOE7DAIRMGESXKHICOI6TM6LHLNPVKED6L5DDE5L2N5ZHK5L2N5ZHQZLTDMJAOBIFAEDAK23VPJXXE53FNBZGG6Q/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "National Hockey League - Toronto Maple Leafs Vs Montreal Canadiens (10/09/25)": {
-      "event_title": "National Hockey League - Toronto Maple Leafs Vs Montreal Canadiens (10/09/25)",
-      "event_time": "07:00AM",
-      "event_date": "10/09/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFAYVSOPZLEYSGKFCQIJPVCED4KVITKJTQGMQWIGB7FMTDSIBYLUJHAVK6KFKFSNR3ENSXQ3TVMF2HEYLPPEDREGI6CABAAADDMRUH24TOP5YHOZLZOZXAC/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "National Hockey League - Toronto Maple Leafs Vs Montreal Canadiens (10/09/25) [STREAM 3[HD]]": {
-      "event_title": "National Hockey League - Toronto Maple Leafs Vs Montreal Canadiens (10/09/25) [STREAM 3[HD]]",
-      "event_time": "07:00AM",
+    "United States Major League Soccer - Los Angeles Fc Vs Toronto Fc (10/09/25) [STREAM 6[HD]]": {
+      "event_title": "United States Major League Soccer - Los Angeles Fc Vs Toronto Fc (10/09/25) [STREAM 6[HD]]",
+      "event_time": "10:30AM",
       "event_date": "10/09/25",
       "category": null,
       "channels": [
         {
           "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFAYVSOPZLEYSGKFCQIJPVCED4KVITKJTQGMQWIGB7FMTDSIBYLUJHAVK6KFKFSNR3ENSXQ3TVMF2HEYLPPEBREGI6CABAAADDMRUH24TOP5YHOZLZOZXAG/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+          "url": "https://world-proxifier.xyz/rbtv/p/AY5TSMJXEB2QGMJTH4QCUEL7KJPF6QQQPQ3DINZQG5SAMPZGGEXDO6I4CJ7VWQYQOFPDIMB4EAQWIEYTMUSDQZINLZAFYWSEL4IHMEDVPJXXE5LVPJXXE6LFOMNREBYGBEDQABLFOV5G64TXMVUHEY35/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }
       ]
     },
-    "National Hockey League - Washington Capitals Vs Boston Bruins (10/09/25)": {
-      "event_title": "National Hockey League - Washington Capitals Vs Boston Bruins (10/09/25)",
-      "event_time": "07:30AM",
+    "National Hockey League - Edmonton Oilers Vs Calgary Flames (10/09/25)": {
+      "event_title": "National Hockey League - Edmonton Oilers Vs Calgary Flames (10/09/25)",
+      "event_time": "10:00AM",
       "event_date": "10/09/25",
       "category": null,
       "channels": [
         {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFAUSSMOBMHQWDCNS7CJYFKQCZIRIT6JTQGMQWIFZ7GYTCIK3ZONAEMXK6IMIBU6LVMF2HE3T7OBZXEYLPPEBQEAYEAEEASEDZP5YHOZLWMZUHO/index.m3u8",
+          "channel_name": "HDD B",
+          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFC4QDQPZLEYSCW6L6LNPVCQSDCBDCA5ITEQ7CGNBCHRZA2KJYLRLUAFA2DIIACYTVPJXXE4TVPJXXE6LVNEAQGCQHCANBUEDBMJRHCYDV/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
           "duration": null
         }
       ]
     },
-    "National Hockey League - Washington Capitals Vs Boston Bruins (10/09/25) [STREAM 18[HD]]": {
-      "event_title": "National Hockey League - Washington Capitals Vs Boston Bruins (10/09/25) [STREAM 18[HD]]",
-      "event_time": "07:30AM",
+    "National Hockey League - Edmonton Oilers Vs Calgary Flames (10/09/25) [STREAM 17[HD]]": {
+      "event_title": "National Hockey League - Edmonton Oilers Vs Calgary Flames (10/09/25) [STREAM 17[HD]]",
+      "event_time": "10:00AM",
       "event_date": "10/09/25",
       "category": null,
       "channels": [
         {
           "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFAUSSMOBMHQWDCNS7CJYFKQCZIRIT6JTQGMQWIFZ7GYTCIK3ZONAEMXK6IMIBU6LVMF2HE3T7OB3XEYLPPEBQEAYEAEEASEDZP5YHOZLWMZUHE/index.m3u8",
+          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFC4QDQPZLEYSCW6L6LNPVCQSDCBDCA5ITEQ7CGNBCHRZA2KJYLRLUAFA2DIIACYTVPJXXE5TVPJXXE6LVNEAQGCQHCANBUEDBMJRHCY35/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "National Hockey League - Vegas Golden Knights Vs Los Angeles Kings (10/09/25)": {
+      "event_title": "National Hockey League - Vegas Golden Knights Vs Los Angeles Kings (10/09/25)",
+      "event_time": "10:00AM",
+      "event_date": "10/09/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFAQQTEMJWOIGCUNKVK5ORI626LFLTWIJDMUSDO5I4FIQWWBBXKZLV6UKDCB5VSPJSENSXQ3TVMF2HEYLPPEDREGI6CABAAADDMRUXC4TOP5YHOZLZOFUAO/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "National Hockey League - Vegas Golden Knights Vs Los Angeles Kings (10/09/25) [STREAM 18[HD]]": {
+      "event_title": "National Hockey League - Vegas Golden Knights Vs Los Angeles Kings (10/09/25) [STREAM 18[HD]]",
+      "event_time": "10:00AM",
+      "event_date": "10/09/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFAQQTEMJWOIGCUNKVK5ORI626LFLTWIJDMUSDO5I4FIQWWBBXKZLV6UKDCB5VSPJSENSXQ3TVMF2HEYLPPEBREGI6CABAAADDMRUXC4TOP5YHOZLZOFVQI/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
           "duration": null
         }
