@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-09T17:32:31.475142",
+  "timestamp": "2025-10-09T17:49:51.623985",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [
@@ -42,13 +42,6 @@
       "type": "segment",
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
       "group_title": "BADMINTON",
-      "title": "Arctic Open, Women, Singles - Gao Fangjie Vs Amalie Schulz [VDO]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXSZS5LZIV4HAQMM5DWNZJG43XK7LFCUVCU6LXKNOVGWSZKUICKJTQAQ7SKOJZEBZBQJRRIRPESFA2DIIACYLVPJXXE5TFMB2HEYLPPEBQEAYGAABQAEDZP5YHGYDWMFQXG/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-      "group_title": "BADMINTON",
       "title": "Dp World Tour - Open De Espana 2025 Presented By Madrid Tournament From Club De Campo Villa De Madrid, Madrid, Spain. [SKA]",
       "url": "https://world-proxifier.xyz/rbtv/p/G4SXAMR5GY4TIZJGEQYCWEI7CNNUAVK6CA3TA4BAEE2DIPREOJ4XK2YECJBUMVKDKVPCOMBUMUYD25J5EQ3DSLB5CFDFYQKCLZIV2NR3ERSTINR2HVSTCJZQHMIVMVQUKNIV2QB4OUTCYPRIGRYCCN3LFA4FKQC2KAOBAXKRG4TTSIL6MQTCAJB3EVVXSGYYCMCQEEA2DJZWOYDVMNSH66TFMB5XK2ABAUCBIGQ2CADGCZ3DORQQ/index.m3u8"
     },
@@ -128,20 +121,6 @@
       "group_title": "BASKETBALL",
       "title": "Europe Women\u2019S Challenge Basketball - Rapid Bucuresti Women Vs Piestanske Cajky Women [SD]",
       "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKRCEF2QOKR7FYV3XMNLIAKHGWCRLQ7TAPRCG5SBOMJWHEXDCO2QLZPRIHIQMJISGPBUMUIDCNRFG43TQMJQCFSVYWKVLYIEMIDVAAWDONZBGEVSCIBAPFZFGWK7JEIGOXZ6GA7GK6DOOVRGK6DBMVVBCGAZCQBAAAABMNTWEZLYNZ2WE4TAPZ2W2/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL",
-      "title": "Europe Women\u2019S Challenge Basketball - Sosnowiec Women Vs Ostrava Women [SD]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKRCEF2QOKR7FYV3XMNLIAKHGWCRLQ7TAPRCG5SBOMJWHEXDCO2QLZPRIHIQMNPSAOZ7GI5SCNTQCI6SMIBXCFCEAFD7INCEEMRDGFSQKKZYGUVXEYLPPEBREGI6CABRAGTZOVRHKYTVMVRHA4TBN54QGBIBAEAAS/index.m3u8"
-    },
-    {
-      "type": "segment",
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL",
-      "title": "Europe Women\u2019S Challenge Basketball - Sosnowiec Women Vs Ostrava Women [SD]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKRCEF2QOKR7FYV3XMNLIAKHGWCRLQ7TAPRCG5SBOMJWHEXDCO2QLZPRIHIQMNPSAOZ7GI5SCNTQCI6SMIBXCFCEAFD7INCEEMRDGFSQKKZYGUVXEYLPPEBREGI6CABRAGTZOVRHKYTVMVRHA4TBN54QGBIBAEAAS/index.m3u8"
     },
     {
       "type": "segment",
