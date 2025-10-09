@@ -1,34 +1,13 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-09T22:31:38.033814
+Extraction Time: 2025-10-09T22:48:56.260964
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 10
-- Total Channels: 11
+- Unique Events: 0
+- Total Channels: 0
 - Individual Streams: 0
-- Media Segments: 0
+- Media Segments: 21
 - Other Events: 0
 
-EVENT BREAKDOWN:
-- Major League Baseball - Los Angeles Dodgers Vs Philadelphia ...
-  Time: 06:08AM, Channels: 1
-- Major League Baseball - Los Angeles Dodgers Vs Philadelphia ...
-  Time: 06:08AM, Channels: 1
-- Chile Liga Nacional Basketball - Puente Alto Vs Chile Boston...
-  Time: 06:30AM, Channels: 1
-- One Championship - Extreme Fighting Championship 128 (10/10/...
-  Time: 01:00AM, Channels: 1
-- Argentine Reserve League - Atletico Tucuman Reserve Vs San L...
-  Time: 06:00AM, Channels: 1
-- Brazilian Serie B - Ferroviaria Sp Vs Chapecoense Sc (10/10/...
-  Time: 06:00AM, Channels: 1
-- Fia European Truck Racing Championship - Supercars (10/10/25...
-  Time: 04:30AM, Channels: 1
-- Pga Korn Ferry Tour - Korn Ferry Tour Championship, First Ro...
-  Time: 03:00AM, Channels: 2
-- Premier Padel 2025  - Milan P1 Day 4 Match 6 (10/10/25)
-  Time: 01:30AM, Channels: 1
-- Premier Padel 2025  - Milan P1 Day 4 Match 7 (10/10/25)
-  Time: 03:00AM, Channels: 1
