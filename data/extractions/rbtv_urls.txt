@@ -1,4 +1,4 @@
-Extracted at: 2025-10-09T23:38:08.987514
+Extracted at: 2025-10-09T23:49:33.549189
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -152,8 +152,19 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: Canadian Premier League - York United Fc Vs Pacific Fc (10/10/25)
+EVENT: Chi Liga De Primera - Univ Catolica Vs Nublense (10/10/25)
 Time: 07:30AM
+Date: 10/10/25
+Category: None
+Available Channels (1):
+  1. SD
+     URL: https://world-proxifier.xyz/rbtv/p/CAORSZI6FUZDCZJWFZSQSQ23LZIUEUIQDVZQAPRMERSBMMJRHUTSYOSQCJCUOED6IVJD6MB6GY3WI732MVRWW33TCEARGHQ2CACACYLBMJ6GOZD7PJSWC635MECQU/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
+
+================================================================================
+
+EVENT: Canadian Premier League - York United Fc Vs Pacific Fc (10/10/25)
+Time: 07:40AM
 Date: 10/10/25
 Category: None
 Available Channels (1):
@@ -164,23 +175,12 @@ Available Channels (1):
 ================================================================================
 
 EVENT: Canadian Premier League - York United Fc Vs Pacific Fc (10/10/25) [STREAM 40[HD]]
-Time: 07:30AM
+Time: 07:40AM
 Date: 10/10/25
 Category: None
 Available Channels (1):
   1. None
      URL: https://world-proxifier.xyz/rbtv/p/CA2D4JBWFU2D4ZICHEQDIWCXIEKHYVKRK4TDA4DIOIOTUIROOIPCWMCFK5LRI5TTCBDCA5IAEQYS2MZZEZZA2BTZDMMBGBIQDINBAYLVPJXXE4DEMZ3GI6L4PENRQEYHAAEAQBLD/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
-
-================================================================================
-
-EVENT: Chi Liga De Primera - Univ Catolica Vs Nublense (10/10/25)
-Time: 07:30AM
-Date: 10/10/25
-Category: None
-Available Channels (1):
-  1. SD
-     URL: https://world-proxifier.xyz/rbtv/p/CAORSZI6FUZDCZJWFZSQSQ23LZIUEUIQDVZQAPRMERSBMMJRHUTSYOSQCJCUOED6IVJD6MB6GY3WI732MVRWW33TCEARGHQ2CACACYLBMJ6GOZD7PJSWC635MECQU/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp
 
 ================================================================================
@@ -328,13 +328,13 @@ Available Channels (1):
 
 ================================================================================
 
-EVENT: National Hockey League - Carolina Hurricanes Vs New Jersey Devils (10/10/25) [STREAM 48[HD]]
+EVENT: National Hockey League - Carolina Hurricanes Vs New Jersey Devils (10/10/25) [STREAM 47[HD]]
 Time: 07:30AM
 Date: 10/10/25
 Category: None
 Available Channels (1):
   1. None
-     URL: https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFCESSOPZJHMSSI6LZI5AUMWKTKFPDMJTQGMQWIGZVGJZACIBLIJLUUFDUKVDFSPZGOBXXQZDEMFSXQYLFNMIRQGIUAIAAAADEMFUWK6DOOVRHEYD6PVWQ/index.m3u8
+     URL: https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFCESSOPZJHMSSI6LZI5AUMWKTKFPDMJTQGMQWIGZVGJZACIBLIJLUUFDUKVDFSPZGOBXXQZDEMFSXQYLFNMIRQGIUAIAAAADEMFUWK6DOOVRHEYD6PRVA/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp
 
 ================================================================================
