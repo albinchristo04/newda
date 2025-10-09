@@ -1,7 +1,7 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-09T19:13:09.601958
+Extraction Time: 2025-10-09T19:26:13.319333
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
@@ -12,10 +12,6 @@ STATISTICS:
 - Other Events: 0
 
 EVENT BREAKDOWN:
-- Arctic Open, Singles - Takuma Obayashi Vs Lu Guangzu (10/10/...
-  Time: 02:20AM, Channels: 1
-- Euroleague Women - Umana Reyer Venezia Women Vs Mersin Bk Wo...
-  Time: 01:30AM, Channels: 1
 - Euroleague - Kk Partizan Vs Anadolu Efes Sports Club (10/10/...
   Time: 02:30AM, Channels: 3
 - Euroleague - Kk Partizan Vs Anadolu Efes Sports Club (10/10/...
@@ -38,8 +34,6 @@ EVENT BREAKDOWN:
   Time: 11:00PM, Channels: 1
 - One Championship - Extreme Fighting Championship 128 (10/10/...
   Time: 01:00AM, Channels: 2
-- Uefa European U21 Championship Qualification - Andorra U21 V...
-  Time: 01:30AM, Channels: 1
 - Argentine Reserve League - Argentinos Jrs Reserves Vs Newell...
   Time: 02:00AM, Channels: 1
 - Argentine Reserve League - Huracan Reserves Vs Central Cordo...
@@ -90,8 +84,14 @@ EVENT BREAKDOWN:
   Time: 02:45AM, Channels: 5
 - World Cup Qualification (Uefa) - Scotland Vs Greece (10/10/2...
   Time: 02:45AM, Channels: 1
+- Conmebol Copa Libertadores Femenino - Sportivo Limpeno Women...
+  Time: 03:00AM, Channels: 1
 - Conmebol Copa Libertadores Femenino - Universidad De Chile W...
   Time: 03:00AM, Channels: 1
+- U20 World Cup - Usa U20 Vs Italy U20 (10/10/25)
+  Time: 03:30AM, Channels: 1
+- U20 World Cup - Usa U20 Vs Italy U20 (10/10/25) [STREAM 46[H...
+  Time: 03:30AM, Channels: 1
 - Iwf World Championship - Putri 86 Kg - Grup A (10/09/25)
   Time: 11:00PM, Channels: 1
 - Ehf Champions League - Barcelona Vs Szeged (10/10/25)

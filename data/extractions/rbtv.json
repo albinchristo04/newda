@@ -1,29 +1,9 @@
 {
-  "timestamp": "2025-10-09T19:13:09.601958",
+  "timestamp": "2025-10-09T19:26:13.319333",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
   "events": [
-    {
-      "event_time": "02:20AM",
-      "event_date": "10/10/25",
-      "channel_name": "VDO",
-      "event_title": "Arctic Open, Singles - Takuma Obayashi Vs Lu Guangzu (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXSYS3LVJVYVKDCB7HKBBEHEYTQMLFDUUSIICQIFNV2ECGIMIB6IDQAITSKOZXH4TWW33TCEBQCFA2DIIAEY3FMFSXQ3TVMJ2WE6DXNIEBEGI6CADAEATHMFQQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-      "group_title": "BADMINTON"
-    },
-    {
-      "event_time": "01:30AM",
-      "event_date": "10/10/25",
-      "channel_name": "SD",
-      "event_title": "Euroleague Women - Umana Reyer Venezia Women Vs Mersin Bk Women (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNMJDMXCXLUKB2EDFLUZDWMLFAAQSYNJXOIOSAN2UJBNFKEDHL5OTMO3QGMQWIGBVG4QSEK3ZON4RGY27LVKV4437PJSWAZD7PJSWC23POMIQAAYEAADAAB3TP55GKYDTM5SXOYI/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
-    },
     {
       "event_time": "02:30AM",
       "event_date": "10/10/25",
@@ -209,16 +189,6 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
       "group_title": "FIGHTING"
-    },
-    {
-      "event_time": "01:30AM",
-      "event_date": "10/10/25",
-      "channel_name": "SD",
-      "event_title": "Uefa European U21 Championship Qualification - Andorra U21 Vs Kazakhstan U21 (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSAEQCEKRCFYSDOELHAECRA42YKE7CKOJKHQ3T2OJVOI5DAOC5LNKV2U2RIRMTYO3QNBZAKOZUFIQDSJDZMQAAEFCGIMIHWMRPGEXDUNZBGEVXEHTXNAIRQGIUAEIBUGTTMZYG66DEMFQX2236OJVRCGAZCQBQACAHMZWA/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
     },
     {
       "event_time": "02:00AM",
@@ -754,8 +724,37 @@
       "event_time": "03:00AM",
       "event_date": "10/10/25",
       "channel_name": "SD",
+      "event_title": "Conmebol Copa Libertadores Femenino - Sportivo Limpeno Women Vs Nacional Montevideo Women (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CANB4CAXAYNBYZIREQ2TQEL6LJLFKQSEKE3TUIRAEFSBGNJIG4SSYN26CIPBIY2AL5BCOPBGFJZAQPB5GU3SKKTZMZOV4UK6CBDEG4Y3GETDWKZ3GEUXEBRKG5CVORK5KRKV6EAEHI6SAPDEP55GKY3LN5ZRCAITDYNBABACNJTGO5LLMR7XUZLBPN6WCAYK/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "03:00AM",
+      "event_date": "10/10/25",
+      "channel_name": "SD",
       "event_title": "Conmebol Copa Libertadores Femenino - Universidad De Chile Women Vs Deportivo Cali Women (10/10/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/CANB4CAXAYNBYZIREQ2TQEL6LJLFKQSEKE3TUIRAEFSBGNJIG4SSYN26CIPBIZK6LFDDMJZDFQ3CKMLQEE3WWBRRLBPFMFDHL5OVKPLVEY3HEABQEAVCAPZMF5PBE4CVLRMRAZZ4HA2SW4TOP5YHI4TBN54QEEQZDYIAIAQJMBRGC5DSNZ7XA5TCON6WWCA/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "03:30AM",
+      "event_date": "10/10/25",
+      "channel_name": "HDD A ESPA\u00d1OL",
+      "event_title": "U20 World Cup - Usa U20 Vs Italy U20 (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CNQWG4IQMVQWK4BTEFSBYJBEHYZGKDADAIJR4GQQAEIHS73QONZG473QOFQHE4TLAEBBGHQ2CABQA23NMNYA/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "03:30AM",
+      "event_date": "10/10/25",
+      "event_title": "U20 World Cup - Usa U20 Vs Italy U20 (10/10/25) [STREAM 46[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CNQWG4IQMVQWK4BTEFSBYJBEHYZGKDADAIJR4GQQAEIHS73QO5ZG473QOFQHE4TLAEBBGHQ2CABQA23NMNZQ/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
@@ -899,34 +898,6 @@
     }
   ],
   "grouped_events": {
-    "Arctic Open, Singles - Takuma Obayashi Vs Lu Guangzu (10/10/25)": {
-      "event_title": "Arctic Open, Singles - Takuma Obayashi Vs Lu Guangzu (10/10/25)",
-      "event_time": "02:20AM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXSYS3LVJVYVKDCB7HKBBEHEYTQMLFDUUSIICQIFNV2ECGIMIB6IDQAITSKOZXH4TWW33TCEBQCFA2DIIAEY3FMFSXQ3TVMJ2WE6DXNIEBEGI6CADAEATHMFQQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Euroleague Women - Umana Reyer Venezia Women Vs Mersin Bk Women (10/10/25)": {
-      "event_title": "Euroleague Women - Umana Reyer Venezia Women Vs Mersin Bk Women (10/10/25)",
-      "event_time": "01:30AM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CYQCEKQ6EE2DOMBXNMJDMXCXLUKB2EDFLUZDWMLFAAQSYNJXOIOSAN2UJBNFKEDHL5OTMO3QGMQWIGBVG4QSEK3ZON4RGY27LVKV4437PJSWAZD7PJSWC23POMIQAAYEAADAAB3TP55GKYDTM5SXOYI/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "Euroleague - Kk Partizan Vs Anadolu Efes Sports Club (10/10/25)": {
       "event_title": "Euroleague - Kk Partizan Vs Anadolu Efes Sports Club (10/10/25)",
       "event_time": "02:30AM",
@@ -1125,20 +1096,6 @@
           "channel_name": "HDD B",
           "url": "https://world-proxifier.xyz/rbtv/p/DQNRKZIRFQ2D2NJ3EQVSUWK3IMKB2EDVJATSONJIG5SBGOJCHI7SYN2WCJYFYUK5IBMTYOZDFU5TI5LBO5VGW33TCEBQOFA2DIIAM437PJSWA5DFMN3GG6DFOMNREAIDAICQCCI/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_fit_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Uefa European U21 Championship Qualification - Andorra U21 Vs Kazakhstan U21 (10/10/25)": {
-      "event_title": "Uefa European U21 Championship Qualification - Andorra U21 Vs Kazakhstan U21 (10/10/25)",
-      "event_time": "01:30AM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/AYIBMBDSAEQCEKRCFYSDOELHAECRA42YKE7CKOJKHQ3T2OJVOI5DAOC5LNKV2U2RIRMTYO3QNBZAKOZUFIQDSJDZMQAAEFCGIMIHWMRPGEXDUNZBGEVXEHTXNAIRQGIUAEIBUGTTMZYG66DEMFQX2236OJVRCGAZCQBQACAHMZWA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }
       ]
@@ -1667,6 +1624,20 @@
         }
       ]
     },
+    "Conmebol Copa Libertadores Femenino - Sportivo Limpeno Women Vs Nacional Montevideo Women (10/10/25)": {
+      "event_title": "Conmebol Copa Libertadores Femenino - Sportivo Limpeno Women Vs Nacional Montevideo Women (10/10/25)",
+      "event_time": "03:00AM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CANB4CAXAYNBYZIREQ2TQEL6LJLFKQSEKE3TUIRAEFSBGNJIG4SSYN26CIPBIY2AL5BCOPBGFJZAQPB5GU3SKKTZMZOV4UK6CBDEG4Y3GETDWKZ3GEUXEBRKG5CVORK5KRKV6EAEHI6SAPDEP55GKY3LN5ZRCAITDYNBABACNJTGO5LLMR7XUZLBPN6WCAYK/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
     "Conmebol Copa Libertadores Femenino - Universidad De Chile Women Vs Deportivo Cali Women (10/10/25)": {
       "event_title": "Conmebol Copa Libertadores Femenino - Universidad De Chile Women Vs Deportivo Cali Women (10/10/25)",
       "event_time": "03:00AM",
@@ -1676,6 +1647,34 @@
         {
           "channel_name": "SD",
           "url": "https://world-proxifier.xyz/rbtv/p/CANB4CAXAYNBYZIREQ2TQEL6LJLFKQSEKE3TUIRAEFSBGNJIG4SSYN26CIPBIZK6LFDDMJZDFQ3CKMLQEE3WWBRRLBPFMFDHL5OVKPLVEY3HEABQEAVCAPZMF5PBE4CVLRMRAZZ4HA2SW4TOP5YHI4TBN54QEEQZDYIAIAQJMBRGC5DSNZ7XA5TCON6WWCA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "U20 World Cup - Usa U20 Vs Italy U20 (10/10/25)": {
+      "event_title": "U20 World Cup - Usa U20 Vs Italy U20 (10/10/25)",
+      "event_time": "03:30AM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A ESPA\u00d1OL",
+          "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CNQWG4IQMVQWK4BTEFSBYJBEHYZGKDADAIJR4GQQAEIHS73QONZG473QOFQHE4TLAEBBGHQ2CABQA23NMNYA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "U20 World Cup - Usa U20 Vs Italy U20 (10/10/25) [STREAM 46[HD]]": {
+      "event_title": "U20 World Cup - Usa U20 Vs Italy U20 (10/10/25) [STREAM 46[HD]]",
+      "event_time": "03:30AM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CNQWG4IQMVQWK4BTEFSBYJBEHYZGKDADAIJR4GQQAEIHS73QO5ZG473QOFQHE4TLAEBBGHQ2CABQA23NMNZQ/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }
