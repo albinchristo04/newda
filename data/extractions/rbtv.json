@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-09T19:36:49.956133",
+  "timestamp": "2025-10-09T19:49:40.009140",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -645,6 +645,16 @@
     {
       "event_time": "02:45AM",
       "event_date": "10/10/25",
+      "channel_name": "HDD D DUTCH",
+      "event_title": "World Cup Qualification (Uefa) - Malta Vs Netherlands (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKFCQLZDVKECGIMIB2MBEFU3TMOJRFM3DQZLTDMJAEFA2DIIAM437PJSWM5LAMV6GI7TFOMNREAAEBAEAEAI/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "02:45AM",
+      "event_date": "10/10/25",
       "event_title": "World Cup Qualification (Uefa) - Malta Vs Netherlands (10/10/25) [STREAM 25[HD]]",
       "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKFCQLZDVKECGIMIB2MBEFU3TMOJRFM3DQZLTDMJAEFA2DIIAE437PJSWM5LAMV6GI7TFOMNREAAEBAEAAAQ/index.m3u8",
       "duration": null,
@@ -765,6 +775,16 @@
       "event_date": "10/10/25",
       "event_title": "U20 World Cup - Usa U20 Vs Italy U20 (10/10/25) [STREAM 46[HD]]",
       "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CNQWG4IQMVQWK4BTEFSBYJBEHYZGKDADAIJR4GQQAEIHS73QO5ZG473QOFQHE4TLAEBBGHQ2CABQA23NMNZQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
+    },
+    {
+      "event_time": "03:30AM",
+      "event_date": "10/10/25",
+      "channel_name": "SD",
+      "event_title": "U20 World Cup - Usa U20 Vs Italy U20 (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CNQWG4IQMVQWK4BTEFSBYJBEHYZGKDADAIJR4GQQAEIHS73QOZZG473QOFQHE4TLAEBBGHQ2CABQA23NMNYQ/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
@@ -1569,6 +1589,12 @@
           "duration": null
         },
         {
+          "channel_name": "HDD D DUTCH",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKFCQLZDVKECGIMIB2MBEFU3TMOJRFM3DQZLTDMJAEFA2DIIAM437PJSWM5LAMV6GI7TFOMNREAAEBAEAEAI/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
           "channel_name": "SD",
           "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNA4ARGELMOJTGKFCQLZDVKECGIMIB2MBEFU3TMOJRFM3DQZLTDMJAEFA2DIIAG437PJSWM5LAMV6GI7TFOMNREAAEBADQOAY/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
@@ -1685,6 +1711,12 @@
         {
           "channel_name": "HDD A ESPA\u00d1OL",
           "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CNQWG4IQMVQWK4BTEFSBYJBEHYZGKDADAIJR4GQQAEIHS73QONZG473QOFQHE4TLAEBBGHQ2CABQA23NMNYA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/AZTWAZIFFMTTYILSBAYCSEI7CNQWG4IQMVQWK4BTEFSBYJBEHYZGKDADAIJR4GQQAEIHS73QOZZG473QOFQHE4TLAEBBGHQ2CABQA23NMNYQ/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }
