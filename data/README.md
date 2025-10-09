@@ -1,12 +1,12 @@
 # Latest M3U8 Extraction Results
 
-Last updated: Thu Oct  9 07:49:38 UTC 2025
+Last updated: Thu Oct  9 08:20:54 UTC 2025
 
-Workflow run: #1116
+Workflow run: #1117
 
 ## Latest URLs (Sample):
 ```
-Extracted at: 2025-10-09T07:49:37.540514
+Extracted at: 2025-10-09T08:20:53.362588
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -15,15 +15,15 @@ EVENT: Pga Tour 2025 - Baycurrent Classic 2025 Tournament Held At Yokohama Count
 Time: 11:00AM
 Date: 10/09/25
 Category: None
-Available Channels (1):
+Available Channels (2):
   1. SKA
+     URL: https://world-proxifier.xyz/rbtv/p/EMZDCZJGFMQCEZLAPN3WYEI7CNLFCSKTIUQSONJLEZSDMPBEEE4CYOQRAABQMBIQIRPSMJZ6EQ7SCOZEMU5C4KJ5CFJUOFCJL5NV6OZUHUSHEJZ2EUVSMOJ4PFJF4RSWDQIESXZYHI4CIPZFPFYC6MZ3EQ3R6EQZDYIACAQQPF7XA53CORSHA33YNN3WSAIDAMBQMEA2DJZWGYTXMF2WO/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp
+  2. SKA
      URL: https://world-proxifier.xyz/rbtv/p/EMZDCZJGFMQCEZLAPN3WYEI7CNLFCSKTIUQSONJLEZSDMPBEEE4CYOQRAABQMBIQIRPSMJZ6EQ7SCOZEMU5C4KJ5CFJUOFCJL5NV6OZUHUSHEJZ2EUVSMOJ4PFJF4RSWDQIESXZYHI4CIPZFPFYC6MZ3EQ3R6EQZDYIACAQQPF7XA53CORSHA33YNN3WSAIDAMBQMEA2DJZWGYTXMF2WO/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp
 
 ================================================================================
 
-EVENT: Arctic Open, Mixed Doubles - Kral O / Svabikova T Vs Puavaranukroh D / Paewsampran S (10/09/25)
-Time: 03:10PM
-Date: 10/09/25
-Category: None
+EVENT: Arctic Open, Mixed Doubles - Ming Che Lu/En-Tzu Hung Vs Toft J / Magelund A (10/09/25)
 ```
