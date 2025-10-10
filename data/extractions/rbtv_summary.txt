@@ -1,21 +1,17 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-10T03:46:30.885856
+Extraction Time: 2025-10-10T04:18:43.679274
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 24
-- Total Channels: 27
+- Unique Events: 17
+- Total Channels: 19
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
 
 EVENT BREAKDOWN:
-- Usa: Ncaa - Georgia Southern Vs Southern Miss (10/10/25)
-  Time: 08:00AM, Channels: 1
-- Usa: Ncaa - Sam Houston State Vs Jacksonville State (10/10/2...
-  Time: 08:00AM, Channels: 1
 - Ladies Pga Tour - Buick Lpga Shanghai 2025 Tournament From Q...
   Time: 11:00AM, Channels: 1
 - Pga Tour 2025 - Baycurrent Classic 2025 Tournament Held At Y...
@@ -24,20 +20,10 @@ EVENT BREAKDOWN:
   Time: 09:08AM, Channels: 1
 - Major League Baseball - Chicago Cubs Vs Milwaukee Brewers (1...
   Time: 09:08AM, Channels: 1
-- China Women'S National Championship Basketball - Dongguan Wo...
-  Time: 10:00AM, Channels: 1
 - National Basketball Association - Los Angeles Clippers Vs Gu...
   Time: 10:30AM, Channels: 1
 - National Basketball Association - Los Angeles Clippers Vs Gu...
   Time: 10:30AM, Channels: 1
-- World Cup Qualification (Concacaf) - Honduras Vs Costa Rica ...
-  Time: 10:00AM, Channels: 2
-- World Cup Qualification (Concacaf) - Honduras Vs Costa Rica ...
-  Time: 10:00AM, Channels: 1
-- National Hockey League - Colorado Avalanche Vs Utah Hockey C...
-  Time: 09:00AM, Channels: 1
-- National Hockey League - Colorado Avalanche Vs Utah Hockey C...
-  Time: 09:00AM, Channels: 1
 - National Hockey League - San Jose Sharks Vs Vegas Golden Kni...
   Time: 10:00AM, Channels: 1
 - National Hockey League - San Jose Sharks Vs Vegas Golden Kni...
