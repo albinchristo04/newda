@@ -1,32 +1,4 @@
 {
-  "Arctic Open, Mixed Doubles - Goh Soon Huat/Shevon Lai Jemie Vs Puavaranukroh D / Paewsampran S (10/10/25)": {
-    "event_title": "Arctic Open, Mixed Doubles - Goh Soon Huat/Shevon Lai Jemie Vs Puavaranukroh D / Paewsampran S (10/10/25)",
-    "event_time": "06:00PM",
-    "event_date": "10/10/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "VDO",
-        "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXS7C3JNIVIEDUL4TDOPBAEFSHQ4ACHURWKCS6LVORI6CFKFCHYBRYEASCWO3QBEZSEZITKRPVUUIQIZBRAAZAGEZTGNRUHYYDSOJKGEIXMEY3CBQFCVJEEYYSQIRWGQ7GKALLN5ZRCAYBCQNBUEACMNSWCZLYNZ2WE5LCPB3GYBISDEPBABQCAJSWIYI/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Arctic Open, Mixed Doubles - Ming Che Lu/En-Tzu Hung Vs Feng Yanzhe/Huang Dongping (10/10/25)": {
-    "event_title": "Arctic Open, Mixed Doubles - Ming Che Lu/En-Tzu Hung Vs Feng Yanzhe/Huang Dongping (10/10/25)",
-    "event_time": "06:10PM",
-    "event_date": "10/10/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "VDO",
-        "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXS7C3JNIVIEDUL4TDOPBAEFSHQ4AIHMSSE6LSLJLBI7CFD52T26AEH4TWIHJFFM2WWMZKCF2FMWSXCBUVCPJPHAQH2DBAGEVTK2YBGZPVKQ25LZLRAGTZOVQXO4TOP5YHOYT3OR4RWGATAYAAAAYDMZQHA33YMRRWE53EPJ6A/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-        "duration": null
-      }
-    ]
-  },
   "Arctic Open, Women, Singles - Line H\u00f8ejmark Kjaersfeldt Vs Busanan Ongbamrungphan (10/10/25)": {
     "event_title": "Arctic Open, Women, Singles - Line H\u00f8ejmark Kjaersfeldt Vs Busanan Ongbamrungphan (10/10/25)",
     "event_time": "06:50PM",
@@ -41,16 +13,30 @@
       }
     ]
   },
-  "Pba Philippine Cup - Terrafirma Dyip Vs Blackwater Elite (10/10/25)": {
-    "event_title": "Pba Philippine Cup - Terrafirma Dyip Vs Blackwater Elite (10/10/25)",
-    "event_time": "05:15PM",
+  "Arctic Open, Mixed Doubles - Teeraratsakul Pak / Taerattanachai S Vs Gao J X / Wu M Y (10/10/25)": {
+    "event_title": "Arctic Open, Mixed Doubles - Teeraratsakul Pak / Taerattanachai S Vs Gao J X / Wu M Y (10/10/25)",
+    "event_time": "07:00PM",
     "event_date": "10/10/25",
     "category": null,
     "channels": [
       {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/AMLRCZICFQ6DYLBCHMWDOVASOBAUAEA5CADTAIRXGMRDYIRIGNVQCICYIIJUEQYQOJODENR3GIZTAMBCMULSOLBNKQJBSHQQAIIBU6LVMNSXQ3TVMJ2WE63TNUAREGI6CABAOATFNVTA/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+        "channel_name": "VDO",
+        "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXS7C3JNIVIEDUL4TDOPBAEFSHQ4ARG4XDOOCDKNDUOUK3IVOHGBJRFZZGW5IEEQ3TSJBNIVJV2VKTLBIVS4YGOAZSCZASGEVHEALFAEIR2E3DIUIH2EAKOV5G64TVM5YG66DLO5UQCAYTDYNBAAQAMNTGG7LLMR7XUZLEPF3W6AYH/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Arctic Open, Women, Doubles - Hsu Y C / Sung Y-H Vs Arisa Higashino/Chiharu Shida (10/10/25)": {
+    "event_title": "Arctic Open, Women, Doubles - Hsu Y C / Sung Y-H Vs Arisa Higashino/Chiharu Shida (10/10/25)",
+    "event_time": "07:10PM",
+    "event_date": "10/10/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "VDO",
+        "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXSZS5LZIV4HAQOQ6CAMRJG43XK7LFDI4DA6LICJYBIHYQMNCT2MTQDR7QY5JGGZZAUNZQIJJRG7CZK5IUGOZ4HYVH2BZ5HEWTGOJQPFRFUWSQKEIBUGTTMRRGK6DOOVRHKYT2MVZRWEQBAQAAGBAAMV2XU33SOJTWE43APM/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
         "duration": null
       }
     ]
@@ -209,6 +195,48 @@
       }
     ]
   },
+  "Bosnia And Herzegovina 1St League - Fk Zvijezda 09 Vs Leotar (10/10/25)": {
+    "event_title": "Bosnia And Herzegovina 1St League - Fk Zvijezda 09 Vs Leotar (10/10/25)",
+    "event_time": "07:00PM",
+    "event_date": "10/10/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/CE5CGKZ3EV2TCKZWNMGTYQ2IKZJV6RSZLYZHKYJWEZSBSNJEGU7CA6I4CJ2X6EDKIZMTSMBKEEZWIZLJMUSDQZIVKROUOVKCCANBU43EOBXXQZDGOBXXQ23RNMEAIBAMAIIBUGTTMZQH22TSNU/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "International Club Friendly - Borussia Monchengladbach Vs Preuben Munster (10/10/25)": {
+    "event_title": "International Club Friendly - Borussia Monchengladbach Vs Preuben Munster (10/10/25)",
+    "event_time": "07:00PM",
+    "event_date": "10/10/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/DI5SIIBAFI2CILB5EUSDKELRL5AVEEDWII5DAPRBHY6XK7LFCASDOLCCIFNFKED5L5PDAPJVFM2SQNBUE4ZSQLLZI5ARGZCCKVCVENR3OAECOKRGEQQCA23POMIQGEY6DIIAGEDZP5YHCYD5NVRHAZ3LN5ZRCAIDBQEAMCI/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "International Friendly - South Korea Vs Brazil (10/10/25)": {
+    "event_title": "International Friendly - South Korea Vs Brazil (10/10/25)",
+    "event_time": "07:00PM",
+    "event_date": "10/10/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/DI5SIIBAFI2CILB5EUSDKELUIFOVKXSULQVHK7LFAEVSAJBNOIACUK2UKMJUEQYQOJBDELZZFFZG473QORZGC33ZAIJBSHQQAQBAMZTAMRYHE3T7OB3GE435NYAQ/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+        "duration": null
+      }
+    ]
+  },
   "Worldsbk - Fp1 | Eicma Estoril Round (10/10/25)": {
     "event_title": "Worldsbk - Fp1 | Eicma Estoril Round (10/10/25)",
     "event_time": "05:30PM",
@@ -343,6 +371,62 @@
       }
     ]
   },
+  "Atp Shanghai, China Men Singles - Daniil Medvedev Vs Alex De Minaur (10/10/25) [STREAM 3[HD]]": {
+    "event_title": "Atp Shanghai, China Men Singles - Daniil Medvedev Vs Alex De Minaur (10/10/25) [STREAM 3[HD]]",
+    "event_time": "06:30PM",
+    "event_date": "10/10/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": null,
+        "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LVKNOV2WK4CB6TMMJGEA3CCI3QGMQWWBBVKRFBGUCVCB6VSPJUEU3XE3T7OB3HEYLPPEBREGI6CAAQSCLKM5UXO4TOP5YHOZLZOJUQG/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Wta Wuhan, China Women Doubles - Siegemund L / Stollar F Vs Jovic I / Olmos G (10/10/25)": {
+    "event_title": "Wta Wuhan, China Women Doubles - Siegemund L / Stollar F Vs Jovic I / Olmos G (10/10/25)",
+    "event_time": "06:45PM",
+    "event_date": "10/10/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKCSYK5KFCXKFLZKHGGLQNJZBOIJ7FE7CUN3ZO4JEKRYQPJPUMORWOAGHE23VD4UT6JBWPF3BEGI6CABRAGTZOVTGK6DOOVRHKYTYOFUQEEQZDYIAEBYCMRSWA/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "P\u00e1del Premier Padel 2025 - Gonz\u00e1lez/Guerrero - Stupaczuk/Lebron (10/10/25)": {
+    "event_title": "P\u00e1del Premier Padel 2025 - Gonz\u00e1lez/Guerrero - Stupaczuk/Lebron (10/10/25)",
+    "event_time": "07:00PM",
+    "event_date": "10/10/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "MOVISTAR",
+        "url": "https://world-proxifier.xyz/rbtv/p/AOLPCIJXFB2QANZXEYWDYQYSMNKVIVK4CBQWKYTQOJUXKFZKHQYYN6C5K5ERW52FKVBCCMBCFJZGS5IDGETTWJB2JNDVQG34KVJEEPB3OBXXQZDGOBXXQ23XNEAQGEY6DIIAEADDMZUHA2TEP55GKZDZO5WAMCY/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "Wta Wuhan, China Women Singles - Jasmine Paolini Vs Iga Swiatek (10/10/25)": {
+    "event_title": "Wta Wuhan, China Women Singles - Jasmine Paolini Vs Iga Swiatek (10/10/25)",
+    "event_time": "07:00PM",
+    "event_date": "10/10/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "HDD A",
+        "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKE2QIFPF2XSVCBQDEOR4FQ6C25JGGZZAEIRYCFQUIXKRIRKVW437PJSWCZD7PJSWI23POMIQAAYEAMCAABDTP55GKYDTM5TXKZQ/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+        "duration": null
+      }
+    ]
+  },
   "Livoli Divisi Utama - Final Four: Petrokimia Gresik Pupuk Indonesia Vs  Bank Jatim (10/10/25)": {
     "event_title": "Livoli Divisi Utama - Final Four: Petrokimia Gresik Pupuk Indonesia Vs  Bank Jatim (10/10/25)",
     "event_time": "03:00PM",
@@ -351,7 +435,7 @@
     "channels": [
       {
         "channel_name": "VDO",
-        "url": "https://world-proxifier.xyz/rbtv/p/D46CMKR6FV2RILBEEI3DAELHI5KV2UIQDVZRGOJLGMUHKFRKE44X66LBK5DUMX23LFOTUNDQAIQCCJRZFZZBWMBJIRMRG7K6KRPV4NRGHESHEMRGOBSRAKRLGIIXQUSALFORAGTZOVQXM4TOP5YHOYT3OR4RWGATAYAAAAYEMFTXA33YMRRWE53GOJZQ/index.m3u8",
+        "url": "https://world-proxifier.xyz/rbtv/p/D46CMKR6FV2RILBEEI3DAELHI5KV2UIQDVZRGOJLGMUHKFRKE44X66LBK5DUMX23LFOTUNDQAIQCCJRZFZZBWMBJIRMRG7K6KRPV4NRGHESHEMRGOBSRAKRLGIIXQUSALFORAGTZOVQXM4TOP5YHOYT3OR4RWGATAYAAAAYEMFTXA33YMRRWE53EP56Q/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
         "duration": null
       }
