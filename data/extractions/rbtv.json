@@ -1,9 +1,28 @@
 {
-  "timestamp": "2025-10-10T07:49:23.003931",
+  "timestamp": "2025-10-10T08:20:32.024191",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
   "events": [
+    {
+      "event_time": "04:15PM",
+      "event_date": "10/10/25",
+      "channel_name": "HDD A",
+      "event_title": "Australia: Afl Women - Western Bulldogs W Vs Essendon Bombers W (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAAGEIAAUMRSBDINMCB67ISMRNV2VK6CB7HKBZAEEYDAIRLOIETANK5KZOFGQYQM4ICKJTQAAQTOMB6EE6SKZI3LZPVCUKCIMIGO437PJSWG5DVPJXXE7LFOMNREAIEAAAQCBDHOV5G64TWMJRHGZLT/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_asr_active.webp",
+      "group_title": "AUSIE RULES"
+    },
+    {
+      "event_time": "04:15PM",
+      "event_date": "10/10/25",
+      "event_title": "Australia: Afl Women - Western Bulldogs W Vs Essendon Bombers W (10/10/25) [STREAM 6[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAAGEIAAUMRSBDINMCB67ISMRNV2VK6CB7HKBZAEEYDAIRLOIETANK5KZOFGQYQM4ICKJTQAAQTOMB6EE6SKZI3LZPVCUKCIMIGO437PJSWG5DVPJXXE6LFOMNREAIEAAAQCBDHOV5G64TWMJRHGZL4/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_asr_active.webp",
+      "group_title": "AUSIE RULES"
+    },
     {
       "event_time": "11:00AM",
       "event_date": "10/10/25",
@@ -64,52 +83,14 @@
       "group_title": "CRICKET"
     },
     {
-      "event_time": "04:30AM",
+      "event_time": "04:00PM",
       "event_date": "10/10/25",
-      "channel_name": "HDD A",
-      "event_title": "Fia European Truck Racing Championship - Supercars (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CUOBCZIXGETT6NJXFIVXSZKAIZLVWEDCKEYDYPRCOIDT2MJIEIRCUN2CLJNEIEA5CBRSMJJVG4YSKJZDMV4GCZLOCEMBSFAGCANBU43HMB2WC5TMMNSXQYLFNMDAABQAAE/index.m3u8",
+      "channel_name": "SD",
+      "event_title": "Aus Champ - South Melbourne Vs Sydney Olympic (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIQCGZIRFQ2D2NLSMZSQUXSHI5OBA7KVLQYTUJJXHQQXKJRWOIMDYPK7K5FBI724JFOSGPBTMV4G45LBMV4GCZLKCEMBSFAEAIEQMZDCNBSXQ3TVMN2WU43TNM/index.m3u8",
       "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-      "group_title": "MOTORSPORT"
-    },
-    {
-      "event_time": "11:10AM",
-      "event_date": "10/10/25",
-      "event_title": "Pga Tour - Es2, Japan Championship | Day 2 (10/10/25) [STREAM 38[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AMJBCZIGFMQCEZL7NMAAUAY6CN7FCQCRLZZRMOBEH42DYPZLEERSYKIRJYJXAUKJCABHG732MVVXI5L2N5ZHSZLTDMJAUAAEAYBBA6L7OB6WC53FMY/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ots_active.webp",
-      "group_title": "OTHERS"
-    },
-    {
-      "event_time": "11:10AM",
-      "event_date": "10/10/25",
-      "event_title": "Pga Tour - Es2, Japan Championship | Day 2 (10/10/25) [STREAM 38[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AMJBCZIGFMQCEZL7NMAAUAY6CN7FCQCRLZZRMOBEH42DYPZLEERSYKIRJYJXAUKJCABHG732MVVXI5L2N5ZHSZLTDMJAUAAEAYBBA6L7OB6WC53FMY/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ots_active.webp",
-      "group_title": "OTHERS"
-    },
-    {
-      "event_time": "02:10PM",
-      "event_date": "10/10/25",
-      "channel_name": "HDD A",
-      "event_title": "New Zealand: Bunnings Npc - Play Offs - Otago Vs Waikato (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DUIAOZIIAEKBYBA4B57XS42HLVNFSXSXINZRWAAGOJUXKABJGMZGKFSXKRABIHIQP5CDEMR7MUSDO5IHEQ5SAJBNLYJBSHQQBAIBU6LVMZSXQ3TVMJ2WE6TUNUBREGI6CABAOATFMNSQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp",
-      "group_title": "RUGBY"
-    },
-    {
-      "event_time": "02:30PM",
-      "event_date": "10/10/25",
-      "channel_name": "HDD A",
-      "event_title": "Wta Wuhan, China Women Doubles - Chan H-C / Jiang X Vs Storm Sanders/Katerina Siniakova (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKGSZKNORI6A5OMIHY5I2FQZSUMTQDVZD2NTZMJDFYRS5CBRVCPJRGU3SC2Y6GEYTOOJMG5IBEYC5LZMVCWZ4EMYWK6DOOVRWK6DBMVXRCGAZCQBAAAACMJQWMZLYNZ2WE4TAPVZGW/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+      "group_title": "FOOTBALL"
     },
     {
       "event_time": "03:00PM",
@@ -126,7 +107,7 @@
       "event_date": "10/10/25",
       "channel_name": "MOVISTAR2",
       "event_title": "Atp Shanghai, China Men Singles - Arthur Rinderknech Vs Felix Auger-Aliassime (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LQIBDVYRKCCBRDUOZUEAQC6OZVEY5GWMZKCF2FMWCZJAIHCJRSGU3X6BJZHESCCOBMGRKBEGI6CABRAGTZOVRHKYTVOV5G64T2PRQAQAAKAEIBUGQQMVTWE4LKOY/index.m3u8",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LQIBDVYRKCCBRDUOZUEAQC6OZVEY5GWMZKCF2FMWCZJAIHCJRSGU3X6BJZHESCCOBMGRKBEGI6CABRAGTZOVRHKYTVOV5G64T2PRQAQAAKAEIBUGQQMVTWE43GOA/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
@@ -156,7 +137,7 @@
       "event_date": "10/10/25",
       "channel_name": "MOVISTAR",
       "event_title": "Premier Padel 2025  - Milan P1 Day 5 Qf Match 1 (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARA4JUKVQQLVISONRYMVRWI732MVQWW33TCEAAGBABCANBU43HMB2WC4DEMVSXQYLFN4BQABQDAU/index.m3u8",
+      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARA4JUKVQQLVISONRYMVRWI732MVQWW33TCEAAGBABCANBU43HMB2WC4DEMVSXQYLFN4BQABIAAM/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
@@ -167,6 +148,36 @@
       "channel_name": "HDD A",
       "event_title": "Wta Wuhan, China Women Singles - Laura Siegemund Vs Coco Gauff (10/10/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFKQI5AVKEDDLFKTIMB5GA6CA5JGGZZAQKR2LYJHIVKFKZLBA6L7OB3HE3T7OBZXEYLPPEBQEAYHAQCAEEDZP5YHOZLWMNTXA/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "04:00PM",
+      "event_date": "10/10/25",
+      "channel_name": "MOVISTAR",
+      "event_title": "Wta 125K Mallorca, Spain Women Singles - Maria Lourdes Carle Vs Teodora Kostovic (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TEJZZERZAQORFG43C4NTZOJJUCWCVCBDEG4YBGUVDMKZHGFSRSJBWFVPEIWSXCANBUEDAOV5G64TWMVQHI4TBN54QGAQDAQDAMCIQPF7XA43AOZQGQ4A/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "04:00PM",
+      "event_date": "10/10/25",
+      "channel_name": "HDD A",
+      "event_title": "Wta 125K Mallorca, Spain Women Singles - Maria Lourdes Carle Vs Teodora Kostovic (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TEJZZERZAQORFG43C4NTZOJJUCWCVCBDEG4YBGUVDMKZHGFSRSJBWFVPEIWSXCANBUEDAOV5G64TSOV5G64TZOVUQCBAFBUIBUGQQMFRGE43KOU/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "04:05PM",
+      "event_date": "10/10/25",
+      "channel_name": "HDD B",
+      "event_title": "Wta Wuhan, China Women Doubles - Mihalikova T / Nicholls O Vs Linda Noskova/Rebecca Sramkova (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKFCYLJJFQWK3L5DDE5IEMV6WIGZZEY5CIKJVIIJHYFCGIMIHYOR3GQSHECR2EMXD2PJEOZRVOUKRKNJVCEAAE4YSQOJLEMYWK6DBMVVBCGAZCQDBAGQ2ONTWA5LBOBSGCZLYMFSWWBQAAUBQM/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
@@ -183,6 +194,34 @@
     }
   ],
   "grouped_events": {
+    "Australia: Afl Women - Western Bulldogs W Vs Essendon Bombers W (10/10/25)": {
+      "event_title": "Australia: Afl Women - Western Bulldogs W Vs Essendon Bombers W (10/10/25)",
+      "event_time": "04:15PM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAAGEIAAUMRSBDINMCB67ISMRNV2VK6CB7HKBZAEEYDAIRLOIETANK5KZOFGQYQM4ICKJTQAAQTOMB6EE6SKZI3LZPVCUKCIMIGO437PJSWG5DVPJXXE7LFOMNREAIEAAAQCBDHOV5G64TWMJRHGZLT/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_asr_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Australia: Afl Women - Western Bulldogs W Vs Essendon Bombers W (10/10/25) [STREAM 6[HD]]": {
+      "event_title": "Australia: Afl Women - Western Bulldogs W Vs Essendon Bombers W (10/10/25) [STREAM 6[HD]]",
+      "event_time": "04:15PM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAAGEIAAUMRSBDINMCB67ISMRNV2VK6CB7HKBZAEEYDAIRLOIETANK5KZOFGQYQM4ICKJTQAAQTOMB6EE6SKZI3LZPVCUKCIMIGO437PJSWG5DVPJXXE6LFOMNREAIEAAAQCBDHOV5G64TWMJRHGZL4/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_asr_active.webp",
+          "duration": null
+        }
+      ]
+    },
     "Ladies Pga Tour - Buick Lpga Shanghai 2025 Tournament From Qizhong Garden Golf Club, Shanghai, People'S Republic Of China. (10/10/25)": {
       "event_title": "Ladies Pga Tour - Buick Lpga Shanghai 2025 Tournament From Qizhong Garden Golf Club, Shanghai, People'S Republic Of China. (10/10/25)",
       "event_time": "11:00AM",
@@ -259,64 +298,16 @@
         }
       ]
     },
-    "Fia European Truck Racing Championship - Supercars (10/10/25)": {
-      "event_title": "Fia European Truck Racing Championship - Supercars (10/10/25)",
-      "event_time": "04:30AM",
+    "Aus Champ - South Melbourne Vs Sydney Olympic (10/10/25)": {
+      "event_title": "Aus Champ - South Melbourne Vs Sydney Olympic (10/10/25)",
+      "event_time": "04:00PM",
       "event_date": "10/10/25",
       "category": null,
       "channels": [
         {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/CUOBCZIXGETT6NJXFIVXSZKAIZLVWEDCKEYDYPRCOIDT2MJIEIRCUN2CLJNEIEA5CBRSMJJVG4YSKJZDMV4GCZLOCEMBSFAGCANBU43HMB2WC5TMMNSXQYLFNMDAABQAAE/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Pga Tour - Es2, Japan Championship | Day 2 (10/10/25) [STREAM 38[HD]]": {
-      "event_title": "Pga Tour - Es2, Japan Championship | Day 2 (10/10/25) [STREAM 38[HD]]",
-      "event_time": "11:10AM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/AMJBCZIGFMQCEZL7NMAAUAY6CN7FCQCRLZZRMOBEH42DYPZLEERSYKIRJYJXAUKJCABHG732MVVXI5L2N5ZHSZLTDMJAUAAEAYBBA6L7OB6WC53FMY/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ots_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/AMJBCZIGFMQCEZL7NMAAUAY6CN7FCQCRLZZRMOBEH42DYPZLEERSYKIRJYJXAUKJCABHG732MVVXI5L2N5ZHSZLTDMJAUAAEAYBBA6L7OB6WC53FMY/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ots_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "New Zealand: Bunnings Npc - Play Offs - Otago Vs Waikato (10/10/25)": {
-      "event_title": "New Zealand: Bunnings Npc - Play Offs - Otago Vs Waikato (10/10/25)",
-      "event_time": "02:10PM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/DUIAOZIIAEKBYBA4B57XS42HLVNFSXSXINZRWAAGOJUXKABJGMZGKFSXKRABIHIQP5CDEMR7MUSDO5IHEQ5SAJBNLYJBSHQQBAIBU6LVMZSXQ3TVMJ2WE6TUNUBREGI6CABAOATFMNSQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Wta Wuhan, China Women Doubles - Chan H-C / Jiang X Vs Storm Sanders/Katerina Siniakova (10/10/25)": {
-      "event_title": "Wta Wuhan, China Women Doubles - Chan H-C / Jiang X Vs Storm Sanders/Katerina Siniakova (10/10/25)",
-      "event_time": "02:30PM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKGSZKNORI6A5OMIHY5I2FQZSUMTQDVZD2NTZMJDFYRS5CBRVCPJRGU3SC2Y6GEYTOOJMG5IBEYC5LZMVCWZ4EMYWK6DOOVRWK6DBMVXRCGAZCQBAAAACMJQWMZLYNZ2WE4TAPVZGW/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIQCGZIRFQ2D2NLSMZSQUXSHI5OBA7KVLQYTUJJXHQQXKJRWOIMDYPK7K5FBI724JFOSGPBTMV4G45LBMV4GCZLKCEMBSFAEAIEQMZDCNBSXQ3TVMN2WU43TNM/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
           "duration": null
         }
       ]
@@ -335,7 +326,7 @@
         },
         {
           "channel_name": "MOVISTAR2",
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LQIBDVYRKCCBRDUOZUEAQC6OZVEY5GWMZKCF2FMWCZJAIHCJRSGU3X6BJZHESCCOBMGRKBEGI6CABRAGTZOVRHKYTVOV5G64T2PRQAQAAKAEIBUGQQMVTWE4LKOY/index.m3u8",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LQIBDVYRKCCBRDUOZUEAQC6OZVEY5GWMZKCF2FMWCZJAIHCJRSGU3X6BJZHESCCOBMGRKBEGI6CABRAGTZOVRHKYTVOV5G64T2PRQAQAAKAEIBUGQQMVTWE43GOA/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         },
@@ -361,7 +352,7 @@
         },
         {
           "channel_name": "MOVISTAR",
-          "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARA4JUKVQQLVISONRYMVRWI732MVQWW33TCEAAGBABCANBU43HMB2WC4DEMVSXQYLFN4BQABQDAU/index.m3u8",
+          "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARA4JUKVQQLVISONRYMVRWI732MVQWW33TCEAAGBABCANBU43HMB2WC4DEMVSXQYLFN4BQABIAAM/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
@@ -376,6 +367,40 @@
         {
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFKQI5AVKEDDLFKTIMB5GA6CA5JGGZZAQKR2LYJHIVKFKZLBA6L7OB3HE3T7OBZXEYLPPEBQEAYHAQCAEEDZP5YHOZLWMNTXA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta 125K Mallorca, Spain Women Singles - Maria Lourdes Carle Vs Teodora Kostovic (10/10/25)": {
+      "event_title": "Wta 125K Mallorca, Spain Women Singles - Maria Lourdes Carle Vs Teodora Kostovic (10/10/25)",
+      "event_time": "04:00PM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "MOVISTAR",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TEJZZERZAQORFG43C4NTZOJJUCWCVCBDEG4YBGUVDMKZHGFSRSJBWFVPEIWSXCANBUEDAOV5G64TWMVQHI4TBN54QGAQDAQDAMCIQPF7XA43AOZQGQ4A/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TEJZZERZAQORFG43C4NTZOJJUCWCVCBDEG4YBGUVDMKZHGFSRSJBWFVPEIWSXCANBUEDAOV5G64TSOV5G64TZOVUQCBAFBUIBUGQQMFRGE43KOU/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Wuhan, China Women Doubles - Mihalikova T / Nicholls O Vs Linda Noskova/Rebecca Sramkova (10/10/25)": {
+      "event_title": "Wta Wuhan, China Women Doubles - Mihalikova T / Nicholls O Vs Linda Noskova/Rebecca Sramkova (10/10/25)",
+      "event_time": "04:05PM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD B",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKFCYLJJFQWK3L5DDE5IEMV6WIGZZEY5CIKJVIIJHYFCGIMIHYOR3GQSHECR2EMXD2PJEOZRVOUKRKNJVCEAAE4YSQOJLEMYWK6DBMVVBCGAZCQDBAGQ2ONTWA5LBOBSGCZLYMFSWWBQAAUBQM/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
