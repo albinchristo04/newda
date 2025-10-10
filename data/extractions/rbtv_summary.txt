@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-10T08:55:37.956462
+Extraction Time: 2025-10-10T09:18:20.644830
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 15
-- Total Channels: 20
+- Unique Events: 17
+- Total Channels: 22
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -22,6 +22,10 @@ EVENT BREAKDOWN:
   Time: 11:00AM, Channels: 1
 - National Basketball League - Cairns Taipans Vs Perth Wildcat...
   Time: 04:30PM, Channels: 2
+- China Women'S National Championship Basketball - Xinjiang Wo...
+  Time: 05:00PM, Channels: 1
+- Pba Philippine Cup - Terrafirma Dyip Vs Blackwater Elite (10...
+  Time: 05:15PM, Channels: 1
 - T20 World Cup, Asia-Eap Qualifier, Regional Final - United A...
   Time: 02:00PM, Channels: 1
 - Aus Champ - South Melbourne Vs Sydney Olympic (10/10/25)
@@ -32,13 +36,13 @@ EVENT BREAKDOWN:
   Time: 04:30PM, Channels: 2
 - Premier Padel 2025  - Milan P1 Day 5 Qf Match 1 (10/10/25)
   Time: 03:00PM, Channels: 2
-- Wta Wuhan, China Women Singles - Laura Siegemund Vs Coco Gau...
-  Time: 03:30PM, Channels: 1
 - Wta 125K Mallorca, Spain Women Singles - Maria Lourdes Carle...
   Time: 04:00PM, Channels: 2
 - Wta Wuhan, China Women Doubles - Mihalikova T / Nicholls O V...
   Time: 04:05PM, Channels: 1
 - Premier Padel 2025  - Milan P1 Day 5 Qf Match 2 (10/10/25)
   Time: 04:30PM, Channels: 1
+- Pádel Premier Padel 2025 - Cuarto De Final Masculino 1 (10/1...
+  Time: 05:00PM, Channels: 1
 - Livoli Divisi Utama - Final Four: Petrokimia Gresik Pupuk In...
   Time: 03:00PM, Channels: 1

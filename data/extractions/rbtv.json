@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-10T08:55:37.956462",
+  "timestamp": "2025-10-10T09:18:20.644830",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -59,6 +59,26 @@
       "channel_name": "SD",
       "event_title": "National Basketball League - Cairns Taipans Vs Perth Wildcats (10/10/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQPQ3DINZQG5SHQ4AGGMRDON2CCJTVKWKAKFPCA5JGGZZBIMBCGE5GWERQLVLFAVKEIMIBU6LVMJSXQ3TVMNSXQYLFNMAQEAYCAMEBAGTZOVRHEYDSNVRQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL"
+    },
+    {
+      "event_time": "05:00PM",
+      "event_date": "10/10/25",
+      "channel_name": "SD",
+      "event_title": "China Women'S National Championship Basketball - Xinjiang Wojiang Women Vs Ganzhou Ganxing (W) (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CA6TSKZTMQBD6KBXEVRCUEL4KJAFSX26KE7XKEZNGMUSKOJKHQ4C2MCBCJYVKQ23KVCDCNB4FFZGS5IIFQ6CCLBYL5KRGY27LJMVCPJSOAJD2KJQHZSSIODFDZIFYSK4L5CRA5ZSHMUCYPBDOV4BE63LN5ZRCAATDYNBAAYQPF7XA53CORSWM5TLNNXXGEIAAQDAMCAF/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+      "group_title": "BASKETBALL"
+    },
+    {
+      "event_time": "05:15PM",
+      "event_date": "10/10/25",
+      "channel_name": "SD",
+      "event_title": "Pba Philippine Cup - Terrafirma Dyip Vs Blackwater Elite (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AMLRCZICFQ6DYLBCHMWDOVASOBAUAEA5CADTAIRXGMRDYIRIGNVQCICYIIJUEQYQOJODENR3GIZTAMBCMULSOLBNKQJBSHQQAIIBU6LVMNSXQ3TVMJ2WE63TNUAREGI6CABAOATFNVTA/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
       "group_title": "BASKETBALL"
@@ -143,16 +163,6 @@
       "group_title": "TENNIS"
     },
     {
-      "event_time": "03:30PM",
-      "event_date": "10/10/25",
-      "channel_name": "HDD A",
-      "event_title": "Wta Wuhan, China Women Singles - Laura Siegemund Vs Coco Gauff (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFKQI5AVKEDDLFKTIMB5GA6CA5JGGZZAQKR2LYJHIVKFKZLBA6L7OB3HE3T7OBZXEYLPPEBQEAYHAQCAEEDZP5YHOZLWMNTXA/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
       "event_time": "04:00PM",
       "event_date": "10/10/25",
       "channel_name": "MOVISTAR",
@@ -188,6 +198,16 @@
       "channel_name": "SKA",
       "event_title": "Premier Padel 2025  - Milan P1 Day 5 Qf Match 2 (10/10/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARA4JUKVQQLVISONRYMVQGI732MVQWW33TCEAAGBABCANBU43HMB2WC4DEMZSXQYLFN4BQABYMAU/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "05:00PM",
+      "event_date": "10/10/25",
+      "channel_name": "MOVISTAR",
+      "event_title": "P\u00e1del Premier Padel 2025 - Cuarto De Final Masculino 1 (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AOLPCIJXFB2QANZXEYWDYQYSMNKVIVK4CBQWKYTQOJUXKEZQGM4TCNQRKZLBI5SZLZIT65I5EQQSOIB4FQ6CIZLICEMBSFADCANBU43HMB2WGZD7PJSWA63VNIEQOBAUDINBABTBM5SXEZA/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
@@ -275,6 +295,34 @@
         {
           "channel_name": "SD",
           "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQPQ3DINZQG5SHQ4AGGMRDON2CCJTVKWKAKFPCA5JGGZZBIMBCGE5GWERQLVLFAVKEIMIBU6LVMJSXQ3TVMNSXQYLFNMAQEAYCAMEBAGTZOVRHEYDSNVRQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "China Women'S National Championship Basketball - Xinjiang Wojiang Women Vs Ganzhou Ganxing (W) (10/10/25)": {
+      "event_title": "China Women'S National Championship Basketball - Xinjiang Wojiang Women Vs Ganzhou Ganxing (W) (10/10/25)",
+      "event_time": "05:00PM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/CA6TSKZTMQBD6KBXEVRCUEL4KJAFSX26KE7XKEZNGMUSKOJKHQ4C2MCBCJYVKQ23KVCDCNB4FFZGS5IIFQ6CCLBYL5KRGY27LJMVCPJSOAJD2KJQHZSSIODFDZIFYSK4L5CRA5ZSHMUCYPBDOV4BE63LN5ZRCAATDYNBAAYQPF7XA53CORSWM5TLNNXXGEIAAQDAMCAF/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Pba Philippine Cup - Terrafirma Dyip Vs Blackwater Elite (10/10/25)": {
+      "event_title": "Pba Philippine Cup - Terrafirma Dyip Vs Blackwater Elite (10/10/25)",
+      "event_time": "05:15PM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SD",
+          "url": "https://world-proxifier.xyz/rbtv/p/AMLRCZICFQ6DYLBCHMWDOVASOBAUAEA5CADTAIRXGMRDYIRIGNVQCICYIIJUEQYQOJODENR3GIZTAMBCMULSOLBNKQJBSHQQAIIBU6LVMNSXQ3TVMJ2WE63TNUAREGI6CABAOATFNVTA/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
           "duration": null
         }
@@ -368,20 +416,6 @@
         }
       ]
     },
-    "Wta Wuhan, China Women Singles - Laura Siegemund Vs Coco Gauff (10/10/25)": {
-      "event_title": "Wta Wuhan, China Women Singles - Laura Siegemund Vs Coco Gauff (10/10/25)",
-      "event_time": "03:30PM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKFKQI5AVKEDDLFKTIMB5GA6CA5JGGZZAQKR2LYJHIVKFKZLBA6L7OB3HE3T7OBZXEYLPPEBQEAYHAQCAEEDZP5YHOZLWMNTXA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "Wta 125K Mallorca, Spain Women Singles - Maria Lourdes Carle Vs Teodora Kostovic (10/10/25)": {
       "event_title": "Wta 125K Mallorca, Spain Women Singles - Maria Lourdes Carle Vs Teodora Kostovic (10/10/25)",
       "event_time": "04:00PM",
@@ -425,6 +459,20 @@
         {
           "channel_name": "SKA",
           "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARA4JUKVQQLVISONRYMVQGI732MVQWW33TCEAAGBABCANBU43HMB2WC4DEMZSXQYLFN4BQABYMAU/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "P\u00e1del Premier Padel 2025 - Cuarto De Final Masculino 1 (10/10/25)": {
+      "event_title": "P\u00e1del Premier Padel 2025 - Cuarto De Final Masculino 1 (10/10/25)",
+      "event_time": "05:00PM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "MOVISTAR",
+          "url": "https://world-proxifier.xyz/rbtv/p/AOLPCIJXFB2QANZXEYWDYQYSMNKVIVK4CBQWKYTQOJUXKEZQGM4TCNQRKZLBI5SZLZIT65I5EQQSOIB4FQ6CIZLICEMBSFADCANBU43HMB2WGZD7PJSWA63VNIEQOBAUDINBABTBM5SXEZA/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
