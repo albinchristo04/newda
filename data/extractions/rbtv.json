@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-10T05:33:29.567568",
+  "timestamp": "2025-10-10T05:49:16.378416",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -33,6 +33,15 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
       "group_title": "MOTORSPORT"
+    },
+    {
+      "event_time": "11:10AM",
+      "event_date": "10/10/25",
+      "event_title": "Pga Tour - Es2, Japan Championship | Day 2 (10/10/25) [STREAM 38[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AMJBCZIGFMQCEZL7NMAAUAY6CN7FCQCRLZZRMOBEH42DYPZLEERSYKIRJYJXAUKJCABHG732MVVXI5L2N5ZHSZLTDMJAUAAEAYBBA6L7OB6WC53FMY/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ots_active.webp",
+      "group_title": "OTHERS"
     },
     {
       "event_time": "11:10AM",
@@ -151,6 +160,12 @@
       "event_date": "10/10/25",
       "category": null,
       "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/AMJBCZIGFMQCEZL7NMAAUAY6CN7FCQCRLZZRMOBEH42DYPZLEERSYKIRJYJXAUKJCABHG732MVVXI5L2N5ZHSZLTDMJAUAAEAYBBA6L7OB6WC53FMY/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ots_active.webp",
+          "duration": null
+        },
         {
           "channel_name": null,
           "url": "https://world-proxifier.xyz/rbtv/p/AMJBCZIGFMQCEZL7NMAAUAY6CN7FCQCRLZZRMOBEH42DYPZLEERSYKIRJYJXAUKJCABHG732MVVXI5L2N5ZHSZLTDMJAUAAEAYBBA6L7OB6WC53FMY/index.m3u8",
