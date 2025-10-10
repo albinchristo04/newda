@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-10T09:39:11.075746",
+  "timestamp": "2025-10-10T09:48:56.024586",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -202,26 +202,6 @@
       "group_title": "TENNIS"
     },
     {
-      "event_time": "04:00PM",
-      "event_date": "10/10/25",
-      "channel_name": "MOVISTAR",
-      "event_title": "Wta 125K Mallorca, Spain Women Singles - Maria Lourdes Carle Vs Teodora Kostovic (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TEJZZERZAQORFG43C4NTZOJJUCWCVCBDEG4YBGUVDMKZHGFSRSJBWFVPEIWSXCANBUEDAOV5G64TWMVQHI4TBN54QGAQDAQDAMCIQPF7XA43AOZQGQ4A/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
-      "event_time": "04:00PM",
-      "event_date": "10/10/25",
-      "channel_name": "HDD A",
-      "event_title": "Wta 125K Mallorca, Spain Women Singles - Maria Lourdes Carle Vs Teodora Kostovic (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TEJZZERZAQORFG43C4NTZOJJUCWCVCBDEG4YBGUVDMKZHGFSRSJBWFVPEIWSXCANBUEDAOV5G64TSOV5G64TZOVUQCBAFBUIBUGQQMFRGE43KOU/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-      "group_title": "TENNIS"
-    },
-    {
       "event_time": "04:05PM",
       "event_date": "10/10/25",
       "channel_name": "HDD A",
@@ -247,6 +227,16 @@
       "channel_name": "MOVISTAR",
       "event_title": "P\u00e1del Premier Padel 2025 - Cuarto De Final Masculino 1 (10/10/25)",
       "url": "https://world-proxifier.xyz/rbtv/p/AOLPCIJXFB2QANZXEYWDYQYSMNKVIVK4CBQWKYTQOJUXKEZQGM4TCNQRKZLBI5SZLZIT65I5EQQSOIB4FQ6CIZLICEMBSFADCANBU43HMB2WGZD7PJSWA63VNIEQOBAUDINBABTBM5SXEZA/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "05:50PM",
+      "event_date": "10/10/25",
+      "channel_name": "HDD B",
+      "event_title": "Wta Wuhan, China Women Doubles - Siegemund L / Stollar F Vs Jovic I / Olmos G (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKCSYK5KFCXKFLZKHGGLQNJZBOIJ7FE7CUN3ZO4JEKRYQPJPUMORWOAGHE23VD4UT6JBWPF3BEGI6CABRAGTZOVTGK6DOOVRHKYTYOFUQEEQZDYIAEBYCMVWWO/index.m3u8",
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
@@ -495,26 +485,6 @@
         }
       ]
     },
-    "Wta 125K Mallorca, Spain Women Singles - Maria Lourdes Carle Vs Teodora Kostovic (10/10/25)": {
-      "event_title": "Wta 125K Mallorca, Spain Women Singles - Maria Lourdes Carle Vs Teodora Kostovic (10/10/25)",
-      "event_time": "04:00PM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "MOVISTAR",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TEJZZERZAQORFG43C4NTZOJJUCWCVCBDEG4YBGUVDMKZHGFSRSJBWFVPEIWSXCANBUEDAOV5G64TWMVQHI4TBN54QGAQDAQDAMCIQPF7XA43AOZQGQ4A/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TEJZZERZAQORFG43C4NTZOJJUCWCVCBDEG4YBGUVDMKZHGFSRSJBWFVPEIWSXCANBUEDAOV5G64TSOV5G64TZOVUQCBAFBUIBUGQQMFRGE43KOU/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "Wta Wuhan, China Women Doubles - Mihalikova T / Nicholls O Vs Linda Noskova/Rebecca Sramkova (10/10/25)": {
       "event_title": "Wta Wuhan, China Women Doubles - Mihalikova T / Nicholls O Vs Linda Noskova/Rebecca Sramkova (10/10/25)",
       "event_time": "04:05PM",
@@ -552,6 +522,20 @@
         {
           "channel_name": "MOVISTAR",
           "url": "https://world-proxifier.xyz/rbtv/p/AOLPCIJXFB2QANZXEYWDYQYSMNKVIVK4CBQWKYTQOJUXKEZQGM4TCNQRKZLBI5SZLZIT65I5EQQSOIB4FQ6CIZLICEMBSFADCANBU43HMB2WGZD7PJSWA63VNIEQOBAUDINBABTBM5SXEZA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Wuhan, China Women Doubles - Siegemund L / Stollar F Vs Jovic I / Olmos G (10/10/25)": {
+      "event_title": "Wta Wuhan, China Women Doubles - Siegemund L / Stollar F Vs Jovic I / Olmos G (10/10/25)",
+      "event_time": "05:50PM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "HDD B",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKCSYK5KFCXKFLZKHGGLQNJZBOIJ7FE7CUN3ZO4JEKRYQPJPUMORWOAGHE23VD4UT6JBWPF3BEGI6CABRAGTZOVTGK6DOOVRHKYTYOFUQEEQZDYIAEBYCMVWWO/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }

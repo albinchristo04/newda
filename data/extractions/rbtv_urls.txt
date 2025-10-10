@@ -1,4 +1,4 @@
-Extracted at: 2025-10-10T09:39:11.075746
+Extracted at: 2025-10-10T09:48:56.024586
 Base URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 === GROUPED EVENTS BY TITLE ===
@@ -175,20 +175,6 @@ Available Channels (2):
 
 ================================================================================
 
-EVENT: Wta 125K Mallorca, Spain Women Singles - Maria Lourdes Carle Vs Teodora Kostovic (10/10/25)
-Time: 04:00PM
-Date: 10/10/25
-Category: None
-Available Channels (2):
-  1. MOVISTAR
-     URL: https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TEJZZERZAQORFG43C4NTZOJJUCWCVCBDEG4YBGUVDMKZHGFSRSJBWFVPEIWSXCANBUEDAOV5G64TWMVQHI4TBN54QGAQDAQDAMCIQPF7XA43AOZQGQ4A/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
-  2. HDD A
-     URL: https://world-proxifier.xyz/rbtv/p/AQARCZLDOZQBWZI7FIUTKXSAKBKRYEDDIAZDYPTFAUVTQNJLOIMCYN2WLZLEOEA5CB6TEJZZERZAQORFG43C4NTZOJJUCWCVCBDEG4YBGUVDMKZHGFSRSJBWFVPEIWSXCANBUEDAOV5G64TSOV5G64TZOVUQCBAFBUIBUGQQMFRGE43KOU/index.m3u8
-     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
-
-================================================================================
-
 EVENT: Wta Wuhan, China Women Doubles - Mihalikova T / Nicholls O Vs Linda Noskova/Rebecca Sramkova (10/10/25)
 Time: 04:05PM
 Date: 10/10/25
@@ -218,6 +204,17 @@ Category: None
 Available Channels (1):
   1. MOVISTAR
      URL: https://world-proxifier.xyz/rbtv/p/AOLPCIJXFB2QANZXEYWDYQYSMNKVIVK4CBQWKYTQOJUXKEZQGM4TCNQRKZLBI5SZLZIT65I5EQQSOIB4FQ6CIZLICEMBSFADCANBU43HMB2WGZD7PJSWA63VNIEQOBAUDINBABTBM5SXEZA/index.m3u8
+     Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
+
+================================================================================
+
+EVENT: Wta Wuhan, China Women Doubles - Siegemund L / Stollar F Vs Jovic I / Olmos G (10/10/25)
+Time: 05:50PM
+Date: 10/10/25
+Category: None
+Available Channels (1):
+  1. HDD B
+     URL: https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKCSYK5KFCXKFLZKHGGLQNJZBOIJ7FE7CUN3ZO4JEKRYQPJPUMORWOAGHE23VD4UT6JBWPF3BEGI6CABRAGTZOVTGK6DOOVRHKYTYOFUQEEQZDYIAEBYCMVWWO/index.m3u8
      Logo: https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp
 
 ================================================================================
