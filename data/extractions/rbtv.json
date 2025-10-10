@@ -1,19 +1,9 @@
 {
-  "timestamp": "2025-10-10T02:39:21.985216",
+  "timestamp": "2025-10-10T03:23:06.717772",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
   "events": [
-    {
-      "event_time": "07:30AM",
-      "event_date": "10/10/25",
-      "channel_name": "HDD A",
-      "event_title": "Usa: Ncaa - Tulane Vs East Carolina (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/AYDBC73SBILBCBDSMZSQ2RC6KJNFKECGINZRAMJWEZSBMMJXHUTSYN2QCIMR4EAJCANHS5LGMV4G45LCOVRHU5DKAYJBSHQQAIDQEZTNME/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
-      "group_title": "AMERICAN FOOTBALL"
-    },
     {
       "event_time": "08:00AM",
       "event_date": "10/10/25",
@@ -54,6 +44,26 @@
       "group_title": "AMERICAN FOOTBALL"
     },
     {
+      "event_time": "11:00AM",
+      "event_date": "10/10/25",
+      "channel_name": "SKA",
+      "event_title": "Ladies Pga Tour - Buick Lpga Shanghai 2025 Tournament From Qizhong Garden Golf Club, Shanghai, People'S Republic Of China. (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/H42DILBXG52SAIRTNMYTMRCACMMRAUSFLEYD44BJEIRTI4BWHIVCWPSZKNNBIAQAAICXGIJ7GAQCUNB5EA6D6ZJ7INOV4FCBLFFFQPB3G5STKJJHGQQDY2ZCGZOVIE2XLRCVEHDTEY4CIPBDHUYSY7TLGU6F4QS7KELUGECCGYSSKJZ6FU3HAKRUNMTDCWC4KINBAGQ2CBRGO4DPPBSGOYDVMNVW64YRAABQIAYDAAAXG732MVSHMZ3EORVQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+      "group_title": "BADMINTON"
+    },
+    {
+      "event_time": "11:00AM",
+      "event_date": "10/10/25",
+      "channel_name": "SKA",
+      "event_title": "Pga Tour 2025 - Baycurrent Classic 2025 Tournament Held At Yokohama Country Club, Yokohama, Japan. (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/EMZDCZJGFMQCEZLAPN3WYEI7CNLFCSKTIUQSONJLEZSDMPBEEE4CYOQRAABQMBIQIRPSMJZ6EQ7SCOZEMU5C4KJ5CFJUOFCJL5NV6OZUHUSHEJZ2EUVSMOJ4PFJF4RSWDQIESXZYHI4CIPZFPFYC6MZ3EQ3R6EQZDYIACAQQPF7XA53CORSHA33YNN3WSAIBAACAEEA2DJZWGYTXMZYGO/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+      "group_title": "BADMINTON"
+    },
+    {
       "event_time": "09:08AM",
       "event_date": "10/10/25",
       "channel_name": "HDK A",
@@ -71,63 +81,6 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
       "group_title": "BASEBALL"
-    },
-    {
-      "event_time": "08:00AM",
-      "event_date": "10/10/25",
-      "channel_name": "HDD A",
-      "event_title": "National Basketball Association - Chicago Bulls Vs Cleveland Cavaliers (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LSLJNFOUKXL4IBCIB4FEQWIIZDMUISOIBPKRPFEWSUCBZVCJJUHQWDONRGOBXXQ23XPENRQEYCCANBUEDBMVQHKZDWNVYG66DLO5XAGBACA4/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
-    },
-    {
-      "event_time": "08:00AM",
-      "event_date": "10/10/25",
-      "event_title": "National Basketball Association - Chicago Bulls Vs Cleveland Cavaliers (10/10/25) [STREAM 42[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LSLJNFOUKXL4IBCIB4FEQWIIZDMUISOIBPKRPFEWSUCBZVCJJUHQWDONRGOBXXQ23XPENRQEYGCANBUEDBMVQHKZDWNVYG66DLO5XAGBADAE/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
-    },
-    {
-      "event_time": "08:00AM",
-      "event_date": "10/10/25",
-      "channel_name": "HDD A",
-      "event_title": "National Basketball Association - Milwaukee Bucks Vs Detroit Pistons (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L4LNPUGUKFLNKTM5ISGAYS6JTQGMQWWAJ4IVAFYXKECBQFSIBBH4VSCZD7PJSWA23POMIQIEY6DIIAEADDMVTHO23EP55GKYD4O5XQABQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
-    },
-    {
-      "event_time": "08:00AM",
-      "event_date": "10/10/25",
-      "event_title": "National Basketball Association - Milwaukee Bucks Vs Detroit Pistons (10/10/25) [STREAM 41[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L4LNPUGUKFLNKTM5ISGAYS6JTQGMQWWAJ4IVAFYXKECBQFSIBBH4VSCZD7PJSWA23POMIQAEY6DIIAEADDMVTHO23EP55GKYD4O5XQCBQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
-    },
-    {
-      "event_time": "08:00AM",
-      "event_date": "10/10/25",
-      "channel_name": "HDD A",
-      "event_title": "National Basketball Association - Oklahoma City Thunder Vs Charlotte Hornets (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L6LFPVKWC7LVIXGFRZGEVWIAJYGA6C6IBLCFCEAFDTLBIUEPZ2EQYTOZA5H43TYLRRFIIRQGIUAIIBUGTTMNYG66DEM5QHKYT5OZURCGAZCQBAOAQGMJQA/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
-    },
-    {
-      "event_time": "08:00AM",
-      "event_date": "10/10/25",
-      "event_title": "National Basketball Association - Oklahoma City Thunder Vs Charlotte Hornets (10/10/25) [STREAM 43[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L6LFPVKWC7LVIXGFRZGEVWIAJYGA6C6IBLCFCEAFDTLBIUEPZ2EQYTOZA5H43TYLRRFIIRQGIUAIIBUGTTM5YG66DEM5QHKYT5OZURCGAZCQBAOAQGMNRQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
     },
     {
       "event_time": "10:00AM",
@@ -169,16 +122,6 @@
       "group_title": "FIGHTING"
     },
     {
-      "event_time": "08:35AM",
-      "event_date": "10/10/25",
-      "channel_name": "SD",
-      "event_title": "Brazilian Serie B - Remo Belem (Pa) Vs Athletico Paranaense (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CETTCPZ3FA6DCK3SDAQCWWCXCN3BAHIQMI3DQP3FCAQTSNJIOJRRKGAYCJCUOEDRIRMD6MBEFQYSW5IAEQQCUKZYKROEAUIQDINBAYTVPJXXE53VPJXXE73UNQAAIBIBCANBUEDAMVUH2Z34/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
       "event_time": "10:00AM",
       "event_date": "10/10/25",
       "channel_name": "HDD A",
@@ -206,63 +149,6 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
       "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "08:00AM",
-      "event_date": "10/10/25",
-      "channel_name": "HDD A",
-      "event_title": "National Hockey League - Nashville Predators Vs Columbus Blue Jackets (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFDQSSMOBTHMTSSPARMJAVCVCRIRPSCJTQGMQWIFR7FETSMJZMIIJHCWCFKUIHUMRWHMQCMN3VPJXXE6TUPENRQEYCCANBUEDBMVQHKZLRMVYG66DLO5XAGBADAQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
-      "group_title": "HOCKEY"
-    },
-    {
-      "event_time": "08:00AM",
-      "event_date": "10/10/25",
-      "event_title": "National Hockey League - Nashville Predators Vs Columbus Blue Jackets (10/10/25) [STREAM 25[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFDQSSMOBTHMTSSPARMJAVCVCRIRPSCJTQGMQWIFR7FETSMJZMIIJHCWCFKUIHUMRWHMQCMN3VPJXXE6TUPENRQEYGCANBUEDBMVQHKZLRMVYG66DLO5XAGBACBU/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
-      "group_title": "HOCKEY"
-    },
-    {
-      "event_time": "08:00AM",
-      "event_date": "10/10/25",
-      "channel_name": "HDD A",
-      "event_title": "National Hockey League - St. Louis Blues Vs Minnesota Wild (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFAEYHW4AJHU7CYKQROBPUCVKDCBDCA5I5FQ6CUMBDFITCUZIOLBPFOFA2DIIACYTVPJXXE4TVPJXXE6LVNEAQKBQGCANBUEDBMJRHGYT5/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
-      "group_title": "HOCKEY"
-    },
-    {
-      "event_time": "08:00AM",
-      "event_date": "10/10/25",
-      "event_title": "National Hockey League - St. Louis Blues Vs Minnesota Wild (10/10/25) [STREAM 34[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFAEYHW4AJHU7CYKQROBPUCVKDCBDCA5I5FQ6CUMBDFITCUZIOLBPFOFA2DIIACYTVPJXXE5TVPJXXE6LVNEAQKBQGCANBUEDBMJRHGYDU/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
-      "group_title": "HOCKEY"
-    },
-    {
-      "event_time": "08:00AM",
-      "event_date": "10/10/25",
-      "event_title": "National Hockey League - Winnipeg Jets Vs Dallas Stars (10/10/25) [STREAM 33[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFAUWTWPRMEIXCE6L3K5DUOECGIMIBONB4FEZTO5IDGEZTSNTZDMMBGBIBCANBU43HOBXXQZDHMB2WE7DQNAIRQGIUAIDQEBTCMQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
-      "group_title": "HOCKEY"
-    },
-    {
-      "event_time": "08:00AM",
-      "event_date": "10/10/25",
-      "channel_name": "HDD A",
-      "event_title": "National Hockey League - Winnipeg Jets Vs Dallas Stars (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFAUWTWPRMEIXCE6L3K5DUOECGIMIBONB4FEZTO5IDGEZTSNTZDMMBGBIBCANBU43DOBXXQZDHMB2WE7DQNAIRQGIUAIDQEBTDMQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
-      "group_title": "HOCKEY"
     },
     {
       "event_time": "09:00AM",
@@ -351,6 +237,53 @@
       "group_title": "MOTORSPORT"
     },
     {
+      "event_time": "11:10AM",
+      "event_date": "10/10/25",
+      "event_title": "Pga Tour - Es2, Japan Championship | Day 2 (10/10/25) [STREAM 38[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AMJBCZIGFMQCEZL7NMAAUAY6CN7FCQCRLZZRMOBEH42DYPZLEERSYKIRJYJXAUKJCABHG732MVVXI5L2N5ZHSZLTDMJAUAAEAYBBA6L7OB6WC53FMY/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ots_active.webp",
+      "group_title": "OTHERS"
+    },
+    {
+      "event_time": "11:10AM",
+      "event_date": "10/10/25",
+      "event_title": "Pga Tour - Es2, Japan Championship | Day 2 (10/10/25) [STREAM 38[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AMJBCZIGFMQCEZL7NMAAUAY6CN7FCQCRLZZRMOBEH42DYPZLEERSYKIRJYJXAUKJCABHG732MVVXI5L2N5ZHSZLTDMJAUAAEAYBBA6L7OB6WC53FMY/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ots_active.webp",
+      "group_title": "OTHERS"
+    },
+    {
+      "event_time": "11:00AM",
+      "event_date": "10/10/25",
+      "channel_name": "VDO",
+      "event_title": "Wta Wuhan, China Women Singles - Katerina Siniakova Vs Jessica Pegula (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKESQIZLEMWK6KEIAAPB6FQZS6ORGERZD2NTZPNLUAR2ZKNIRAAZQG4YD4JLVPJXXE6DFOMNREAIEAAARAGTZOVRHKYTXMZSHC4TBN54QOAABAADQK/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "11:00AM",
+      "event_date": "10/10/25",
+      "channel_name": "HDD A",
+      "event_title": "Wta Wuhan, China Women Singles - Katerina Siniakova Vs Jessica Pegula (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKESQIZLEMWK6KEIAAPB6FQZS6ORGERZD2NTZPNLUAR2ZKNIRAAZQG4YD4JLVPJXXE6DFOMNREBIUDINBAATDMVRXMZTQOV5G64TZOJVQOBYK/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "11:00AM",
+      "event_date": "10/10/25",
+      "event_title": "Wta Wuhan, China Women Singles - Katerina Siniakova Vs Jessica Pegula (10/10/25) [STREAM 25[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKESQIZLEMWK6KEIAAPB6FQZS6ORGERZD2NTZPNLUAR2ZKNIRAAZQG4YD4JLVPJXXE6DFOMNREAIUDINBAATDMVRXMZTQOV5G64TZOJVQOBYG/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
       "event_time": "10:00AM",
       "event_date": "10/10/25",
       "channel_name": "VDO",
@@ -362,20 +295,6 @@
     }
   ],
   "grouped_events": {
-    "Usa: Ncaa - Tulane Vs East Carolina (10/10/25)": {
-      "event_title": "Usa: Ncaa - Tulane Vs East Carolina (10/10/25)",
-      "event_time": "07:30AM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/AYDBC73SBILBCBDSMZSQ2RC6KJNFKECGINZRAMJWEZSBMMJXHUTSYN2QCIMR4EAJCANHS5LGMV4G45LCOVRHU5DKAYJBSHQQAIDQEZTNME/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_amf_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "Usa: Ncaa - Georgia Southern Vs Southern Miss (10/10/25)": {
       "event_title": "Usa: Ncaa - Georgia Southern Vs Southern Miss (10/10/25)",
       "event_time": "08:00AM",
@@ -432,6 +351,34 @@
         }
       ]
     },
+    "Ladies Pga Tour - Buick Lpga Shanghai 2025 Tournament From Qizhong Garden Golf Club, Shanghai, People'S Republic Of China. (10/10/25)": {
+      "event_title": "Ladies Pga Tour - Buick Lpga Shanghai 2025 Tournament From Qizhong Garden Golf Club, Shanghai, People'S Republic Of China. (10/10/25)",
+      "event_time": "11:00AM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SKA",
+          "url": "https://world-proxifier.xyz/rbtv/p/H42DILBXG52SAIRTNMYTMRCACMMRAUSFLEYD44BJEIRTI4BWHIVCWPSZKNNBIAQAAICXGIJ7GAQCUNB5EA6D6ZJ7INOV4FCBLFFFQPB3G5STKJJHGQQDY2ZCGZOVIE2XLRCVEHDTEY4CIPBDHUYSY7TLGU6F4QS7KELUGECCGYSSKJZ6FU3HAKRUNMTDCWC4KINBAGQ2CBRGO4DPPBSGOYDVMNVW64YRAABQIAYDAAAXG732MVSHMZ3EORVQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Pga Tour 2025 - Baycurrent Classic 2025 Tournament Held At Yokohama Country Club, Yokohama, Japan. (10/10/25)": {
+      "event_title": "Pga Tour 2025 - Baycurrent Classic 2025 Tournament Held At Yokohama Country Club, Yokohama, Japan. (10/10/25)",
+      "event_time": "11:00AM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SKA",
+          "url": "https://world-proxifier.xyz/rbtv/p/EMZDCZJGFMQCEZLAPN3WYEI7CNLFCSKTIUQSONJLEZSDMPBEEE4CYOQRAABQMBIQIRPSMJZ6EQ7SCOZEMU5C4KJ5CFJUOFCJL5NV6OZUHUSHEJZ2EUVSMOJ4PFJF4RSWDQIESXZYHI4CIPZFPFYC6MZ3EQ3R6EQZDYIACAQQPF7XA53CORSHA33YNN3WSAIBAACAEEA2DJZWGYTXMZYGO/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
+          "duration": null
+        }
+      ]
+    },
     "Major League Baseball - Chicago Cubs Vs Milwaukee Brewers (10/10/25)": {
       "event_title": "Major League Baseball - Chicago Cubs Vs Milwaukee Brewers (10/10/25)",
       "event_time": "09:08AM",
@@ -456,90 +403,6 @@
           "channel_name": null,
           "url": "https://world-proxifier.xyz/rbtv/p/DY2DUKRAMQMTKJBVHYQHS42TIBIVEUK4LRZXQ4AGHIWTMMJCHVVQMLCTIEJUEQYQPVMT6IRRGA4SCMDQA4QC4MR4INARGHQ2CACBA6L7OB3XE3T7OB3WE63WNMCQUEY6DIIAEB3BMNRHY/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bas_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "National Basketball Association - Chicago Bulls Vs Cleveland Cavaliers (10/10/25)": {
-      "event_title": "National Basketball Association - Chicago Bulls Vs Cleveland Cavaliers (10/10/25)",
-      "event_time": "08:00AM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LSLJNFOUKXL4IBCIB4FEQWIIZDMUISOIBPKRPFEWSUCBZVCJJUHQWDONRGOBXXQ23XPENRQEYCCANBUEDBMVQHKZDWNVYG66DLO5XAGBACA4/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "National Basketball Association - Chicago Bulls Vs Cleveland Cavaliers (10/10/25) [STREAM 42[HD]]": {
-      "event_title": "National Basketball Association - Chicago Bulls Vs Cleveland Cavaliers (10/10/25) [STREAM 42[HD]]",
-      "event_time": "08:00AM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6LSLJNFOUKXL4IBCIB4FEQWIIZDMUISOIBPKRPFEWSUCBZVCJJUHQWDONRGOBXXQ23XPENRQEYGCANBUEDBMVQHKZDWNVYG66DLO5XAGBADAE/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "National Basketball Association - Milwaukee Bucks Vs Detroit Pistons (10/10/25)": {
-      "event_title": "National Basketball Association - Milwaukee Bucks Vs Detroit Pistons (10/10/25)",
-      "event_time": "08:00AM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L4LNPUGUKFLNKTM5ISGAYS6JTQGMQWWAJ4IVAFYXKECBQFSIBBH4VSCZD7PJSWA23POMIQIEY6DIIAEADDMVTHO23EP55GKYD4O5XQABQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "National Basketball Association - Milwaukee Bucks Vs Detroit Pistons (10/10/25) [STREAM 41[HD]]": {
-      "event_title": "National Basketball Association - Milwaukee Bucks Vs Detroit Pistons (10/10/25) [STREAM 41[HD]]",
-      "event_time": "08:00AM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L4LNPUGUKFLNKTM5ISGAYS6JTQGMQWWAJ4IVAFYXKECBQFSIBBH4VSCZD7PJSWA23POMIQAEY6DIIAEADDMVTHO23EP55GKYD4O5XQCBQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "National Basketball Association - Oklahoma City Thunder Vs Charlotte Hornets (10/10/25)": {
-      "event_title": "National Basketball Association - Oklahoma City Thunder Vs Charlotte Hornets (10/10/25)",
-      "event_time": "08:00AM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L6LFPVKWC7LVIXGFRZGEVWIAJYGA6C6IBLCFCEAFDTLBIUEPZ2EQYTOZA5H43TYLRRFIIRQGIUAIIBUGTTMNYG66DEM5QHKYT5OZURCGAZCQBAOAQGMJQA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "National Basketball Association - Oklahoma City Thunder Vs Charlotte Hornets (10/10/25) [STREAM 43[HD]]": {
-      "event_title": "National Basketball Association - Oklahoma City Thunder Vs Charlotte Hornets (10/10/25) [STREAM 43[HD]]",
-      "event_time": "08:00AM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQOEQCMPZGHMSSCOJKHRVWQ6L6LFPVKWC7LVIXGFRZGEVWIAJYGA6C6IBLCFCEAFDTLBIUEPZ2EQYTOZA5H43TYLRRFIIRQGIUAIIBUGTTM5YG66DEM5QHKYT5OZURCGAZCQBAOAQGMNRQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
           "duration": null
         }
       ]
@@ -600,20 +463,6 @@
         }
       ]
     },
-    "Brazilian Serie B - Remo Belem (Pa) Vs Athletico Paranaense (10/10/25)": {
-      "event_title": "Brazilian Serie B - Remo Belem (Pa) Vs Athletico Paranaense (10/10/25)",
-      "event_time": "08:35AM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/CETTCPZ3FA6DCK3SDAQCWWCXCN3BAHIQMI3DQP3FCAQTSNJIOJRRKGAYCJCUOEDRIRMD6MBEFQYSW5IAEQQCUKZYKROEAUIQDINBAYTVPJXXE53VPJXXE73UNQAAIBIBCANBUEDAMVUH2Z34/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "World Cup Qualification (Concacaf) - Honduras Vs Costa Rica (10/10/25)": {
       "event_title": "World Cup Qualification (Concacaf) - Honduras Vs Costa Rica (10/10/25)",
       "event_time": "10:00AM",
@@ -644,90 +493,6 @@
           "channel_name": null,
           "url": "https://world-proxifier.xyz/rbtv/p/AQ5CEKJWMQLCKNLSHIYDQXK3KVOVGUKELE6DW4DNCEFRWEYECEFAG4ARD4JXYX26KRCSCNBDMUSDO5ITFIQT6JDZMNNVAVIQDINBAYTVPJXXE5TVPJXXE73UMABAGCQECANBUEDAMVUH2ZDV/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "National Hockey League - Nashville Predators Vs Columbus Blue Jackets (10/10/25)": {
-      "event_title": "National Hockey League - Nashville Predators Vs Columbus Blue Jackets (10/10/25)",
-      "event_time": "08:00AM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFDQSSMOBTHMTSSPARMJAVCVCRIRPSCJTQGMQWIFR7FETSMJZMIIJHCWCFKUIHUMRWHMQCMN3VPJXXE6TUPENRQEYCCANBUEDBMVQHKZLRMVYG66DLO5XAGBADAQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "National Hockey League - Nashville Predators Vs Columbus Blue Jackets (10/10/25) [STREAM 25[HD]]": {
-      "event_title": "National Hockey League - Nashville Predators Vs Columbus Blue Jackets (10/10/25) [STREAM 25[HD]]",
-      "event_time": "08:00AM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFDQSSMOBTHMTSSPARMJAVCVCRIRPSCJTQGMQWIFR7FETSMJZMIIJHCWCFKUIHUMRWHMQCMN3VPJXXE6TUPENRQEYGCANBUEDBMVQHKZLRMVYG66DLO5XAGBACBU/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "National Hockey League - St. Louis Blues Vs Minnesota Wild (10/10/25)": {
-      "event_title": "National Hockey League - St. Louis Blues Vs Minnesota Wild (10/10/25)",
-      "event_time": "08:00AM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFAEYHW4AJHU7CYKQROBPUCVKDCBDCA5I5FQ6CUMBDFITCUZIOLBPFOFA2DIIACYTVPJXXE4TVPJXXE6LVNEAQKBQGCANBUEDBMJRHGYT5/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "National Hockey League - St. Louis Blues Vs Minnesota Wild (10/10/25) [STREAM 34[HD]]": {
-      "event_title": "National Hockey League - St. Louis Blues Vs Minnesota Wild (10/10/25) [STREAM 34[HD]]",
-      "event_time": "08:00AM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFAEYHW4AJHU7CYKQROBPUCVKDCBDCA5I5FQ6CUMBDFITCUZIOLBPFOFA2DIIACYTVPJXXE5TVPJXXE6LVNEAQKBQGCANBUEDBMJRHGYDU/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "National Hockey League - Winnipeg Jets Vs Dallas Stars (10/10/25) [STREAM 33[HD]]": {
-      "event_title": "National Hockey League - Winnipeg Jets Vs Dallas Stars (10/10/25) [STREAM 33[HD]]",
-      "event_time": "08:00AM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFAUWTWPRMEIXCE6L3K5DUOECGIMIBONB4FEZTO5IDGEZTSNTZDMMBGBIBCANBU43HOBXXQZDHMB2WE7DQNAIRQGIUAIDQEBTCMQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "National Hockey League - Winnipeg Jets Vs Dallas Stars (10/10/25)": {
-      "event_title": "National Hockey League - Winnipeg Jets Vs Dallas Stars (10/10/25)",
-      "event_time": "08:00AM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZI2EQTDEVCLCN4FKUKXIU3HK7LFAUWTWPRMEIXCE6L3K5DUOECGIMIBONB4FEZTO5IDGEZTSNTZDMMBGBIBCANBU43DOBXXQZDHMB2WE7DQNAIRQGIUAIDQEBTDMQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_hok_active.webp",
           "duration": null
         }
       ]
@@ -854,6 +619,60 @@
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/CUOBCZIXGETT6NJXFIVXSZKAIZLVWEDCKEYDYPRCOIDT2MJIEIRCUN2CLJNEIEA5CBRSMJJVG4YSKJZDMV4GCZLOCEMBSFAGCANBU43HMB2WC5TMMNSXQYLFNMDAABQAAE/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_moto_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Pga Tour - Es2, Japan Championship | Day 2 (10/10/25) [STREAM 38[HD]]": {
+      "event_title": "Pga Tour - Es2, Japan Championship | Day 2 (10/10/25) [STREAM 38[HD]]",
+      "event_time": "11:10AM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/AMJBCZIGFMQCEZL7NMAAUAY6CN7FCQCRLZZRMOBEH42DYPZLEERSYKIRJYJXAUKJCABHG732MVVXI5L2N5ZHSZLTDMJAUAAEAYBBA6L7OB6WC53FMY/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ots_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/AMJBCZIGFMQCEZL7NMAAUAY6CN7FCQCRLZZRMOBEH42DYPZLEERSYKIRJYJXAUKJCABHG732MVVXI5L2N5ZHSZLTDMJAUAAEAYBBA6L7OB6WC53FMY/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ots_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Wuhan, China Women Singles - Katerina Siniakova Vs Jessica Pegula (10/10/25)": {
+      "event_title": "Wta Wuhan, China Women Singles - Katerina Siniakova Vs Jessica Pegula (10/10/25)",
+      "event_time": "11:00AM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKESQIZLEMWK6KEIAAPB6FQZS6ORGERZD2NTZPNLUAR2ZKNIRAAZQG4YD4JLVPJXXE6DFOMNREAIEAAARAGTZOVRHKYTXMZSHC4TBN54QOAABAADQK/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKESQIZLEMWK6KEIAAPB6FQZS6ORGERZD2NTZPNLUAR2ZKNIRAAZQG4YD4JLVPJXXE6DFOMNREBIUDINBAATDMVRXMZTQOV5G64TZOJVQOBYK/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Wta Wuhan, China Women Singles - Katerina Siniakova Vs Jessica Pegula (10/10/25) [STREAM 25[HD]]": {
+      "event_title": "Wta Wuhan, China Women Singles - Katerina Siniakova Vs Jessica Pegula (10/10/25) [STREAM 25[HD]]",
+      "event_time": "11:00AM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKAZMHQRTSNJWOJTGKESQIZLEMWK6KEIAAPB6FQZS6ORGERZD2NTZPNLUAR2ZKNIRAAZQG4YD4JLVPJXXE6DFOMNREAIUDINBAATDMVRXMZTQOV5G64TZOJVQOBYG/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
       ]
