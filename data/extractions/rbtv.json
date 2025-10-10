@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-10T06:48:58.360166",
+  "timestamp": "2025-10-10T07:15:14.240202",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -110,6 +110,66 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
       "group_title": "TENNIS"
+    },
+    {
+      "event_time": "03:00PM",
+      "event_date": "10/10/25",
+      "channel_name": "SKA",
+      "event_title": "Atp Shanghai, China Men Singles - Arthur Rinderknech Vs Felix Auger-Aliassime (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LQIBDVYRKCCBRDUOZUEAQC6OZVEY5GWMZKCF2FMWCZJAIHCJRSGU3X6BJZHESCCOBMGRKBEGI6CABRAGTZOVRHKYTVOV5G64T2PRQAQAAKAEIBUGQQMVTWE4LFPU/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "03:00PM",
+      "event_date": "10/10/25",
+      "channel_name": "MOVISTAR2",
+      "event_title": "Atp Shanghai, China Men Singles - Arthur Rinderknech Vs Felix Auger-Aliassime (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LQIBDVYRKCCBRDUOZUEAQC6OZVEY5GWMZKCF2FMWCZJAIHCJRSGU3X6BJZHESCCOBMGRKBEGI6CABRAGTZOVRHKYTVOV5G64T2PRQAQAAKAEIBUGQQMVTWE4LKOY/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "03:00PM",
+      "event_date": "10/10/25",
+      "channel_name": "HDD A",
+      "event_title": "Atp Shanghai, China Men Singles - Arthur Rinderknech Vs Felix Auger-Aliassime (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LQIBDVYRKCCBRDUOZUEAQC6OZVEY5GWMZKCF2FMWCZJAIHCJRSGU3X6BJZHESCCOBMGRKBEGI6CABRAGTZOVTGK6DOOVQXY23SO5QAIEQZDYIAEBYCMVRGG/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "03:00PM",
+      "event_date": "10/10/25",
+      "channel_name": "SKA",
+      "event_title": "Premier Padel 2025  - Milan P1 Day 5 Qf Match 1 (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARA4JUKVQQLVISONRYMVRWI732MVQWW33TCEAAGBABCANBU43HMB2WC4DEMVSXQYLFN4BQABYMAQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "03:00PM",
+      "event_date": "10/10/25",
+      "channel_name": "MOVISTAR",
+      "event_title": "Premier Padel 2025  - Milan P1 Day 5 Qf Match 1 (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARA4JUKVQQLVISONRYMVRWI732MVQWW33TCEAAGBABCANBU43HMB2WC4DEMVSXQYLFN4BQABQDAU/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "03:00PM",
+      "event_date": "10/10/25",
+      "channel_name": "VDO",
+      "event_title": "Livoli Divisi Utama - Final Four: Petrokimia Gresik Pupuk Indonesia Vs  Bank Jatim (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/D46CMKR6FV2RILBEEI3DAELHI5KV2UIQDVZRGOJLGMUHKFRKE44X66LBK5DUMX23LFOTUNDQAIQCCJRZFZZBWMBJIRMRG7K6KRPV4NRGHESHEMRGOBSRAKRLGIIXQUSALFORAGTZOVQXM4TOP5YHOYT3OR4RWGATAYAAAAYEMFTXA33YMRRWE53GOJZQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
+      "group_title": "VOLLEYBALL"
     }
   ],
   "grouped_events": {
@@ -247,6 +307,66 @@
           "channel_name": "HDD A",
           "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKGSZKNORI6A5OMIHY5I2FQZSUMTQDVZD2NTZMJDFYRS5CBRVCPJRGU3SC2Y6GEYTOOJMG5IBEYC5LZMVCWZ4EMYWK6DOOVRWK6DBMVXRCGAZCQBAAAACMJQWMZLYNZ2WE4TAPVZGW/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Atp Shanghai, China Men Singles - Arthur Rinderknech Vs Felix Auger-Aliassime (10/10/25)": {
+      "event_title": "Atp Shanghai, China Men Singles - Arthur Rinderknech Vs Felix Auger-Aliassime (10/10/25)",
+      "event_time": "03:00PM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SKA",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LQIBDVYRKCCBRDUOZUEAQC6OZVEY5GWMZKCF2FMWCZJAIHCJRSGU3X6BJZHESCCOBMGRKBEGI6CABRAGTZOVRHKYTVOV5G64T2PRQAQAAKAEIBUGQQMVTWE4LFPU/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "MOVISTAR2",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LQIBDVYRKCCBRDUOZUEAQC6OZVEY5GWMZKCF2FMWCZJAIHCJRSGU3X6BJZHESCCOBMGRKBEGI6CABRAGTZOVRHKYTVOV5G64T2PRQAQAAKAEIBUGQQMVTWE4LKOY/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LQIBDVYRKCCBRDUOZUEAQC6OZVEY5GWMZKCF2FMWCZJAIHCJRSGU3X6BJZHESCCOBMGRKBEGI6CABRAGTZOVTGK6DOOVQXY23SO5QAIEQZDYIAEBYCMVRGG/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Premier Padel 2025  - Milan P1 Day 5 Qf Match 1 (10/10/25)": {
+      "event_title": "Premier Padel 2025  - Milan P1 Day 5 Qf Match 1 (10/10/25)",
+      "event_time": "03:00PM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SKA",
+          "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARA4JUKVQQLVISONRYMVRWI732MVQWW33TCEAAGBABCANBU43HMB2WC4DEMVSXQYLFN4BQABYMAQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "MOVISTAR",
+          "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARA4JUKVQQLVISONRYMVRWI732MVQWW33TCEAAGBABCANBU43HMB2WC4DEMVSXQYLFN4BQABQDAU/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Livoli Divisi Utama - Final Four: Petrokimia Gresik Pupuk Indonesia Vs  Bank Jatim (10/10/25)": {
+      "event_title": "Livoli Divisi Utama - Final Four: Petrokimia Gresik Pupuk Indonesia Vs  Bank Jatim (10/10/25)",
+      "event_time": "03:00PM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "VDO",
+          "url": "https://world-proxifier.xyz/rbtv/p/D46CMKR6FV2RILBEEI3DAELHI5KV2UIQDVZRGOJLGMUHKFRKE44X66LBK5DUMX23LFOTUNDQAIQCCJRZFZZBWMBJIRMRG7K6KRPV4NRGHESHEMRGOBSRAKRLGIIXQUSALFORAGTZOVQXM4TOP5YHOYT3OR4RWGATAYAAAAYEMFTXA33YMRRWE53GOJZQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_vol_active.webp",
           "duration": null
         }
       ]
