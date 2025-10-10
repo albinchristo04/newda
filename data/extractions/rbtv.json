@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-10T05:49:16.378416",
+  "timestamp": "2025-10-10T06:23:56.163027",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
@@ -23,6 +23,15 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
       "group_title": "BADMINTON"
+    },
+    {
+      "event_time": "02:00PM",
+      "event_date": "10/10/25",
+      "event_title": "T20 World Cup, Asia-Eap Qualifier, Regional Final - United Arab Emirates Vs Malaysia (10/10/25) [STREAM 32[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/A5TWAZIFFMTTYILSBAYCSHISOJDVSUI5OUJAK4AUE4STSOJDHMXDO5IRMBLFGWK7LZIT65IWFQ6CKOLQNBZB4KZQIVLVOFDRIJIVE4YQHUWCAJJBGU3HEPJWPF6FGX2VJFBVSULTP55GKZDEP55GKYDLN5ZRCAADAQAAMCIHON7XUZLAONTWM43G/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
+      "group_title": "CRICKET"
     },
     {
       "event_time": "04:30AM",
@@ -53,13 +62,14 @@
       "group_title": "OTHERS"
     },
     {
-      "event_time": "11:10AM",
+      "event_time": "02:10PM",
       "event_date": "10/10/25",
-      "event_title": "Pga Tour - Es2, Japan Championship | Day 2 (10/10/25) [STREAM 38[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/AMJBCZIGFMQCEZL7NMAAUAY6CN7FCQCRLZZRMOBEH42DYPZLEERSYKIRJYJXAUKJCABHG732MVVXI5L2N5ZHSZLTDMJAUAAEAYBBA6L7OB6WC53FMY/index.m3u8",
+      "channel_name": "HDD A",
+      "event_title": "New Zealand: Bunnings Npc - Play Offs - Otago Vs Waikato (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/DUIAOZIIAEKBYBA4B57XS42HLVNFSXSXINZRWAAGOJUXKABJGMZGKFSXKRABIHIQP5CDEMR7MUSDO5IHEQ5SAJBNLYJBSHQQBAIBU6LVMZSXQ3TVMJ2WE6TUNUBREGI6CABAOATFMNSQ/index.m3u8",
       "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ots_active.webp",
-      "group_title": "OTHERS"
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp",
+      "group_title": "RUGBY"
     },
     {
       "event_time": "12:30PM",
@@ -140,6 +150,20 @@
         }
       ]
     },
+    "T20 World Cup, Asia-Eap Qualifier, Regional Final - United Arab Emirates Vs Malaysia (10/10/25) [STREAM 32[HD]]": {
+      "event_title": "T20 World Cup, Asia-Eap Qualifier, Regional Final - United Arab Emirates Vs Malaysia (10/10/25) [STREAM 32[HD]]",
+      "event_time": "02:00PM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/A5TWAZIFFMTTYILSBAYCSHISOJDVSUI5OUJAK4AUE4STSOJDHMXDO5IRMBLFGWK7LZIT65IWFQ6CKOLQNBZB4KZQIVLVOFDRIJIVE4YQHUWCAJJBGU3HEPJWPF6FGX2VJFBVSULTP55GKZDEP55GKYDLN5ZRCAADAQAAMCIHON7XUZLAONTWM43G/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
+          "duration": null
+        }
+      ]
+    },
     "Fia European Truck Racing Championship - Supercars (10/10/25)": {
       "event_title": "Fia European Truck Racing Championship - Supercars (10/10/25)",
       "event_time": "04:30AM",
@@ -171,11 +195,19 @@
           "url": "https://world-proxifier.xyz/rbtv/p/AMJBCZIGFMQCEZL7NMAAUAY6CN7FCQCRLZZRMOBEH42DYPZLEERSYKIRJYJXAUKJCABHG732MVVXI5L2N5ZHSZLTDMJAUAAEAYBBA6L7OB6WC53FMY/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ots_active.webp",
           "duration": null
-        },
+        }
+      ]
+    },
+    "New Zealand: Bunnings Npc - Play Offs - Otago Vs Waikato (10/10/25)": {
+      "event_title": "New Zealand: Bunnings Npc - Play Offs - Otago Vs Waikato (10/10/25)",
+      "event_time": "02:10PM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
         {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/AMJBCZIGFMQCEZL7NMAAUAY6CN7FCQCRLZZRMOBEH42DYPZLEERSYKIRJYJXAUKJCABHG732MVVXI5L2N5ZHSZLTDMJAUAAEAYBBA6L7OB6WC53FMY/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ots_active.webp",
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/DUIAOZIIAEKBYBA4B57XS42HLVNFSXSXINZRWAAGOJUXKABJGMZGKFSXKRABIHIQP5CDEMR7MUSDO5IHEQ5SAJBNLYJBSHQQBAIBU6LVMZSXQ3TVMJ2WE6TUNUBREGI6CABAOATFMNSQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_rub_active.webp",
           "duration": null
         }
       ]
