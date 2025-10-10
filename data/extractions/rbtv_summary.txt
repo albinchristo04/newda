@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-10T09:48:56.024586
+Extraction Time: 2025-10-10T10:17:07.634146
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 19
-- Total Channels: 25
+- Unique Events: 27
+- Total Channels: 34
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -16,6 +16,10 @@ EVENT BREAKDOWN:
   Time: 04:15PM, Channels: 1
 - Australia: Afl Women - Western Bulldogs W Vs Essendon Bomber...
   Time: 04:15PM, Channels: 1
+- Arctic Open, Mixed Doubles - Goh Soon Huat/Shevon Lai Jemie ...
+  Time: 06:00PM, Channels: 1
+- Arctic Open, Mixed Doubles - Ming Che Lu/En-Tzu Hung Vs Feng...
+  Time: 06:10PM, Channels: 1
 - National Basketball League - Cairns Taipans Vs Perth Wildcat...
   Time: 04:30PM, Channels: 2
 - China Women'S National Championship Basketball - Xinjiang Wo...
@@ -24,29 +28,41 @@ EVENT BREAKDOWN:
   Time: 05:15PM, Channels: 1
 - Japan League B3 - Shonan United Bc Vs Tokyo Hachioji Trains ...
   Time: 05:30PM, Channels: 1
-- T20 World Cup, Asia-Eap Qualifier, Regional Final - United A...
-  Time: 02:00PM, Channels: 1
+- Japan League B3 - Shinagawa City Bc Vs Tryhoop Okayama (10/1...
+  Time: 06:00PM, Channels: 1
+- Korean Basketball League - Goyang Carrot Jumpers Vs Changwon...
+  Time: 06:00PM, Channels: 1
+- B1 League - Nagasaki Verka Vs Saga Ballooners (10/10/25)
+  Time: 06:05PM, Channels: 1
+- B2 League - Fukui Blowinds Vs Iwate Big Bulls (10/10/25)
+  Time: 06:05PM, Channels: 1
 - World Cup, Women - New Zealand Women Vs Bangladesh Women (10...
   Time: 05:30PM, Channels: 1
 - World Cup, Women - New Zealand Women Vs Bangladesh Women (10...
   Time: 05:30PM, Channels: 1
-- Aus Champ - South Melbourne Vs Sydney Olympic (10/10/25)
-  Time: 04:00PM, Channels: 1
 - Indonesian Liga 2 - Pekanbaru United Vs Sriwijaya Fc (10/10/...
   Time: 04:30PM, Channels: 2
 - Indonesian Liga 2 - Persiku Kudus Vs Barito Putera (10/10/25...
   Time: 04:30PM, Channels: 2
+- International Club Friendly - Mfk Ruzomberok Vs Podbeskidzie...
+  Time: 06:00PM, Channels: 1
+- Japanese J3 League - Fc Osaka Vs Fc Ryukyu Okinawa (10/10/25...
+  Time: 06:00PM, Channels: 1
+- Japanese Challenge Cup - Japan Vs Paraguay (10/10/25)
+  Time: 06:20PM, Channels: 1
 - Worldsbk - Fp1 | Eicma Estoril Round (10/10/25)
   Time: 05:30PM, Channels: 3
 - Premier Padel 2025  - Milan P1 Day 5 Qf Match 1 (10/10/25)
   Time: 03:00PM, Channels: 2
-- Wta Wuhan, China Women Doubles - Mihalikova T / Nicholls O V...
-  Time: 04:05PM, Channels: 1
 - Premier Padel 2025  - Milan P1 Day 5 Qf Match 2 (10/10/25)
   Time: 04:30PM, Channels: 1
 - Pádel Premier Padel 2025 - Cuarto De Final Masculino 1 (10/1...
   Time: 05:00PM, Channels: 1
-- Wta Wuhan, China Women Doubles - Siegemund L / Stollar F Vs ...
+- Wta 125K Mallorca, Spain Women Singles - Lola Radivojevic Vs...
   Time: 05:50PM, Channels: 1
+- Premier Padel 2025  - Milan P1 Day 5 Qf Match 3 (10/10/25)
+  Time: 06:00PM, Channels: 2
 - Livoli Divisi Utama - Final Four: Petrokimia Gresik Pupuk In...
   Time: 03:00PM, Channels: 1
+- Livoli Divisi Utama - Final Four: Tni Au Electric Vs  Perumd...
+  Time: 06:00PM, Channels: 1
