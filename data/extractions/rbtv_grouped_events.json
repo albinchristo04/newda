@@ -41,20 +41,6 @@
       }
     ]
   },
-  "Japan League B3 - Shonan United Bc Vs Tokyo Hachioji Trains (10/10/25)": {
-    "event_title": "Japan League B3 - Shonan United Bc Vs Tokyo Hachioji Trains (10/10/25)",
-    "event_time": "05:30PM",
-    "event_date": "10/10/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "SD",
-        "url": "https://world-proxifier.xyz/rbtv/p/DE2CAJB4MQMTKJBVHYQHS4YBCMMRAY2YL46TIPTFA4VDYJBAGZVQOGQRIRABIZC7LNETY5IYEQYSYPB7F45WWEJLKBNV2RYQDINBAYLVPJXXE53VPJXXE6LVNEBAUAQBCANBUEDBMJRHG2T4/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-        "duration": null
-      }
-    ]
-  },
   "Japan League B3 - Shinagawa City Bc Vs Tryhoop Okayama (10/10/25)": {
     "event_title": "Japan League B3 - Shinagawa City Bc Vs Tryhoop Okayama (10/10/25)",
     "event_time": "06:00PM",
@@ -106,6 +92,20 @@
       {
         "channel_name": "SD",
         "url": "https://world-proxifier.xyz/rbtv/p/CFTXACJXEUZCKIDSMZSR6RCZIZORA4S4L4SDYPRBEFSCGI3FDM6CILKUCJYV2VYQOJCT6OJDMV4G45LCMV4GCZLKCEMBSFACAAAAAZLBMNSXQ3TVMJZGA7L4NQ/index.m3u8",
+        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
+        "duration": null
+      }
+    ]
+  },
+  "China Women'S National Championship Basketball - Fujian Women Vs Hefei Culture And Tourism Women\u2019S (10/10/25)": {
+    "event_title": "China Women'S National Championship Basketball - Fujian Women Vs Hefei Culture And Tourism Women\u2019S (10/10/25)",
+    "event_time": "07:30PM",
+    "event_date": "10/10/25",
+    "category": null,
+    "channels": [
+      {
+        "channel_name": "SD",
+        "url": "https://world-proxifier.xyz/rbtv/p/CA6TSKZTMQBD6KBXEVRCUEL4KJAFSX26KE7XKEZNGMUSKOJKHQ4C2MCBCJYVKQ23KVCDCNB4FFZGS5IWGA4CEJBXCFSVYWKVLYIEMIDVDAQDIIJ4OADCOJZRFRBVOE2VLZKBAZB4EARCYIJJOUDSUPZOFO53DK2ACQNBUEACON7XUZLBMR7XUZLAPN2WWAIFAIKBUGQQAJSGOZ3VMU/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
         "duration": null
       }
@@ -380,20 +380,6 @@
       {
         "channel_name": null,
         "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LVKNOV2WK4CB6TMMJGEA3CCI3QGMQWWBBVKRFBGUCVCB6VSPJUEU3XE3T7OB3HEYLPPEBREGI6CAAQSCLKM5UXO4TOP5YHOZLZOJUQG/index.m3u8",
-        "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
-        "duration": null
-      }
-    ]
-  },
-  "Wta Wuhan, China Women Doubles - Siegemund L / Stollar F Vs Jovic I / Olmos G (10/10/25)": {
-    "event_title": "Wta Wuhan, China Women Doubles - Siegemund L / Stollar F Vs Jovic I / Olmos G (10/10/25)",
-    "event_time": "06:45PM",
-    "event_date": "10/10/25",
-    "category": null,
-    "channels": [
-      {
-        "channel_name": "HDD A",
-        "url": "https://world-proxifier.xyz/rbtv/p/AQARCZIFGE6TCK36NMDDCWC4KIKGOX25KU6XKFBKE4TDSNJWOJTGKCSYK5KFCXKFLZKHGGLQNJZBOIJ7FE7CUN3ZO4JEKRYQPJPUMORWOAGHE23VD4UT6JBWPF3BEGI6CABRAGTZOVTGK6DOOVRHKYTYOFUQEEQZDYIAEBYCMRSWA/index.m3u8",
         "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
         "duration": null
       }

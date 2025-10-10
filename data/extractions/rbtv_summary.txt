@@ -1,12 +1,12 @@
 M3U8 EXTRACTION SUMMARY
 ==================================================
 
-Extraction Time: 2025-10-10T11:27:02.508923
+Extraction Time: 2025-10-10T11:37:38.492336
 Source URL: https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht
 
 STATISTICS:
-- Unique Events: 30
-- Total Channels: 36
+- Unique Events: 29
+- Total Channels: 35
 - Individual Streams: 0
 - Media Segments: 0
 - Other Events: 0
@@ -18,8 +18,6 @@ EVENT BREAKDOWN:
   Time: 07:00PM, Channels: 1
 - Arctic Open, Women, Doubles - Hsu Y C / Sung Y-H Vs Arisa Hi...
   Time: 07:10PM, Channels: 1
-- Japan League B3 - Shonan United Bc Vs Tokyo Hachioji Trains ...
-  Time: 05:30PM, Channels: 1
 - Japan League B3 - Shinagawa City Bc Vs Tryhoop Okayama (10/1...
   Time: 06:00PM, Channels: 1
 - Korean Basketball League - Goyang Carrot Jumpers Vs Changwon...
@@ -28,6 +26,8 @@ EVENT BREAKDOWN:
   Time: 06:05PM, Channels: 1
 - B2 League - Fukui Blowinds Vs Iwate Big Bulls (10/10/25)
   Time: 06:05PM, Channels: 1
+- China Women'S National Championship Basketball - Fujian Wome...
+  Time: 07:30PM, Channels: 1
 - World Cup, Women - New Zealand Women Vs Bangladesh Women (10...
   Time: 05:30PM, Channels: 1
 - World Cup, Women - New Zealand Women Vs Bangladesh Women (10...
@@ -62,8 +62,6 @@ EVENT BREAKDOWN:
   Time: 06:30PM, Channels: 3
 - Atp Shanghai, China Men Singles - Daniil Medvedev Vs Alex De...
   Time: 06:30PM, Channels: 1
-- Wta Wuhan, China Women Doubles - Siegemund L / Stollar F Vs ...
-  Time: 06:45PM, Channels: 1
 - Pádel Premier Padel 2025 - González/Guerrero - Stupaczuk/Leb...
   Time: 07:00PM, Channels: 1
 - Wta Wuhan, China Women Singles - Jasmine Paolini Vs Iga Swia...
