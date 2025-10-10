@@ -1,28 +1,9 @@
 {
-  "timestamp": "2025-10-10T10:17:07.634146",
+  "timestamp": "2025-10-10T10:41:27.692990",
   "base_url": "https://world-proxifier.xyz/rbtv/playlist.m3u8?timezone=pht",
   "streams": [],
   "segments": [],
   "events": [
-    {
-      "event_time": "04:15PM",
-      "event_date": "10/10/25",
-      "channel_name": "HDD A",
-      "event_title": "Australia: Afl Women - Western Bulldogs W Vs Essendon Bombers W (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAAGEIAAUMRSBDINMCB67ISMRNV2VK6CB7HKBZAEEYDAIRLOIETANK5KZOFGQYQM4ICKJTQAAQTOMB6EE6SKZI3LZPVCUKCIMIGO437PJSWG5DVPJXXE7LFOMNREAIEAAAQCBDHOV5G64TWMJRHGZLT/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_asr_active.webp",
-      "group_title": "AUSIE RULES"
-    },
-    {
-      "event_time": "04:15PM",
-      "event_date": "10/10/25",
-      "event_title": "Australia: Afl Women - Western Bulldogs W Vs Essendon Bombers W (10/10/25) [STREAM 6[HD]]",
-      "url": "https://world-proxifier.xyz/rbtv/p/CIAAGEIAAUMRSBDINMCB67ISMRNV2VK6CB7HKBZAEEYDAIRLOIETANK5KZOFGQYQM4ICKJTQAAQTOMB6EE6SKZI3LZPVCUKCIMIGO437PJSWG5DVPJXXE6LFOMNREAIEAAAQCBDHOV5G64TWMJRHGZL4/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_asr_active.webp",
-      "group_title": "AUSIE RULES"
-    },
     {
       "event_time": "06:00PM",
       "event_date": "10/10/25",
@@ -42,26 +23,6 @@
       "duration": null,
       "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
       "group_title": "BADMINTON"
-    },
-    {
-      "event_time": "04:30PM",
-      "event_date": "10/10/25",
-      "channel_name": "HDD A",
-      "event_title": "National Basketball League - Cairns Taipans Vs Perth Wildcats (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQPQ3DINZQG5SHQ4AGGMRDON2CCJTVKWKAKFPCA5JGGZZBIMBCGE5GWERQLVLFAVKEIMIBU6LVMJSXQ3TVMZSXQYLFNMAQEAYCAMEBAGTZOVRHEYDSNVSA/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
-    },
-    {
-      "event_time": "04:30PM",
-      "event_date": "10/10/25",
-      "channel_name": "SD",
-      "event_title": "National Basketball League - Cairns Taipans Vs Perth Wildcats (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQPQ3DINZQG5SHQ4AGGMRDON2CCJTVKWKAKFPCA5JGGZZBIMBCGE5GWERQLVLFAVKEIMIBU6LVMJSXQ3TVMNSXQYLFNMAQEAYCAMEBAGTZOVRHEYDSNVRQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-      "group_title": "BASKETBALL"
     },
     {
       "event_time": "05:00PM",
@@ -153,44 +114,13 @@
       "group_title": "CRICKET"
     },
     {
-      "event_time": "04:30PM",
+      "event_time": "06:30PM",
       "event_date": "10/10/25",
-      "channel_name": "VDO",
-      "event_title": "Indonesian Liga 2 - Pekanbaru United Vs Sriwijaya Fc (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DI5TIKR4EETDSJB4NMETAVSTCMDBAHIQMA3D4MJLGASSOJLFA4SSYLKUKYJUEQYQMNBDUIRZF4ZT2NDQAMIWW33TCEBRGHQ2CABAAY3EOBXXQZDBMJ6WM7TUNEIRQGIUAYBAEA3GM4/index.m3u8",
+      "event_title": "T20 World Cup, Asia-Eap Qualifier, Regional Final - Nepal Vs Japan (10/10/25) [STREAM 32[HD]]",
+      "url": "https://world-proxifier.xyz/rbtv/p/A5TWAZIFFMTTYILSBAYCSHISOJDVSUI5OUJAK4AUE4STSOJDHMXDO5IRMBLFGWK7LZIT65IWFQ6CKOLQNBZAKIBJKBPBGQSDCB5FCIZUHZSXQ3TVMZSXQYLFNMIRQGIUAIAAAADEMVQGK6DOOVRHEYD5PRXA/index.m3u8",
       "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "04:30PM",
-      "event_date": "10/10/25",
-      "channel_name": "SD",
-      "event_title": "Indonesian Liga 2 - Pekanbaru United Vs Sriwijaya Fc (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DI5TIKR4EETDSJB4NMETAVSTCMDBAHIQMA3D4MJLGASSOJLFA4SSYLKUKYJUEQYQMNBDUIRZF4ZT2NDQAMIWW33TCEBRGHQ2CABRA6L7OBYWA7DBMV2GE23POMIQCAYMBADAG/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "04:30PM",
-      "event_date": "10/10/25",
-      "channel_name": "VDO",
-      "event_title": "Indonesian Liga 2 - Persiku Kudus Vs Barito Putera (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DI5TIKR4EETDSJB4NMETAVSTCMDBAHIQMA3COIZMHEYXKGZQGY7DM6KHIEJXMUKCLFCDY5IAGATCCJZRMV4GCZLICEMBSFACAAAAC437PJSWM5TNMRYWW4TFOMNREBIGAIBQKAY/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
-    },
-    {
-      "event_time": "04:30PM",
-      "event_date": "10/10/25",
-      "channel_name": "SD",
-      "event_title": "Indonesian Liga 2 - Persiku Kudus Vs Barito Putera (10/10/25)",
-      "url": "https://world-proxifier.xyz/rbtv/p/DI5TIKR4EETDSJB4NMETAVSTCMDBAHIQMA3COIZMHEYXKGZQGY7DM6KHIEJXMUKCLFCDY5IAGATCCJZRMV4GCZLICEMBSFADCANBU43BMJ6WM4DMNFSXQYLFNIAQUCYCAQ/index.m3u8",
-      "duration": null,
-      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-      "group_title": "FOOTBALL"
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
+      "group_title": "CRICKET"
     },
     {
       "event_time": "06:00PM",
@@ -323,6 +253,36 @@
       "group_title": "TENNIS"
     },
     {
+      "event_time": "06:30PM",
+      "event_date": "10/10/25",
+      "channel_name": "SKA",
+      "event_title": "Atp Shanghai, China Men Singles - Daniil Medvedev Vs Alex De Minaur (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LVKNOV2WK4CB6TMMJGEA3CCI3QGMQWWBBVKRFBGUCVCB6VSPJUEU3XE3T7OB3HEYLPPEBQEAYFCANBUEDCNRUXYYD5M5YG66DLONVQGBQLAQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "06:30PM",
+      "event_date": "10/10/25",
+      "channel_name": "MOVISTAR",
+      "event_title": "Atp Shanghai, China Men Singles - Daniil Medvedev Vs Alex De Minaur (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LVKNOV2WK4CB6TMMJGEA3CCI3QGMQWWBBVKRFBGUCVCB6VSPJUEU3XE3T7OB3HEYLPPEBQEAYFCANBUEDCNRUXYYD5M5YG66DLONVQGBQLAU/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
+      "event_time": "06:30PM",
+      "event_date": "10/10/25",
+      "channel_name": "HDD A",
+      "event_title": "Atp Shanghai, China Men Singles - Daniil Medvedev Vs Alex De Minaur (10/10/25)",
+      "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LVKNOV2WK4CB6TMMJGEA3CCI3QGMQWWBBVKRFBGUCVCB6VSPJUEU3XE3T7OB3HEYLPPEDREGI6CAAQSCLKM5UXO4TOP5YHOZLZONQAQ/index.m3u8",
+      "duration": null,
+      "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+      "group_title": "TENNIS"
+    },
+    {
       "event_time": "03:00PM",
       "event_date": "10/10/25",
       "channel_name": "VDO",
@@ -344,34 +304,6 @@
     }
   ],
   "grouped_events": {
-    "Australia: Afl Women - Western Bulldogs W Vs Essendon Bombers W (10/10/25)": {
-      "event_title": "Australia: Afl Women - Western Bulldogs W Vs Essendon Bombers W (10/10/25)",
-      "event_time": "04:15PM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAAGEIAAUMRSBDINMCB67ISMRNV2VK6CB7HKBZAEEYDAIRLOIETANK5KZOFGQYQM4ICKJTQAAQTOMB6EE6SKZI3LZPVCUKCIMIGO437PJSWG5DVPJXXE7LFOMNREAIEAAAQCBDHOV5G64TWMJRHGZLT/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_asr_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Australia: Afl Women - Western Bulldogs W Vs Essendon Bombers W (10/10/25) [STREAM 6[HD]]": {
-      "event_title": "Australia: Afl Women - Western Bulldogs W Vs Essendon Bombers W (10/10/25) [STREAM 6[HD]]",
-      "event_time": "04:15PM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": null,
-          "url": "https://world-proxifier.xyz/rbtv/p/CIAAGEIAAUMRSBDINMCB67ISMRNV2VK6CB7HKBZAEEYDAIRLOIETANK5KZOFGQYQM4ICKJTQAAQTOMB6EE6SKZI3LZPVCUKCIMIGO437PJSWG5DVPJXXE6LFOMNREAIEAAAQCBDHOV5G64TWMJRHGZL4/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_asr_active.webp",
-          "duration": null
-        }
-      ]
-    },
     "Arctic Open, Mixed Doubles - Goh Soon Huat/Shevon Lai Jemie Vs Puavaranukroh D / Paewsampran S (10/10/25)": {
       "event_title": "Arctic Open, Mixed Doubles - Goh Soon Huat/Shevon Lai Jemie Vs Puavaranukroh D / Paewsampran S (10/10/25)",
       "event_time": "06:00PM",
@@ -396,26 +328,6 @@
           "channel_name": "VDO",
           "url": "https://world-proxifier.xyz/rbtv/p/CITTGMJ3E52R6NJXEVUXS7C3JNIVIEDUL4TDOPBAEFSHQ4AIHMSSE6LSLJLBI7CFD52T26AEH4TWIHJFFM2WWMZKCF2FMWSXCBUVCPJPHAQH2DBAGEVTK2YBGZPVKQ25LZLRAGTZOVQXO4TOP5YHOYT3OR4RWGATAYAAAAYDMZQHA33YMRRWE53EPJ6A/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bmt_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "National Basketball League - Cairns Taipans Vs Perth Wildcats (10/10/25)": {
-      "event_title": "National Basketball League - Cairns Taipans Vs Perth Wildcats (10/10/25)",
-      "event_time": "04:30PM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "HDD A",
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQPQ3DINZQG5SHQ4AGGMRDON2CCJTVKWKAKFPCA5JGGZZBIMBCGE5GWERQLVLFAVKEIMIBU6LVMJSXQ3TVMZSXQYLFNMAQEAYCAMEBAGTZOVRHEYDSNVSA/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/DU2CILB5FI2DYZIQFI3DEVCGKFKVYXAQPQ3DINZQG5SHQ4AGGMRDON2CCJTVKWKAKFPCA5JGGZZBIMBCGE5GWERQLVLFAVKEIMIBU6LVMJSXQ3TVMNSXQYLFNMAQEAYCAMEBAGTZOVRHEYDSNVRQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_bsk_active.webp",
           "duration": null
         }
       ]
@@ -546,42 +458,16 @@
         }
       ]
     },
-    "Indonesian Liga 2 - Pekanbaru United Vs Sriwijaya Fc (10/10/25)": {
-      "event_title": "Indonesian Liga 2 - Pekanbaru United Vs Sriwijaya Fc (10/10/25)",
-      "event_time": "04:30PM",
+    "T20 World Cup, Asia-Eap Qualifier, Regional Final - Nepal Vs Japan (10/10/25) [STREAM 32[HD]]": {
+      "event_title": "T20 World Cup, Asia-Eap Qualifier, Regional Final - Nepal Vs Japan (10/10/25) [STREAM 32[HD]]",
+      "event_time": "06:30PM",
       "event_date": "10/10/25",
       "category": null,
       "channels": [
         {
-          "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/DI5TIKR4EETDSJB4NMETAVSTCMDBAHIQMA3D4MJLGASSOJLFA4SSYLKUKYJUEQYQMNBDUIRZF4ZT2NDQAMIWW33TCEBRGHQ2CABAAY3EOBXXQZDBMJ6WM7TUNEIRQGIUAYBAEA3GM4/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/DI5TIKR4EETDSJB4NMETAVSTCMDBAHIQMA3D4MJLGASSOJLFA4SSYLKUKYJUEQYQMNBDUIRZF4ZT2NDQAMIWW33TCEBRGHQ2CABRA6L7OBYWA7DBMV2GE23POMIQCAYMBADAG/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        }
-      ]
-    },
-    "Indonesian Liga 2 - Persiku Kudus Vs Barito Putera (10/10/25)": {
-      "event_title": "Indonesian Liga 2 - Persiku Kudus Vs Barito Putera (10/10/25)",
-      "event_time": "04:30PM",
-      "event_date": "10/10/25",
-      "category": null,
-      "channels": [
-        {
-          "channel_name": "VDO",
-          "url": "https://world-proxifier.xyz/rbtv/p/DI5TIKR4EETDSJB4NMETAVSTCMDBAHIQMA3COIZMHEYXKGZQGY7DM6KHIEJXMUKCLFCDY5IAGATCCJZRMV4GCZLICEMBSFACAAAAC437PJSWM5TNMRYWW4TFOMNREBIGAIBQKAY/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
-          "duration": null
-        },
-        {
-          "channel_name": "SD",
-          "url": "https://world-proxifier.xyz/rbtv/p/DI5TIKR4EETDSJB4NMETAVSTCMDBAHIQMA3COIZMHEYXKGZQGY7DM6KHIEJXMUKCLFCDY5IAGATCCJZRMV4GCZLICEMBSFADCANBU43BMJ6WM4DMNFSXQYLFNIAQUCYCAQ/index.m3u8",
-          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_ftb_active.webp",
+          "channel_name": null,
+          "url": "https://world-proxifier.xyz/rbtv/p/A5TWAZIFFMTTYILSBAYCSHISOJDVSUI5OUJAK4AUE4STSOJDHMXDO5IRMBLFGWK7LZIT65IWFQ6CKOLQNBZAKIBJKBPBGQSDCB5FCIZUHZSXQ3TVMZSXQYLFNMIRQGIUAIAAAADEMVQGK6DOOVRHEYD5PRXA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_crk_active.webp",
           "duration": null
         }
       ]
@@ -731,6 +617,32 @@
         {
           "channel_name": "MOVISTAR2",
           "url": "https://world-proxifier.xyz/rbtv/p/EMTTKKB3EETXANJTF4QDKEIAAMDAKEAQDVZTQOJJGMVHKIDUOIXSIIARA4JUKVQQLVISONRYMVQWI732MVQWW33TCEAAGBABCANBU43HMB2WC4DEM5SXQYLFN4BQABQDBA/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        }
+      ]
+    },
+    "Atp Shanghai, China Men Singles - Daniil Medvedev Vs Alex De Minaur (10/10/25)": {
+      "event_title": "Atp Shanghai, China Men Singles - Daniil Medvedev Vs Alex De Minaur (10/10/25)",
+      "event_time": "06:30PM",
+      "event_date": "10/10/25",
+      "category": null,
+      "channels": [
+        {
+          "channel_name": "SKA",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LVKNOV2WK4CB6TMMJGEA3CCI3QGMQWWBBVKRFBGUCVCB6VSPJUEU3XE3T7OB3HEYLPPEBQEAYFCANBUEDCNRUXYYD5M5YG66DLONVQGBQLAQ/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "MOVISTAR",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LVKNOV2WK4CB6TMMJGEA3CCI3QGMQWWBBVKRFBGUCVCB6VSPJUEU3XE3T7OB3HEYLPPEBQEAYFCANBUEDCNRUXYYD5M5YG66DLONVQGBQLAU/index.m3u8",
+          "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
+          "duration": null
+        },
+        {
+          "channel_name": "HDD A",
+          "url": "https://world-proxifier.xyz/rbtv/p/CIAQAZIBFQ2D4IR2FIWHKELRLNOV4UIQPU3DW4AWHMVDEPBAEFVWQ6LVKNOV2WK4CB6TMMJGEA3CCI3QGMQWWBBVKRFBGUCVCB6VSPJUEU3XE3T7OB3HEYLPPEDREGI6CAAQSCLKM5UXO4TOP5YHOZLZONQAQ/index.m3u8",
           "logo": "https://corsproxy.io/?url=https://statics2.mfctai51.xyz/img/webp/icon_st_tns_active.webp",
           "duration": null
         }
