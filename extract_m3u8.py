@@ -1,18 +1,48 @@
 import requests
 import json
 import re
+import os
 from datetime import datetime
+
+# Set to True to save HTML for debugging
+DEBUG_MODE = os.environ.get('DEBUG_MODE', 'false').lower() == 'true'
 
 def extract_m3u8_from_channel(channel_url):
     """Extract m3u8 URL from channel page"""
     try:
+        # Create a session to maintain cookies
+        session = requests.Session()
+        
+        # First, visit the main page to establish session
+        session.get('https://topembed.pw/', timeout=10)
+        
+        # Now visit the channel page with proper referer chain
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-            'Referer': 'https://topembed.pw/'
+            'Referer': 'https://topembed.pw/',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+            'Accept-Language': 'en-US,en;q=0.5',
+            'Accept-Encoding': 'gzip, deflate, br',
+            'DNT': '1',
+            'Connection': 'keep-alive',
+            'Upgrade-Insecure-Requests': '1',
+            'Sec-Fetch-Dest': 'iframe',
+            'Sec-Fetch-Mode': 'navigate',
+            'Sec-Fetch-Site': 'same-origin'
         }
         
-        response = requests.get(channel_url, headers=headers, timeout=15)
+        response = session.get(channel_url, headers=headers, timeout=15, allow_redirects=True)
         content = response.text
+        
+        # Debug: Save HTML content if DEBUG_MODE is enabled
+        if DEBUG_MODE:
+            debug_dir = 'debug_html'
+            os.makedirs(debug_dir, exist_ok=True)
+            channel_name = channel_url.split('/')[-1]
+            debug_file = os.path.join(debug_dir, f'{channel_name}.html')
+            with open(debug_file, 'w', encoding='utf-8') as f:
+                f.write(content)
+            print(f"    [DEBUG] Saved HTML to {debug_file}")
         
         # Multiple patterns to find m3u8 URLs
         m3u8_patterns = [
@@ -22,26 +52,54 @@ def extract_m3u8_from_channel(channel_url):
             r'src\s*:\s*["\'](https?://[^"\']*\.m3u8[^"\']*)["\']',
             r'hlsUrl\s*:\s*["\'](https?://[^"\']*\.m3u8[^"\']*)["\']',
             r'stream\s*:\s*["\'](https?://[^"\']*\.m3u8[^"\']*)["\']',
+            r'playlist\s*:\s*["\'](https?://[^"\']*\.m3u8[^"\']*)["\']',
         ]
         
         for pattern in m3u8_patterns:
             matches = re.findall(pattern, content, re.IGNORECASE)
             if matches:
-                # Return the first valid m3u8 URL found
-                return matches[0]
+                # Clean up the URL (remove escape characters)
+                m3u8_url = matches[0].replace('\\/', '/')
+                return m3u8_url
         
         # Also check for iframe that might contain the m3u8
         iframe_pattern = r'<iframe[^>]*src=["\'](https?://[^"\']+)["\']'
         iframe_matches = re.findall(iframe_pattern, content, re.IGNORECASE)
         if iframe_matches:
-            # Try to extract m3u8 from the first iframe
-            for iframe_url in iframe_matches[:2]:  # Check first 2 iframes
+            # Try to extract m3u8 from the first few iframes
+            for iframe_url in iframe_matches[:3]:  # Check first 3 iframes
+                if 'topembed.pw' in iframe_url or 'embed' in iframe_url.lower():
+                    try:
+                        # Set referer to the channel page for the iframe request
+                        iframe_headers = headers.copy()
+                        iframe_headers['Referer'] = channel_url
+                        
+                        iframe_response = session.get(iframe_url, headers=iframe_headers, timeout=10)
+                        for pattern in m3u8_patterns:
+                            matches = re.findall(pattern, iframe_response.text, re.IGNORECASE)
+                            if matches:
+                                m3u8_url = matches[0].replace('\\/', '/')
+                                return m3u8_url
+                    except Exception as e:
+                        print(f"    Error checking iframe {iframe_url}: {e}")
+                        continue
+        
+        # Check for Base64 encoded streams
+        base64_patterns = [
+            r'atob\(["\']([A-Za-z0-9+/=]+)["\']\)',
+            r'decode\(["\']([A-Za-z0-9+/=]+)["\']\)',
+        ]
+        
+        for pattern in base64_patterns:
+            matches = re.findall(pattern, content)
+            if matches:
                 try:
-                    iframe_response = requests.get(iframe_url, headers=headers, timeout=10)
-                    for pattern in m3u8_patterns:
-                        matches = re.findall(pattern, iframe_response.text, re.IGNORECASE)
-                        if matches:
-                            return matches[0]
+                    import base64
+                    decoded = base64.b64decode(matches[0]).decode('utf-8', errors='ignore')
+                    for m3u8_pattern in m3u8_patterns:
+                        m3u8_matches = re.findall(m3u8_pattern, decoded, re.IGNORECASE)
+                        if m3u8_matches:
+                            return m3u8_matches[0].replace('\\/', '/')
                 except:
                     continue
         
